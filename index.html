@@ -688,7 +688,7 @@
     function handleSearch(e) {
       e.preventDefault();
       const input = document.getElementById("wordInput");
-      const query = input.value.trim().toLowerCase();
+      const query = input.value.trim().toLowerCase().replace(/\s+/g, " ");
 
       if (!query) {
         showAlert("탐험할 단어를 입력해 주세요! (예: transport, visible)");
@@ -749,7 +749,7 @@
     // 미리 만든 수능 단어 사전(data/words/<단어>.json). 있으면 AI를 부르지 않고 바로 보여 줌.
     async function fetchFromDictionary(word) {
       try {
-        const res = await fetch("data/words/" + encodeURIComponent(word) + ".json");
+        const res = await fetch("data/words/" + encodeURIComponent(word.replace(/ /g, "_")) + ".json");  // 숙어는 빈칸을 _로 (sign up for → sign_up_for.json)
         if (!res.ok) return null;
         const data = await res.json();
         return data && data.word && Array.isArray(data.morphemes) ? data : null;
@@ -795,6 +795,9 @@
         story: `어느 날 숲속 도서관에서 다람쥐가 오래된 사전을 펼쳤어요. 신비로운 ${word}(단어)가 반짝이며 나타났죠. 다람쥐는 친구들에게 신나서 이 단어를 알려주며 함께 웃음꽃을 피웠답니다.`
       };
     }
+
+    // 이야기 속 english(뜻). 숙어처럼 띄어 쓴 표현(run out of(다 떨어지다))도 한 덩어리로 잡음
+    const STORY_TERM = /([a-zA-Z][a-zA-Z\-']*(?: [a-zA-Z][a-zA-Z\-']*)*)\(([^)]+)\)/g;
 
     function renderResults(data) {
       // Section A: Word Head
@@ -892,7 +895,7 @@
       
       const rawStory = data.story || "";
       // Format words matching "word(meaning)" to be styled badges
-      const formattedStory = rawStory.replace(/([a-zA-Z\-]+)\(([^)]+)\)/g, (match, eng, kor) => {
+      const formattedStory = rawStory.replace(STORY_TERM, (match, eng, kor) => {
         return `<span class="inline-flex items-center px-1.5 py-0.5 mx-0.5 rounded-lg bg-rose-100 text-rose-800 font-bold border border-rose-200 text-xs sm:text-sm font-en">${eng}<span class="text-rose-600 font-sans font-normal ml-0.5 text-[11px]">(${kor})</span></span>`;
       });
       document.getElementById("storyContent").innerHTML = formattedStory;
@@ -901,7 +904,7 @@
       // Extract and display used words tag pills
       const wordTagsContainer = document.getElementById("storyWordsTags");
       wordTagsContainer.innerHTML = "";
-      const matches = [...rawStory.matchAll(/([a-zA-Z\-]+)\(([^)]+)\)/g)];
+      const matches = [...rawStory.matchAll(STORY_TERM)];
 
       if (matches.length > 0) {
         matches.forEach((m, i) => {
