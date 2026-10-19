@@ -1,0 +1,54 @@
+{
+ "word": "trial",
+ "pos": "명사",
+ "phonetic": "[ˈtraɪəl]",
+ "meaning": "재판, 시험, 시도, 시련",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tri (← try)",
+   "meaning": "시험하다, 가려내다 (try, test)",
+   "note": "앵글로프랑스어 trier(시험하다)에서 온 try와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작을 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>try</strong> (시험하다) + <strong>-al</strong> (~하는 것) = 시험해 보는 것, 즉 <strong>'시도, 재판'</strong>이 되었어요.",
+ "historyTitle": "법정에서 진실을 가려내는 일",
+ "historyBody": "trial은 앵글로프랑스어 'trial'에서 왔고, 이는 'trier(시험하다, 가려내다)'라는 동사에서 나왔어요. 중세 영국 법정은 프랑스어를 썼기 때문에 '재판'이라는 뜻이 먼저 자리 잡았어요. trier의 더 먼 기원은 확실하지 않아요(라틴어 tritare '비비다·빻다'에서 왔다는 설이 있어요).",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "try",
+   "pos": "동사 / 명사",
+   "meaning": "시도하다, 재판하다 / 시도",
+   "en": "Why don't you try the new bakery near school?",
+   "ko": "학교 근처 새 빵집에 한번 가 보는 건 어때?"
+  },
+  {
+   "word": "tryout",
+   "pos": "명사",
+   "meaning": "선발 테스트, 오디션",
+   "en": "She practiced every day for the basketball tryout.",
+   "ko": "그녀는 농구팀 선발 테스트를 위해 매일 연습했어요."
+  },
+  {
+   "word": "retry",
+   "pos": "동사",
+   "meaning": "다시 시도하다, 재심하다",
+   "en": "The app crashed, so I had to retry the download.",
+   "ko": "앱이 멈춰서 다운로드를 다시 시도해야 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 판사와 배심원 앞에서 열리는 법정 재판",
+ "imageCaption": "법정에서 판사가 망치를 두드리는 장면, 그리고 새 약을 시험해 보는 실험실을 함께 떠올려 보세요.",
+ "movieLineEn": "This isn't a trial. It's a circus!",
+ "movieLineKo": "이건 재판이 아니야. 서커스라고!",
+ "storyTitle": "과자 도둑 재판",
+ "story": "냉장고 푸딩이 사라져 가족 trial(재판)이 열렸어요. 아빠는 무죄를 증명하려고 몇 번이나 try(시도하다)했죠. 동생은 거짓말 탐지 tryout(테스트)을 제안했어요. 결국 retry(재심)까지 갔는데, 범인은 몽유병으로 밤에 푸딩을 먹은 판사, 바로 엄마였답니다!"
+}

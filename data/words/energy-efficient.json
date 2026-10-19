@@ -1,0 +1,68 @@
+{
+ "word": "energy-efficient",
+ "pos": "형용사",
+ "phonetic": "[ˈenərdʒi ɪˈfɪʃnt]",
+ "meaning": "에너지 효율이 높은, 에너지가 절약되는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "energy",
+   "meaning": "에너지, 힘 (energy)",
+   "note": "그리스어 energeia(활동, 작용)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "efficient",
+   "meaning": "효율적인 (efficient)",
+   "note": "라틴어 efficere(이루어 내다, ex- 밖으로 + facere 만들다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>energy</strong> (에너지) + <strong>efficient</strong> (효율적인) = '에너지를 적게 쓰고도 일을 잘 해내는'이라는 뜻에서 <strong>'에너지 효율이 높은'</strong>이 되었어요.",
+ "historyTitle": "일(ergon)과 만들기(facere)의 만남",
+ "historyBody": "energy는 그리스어 en(안에) + ergon(일)이 합쳐진 energeia에서 왔어요. efficient는 라틴어 ex(밖으로) + facere(만들다)에서 온 efficere, 즉 '결과를 만들어 내다'가 뿌리예요. 두 단어를 하이픈으로 이은 이 복합어는 20세기 환경·에너지 문제가 커지면서 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "energy",
+   "pos": "명사",
+   "meaning": "에너지, 힘",
+   "en": "Solar panels turn sunlight into energy for our home.",
+   "ko": "태양광 패널은 햇빛을 우리 집에 쓸 에너지로 바꿔요."
+  },
+  {
+   "word": "energetic",
+   "pos": "형용사",
+   "meaning": "활기찬, 정력적인",
+   "en": "Our new coach is energetic and always smiling.",
+   "ko": "새로 오신 코치님은 활기차고 늘 웃으세요."
+  },
+  {
+   "word": "efficient",
+   "pos": "형용사",
+   "meaning": "효율적인",
+   "en": "Taking the subway is an efficient way to get downtown.",
+   "ko": "지하철을 타는 것은 시내로 가는 효율적인 방법이에요."
+  },
+  {
+   "word": "efficiency",
+   "pos": "명사",
+   "meaning": "효율, 능률",
+   "en": "The new machine doubled the factory's efficiency.",
+   "ko": "새 기계 덕분에 공장의 효율이 두 배가 되었어요."
+  },
+  {
+   "word": "inefficient",
+   "pos": "형용사",
+   "meaning": "비효율적인",
+   "en": "Old light bulbs are inefficient and waste electricity.",
+   "ko": "오래된 전구는 비효율적이라 전기를 낭비해요."
+  }
+ ],
+ "imageSense": "대표 의미: 전기를 적게 쓰는 LED 전구와 1등급 냉장고",
+ "imageCaption": "가전제품에 붙은 '에너지 소비효율 1등급' 스티커를 떠올려 보세요. 적게 쓰고 잘 일하는 것, 그게 energy-efficient예요.",
+ "movieLineEn": "Don't worry, this spaceship is totally energy-efficient!",
+ "movieLineKo": "걱정 마, 이 우주선은 완전 에너지 효율이 높다고!",
+ "storyTitle": "절약왕 아빠의 발명품",
+ "story": "아빠는 energy-efficient(에너지 효율이 높은) 집을 만들겠다며 energetic(활기찬)하게 공사를 시작했어요. inefficient(비효율적인) 전구를 다 빼고, efficient(효율적인) 태양광 패널을 달았죠. 전기 energy(에너지)는 확 줄었어요. 그런데 엄마가 말했어요. \"여보, 대신 공사비가 10년 치 전기 요금이네요.\""
+}

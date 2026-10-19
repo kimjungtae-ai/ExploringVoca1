@@ -1,0 +1,61 @@
+{
+ "word": "enhance",
+ "pos": "동사",
+ "phonetic": "[ɪnˈhæns]",
+ "meaning": "향상시키다, 높이다, 강화하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~하게 만들다 (make, in)",
+   "note": "라틴어 in-이 프랑스어를 거치며 en-이 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hance (alt)",
+   "meaning": "높은 (high)",
+   "note": "라틴어 altus(높은)가 고대 프랑스어 haucier(높이다)로 변한 부분이에요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (만들다) + <strong>hance</strong> (높은) = '더 높게 만들다'라는 뜻에서 <strong>'향상시키다, 강화하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 altus가 프랑스어 haut로",
+ "historyBody": "enhance는 고대 프랑스어 enhaucier(높이다)에서 왔는데, 그 뿌리는 라틴어 in(~하게) + altus(높은)예요. 프랑스어에서 '높은'이 haut로 변하면서 h 소리가 끼어들었어요. 그래서 altitude(고도)와 enhance는 먼 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "enhancement",
+   "pos": "명사",
+   "meaning": "향상, 강화",
+   "en": "Regular exercise leads to the enhancement of memory.",
+   "ko": "규칙적인 운동은 기억력 향상으로 이어져요."
+  },
+  {
+   "word": "enhanced",
+   "pos": "형용사",
+   "meaning": "향상된, 강화된",
+   "en": "The game has enhanced graphics this year.",
+   "ko": "올해 그 게임은 그래픽이 향상되었어요."
+  },
+  {
+   "word": "altitude",
+   "pos": "명사",
+   "meaning": "고도, 높이",
+   "en": "The plane is flying at a high altitude above the clouds.",
+   "ko": "비행기가 구름 위 높은 고도로 날고 있어요."
+  },
+  {
+   "word": "exalt",
+   "pos": "동사",
+   "meaning": "높이다, 찬양하다",
+   "en": "The old poem exalts the beauty of nature.",
+   "ko": "그 옛 시는 자연의 아름다움을 찬양해요."
+  }
+ ],
+ "imageSense": "대표 의미: 흐릿한 사진이 선명하고 밝게 보정되는 장면",
+ "imageCaption": "사진 앱의 '선명하게' 버튼을 누르면 화질이 확 높아지죠. 그렇게 '한 단계 높이는' 것이 enhance예요.",
+ "movieLineEn": "Zoom in on the screen... now enhance the image!",
+ "movieLineKo": "화면을 확대해... 이제 이미지를 선명하게 보정해!",
+ "storyTitle": "드론 사진 보정 소동",
+ "story": "민수는 높은 altitude(고도)에서 드론으로 학교 사진을 찍었어요. 그리고 앱으로 화질을 enhance(향상시키다)했죠. enhanced(향상된) 사진은 너무 선명했어요. 친구들은 사진의 enhancement(향상)에 감탄하며 민수를 exalt(찬양하다)했죠. 그런데 확대해 보니 옥상에서 몰래 라면 먹는 교감 선생님이 찍혀 있었어요!"
+}

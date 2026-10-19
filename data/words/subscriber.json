@@ -1,0 +1,81 @@
+{
+ "word": "subscriber",
+ "pos": "명사",
+ "phonetic": "[səbˈskraɪbər]",
+ "meaning": "구독자, 가입자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sub-",
+   "meaning": "아래에 (under)",
+   "note": "문서의 맨 아래를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "scrib",
+   "meaning": "쓰다 (write)",
+   "note": "라틴어 scribere(쓰다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "행동하는 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>sub-</strong> (아래에) + <strong>scrib</strong> (쓰다) + <strong>-er</strong> (사람) = '문서 아래에 이름을 쓰는 사람'에서 <strong>'구독자, 가입자'</strong>가 되었어요.",
+ "historyTitle": "서류 맨 아래의 서명",
+ "historyBody": "라틴어 subscribere는 '문서 아래에 이름을 쓰다', 즉 서명하다라는 뜻이었어요. 옛날에는 책 출판이나 모금에 서명으로 돈을 내겠다고 약속하는 사람을 subscriber라고 했죠. 그것이 오늘날 신문, 잡지, 유튜브 채널의 '구독자'로 이어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "subscribe",
+   "pos": "동사",
+   "meaning": "구독하다, 가입하다",
+   "en": "I subscribe to a science magazine.",
+   "ko": "나는 과학 잡지를 구독해요."
+  },
+  {
+   "word": "describe",
+   "pos": "동사",
+   "meaning": "묘사하다, 설명하다",
+   "en": "Can you describe the man you saw?",
+   "ko": "당신이 본 남자를 묘사해 줄 수 있나요?"
+  },
+  {
+   "word": "prescribe",
+   "pos": "동사",
+   "meaning": "처방하다, 규정하다",
+   "en": "The doctor prescribed some medicine for my cold.",
+   "ko": "의사가 내 감기에 약을 처방해 주었어요."
+  },
+  {
+   "word": "script",
+   "pos": "명사",
+   "meaning": "대본, 원고",
+   "en": "The actors practiced the script all day.",
+   "ko": "배우들은 하루 종일 대본을 연습했어요."
+  },
+  {
+   "word": "manuscript",
+   "pos": "명사",
+   "meaning": "원고, 필사본",
+   "en": "The writer sent her manuscript to a publisher.",
+   "ko": "작가는 출판사에 원고를 보냈어요."
+  },
+  {
+   "word": "inscription",
+   "pos": "명사",
+   "meaning": "새겨진 글, 비문",
+   "en": "The old stone had a Latin inscription.",
+   "ko": "그 오래된 돌에는 라틴어 글귀가 새겨져 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 유튜브 채널의 구독 버튼을 누르는 사람",
+ "imageCaption": "빨간 '구독' 버튼을 누르자 구독자 수가 1 올라가는 화면을 떠올려 보세요. 옛날로 치면 서류에 서명한 거예요.",
+ "movieLineEn": "We just hit one million subscribers! Thank you, everyone!",
+ "movieLineKo": "방금 구독자 백만 명을 달성했어요! 모두 감사합니다!",
+ "storyTitle": "단 한 명의 구독자",
+ "story": "고양이 집사 민지는 채널에 고양이를 describe(묘사하다)하는 영상을 올렸어요. script(대본)까지 써 가며 열심히 했지만 subscriber(구독자)는 딱 한 명이었죠. 그 한 명이 누군지 궁금해 확인해 보니, 민지 고양이가 키보드를 밟다가 subscribe(구독하다)를 눌러 버린 거였답니다!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "lightweight",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈlaɪtweɪt]",
+ "meaning": "가벼운, 경량의 / 경량급 선수",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "light",
+   "meaning": "가벼운 (not heavy)",
+   "note": "고대 영어 leoht(무겁지 않은)에서 왔어요. '빛'의 light와는 다른 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "weight",
+   "meaning": "무게 (weight)",
+   "note": "고대 영어 wiht(무게)에서 왔고, weigh(무게를 달다)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>light</strong> (가벼운) + <strong>weight</strong> (무게) = '무게가 가벼운'이라는 뜻에서 <strong>'경량의'</strong>가 되었어요.",
+ "historyTitle": "권투 체급에서 시작된 단어",
+ "historyBody": "lightweight는 원래 18세기 무렵 경마와 권투에서 '가벼운 체급'을 부르던 말이었어요. light는 '무겁지 않은'이라는 고대 영어 단어이고, weight는 weigh(무게를 달다)에서 나온 말이에요. 지금은 노트북이나 옷처럼 '가벼운 물건'에 두루 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "weight",
+   "pos": "명사",
+   "meaning": "무게, 체중",
+   "en": "The weight of the box surprised the delivery man.",
+   "ko": "상자의 무게에 택배 기사님이 놀랐어요."
+  },
+  {
+   "word": "weigh",
+   "pos": "동사",
+   "meaning": "무게가 ~이다, 무게를 달다",
+   "en": "My cat weighs about five kilograms.",
+   "ko": "우리 고양이는 몸무게가 5킬로그램쯤 돼요."
+  },
+  {
+   "word": "overweight",
+   "pos": "형용사",
+   "meaning": "과체중의, 중량 초과의",
+   "en": "Your suitcase is overweight, so you must pay extra.",
+   "ko": "가방이 중량 초과라서 추가 요금을 내셔야 해요."
+  },
+  {
+   "word": "lighten",
+   "pos": "동사",
+   "meaning": "가볍게 하다",
+   "en": "Sharing your worries can lighten your heart.",
+   "ko": "걱정을 나누면 마음이 가벼워질 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손가락 하나로 들 수 있는 얇은 노트북",
+ "imageCaption": "깃털처럼 가벼운 물건을 손끝으로 들어 올리는 모습을 떠올리세요. 그게 lightweight예요.",
+ "movieLineEn": "Don't let his size fool you. That lightweight can really fight!",
+ "movieLineKo": "덩치에 속지 마. 저 경량급 선수 진짜 잘 싸워!",
+ "storyTitle": "초경량 가방의 함정",
+ "story": "새 학기에 lightweight(가벼운) 가방을 샀어요. 가방 weight(무게)가 겨우 300g! 가방을 weigh(무게를 달다)해 보고 감탄했죠. 그런데 교과서를 넣자 가방이 overweight(중량 초과의) 상태가 되며 찢어졌어요. 결국 짐을 lighten(가볍게 하다)하려고 교과서를 사물함에 두고 다녔어요. 덕분에 숙제도 못 했지만요."
+}

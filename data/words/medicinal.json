@@ -1,0 +1,67 @@
+{
+ "word": "medicinal",
+ "pos": "형용사",
+ "phonetic": "[məˈdɪsɪnl]",
+ "meaning": "약용의, 약효가 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "medic",
+   "meaning": "치료하다 (heal)",
+   "note": "라틴어 medicus(의사), mederi(치료하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ine",
+   "meaning": "~에 관한 것 (명사형)",
+   "note": "medicina(의술, 약)를 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~에 관한 (형용사형)",
+   "note": "명사를 형용사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>medic</strong> (치료하다) + <strong>-ine</strong> (것) + <strong>-al</strong> (~의) = '약에 관한, 치료하는'이라는 뜻에서 <strong>'약용의'</strong>가 되었어요.",
+ "historyTitle": "약초를 기르던 수도원의 정원",
+ "historyBody": "라틴어 medicina(의술, 약)는 medicus(의사)에서 왔고, 여기에 형용사 꼬리가 붙어 medicinalis(약의)가 되었어요. 중세 유럽 수도원에서는 정원에 medicinal herbs(약초)를 길러 아픈 사람들을 치료했답니다. 영어에는 14세기쯤 들어왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "medicine",
+   "pos": "명사",
+   "meaning": "약, 의학",
+   "en": "Modern medicine has helped people live longer.",
+   "ko": "현대 의학은 사람들이 더 오래 살도록 도와줬어요."
+  },
+  {
+   "word": "medical",
+   "pos": "형용사",
+   "meaning": "의학의, 의료의",
+   "en": "He needs medical help right away.",
+   "ko": "그는 당장 의료 도움이 필요해요."
+  },
+  {
+   "word": "medication",
+   "pos": "명사",
+   "meaning": "약, 약물",
+   "en": "Some medications can make you sleepy.",
+   "ko": "어떤 약은 졸리게 만들 수 있어요."
+  },
+  {
+   "word": "remedy",
+   "pos": "명사",
+   "meaning": "치료법, 해결책",
+   "en": "There is no simple remedy for loneliness.",
+   "ko": "외로움에는 간단한 해결책이 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 할머니가 말린 약초를 달여 차를 끓이는 장면",
+ "imageCaption": "쑥, 생강, 인삼처럼 '약이 되는' 풀을 떠올리세요. 그게 medicinal이에요.",
+ "movieLineEn": "These leaves have medicinal powers. Chew them and you'll feel better.",
+ "movieLineKo": "이 잎에는 약효가 있어. 씹으면 나아질 거야.",
+ "storyTitle": "약초 탐험대",
+ "story": "생물 동아리는 산에서 medicinal(약효가 있는) 식물을 찾기로 했어요. 선배는 \"이건 medicine(약)보다 좋은 remedy(치료법)야!\"라며 풀을 뜯었죠. 우리는 medical(의학의) 백과사전과 비교하며 감탄했어요. 그런데 그 풀을 먹은 선배가 배탈이 났어요. 결국 선배는 병원 medication(약)을 먹고서야 나았답니다."
+}

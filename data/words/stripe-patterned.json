@@ -1,0 +1,67 @@
+{
+ "word": "stripe-patterned",
+ "pos": "형용사",
+ "phonetic": "[ˈstraɪp pætərnd]",
+ "meaning": "줄무늬 패턴의, 줄무늬가 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stripe",
+   "meaning": "줄무늬 (stripe)",
+   "note": "중세 네덜란드어·저지 독일어 stripe(줄, 띠)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pattern",
+   "meaning": "무늬, 본보기 (pattern)",
+   "note": "고대 프랑스어 patron(본보기)에서 왔고, patron(후원자)과 형제 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~을 가진 (형용사를 만듦)",
+   "note": "명사 뒤에 붙어 '~이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>stripe</strong> (줄무늬) + <strong>pattern</strong> (무늬) + <strong>-ed</strong> (~이 있는) = <strong>'줄무늬 패턴의'</strong>예요.",
+ "historyTitle": "본보기가 된 후원자",
+ "historyBody": "stripe는 15세기 무렵 네덜란드·북독일 직물 상인들의 말 stripe(줄, 띠)에서 들어왔다고 보여요. pattern은 고대 프랑스어 patron(본보기, 후원자)에서 왔는데, 따라 해야 할 '모범'이라는 뜻에서 '무늬, 패턴'이 되었죠. 그래서 pattern과 patron은 원래 같은 단어였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stripe",
+   "pos": "명사",
+   "meaning": "줄무늬",
+   "en": "The flag has red and white stripes.",
+   "ko": "그 깃발에는 빨간색과 흰색 줄무늬가 있어요."
+  },
+  {
+   "word": "striped",
+   "pos": "형용사",
+   "meaning": "줄무늬가 있는",
+   "en": "He wore a striped shirt to the party.",
+   "ko": "그는 파티에 줄무늬 셔츠를 입고 갔어요."
+  },
+  {
+   "word": "pattern",
+   "pos": "명사",
+   "meaning": "무늬, 양식, 패턴",
+   "en": "Scientists study the pattern of bird migration.",
+   "ko": "과학자들은 새의 이동 패턴을 연구해요."
+  },
+  {
+   "word": "patron",
+   "pos": "명사",
+   "meaning": "후원자, 단골손님",
+   "en": "The museum thanked its patrons for their support.",
+   "ko": "박물관은 후원자들의 지원에 감사를 표했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가로 줄무늬가 반복되는 바다 느낌의 티셔츠",
+ "imageCaption": "파란색과 흰색 줄이 번갈아 이어지는 마린룩 티셔츠를 떠올려 보세요.",
+ "movieLineEn": "Find the man in the stripe-patterned jacket. He has the key.",
+ "movieLineKo": "줄무늬 재킷 입은 남자를 찾아. 그가 열쇠를 갖고 있어.",
+ "storyTitle": "줄무늬 커플룩",
+ "story": "나는 stripe-patterned(줄무늬 패턴의) 티셔츠를 입고 학교에 갔어요. 그런데 짝꿍도 같은 stripe(줄무늬) 셔츠를 입고 왔죠! 선생님도, 교장 선생님도 striped(줄무늬가 있는) 옷이었어요. 알고 보니 그날은 학교 단골 patron(후원자)인 옷 가게가 '줄무늬 데이' pattern(패턴) 행사를 연 날이었답니다."
+}

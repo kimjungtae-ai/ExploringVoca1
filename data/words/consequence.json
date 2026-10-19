@@ -1,0 +1,74 @@
+{
+ "word": "consequence",
+ "pos": "명사",
+ "phonetic": "[ˈkɑːnsəkwens]",
+ "meaning": "결과, 영향, 중요성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "함께 따라온다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sequ",
+   "meaning": "따라가다 (follow)",
+   "note": "라틴어 sequi(따르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 것 (명사)",
+   "note": "상태나 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>sequ</strong> (따라오다) + <strong>-ence</strong> (~것) = '행동에 함께 따라오는 것'에서 <strong>'결과'</strong>가 되었어요.",
+ "historyTitle": "원인을 졸졸 따라오는 것",
+ "historyBody": "consequence는 라틴어 consequentia(뒤따르는 것, 결과)에서 왔고, con(함께)과 sequi(따르다)가 합쳐진 말이에요. 어떤 행동을 하면 그 뒤를 졸졸 따라오는 것이 바로 결과죠. sequence(순서), sequel(속편)도 같은 sequi 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sequence",
+   "pos": "명사",
+   "meaning": "순서, 연속",
+   "en": "Put the pictures in the correct sequence.",
+   "ko": "그림들을 올바른 순서로 놓으세요."
+  },
+  {
+   "word": "consequently",
+   "pos": "부사",
+   "meaning": "그 결과, 따라서",
+   "en": "He missed the bus and consequently was late.",
+   "ko": "그는 버스를 놓쳤고 그 결과 지각했어요."
+  },
+  {
+   "word": "subsequent",
+   "pos": "형용사",
+   "meaning": "그다음의, 이후의",
+   "en": "Subsequent studies supported the first result.",
+   "ko": "이후의 연구들이 첫 번째 결과를 뒷받침했어요."
+  },
+  {
+   "word": "consecutive",
+   "pos": "형용사",
+   "meaning": "연속적인",
+   "en": "It rained for five consecutive days.",
+   "ko": "5일 연속으로 비가 왔어요."
+  },
+  {
+   "word": "sequel",
+   "pos": "명사",
+   "meaning": "속편",
+   "en": "The sequel was even better than the first movie.",
+   "ko": "속편은 첫 번째 영화보다 훨씬 더 좋았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도미노가 줄줄이 넘어지며 이어지는 결과",
+ "imageCaption": "내가 한 행동 뒤로 그림자처럼 졸졸 따라오는 결과를 떠올려 보세요.",
+ "movieLineEn": "Every choice has a consequence. Remember that.",
+ "movieLineKo": "모든 선택엔 결과가 따라. 그걸 기억해.",
+ "storyTitle": "다섯 번 연속 늦잠",
+ "story": "태호는 5일 consecutive(연속적인)로 늦잠을 잤어요. 그 consequence(결과)로 벌 청소를 하게 됐죠. consequently(그 결과) 청소 실력이 일취월장했어요. subsequent(이후의) 대회에서 태호는 '교내 청소왕'에 뽑혔어요. 지금은 sequel(속편)을 노리고 또 늦잠을 잔대요!"
+}

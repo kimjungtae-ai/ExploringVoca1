@@ -1,0 +1,54 @@
+{
+ "word": "official",
+ "pos": "형용사 / 명사",
+ "phonetic": "[əˈfɪʃl]",
+ "meaning": "공식적인, 공무상의 / 공무원, 관리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "office",
+   "meaning": "직무, 사무소 (duty, office)",
+   "note": "라틴어 officium(의무, 직무)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의, ~와 관련된 (형용사)",
+   "note": "'~에 관한'이라는 뜻의 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>office</strong> (직무) + <strong>-ial</strong> (~의) = 직무에 관한 것이라서 <strong>'공식적인, 공무원'</strong>이 되었어요.",
+ "historyTitle": "로마의 '일하기(opus)'에서 온 말",
+ "historyBody": "라틴어 officium(의무, 직무)은 opus(일)와 facere(하다)가 합쳐진 말로 여겨져요. 여기서 나온 officialis가 고대 프랑스어를 거쳐 14세기 영어로 들어왔어요. 처음엔 '직무를 수행하는 사람'이라는 명사였다가, 나중에 '공식적인'이라는 형용사로도 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "office",
+   "pos": "명사",
+   "meaning": "사무실, 직무",
+   "en": "My mom's office is near the subway station.",
+   "ko": "엄마의 사무실은 지하철역 근처에 있어요."
+  },
+  {
+   "word": "officer",
+   "pos": "명사",
+   "meaning": "장교, 경찰관, 임원",
+   "en": "A police officer helped the lost child.",
+   "ko": "경찰관이 길 잃은 아이를 도와주었어요."
+  },
+  {
+   "word": "officially",
+   "pos": "부사",
+   "meaning": "공식적으로",
+   "en": "The new library will officially open next month.",
+   "ko": "새 도서관은 다음 달에 공식적으로 문을 열어요."
+  }
+ ],
+ "imageSense": "대표 의미: 정장을 입은 공무원이 도장을 꽝 찍는 장면",
+ "imageCaption": "관공서 창구에서 직원이 서류에 공식 도장을 찍어 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "It's official. We're going to the finals!",
+ "movieLineKo": "공식 발표야. 우리 결승 간다!",
+ "storyTitle": "공식 인증 낮잠왕",
+ "story": "강아지 초코가 동네 office(사무실)에 들어가 소파에서 잠들었어요. 깜짝 놀란 officer(경찰관)가 출동했지만 초코는 꿈쩍도 안 했죠. 결국 구청 official(공무원)이 와서 초코를 officially(공식적으로) '동네 낮잠 대사'로 임명했어요. 첫 임무는? 계속 자는 거래요!"
+}

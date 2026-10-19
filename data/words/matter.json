@@ -1,0 +1,55 @@
+{
+ "word": "matter",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈmætər]",
+ "meaning": "문제, 일, 물질 / 중요하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "matter (materia)",
+   "meaning": "재료, 물질 (substance)",
+   "note": "라틴어 materia(재료, 목재)에서 고대 프랑스어 matere를 거쳐 왔어요. 더 쪼개기는 어려워요."
+  }
+ ],
+ "summary": "<strong>matter</strong>는 라틴어 <strong>materia</strong>(재료)에서 온 말로, '무언가를 이루는 재료'에서 <strong>'물질, 문제'</strong>, 그리고 '알맹이가 있다'는 뜻의 <strong>'중요하다'</strong>가 되었어요.",
+ "historyTitle": "목재에서 '문제'까지",
+ "historyBody": "라틴어 materia는 '무언가를 만드는 재료', 특히 '단단한 목재'를 뜻했어요. 이것이 '물질'이 되고, 나아가 '이야기나 생각의 재료', 즉 '일, 문제'가 되었죠. materia를 mater(어머니, 근원)와 연결하는 설이 널리 알려져 있지만, 확실하지 않다는 학자들도 있어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "material",
+   "pos": "명사 / 형용사",
+   "meaning": "재료, 자료 / 물질적인",
+   "en": "Wood is a common material for furniture.",
+   "ko": "나무는 가구의 흔한 재료예요."
+  },
+  {
+   "word": "materialistic",
+   "pos": "형용사",
+   "meaning": "물질만능주의의",
+   "en": "Some people think modern society is too materialistic.",
+   "ko": "어떤 사람들은 현대 사회가 지나치게 물질만능주의적이라고 생각해요."
+  },
+  {
+   "word": "immaterial",
+   "pos": "형용사",
+   "meaning": "중요하지 않은, 실체가 없는",
+   "en": "Whether you are rich or poor is immaterial to true friends.",
+   "ko": "진정한 친구에게 네가 부자인지 가난한지는 중요하지 않아요."
+  },
+  {
+   "word": "materialize",
+   "pos": "동사",
+   "meaning": "실현되다, 구체화되다",
+   "en": "Their plan to open a café finally materialized.",
+   "ko": "카페를 열겠다는 그들의 계획이 마침내 실현되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고민하는 친구에게 \"무슨 일이야?\" 하고 묻는 장면",
+ "imageCaption": "\"What's the matter?\" 하며 친구 어깨에 손을 얹는 모습을 떠올리세요. 문제의 '알맹이'를 묻는 거예요.",
+ "movieLineEn": "It doesn't matter what they say. You matter to me.",
+ "movieLineKo": "그들이 뭐라든 상관없어. 넌 나한테 소중해.",
+ "storyTitle": "중요한 것은 무엇인가",
+ "story": "철학 시간에 선생님이 물었어요. \"무엇이 가장 matter(중요하다)할까요?\" 한 학생은 돈 같은 material(물질적인) 것이라 했고, 다른 학생은 그건 materialistic(물질만능주의의) 생각이라며 반박했죠. 토론이 뜨거워질 때 종이 울렸어요. 모두 외쳤어요. \"점심 메뉴 빼고는 다 immaterial(중요하지 않은)해요!\""
+}

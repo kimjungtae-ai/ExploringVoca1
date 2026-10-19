@@ -1,0 +1,55 @@
+{
+ "word": "rude",
+ "pos": "형용사",
+ "phonetic": "[ruːd]",
+ "meaning": "무례한, 버릇없는, 거친",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rude (rudis)",
+   "meaning": "거친, 다듬지 않은 (rough)",
+   "note": "라틴어 rudis(거친, 가공하지 않은)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>rude</strong>는 라틴어 rudis(다듬지 않은)에서 와서 '거칠고 세련되지 못한'을 거쳐 <strong>'무례한'</strong>이 되었어요.",
+ "historyTitle": "다듬어지지 않은 돌처럼",
+ "historyBody": "rude는 라틴어 rudis(거친, 다듬지 않은)가 고대 프랑스어를 거쳐 14세기에 영어로 들어왔어요. 처음에는 '가공하지 않은, 투박한'이라는 뜻이었다가, 점차 '교양 없는, 무례한'으로 뜻이 옮겨 갔죠. 같은 뿌리의 rudimentary는 '기초적인, 아직 다듬어지지 않은'이라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rudely",
+   "pos": "부사",
+   "meaning": "무례하게",
+   "en": "He rudely pushed past the people in line.",
+   "ko": "그는 줄 선 사람들을 무례하게 밀치고 지나갔어요."
+  },
+  {
+   "word": "rudeness",
+   "pos": "명사",
+   "meaning": "무례함",
+   "en": "I was shocked by his rudeness to the waiter.",
+   "ko": "나는 그가 종업원에게 보인 무례함에 충격을 받았어요."
+  },
+  {
+   "word": "rudimentary",
+   "pos": "형용사",
+   "meaning": "기초적인, 초보의",
+   "en": "I only have a rudimentary knowledge of Chinese.",
+   "ko": "나는 중국어를 기초 수준밖에 몰라요."
+  },
+  {
+   "word": "rudiment",
+   "pos": "명사",
+   "meaning": "기초, 기본",
+   "en": "He learned the rudiments of cooking from his mother.",
+   "ko": "그는 엄마에게서 요리의 기초를 배웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄을 무시하고 새치기하는 사람",
+ "imageCaption": "모두가 기다리는 줄 맨 앞으로 쑥 끼어드는 사람을 떠올려 보세요. 주변 사람들 표정이 굳어지죠?",
+ "movieLineEn": "Don't be rude. Say thank you to the lady.",
+ "movieLineKo": "무례하게 굴지 마. 아주머니께 감사하다고 해.",
+ "storyTitle": "예의 바른 로봇",
+ "story": "삼촌이 만든 로봇은 rudimentary(기초적인) 대화만 할 수 있었어요. 손님이 오자 로봇이 rudely(무례하게) 외쳤죠. \"집에 가세요!\" 삼촌은 로봇의 rudeness(무례함)에 진땀을 흘렸어요. 그런데 손님이 웃으며 말했어요. \"rude(무례한)한 게 아니라 정직한 거네요. 저 사실 보험 판매원이거든요.\""
+}

@@ -1,0 +1,68 @@
+{
+ "word": "scoreboard",
+ "pos": "명사",
+ "phonetic": "[ˈskɔːrbɔːrd]",
+ "meaning": "점수판, 득점 게시판",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "score",
+   "meaning": "점수, 눈금 (tally)",
+   "note": "고대 노르드어 skor(새김 자국, 20)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "board",
+   "meaning": "판, 널빤지 (board)",
+   "note": "고대 영어 bord(널빤지)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>score</strong> (점수) + <strong>board</strong> (판) = <strong>'점수판'</strong>이에요.",
+ "historyTitle": "나무 막대에 새긴 눈금",
+ "historyBody": "score는 고대 노르드어 skor(칼로 새긴 자국)에서 왔어요. 옛날 사람들은 나무 막대에 눈금을 새겨 수를 셌는데, 20개마다 큰 홈을 냈기 때문에 score는 '20'이라는 뜻도 갖게 되었죠. 여기에 고대 영어 bord(널빤지)에서 온 board가 붙어 '점수를 적는 판'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "score",
+   "pos": "명사 / 동사",
+   "meaning": "점수 / 득점하다",
+   "en": "He scored the winning goal in the last minute.",
+   "ko": "그는 마지막 순간에 결승골을 넣었어요."
+  },
+  {
+   "word": "scorer",
+   "pos": "명사",
+   "meaning": "득점자, 기록원",
+   "en": "She was the top scorer of the season.",
+   "ko": "그녀는 그 시즌 최다 득점자였어요."
+  },
+  {
+   "word": "board",
+   "pos": "명사",
+   "meaning": "판, 게시판, 위원회",
+   "en": "The teacher wrote the answer on the board.",
+   "ko": "선생님께서 칠판에 답을 쓰셨어요."
+  },
+  {
+   "word": "keyboard",
+   "pos": "명사",
+   "meaning": "키보드, 건반",
+   "en": "I spilled water on my keyboard.",
+   "ko": "나는 키보드에 물을 쏟았어요."
+  },
+  {
+   "word": "billboard",
+   "pos": "명사",
+   "meaning": "광고판",
+   "en": "A huge billboard stood beside the highway.",
+   "ko": "고속도로 옆에 거대한 광고판이 서 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 경기장 전광판에 빛나는 양 팀의 점수",
+ "imageCaption": "야구장 전광판에 숫자가 바뀌는 순간 관중이 함성을 지르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Look at the scoreboard. We still have a chance!",
+ "movieLineKo": "점수판을 봐. 우리한테 아직 기회가 있어!",
+ "storyTitle": "전광판의 깜짝 고백",
+ "story": "농구 경기 중, 형은 3점 슛으로 score(득점하다)했어요. scoreboard(점수판)에 숫자가 바뀌자 관중이 환호했죠. 그 순간 옆 billboard(광고판)에 메시지가 떴어요. \"지민아, 나랑 사귈래?\" 최고 scorer(득점자)인 형의 고백이었어요. 그런데 지민이는 상대 팀 주장이었답니다!"
+}

@@ -1,0 +1,47 @@
+{
+ "word": "recently",
+ "pos": "부사",
+ "phonetic": "[ˈriːsntli]",
+ "meaning": "최근에, 요즘",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "recent (← 라틴어 recens)",
+   "meaning": "갓 생긴, 최근의 (fresh, new)",
+   "note": "기원이 확실하지 않아 통째로 외우는 게 좋아요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사 recent를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>recent</strong> (최근의) + <strong>-ly</strong> (~하게) = 얼마 안 된 때에라는 뜻으로 <strong>'최근에'</strong>가 되었어요.",
+ "historyTitle": "'갓 생긴'에서 '최근에'로",
+ "historyBody": "recent는 라틴어 recens(신선한, 새로운, 갓 생긴)에서 프랑스어를 거쳐 16세기 영어로 들어왔어요. recens의 기원은 확실하지 않아서, re-와 다른 요소로 나누는 설명은 추측일 뿐이에요. 그래서 이 단어는 쪼개지 말고 통째로 '최근의'로 기억하는 게 좋아요. 부사 recently는 16세기 말부터 쓰였어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "recent",
+   "pos": "형용사",
+   "meaning": "최근의",
+   "en": "The recent storm damaged many houses.",
+   "ko": "최근의 폭풍으로 많은 집이 피해를 입었어요."
+  },
+  {
+   "word": "recency",
+   "pos": "명사",
+   "meaning": "최신성",
+   "en": "Search engines consider the recency of news articles.",
+   "ko": "검색 엔진은 뉴스 기사의 최신성을 고려해요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력에서 바로 며칠 전 날짜에 표시한 동그라미",
+ "imageCaption": "얼마 전 새로 시작한 취미나 이사 온 친구처럼 '요 며칠 사이' 일어난 일을 떠올려 보세요.",
+ "movieLineEn": "I've been having strange dreams recently.",
+ "movieLineKo": "요즘 이상한 꿈을 계속 꾸고 있어.",
+ "storyTitle": "요즘 이상한 아빠",
+ "story": "아빠가 recently(최근에) 이상해졌어요. 새벽마다 몰래 나가셨거든요. recent(최근의) 행동을 추적해 보니 공원에서 춤 연습을! 아빠의 recency(최신) 취미는 아이돌 댄스였어요. 엄마 생일에 깜짝 공연을 하려던 건데, 우리가 다 알아 버려서 결국 온 가족이 recent(최신) 안무를 같이 배우게 되었답니다."
+}

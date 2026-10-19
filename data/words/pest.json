@@ -1,0 +1,41 @@
+{
+ "word": "pest",
+ "pos": "명사",
+ "phonetic": "[pest]",
+ "meaning": "해충, 유해 동물, 성가신 사람",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pest (← 라틴어 pestis)",
+   "meaning": "전염병, 역병 (plague)",
+   "note": "더 쪼갤 수 없는 단어로, 라틴어 pestis에서 통째로 왔어요."
+  }
+ ],
+ "summary": "<strong>pest</strong>는 라틴어 <strong>pestis</strong> (역병, 재앙)에서 온 단어라 통째로 <strong>'해충, 성가신 존재'</strong>로 외워요.",
+ "historyTitle": "무서운 역병에서 작은 벌레로",
+ "historyBody": "pest는 라틴어 pestis(전염병, 역병)에서 프랑스어 peste를 거쳐 16세기 영어로 들어왔어요. 처음엔 흑사병 같은 무서운 전염병을 뜻했지만, 17세기 이후 '해로운 동물·벌레', 나아가 '성가신 사람'이라는 뜻으로 약해졌어요. 라틴어 pestis 자체의 더 오래된 기원은 밝혀지지 않았어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "pesticide",
+   "pos": "명사",
+   "meaning": "살충제, 농약",
+   "en": "Some farmers grow vegetables without pesticides.",
+   "ko": "어떤 농부들은 농약 없이 채소를 길러요."
+  },
+  {
+   "word": "pestilence",
+   "pos": "명사",
+   "meaning": "(치명적) 전염병",
+   "en": "In the past, pestilence killed millions of people.",
+   "ko": "과거에는 전염병으로 수백만 명이 목숨을 잃었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 밭의 배추 잎을 갉아 먹는 벌레들",
+ "imageCaption": "정성껏 기른 채소에 구멍을 내는 벌레 떼를 떠올려 보세요.",
+ "movieLineEn": "Stop following me around, you little pest!",
+ "movieLineKo": "그만 좀 따라다녀, 이 귀찮은 꼬맹이야!",
+ "storyTitle": "해충 퇴치 대작전",
+ "story": "할아버지 텃밭에 pest(해충)가 몰려왔어요. 할아버지는 pesticide(살충제) 대신 친환경 작전을 세웠죠. 바로 무당벌레 부대! 그런데 무당벌레가 너무 많아져 마을엔 'pestilence(역병)급 무당벌레 사태'라는 뉴스까지 났어요. 결국 할아버지 별명은 '무당벌레 대장'이 되었대요. 벌레(pest)는 한 마리도 안 남았고요!"
+}

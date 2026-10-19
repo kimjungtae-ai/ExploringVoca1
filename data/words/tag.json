@@ -1,0 +1,48 @@
+{
+ "word": "tag",
+ "pos": "명사 / 동사",
+ "phonetic": "[tæɡ]",
+ "meaning": "꼬리표, 가격표, 태그 / 꼬리표를 붙이다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tag (← tagge)",
+   "meaning": "늘어진 조각 (hanging piece)",
+   "note": "중세 영어 tagge(옷에 달린 작은 조각)에서 왔고, 더 이전 기원은 불확실해요."
+  }
+ ],
+ "summary": "<strong>tag</strong>는 쪼개기 어려운 짧은 단어로, '옷에 달랑 매달린 작은 조각'에서 <strong>'꼬리표, 가격표'</strong>가 되었어요.",
+ "historyTitle": "옷자락의 작은 조각",
+ "historyBody": "tag는 15세기 중세 영어 tagge로 처음 나타났고, 옷에 장식으로 달려 늘어진 작은 천 조각을 뜻했어요. 스칸디나비아어와 관련이 있을 수 있지만 기원은 확실하지 않아요. 술래잡기 놀이 tag는 18세기에 생긴 말로, 같은 단어인지도 분명하지 않아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "price tag",
+   "pos": "명사",
+   "meaning": "가격표",
+   "en": "She checked the price tag before buying the coat.",
+   "ko": "그녀는 코트를 사기 전에 가격표를 확인했어요."
+  },
+  {
+   "word": "name tag",
+   "pos": "명사",
+   "meaning": "이름표",
+   "en": "Please wear your name tag during the event.",
+   "ko": "행사 동안 이름표를 착용해 주세요."
+  },
+  {
+   "word": "hashtag",
+   "pos": "명사",
+   "meaning": "해시태그",
+   "en": "Use a hashtag to share your photos.",
+   "ko": "해시태그를 사용해서 사진을 공유하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 새 옷에 달린 가격표",
+ "imageCaption": "새로 산 티셔츠 목 뒤에 대롱대롱 매달린 가격표를 떠올려 보세요. 작게 매달린 조각, 그게 tag예요.",
+ "movieLineEn": "You still have the tag on your shirt! Did you just buy it?",
+ "movieLineKo": "셔츠에 아직 태그가 달려 있어! 방금 산 거야?",
+ "storyTitle": "가격표의 배신",
+ "story": "소개팅 날, 나는 새 셔츠를 입고 name tag(이름표)까지 달고 자신 있게 나갔어요. 상대가 계속 웃길래 내가 멋진 줄 알았죠. 집에 와서 보니 등 뒤에 price tag(가격표)가 그대로 달려 있었어요. 다음 날 상대가 SNS에 '#세일상품' hashtag(해시태그)를 달아 내 사진을 tag(태그하다)했답니다!"
+}

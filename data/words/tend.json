@@ -1,0 +1,69 @@
+{
+ "word": "tend",
+ "pos": "동사",
+ "phonetic": "[tend]",
+ "meaning": "~하는 경향이 있다, 돌보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tend",
+   "meaning": "뻗다, 향하다 (stretch)",
+   "note": "라틴어 tendere(뻗다, 향하다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>tend</strong>는 라틴어 <strong>tendere</strong> (뻗다, 향하다)에서 와서 '어느 쪽으로 뻗어 가다'라는 뜻에서 <strong>'~하는 경향이 있다'</strong>가 되었어요.",
+ "historyTitle": "같은 모양, 다른 두 단어",
+ "historyBody": "'경향이 있다'는 tend는 라틴어 tendere(뻗다, 향하다)가 고대 프랑스어 tendre를 거쳐 온 말이에요. 반면 '돌보다'는 tend는 attend(주의를 기울이다)의 앞부분이 떨어져 나간 형태예요. 사실 attend도 ad+tendere라서 결국 같은 뿌리로 이어져요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tendency",
+   "pos": "명사",
+   "meaning": "경향, 성향",
+   "en": "He has a tendency to talk too fast.",
+   "ko": "그는 말을 너무 빨리 하는 경향이 있어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 확장하다",
+   "en": "The library extended its opening hours.",
+   "ko": "도서관은 개관 시간을 연장했어요."
+  },
+  {
+   "word": "intend",
+   "pos": "동사",
+   "meaning": "의도하다, 작정하다",
+   "en": "I didn't intend to hurt your feelings.",
+   "ko": "네 기분을 상하게 하려던 건 아니었어."
+  },
+  {
+   "word": "attend",
+   "pos": "동사",
+   "meaning": "참석하다, 주의를 기울이다",
+   "en": "All students must attend the meeting.",
+   "ko": "모든 학생은 그 회의에 참석해야 해요."
+  },
+  {
+   "word": "pretend",
+   "pos": "동사",
+   "meaning": "~인 척하다",
+   "en": "She pretended not to hear me.",
+   "ko": "그녀는 내 말을 못 들은 척했어요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장, 갈등",
+   "en": "There was tension between the two teams.",
+   "ko": "두 팀 사이에 긴장감이 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한쪽으로 기울어 자라는 식물",
+ "imageCaption": "창가의 화분 식물이 늘 햇빛 쪽으로 '뻗어' 기울어 자라는 모습을 떠올려 보세요. 그쪽으로 향하는 경향, 그게 tend예요.",
+ "movieLineEn": "People tend to believe what they want to believe.",
+ "movieLineKo": "사람들은 믿고 싶은 것을 믿는 경향이 있지.",
+ "storyTitle": "척하는 고양이",
+ "story": "우리 고양이는 부르면 못 들은 척 pretend(~인 척하다)하는 tendency(경향)가 있어요. 대체로 무시하는 tend(경향이 있다)죠. 그런데 사료 봉지 소리만 나면 귀를 extend(쭉 뻗다)하고 달려와요. 내가 일부러 intend(의도하다)한 실험이었는데, 결론은 확실했어요. 고양이는 듣고 싶은 것만 듣는답니다!"
+}

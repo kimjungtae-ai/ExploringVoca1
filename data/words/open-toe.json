@@ -1,0 +1,61 @@
+{
+ "word": "open-toe",
+ "pos": "형용사",
+ "phonetic": "[ˈoʊpən toʊ]",
+ "meaning": "앞이 트인 (신발), 발가락이 드러나는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "open",
+   "meaning": "열린 (open)",
+   "note": "고대 영어 open에서 온 토박이 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "toe",
+   "meaning": "발가락 (toe)",
+   "note": "고대 영어 tā(발가락)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>open</strong> (열린) + <strong>toe</strong> (발가락) = 발가락 부분이 열려 있어서 <strong>'앞이 트인 (신발)'</strong>이 되었어요.",
+ "historyTitle": "패션 용어로 굳어진 합성어",
+ "historyBody": "open과 toe는 모두 고대 영어에서 온 오래된 토박이 단어예요. 20세기 중반 구두 디자인이 다양해지면서 앞코가 트인 신발을 open-toe(d) shoes라고 부르게 되었어요. 비슷하게 발뒤꿈치가 트인 신발은 open-back이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "open",
+   "pos": "형용사/동사",
+   "meaning": "열린 / 열다",
+   "en": "Please keep the window open for fresh air.",
+   "ko": "신선한 공기가 들어오게 창문을 열어 두세요."
+  },
+  {
+   "word": "opening",
+   "pos": "명사",
+   "meaning": "개막, 구멍, 빈자리",
+   "en": "We went to the opening of the new museum.",
+   "ko": "우리는 새 박물관 개관식에 갔어요."
+  },
+  {
+   "word": "openly",
+   "pos": "부사",
+   "meaning": "공공연하게, 솔직하게",
+   "en": "He spoke openly about his mistakes.",
+   "ko": "그는 자신의 실수에 대해 솔직하게 말했어요."
+  },
+  {
+   "word": "tiptoe",
+   "pos": "동사",
+   "meaning": "발끝으로 걷다",
+   "en": "I tiptoed past my sleeping brother.",
+   "ko": "나는 자고 있는 동생 옆을 발끝으로 살금살금 지나갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 발가락이 살짝 보이는 여름 샌들",
+ "imageCaption": "구두 앞부분이 뚫려 있어서 예쁘게 칠한 발톱이 보이는 신발을 떠올려 보세요.",
+ "movieLineEn": "You can't wear open-toe shoes in the lab. Safety first!",
+ "movieLineKo": "실험실에서는 앞이 트인 신발 못 신어. 안전이 우선이야!",
+ "storyTitle": "발가락의 탈출",
+ "story": "누나가 open-toe(앞이 트인) 구두를 신고 파티에 갔어요. 발가락들이 신나서 openly(공공연하게) 꼼지락거렸죠. 파티 opening(개막) 때 사람들이 tiptoe(발끝으로 걷다)로 춤을 추는데, 누나 발가락만 리듬을 탔어요. 결국 누나 대신 발가락이 '베스트 댄서' 상을 받았대요!"
+}

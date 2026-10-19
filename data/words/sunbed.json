@@ -1,0 +1,68 @@
+{
+ "word": "sunbed",
+ "pos": "명사",
+ "phonetic": "[ˈsʌnbed]",
+ "meaning": "선베드, 일광욕 의자, 태닝 기계",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sun",
+   "meaning": "해, 햇빛 (sun)",
+   "note": "고대 영어 sunne에서 온 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bed",
+   "meaning": "침대, 눕는 자리 (bed)",
+   "note": "고대 영어 bedd에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>sun</strong> (햇빛) + <strong>bed</strong> (눕는 자리) = '햇빛 아래 눕는 자리'라는 뜻에서 <strong>'선베드'</strong>가 되었어요.",
+ "historyTitle": "순수 영어 두 단어의 결합",
+ "historyBody": "sun과 bed는 둘 다 고대 영어 때부터 써 온 오래된 게르만계 단어예요. 이 둘을 합친 sunbed는 20세기에 해변이나 수영장에서 일광욕하는 의자, 그리고 인공 태닝 기계를 가리키는 말로 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sunlight",
+   "pos": "명사",
+   "meaning": "햇빛",
+   "en": "Plants need sunlight to grow.",
+   "ko": "식물은 자라기 위해 햇빛이 필요해요."
+  },
+  {
+   "word": "sunscreen",
+   "pos": "명사",
+   "meaning": "자외선 차단제",
+   "en": "Don't forget to put on sunscreen at the beach.",
+   "ko": "해변에서 자외선 차단제 바르는 걸 잊지 마세요."
+  },
+  {
+   "word": "sunny",
+   "pos": "형용사",
+   "meaning": "화창한",
+   "en": "It was a sunny day, so we went hiking.",
+   "ko": "화창한 날이라 우리는 등산을 갔어요."
+  },
+  {
+   "word": "sunset",
+   "pos": "명사",
+   "meaning": "일몰, 해 질 녘",
+   "en": "We watched the sunset from the hill.",
+   "ko": "우리는 언덕에서 해 지는 모습을 봤어요."
+  },
+  {
+   "word": "bedroom",
+   "pos": "명사",
+   "meaning": "침실",
+   "en": "My bedroom faces the east.",
+   "ko": "내 침실은 동쪽을 향해 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 수영장 옆 의자에 누워 햇볕을 쬐는 장면",
+ "imageCaption": "파라솔 옆 길쭉한 의자에 누워 선글라스를 끼고 햇볕을 쬐는 모습을 떠올려 보세요.",
+ "movieLineEn": "Sorry, but that sunbed is taken. My towel is on it.",
+ "movieLineKo": "미안하지만 그 선베드는 자리 있어요. 제 수건이 있잖아요.",
+ "storyTitle": "선베드 쟁탈전",
+ "story": "sunny(화창한) 아침, 아빠는 호텔 수영장의 sunbed(선베드)를 차지하려고 새벽 5시에 수건을 깔아 두셨어요. sunscreen(자외선 차단제)까지 챙기고 sunlight(햇빛)를 기다렸죠. 그런데 너무 일찍 일어난 탓에 바로 잠들어 sunset(해 질 녘)에야 깼어요. 결국 선베드에서 태운 건 피부가 아니라 시간이었답니다!"
+}

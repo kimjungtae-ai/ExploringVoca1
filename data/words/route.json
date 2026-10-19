@@ -1,0 +1,69 @@
+{
+ "word": "route",
+ "pos": "명사 / 동사",
+ "phonetic": "[ruːt]",
+ "meaning": "길, 경로, 노선 / 보내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rout(e)",
+   "meaning": "깨진 (길) (broken)",
+   "note": "라틴어 rumpere(깨다)의 과거분사 rupta에서 왔어요."
+  }
+ ],
+ "summary": "<strong>route</strong>는 라틴어 via rupta(깨뜨려 뚫은 길)에서 와서 <strong>'길, 경로'</strong>가 되었어요.",
+ "historyTitle": "숲을 깨뜨려 뚫은 길",
+ "historyBody": "route는 라틴어 via rupta(깨뜨려 연 길)가 고대 프랑스어 rute를 거쳐 영어로 들어온 말이에요. 숲을 베고 땅을 부숴 새로 낸 길이라는 뜻이었죠. 그래서 rumpere(깨다)에서 나온 erupt(분출하다), interrupt(방해하다)와 먼 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "routine",
+   "pos": "명사",
+   "meaning": "일과, 틀에 박힌 일",
+   "en": "Exercise is part of my daily routine.",
+   "ko": "운동은 내 일과의 일부예요."
+  },
+  {
+   "word": "erupt",
+   "pos": "동사",
+   "meaning": "분출하다, 터지다",
+   "en": "The volcano erupted after a hundred years of silence.",
+   "ko": "그 화산은 백 년 동안 잠잠하다가 분출했어요."
+  },
+  {
+   "word": "interrupt",
+   "pos": "동사",
+   "meaning": "방해하다, 끼어들다",
+   "en": "It's rude to interrupt someone who is speaking.",
+   "ko": "말하고 있는 사람의 말을 끊는 것은 무례해요."
+  },
+  {
+   "word": "corrupt",
+   "pos": "형용사 / 동사",
+   "meaning": "부패한 / 타락시키다",
+   "en": "The corrupt official was finally arrested.",
+   "ko": "그 부패한 공무원은 마침내 체포되었어요."
+  },
+  {
+   "word": "bankrupt",
+   "pos": "형용사",
+   "meaning": "파산한",
+   "en": "The company went bankrupt after losing its customers.",
+   "ko": "그 회사는 고객을 잃은 뒤 파산했어요."
+  },
+  {
+   "word": "rupture",
+   "pos": "명사 / 동사",
+   "meaning": "파열 / 터지다",
+   "en": "The pipe ruptured during the cold night.",
+   "ko": "추운 밤에 수도관이 터졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위에 표시된 출발지에서 목적지까지의 길",
+ "imageCaption": "내비게이션 화면에 파란 선으로 그려진 경로를 따라가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Take the mountain route. They'll never find us there.",
+ "movieLineKo": "산길로 가. 거기선 놈들이 절대 우리를 못 찾을 거야.",
+ "storyTitle": "지름길의 함정",
+ "story": "아빠는 내비게이션의 route(경로)를 무시하고 지름길로 가셨어요. 매일 아침 routine(일과)처럼요. 엄마가 interrupt(끼어들다)하려 했지만 아빠의 자신감이 erupt(폭발하다)했죠. 한 시간 뒤, 우리는 출발했던 우리 집 앞에 도착했답니다."
+}

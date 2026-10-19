@@ -1,0 +1,68 @@
+{
+ "word": "undertake",
+ "pos": "동사",
+ "phonetic": "[ˌʌndərˈteɪk]",
+ "meaning": "(일·책임을) 맡다, 착수하다, 약속하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "under-",
+   "meaning": "아래에, 밑에서 (under)",
+   "note": "짐을 아래에서 받쳐 든다는 느낌을 줘요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "take",
+   "meaning": "잡다, 맡다 (take)",
+   "note": "고대 노르드어 taka(잡다)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>under-</strong> (아래에서) + <strong>take</strong> (잡다) = 일을 밑에서 받쳐 들다, 즉 <strong>'맡다, 착수하다'</strong>가 되었어요.",
+ "historyTitle": "바이킹의 말 take",
+ "historyBody": "take는 바이킹이 쓰던 고대 노르드어 'taka(잡다)'가 영어에 들어온 말이에요. 1300년 무렵 under-가 붙은 undertake가 '일을 떠맡다'라는 뜻으로 쓰이기 시작했고, 같은 뜻의 고대 영어 'underniman(아래 + 잡다)'을 대신하게 되었어요. 짐을 아래에서 받쳐 드는 모습처럼 '일을 짊어지고 맡다'라는 느낌이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "undertaking",
+   "pos": "명사",
+   "meaning": "(큰) 일, 사업, 약속",
+   "en": "Building the new bridge was a huge undertaking.",
+   "ko": "새 다리를 짓는 것은 엄청나게 큰 일이었어요."
+  },
+  {
+   "word": "take",
+   "pos": "동사",
+   "meaning": "잡다, 가져가다, 시간이 걸리다",
+   "en": "It takes about an hour to get to the museum.",
+   "ko": "박물관까지 가는 데 한 시간쯤 걸려요."
+  },
+  {
+   "word": "mistake",
+   "pos": "명사 / 동사",
+   "meaning": "실수 / 오해하다",
+   "en": "Everyone makes mistakes when learning something new.",
+   "ko": "새로운 것을 배울 때는 누구나 실수를 해요."
+  },
+  {
+   "word": "overtake",
+   "pos": "동사",
+   "meaning": "추월하다, 앞지르다",
+   "en": "The small car tried to overtake the bus.",
+   "ko": "작은 차가 버스를 앞지르려고 했어요."
+  },
+  {
+   "word": "intake",
+   "pos": "명사",
+   "meaning": "섭취(량), 흡입",
+   "en": "You should reduce your sugar intake for better health.",
+   "ko": "더 건강해지려면 설탕 섭취량을 줄여야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 상자를 아래에서 받쳐 들고 일어서는 사람",
+ "imageCaption": "무거운 상자를 아래에서 번쩍 받쳐 드는 모습처럼, 큰일을 어깨에 짊어지고 시작하는 장면을 떠올려 보세요.",
+ "movieLineEn": "I will undertake this mission, even if it costs me my snacks.",
+ "movieLineKo": "내 간식을 잃는 한이 있어도 이 임무를 맡겠어.",
+ "storyTitle": "반장의 대작전",
+ "story": "반장 수민이는 교실 대청소라는 거대한 undertaking(일)을 undertake(맡다)했어요. 친구들이 도와줬지만 한 명이 물통을 엎는 mistake(실수)를 했죠. 교실이 물바다가 되자 모두 걸레를 들었어요. 그 덕분에 교실이 학교에서 제일 깨끗해져서, 우리 반은 상으로 피자 파티를 take(받다)했답니다!"
+}

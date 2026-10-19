@@ -1,0 +1,48 @@
+{
+ "word": "rent",
+ "pos": "동사 / 명사",
+ "phonetic": "[rent]",
+ "meaning": "빌리다, 임대하다 / 집세, 임대료",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rent",
+   "meaning": "수입, 돌려받는 것 (revenue)",
+   "note": "고대 프랑스어 rente(수입, 연금)에서 왔고, 그 뿌리는 라틴어 reddere(돌려주다)예요."
+  }
+ ],
+ "summary": "<strong>rent</strong>는 '돌려받는 돈, 수입'이라는 뜻에서 <strong>'집세, 빌리다'</strong>가 되었어요.",
+ "historyTitle": "땅 주인에게 돌아가는 돈",
+ "historyBody": "rent는 고대 프랑스어 rente(수입, 연간 지급금)에서 왔어요. 이 말은 라틴어 reddere(돌려주다)가 속라틴어에서 변한 rendere에서 나왔다고 봐요. 중세에는 땅을 빌려 쓴 농민이 주인에게 '돌려주는' 대가가 rent였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rental",
+   "pos": "명사 / 형용사",
+   "meaning": "임대 / 임대의",
+   "en": "We picked up a rental car at the airport.",
+   "ko": "우리는 공항에서 렌터카를 받았어요."
+  },
+  {
+   "word": "renter",
+   "pos": "명사",
+   "meaning": "세입자, 빌리는 사람",
+   "en": "The renter paid the monthly fee on time.",
+   "ko": "세입자는 월세를 제때 냈어요."
+  },
+  {
+   "word": "render",
+   "pos": "동사",
+   "meaning": "(어떤 상태로) 만들다, 제공하다",
+   "en": "The heavy snow rendered the roads dangerous.",
+   "ko": "폭설로 도로가 위험해졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매달 집주인에게 월세를 내는 장면",
+ "imageCaption": "달력에 동그라미 친 날, 봉투에 월세를 넣어 집주인에게 건네는 모습을 떠올려 보세요.",
+ "movieLineEn": "If you can't pay the rent, you'll have to leave by Friday.",
+ "movieLineKo": "집세를 못 내면 금요일까지 나가야 해요.",
+ "storyTitle": "자전거 대여의 반전",
+ "story": "지호는 공원에서 자전거를 rent(빌리다)했어요. rental(대여) 가게 사장님은 \"모든 renter(빌리는 사람)는 헬멧을 써야 해요!\"라고 했죠. 신나게 달린 뒤 자전거를 return(반납하다)한 지호는 버스를 탔어요. 그런데 사람들이 자꾸 쳐다봤어요. 빌린 헬멧을 쓴 채 집까지 와 버렸던 거예요!"
+}

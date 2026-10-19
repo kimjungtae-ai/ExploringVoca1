@@ -1,0 +1,62 @@
+{
+ "word": "worth",
+ "pos": "형용사 / 명사",
+ "phonetic": "[wɜːrθ]",
+ "meaning": "~의 가치가 있는 / 가치",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "worth (← 고대 영어 weorþ)",
+   "meaning": "가치, 값 (value)",
+   "note": "고대 영어 weorþ(가치 있는, 존경받는)에서 왔어요. 더 나누기 어려워요."
+  }
+ ],
+ "summary": "고대 영어 <strong>weorþ</strong> (가치 있는)에서 와서 <strong>'~의 가치가 있는, 가치'</strong>가 되었어요.",
+ "historyTitle": "값과 존경을 함께 뜻한 말",
+ "historyBody": "worth는 고대 영어 weorþ에서 왔고, 독일어 wert(가치 있는)와 같은 게르만어 단어예요. 옛날에는 '값'뿐 아니라 '존경받을 만한'이라는 뜻도 있었어요. 'be worth -ing(~할 가치가 있다)'는 수능 어법 문제에 자주 나오는 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "worthy",
+   "pos": "형용사",
+   "meaning": "~할 만한, 가치 있는",
+   "en": "Her effort is worthy of praise.",
+   "ko": "그녀의 노력은 칭찬받을 만해요."
+  },
+  {
+   "word": "worthwhile",
+   "pos": "형용사",
+   "meaning": "가치 있는, 보람 있는",
+   "en": "Volunteering is a worthwhile experience.",
+   "ko": "자원봉사는 보람 있는 경험이에요."
+  },
+  {
+   "word": "worthless",
+   "pos": "형용사",
+   "meaning": "가치 없는",
+   "en": "The old coin turned out to be worthless.",
+   "ko": "그 오래된 동전은 가치 없는 것으로 밝혀졌어요."
+  },
+  {
+   "word": "trustworthy",
+   "pos": "형용사",
+   "meaning": "믿을 수 있는",
+   "en": "A good leader must be trustworthy.",
+   "ko": "좋은 리더는 믿을 수 있어야 해요."
+  },
+  {
+   "word": "noteworthy",
+   "pos": "형용사",
+   "meaning": "주목할 만한",
+   "en": "His speech contained several noteworthy ideas.",
+   "ko": "그의 연설에는 주목할 만한 아이디어가 몇 가지 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 오래된 그림을 감정하며 놀라는 감정사",
+ "imageCaption": "낡은 그림을 감정하던 전문가가 \"이건 10억 원짜리예요!\" 하고 놀라는 장면을 떠올려 보세요.",
+ "movieLineEn": "It was hard, but it was worth it.",
+ "movieLineKo": "힘들었지만, 그럴 만한 가치가 있었어.",
+ "storyTitle": "다락방 보물",
+ "story": "다락방에서 낡은 도자기를 찾았어요. 가족들은 worthless(가치 없는) 물건이라 버리려 했죠. 하지만 trustworthy(믿을 수 있는) 감정사가 말했어요. \"이건 1억 원 worth(가치가 있는)!\" 모두 기뻐했는데, 감정사가 덧붙였어요. \"...였을 거예요. 금이 안 갔다면요.\" 그래도 그날의 추억은 worthwhile(보람 있는)했어요."
+}

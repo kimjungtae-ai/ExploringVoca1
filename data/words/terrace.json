@@ -1,0 +1,68 @@
+{
+ "word": "terrace",
+ "pos": "명사",
+ "phonetic": "[ˈterəs]",
+ "meaning": "테라스, 계단식 대지(논밭)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "terr",
+   "meaning": "땅 (earth)",
+   "note": "라틴어 terra(땅)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ace",
+   "meaning": "~로 된 것 (명사형)",
+   "note": "라틴어 -acea에서 온 명사 어미예요."
+  }
+ ],
+ "summary": "<strong>terr</strong> (땅) + <strong>-ace</strong> (~로 된 것) = '흙을 쌓아 만든 평평한 곳'에서 <strong>'테라스, 계단식 대지'</strong>가 되었어요.",
+ "historyTitle": "흙으로 쌓은 평평한 단",
+ "historyBody": "terrace는 라틴어 terra(땅)에서 나온 속라틴어 *terracea가 고대 프랑스어 terrace(흙더미, 단)를 거쳐 16세기 영어로 들어온 말이에요. 원래 흙을 쌓아 평평하게 만든 단을 뜻했어요. 산비탈의 계단식 논밭도 terrace라고 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "territory",
+   "pos": "명사",
+   "meaning": "영토, 영역",
+   "en": "Wolves protect their territory from other packs.",
+   "ko": "늑대들은 다른 무리로부터 자기 영역을 지켜요."
+  },
+  {
+   "word": "terrain",
+   "pos": "명사",
+   "meaning": "지형, 지역",
+   "en": "The car can drive on rough terrain.",
+   "ko": "그 차는 험한 지형에서도 달릴 수 있어요."
+  },
+  {
+   "word": "terrestrial",
+   "pos": "형용사",
+   "meaning": "육지의, 지구의",
+   "en": "Terrestrial animals live on land.",
+   "ko": "육상 동물은 땅 위에 살아요."
+  },
+  {
+   "word": "Mediterranean",
+   "pos": "형용사 / 명사",
+   "meaning": "지중해의 / 지중해",
+   "en": "The Mediterranean diet includes lots of olive oil.",
+   "ko": "지중해식 식단에는 올리브유가 많이 들어가요."
+  },
+  {
+   "word": "extraterrestrial",
+   "pos": "형용사 / 명사",
+   "meaning": "외계의 / 외계인",
+   "en": "The movie is about an extraterrestrial visitor.",
+   "ko": "그 영화는 외계에서 온 방문자에 관한 이야기예요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇살 좋은 카페 테라스",
+ "imageCaption": "카페 바깥쪽 평평한 공간에 테이블과 파라솔이 놓인 모습을 떠올려 보세요. 산비탈 계단식 논도 같은 terrace예요.",
+ "movieLineEn": "Let's have our coffee on the terrace. The view is amazing!",
+ "movieLineKo": "테라스에서 커피 마시자. 경치가 끝내줘!",
+ "storyTitle": "테라스의 외계인",
+ "story": "우리 가족은 산속 펜션의 terrace(테라스)에서 별을 봤어요. 동생이 갑자기 산 너머 terrain(지형) 위에서 빛나는 extraterrestrial(외계의) 비행체를 봤다고 소리쳤죠. 모두 숨죽이고 지켜봤는데, 다가올수록 '위잉' 소리가 났어요. 알고 보니 옆 펜션 아저씨의 드론이 자기 territory(영역)를 순찰 중이었답니다!"
+}

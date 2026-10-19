@@ -1,0 +1,61 @@
+{
+ "word": "stylish",
+ "pos": "형용사",
+ "phonetic": "[ˈstaɪlɪʃ]",
+ "meaning": "멋진, 세련된, 유행에 맞는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "style",
+   "meaning": "방식, 스타일 (style)",
+   "note": "라틴어 stilus(글 쓰는 뾰족한 막대)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ish",
+   "meaning": "~다운, ~의 성질이 있는",
+   "note": "명사에 붙어 '그런 느낌이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>style</strong> (스타일) + <strong>-ish</strong> (~다운) = '스타일이 살아 있는'이라는 뜻에서 <strong>'세련된, 멋진'</strong>이 되었어요.",
+ "historyTitle": "펜에서 패션까지",
+ "historyBody": "style은 라틴어 stilus, 즉 밀랍판에 글씨를 새기던 뾰족한 막대에서 왔어요. '글 쓰는 도구'가 '글 쓰는 방식'이 되고, 다시 '옷차림이나 행동의 방식'으로 뜻이 넓어졌죠. y 철자는 그리스어 stylos(기둥)와 혼동해서 생긴 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "style",
+   "pos": "명사",
+   "meaning": "방식, 스타일",
+   "en": "Her writing style is simple and clear.",
+   "ko": "그녀의 글쓰기 방식은 간단하고 명확해요."
+  },
+  {
+   "word": "stylist",
+   "pos": "명사",
+   "meaning": "스타일리스트",
+   "en": "The stylist suggested a shorter haircut.",
+   "ko": "스타일리스트가 더 짧은 머리를 추천했어요."
+  },
+  {
+   "word": "stylistic",
+   "pos": "형용사",
+   "meaning": "문체의, 양식의",
+   "en": "The two paintings show clear stylistic differences.",
+   "ko": "두 그림은 뚜렷한 양식상의 차이를 보여요."
+  },
+  {
+   "word": "stylus",
+   "pos": "명사",
+   "meaning": "(태블릿용) 펜, 철필",
+   "en": "I draw pictures on my tablet with a stylus.",
+   "ko": "나는 태블릿 펜으로 태블릿에 그림을 그려요."
+  }
+ ],
+ "imageSense": "대표 의미: 멋지게 차려입고 거리를 걷는 사람",
+ "imageCaption": "깔끔한 코트에 선글라스를 쓰고 당당히 걷는 사람을 떠올려 보세요. 스타일이 살아 있는 stylish한 모습이에요.",
+ "movieLineEn": "Wow, that's a very stylish jacket. Where did you get it?",
+ "movieLineKo": "와, 그 재킷 정말 멋지다. 어디서 샀어?",
+ "storyTitle": "할아버지의 패션쇼",
+ "story": "할아버지가 stylist(스타일리스트) 손녀에게 stylish(세련된) 옷을 부탁했어요. 손녀는 요즘 style(스타일)이라며 찢어진 청바지를 드렸죠. 다음 날 할아버지는 stylus(태블릿 펜)로 쇼핑몰에 후기를 남겼어요. \"바지가 다 찢어져서 왔어요. 환불해 주세요!\""
+}

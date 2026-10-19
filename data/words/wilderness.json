@@ -1,0 +1,74 @@
+{
+ "word": "wilderness",
+ "pos": "명사",
+ "phonetic": "[ˈwɪldərnəs]",
+ "meaning": "황야, 황무지, 미개척지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "wild",
+   "meaning": "야생의 (wild)",
+   "note": "고대 영어 wilde(길들지 않은)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "-der- (← 고대 영어 deor)",
+   "meaning": "짐승, 동물 (animal)",
+   "note": "지금의 deer(사슴)가 된 단어로, 원래는 '동물' 전체를 뜻했어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~한 곳, ~함 (명사)",
+   "note": "상태나 장소를 나타내는 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>wild</strong> (야생의) + <strong>deor</strong> (짐승) + <strong>-ness</strong> (~한 곳) = '야생 짐승이 사는 곳'이라는 뜻에서 <strong>'황야, 황무지'</strong>가 되었어요.",
+ "historyTitle": "야생 짐승들의 땅",
+ "historyBody": "wilderness는 중세 영어 wildernesse에서 왔는데, 고대 영어 wildeor(야생 짐승)에 -ness가 붙은 말이에요. wildeor의 deor는 지금의 deer(사슴)지만, 옛날에는 '동물' 전체를 뜻했어요. 즉 '사나운 짐승이 사는 땅'이 바로 wilderness였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wild",
+   "pos": "형용사",
+   "meaning": "야생의, 거친",
+   "en": "Wild animals should not be kept as pets.",
+   "ko": "야생 동물은 애완동물로 키우면 안 돼요."
+  },
+  {
+   "word": "wildlife",
+   "pos": "명사",
+   "meaning": "야생 동물",
+   "en": "The park protects local wildlife.",
+   "ko": "그 공원은 지역 야생 동물을 보호해요."
+  },
+  {
+   "word": "wildfire",
+   "pos": "명사",
+   "meaning": "산불",
+   "en": "The wildfire spread quickly because of the strong wind.",
+   "ko": "강한 바람 때문에 산불이 빠르게 번졌어요."
+  },
+  {
+   "word": "wildly",
+   "pos": "부사",
+   "meaning": "거칠게, 열광적으로",
+   "en": "The crowd cheered wildly after the goal.",
+   "ko": "골이 들어가자 관중이 열광적으로 환호했어요."
+  },
+  {
+   "word": "bewildered",
+   "pos": "형용사",
+   "meaning": "어리둥절한",
+   "en": "He looked bewildered by the strange question.",
+   "ko": "그는 이상한 질문에 어리둥절해 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없이 펼쳐진 숲과 산, 사람이 살지 않는 땅",
+ "imageCaption": "도로도 집도 없이 늑대 울음소리만 들리는 넓은 숲과 산을 떠올려 보세요.",
+ "movieLineEn": "Out here in the wilderness, only the strong survive.",
+ "movieLineKo": "이 황야에서는 강한 자만 살아남아.",
+ "storyTitle": "생존 캠프의 반전",
+ "story": "도시 소년 태오는 wilderness(황야) 생존 캠프에 참가했어요. wild(야생의) 늑대 소리에 bewildered(어리둥절한) 표정으로 텐트에 숨었죠. 밤새 wildlife(야생 동물)가 주변을 맴돌았어요. 아침에 용기 내 나가 보니, 늑대가 아니라 옆 텐트 선생님의 코 고는 소리였답니다."
+}

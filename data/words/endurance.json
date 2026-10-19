@@ -1,0 +1,74 @@
+{
+ "word": "endurance",
+ "pos": "명사",
+ "phonetic": "[ɪnˈdʊrəns]",
+ "meaning": "인내, 참을성, 지구력",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~하게 만들다 (make)",
+   "note": "단어에 힘을 실어 '그렇게 만든다'는 느낌을 더해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "dur",
+   "meaning": "단단한, 오래가는 (hard, lasting)",
+   "note": "라틴어 durare(굳어지다, 지속되다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~함, ~하는 상태 (명사형)",
+   "note": "동사를 명사로 바꿔 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (만들다) + <strong>dur</strong> (단단히 오래가다) + <strong>-ance</strong> (명사) = '단단하게 버티며 오래가는 것'에서 <strong>'인내, 지구력'</strong>이 되었어요.",
+ "historyTitle": "단단하게 굳어지는 라틴어 durare",
+ "historyBody": "라틴어 durus는 '단단한'이라는 뜻이고, 여기서 durare(굳어지다, 지속되다)가 나왔어요. 이 말이 고대 프랑스어 endurer를 거쳐 영어 endure가 되었답니다. 힘든 일을 단단히 견디며 오래 버티는 힘이 바로 endurance예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "endure",
+   "pos": "동사",
+   "meaning": "견디다, 참다",
+   "en": "She had to endure the long winter without heating.",
+   "ko": "그녀는 난방 없이 긴 겨울을 견뎌야 했어요."
+  },
+  {
+   "word": "durable",
+   "pos": "형용사",
+   "meaning": "내구성이 있는, 오래가는",
+   "en": "These hiking boots are durable enough for rocky mountains.",
+   "ko": "이 등산화는 바위산에서도 버틸 만큼 튼튼해요."
+  },
+  {
+   "word": "duration",
+   "pos": "명사",
+   "meaning": "지속 기간",
+   "en": "Please stay seated for the duration of the flight.",
+   "ko": "비행하는 동안에는 자리에 앉아 계세요."
+  },
+  {
+   "word": "during",
+   "pos": "전치사",
+   "meaning": "~ 동안",
+   "en": "I fell asleep during the movie last night.",
+   "ko": "어젯밤 영화 보는 동안 잠들어 버렸어요."
+  },
+  {
+   "word": "durability",
+   "pos": "명사",
+   "meaning": "내구성",
+   "en": "The company tested the durability of the new phone.",
+   "ko": "그 회사는 새 휴대폰의 내구성을 시험했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마라톤 선수가 땀을 흘리며 끝까지 달리는 장면",
+ "imageCaption": "42km를 지치지 않고 버티며 달리는 선수를 떠올리면 '오래 버티는 힘'이 바로 느껴져요.",
+ "movieLineEn": "This race is not about speed. It's about endurance.",
+ "movieLineKo": "이 경주는 속도가 아니라 지구력의 싸움이야.",
+ "storyTitle": "거북이의 진짜 비밀",
+ "story": "토끼와 다시 경주하게 된 거북이는 endurance(지구력)를 길러야 했어요. 경기 during(동안) 내내 durable(튼튼한) 등껍질 덕에 뜨거운 햇볕도 endure(견디다)했죠. 경기의 duration(지속 기간)은 무려 3일! 결승선에서 토끼가 물었어요. \"비결이 뭐야?\" 거북이 왈, \"사실 나 중간에 버스 탔어.\""
+}

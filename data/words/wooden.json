@@ -1,0 +1,68 @@
+{
+ "word": "wooden",
+ "pos": "형용사",
+ "phonetic": "[ˈwʊdn]",
+ "meaning": "나무로 된, 목재의, (표정·태도가) 딱딱한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "wood",
+   "meaning": "나무, 목재 (wood)",
+   "note": "고대 영어 wudu(나무, 숲)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~로 만든 (형용사)",
+   "note": "golden, woolen처럼 재료를 나타내는 형용사 접미사예요."
+  }
+ ],
+ "summary": "<strong>wood</strong> (나무) + <strong>-en</strong> (~로 만든) = <strong>'나무로 만든, 목재의'</strong>가 되었어요.",
+ "historyTitle": "숲과 나무를 함께 뜻한 말",
+ "historyBody": "wood는 고대 영어 wudu에서 왔는데, '나무(재료)'와 '숲'을 모두 뜻했어요. 그래서 지금도 the woods는 '숲'이에요. -en은 golden(금으로 된)처럼 재료를 나타내는 접미사로, wooden은 16세기 무렵부터 쓰였어요. '표정이 나무처럼 딱딱한'이라는 뜻도 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wood",
+   "pos": "명사",
+   "meaning": "나무, 목재",
+   "en": "This table is made of wood.",
+   "ko": "이 탁자는 나무로 만들어졌어요."
+  },
+  {
+   "word": "woods",
+   "pos": "명사",
+   "meaning": "숲",
+   "en": "We went for a walk in the woods.",
+   "ko": "우리는 숲으로 산책을 갔어요."
+  },
+  {
+   "word": "woodland",
+   "pos": "명사",
+   "meaning": "삼림 지대",
+   "en": "Owls live in the woodland near the village.",
+   "ko": "올빼미는 마을 근처 삼림 지대에 살아요."
+  },
+  {
+   "word": "woodpecker",
+   "pos": "명사",
+   "meaning": "딱따구리",
+   "en": "A woodpecker was tapping on the tree.",
+   "ko": "딱따구리가 나무를 두드리고 있었어요."
+  },
+  {
+   "word": "woodwork",
+   "pos": "명사",
+   "meaning": "목공(품)",
+   "en": "He learned woodwork from his grandfather.",
+   "ko": "그는 할아버지에게 목공을 배웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 나무로 만든 의자와 장난감 블록",
+ "imageCaption": "나뭇결이 살아 있는 나무 의자와 나무 블록 장난감을 떠올려 보세요.",
+ "movieLineEn": "This old wooden box holds the key to everything.",
+ "movieLineKo": "이 낡은 나무 상자 안에 모든 것의 열쇠가 있어.",
+ "storyTitle": "나무 인형의 꿈",
+ "story": "할아버지는 woodwork(목공)로 wooden(나무로 된) 인형을 만드셨어요. 인형은 진짜 소년이 되고 싶었죠. 밤마다 woods(숲)에 가서 소원을 빌었어요. 그런데 어느 날 woodpecker(딱따구리)가 인형 머리를 두드렸어요. \"똑똑, 여기 나무 있어요?\" 인형은 그날 이후 헬멧을 썼답니다."
+}

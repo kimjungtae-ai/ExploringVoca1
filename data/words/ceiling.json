@@ -1,0 +1,54 @@
+{
+ "word": "ceiling",
+ "pos": "명사",
+ "phonetic": "[ˈsiːlɪŋ]",
+ "meaning": "천장, 상한(선)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ceil",
+   "meaning": "(방 안을) 판자로 대다 (line a room)",
+   "note": "중세 영어 동사 celen에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것, 그 결과물 (명사)",
+   "note": "동작의 결과물을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ceil</strong> (방 안을 판자로 덮다) + <strong>-ing</strong> (그 결과물) = '방 위를 덮은 것'에서 <strong>'천장'</strong>이 되었어요.",
+ "historyTitle": "하늘일까, 조각일까? 수수께끼의 기원",
+ "historyBody": "ceiling은 중세 영어 celing에서 왔고, 원래는 방 안 벽이나 천장을 판자로 덧대는 일을 뜻했어요. 동사 ceil이 라틴어 caelare(조각하다)에서 왔다는 설과 caelum(하늘)과 관련 있다는 설이 있지만, 정확한 기원은 확실하지 않아요. 그래서 이 분석은 기억을 돕는 참고용으로만 봐 주세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "glass ceiling",
+   "pos": "명사",
+   "meaning": "유리 천장 (보이지 않는 승진 장벽)",
+   "en": "She broke the glass ceiling and became the first female CEO.",
+   "ko": "그녀는 유리 천장을 깨고 첫 여성 최고경영자가 되었어요."
+  },
+  {
+   "word": "ceiling fan",
+   "pos": "명사",
+   "meaning": "천장 선풍기",
+   "en": "A ceiling fan kept the room cool in summer.",
+   "ko": "천장 선풍기 덕분에 여름에도 방이 시원했어요."
+  },
+  {
+   "word": "high-ceilinged",
+   "pos": "형용사",
+   "meaning": "천장이 높은",
+   "en": "We ate lunch in a bright, high-ceilinged hall.",
+   "ko": "우리는 밝고 천장이 높은 홀에서 점심을 먹었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 방 위쪽을 덮고 있는 하얀 천장",
+ "imageCaption": "침대에 누워 위를 올려다보면 보이는 하얀 면을 떠올려 보세요. 더 위로 갈 수 없는 '상한선'의 느낌도 함께요.",
+ "movieLineEn": "Look up! Something is moving on the ceiling!",
+ "movieLineKo": "위를 봐! 천장에서 뭔가 움직이고 있어!",
+ "storyTitle": "천장에 붙은 고양이",
+ "story": "high-ceilinged(천장이 높은) 거실에서 고양이가 사라졌어요. 온 가족이 집을 뒤졌지만 못 찾았죠. 그때 ceiling fan(천장 선풍기)이 빙글빙글 돌며 '야옹' 소리가 났어요! 고양이가 ceiling(천장) 선풍기 날개 위에서 회전목마를 타고 있었던 거예요. 고양이에겐 glass ceiling(유리 천장)도 없나 봐요."
+}

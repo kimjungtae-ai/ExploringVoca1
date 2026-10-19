@@ -1,0 +1,75 @@
+{
+ "word": "valid",
+ "pos": "형용사",
+ "phonetic": "[ˈvælɪd]",
+ "meaning": "타당한, 유효한, 근거 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "val",
+   "meaning": "강하다, 힘이 있다 (be strong)",
+   "note": "라틴어 valere에서 온, '힘이 있다·가치가 있다'는 뜻의 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-id",
+   "meaning": "~한 상태의 (형용사)",
+   "note": "라틴어 형용사 어미 -idus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>val</strong> (힘이 있다) + <strong>-id</strong> (~한) = '힘이 있어 효력이 있는'이라는 뜻에서 <strong>'유효한, 타당한'</strong>이 되었어요.",
+ "historyTitle": "힘이 센 말이 통하는 말",
+ "historyBody": "라틴어 validus는 원래 '튼튼한, 힘센'이라는 뜻이었어요. 법이나 주장에 '힘이 있다'는 뜻으로 확장되어, 프랑스어를 거쳐 16세기 영어에 '효력이 있는, 타당한'이라는 의미로 들어왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "value",
+   "pos": "명사 / 동사",
+   "meaning": "가치 / 소중히 여기다",
+   "en": "Good friends are of great value in our lives.",
+   "ko": "좋은 친구는 우리 삶에서 큰 가치가 있어요."
+  },
+  {
+   "word": "invalid",
+   "pos": "형용사",
+   "meaning": "무효한, 근거 없는",
+   "en": "Your ticket is invalid because it has already expired.",
+   "ko": "네 표는 이미 기한이 지나서 무효야."
+  },
+  {
+   "word": "validity",
+   "pos": "명사",
+   "meaning": "타당성, 유효성",
+   "en": "Scientists questioned the validity of the survey results.",
+   "ko": "과학자들은 그 설문 결과의 타당성에 의문을 제기했어요."
+  },
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "Teachers evaluate students' essays based on clear rules.",
+   "ko": "선생님들은 명확한 기준에 따라 학생들의 에세이를 평가해요."
+  },
+  {
+   "word": "prevail",
+   "pos": "동사",
+   "meaning": "우세하다, 널리 퍼지다",
+   "en": "In the end, kindness will prevail over hate.",
+   "ko": "결국 친절함이 미움을 이길 거예요."
+  },
+  {
+   "word": "equivalent",
+   "pos": "형용사 / 명사",
+   "meaning": "동등한 / 등가물",
+   "en": "One dollar was equivalent to about 1,300 won last year.",
+   "ko": "작년에 1달러는 약 1,300원에 해당했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 기간이 남아 있어 쓸 수 있는 도장 찍힌 쿠폰",
+ "imageCaption": "유효기간 도장이 선명한 쿠폰을 떠올려 보세요. '힘이 살아 있는' 쿠폰이 바로 valid한 쿠폰이에요.",
+ "movieLineEn": "Your argument is valid, but you still need proof.",
+ "movieLineKo": "네 주장은 타당하지만, 그래도 증거가 필요해.",
+ "storyTitle": "무적의 쿠폰",
+ "story": "민수는 피자 쿠폰이 valid(유효한)한지 꼼꼼히 evaluate(평가하다)했어요. 친구들은 쿠폰의 value(가치)를 의심했지만 민수의 주장이 prevail(우세하다)했죠. 당당히 내밀었더니 점원이 말했어요. \"손님, 이건 내년 쿠폰이에요. 지금은 invalid(무효한)예요!\""
+}

@@ -1,0 +1,61 @@
+{
+ "word": "volunteer",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˌvɑːlənˈtɪr]",
+ "meaning": "자원봉사자, 지원자 / 자원하다, 자진해서 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "volunt",
+   "meaning": "의지, 바라다 (will)",
+   "note": "라틴어 voluntas(의지)에서 왔고, velle(원하다)와 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-eer",
+   "meaning": "~하는 사람",
+   "note": "engineer처럼 '~하는 사람'을 나타내는 접미사예요."
+  }
+ ],
+ "summary": "<strong>volunt</strong> (의지) + <strong>-eer</strong> (~하는 사람) = '스스로의 의지로 나선 사람'이라는 뜻에서 <strong>'자원봉사자, 자원하다'</strong>가 되었어요.",
+ "historyTitle": "스스로 원해서 나선 군인",
+ "historyBody": "volunteer는 프랑스어 volontaire(자발적인)에서 왔고, 뿌리는 라틴어 voluntas(의지)예요. 17세기 초 영어에서는 '스스로 군대에 지원한 병사'를 뜻했어요. 이후 '대가 없이 스스로 돕는 사람'이라는 지금의 뜻으로 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "voluntary",
+   "pos": "형용사",
+   "meaning": "자발적인",
+   "en": "Joining the club is completely voluntary.",
+   "ko": "동아리 가입은 전적으로 자발적이에요."
+  },
+  {
+   "word": "voluntarily",
+   "pos": "부사",
+   "meaning": "자발적으로",
+   "en": "He voluntarily cleaned the classroom after school.",
+   "ko": "그는 방과 후에 자발적으로 교실을 청소했어요."
+  },
+  {
+   "word": "involuntary",
+   "pos": "형용사",
+   "meaning": "무의식적인, 본의 아닌",
+   "en": "A sneeze is an involuntary action.",
+   "ko": "재채기는 무의식적인 행동이에요."
+  },
+  {
+   "word": "benevolent",
+   "pos": "형용사",
+   "meaning": "자비로운, 선의의",
+   "en": "The benevolent old man gave food to the poor.",
+   "ko": "그 자비로운 노인은 가난한 사람들에게 음식을 나눠 주었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 조끼를 입고 공원 쓰레기를 줍는 자원봉사자들",
+ "imageCaption": "주말 아침, 아무도 시키지 않았는데 스스로 나와 공원을 청소하는 사람들을 떠올려 보세요.",
+ "movieLineEn": "I need a volunteer. Anyone? ... Thank you, brave soldier!",
+ "movieLineKo": "지원자가 필요해. 누구 없어? ... 고맙네, 용감한 병사여!",
+ "storyTitle": "손 든 이유",
+ "story": "선생님이 \"volunteer(자원봉사자) 할 사람?\" 하고 물었어요. 하준이가 번쩍 손을 들었죠. 친구들은 그의 voluntary(자발적인) 마음에 감동했어요. 하지만 사실은 involuntary(무의식적인) 행동이었어요. 기지개를 켜다가 손이 올라간 거였거든요. 그래도 하준이는 봉사의 기쁨을 알게 되었답니다."
+}

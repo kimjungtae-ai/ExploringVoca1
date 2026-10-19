@@ -1,0 +1,54 @@
+{
+ "word": "meetup",
+ "pos": "명사",
+ "phonetic": "[ˈmiːtʌp]",
+ "meaning": "(비공식) 모임, 만남",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "meet",
+   "meaning": "만나다 (meet)",
+   "note": "사람과 사람이 마주친다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "up",
+   "meaning": "위로, 완전히 (up)",
+   "note": "동사 뒤에 붙어 '모여서 딱 이루어짐'을 더해 줘요."
+  }
+ ],
+ "summary": "<strong>meet</strong> (만나다) + <strong>up</strong> (완전히, 모여서) = 사람들이 약속하고 모이는 것에서 <strong>'모임, 만남'</strong>이 되었어요.",
+ "historyTitle": "동사구 meet up이 명사가 되기까지",
+ "historyBody": "meet는 고대 영어 'metan(만나다, 마주치다)'에서 온 토박이 영어 단어예요. 'meet up (with)'라는 동사구가 쓰이다가 20세기에 붙여 쓴 명사 meetup이 생겼어요. 특히 인터넷으로 모임을 잡는 문화가 퍼지면서 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "meet",
+   "pos": "동사",
+   "meaning": "만나다, 충족시키다",
+   "en": "We need to meet the deadline by Friday.",
+   "ko": "우리는 금요일까지 마감 기한을 맞춰야 해요."
+  },
+  {
+   "word": "meeting",
+   "pos": "명사",
+   "meaning": "회의, 만남",
+   "en": "The meeting was moved to the afternoon.",
+   "ko": "회의가 오후로 옮겨졌어요."
+  },
+  {
+   "word": "meet up",
+   "pos": "동사구",
+   "meaning": "(약속하고) 만나다",
+   "en": "Let's meet up after school at the library.",
+   "ko": "방과 후에 도서관에서 만나자."
+  }
+ ],
+ "imageSense": "대표 의미: 카페에 같은 취미를 가진 사람들이 모여 이야기하는 장면",
+ "imageCaption": "보드게임을 좋아하는 사람들이 주말 카페에 하나둘 모여드는 모습을 떠올려 보세요.",
+ "movieLineEn": "See you at the meetup tonight. Don't be late!",
+ "movieLineKo": "오늘 밤 모임에서 봐. 늦지 마!",
+ "storyTitle": "고양이 집사들의 비밀 모임",
+ "story": "고양이 집사들이 첫 meetup(모임)을 열었어요. 모두 카페에서 meet(만나다)하기로 했죠. meeting(회의) 주제는 '고양이를 이기는 법'. 그런데 다들 집에 고양이가 걱정돼 영상통화로 meet up(만나다)하다가, 결국 화면 속 고양이들끼리 회의를 하고 있었답니다!"
+}

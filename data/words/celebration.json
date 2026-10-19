@@ -1,0 +1,67 @@
+{
+ "word": "celebration",
+ "pos": "명사",
+ "phonetic": "[ˌselɪˈbreɪʃn]",
+ "meaning": "축하, 기념 행사, 찬양",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "celebr",
+   "meaning": "많은 사람이 모이는, 유명한 (crowded, famous)",
+   "note": "라틴어 celeber(붐비는, 유명한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "celebrate(축하하다)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>celebrate</strong> (축하하다) + <strong>-ion</strong> (~하는 것) = '많이 모여 축하하는 일'에서 <strong>'축하, 기념 행사'</strong>가 되었어요.",
+ "historyTitle": "붐비는 사람들이 만든 축제",
+ "historyBody": "celebration은 라틴어 celebratio(많은 사람이 모임, 성대한 행사)에서 왔어요. 그 뿌리 celeber는 '붐비는, 유명한'이라는 뜻이에요. 사람이 많이 모여야 축하가 되고, 많은 사람이 아는 사람이 celebrity(유명인)라는 점이 연결되어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "celebrate",
+   "pos": "동사",
+   "meaning": "축하하다, 기념하다",
+   "en": "We celebrate Chuseok with our grandparents.",
+   "ko": "우리는 조부모님과 함께 추석을 기념해요."
+  },
+  {
+   "word": "celebrity",
+   "pos": "명사",
+   "meaning": "유명 인사",
+   "en": "The celebrity signed autographs for her fans.",
+   "ko": "그 유명인은 팬들에게 사인을 해 주었어요."
+  },
+  {
+   "word": "celebrated",
+   "pos": "형용사",
+   "meaning": "유명한",
+   "en": "The museum displays a celebrated painting.",
+   "ko": "그 박물관은 유명한 그림을 전시하고 있어요."
+  },
+  {
+   "word": "celebratory",
+   "pos": "형용사",
+   "meaning": "축하하는",
+   "en": "Dad bought a celebratory cake for my graduation.",
+   "ko": "아빠는 내 졸업을 축하하는 케이크를 사 오셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 광장에 사람들이 모여 불꽃놀이를 즐기는 새해 축제",
+ "imageCaption": "수많은 사람이 광장에 모여 카운트다운을 외치는 모습을 떠올려 보세요. 그게 celebration이에요.",
+ "movieLineEn": "This calls for a celebration!",
+ "movieLineKo": "이건 축하할 일이야!",
+ "storyTitle": "강아지의 생일 파티",
+ "story": "우리 집 강아지의 생일 celebration(축하 행사)이 열렸어요. 가족들은 celebratory(축하하는) 고깔모자를 쓰고 celebrate(축하하다)했죠. 강아지는 동네의 celebrity(유명 인사)라 이웃들도 몰려왔어요. 그런데 케이크를 자르려는 순간, 주인공이 케이크에 얼굴을 박고 다 먹어 버렸답니다!"
+}

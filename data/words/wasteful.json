@@ -1,0 +1,61 @@
+{
+ "word": "wasteful",
+ "pos": "형용사",
+ "phonetic": "[ˈweɪstfl]",
+ "meaning": "낭비하는, 낭비적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "waste",
+   "meaning": "낭비, 낭비하다 (waste)",
+   "note": "고대 북부 프랑스어 waster를 거쳐, 라틴어 vastare(황폐하게 하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ful",
+   "meaning": "~이 가득한, ~한 경향이 있는",
+   "note": "형용사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>waste</strong> (낭비) + <strong>-ful</strong> (~이 가득한) = <strong>'낭비하는, 낭비가 심한'</strong>이 되었어요.",
+ "historyTitle": "텅 빈 황무지에서 낭비로",
+ "historyBody": "waste는 라틴어 vastus(텅 빈, 황량한)와 vastare(황폐하게 하다)에서 와서, 원래 '황무지'나 '망치다'라는 뜻이었어요. 여기서 '헛되이 쓰다, 낭비하다'로 의미가 바뀌었죠. 같은 뿌리인 vast(광대한)와 devastate(황폐하게 하다)도 함께 알아 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "waste",
+   "pos": "명사 / 동사",
+   "meaning": "낭비, 쓰레기 / 낭비하다",
+   "en": "Don't waste your time on video games.",
+   "ko": "비디오 게임에 시간을 낭비하지 마."
+  },
+  {
+   "word": "vast",
+   "pos": "형용사",
+   "meaning": "광대한, 막대한",
+   "en": "The Sahara is a vast desert.",
+   "ko": "사하라는 광대한 사막이에요."
+  },
+  {
+   "word": "devastate",
+   "pos": "동사",
+   "meaning": "황폐하게 하다, 큰 충격을 주다",
+   "en": "The storm devastated the small village.",
+   "ko": "폭풍이 작은 마을을 황폐하게 만들었어요."
+  },
+  {
+   "word": "wasteland",
+   "pos": "명사",
+   "meaning": "황무지",
+   "en": "The old factory site became a wasteland.",
+   "ko": "옛 공장 부지는 황무지가 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 물을 틀어 놓은 채 양치하는 모습",
+ "imageCaption": "수도꼭지를 콸콸 틀어 놓고 양치하는 모습을 떠올려 보세요. 그게 바로 wasteful한 습관이에요.",
+ "movieLineEn": "Throwing away good food? That's so wasteful!",
+ "movieLineKo": "멀쩡한 음식을 버린다고? 그건 정말 낭비야!",
+ "storyTitle": "절약왕의 반전",
+ "story": "준호는 wasteful(낭비하는) 습관을 고치기로 했어요. 물도, 전기도 waste(낭비하다)하지 않았죠. 친구들은 그의 vast(막대한) 절약 정신에 감탄했어요. 그런데 한 달 뒤 준호가 devastate(큰 충격을 주다)된 얼굴로 나타났어요. 아껴 둔 용돈을 다 쓴 곳은... 절약 관련 책 50권이었대요."
+}

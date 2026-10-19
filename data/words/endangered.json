@@ -1,0 +1,67 @@
+{
+ "word": "endangered",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈdeɪndʒərd]",
+ "meaning": "멸종 위기에 처한, 위험에 처한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~안에 넣다 (put into)",
+   "note": "'그 상태에 빠뜨리다'라는 동사를 만들어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "danger",
+   "meaning": "위험 (danger)",
+   "note": "고대 프랑스어 dangier(지배력, 해칠 수 있는 힘)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사형 형용사)",
+   "note": "'그런 상태가 된'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (~에 빠뜨리다) + <strong>danger</strong> (위험) + <strong>-ed</strong> (~된) = '위험 속에 빠진'에서 <strong>'멸종 위기에 처한'</strong>이 되었어요.",
+ "historyTitle": "영주의 '지배력'에서 '위험'으로",
+ "historyBody": "danger는 고대 프랑스어 dangier에서 왔는데, 원래 뜻은 '지배력, 남을 해칠 수 있는 권력'이었어요. 그 뿌리는 라틴어 dominus(주인)와 관련된 말로 보여요. 영주의 힘 아래 놓이면 위험했기에 '위험'이 되었고, endangered species(멸종 위기종)라는 표현은 20세기에 널리 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "danger",
+   "pos": "명사",
+   "meaning": "위험",
+   "en": "The sign warned us of danger ahead.",
+   "ko": "표지판이 앞쪽의 위험을 경고했어요."
+  },
+  {
+   "word": "dangerous",
+   "pos": "형용사",
+   "meaning": "위험한",
+   "en": "It is dangerous to swim in this river.",
+   "ko": "이 강에서 수영하는 것은 위험해요."
+  },
+  {
+   "word": "endanger",
+   "pos": "동사",
+   "meaning": "위험에 빠뜨리다",
+   "en": "Pollution endangers many sea animals.",
+   "ko": "오염은 많은 바다 동물을 위험에 빠뜨려요."
+  },
+  {
+   "word": "dominate",
+   "pos": "동사",
+   "meaning": "지배하다",
+   "en": "Large companies dominate the market.",
+   "ko": "대기업들이 시장을 지배하고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄어드는 얼음 위에 홀로 서 있는 북극곰",
+ "imageCaption": "녹아내리는 빙하 위에서 갈 곳을 잃은 북극곰을 떠올려 보세요. 위험 속에 놓인 모습이에요.",
+ "movieLineEn": "If we don't act now, these endangered animals will be gone forever.",
+ "movieLineKo": "지금 행동하지 않으면 이 멸종 위기 동물들은 영원히 사라질 거야.",
+ "storyTitle": "판다의 위험한 휴가",
+ "story": "endangered(멸종 위기에 처한) 판다는 동물원 생활이 지루했어요. 그래서 몰래 도시로 휴가를 떠났죠. 사람들은 dangerous(위험한) 일이라며 걱정했어요. 판다가 자기 안전을 endanger(위험에 빠뜨리다)할까 봐서요. 그런데 판다는 대나무 카페를 열어 대박이 났어요. danger(위험)보다 손님이 더 많았대요!"
+}

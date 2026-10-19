@@ -1,0 +1,68 @@
+{
+ "word": "varying",
+ "pos": "형용사",
+ "phonetic": "[ˈveriɪŋ]",
+ "meaning": "다양한, 여러 가지의, 변화하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "vary",
+   "meaning": "다르다, 바꾸다 (vary)",
+   "note": "라틴어 variare(바꾸다)에서 온 동사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (현재분사)",
+   "note": "동사에 붙어 '~하는'이라는 형용사 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>vary</strong> (다르다) + <strong>-ing</strong> (~하는) = '서로 다른, 변하는'이라는 뜻에서 <strong>'다양한'</strong>이 되었어요.",
+ "historyTitle": "정도가 제각각인 것들",
+ "historyBody": "vary는 라틴어 varius(다양한)에서 온 동사예요. 현재분사 varying은 'varying degrees(다양한 정도)', 'varying sizes(제각각인 크기)'처럼 '서로 다른'이라는 뜻의 형용사로 수능 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vary",
+   "pos": "동사",
+   "meaning": "다르다, 다양하다",
+   "en": "Opinions vary on this topic.",
+   "ko": "이 주제에 대해서는 의견이 다양해요."
+  },
+  {
+   "word": "variety",
+   "pos": "명사",
+   "meaning": "다양성",
+   "en": "We grew a variety of vegetables in the garden.",
+   "ko": "우리는 정원에서 다양한 채소를 길렀어요."
+  },
+  {
+   "word": "various",
+   "pos": "형용사",
+   "meaning": "다양한",
+   "en": "She has visited various countries in Asia.",
+   "ko": "그녀는 아시아의 여러 나라를 방문했어요."
+  },
+  {
+   "word": "variation",
+   "pos": "명사",
+   "meaning": "변화, 차이",
+   "en": "Small variations in diet can affect your health.",
+   "ko": "식단의 작은 변화가 건강에 영향을 줄 수 있어요."
+  },
+  {
+   "word": "variable",
+   "pos": "명사",
+   "meaning": "변수",
+   "en": "Scientists tested one variable at a time.",
+   "ko": "과학자들은 한 번에 하나의 변수만 실험했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 크기가 제각각인 상자들이 줄지어 놓인 모습",
+ "imageCaption": "작은 상자, 중간 상자, 아주 큰 상자가 나란히 놓인 장면을 떠올려 보세요. 크기가 varying한 상자들이에요.",
+ "movieLineEn": "People of varying ages joined the march for peace.",
+ "movieLineKo": "다양한 나이의 사람들이 평화 행진에 참여했어요.",
+ "storyTitle": "제각각 눈사람 대회",
+ "story": "마을 눈사람 대회에 varying(다양한) 크기의 눈사람이 모였어요. 모양도 vary(다르다)했고 표정도 various(다양한)했죠. 심사위원은 그 variety(다양성)에 감탄했어요. 그런데 우승작은 아무것도 없는 빈자리! 알고 보니 햇볕에 다 녹은 '투명 눈사람'이었답니다."
+}

@@ -1,0 +1,48 @@
+{
+ "word": "trend",
+ "pos": "명사 / 동사",
+ "phonetic": "[trend]",
+ "meaning": "경향, 추세, 유행 / 향하다, 기울다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "trend (← trendan)",
+   "meaning": "구르다, 돌다 (turn, roll)",
+   "note": "고대 영어 trendan(돌다, 구르다)에서 온 순수 영어 단어라 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "고대 영어 <strong>trendan</strong> (돌다, 구르다)에서 와서, 흐름이 한쪽으로 도는 <strong>'경향, 추세, 유행'</strong>이 되었어요.",
+ "historyTitle": "강물이 휘어 도는 방향",
+ "historyBody": "trend는 고대 영어 'trendan(돌다, 구르다)'에서 왔어요. 처음엔 강이나 해안선이 휘어서 '어느 방향으로 향하다'라는 뜻으로 쓰였죠. 19세기 무렵 '세상 흐름이 기우는 방향', 즉 '경향'이라는 뜻이 생겼고, 20세기에 '유행'이라는 뜻이 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trendy",
+   "pos": "형용사",
+   "meaning": "최신 유행의",
+   "en": "She always wears trendy clothes to school events.",
+   "ko": "그녀는 학교 행사에 항상 최신 유행 옷을 입고 와요."
+  },
+  {
+   "word": "trending",
+   "pos": "형용사",
+   "meaning": "인기 급상승 중인",
+   "en": "This video is trending all over social media.",
+   "ko": "이 영상은 소셜 미디어 전체에서 인기 급상승 중이에요."
+  },
+  {
+   "word": "trendsetter",
+   "pos": "명사",
+   "meaning": "유행을 선도하는 사람",
+   "en": "He became a trendsetter after his style went viral.",
+   "ko": "그는 자신의 스타일이 화제가 된 뒤 유행을 이끄는 사람이 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 그래프의 선이 꾸준히 위로 올라가는 모습",
+ "imageCaption": "그래프 선이 한 방향으로 쭉 올라가는 모습, 또는 많은 사람이 같은 옷을 입는 거리를 떠올려 보세요.",
+ "movieLineEn": "Socks with sandals? Trust me, it's the next big trend.",
+ "movieLineKo": "샌들에 양말? 믿어 봐, 이게 다음 대유행이야.",
+ "storyTitle": "할아버지는 패션왕",
+ "story": "할아버지는 40년 전 바지를 꺼내 입으셨어요. 우리는 웃었지만, 다음 날 그 바지가 trend(유행)가 되었어요! 할아버지 사진이 SNS에서 trending(인기 급상승 중인)이었고, 사람들은 할아버지를 trendsetter(유행 선도자)라 불렀죠. 할아버지는 웃으며 말했어요. \"난 그냥 trendy(유행하는)한 바지를 버리지 않았을 뿐이란다.\""
+}

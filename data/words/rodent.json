@@ -1,0 +1,61 @@
+{
+ "word": "rodent",
+ "pos": "명사",
+ "phonetic": "[ˈroʊdnt]",
+ "meaning": "설치류 (쥐, 다람쥐 등)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rod",
+   "meaning": "갉아먹다 (gnaw)",
+   "note": "라틴어 rodere(갉다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 (것)",
+   "note": "라틴어 현재분사 어미로 '~하는 것'을 만들어요."
+  }
+ ],
+ "summary": "<strong>rod</strong> (갉아먹다) + <strong>-ent</strong> (~하는 것) = '갉아먹는 동물'에서 <strong>'설치류'</strong>가 되었어요.",
+ "historyTitle": "평생 이를 갈아야 하는 동물",
+ "historyBody": "rodent는 라틴어 rodere(갉다)의 현재분사 rodentem에서 19세기에 영어로 들어왔어요. 쥐나 다람쥐 같은 설치류는 앞니가 평생 자라기 때문에 계속 무언가를 갉아야 하죠. 같은 뿌리의 erode(침식하다)는 물과 바람이 땅을 '갉아먹는' 모습을 나타낸답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "erode",
+   "pos": "동사",
+   "meaning": "침식하다, 약화시키다",
+   "en": "Strong waves slowly erode the rocks on the shore.",
+   "ko": "강한 파도가 해안의 바위를 천천히 깎아 내요."
+  },
+  {
+   "word": "erosion",
+   "pos": "명사",
+   "meaning": "침식",
+   "en": "Trees help prevent soil erosion on hills.",
+   "ko": "나무는 언덕의 토양 침식을 막는 데 도움을 줘요."
+  },
+  {
+   "word": "corrode",
+   "pos": "동사",
+   "meaning": "부식시키다",
+   "en": "Salt water can corrode metal over time.",
+   "ko": "소금물은 시간이 지나면 금속을 부식시킬 수 있어요."
+  },
+  {
+   "word": "corrosion",
+   "pos": "명사",
+   "meaning": "부식",
+   "en": "The old bridge showed signs of corrosion.",
+   "ko": "그 오래된 다리에는 부식의 흔적이 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 앞니로 해바라기씨를 오독오독 갉는 햄스터",
+ "imageCaption": "두 볼이 빵빵한 햄스터가 작은 앞니로 씨앗을 갉아먹는 모습을 떠올려 보세요.",
+ "movieLineEn": "There's a rodent in the kitchen, and it's eating our cheese!",
+ "movieLineKo": "부엌에 쥐가 있어. 우리 치즈를 먹고 있다고!",
+ "storyTitle": "갉아먹기 대장",
+ "story": "햄스터 콩이는 자랑스러운 rodent(설치류)예요. 매일 철창을 gnaw(갉다)하며 이를 다듬죠. 어느 날 콩이는 바닷가 바위가 erosion(침식)으로 깎였다는 뉴스를 보고 질투했어요. \"나도 erode(침식하다)할 수 있어!\" 그날 밤 콩이가 갉은 건 바위가 아니라 주인의 수학 교과서였답니다."
+}

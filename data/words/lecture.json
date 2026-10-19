@@ -1,0 +1,68 @@
+{
+ "word": "lecture",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈlektʃər]",
+ "meaning": "강의, 설교, 잔소리 / 강의하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "lect",
+   "meaning": "읽다 (read)",
+   "note": "라틴어 legere(읽다, 모으다)의 과거분사 lectus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것 (명사형)",
+   "note": "행위나 결과를 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>lect</strong> (읽다) + <strong>-ure</strong> (것) = '소리 내어 읽어 주는 것'에서 <strong>'강의'</strong>가 되었어요.",
+ "historyTitle": "책을 소리 내어 읽어 주던 중세 대학",
+ "historyBody": "중세 라틴어 lectura는 '읽기'라는 뜻으로, legere(읽다)에서 왔어요. 책이 아주 귀하던 중세 대학에서는 교수가 책을 소리 내어 '읽어' 주고 학생들이 받아 적는 것이 수업이었어요. 그래서 '읽기'가 '강의'가 되었고, 나중에는 '긴 잔소리'라는 뜻까지 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lecturer",
+   "pos": "명사",
+   "meaning": "강사, 강연자",
+   "en": "The lecturer showed us pictures of ancient Rome.",
+   "ko": "강사님은 우리에게 고대 로마 사진을 보여 주셨어요."
+  },
+  {
+   "word": "legend",
+   "pos": "명사",
+   "meaning": "전설",
+   "en": "There is a legend about a dragon in that lake.",
+   "ko": "그 호수에는 용에 관한 전설이 있어요."
+  },
+  {
+   "word": "legible",
+   "pos": "형용사",
+   "meaning": "읽기 쉬운, 알아볼 수 있는",
+   "en": "Please write your answers in legible handwriting.",
+   "ko": "답은 알아볼 수 있는 글씨로 써 주세요."
+  },
+  {
+   "word": "collect",
+   "pos": "동사",
+   "meaning": "모으다, 수집하다",
+   "en": "My brother collects old coins from different countries.",
+   "ko": "우리 형은 여러 나라의 옛날 동전을 모아요."
+  },
+  {
+   "word": "select",
+   "pos": "동사",
+   "meaning": "선택하다, 고르다",
+   "en": "Select the best answer from the choices below.",
+   "ko": "아래 보기 중에서 가장 알맞은 답을 고르세요."
+  }
+ ],
+ "imageSense": "대표 의미: 큰 강의실에서 교수님이 마이크를 들고 설명하는 장면",
+ "imageCaption": "교수님이 책을 '읽어 주며' 설명하던 옛날 수업을 떠올리세요. 그게 lecture의 시작이에요.",
+ "movieLineEn": "Spare me the lecture, Dad. I know I messed up.",
+ "movieLineKo": "잔소리는 그만해요, 아빠. 제가 망친 거 알아요.",
+ "storyTitle": "전설의 강의",
+ "story": "유명한 lecturer(강사)가 '전설의 공부법' lecture(강의)를 열었어요. 학생들은 강의를 들으려고 용돈을 collect(모으다)했죠. 강사는 공부법 하나를 select(고르다)해서 설명했어요. \"글씨를 legible(알아볼 수 있는)하게 쓰세요.\" 그게 끝이었어요. 그 강의는 지금도 legend(전설)로 남아 있대요. 가장 짧은 강의로요."
+}

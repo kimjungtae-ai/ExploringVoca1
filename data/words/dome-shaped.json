@@ -1,0 +1,67 @@
+{
+ "word": "dome-shaped",
+ "pos": "형용사",
+ "phonetic": "[ˈdoʊm ʃeɪpt]",
+ "meaning": "돔 모양의, 반구형의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "dome",
+   "meaning": "둥근 지붕 (dome)",
+   "note": "라틴어 domus(집)에서 이탈리아어 duomo(대성당)를 거쳐 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shape",
+   "meaning": "모양 (shape)",
+   "note": "고대 영어 gesceap(모양, 창조물)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~을 가진 (having)",
+   "note": "명사 뒤에 붙어 '그런 모양을 가진'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>dome</strong> (둥근 지붕) + <strong>shape</strong> (모양) + <strong>-ed</strong> (~을 가진) = '둥근 지붕 모양을 가진'에서 <strong>'반구형의'</strong>가 되었어요.",
+ "historyTitle": "로마의 '집'이 둥근 지붕이 되기까지",
+ "historyBody": "dome은 라틴어 domus(집)에서 이탈리아어 duomo(대성당)를 거쳐 프랑스어 dôme으로 들어왔어요. 이탈리아 대성당들의 커다란 둥근 지붕 때문에 '둥근 지붕'이라는 뜻이 생겼어요. shape는 고대 영어 gesceap에서 온 게르만어 단어로, 두 말이 합쳐진 복합어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dome",
+   "pos": "명사",
+   "meaning": "둥근 지붕, 돔",
+   "en": "The church has a beautiful golden dome.",
+   "ko": "그 교회에는 아름다운 황금빛 돔이 있어요."
+  },
+  {
+   "word": "domestic",
+   "pos": "형용사",
+   "meaning": "가정의, 국내의",
+   "en": "Domestic flights are cheaper than international ones.",
+   "ko": "국내선은 국제선보다 저렴해요."
+  },
+  {
+   "word": "domesticate",
+   "pos": "동사",
+   "meaning": "길들이다",
+   "en": "Humans domesticated dogs thousands of years ago.",
+   "ko": "인간은 수천 년 전에 개를 길들였어요."
+  },
+  {
+   "word": "shape",
+   "pos": "명사 / 동사",
+   "meaning": "모양 / 형성하다",
+   "en": "Our childhood experiences shape who we are.",
+   "ko": "어린 시절의 경험이 우리가 누구인지를 형성해요."
+  }
+ ],
+ "imageSense": "대표 의미: 이글루처럼 둥글게 솟은 반구 모양의 지붕",
+ "imageCaption": "그릇을 엎어 놓은 것 같은 둥근 이글루나 천문대 지붕을 떠올려 보세요.",
+ "movieLineEn": "Look at that dome-shaped building! It looks like a giant egg!",
+ "movieLineKo": "저 돔 모양 건물 좀 봐! 거대한 달걀 같아!",
+ "storyTitle": "둥근 집에 사는 거북이",
+ "story": "거북이는 자기 dome-shaped(돔 모양의) 등딱지가 자랑이었어요. '이건 움직이는 dome(둥근 지붕) 집이야!' domestic(가정의) 고양이가 부러워했죠. 둘은 집을 바꿔 보기로 했어요. 그런데 고양이는 등딱지에 끼어 굴러다니고, 거북이는 고양이 집 shape(모양)에 안 맞아 문에 끼었답니다."
+}

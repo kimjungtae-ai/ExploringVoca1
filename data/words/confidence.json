@@ -1,0 +1,67 @@
+{
+ "word": "confidence",
+ "pos": "명사",
+ "phonetic": "[ˈkɑːnfɪdəns]",
+ "meaning": "자신감, 신뢰, 확신",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 만들어 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fid",
+   "meaning": "믿다 (trust)",
+   "note": "라틴어 fidere(믿다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 상태 (명사)",
+   "note": "상태나 성질을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>fid</strong> (믿다) + <strong>-ence</strong> (상태) = '완전히 믿는 상태'에서 <strong>'자신감, 신뢰'</strong>가 되었어요.",
+ "historyTitle": "로마인의 믿음, fides",
+ "historyBody": "confidence는 라틴어 confidentia에서 왔고, 그 뿌리 confidere는 con(완전히)과 fidere(믿다)가 합쳐진 말이에요. 로마에는 '믿음, 신의'를 뜻하는 여신 Fides도 있었어요. 남을 믿으면 신뢰, 나를 믿으면 자신감이 되는 거랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "confident",
+   "pos": "형용사",
+   "meaning": "자신 있는, 확신하는",
+   "en": "She felt confident before the speech contest.",
+   "ko": "그녀는 말하기 대회 전에 자신감이 있었어요."
+  },
+  {
+   "word": "confide",
+   "pos": "동사",
+   "meaning": "(비밀을) 털어놓다",
+   "en": "He confided his worries to his best friend.",
+   "ko": "그는 가장 친한 친구에게 걱정을 털어놓았어요."
+  },
+  {
+   "word": "confidential",
+   "pos": "형용사",
+   "meaning": "기밀의, 비밀의",
+   "en": "Please keep this information confidential.",
+   "ko": "이 정보는 비밀로 해 주세요."
+  },
+  {
+   "word": "fidelity",
+   "pos": "명사",
+   "meaning": "충실, 정확도",
+   "en": "The dog showed great fidelity to its owner.",
+   "ko": "그 개는 주인에게 큰 충성심을 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 위에서 당당하게 마이크를 잡은 학생",
+ "imageCaption": "떨리는 다리 대신 곧게 편 어깨로 무대에 선 모습을 떠올려 보세요. 나를 완전히 믿는 마음이 confidence예요.",
+ "movieLineEn": "Believe in yourself. Confidence is your greatest weapon.",
+ "movieLineKo": "너 자신을 믿어. 자신감이 너의 가장 큰 무기야.",
+ "storyTitle": "자신감 넘치는 앵무새",
+ "story": "앵무새 초코는 노래 대회에 confident(자신 있는)하게 나갔어요. 넘치는 confidence(자신감)로 무대에 섰죠. 사실 초코는 주인에게만 confide(털어놓다)한 confidential(비밀의) 약점이 있었어요. 노래를 하나밖에 몰랐거든요. 그런데 그 노래가 '우승자 축하곡'이라 심사위원들이 헷갈려 1등을 줬대요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "well-crafted",
+ "pos": "형용사",
+ "phonetic": "[ˌwel ˈkræftɪd]",
+ "meaning": "공들여 만든, 잘 만들어진",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "well",
+   "meaning": "잘 (well)",
+   "note": "고대 영어 wel(잘, 좋게)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "craft",
+   "meaning": "기술, 공예, 정성 들여 만들다 (craft)",
+   "note": "고대 영어 cræft(힘, 기술)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사)",
+   "note": "'~된, ~하게 만들어진'이라는 형용사 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>well</strong> (잘) + <strong>craft</strong> (정성 들여 만들다) + <strong>-ed</strong> (~된) = <strong>'공들여 잘 만들어진'</strong>이 되었어요.",
+ "historyTitle": "힘에서 기술로",
+ "historyBody": "craft는 고대 영어 cræft에서 왔는데, 원래 '힘, 세기'라는 뜻이었어요. 독일어 Kraft(힘)가 같은 단어죠. 영어에서는 '솜씨, 기술'로 뜻이 바뀌어 handicraft(수공예)나 aircraft(항공기)에도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "craft",
+   "pos": "명사 / 동사",
+   "meaning": "공예, 기술 / 공들여 만들다",
+   "en": "She crafted a beautiful necklace from shells.",
+   "ko": "그녀는 조개껍데기로 아름다운 목걸이를 만들었어요."
+  },
+  {
+   "word": "craftsman",
+   "pos": "명사",
+   "meaning": "장인, 공예가",
+   "en": "The craftsman spent years building this chair.",
+   "ko": "그 장인은 이 의자를 만드는 데 몇 년을 보냈어요."
+  },
+  {
+   "word": "handicraft",
+   "pos": "명사",
+   "meaning": "수공예(품)",
+   "en": "The market sells local handicrafts.",
+   "ko": "그 시장은 지역 수공예품을 팔아요."
+  },
+  {
+   "word": "aircraft",
+   "pos": "명사",
+   "meaning": "항공기",
+   "en": "The aircraft landed safely in heavy rain.",
+   "ko": "그 항공기는 폭우 속에서 안전하게 착륙했어요."
+  },
+  {
+   "word": "spacecraft",
+   "pos": "명사",
+   "meaning": "우주선",
+   "en": "The spacecraft sent photos of Mars.",
+   "ko": "그 우주선은 화성 사진을 보내왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 장인이 나무를 깎아 정교한 의자를 완성하는 장면",
+ "imageCaption": "작업실에서 장인이 몇 달 동안 다듬어 완성한 매끈한 나무 의자를 떠올려 보세요.",
+ "movieLineEn": "This is a well-crafted plan. Nobody will notice a thing.",
+ "movieLineKo": "이건 공들여 짠 계획이야. 아무도 눈치채지 못할 거야.",
+ "storyTitle": "완벽한 종이비행기",
+ "story": "지훈이는 craftsman(장인)처럼 종이비행기를 craft(공들여 만들다)했어요. 날개 각도까지 계산한 well-crafted(공들여 만든) 작품이었죠. 진짜 aircraft(항공기) 같았어요. 힘차게 날리자 비행기는 멋지게 날아... 교장 선생님 커피잔에 착륙했어요. 지훈이의 비행 면허는 그날 취소됐답니다."
+}

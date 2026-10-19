@@ -1,0 +1,68 @@
+{
+ "word": "represent",
+ "pos": "동사",
+ "phonetic": "[ˌreprɪˈzent]",
+ "meaning": "대표하다, 나타내다, 표현하다, 상징하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again), 강조",
+   "note": "앞에 다시 내놓는다는 느낌을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "present",
+   "meaning": "앞에 내놓다, 보여 주다 (present)",
+   "note": "라틴어 praesentare(앞에 내놓다)에서 왔어요. prae(앞에)+esse(있다)가 바탕이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>present</strong> (앞에 내놓다) = '다시 눈앞에 보여 주다'에서 <strong>'나타내다, 대표하다'</strong>가 되었어요.",
+ "historyTitle": "눈앞에 다시 데려다 놓기",
+ "historyBody": "represent는 라틴어 repraesentare(다시 눈앞에 보여 주다)가 고대 프랑스어 representer를 거쳐 영어로 들어온 말이에요. 그 자리에 없는 것을 그림·기호·사람으로 '다시 앞에 내놓는' 것이 핵심이죠. 그래서 '나타내다, 상징하다'와 '대표하다'라는 뜻을 모두 갖게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "present",
+   "pos": "동사 / 형용사",
+   "meaning": "제시하다, 발표하다 / 현재의, 참석한",
+   "en": "Each group will present its project on Friday.",
+   "ko": "각 모둠은 금요일에 프로젝트를 발표할 거예요."
+  },
+  {
+   "word": "representative",
+   "pos": "명사 / 형용사",
+   "meaning": "대표자 / 대표하는",
+   "en": "She was chosen as our school's representative.",
+   "ko": "그녀는 우리 학교 대표로 뽑혔어요."
+  },
+  {
+   "word": "representation",
+   "pos": "명사",
+   "meaning": "표현, 묘사, 대표",
+   "en": "The painting is a representation of peace.",
+   "ko": "그 그림은 평화를 표현한 것이에요."
+  },
+  {
+   "word": "presence",
+   "pos": "명사",
+   "meaning": "존재, 참석",
+   "en": "Thank you for your presence at the meeting.",
+   "ko": "회의에 참석해 주셔서 감사합니다."
+  },
+  {
+   "word": "presentation",
+   "pos": "명사",
+   "meaning": "발표, 제시",
+   "en": "I was nervous before my English presentation.",
+   "ko": "나는 영어 발표 전에 긴장했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 국기를 들고 나라를 대표해 입장하는 선수",
+ "imageCaption": "올림픽 개막식에서 국기를 높이 들고 걸어가는 선수를 떠올려 보세요. 그 한 사람이 나라 전체를 '대신 보여 주는' 거예요.",
+ "movieLineEn": "I represent the people of this planet, and we come in peace.",
+ "movieLineKo": "나는 이 행성 사람들을 대표하오. 우리는 평화를 위해 왔소.",
+ "storyTitle": "반 대표의 첫 임무",
+ "story": "준호는 우리 반 representative(대표자)로 뽑혀 학교 회의에서 반을 represent(대표하다)하게 됐어요. 멋진 presentation(발표)을 준비했죠. 그런데 너무 긴장해서 present(발표하다)할 때 원고 대신 급식 메뉴판을 읽어 버렸어요. 회의 결과, 다음 주 메뉴가 바뀌었답니다!"
+}

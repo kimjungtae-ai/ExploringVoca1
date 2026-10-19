@@ -1,0 +1,68 @@
+{
+ "word": "workout",
+ "pos": "명사",
+ "phonetic": "[ˈwɜːrkaʊt]",
+ "meaning": "운동, 체력 단련",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "work",
+   "meaning": "일하다, 애쓰다 (work)",
+   "note": "고대 영어 weorc(일, 행위)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "고대 영어 ut(밖으로)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>work</strong> (애쓰다) + <strong>out</strong> (끝까지) = '끝까지 힘써 몸을 단련함'이라는 뜻에서 <strong>'운동'</strong>이 되었어요.",
+ "historyTitle": "work out에서 workout으로",
+ "historyBody": "동사구 work out은 '애써서 해내다, 풀어내다'라는 뜻으로 오래전부터 쓰였어요. 20세기 초부터 운동선수의 '연습, 단련'을 가리키는 명사 workout이 생겼고, 지금은 헬스장 운동을 뜻하는 대표 단어가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "work",
+   "pos": "동사 / 명사",
+   "meaning": "일하다 / 일",
+   "en": "My mom works at a hospital.",
+   "ko": "엄마는 병원에서 일하세요."
+  },
+  {
+   "word": "workplace",
+   "pos": "명사",
+   "meaning": "직장",
+   "en": "Our workplace has a small gym.",
+   "ko": "우리 직장에는 작은 체육관이 있어요."
+  },
+  {
+   "word": "coworker",
+   "pos": "명사",
+   "meaning": "동료",
+   "en": "My coworker helped me finish the project.",
+   "ko": "동료가 프로젝트 마무리를 도와줬어요."
+  },
+  {
+   "word": "homework",
+   "pos": "명사",
+   "meaning": "숙제",
+   "en": "I always do my homework after dinner.",
+   "ko": "나는 항상 저녁 먹고 숙제를 해요."
+  },
+  {
+   "word": "workshop",
+   "pos": "명사",
+   "meaning": "워크숍, 작업장",
+   "en": "We joined a writing workshop last summer.",
+   "ko": "우리는 지난여름 글쓰기 워크숍에 참여했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 헬스장에서 땀 흘리며 덤벨을 드는 모습",
+ "imageCaption": "땀을 뻘뻘 흘리며 덤벨을 들어 올리는 사람을 떠올려 보세요. 힘들지만 끝까지 해내는 게 workout이에요.",
+ "movieLineEn": "No pain, no gain! Let's finish this workout!",
+ "movieLineKo": "고통 없이는 얻는 것도 없어! 이 운동 끝내자!",
+ "storyTitle": "숙제냐 운동이냐",
+ "story": "민재는 homework(숙제)가 하기 싫어서 workout(운동)을 시작했어요. \"건강이 먼저야!\" 매일 팔굽혀펴기를 100개씩 했죠. 한 달 뒤 근육이 생겼지만 숙제는 산더미! 선생님이 말했어요. \"민재야, 그 근육으로 숙제 공책을 들어 볼까?\" 민재의 진짜 work(일)가 시작됐어요."
+}

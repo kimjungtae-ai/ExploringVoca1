@@ -1,0 +1,74 @@
+{
+ "word": "permission",
+ "pos": "명사",
+ "phonetic": "[pərˈmɪʃn]",
+ "meaning": "허락, 허가, 승인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "per-",
+   "meaning": "통과하여 (through)",
+   "note": "무언가가 지나가도록 한다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "miss (mit)",
+   "meaning": "보내다, 놓아주다 (send, let go)",
+   "note": "라틴어 mittere(보내다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "행위를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>per-</strong> (통과하여) + <strong>miss</strong> (보내다) + <strong>-ion</strong> (~하는 것) = 지나가도록 놓아주는 것이라서 <strong>'허락, 허가'</strong>가 되었어요.",
+ "historyTitle": "문을 '통과해 보내 주는' 일",
+ "historyBody": "라틴어 permittere는 per-(통과하여)와 mittere(보내다, 놓아주다)가 합쳐져 '지나가게 하다, 허락하다'라는 뜻이었어요. 그 명사 permissio가 고대 프랑스어를 거쳐 15세기 영어 permission이 되었어요. mission(임무, 보내진 일)과 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "permit",
+   "pos": "동사/명사",
+   "meaning": "허락하다 / 허가증",
+   "en": "Smoking is not permitted in the building.",
+   "ko": "건물 안에서는 흡연이 허용되지 않아요."
+  },
+  {
+   "word": "mission",
+   "pos": "명사",
+   "meaning": "임무, 사명",
+   "en": "Their mission was to help the flood victims.",
+   "ko": "그들의 임무는 홍수 피해자를 돕는 것이었어요."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다, 전염시키다",
+   "en": "Mosquitoes can transmit some diseases.",
+   "ko": "모기는 몇몇 질병을 옮길 수 있어요."
+  },
+  {
+   "word": "submit",
+   "pos": "동사",
+   "meaning": "제출하다",
+   "en": "Please submit your essay by Monday.",
+   "ko": "월요일까지 에세이를 제출하세요."
+  },
+  {
+   "word": "admit",
+   "pos": "동사",
+   "meaning": "인정하다, 입장을 허락하다",
+   "en": "He admitted that he was wrong.",
+   "ko": "그는 자기가 틀렸다는 걸 인정했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 경비원이 고개를 끄덕이며 문을 열어 주는 장면",
+ "imageCaption": "선생님이 '좋아, 가도 돼'라며 교문을 통과하도록 허락해 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "You don't have permission to enter this room.",
+ "movieLineKo": "너는 이 방에 들어올 허가가 없어.",
+ "storyTitle": "허락받는 강아지",
+ "story": "강아지 보리는 간식을 먹기 전에 늘 permission(허락)을 기다려요. 주인이 '먹어도 돼'라고 permit(허락하다)해야만 먹죠. 어느 날 주인이 깜빡하고 잠들었어요. 보리는 밤새 기다리며 mission(임무)을 지켰고, 아침에 주인은 미안함을 admit(인정하다)하며 간식을 두 배로 줬대요!"
+}

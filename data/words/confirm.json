@@ -1,0 +1,61 @@
+{
+ "word": "confirm",
+ "pos": "동사",
+ "phonetic": "[kənˈfɜːrm]",
+ "meaning": "확인하다, 확정하다, 입증하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 만들어 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "firm",
+   "meaning": "단단하게 하다 (make strong)",
+   "note": "라틴어 firmare(단단하게 하다), firmus(단단한)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>firm</strong> (단단하게 하다) = '완전히 단단하게 굳히다'에서 <strong>'확인하다, 확정하다'</strong>가 되었어요.",
+ "historyTitle": "흔들리는 것을 단단히",
+ "historyBody": "confirm은 라틴어 confirmare(강하게 하다, 굳건히 하다)에서 고대 프랑스어를 거쳐 들어왔어요. 뿌리 firmus는 '단단한, 튼튼한'이라는 뜻으로 영어 firm에도 남아 있어요. 불확실한 사실을 단단하게 고정하는 것이 '확인'이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "firm",
+   "pos": "형용사 / 명사",
+   "meaning": "단단한, 확고한 / 회사",
+   "en": "He gave me a firm handshake.",
+   "ko": "그는 나와 힘 있게 악수했어요."
+  },
+  {
+   "word": "confirmation",
+   "pos": "명사",
+   "meaning": "확인, 확정",
+   "en": "You will get an email confirmation of your order.",
+   "ko": "주문 확인 이메일을 받게 될 거예요."
+  },
+  {
+   "word": "affirm",
+   "pos": "동사",
+   "meaning": "단언하다, 확언하다",
+   "en": "The president affirmed his support for the plan.",
+   "ko": "대통령은 그 계획에 대한 지지를 확언했어요."
+  },
+  {
+   "word": "infirm",
+   "pos": "형용사",
+   "meaning": "허약한",
+   "en": "She takes care of her old and infirm grandfather.",
+   "ko": "그녀는 연로하고 허약한 할아버지를 돌봐요."
+  }
+ ],
+ "imageSense": "대표 의미: 예약 화면에서 '확인' 버튼을 꾹 누르는 손가락",
+ "imageCaption": "흔들리던 계획에 쾅 하고 도장을 찍는 모습을 떠올려 보세요. 이제 단단히 정해졌어요!",
+ "movieLineEn": "Can you confirm the target's location?",
+ "movieLineKo": "목표물의 위치를 확인할 수 있나?",
+ "storyTitle": "확인 또 확인",
+ "story": "꼼꼼한 수진이는 수학여행 버스를 다섯 번 confirm(확인하다)했어요. 문자로 confirmation(확인)도 받았죠. 선생님도 출발 시간을 affirm(확언하다)하셨어요. firm(확고한) 계획 덕분에 수진이는 30분 일찍 도착했어요. 그런데 버스에 올라 보니 다른 학교 버스였답니다!"
+}

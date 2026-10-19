@@ -1,0 +1,55 @@
+{
+ "word": "ball",
+ "pos": "명사",
+ "phonetic": "[bɔːl]",
+ "meaning": "공, 둥근 것 / 무도회",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ball",
+   "meaning": "둥근 것 (ball) — 고대 노르드어 böllr",
+   "note": "'공'의 ball은 게르만어 계통의 오래된 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>ball</strong>은 '둥글게 부푼 것'을 뜻하는 게르만어 단어에서 와서 <strong>'공'</strong>이 되었어요. '무도회'의 ball은 철자만 같은 다른 단어예요.",
+ "historyTitle": "공과 무도회는 남남이에요",
+ "historyBody": "'공'의 ball은 중세 영어 bal로, 고대 노르드어 böllr 또는 같은 계통의 고대 영어 단어에서 왔어요. 반면 '무도회'의 ball은 라틴어 ballare(춤추다)에서 프랑스어를 거쳐 들어온 전혀 다른 단어랍니다. 철자가 같아서 헷갈리지만 뿌리가 달라요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "football",
+   "pos": "명사",
+   "meaning": "축구, 미식축구",
+   "en": "We play football after school every Friday.",
+   "ko": "우리는 매주 금요일 방과 후에 축구를 해요."
+  },
+  {
+   "word": "baseball",
+   "pos": "명사",
+   "meaning": "야구",
+   "en": "Baseball is one of the most popular sports in Korea.",
+   "ko": "야구는 한국에서 가장 인기 있는 스포츠 중 하나예요."
+  },
+  {
+   "word": "balloon",
+   "pos": "명사",
+   "meaning": "풍선",
+   "en": "The child let go of the red balloon by mistake.",
+   "ko": "그 아이는 실수로 빨간 풍선을 놓쳐 버렸어요."
+  },
+  {
+   "word": "ballot",
+   "pos": "명사",
+   "meaning": "투표용지, 투표",
+   "en": "Each student put a ballot into the box.",
+   "ko": "학생들은 각자 투표용지를 상자에 넣었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 운동장에서 굴러가는 축구공",
+ "imageCaption": "동그란 공이 데굴데굴 굴러가는 모습을 떠올려 보세요. 둥근 것이면 다 ball이에요.",
+ "movieLineEn": "Keep your eye on the ball, kid!",
+ "movieLineKo": "공에서 눈을 떼지 마, 꼬마야!",
+ "storyTitle": "공 하나로 정한 반장 선거",
+ "story": "우리 반은 반장 선거를 ballot(투표용지) 대신 ball(공)로 하기로 했어요. football(축구) 골대에 공을 넣는 사람이 승리! 그런데 baseball(야구) 선수 출신 민지가 공을 던져 버렸어요. 공은 하늘의 balloon(풍선)을 터뜨렸고, 놀란 선생님이 반장이 되셨답니다."
+}

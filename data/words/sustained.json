@@ -1,0 +1,74 @@
+{
+ "word": "sustained",
+ "pos": "형용사",
+ "phonetic": "[səˈsteɪnd]",
+ "meaning": "지속된, 지속적인, 한결같은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sus- (sub-)",
+   "meaning": "아래에서 (under)",
+   "note": "sub-가 변한 모습이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tain",
+   "meaning": "잡다, 유지하다 (hold)",
+   "note": "라틴어 tenere(잡다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사형 형용사)",
+   "note": "동사를 '~된' 상태의 형용사로 만들어요."
+  }
+ ],
+ "summary": "<strong>sus-</strong> (아래에서) + <strong>tain</strong> (붙잡다) + <strong>-ed</strong> (~된) = '계속 받쳐진'에서 <strong>'지속된, 한결같은'</strong>이 되었어요.",
+ "historyTitle": "끊기지 않고 이어지는 힘",
+ "historyBody": "sustain은 라틴어 sustinere(아래에서 떠받치다)가 고대 프랑스어 sostenir를 거쳐 13세기 영어로 들어온 말이에요. 과거분사형인 sustained는 '오랫동안 끊김 없이 유지된'이라는 뜻으로, sustained effort(꾸준한 노력)처럼 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sustain",
+   "pos": "동사",
+   "meaning": "지속하다, (피해를) 입다",
+   "en": "He sustained a minor injury during the game.",
+   "ko": "그는 경기 중에 가벼운 부상을 입었어요."
+  },
+  {
+   "word": "sustainable",
+   "pos": "형용사",
+   "meaning": "지속 가능한",
+   "en": "We need a sustainable way to produce food.",
+   "ko": "우리는 식량을 생산하는 지속 가능한 방법이 필요해요."
+  },
+  {
+   "word": "maintain",
+   "pos": "동사",
+   "meaning": "유지하다",
+   "en": "Try to maintain eye contact when you speak.",
+   "ko": "말할 때 눈을 맞추려고 노력하세요."
+  },
+  {
+   "word": "obtain",
+   "pos": "동사",
+   "meaning": "얻다",
+   "en": "She obtained a scholarship to study abroad.",
+   "ko": "그녀는 유학을 위한 장학금을 받았어요."
+  },
+  {
+   "word": "retain",
+   "pos": "동사",
+   "meaning": "유지하다, 기억하다",
+   "en": "Reviewing helps you retain new words.",
+   "ko": "복습은 새 단어를 기억하는 데 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 조금씩 꾸준히 연습하는 장면",
+ "imageCaption": "하루도 빠짐없이 같은 시간에 피아노를 연습하는 모습을 떠올려 보세요. 끊기지 않고 이어지는 sustained effort예요.",
+ "movieLineEn": "Victory comes from sustained effort, not luck.",
+ "movieLineKo": "승리는 운이 아니라 꾸준한 노력에서 나온다.",
+ "storyTitle": "꾸준함의 결과",
+ "story": "민호는 영단어를 retain(기억하다)하려고 매일 sustained(지속적인) 노력을 했어요. 습관을 maintain(유지하다)한 덕에 단어 대회 1등 상품을 obtain(얻다)했죠. 그 상품은 바로 '영단어 3000개 문제집'이었어요. 민호는 이 습관이 sustainable(지속 가능한)한지 처음으로 진지하게 고민했답니다."
+}

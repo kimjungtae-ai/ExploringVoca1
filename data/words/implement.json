@@ -1,0 +1,74 @@
+{
+ "word": "implement",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈɪmplɪment]",
+ "meaning": "실행하다, 시행하다 / 도구, 기구",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "im- (in-)",
+   "meaning": "안으로, 완전히 (in)",
+   "note": "in-이 p 앞에서 im-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ple",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 plere(채우다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "행위나 수단을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>im-</strong> (안으로) + <strong>ple</strong> (채우다) + <strong>-ment</strong> (것) = '빈 곳을 채워 완성하는 것'에서 <strong>'도구'</strong>와 <strong>'실행하다'</strong>가 되었어요.",
+ "historyTitle": "가득 채워서 완성하기",
+ "historyBody": "후기 라틴어 implementum은 '채우는 것'이라는 뜻으로, implere(가득 채우다)에서 왔어요. 처음엔 집이나 일에 '채워 넣는' 물건, 즉 도구나 가구를 뜻했죠. 19세기부터는 계획을 '채워 완성하다', 즉 '실행하다'라는 동사로 널리 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "complement",
+   "pos": "동사 / 명사",
+   "meaning": "보완하다 / 보완물",
+   "en": "A good salad complements a heavy meal.",
+   "ko": "좋은 샐러드는 무거운 식사를 보완해 줘요."
+  },
+  {
+   "word": "supplement",
+   "pos": "명사 / 동사",
+   "meaning": "보충(제) / 보충하다",
+   "en": "He takes a vitamin supplement every morning.",
+   "ko": "그는 매일 아침 비타민 보충제를 먹어요."
+  },
+  {
+   "word": "complete",
+   "pos": "동사 / 형용사",
+   "meaning": "완성하다 / 완전한",
+   "en": "Please complete the form before the interview.",
+   "ko": "면접 전에 서류를 다 작성해 주세요."
+  },
+  {
+   "word": "plenty",
+   "pos": "명사",
+   "meaning": "풍부함, 많음",
+   "en": "There is plenty of food for everyone at the party.",
+   "ko": "파티에는 모두가 먹을 음식이 충분히 있어요."
+  },
+  {
+   "word": "accomplish",
+   "pos": "동사",
+   "meaning": "성취하다, 해내다",
+   "en": "We accomplished our goal of reading 30 books.",
+   "ko": "우리는 책 30권 읽기 목표를 해냈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의에서 정한 계획을 직원들이 실제로 행동에 옮기는 장면",
+ "imageCaption": "종이에 적힌 계획을 실제 행동으로 '채워 넣는' 모습을 떠올리세요. 그게 implement예요.",
+ "movieLineEn": "We have a plan. Now it's time to implement it.",
+ "movieLineKo": "계획은 세웠어. 이제 실행할 차례야.",
+ "storyTitle": "학급 규칙 실행 대작전",
+ "story": "반장은 '휴대폰 없는 점심시간' 규칙을 implement(실행하다)하기로 했어요. 부족한 부분은 보드게임으로 complement(보완하다)했고, 간식도 supplement(보충)했죠. 간식은 plenty(풍부함) 그 자체! 첫날 계획은 완벽하게 complete(완성하다)되었어요. 다들 목표를 accomplish(성취하다)했다며 기뻐했는데, 사실 다들 간식만 먹었대요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "routine",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ruːˈtiːn]",
+ "meaning": "일과, 판에 박힌 일 / 일상적인, 정기적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rout(e)",
+   "meaning": "길 (route, way)",
+   "note": "라틴어 via rupta(깨뜨려 연 길)에서 온 프랑스어 route예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ine",
+   "meaning": "작은 ~ (지소 접미사)",
+   "note": "프랑스어에서 '작은, ~한 것'을 나타내는 어미예요."
+  }
+ ],
+ "summary": "<strong>route</strong> (길) + <strong>-ine</strong> (작은 ~) = '늘 다니던 작은 길'에서 <strong>'일과, 판에 박힌 일'</strong>이 되었어요.",
+ "historyTitle": "매일 밟아 다지는 오솔길",
+ "historyBody": "routine은 17세기 프랑스어 routine(늘 다니는 길)에서 왔는데, 이는 route(길)에 작은 것을 뜻하는 어미가 붙은 말이에요. 매일 같은 오솔길을 걷다 보면 길이 반들반들 다져지듯, 반복되는 일과가 바로 routine이죠. 수능에서는 'daily routine(일과)'으로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "route",
+   "pos": "명사",
+   "meaning": "길, 경로",
+   "en": "This bus route goes past the museum.",
+   "ko": "이 버스 노선은 박물관을 지나가요."
+  },
+  {
+   "word": "routinely",
+   "pos": "부사",
+   "meaning": "일상적으로, 정기적으로",
+   "en": "Doctors routinely check your blood pressure.",
+   "ko": "의사들은 정기적으로 혈압을 확인해요."
+  },
+  {
+   "word": "erupt",
+   "pos": "동사",
+   "meaning": "분출하다",
+   "en": "Cheers erupted when our team scored.",
+   "ko": "우리 팀이 득점하자 환호가 터져 나왔어요."
+  },
+  {
+   "word": "interrupt",
+   "pos": "동사",
+   "meaning": "방해하다",
+   "en": "Sorry to interrupt, but dinner is ready.",
+   "ko": "방해해서 미안하지만, 저녁 준비됐어."
+  },
+  {
+   "word": "corrupt",
+   "pos": "형용사",
+   "meaning": "부패한",
+   "en": "People protested against the corrupt government.",
+   "ko": "사람들은 부패한 정부에 맞서 시위했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 아침 똑같은 순서로 하루를 시작하는 학생",
+ "imageCaption": "알람 끄기, 세수, 아침밥, 버스 타기… 매일 반복되는 하루를 떠올려 보세요.",
+ "movieLineEn": "Same routine every day. Wake up, work, sleep. I need an adventure!",
+ "movieLineKo": "매일 똑같은 일과야. 일어나고, 일하고, 자고. 난 모험이 필요해!",
+ "storyTitle": "고양이의 철저한 일과",
+ "story": "고양이 모모의 routine(일과)은 완벽해요. 아침 7시, 주인 얼굴을 밟는 게 첫 route(경로)죠. 주인이 잠을 interrupt(방해하다)당해 화가 erupt(폭발하다)해도 소용없어요. 모모는 routinely(일상적으로) 같은 일을 하니까요. 오늘도 7시 정각, 모모는 주인의 얼굴을 꾹 밟았답니다."
+}

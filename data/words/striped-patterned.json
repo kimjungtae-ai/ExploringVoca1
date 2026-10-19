@@ -1,0 +1,80 @@
+{
+ "word": "striped-patterned",
+ "pos": "형용사",
+ "phonetic": "[ˈstraɪpt ˈpætərnd]",
+ "meaning": "줄무늬 패턴의, 줄무늬 무늬가 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stripe",
+   "meaning": "줄무늬 (stripe)",
+   "note": "천이나 벽에 길게 그어진 띠 모양 무늬예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~이 있는 (having)",
+   "note": "명사 뒤에 붙어 '그것을 가진'이라는 형용사를 만들어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pattern",
+   "meaning": "무늬, 본 (pattern)",
+   "note": "반복되는 모양이나 일정한 틀을 말해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~이 있는 (having)",
+   "note": "pattern에 붙어 '무늬가 있는'이 돼요."
+  }
+ ],
+ "summary": "<strong>striped</strong> (줄무늬가 있는) + <strong>patterned</strong> (무늬가 있는) = 두 말을 하이픈으로 이어 <strong>'줄무늬 패턴의'</strong>라는 묘사 형용사가 되었어요.",
+ "historyTitle": "줄무늬와 '본보기'의 만남",
+ "historyBody": "stripe는 중세 네덜란드어·저지 독일어의 strīpe(줄)와 관련된 것으로 보지만 정확한 경로는 확실하지 않아요. pattern은 고대 프랑스어 patron(본보기, 후원자)에서 왔는데, '따라 만들 본'이라는 뜻에서 '무늬'로 넓어졌어요. 하이픈 복합어는 광고나 상품 설명에서 자주 만들어 쓰는 표현이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "stripe",
+   "pos": "명사",
+   "meaning": "줄무늬, 줄",
+   "en": "The cat has a white stripe on its tail.",
+   "ko": "그 고양이는 꼬리에 하얀 줄무늬가 있어요."
+  },
+  {
+   "word": "striped",
+   "pos": "형용사",
+   "meaning": "줄무늬가 있는",
+   "en": "He wore a striped shirt to the interview.",
+   "ko": "그는 면접에 줄무늬 셔츠를 입고 갔어요."
+  },
+  {
+   "word": "pattern",
+   "pos": "명사",
+   "meaning": "무늬, 양식, 패턴",
+   "en": "Scientists found a clear pattern in the data.",
+   "ko": "과학자들은 그 자료에서 뚜렷한 패턴을 발견했어요."
+  },
+  {
+   "word": "patterned",
+   "pos": "형용사",
+   "meaning": "무늬가 있는",
+   "en": "She bought a patterned scarf at the market.",
+   "ko": "그녀는 시장에서 무늬가 있는 스카프를 샀어요."
+  },
+  {
+   "word": "patron",
+   "pos": "명사",
+   "meaning": "후원자, 단골 손님",
+   "en": "The library thanked its patrons for their donations.",
+   "ko": "도서관은 기부해 준 후원자들에게 감사를 전했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가로줄이 반복되는 무늬의 셔츠나 쿠션",
+ "imageCaption": "가게 진열대에 놓인 줄무늬 패턴 쿠션을 떠올려 보세요. 줄(stripe)이 규칙적으로 반복되는 무늬(pattern)예요.",
+ "movieLineEn": "I'll take the striped-patterned one. It looks like a zebra!",
+ "movieLineKo": "줄무늬 패턴인 걸로 할게요. 얼룩말 같잖아요!",
+ "storyTitle": "얼룩말의 쇼핑",
+ "story": "얼룩말이 옷가게에서 striped-patterned(줄무늬 패턴의) 셔츠를 골랐어요. 점원은 \"이 pattern(무늬)은 손님 피부랑 똑같네요\"라며 웃었죠. 단골 patron(손님)인 얼룩말은 stripe(줄무늬)가 하나 더 늘었다며 만족했어요. 그런데 집에 가 보니 셔츠를 입었는지 안 입었는지 아무도 몰랐답니다!"
+}

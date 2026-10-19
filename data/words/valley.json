@@ -1,0 +1,41 @@
+{
+ "word": "valley",
+ "pos": "명사",
+ "phonetic": "[ˈvæli]",
+ "meaning": "골짜기, 계곡, 유역",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "valley (← 라틴어 vallis)",
+   "meaning": "골짜기 (valley)",
+   "note": "라틴어 vallis가 고대 프랑스어 valee를 거쳐 들어온 말이라, 영어 안에서 나누기는 어려워요."
+  }
+ ],
+ "summary": "라틴어 <strong>vallis</strong> (골짜기)가 프랑스어를 거쳐 그대로 들어와 <strong>'골짜기, 계곡'</strong>이 되었어요.",
+ "historyTitle": "프랑스를 거쳐 온 골짜기",
+ "historyBody": "valley는 라틴어 vallis(골짜기)에서 고대 프랑스어 valee를 거쳐 13세기 무렵 영어에 들어왔어요. 시나 노래에서 쓰는 vale도 같은 뿌리이고, 'Silicon Valley'처럼 지역 이름에도 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vale",
+   "pos": "명사",
+   "meaning": "(문학) 골짜기",
+   "en": "The poet wrote about a quiet green vale.",
+   "ko": "그 시인은 조용하고 푸른 골짜기에 대해 썼어요."
+  },
+  {
+   "word": "avalanche",
+   "pos": "명사",
+   "meaning": "눈사태, (비유) 쇄도",
+   "en": "An avalanche closed the mountain road for two days.",
+   "ko": "눈사태 때문에 산길이 이틀 동안 막혔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 양쪽 산 사이로 강이 흐르는 초록빛 골짜기",
+ "imageCaption": "높은 두 산 사이에 움푹 들어간 땅, 그 사이로 흐르는 시냇물을 떠올려 보세요.",
+ "movieLineEn": "Beyond that valley lies the lost city.",
+ "movieLineKo": "저 골짜기 너머에 잃어버린 도시가 있어.",
+ "storyTitle": "골짜기의 메아리",
+ "story": "지호는 valley(골짜기)에 서서 \"사랑해!\" 하고 외쳤어요. 그런데 메아리 대신 avalanche(눈사태) 같은 소리가 쏟아졌죠. 알고 보니 vale(골짜기) 건너편에서 캠핑하던 반 친구들이 일제히 \"우리도!\"라고 답한 거였어요. 지호는 그날 valley(골짜기)의 스타가 되었답니다."
+}

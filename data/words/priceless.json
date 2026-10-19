@@ -1,0 +1,61 @@
+{
+ "word": "priceless",
+ "pos": "형용사",
+ "phonetic": "[ˈpraɪsləs]",
+ "meaning": "값을 매길 수 없을 만큼 귀중한, 아주 재미있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "price",
+   "meaning": "가격, 가치 (price, value)",
+   "note": "라틴어 pretium(가격, 가치)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-less",
+   "meaning": "~이 없는 (without)",
+   "note": "'~을 매길 수 없는'이라는 느낌을 줘요."
+  }
+ ],
+ "summary": "<strong>price</strong> (가격) + <strong>-less</strong> (없는) = 가격을 매길 수 없을 만큼이라서 <strong>'아주 귀중한'</strong>이 되었어요.",
+ "historyTitle": "'값이 없다'가 아니라 '값을 매길 수 없다'",
+ "historyBody": "price는 라틴어 pretium(가격, 가치, 보상)에서 고대 프랑스어 pris를 거쳐 13세기 영어로 들어왔어요. precious(귀한), appreciate(진가를 알아보다), praise(칭찬하다)도 모두 pretium에서 갈라져 나온 친척이에요. priceless는 16세기 말 셰익스피어 시대에 '너무 귀해서 값을 매길 수 없는'이라는 뜻으로 쓰이기 시작했어요. '공짜'가 아니라는 점, 꼭 기억하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격, 대가",
+   "en": "The price of apples went up this year.",
+   "ko": "올해 사과 가격이 올랐어요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "Time with family is precious.",
+   "ko": "가족과 보내는 시간은 소중해요."
+  },
+  {
+   "word": "appreciate",
+   "pos": "동사",
+   "meaning": "감사하다, 진가를 알아보다",
+   "en": "I really appreciate your help.",
+   "ko": "도와줘서 정말 고마워요."
+  },
+  {
+   "word": "praise",
+   "pos": "동사/명사",
+   "meaning": "칭찬하다 / 칭찬",
+   "en": "The teacher praised her for her hard work.",
+   "ko": "선생님은 그녀의 노력을 칭찬하셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 박물관 유리 상자 속 빛나는 보물",
+ "imageCaption": "가격표 대신 '측정 불가'라고 적힌 보물과, 할머니의 손편지를 함께 떠올려 보세요.",
+ "movieLineEn": "This painting is priceless. Don't touch it!",
+ "movieLineKo": "이 그림은 값을 매길 수 없을 만큼 귀해. 만지지 마!",
+ "storyTitle": "값을 매길 수 없는 선물",
+ "story": "동생이 내 생일에 직접 그린 그림을 줬어요. 솔직히 낙서 같았죠. 그런데 엄마가 'priceless(아주 귀중한) 작품이네!'라며 praise(칭찬하다)하셨어요. 저도 그 마음을 appreciate(고마워하다)했죠. 10년 뒤, 동생은 유명 화가가 되었고 그 그림의 price(가격)는 정말 매길 수 없게 되었대요. 팔 생각은 없지만요!"
+}

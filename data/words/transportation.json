@@ -1,0 +1,81 @@
+{
+ "word": "transportation",
+ "pos": "명사",
+ "phonetic": "[ˌtrænspərˈteɪʃn]",
+ "meaning": "교통, 운송, 수송 수단",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "trans-",
+   "meaning": "가로질러, 저쪽으로 (across)",
+   "note": "한쪽에서 다른 쪽으로 건너간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "port",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 portare(나르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것, ~하는 수단 (명사형)",
+   "note": "동작이나 그 수단을 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>trans-</strong> (건너) + <strong>port</strong> (나르다) + <strong>-ation</strong> (~하는 것) = 건너 나르는 것, 즉 <strong>'교통, 운송'</strong>이 되었어요.",
+ "historyTitle": "항구에서 항구로 나르던 시절",
+ "historyBody": "transportation은 라틴어 'transportare(건너 나르다)'에서 온 transport에 명사 꼬리 -ation이 붙은 말이에요. 'portare(나르다)'는 port(항구)와도 연결되는데, 옛날엔 배에 실어 항구에서 항구로 옮기는 게 가장 쉬운 운송 방법이었거든요. 미국 영어에서는 'public transportation(대중교통)'이라는 표현을 아주 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "transport",
+   "pos": "동사 / 명사",
+   "meaning": "수송하다 / 수송",
+   "en": "Trucks transport fresh vegetables to the city every morning.",
+   "ko": "트럭들이 매일 아침 신선한 채소를 도시로 실어 날라요."
+  },
+  {
+   "word": "portable",
+   "pos": "형용사",
+   "meaning": "휴대용의",
+   "en": "I bought a portable charger for my trip.",
+   "ko": "나는 여행을 위해 휴대용 충전기를 샀어요."
+  },
+  {
+   "word": "export",
+   "pos": "동사 / 명사",
+   "meaning": "수출하다 / 수출",
+   "en": "Korea exports many cars to other countries.",
+   "ko": "한국은 다른 나라들에 많은 자동차를 수출해요."
+  },
+  {
+   "word": "import",
+   "pos": "동사 / 명사",
+   "meaning": "수입하다 / 수입",
+   "en": "The country imports most of its oil.",
+   "ko": "그 나라는 석유 대부분을 수입해요."
+  },
+  {
+   "word": "support",
+   "pos": "동사 / 명사",
+   "meaning": "지지하다, 받치다 / 지원",
+   "en": "My family always supports my decisions.",
+   "ko": "우리 가족은 항상 내 결정을 지지해 줘요."
+  },
+  {
+   "word": "report",
+   "pos": "명사 / 동사",
+   "meaning": "보고서 / 보도하다",
+   "en": "I have to finish my science report by tomorrow.",
+   "ko": "나는 내일까지 과학 보고서를 끝내야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 버스, 지하철, 자전거가 함께 오가는 도시의 교통",
+ "imageCaption": "버스와 지하철, 기차가 사람들을 이곳에서 저곳으로 건너 나르는 도시의 풍경을 떠올려 보세요.",
+ "movieLineEn": "Public transportation? I prefer my flying broomstick.",
+ "movieLineKo": "대중교통? 난 날아다니는 빗자루가 더 좋아.",
+ "storyTitle": "마법사의 출근길",
+ "story": "마법사는 빗자루가 고장 나서 처음으로 public transportation(대중교통)을 탔어요. portable(휴대용의) 마법 지팡이를 꼭 쥐고 지하철에 올랐죠. 사람들에게 밀려 이리저리 transport(수송되다)된 마법사는 회사에 report(보고서)를 썼어요. \"인간들은 매일 이걸 견디다니, 진짜 마법사들이군요.\""
+}

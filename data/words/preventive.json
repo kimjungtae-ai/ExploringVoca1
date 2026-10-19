@@ -1,0 +1,74 @@
+{
+ "word": "preventive",
+ "pos": "형용사 / 명사",
+ "phonetic": "[prɪˈventɪv]",
+ "meaning": "예방의, 예방적인 / 예방약",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "미리 (before)",
+   "note": "어떤 일보다 먼저라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vent",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 성질의 (형용사)",
+   "note": "성질이나 경향을 나타내는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (미리) + <strong>vent</strong> (오다) + <strong>-ive</strong> (~하는) = 먼저 와서 막는 성질이라서 <strong>'예방의'</strong>가 되었어요.",
+ "historyTitle": "치료보다 '미리 막기'",
+ "historyBody": "prevent는 라틴어 praevenire(먼저 오다)에서 왔고, 17세기에 형용사 preventive(예방의)가 생겼어요. 'preventive medicine(예방 의학)', 'preventive measures(예방 조치)'처럼 건강·안전 관련 지문에 자주 나와요. preventative라는 형태도 있지만 preventive가 더 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Washing your hands can prevent many diseases.",
+   "ko": "손을 씻으면 많은 질병을 예방할 수 있어요."
+  },
+  {
+   "word": "prevention",
+   "pos": "명사",
+   "meaning": "예방, 방지",
+   "en": "Prevention is better than cure.",
+   "ko": "예방이 치료보다 나아요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "사건, 행사",
+   "en": "The school event was a huge success.",
+   "ko": "학교 행사는 대성공이었어요."
+  },
+  {
+   "word": "adventure",
+   "pos": "명사",
+   "meaning": "모험",
+   "en": "Reading a good book is like going on an adventure.",
+   "ko": "좋은 책을 읽는 것은 모험을 떠나는 것과 같아요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회",
+   "en": "Shaking hands is a common social convention.",
+   "ko": "악수는 흔한 사회적 관습이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 병원에서 예방 주사를 맞는 장면",
+ "imageCaption": "아프기 전에 미리 주사를 맞고 씩씩하게 웃는 아이를 떠올려 보세요.",
+ "movieLineEn": "This is just a preventive measure. Nobody's in danger.",
+ "movieLineKo": "이건 그냥 예방 조치야. 아무도 위험하지 않아.",
+ "storyTitle": "예방 주사의 반전",
+ "story": "동물병원에서 강아지 콩이가 preventive(예방의) 주사를 맞게 되었어요. 병을 prevent(예방하다)하는 거라고 아무리 설명해도 콩이는 도망쳤죠. 병원 전체가 adventure(모험) 현장이 되었어요! 결국 의사 선생님이 간식으로 유인했는데, 콩이가 주사보다 간식 먹는 event(행사)에 더 집중해서 아픈 줄도 몰랐대요."
+}

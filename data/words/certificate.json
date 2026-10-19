@@ -1,0 +1,74 @@
+{
+ "word": "certificate",
+ "pos": "명사",
+ "phonetic": "[sərˈtɪfɪkət]",
+ "meaning": "증명서, 자격증, 수료증",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cert",
+   "meaning": "확실한 (sure)",
+   "note": "라틴어 certus(확실한, 정해진)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ific",
+   "meaning": "만들다 (make)",
+   "note": "라틴어 facere(만들다)에서 온 -fic-이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~된 것 (명사)",
+   "note": "결과물을 가리키는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>cert</strong> (확실한) + <strong>ific</strong> (만들다) + <strong>-ate</strong> (~된 것) = '확실하게 만들어 주는 문서'에서 <strong>'증명서, 자격증'</strong>이 되었어요.",
+ "historyTitle": "중세 문서가 '확실히' 해 주던 것",
+ "historyBody": "certificate는 중세 라틴어 certificatum(확실하게 된 것)에서 왔어요. 동사 certificare는 certus(확실한)와 facere(만들다)가 합쳐진 말이에요. 중세 유럽에서 공식 문서에 도장을 찍어 사실을 '확실하게' 보증하던 것이 오늘날의 증명서가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "certain",
+   "pos": "형용사",
+   "meaning": "확실한, 어떤",
+   "en": "I am certain that she will pass the exam.",
+   "ko": "나는 그녀가 시험에 합격할 거라고 확신해요."
+  },
+  {
+   "word": "certify",
+   "pos": "동사",
+   "meaning": "증명하다, 자격을 인증하다",
+   "en": "This document certifies that you completed the course.",
+   "ko": "이 문서는 당신이 과정을 수료했음을 증명해요."
+  },
+  {
+   "word": "certainty",
+   "pos": "명사",
+   "meaning": "확실성",
+   "en": "Nobody can predict the future with certainty.",
+   "ko": "누구도 미래를 확실하게 예측할 수 없어요."
+  },
+  {
+   "word": "uncertain",
+   "pos": "형용사",
+   "meaning": "불확실한",
+   "en": "The weather is uncertain, so bring an umbrella.",
+   "ko": "날씨가 불확실하니 우산을 챙기세요."
+  },
+  {
+   "word": "ascertain",
+   "pos": "동사",
+   "meaning": "확인하다, 알아내다",
+   "en": "The police tried to ascertain the cause of the fire.",
+   "ko": "경찰은 화재 원인을 알아내려고 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 이름과 도장이 찍힌 자격증을 받는 학생",
+ "imageCaption": "졸업식에서 금박 테두리가 둘린 증명서를 받는 모습을 떠올려 보세요. '이건 확실해!'라고 보증하는 종이예요.",
+ "movieLineEn": "Here's your certificate. You're officially a pilot now.",
+ "movieLineKo": "여기 자격증이야. 넌 이제 공식적으로 조종사야.",
+ "storyTitle": "강아지의 자격증",
+ "story": "우리 집 강아지가 '착한 개' certificate(자격증)를 받았어요. 훈련소는 강아지가 앉기와 기다리기를 할 수 있다고 certify(증명하다)했죠. 나는 강아지가 천재라고 certain(확신하는)했어요. 그런데 집에 오자마자 자격증을 씹어 먹어 버렸어요. 실력은 이제 다시 uncertain(불확실한)해졌답니다."
+}

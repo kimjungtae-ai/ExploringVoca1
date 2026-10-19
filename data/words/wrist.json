@@ -1,0 +1,48 @@
+{
+ "word": "wrist",
+ "pos": "명사",
+ "phonetic": "[rɪst]",
+ "meaning": "손목",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "wrist (← 고대 영어 wrist)",
+   "meaning": "손목 (wrist)",
+   "note": "고대 영어 wrist에서 왔고, '비틀다'라는 뜻의 writhe와 관련 있을 것으로 봐요. 더 나누기 어려워요."
+  }
+ ],
+ "summary": "고대 영어 <strong>wrist</strong>에서 와서 '비틀어 돌리는 부분'이라는 뜻으로 추정되는 <strong>'손목'</strong>이 되었어요.",
+ "historyTitle": "돌아가는 관절, 손목",
+ "historyBody": "wrist는 고대 영어 wrist에서 왔고, 독일어 Rist(발등, 손목)와 같은 게르만어 단어예요. 많은 사전은 '비틀다, 몸부림치다'라는 뜻의 writhe와 관련 있을 것으로 보지만, 확실한 정설은 아니에요. 손목이 이리저리 돌아가는 모습을 생각하면 그럴듯하죠.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "wristwatch",
+   "pos": "명사",
+   "meaning": "손목시계",
+   "en": "My grandfather gave me his old wristwatch.",
+   "ko": "할아버지가 쓰시던 손목시계를 나에게 주셨어요."
+  },
+  {
+   "word": "wristband",
+   "pos": "명사",
+   "meaning": "손목 밴드, 팔찌",
+   "en": "Show your wristband to enter the concert.",
+   "ko": "콘서트에 들어가려면 손목 밴드를 보여 주세요."
+  },
+  {
+   "word": "writhe",
+   "pos": "동사",
+   "meaning": "몸부림치다",
+   "en": "The injured snake writhed on the ground.",
+   "ko": "다친 뱀이 땅에서 몸부림쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손목시계를 차고 시간을 확인하는 손",
+ "imageCaption": "팔을 들어 손목시계를 보며 \"늦었다!\" 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let go of my wrist! I'm not the thief!",
+ "movieLineKo": "내 손목 놔! 난 도둑이 아니야!",
+ "storyTitle": "손목시계 소동",
+ "story": "준서는 생일 선물로 비싼 wristwatch(손목시계)를 받았어요. 너무 자랑하고 싶어서 하루 종일 wrist(손목)를 흔들었죠. 콘서트 wristband(손목 밴드)까지 함께 차고요. 그날 밤, 준서는 손목이 아파서 writhe(몸부림치다)했어요. 의사 선생님 진단은 '자랑 과다 손목염'이었답니다."
+}

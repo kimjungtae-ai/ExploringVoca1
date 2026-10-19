@@ -1,0 +1,68 @@
+{
+ "word": "utensil",
+ "pos": "명사",
+ "phonetic": "[juːˈtensl]",
+ "meaning": "(부엌) 도구, 기구, 식기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ut (← uti)",
+   "meaning": "사용하다 (use)",
+   "note": "라틴어 uti(사용하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ensil (← -ensilis)",
+   "meaning": "~에 알맞은, ~할 수 있는 (형용사형)",
+   "note": "라틴어 utensilis(쓰기에 알맞은)의 꼬리 부분이에요."
+  }
+ ],
+ "summary": "<strong>ut</strong> (사용하다) + <strong>-ensil</strong> (~에 알맞은) = 쓰기에 알맞은 물건, 즉 <strong>'도구, 식기'</strong>가 되었어요.",
+ "historyTitle": "쓰기 좋은 물건들",
+ "historyBody": "utensil은 라틴어 'utensilia(쓸모 있는 물건들)'에서 왔고, 이는 'utensilis(쓰기에 알맞은)'와 'uti(사용하다)'에서 나왔어요. 중세 영어에서는 주로 집안의 살림 도구를 가리켰고, 지금은 숟가락, 포크 같은 부엌 도구를 말할 때 많이 써요. use, utility, utilize와 모두 같은 집안이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "use",
+   "pos": "동사",
+   "meaning": "사용하다",
+   "en": "You can use chopsticks or a fork.",
+   "ko": "젓가락이나 포크를 사용하면 돼요."
+  },
+  {
+   "word": "utility",
+   "pos": "명사",
+   "meaning": "유용성, (전기·수도 등) 공공요금",
+   "en": "Our utility bills are higher in winter.",
+   "ko": "겨울에는 우리 집 공과금이 더 많이 나와요."
+  },
+  {
+   "word": "utilize",
+   "pos": "동사",
+   "meaning": "활용하다",
+   "en": "The farmers utilize rainwater for their crops.",
+   "ko": "농부들은 빗물을 농작물에 활용해요."
+  },
+  {
+   "word": "useful",
+   "pos": "형용사",
+   "meaning": "유용한",
+   "en": "A Swiss army knife is a useful tool for camping.",
+   "ko": "맥가이버 칼은 캠핑에 유용한 도구예요."
+  },
+  {
+   "word": "usage",
+   "pos": "명사",
+   "meaning": "사용(법)",
+   "en": "Water usage increases in hot weather.",
+   "ko": "더운 날씨에는 물 사용량이 늘어나요."
+  }
+ ],
+ "imageSense": "대표 의미: 주방 서랍에 가지런히 놓인 숟가락, 포크, 국자",
+ "imageCaption": "주방 서랍을 열면 나란히 누워 있는 숟가락, 포크, 국자, 뒤집개를 떠올려 보세요. 모두 '쓰기 좋은 물건'이에요.",
+ "movieLineEn": "Put down the utensils and eat it with your hands like a real pirate!",
+ "movieLineKo": "식기는 내려놓고 진짜 해적답게 손으로 먹어!",
+ "storyTitle": "캠핑장의 주방 도구",
+ "story": "캠핑을 간 우리 가족은 utensil(식기)을 하나도 안 챙겼어요. 아빠는 나뭇가지를 utilize(활용하다)해서 젓가락을 만들었죠. 엄마는 냄비 뚜껑을 접시로 use(사용하다)했어요. 의외로 너무 useful(유용한) 캠핑이었어요! 다음 날 보니 차 트렁크에 식기 세트가 그대로 있었답니다."
+}

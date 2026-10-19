@@ -1,0 +1,61 @@
+{
+ "word": "backup",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈbækʌp]",
+ "meaning": "예비(품), 지원, 백업 / 예비의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "back",
+   "meaning": "뒤, 뒤에서 (back)",
+   "note": "뒤에서 받쳐 준다는 느낌이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "up",
+   "meaning": "위로, 완전히 (up)",
+   "note": "back up(지원하다)이라는 동사구가 한 단어로 굳었어요."
+  }
+ ],
+ "summary": "<strong>back</strong> (뒤에서) + <strong>up</strong> (받쳐 올리다) = '뒤에서 받쳐 주는 것'에서 <strong>'예비, 지원'</strong>이 되었어요.",
+ "historyTitle": "동사구에서 태어난 명사",
+ "historyBody": "back과 up은 모두 고대 영어에서 온 아주 오래된 단어예요. 'back up(뒤에서 지원하다)'이라는 동사구가 먼저 쓰였고, 이것이 붙어서 명사 backup이 되었어요. 컴퓨터 시대가 오면서 '파일 백업'이라는 뜻으로 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "background",
+   "pos": "명사",
+   "meaning": "배경",
+   "en": "She has a background in music and art.",
+   "ko": "그녀는 음악과 미술 분야의 배경을 갖고 있어요."
+  },
+  {
+   "word": "backward",
+   "pos": "부사 / 형용사",
+   "meaning": "뒤로 / 뒤쪽의",
+   "en": "He took a step backward and almost fell.",
+   "ko": "그는 한 걸음 뒤로 물러서다가 넘어질 뻔했어요."
+  },
+  {
+   "word": "setback",
+   "pos": "명사",
+   "meaning": "차질, 좌절",
+   "en": "The injury was a small setback in her career.",
+   "ko": "그 부상은 그녀의 경력에서 작은 차질이었어요."
+  },
+  {
+   "word": "feedback",
+   "pos": "명사",
+   "meaning": "피드백, 의견",
+   "en": "The teacher gave us useful feedback on our essays.",
+   "ko": "선생님은 우리 에세이에 유용한 피드백을 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 컴퓨터 파일을 외장 하드에 복사해 두는 장면",
+ "imageCaption": "중요한 숙제를 USB에 한 번 더 저장해 두는 모습을 떠올려 보세요. 만약을 대비한 '뒤의 받침'이에요.",
+ "movieLineEn": "Send backup! We can't hold them much longer!",
+ "movieLineKo": "지원 병력을 보내! 더는 못 버텨!",
+ "storyTitle": "숙제를 지킨 백업 파일",
+ "story": "민수는 컴퓨터가 꺼져 숙제가 사라지는 큰 setback(차질)을 겪었어요. 하지만 걱정 없었죠. 어젯밤 backup(백업)을 해 뒀거든요! 선생님의 feedback(피드백)도 칭찬 일색이었어요. 그런데 background(배경) 화면에 게임 사진이 그대로 떠서 결국 반 친구들에게 다 들켰답니다."
+}

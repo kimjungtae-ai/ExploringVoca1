@@ -1,0 +1,74 @@
+{
+ "word": "unfriendly",
+ "pos": "형용사",
+ "phonetic": "[ʌnˈfrendli]",
+ "meaning": "불친절한, 비우호적인, (환경 등에) 해로운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "un-",
+   "meaning": "~이 아닌 (not)",
+   "note": "뒤에 오는 말의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "friend",
+   "meaning": "친구 (friend)",
+   "note": "고대 영어 frēond(사랑하는 사람)에서 온 순수 영어 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~같은 (형용사형)",
+   "note": "명사 뒤에 붙어 '~다운'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>un-</strong> (아닌) + <strong>friend</strong> (친구) + <strong>-ly</strong> (~다운) = 친구답지 않은, 즉 <strong>'불친절한'</strong>이 되었어요.",
+ "historyTitle": "'사랑하는 사람'이었던 친구",
+ "historyBody": "friend는 고대 영어 'frēond'에서 왔는데, 원래 '사랑하는 사람'이라는 뜻의 동사 'frēogan(사랑하다)'의 현재분사였어요. 그래서 친구는 말 그대로 '나를 아껴 주는 사람'이었죠. 같은 오래된 뿌리에서 free(자유로운)도 나왔다고 하는데, '사랑하는 가족 구성원 = 노예가 아닌 사람'이라는 의미에서였대요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "friend",
+   "pos": "명사",
+   "meaning": "친구",
+   "en": "A true friend helps you when you are in trouble.",
+   "ko": "진정한 친구는 네가 힘들 때 도와줘요."
+  },
+  {
+   "word": "friendly",
+   "pos": "형용사",
+   "meaning": "친절한, 다정한",
+   "en": "The staff at the hotel were very friendly.",
+   "ko": "그 호텔 직원들은 아주 친절했어요."
+  },
+  {
+   "word": "friendship",
+   "pos": "명사",
+   "meaning": "우정",
+   "en": "Their friendship lasted for more than fifty years.",
+   "ko": "그들의 우정은 50년 넘게 이어졌어요."
+  },
+  {
+   "word": "befriend",
+   "pos": "동사",
+   "meaning": "친구가 되어 주다",
+   "en": "She befriended the new student on his first day.",
+   "ko": "그녀는 새로 온 학생에게 첫날 친구가 되어 주었어요."
+  },
+  {
+   "word": "eco-friendly",
+   "pos": "형용사",
+   "meaning": "친환경적인",
+   "en": "We use eco-friendly bags instead of plastic ones.",
+   "ko": "우리는 비닐봉지 대신 친환경 가방을 써요."
+  }
+ ],
+ "imageSense": "대표 의미: 팔짱을 낀 채 차갑게 고개를 돌리는 사람",
+ "imageCaption": "인사를 해도 팔짱을 끼고 쌩 돌아서는 차가운 표정을 떠올려 보세요. 친구다운 모습과 정반대죠.",
+ "movieLineEn": "Why is everyone in this town so unfriendly?",
+ "movieLineKo": "이 마을 사람들은 왜 다들 이렇게 불친절한 거지?",
+ "storyTitle": "무뚝뚝한 이웃",
+ "story": "새로 이사 온 옆집 아저씨는 정말 unfriendly(불친절한) 것 같았어요. 인사를 해도 고개만 까딱했죠. 그런데 비 오는 날 우산을 빌려주며 befriend(친구가 되어 주다)해 주셨어요. 알고 보니 아저씨는 friendly(다정한) 분인데, 그냥 엄청 부끄럼쟁이였대요. 지금은 우리 가족과 friendship(우정)을 나누는 사이랍니다."
+}

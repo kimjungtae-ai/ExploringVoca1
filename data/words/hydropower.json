@@ -1,0 +1,61 @@
+{
+ "word": "hydropower",
+ "pos": "명사",
+ "phonetic": "[ˈhaɪdroʊpaʊər]",
+ "meaning": "수력, 수력 발전",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "hydro-",
+   "meaning": "물 (water)",
+   "note": "그리스어 hydor(물)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "power",
+   "meaning": "힘, 동력 (power)",
+   "note": "고대 프랑스어 poeir(~할 수 있다)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>hydro-</strong> (물) + <strong>power</strong> (힘) = '물의 힘'이라는 뜻에서 <strong>'수력, 수력 발전'</strong>이 되었어요.",
+ "historyTitle": "그리스어 '물'과 프랑스어 '힘'의 만남",
+ "historyBody": "hydro-는 그리스어 hydor(물)에서 온 말이고, power는 고대 프랑스어 poeir(~할 수 있다)에서 왔어요. 흐르는 물로 물레방아를 돌리던 기술이 발전해, 20세기에는 댐으로 전기를 만드는 수력 발전이 되었답니다. hydropower는 이런 '물의 힘'을 한 단어로 묶은 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hydrogen",
+   "pos": "명사",
+   "meaning": "수소",
+   "en": "Water is made of hydrogen and oxygen.",
+   "ko": "물은 수소와 산소로 이루어져 있어요."
+  },
+  {
+   "word": "dehydrate",
+   "pos": "동사",
+   "meaning": "탈수시키다, 수분이 빠지다",
+   "en": "Drink water often so you don't dehydrate in the heat.",
+   "ko": "더위에 탈수되지 않도록 물을 자주 마시세요."
+  },
+  {
+   "word": "hydrate",
+   "pos": "동사",
+   "meaning": "수분을 공급하다",
+   "en": "Athletes need to hydrate before and after a game.",
+   "ko": "운동선수는 경기 전후에 수분을 보충해야 해요."
+  },
+  {
+   "word": "hydroelectric",
+   "pos": "형용사",
+   "meaning": "수력 전기의",
+   "en": "The hydroelectric dam supplies power to the whole city.",
+   "ko": "그 수력 발전 댐은 도시 전체에 전력을 공급해요."
+  }
+ ],
+ "imageSense": "대표 의미: 거대한 댐에서 물이 쏟아지며 터빈을 돌리는 장면",
+ "imageCaption": "콸콸 쏟아지는 물줄기가 전기를 만들어 내는 모습을 떠올리세요. 물(hydro)의 힘(power)이에요.",
+ "movieLineEn": "If we open the dam, the hydropower will light up the whole valley!",
+ "movieLineKo": "댐을 열면 수력으로 계곡 전체에 불이 들어올 거야!",
+ "storyTitle": "물의 힘으로 움직이는 학교",
+ "story": "과학 동아리는 학교 수돗가에 미니 hydropower(수력) 발전기를 만들었어요. hydroelectric(수력 전기의) 장치로 휴대폰 충전에 성공했죠! 친구들은 물을 아끼지 않고 틀었고, 우리는 땀을 흘려 dehydrate(탈수되다) 직전까지 일했어요. 결국 물로 hydrate(수분 공급하다)하며 쉬는데, 수도 요금 고지서가 날아왔어요."
+}

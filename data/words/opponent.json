@@ -1,0 +1,74 @@
+{
+ "word": "opponent",
+ "pos": "명사 / 형용사",
+ "phonetic": "[əˈpoʊnənt]",
+ "meaning": "상대, 적수, 반대자 / 반대하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "op- (ob-)",
+   "meaning": "~에 맞서 (against)",
+   "note": "ob-가 p 앞에서 op-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pon",
+   "meaning": "놓다 (put, place)",
+   "note": "라틴어 ponere(놓다)에서 왔어요. position의 pos와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 사람",
+   "note": "행동하는 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>op-</strong> (맞서) + <strong>pon</strong> (놓다) + <strong>-ent</strong> (사람) = 맞은편에 놓인 사람이라서 <strong>'상대, 적수'</strong>가 되었어요.",
+ "historyTitle": "맞은편에 '놓인' 사람",
+ "historyBody": "라틴어 opponere는 ob-(~에 맞서)와 ponere(놓다)가 합쳐져 '맞은편에 놓다, 반대하다'라는 뜻이었어요. 그 현재분사 opponens에서 16세기 영어 opponent가 나왔어요. 처음에는 토론에서 반대 의견을 내는 사람을 가리켰답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "oppose",
+   "pos": "동사",
+   "meaning": "반대하다",
+   "en": "Many residents oppose the new airport plan.",
+   "ko": "많은 주민들이 새 공항 계획에 반대해요."
+  },
+  {
+   "word": "opposite",
+   "pos": "형용사/명사",
+   "meaning": "반대의 / 반대",
+   "en": "The bank is on the opposite side of the street.",
+   "ko": "은행은 길 건너편에 있어요."
+  },
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 입장, 자리",
+   "en": "Please return to your position on the field.",
+   "ko": "경기장의 네 자리로 돌아가 주세요."
+  },
+  {
+   "word": "postpone",
+   "pos": "동사",
+   "meaning": "미루다, 연기하다",
+   "en": "They postponed the game because of the rain.",
+   "ko": "비 때문에 경기를 연기했어요."
+  },
+  {
+   "word": "component",
+   "pos": "명사",
+   "meaning": "구성 요소",
+   "en": "Trust is a key component of friendship.",
+   "ko": "신뢰는 우정의 핵심 요소예요."
+  }
+ ],
+ "imageSense": "대표 의미: 체스판을 사이에 두고 마주 앉은 두 선수",
+ "imageCaption": "체스판 건너편에 앉아 나를 노려보는 상대 선수를 떠올려 보세요.",
+ "movieLineEn": "Never underestimate your opponent.",
+ "movieLineKo": "절대 상대를 얕보지 마.",
+ "storyTitle": "최강의 적수",
+ "story": "탁구 대회 결승, 지훈이의 opponent(상대)는 할머니였어요. 모두가 할머니를 응원하는 opposite(반대의) 분위기! 지훈이는 경기를 postpone(연기하다)하고 싶었죠. 하지만 할머니는 자기 position(자리)에서 한 발도 안 움직이고 모든 공을 받아쳤어요. 알고 보니 할머니는 왕년의 국가대표였대요!"
+}

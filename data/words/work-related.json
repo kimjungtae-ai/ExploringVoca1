@@ -1,0 +1,80 @@
+{
+ "word": "work-related",
+ "pos": "형용사",
+ "phonetic": "[ˈwɜːrk rɪˌleɪtɪd]",
+ "meaning": "업무와 관련된, 일과 관련된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "work",
+   "meaning": "일, 업무 (work)",
+   "note": "고대 영어 weorc(일, 행위)에서 왔어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 뒤로 (back)",
+   "note": "'되돌려'라는 뜻의 라틴어 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lat",
+   "meaning": "나르다, 가져가다 (carried)",
+   "note": "라틴어 ferre(나르다)의 과거분사 latus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사)",
+   "note": "'~된'이라는 형용사 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>work</strong> (일) + <strong>re-</strong> (다시) + <strong>lat</strong> (나르다) + <strong>-ed</strong> (~된) = '일에 다시 연결된'이라는 뜻에서 <strong>'업무와 관련된'</strong>이 되었어요.",
+ "historyTitle": "다시 가져와 연결하다",
+ "historyBody": "relate는 라틴어 relatus에서 왔는데, re-(다시)와 latus(옮겨진, ferre의 과거분사)가 합쳐져 '다시 가져오다, 전하다'라는 뜻이었어요. 이야기를 '전하다'에서 '연결 짓다, 관련시키다'로 뜻이 넓어졌죠. work-related는 'work-related stress(업무 스트레스)'처럼 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relate",
+   "pos": "동사",
+   "meaning": "관련시키다, 공감하다",
+   "en": "I can relate to your feelings.",
+   "ko": "네 기분에 공감할 수 있어."
+  },
+  {
+   "word": "relation",
+   "pos": "명사",
+   "meaning": "관계",
+   "en": "There is a close relation between sleep and memory.",
+   "ko": "수면과 기억 사이에는 밀접한 관계가 있어요."
+  },
+  {
+   "word": "relationship",
+   "pos": "명사",
+   "meaning": "관계, 사이",
+   "en": "They have a good relationship with their neighbors.",
+   "ko": "그들은 이웃과 사이가 좋아요."
+  },
+  {
+   "word": "relative",
+   "pos": "명사 / 형용사",
+   "meaning": "친척 / 상대적인",
+   "en": "Many relatives visited us during the holiday.",
+   "ko": "명절에 많은 친척들이 우리 집에 왔어요."
+  },
+  {
+   "word": "workplace",
+   "pos": "명사",
+   "meaning": "직장, 일터",
+   "en": "Safety is important in every workplace.",
+   "ko": "모든 일터에서 안전이 중요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위 서류 더미 앞에서 한숨 쉬는 직장인",
+ "imageCaption": "퇴근 후에도 울리는 업무 메시지에 머리를 감싸는 직장인을 떠올려 보세요. 그게 work-related stress예요.",
+ "movieLineEn": "This is not a work-related call. It's personal.",
+ "movieLineKo": "이건 업무 전화가 아니야. 개인적인 일이야.",
+ "storyTitle": "아빠의 업무 전화",
+ "story": "아빠는 주말에도 work-related(업무와 관련된) 전화를 받으셨어요. 가족과의 relationship(관계)이 걱정된 엄마가 휴대폰을 숨겼죠. 아빠는 일터인 workplace(직장)보다 집이 더 바쁘다며 투덜댔어요. 그런데 다시 울린 전화는 relative(친척) 삼촌의 \"낚시 가자!\"였어요. 아빠는 1초 만에 출발했답니다."
+}

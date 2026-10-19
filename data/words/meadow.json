@@ -1,0 +1,41 @@
+{
+ "word": "meadow",
+ "pos": "명사",
+ "phonetic": "[ˈmedoʊ]",
+ "meaning": "목초지, 초원",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "meadow (mæd)",
+   "meaning": "풀을 베는 땅 (mown land)",
+   "note": "고대 영어 mæd(목초지)의 변화형 mædwe에서 왔어요. mow(풀을 베다)와 관련된 게르만계 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>meadow</strong>는 고대 영어 <strong>mæd</strong>(베어 낸 풀밭)에서 온 한 덩어리 단어로, '풀을 베는 땅'에서 <strong>'목초지, 초원'</strong>이 되었어요.",
+ "historyTitle": "풀을 '베던' 땅",
+ "historyBody": "고대 영어 mæd는 '건초를 만들려고 풀을 베는 땅'을 뜻했고, 문법적으로 형태가 바뀐 mædwe가 지금의 meadow가 되었어요. mæd는 mow(풀을 베다)와 같은 뿌리로 여겨져요. 그래서 aftermath(여파)도 원래는 '풀을 벤 뒤에 다시 자라난 풀'이라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mow",
+   "pos": "동사",
+   "meaning": "(풀을) 베다",
+   "en": "My dad mows the lawn every Saturday.",
+   "ko": "아빠는 토요일마다 잔디를 깎아요."
+  },
+  {
+   "word": "aftermath",
+   "pos": "명사",
+   "meaning": "여파, 후유증",
+   "en": "Many families needed help in the aftermath of the flood.",
+   "ko": "홍수의 여파로 많은 가족이 도움이 필요했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 들꽃이 핀 넓은 풀밭에서 소들이 풀을 뜯는 장면",
+ "imageCaption": "바람에 풀잎이 출렁이고 노란 들꽃이 핀 넓은 들판을 떠올리세요. 그게 meadow예요.",
+ "movieLineEn": "Let's run through the meadow before the sun goes down!",
+ "movieLineKo": "해 지기 전에 저 초원을 달려 보자!",
+ "storyTitle": "초원 위의 잔디 깎기",
+ "story": "할아버지는 넓은 meadow(초원)의 풀을 mow(베다)하는 게 취미셨어요. 어느 날 저에게 잔디 깎는 기계를 맡기셨죠. 저는 신이 나서 grass(풀)가 가득한 초원을 가로질렀어요. 그 aftermath(여파)는 엄청났어요. 초원 한가운데에 거대한 하트 모양이 생겼거든요. 다음 날 드론 사진이 SNS에서 화제가 되었고, 할아버지는 유명 인사가 되셨답니다."
+}

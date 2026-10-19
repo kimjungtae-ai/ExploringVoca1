@@ -1,0 +1,48 @@
+{
+ "word": "slide",
+ "pos": "동사 / 명사",
+ "phonetic": "[slaɪd]",
+ "meaning": "미끄러지다, 미끄러뜨리다 / 미끄럼틀, (발표용) 슬라이드, 하락",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "slide (slidan)",
+   "meaning": "미끄러지다 (glide)",
+   "note": "고대 영어 slidan에서 온 게르만계 토박이 단어예요."
+  }
+ ],
+ "summary": "<strong>slide</strong>는 고대 영어 slidan에서 온 말로 <strong>'미끄러지다'</strong>를 뜻해요.",
+ "historyTitle": "미끄러지는 모든 것",
+ "historyBody": "slide는 고대 영어 slidan(미끄러지다)에서 왔고, 중세 고지 독일어 slīten과 같은 게르만어 뿌리를 가졌어요. '미끄러지다'에서 미끄럼틀, 현미경 유리판, 환등기에 '밀어 넣는' 사진판까지 뜻이 넓어졌죠. 그래서 오늘날 발표 화면도 slide라고 부른답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "slider",
+   "pos": "명사",
+   "meaning": "슬라이더, 미끄러지는 것",
+   "en": "Move the slider to change the volume.",
+   "ko": "볼륨을 바꾸려면 슬라이더를 움직이세요."
+  },
+  {
+   "word": "landslide",
+   "pos": "명사",
+   "meaning": "산사태, 압도적 승리",
+   "en": "Heavy rain caused a landslide near the village.",
+   "ko": "폭우로 마을 근처에 산사태가 났어요."
+  },
+  {
+   "word": "slideshow",
+   "pos": "명사",
+   "meaning": "슬라이드 쇼",
+   "en": "We made a slideshow of our class trip photos.",
+   "ko": "우리는 수학여행 사진으로 슬라이드 쇼를 만들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 놀이터 미끄럼틀을 신나게 내려오는 아이",
+ "imageCaption": "꼭대기에서 '슝!' 하고 미끄러져 내려오는 아이의 신난 얼굴을 떠올려 보세요.",
+ "movieLineEn": "Slide under the door before it closes!",
+ "movieLineKo": "문 닫히기 전에 밑으로 미끄러져 들어가!",
+ "storyTitle": "발표 시간의 대참사",
+ "story": "나는 과학 발표 slideshow(슬라이드 쇼)를 밤새 준비했어요. 첫 slide(슬라이드) 제목은 'landslide(산사태)의 위험'이었죠. 자신 있게 단상으로 걸어가다 바닥에 미끄러져 slide(미끄러지다)해 버렸어요! 친구들은 박수를 쳤어요. 최고의 live(생생한) 시범이었다면서요."
+}

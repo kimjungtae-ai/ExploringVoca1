@@ -1,0 +1,62 @@
+{
+ "word": "light",
+ "pos": "명사 / 형용사 / 동사",
+ "phonetic": "[laɪt]",
+ "meaning": "빛, 전등 / 밝은, 가벼운 / 불을 켜다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "light (leoht)",
+   "meaning": "빛 / 가벼운 (light)",
+   "note": "고대 영어 leoht에서 온 게르만계 단어예요. 사실 '빛'과 '가벼운'은 철자만 같아진 서로 다른 고대 영어 단어예요."
+  }
+ ],
+ "summary": "<strong>light</strong>는 쪼갤 수 없는 고대 영어 단어로, <strong>'빛'</strong>과 <strong>'가벼운'</strong>이라는 두 단어가 우연히 같은 모습이 된 거예요.",
+ "historyTitle": "같은 철자, 다른 두 단어",
+ "historyBody": "'빛'의 light는 고대 영어 leoht(빛)에서, '가벼운'의 light는 고대 영어 leoht/liht(무겁지 않은)에서 왔어요. 두 말은 뿌리가 다른데 소리가 같아져 하나의 철자가 되었죠. 원래 발음되던 gh 소리는 중세 이후 사라져 묵음이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lighting",
+   "pos": "명사",
+   "meaning": "조명",
+   "en": "The lighting in this café is warm and cozy.",
+   "ko": "이 카페의 조명은 따뜻하고 아늑해요."
+  },
+  {
+   "word": "enlighten",
+   "pos": "동사",
+   "meaning": "깨우치다, 계몽하다",
+   "en": "The documentary enlightened me about climate change.",
+   "ko": "그 다큐멘터리는 기후 변화에 대해 나를 깨우쳐 줬어요."
+  },
+  {
+   "word": "highlight",
+   "pos": "명사 / 동사",
+   "meaning": "가장 중요한 부분 / 강조하다",
+   "en": "The highlight of the trip was the night market.",
+   "ko": "여행의 하이라이트는 야시장이었어요."
+  },
+  {
+   "word": "lighthouse",
+   "pos": "명사",
+   "meaning": "등대",
+   "en": "The lighthouse guided ships safely to the harbor.",
+   "ko": "등대는 배들을 항구로 안전하게 안내했어요."
+  },
+  {
+   "word": "lightning",
+   "pos": "명사",
+   "meaning": "번개",
+   "en": "We saw lightning flash across the dark sky.",
+   "ko": "우리는 어두운 하늘을 가로지르는 번개를 봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어두운 방에 스위치를 켜자 환해지는 장면, 그리고 깃털처럼 가벼운 가방",
+ "imageCaption": "'딸깍' 불이 켜지는 순간과 깃털을 함께 떠올리세요. 둘 다 light예요.",
+ "movieLineEn": "There's always light at the end of the tunnel. Keep going!",
+ "movieLineKo": "터널 끝에는 언제나 빛이 있어. 계속 가!",
+ "storyTitle": "등대지기의 정전",
+ "story": "등대지기 할아버지는 매일 밤 lighthouse(등대)에 light(불을 켜다)했어요. 어느 날 lightning(번개)이 쳐서 정전이 됐죠! 배들이 길을 잃을 위기였어요. 할아버지는 휴대폰 손전등으로 lighting(조명)을 대신했어요. 그 장면은 뉴스의 highlight(하이라이트)가 되었죠. 문제는 배터리가 3%였다는 거예요."
+}

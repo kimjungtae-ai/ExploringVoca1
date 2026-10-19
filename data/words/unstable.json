@@ -1,0 +1,81 @@
+{
+ "word": "unstable",
+ "pos": "형용사",
+ "phonetic": "[ʌnˈsteɪbl]",
+ "meaning": "불안정한, 흔들리는, 변하기 쉬운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "un-",
+   "meaning": "~이 아닌 (not)",
+   "note": "뒤에 오는 말의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sta",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ble",
+   "meaning": "~할 수 있는",
+   "note": "'~할 수 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>un-</strong> (아닌) + <strong>sta</strong> (서다) + <strong>-ble</strong> (~할 수 있는) = 굳건히 서 있을 수 없는, 즉 <strong>'불안정한'</strong>이 되었어요.",
+ "historyTitle": "굳게 서 있는 것과 흔들리는 것",
+ "historyBody": "stable은 라틴어 'stabilis(굳게 서 있는)'에서 왔고, 이는 'stare(서다)'에서 나왔어요. stare는 status, station, statue처럼 '서 있음'과 관련된 많은 단어를 만들었죠. 영어의 stand도 아주 먼 옛날 같은 인도유럽어 뿌리에서 나온 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stable",
+   "pos": "형용사",
+   "meaning": "안정된",
+   "en": "The patient's condition is now stable.",
+   "ko": "그 환자의 상태는 이제 안정적이에요."
+  },
+  {
+   "word": "stability",
+   "pos": "명사",
+   "meaning": "안정(성)",
+   "en": "Many people want job stability.",
+   "ko": "많은 사람들이 직업의 안정성을 원해요."
+  },
+  {
+   "word": "establish",
+   "pos": "동사",
+   "meaning": "설립하다, 확립하다",
+   "en": "The school was established in 1950.",
+   "ko": "그 학교는 1950년에 설립되었어요."
+  },
+  {
+   "word": "status",
+   "pos": "명사",
+   "meaning": "지위, 상태",
+   "en": "Please check the status of your order online.",
+   "ko": "온라인에서 주문 상태를 확인해 주세요."
+  },
+  {
+   "word": "statue",
+   "pos": "명사",
+   "meaning": "조각상",
+   "en": "There is a famous statue in the middle of the square.",
+   "ko": "광장 한가운데에 유명한 조각상이 있어요."
+  },
+  {
+   "word": "station",
+   "pos": "명사",
+   "meaning": "역, 정거장",
+   "en": "Let's meet at the subway station at noon.",
+   "ko": "정오에 지하철역에서 만나자."
+  }
+ ],
+ "imageSense": "대표 의미: 흔들흔들 금방이라도 넘어질 것 같은 높은 블록 탑",
+ "imageCaption": "젠가 블록을 너무 많이 빼서 탑이 흔들흔들하는 순간을 떠올려 보세요. 제대로 서 있지 못하는 상태예요.",
+ "movieLineEn": "The bridge is unstable! Run!",
+ "movieLineKo": "다리가 불안정해! 뛰어!",
+ "storyTitle": "흔들리는 조각상",
+ "story": "광장의 statue(조각상)가 매일 조금씩 흔들렸어요. 사람들은 받침대가 unstable(불안정한)하다며 걱정했죠. 시청은 조각상의 stability(안정)를 위해 전문가를 불렀어요. 그런데 조사해 보니 조각상 안에 고양이 가족이 살면서 밤마다 놀고 있었어요! 결국 고양이용 집을 따로 establish(세우다)해 주었답니다."
+}

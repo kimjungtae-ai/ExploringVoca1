@@ -1,0 +1,48 @@
+{
+ "word": "struggle",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈstrʌɡl]",
+ "meaning": "애쓰다, 분투하다, 몸부림치다 / 투쟁, 노력",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "struggle (← strugle)",
+   "meaning": "몸부림치다 (struggle)",
+   "note": "중세 영어 struglen에서 왔는데 더 이전의 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>struggle</strong>은 접두사나 어근으로 나누기 어려운 단어로, 중세 영어 struglen에서 온 <strong>'애쓰다, 분투하다'</strong>라는 뜻이에요.",
+ "historyTitle": "기원이 흐릿한 '몸부림'",
+ "historyBody": "struggle은 14세기 후반 중세 영어 struglen으로 처음 기록돼요. 스칸디나비아어와 관련 있다는 설이 있지만 사전들은 기원을 '불확실'하다고 적고 있어요. 그래서 억지로 쪼개기보다 통째로 '힘들게 애쓰다'로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "struggling",
+   "pos": "형용사",
+   "meaning": "고군분투하는, 어려움을 겪는",
+   "en": "The struggling team finally won a game.",
+   "ko": "고전하던 그 팀이 마침내 경기에서 이겼어요."
+  },
+  {
+   "word": "struggler",
+   "pos": "명사",
+   "meaning": "분투하는 사람",
+   "en": "Every struggler in the race deserved our cheers.",
+   "ko": "경주에서 분투한 모든 사람이 우리의 응원을 받을 만했어요."
+  },
+  {
+   "word": "struggled",
+   "pos": "동사(과거)",
+   "meaning": "애썼다",
+   "en": "She struggled with math at first but improved quickly.",
+   "ko": "그녀는 처음엔 수학 때문에 고생했지만 빠르게 실력이 늘었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무거운 상자를 들려고 온 힘을 다해 애쓰는 장면",
+ "imageCaption": "꽉 닫힌 병뚜껑을 열려고 얼굴이 빨개지도록 힘주는 모습을 떠올려 보세요. 그게 바로 struggle이에요.",
+ "movieLineEn": "Don't give up. Every hero has to struggle first.",
+ "movieLineKo": "포기하지 마. 모든 영웅은 처음엔 고군분투해야 해.",
+ "storyTitle": "병뚜껑과의 전쟁",
+ "story": "민수는 피클 병을 열려고 30분째 struggle(애쓰다)했어요. 옆에서 struggling(고전하는) 형도 거들었지만 꿈쩍도 안 했죠. 두 명의 struggler(분투하는 사람)가 포기하려던 순간, 할머니가 오셔서 struggled(애썼다)는 말이 무색하게 한 번에 '뽁!' 열어버렸답니다. 비결은 뚜껑을 반대로 돌리는 거였어요!"
+}

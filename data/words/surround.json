@@ -1,0 +1,61 @@
+{
+ "word": "surround",
+ "pos": "동사",
+ "phonetic": "[səˈraʊnd]",
+ "meaning": "둘러싸다, 에워싸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sur- (super-)",
+   "meaning": "위로, 넘어 (over)",
+   "note": "라틴어 super(위로)가 프랑스어에서 sur-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ound (← unda)",
+   "meaning": "물결 (wave)",
+   "note": "라틴어 unda(물결)에서 온 부분이에요. 'round(둥근)'와는 원래 상관없어요."
+  }
+ ],
+ "summary": "<strong>sur-</strong> (넘어) + <strong>unda</strong> (물결) = '물결이 넘쳐흐르다'에서 '사방을 덮다'를 거쳐 <strong>'둘러싸다'</strong>가 되었어요.",
+ "historyTitle": "넘쳐흐르는 물결에서 '둘러싸다'로",
+ "historyBody": "surround는 후기 라틴어 superundare(넘쳐흐르다)가 앵글로프랑스어 surounder를 거쳐 영어로 들어온 말이에요. 원래 뜻은 '범람하다'였는데, 사람들이 round(둥근)와 연결 지어 생각하면서 '빙 둘러싸다'라는 뜻이 되었어요. 그러니 sur+round로 외우는 건 기억법일 뿐, 진짜 어원은 '물결'이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "surroundings",
+   "pos": "명사",
+   "meaning": "환경, 주변",
+   "en": "Animals adapt to their surroundings.",
+   "ko": "동물들은 주변 환경에 적응해요."
+  },
+  {
+   "word": "surrounding",
+   "pos": "형용사",
+   "meaning": "주위의, 인근의",
+   "en": "The fire spread to the surrounding forest.",
+   "ko": "불이 주변 숲으로 번졌어요."
+  },
+  {
+   "word": "abundant",
+   "pos": "형용사",
+   "meaning": "풍부한",
+   "en": "The region has abundant natural resources.",
+   "ko": "그 지역은 천연자원이 풍부해요."
+  },
+  {
+   "word": "redundant",
+   "pos": "형용사",
+   "meaning": "불필요한, 남아도는",
+   "en": "Delete the redundant words in your essay.",
+   "ko": "에세이에서 불필요한 단어를 지우세요."
+  }
+ ],
+ "imageSense": "대표 의미: 사람들이 한 사람을 빙 둘러싼 장면",
+ "imageCaption": "생일 주인공 주변을 친구들이 동그랗게 둘러싸고 노래를 부르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Put your hands up! You're surrounded!",
+ "movieLineKo": "손 들어! 넌 포위됐다!",
+ "storyTitle": "포위된 생일 주인공",
+ "story": "친구들이 깜짝 파티를 위해 내 집 surroundings(주변)에 숨어 있었어요. 내가 문을 열자 모두 튀어나와 나를 surround(둘러싸다)했죠. surrounding(주위의) 이웃들까지 abundant(풍부한) 박수를 보냈어요. 그런데 사실 그날은 내 생일이 아니라 동생 생일이었답니다. 동생은 학원에 있었고요!"
+}

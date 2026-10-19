@@ -1,0 +1,67 @@
+{
+ "word": "up-to-date",
+ "pos": "형용사",
+ "phonetic": "[ˌʌp tə ˈdeɪt]",
+ "meaning": "최신의, 최신 정보를 담은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "up",
+   "meaning": "위로, ~까지 (up)",
+   "note": "'~까지 쭉 올라와서'라는 느낌이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "to",
+   "meaning": "~까지 (to)",
+   "note": "도착 지점을 가리켜요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "date (← data)",
+   "meaning": "날짜 (date) — 원래 '주어진'",
+   "note": "라틴어 data(주어진)에서 왔어요. 편지 끝에 '~일에 주어짐'이라고 쓰던 습관 때문이에요."
+  }
+ ],
+ "summary": "<strong>up</strong> (쭉) + <strong>to</strong> (~까지) + <strong>date</strong> (날짜) = 오늘 날짜까지 쭉 따라온, 즉 <strong>'최신의'</strong>가 되었어요.",
+ "historyTitle": "편지 끝의 '주어진 날'",
+ "historyBody": "date는 라틴어 'data'에서 왔어요. 고대 로마 사람들은 편지 끝에 'data Romae(로마에서 주어짐)'처럼 쓰고 날짜를 적었는데, 이 'data(주어진)'가 결국 '날짜'라는 뜻이 되었죠. 같은 라틴어 동사 dare(주다)에서 오늘날의 data(자료, 주어진 것)도 나왔답니다. up-to-date는 19세기 무렵 장부를 '오늘 날짜까지' 기록해 둔다는 말에서 '최신의'라는 뜻으로 퍼졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "date",
+   "pos": "명사 / 동사",
+   "meaning": "날짜, 데이트 / 날짜를 적다",
+   "en": "What's the date of your birthday party?",
+   "ko": "네 생일 파티 날짜가 언제야?"
+  },
+  {
+   "word": "update",
+   "pos": "동사 / 명사",
+   "meaning": "업데이트하다 / 최신 정보",
+   "en": "Please update the app to fix the problem.",
+   "ko": "문제를 해결하려면 앱을 업데이트해 주세요."
+  },
+  {
+   "word": "outdated",
+   "pos": "형용사",
+   "meaning": "구식의, 시대에 뒤진",
+   "en": "This map is outdated and doesn't show the new road.",
+   "ko": "이 지도는 오래돼서 새 도로가 나와 있지 않아요."
+  },
+  {
+   "word": "data",
+   "pos": "명사",
+   "meaning": "자료, 데이터",
+   "en": "We need more data to prove our idea.",
+   "ko": "우리 생각을 증명하려면 자료가 더 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 오늘 날짜가 찍힌 최신 뉴스 화면",
+ "imageCaption": "오늘 날짜까지 꽉 채워 기록된 달력, 그리고 방금 올라온 뉴스 화면을 떠올려 보세요.",
+ "movieLineEn": "My info is always up-to-date. I know everything!",
+ "movieLineKo": "내 정보는 항상 최신이야. 난 모든 걸 알지!",
+ "storyTitle": "최신 유행 할머니",
+ "story": "할머니는 항상 up-to-date(최신의) 정보를 원하셨어요. 휴대폰을 매일 update(업데이트하다)하고, 뉴스 data(자료)도 꼼꼼히 확인하셨죠. 그러던 어느 날 할머니가 손주에게 말했어요. \"너 그 말투는 outdated(구식의)란다.\" 이제는 할머니가 우리에게 신조어를 가르쳐 주신답니다."
+}

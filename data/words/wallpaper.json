@@ -1,0 +1,61 @@
+{
+ "word": "wallpaper",
+ "pos": "명사",
+ "phonetic": "[ˈwɔːlpeɪpər]",
+ "meaning": "벽지, (컴퓨터·휴대폰의) 배경 화면",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "wall",
+   "meaning": "벽 (wall)",
+   "note": "고대 영어 weall에서 왔고, 그 뿌리는 라틴어 vallum(성벽, 방어벽)이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "paper",
+   "meaning": "종이 (paper)",
+   "note": "그리스어 papyros(파피루스)가 라틴어를 거쳐 들어온 말이에요."
+  }
+ ],
+ "summary": "<strong>wall</strong> (벽) + <strong>paper</strong> (종이) = '벽에 붙이는 종이'라는 뜻에서 <strong>'벽지, 배경 화면'</strong>이 되었어요.",
+ "historyTitle": "로마의 성벽과 이집트의 파피루스",
+ "historyBody": "wall은 라틴어 vallum(말뚝을 박은 방어벽)이 고대 영어에 들어온 말이에요. paper는 이집트 나일강의 식물로 만든 종이 papyrus에서 왔어요. 이 둘이 만난 wallpaper는 이제 휴대폰 '배경 화면'이라는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wall",
+   "pos": "명사",
+   "meaning": "벽",
+   "en": "She hung a family photo on the wall.",
+   "ko": "그녀는 벽에 가족사진을 걸었어요."
+  },
+  {
+   "word": "newspaper",
+   "pos": "명사",
+   "meaning": "신문",
+   "en": "My dad reads the newspaper every morning.",
+   "ko": "아빠는 매일 아침 신문을 읽으세요."
+  },
+  {
+   "word": "paperwork",
+   "pos": "명사",
+   "meaning": "서류 작업",
+   "en": "Doctors spend too much time on paperwork.",
+   "ko": "의사들은 서류 작업에 너무 많은 시간을 써요."
+  },
+  {
+   "word": "paperback",
+   "pos": "명사",
+   "meaning": "종이 표지 책",
+   "en": "I bought a cheap paperback at the bookstore.",
+   "ko": "나는 서점에서 저렴한 종이 표지 책을 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃무늬 벽지가 발린 아늑한 방",
+ "imageCaption": "하얀 벽에 알록달록한 꽃무늬 종이를 붙이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Behind this wallpaper, there's a hidden door.",
+ "movieLineKo": "이 벽지 뒤에 숨겨진 문이 있어.",
+ "storyTitle": "벽지 속 비밀",
+ "story": "이사 온 집의 wallpaper(벽지)를 뜯었더니 오래된 newspaper(신문)가 나왔어요. 1985년 기사엔 '이 wall(벽) 뒤에 보물이 있다'고 적혀 있었죠. 가족 모두 흥분해 벽을 두드렸어요. 결국 찾은 건 할아버지의 paperwork(서류 작업) 더미! 할아버지 숙제를 우리가 대신하게 됐어요."
+}

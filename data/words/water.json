@@ -1,0 +1,62 @@
+{
+ "word": "water",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈwɔːtər]",
+ "meaning": "물 / 물을 주다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "water (← 고대 영어 wæter)",
+   "meaning": "물 (water)",
+   "note": "아주 오래된 게르만어 단어라 더 나눌 수 없어요. 그리스어 hydor, 러시아어 voda와 먼 친척이에요."
+  }
+ ],
+ "summary": "고대 영어 <strong>wæter</strong>가 거의 그대로 이어져 <strong>'물, 물을 주다'</strong>가 되었어요.",
+ "historyTitle": "수천 년을 버틴 단어",
+ "historyBody": "water는 고대 영어 wæter에서 왔고, 독일어 Wasser와 같은 게르만어 단어예요. 더 거슬러 올라가면 그리스어 hydor(물), 러시아어 voda(물)와 같은 인도유럽어 뿌리를 공유해요. 그래서 hydrogen(수소)도 water의 먼 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "waterproof",
+   "pos": "형용사",
+   "meaning": "방수의",
+   "en": "I need a waterproof jacket for hiking.",
+   "ko": "나는 등산용 방수 재킷이 필요해요."
+  },
+  {
+   "word": "underwater",
+   "pos": "형용사 / 부사",
+   "meaning": "물속의 / 물속에서",
+   "en": "Whales can stay underwater for a long time.",
+   "ko": "고래는 물속에서 오래 머무를 수 있어요."
+  },
+  {
+   "word": "watery",
+   "pos": "형용사",
+   "meaning": "물기가 많은, 묽은",
+   "en": "The soup was too watery and tasteless.",
+   "ko": "그 수프는 너무 묽고 맛이 없었어요."
+  },
+  {
+   "word": "wet",
+   "pos": "형용사",
+   "meaning": "젖은",
+   "en": "My shoes got wet in the rain.",
+   "ko": "비 때문에 신발이 젖었어요."
+  },
+  {
+   "word": "waterfall",
+   "pos": "명사",
+   "meaning": "폭포",
+   "en": "We took photos in front of the waterfall.",
+   "ko": "우리는 폭포 앞에서 사진을 찍었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 컵에 맑은 물을 따르는 장면",
+ "imageCaption": "투명한 유리컵에 시원한 물을 졸졸 따르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Water! We need water, or we won't survive the desert!",
+ "movieLineKo": "물! 물이 필요해, 아니면 이 사막에서 살아남지 못해!",
+ "storyTitle": "식물 키우기 대작전",
+ "story": "지아는 선인장에 매일 water(물을 주다)했어요. 흙은 늘 wet(젖은) 상태였죠. 선인장이 시들자 waterproof(방수의) 화분으로 바꾸고 물을 더 줬어요. 결국 화분은 작은 waterfall(폭포)이 됐어요. 꽃집 사장님이 말했어요. \"선인장은 사막 출신이에요. 수영 선수가 아니라고요!\""
+}

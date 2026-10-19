@@ -1,0 +1,61 @@
+{
+ "word": "wealth",
+ "pos": "명사",
+ "phonetic": "[welθ]",
+ "meaning": "부, 재산, 풍부함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "weal (← 고대 영어 wela)",
+   "meaning": "행복, 잘 삶 (well-being)",
+   "note": "well(잘)과 같은 뿌리로, '잘 지냄'이라는 뜻이었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-th",
+   "meaning": "~함 (명사)",
+   "note": "health처럼 명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>weal</strong> (잘 삶) + <strong>-th</strong> (~함) = '잘 사는 상태'라는 뜻에서 <strong>'부, 재산'</strong>이 되었어요.",
+ "historyTitle": "행복에서 재산으로",
+ "historyBody": "wealth는 13세기에 well(잘)과 관련된 weal(행복, 복지)에 -th가 붙어 만들어졌어요. health(건강)를 본떠 만든 말로, 원래는 '행복, 잘 지냄'이라는 뜻이었죠. 시간이 흐르며 '잘 살게 해 주는 것', 즉 '재산'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wealthy",
+   "pos": "형용사",
+   "meaning": "부유한",
+   "en": "The wealthy family donated money to the hospital.",
+   "ko": "그 부유한 가족은 병원에 돈을 기부했어요."
+  },
+  {
+   "word": "well",
+   "pos": "부사 / 형용사",
+   "meaning": "잘 / 건강한",
+   "en": "She sings very well.",
+   "ko": "그녀는 노래를 아주 잘해요."
+  },
+  {
+   "word": "welfare",
+   "pos": "명사",
+   "meaning": "복지, 행복",
+   "en": "The government should care about the welfare of children.",
+   "ko": "정부는 아이들의 복지에 신경 써야 해요."
+  },
+  {
+   "word": "commonwealth",
+   "pos": "명사",
+   "meaning": "연방, 공동체",
+   "en": "Australia is part of the Commonwealth.",
+   "ko": "호주는 영연방의 일부예요."
+  }
+ ],
+ "imageSense": "대표 의미: 금화가 가득한 보물 상자와 행복한 가족",
+ "imageCaption": "보물 상자도 wealth지만, 원래 뜻처럼 '잘 사는 행복한 상태'도 함께 떠올려 보세요.",
+ "movieLineEn": "True wealth is not gold. It's the people who love you.",
+ "movieLineKo": "진정한 부는 금이 아니야. 너를 사랑하는 사람들이지.",
+ "storyTitle": "부자 할아버지의 유언",
+ "story": "wealthy(부유한) 할아버지가 자식들에게 wealth(부)를 물려준다고 했어요. 모두 큰 금고를 기대했죠. 금고를 여니 쪽지가 있었어요. \"진짜 재산은 가족의 welfare(행복)다.\" 실망한 순간, 쪽지 뒷면에 적혀 있었어요. \"농담이야. 금은 마당에 묻었으니 다 같이 well(잘) 파 봐라.\""
+}

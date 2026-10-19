@@ -1,0 +1,61 @@
+{
+ "word": "technique",
+ "pos": "명사",
+ "phonetic": "[tekˈniːk]",
+ "meaning": "기술, 기법, 기교",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "techn",
+   "meaning": "기술, 솜씨 (art, skill)",
+   "note": "그리스어 tekhnē(기술, 솜씨)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ique",
+   "meaning": "~에 관한 (형용사·명사 어미)",
+   "note": "프랑스어 어미로, 그리스어 -ikos에서 왔어요."
+  }
+ ],
+ "summary": "<strong>techn</strong> (기술) + <strong>-ique</strong> (~에 관한) = '기술에 관한 것'에서 <strong>'기법, 기술'</strong>이 되었어요.",
+ "historyTitle": "그리스 장인의 솜씨",
+ "historyBody": "그리스어 tekhnē는 목수나 조각가의 '솜씨, 기술'을 뜻했어요. 여기서 나온 tekhnikos(기술적인)가 프랑스어 technique를 거쳐 19세기 영어로 들어왔죠. technology(기술 + 학문)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "technology",
+   "pos": "명사",
+   "meaning": "기술, 과학 기술",
+   "en": "Technology has changed the way we study.",
+   "ko": "기술은 우리가 공부하는 방식을 바꿨어요."
+  },
+  {
+   "word": "technical",
+   "pos": "형용사",
+   "meaning": "기술적인, 전문적인",
+   "en": "The game was delayed because of a technical problem.",
+   "ko": "기술적인 문제로 경기가 지연되었어요."
+  },
+  {
+   "word": "technician",
+   "pos": "명사",
+   "meaning": "기술자",
+   "en": "A technician came to fix our internet.",
+   "ko": "기술자가 우리 인터넷을 고치러 왔어요."
+  },
+  {
+   "word": "technological",
+   "pos": "형용사",
+   "meaning": "기술의, 기술적인",
+   "en": "Technological progress makes life easier.",
+   "ko": "기술의 발전은 삶을 더 편하게 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 요리사가 능숙하게 칼질하는 장면",
+ "imageCaption": "요리사가 눈 깜짝할 새에 양파를 썰어 내는 모습을 떠올려 보세요. 오랜 연습으로 익힌 솜씨, 그게 technique예요.",
+ "movieLineEn": "It's not about power. It's all about technique.",
+ "movieLineKo": "힘이 문제가 아니야. 전부 기술이 중요해.",
+ "storyTitle": "공부 기술의 비밀",
+ "story": "반 1등 친구에게 공부 technique(기법)를 물었어요. 최신 technology(기술) 앱을 쓰는지, technical(전문적인) 방법이 있는지 궁금했죠. 친구는 진지하게 말했어요. \"휴대폰을 엄마한테 맡기는 거야.\" 나는 그 technique를 따라 했고, 우리 엄마는 최고의 technician(기술자)이 되었답니다!"
+}

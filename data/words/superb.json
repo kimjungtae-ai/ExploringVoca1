@@ -1,0 +1,61 @@
+{
+ "word": "superb",
+ "pos": "형용사",
+ "phonetic": "[suːˈpɜːrb]",
+ "meaning": "최고의, 훌륭한, 뛰어난",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "super",
+   "meaning": "위에 (above)",
+   "note": "라틴어 super(위에)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-b (← -bus)",
+   "meaning": "형용사 어미",
+   "note": "라틴어 superbus의 어미 부분이에요."
+  }
+ ],
+ "summary": "<strong>super</strong> (위에) + <strong>-bus</strong> (형용사 어미) = 라틴어 superbus '남들보다 위에 있는'에서 <strong>'최고의, 훌륭한'</strong>이 되었어요.",
+ "historyTitle": "'거만한'에서 '훌륭한'으로",
+ "historyBody": "라틴어 superbus는 super(위에)에서 나온 말로 '거만한, 당당한, 화려한'이라는 뜻이었어요. 로마의 마지막 왕 타르퀴니우스는 오만하다고 'Superbus'라는 별명이 붙었죠. 영어에서는 16세기부터 '웅장한, 훌륭한'이라는 좋은 뜻으로 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "superior",
+   "pos": "형용사",
+   "meaning": "우월한, 상급의",
+   "en": "This new phone is superior to the old model.",
+   "ko": "이 새 휴대폰은 예전 모델보다 뛰어나요."
+  },
+  {
+   "word": "supreme",
+   "pos": "형용사",
+   "meaning": "최고의, 최상의",
+   "en": "The Supreme Court made a final decision.",
+   "ko": "대법원이 최종 결정을 내렸어요."
+  },
+  {
+   "word": "superficial",
+   "pos": "형용사",
+   "meaning": "피상적인, 표면의",
+   "en": "His knowledge of history is only superficial.",
+   "ko": "그의 역사 지식은 피상적일 뿐이에요."
+  },
+  {
+   "word": "superstar",
+   "pos": "명사",
+   "meaning": "슈퍼스타",
+   "en": "The young singer became a superstar overnight.",
+   "ko": "그 젊은 가수는 하룻밤 사이에 슈퍼스타가 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 심사위원이 엄지를 치켜세우며 감탄하는 장면",
+ "imageCaption": "요리 대회 심사위원이 한 입 먹고 눈을 동그랗게 뜨며 '최고예요!'라고 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Superb! This is the best cake I've ever tasted!",
+ "movieLineKo": "훌륭해! 내가 먹어 본 케이크 중 최고야!",
+ "storyTitle": "라면 요리 대회",
+ "story": "요리 대회에서 superstar(슈퍼스타) 셰프들이 superior(뛰어난) 요리를 선보였어요. 그런데 심사위원이 가장 superb(훌륭한) 요리로 뽑은 건 고등학생의 라면이었죠. 심사위원은 \"supreme(최고의) 맛이에요!\"라고 극찬했어요. 알고 보니 심사위원은 사흘째 굶은 상태였답니다!"
+}

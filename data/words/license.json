@@ -1,0 +1,54 @@
+{
+ "word": "license",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈlaɪsns]",
+ "meaning": "면허(증), 허가 / 허가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "lic",
+   "meaning": "허락되다 (be allowed)",
+   "note": "라틴어 licere(허락되다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ense (-entia)",
+   "meaning": "~함, ~한 상태 (명사형)",
+   "note": "라틴어 licentia(자유, 허가)의 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>lic</strong> (허락되다) + <strong>-ense</strong> (명사) = '해도 된다고 허락받은 것'에서 <strong>'면허, 허가'</strong>가 되었어요.",
+ "historyTitle": "라틴어 licere, '해도 돼'",
+ "historyBody": "라틴어 licere는 '허락되다, ~해도 된다'라는 뜻이었고, 여기서 licentia(자유, 허가)가 나왔어요. 고대 프랑스어 licence를 거쳐 14세기에 영어로 들어왔죠. 흥미롭게도 leisure(여가)도 licere에서 프랑스어를 거쳐 온 말이에요. '마음대로 해도 되는 시간'이니까요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "licensed",
+   "pos": "형용사",
+   "meaning": "면허를 받은, 허가된",
+   "en": "Only licensed drivers can rent a car here.",
+   "ko": "여기서는 면허가 있는 운전자만 차를 빌릴 수 있어요."
+  },
+  {
+   "word": "illicit",
+   "pos": "형용사",
+   "meaning": "불법의, 금지된",
+   "en": "The police found illicit drugs in the truck.",
+   "ko": "경찰은 트럭에서 불법 약물을 발견했어요."
+  },
+  {
+   "word": "leisure",
+   "pos": "명사",
+   "meaning": "여가",
+   "en": "Reading is my favorite leisure activity.",
+   "ko": "독서는 내가 가장 좋아하는 여가 활동이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 운전면허 시험에 합격해 면허증을 받는 장면",
+ "imageCaption": "\"이제 운전해도 됩니다!\"라는 허락이 담긴 카드를 떠올리세요. 그게 license예요.",
+ "movieLineEn": "You don't have a license to fly this thing, do you?",
+ "movieLineKo": "너 이거 조종할 면허 없지, 그렇지?",
+ "storyTitle": "면허 따는 할머니",
+ "story": "75세 할머니가 운전 license(면허)를 따셨어요! licensed(면허를 받은) 운전자가 되신 할머니는 leisure(여가)마다 드라이브를 즐기셨죠. 어느 날 경찰이 할머니 차를 세웠어요. illicit(불법의) 물건이 있냐고 묻자, 할머니가 트렁크를 여셨어요. 그 안엔 손주들 주려고 담근 김치 열 통이 있었답니다."
+}

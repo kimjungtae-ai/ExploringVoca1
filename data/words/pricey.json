@@ -1,0 +1,61 @@
+{
+ "word": "pricey",
+ "pos": "형용사",
+ "phonetic": "[ˈpraɪsi]",
+ "meaning": "값비싼, 비싼 편인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "price",
+   "meaning": "가격 (price)",
+   "note": "라틴어 pretium(가격, 가치)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~한 성질이 있는 (형용사)",
+   "note": "명사에 붙어 '~스러운'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>price</strong> (가격) + <strong>-y</strong> (~한) = 가격이 꽤 나가는 것이라서 <strong>'비싼'</strong>이 되었어요.",
+ "historyTitle": "20세기에 생긴 구어체 형용사",
+ "historyBody": "price는 라틴어 pretium(가격, 가치, 보상)에서 고대 프랑스어 pris를 거쳐 13세기 영어로 들어왔어요. precious(귀한), appreciate(진가를 알아보다), praise(칭찬하다)도 모두 pretium에서 갈라져 나온 친척이에요. pricey(또는 pricy)는 20세기 초에 생긴 구어 표현으로, expensive보다 가볍고 일상적인 느낌이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격, 대가",
+   "en": "The price of apples went up this year.",
+   "ko": "올해 사과 가격이 올랐어요."
+  },
+  {
+   "word": "priceless",
+   "pos": "형용사",
+   "meaning": "아주 귀중한",
+   "en": "Her advice was priceless to me.",
+   "ko": "그녀의 조언은 나에게 정말 귀중했어요."
+  },
+  {
+   "word": "pricing",
+   "pos": "명사",
+   "meaning": "가격 책정",
+   "en": "The store changed its pricing after many complaints.",
+   "ko": "그 가게는 불만이 많아지자 가격 책정을 바꿨어요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "Time with family is precious.",
+   "ko": "가족과 보내는 시간은 소중해요."
+  }
+ ],
+ "imageSense": "대표 의미: 가격표를 보고 깜짝 놀라는 손님",
+ "imageCaption": "예쁜 운동화를 집어 들었다가 가격표를 보고 슬그머니 내려놓는 모습을 떠올려 보세요.",
+ "movieLineEn": "Nice place, but it's a little pricey for a first date.",
+ "movieLineKo": "좋은 곳이긴 한데, 첫 데이트치고는 좀 비싸네.",
+ "storyTitle": "비싼 아이스크림의 정체",
+ "story": "여행지에서 아주 pricey(비싼) 아이스크림 가게를 발견했어요. 한 컵 price(가격)가 3만 원! 점원은 '금가루가 들어간 precious(귀한) 아이스크림'이라며 자랑했죠. 큰맘 먹고 사 먹었는데 맛은 그냥 바닐라. 그날 밤 배탈이 났는데, 엄마 말로는 그 경험이 priceless(값을 매길 수 없는)래요."
+}

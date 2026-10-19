@@ -1,0 +1,55 @@
+{
+ "word": "track",
+ "pos": "명사 / 동사",
+ "phonetic": "[træk]",
+ "meaning": "길, 선로, 경주로, 자국, 노래 한 곡 / 추적하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "track (← trac)",
+   "meaning": "지나간 자국 (trail, footprint)",
+   "note": "고대 프랑스어 trac(발자국)에서 온 말로, 영어에서는 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "고대 프랑스어 <strong>trac</strong> (지나간 자국)에서 와서 <strong>'길, 선로, 추적하다'</strong>가 되었어요.",
+ "historyTitle": "말발굽 자국을 따라가던 말",
+ "historyBody": "track은 15세기 말 고대 프랑스어 'trac(말이나 사람이 지나간 자국)'에서 들어왔어요. 이 trac은 '끌다'를 뜻하는 네덜란드어 'trekken' 같은 게르만어에서 왔을 거라고 보지만, 확실하지는 않아요. 자국을 따라가니 '추적하다', 자국이 쌓여 생긴 '길·선로'라는 뜻이 생겼답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "tracker",
+   "pos": "명사",
+   "meaning": "추적기, 추적자",
+   "en": "My fitness tracker counts how many steps I walk.",
+   "ko": "내 운동 추적기는 내가 몇 걸음 걷는지 세 줘요."
+  },
+  {
+   "word": "soundtrack",
+   "pos": "명사",
+   "meaning": "영화 음악, 사운드트랙",
+   "en": "I listen to movie soundtracks while I study.",
+   "ko": "나는 공부할 때 영화 음악을 들어요."
+  },
+  {
+   "word": "racetrack",
+   "pos": "명사",
+   "meaning": "경주로, 경마장",
+   "en": "The cars sped around the racetrack.",
+   "ko": "자동차들이 경주로를 빠르게 돌았어요."
+  },
+  {
+   "word": "sidetrack",
+   "pos": "동사",
+   "meaning": "곁길로 새게 하다, 주의를 딴 데로 돌리다",
+   "en": "Don't let your phone sidetrack you from your homework.",
+   "ko": "휴대폰 때문에 숙제에서 딴 길로 새지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈 위에 찍힌 동물 발자국과 그 옆으로 뻗은 기찻길",
+ "imageCaption": "눈밭에 찍힌 발자국을 따라가는 탐정, 그리고 길게 뻗은 기차 선로를 떠올려 보세요.",
+ "movieLineEn": "We're on the right track. Keep following the footprints!",
+ "movieLineKo": "우리는 제대로 가고 있어. 계속 발자국을 따라가!",
+ "storyTitle": "발자국 탐정",
+ "story": "탐정은 눈 위의 발자국을 track(추적하다)했어요. 손목의 tracker(추적기)도 삐삐 울렸죠. 영화 soundtrack(배경 음악) 같은 긴장감이 흘렀어요. 중간에 붕어빵 냄새에 sidetrack(딴 길로 새다)되기도 했지만, 끝까지 따라가 보니 발자국 주인은 바로 탐정 자신이었답니다. 한 바퀴를 돈 거예요!"
+}

@@ -1,0 +1,55 @@
+{
+ "word": "beat",
+ "pos": "동사 / 명사",
+ "phonetic": "[biːt]",
+ "meaning": "이기다, 때리다, (심장이) 뛰다 / 박자, 고동",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "beat",
+   "meaning": "치다 (strike) — 고대 영어 beatan",
+   "note": "더 나눌 수 없는 오래된 게르만어 단어예요."
+  }
+ ],
+ "summary": "<strong>beat</strong>는 고대 영어 <strong>beatan</strong>(치다, 때리다)에서 와서 <strong>'때리다 → 이기다, 박자'</strong>로 뜻이 넓어졌어요.",
+ "historyTitle": "때리는 소리에서 음악의 박자로",
+ "historyBody": "beat는 고대 영어 beatan(치다)에서 온 게르만어 단어예요. 반복해서 치는 동작에서 '심장의 고동', '음악의 박자'라는 뜻이 생겼고, 상대를 쳐서 누른다는 데서 '이기다'라는 뜻이 나왔어요. 하나의 동작이 여러 뜻으로 퍼진 좋은 예랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "heartbeat",
+   "pos": "명사",
+   "meaning": "심장 박동",
+   "en": "The doctor listened to the baby's heartbeat.",
+   "ko": "의사는 아기의 심장 박동 소리를 들었어요."
+  },
+  {
+   "word": "beating",
+   "pos": "명사",
+   "meaning": "구타, 패배, 고동",
+   "en": "Our team took a terrible beating in the final.",
+   "ko": "우리 팀은 결승전에서 참패를 당했어요."
+  },
+  {
+   "word": "unbeatable",
+   "pos": "형용사",
+   "meaning": "이길 수 없는, 무적의",
+   "en": "This shop offers unbeatable prices on shoes.",
+   "ko": "이 가게는 신발을 비교할 수 없이 싼 가격에 팔아요."
+  },
+  {
+   "word": "upbeat",
+   "pos": "형용사",
+   "meaning": "낙관적인, 경쾌한",
+   "en": "She stayed upbeat even after losing the game.",
+   "ko": "그녀는 경기에 진 후에도 밝은 태도를 유지했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 북을 둥둥 치며 박자를 맞추는 드러머",
+ "imageCaption": "북채로 둥, 둥 치는 소리와 함께 심장도 쿵쿵 뛰는 장면을 떠올려 보세요.",
+ "movieLineEn": "You can't beat me. I've been training my whole life.",
+ "movieLineKo": "넌 날 못 이겨. 난 평생을 훈련해 왔거든.",
+ "storyTitle": "무적의 드러머",
+ "story": "드럼 동아리 민호는 unbeatable(무적의) 실력을 자랑했어요. 대회에서 북을 beat(치다)하자 관객들의 heartbeat(심장 박동)도 함께 쿵쿵 뛰었죠. upbeat(경쾌한) 음악에 모두 춤을 췄어요. 그런데 1등은 옆에서 냄비를 두드린 급식실 아주머니에게 돌아갔답니다!"
+}

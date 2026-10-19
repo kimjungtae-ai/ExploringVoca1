@@ -1,0 +1,41 @@
+{
+ "word": "rug",
+ "pos": "명사",
+ "phonetic": "[rʌɡ]",
+ "meaning": "깔개, 양탄자, 러그",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rug",
+   "meaning": "거친 천 (coarse cloth)",
+   "note": "스칸디나비아어(노르웨이 방언 rugga, 거친 덮개)에서 온 것으로 보여요."
+  }
+ ],
+ "summary": "<strong>rug</strong>는 '거칠고 두툼한 천'에서 <strong>'깔개, 양탄자'</strong>가 되었어요.",
+ "historyTitle": "바이킹의 거친 담요",
+ "historyBody": "rug는 16세기에 '거친 천, 투박한 덮개'라는 뜻으로 처음 쓰였어요. 노르웨이 방언 rugga(거친 이불)처럼 스칸디나비아어에서 온 것으로 보이며, 바닥에 까는 '깔개'라는 뜻은 19세기에 자리 잡았죠. 'rugged(울퉁불퉁한, 강인한)'도 같은 집안 단어로 여겨져요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rugged",
+   "pos": "형용사",
+   "meaning": "울퉁불퉁한, 험한, 강인한",
+   "en": "We hiked along the rugged coastline.",
+   "ko": "우리는 험한 해안선을 따라 하이킹했어요."
+  },
+  {
+   "word": "ruggedness",
+   "pos": "명사",
+   "meaning": "울퉁불퉁함, 강인함",
+   "en": "The ruggedness of the mountains amazed the climbers.",
+   "ko": "산의 험준함에 등산객들은 감탄했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거실 바닥에 깔린 푹신한 러그 위에서 뒹구는 고양이",
+ "imageCaption": "폭신한 러그 위에서 햇볕을 쬐며 몸을 둥글게 만 고양이를 떠올려 보세요.",
+ "movieLineEn": "Don't spill juice on the rug! It's grandma's favorite.",
+ "movieLineKo": "러그에 주스 흘리지 마! 할머니가 제일 아끼는 거야.",
+ "storyTitle": "러그 밑의 비밀",
+ "story": "엄마가 아끼는 rug(러그)에 내가 주스를 spill(쏟다)했어요. 얼른 rug를 뒤집어 hide(숨기다)했죠. 다음 날, 엄마가 rugged(울퉁불퉁한) 바닥을 보더니 러그를 들췄어요. 그런데 그 밑에서 아빠가 예전에 숨긴 커피 얼룩과 동생의 낙서가 secret(비밀)처럼 줄줄이 나왔답니다!"
+}

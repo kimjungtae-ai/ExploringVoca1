@@ -1,0 +1,54 @@
+{
+ "word": "talented",
+ "pos": "형용사",
+ "phonetic": "[ˈtæləntɪd]",
+ "meaning": "재능 있는, 유능한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "talent",
+   "meaning": "재능 (talent)",
+   "note": "그리스어 talanton(저울, 무게 단위)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~을 가진",
+   "note": "명사 뒤에 붙어 '그것을 가진'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>talent</strong> (재능) + <strong>-ed</strong> (~을 가진) = '재능을 가진'이라는 뜻에서 <strong>'재능 있는'</strong>이 되었어요.",
+ "historyTitle": "돈의 단위가 '재능'이 되기까지",
+ "historyBody": "talent는 그리스어 talanton(저울, 큰 무게나 돈의 단위)에서 왔어요. 성경의 '달란트 비유'에서 주인이 종들에게 맡긴 돈을 잘 활용한 이야기가 '타고난 능력을 잘 써야 한다'는 뜻으로 해석되었죠. 그래서 중세 이후 talent가 '재능'을 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "talent",
+   "pos": "명사",
+   "meaning": "재능, 재능 있는 사람",
+   "en": "She has a real talent for music.",
+   "ko": "그녀는 음악에 진짜 재능이 있어요."
+  },
+  {
+   "word": "untalented",
+   "pos": "형용사",
+   "meaning": "재능이 없는",
+   "en": "He thought he was untalented, but he kept practicing.",
+   "ko": "그는 자기가 재능이 없다고 생각했지만 계속 연습했어요."
+  },
+  {
+   "word": "talent show",
+   "pos": "명사",
+   "meaning": "장기 자랑",
+   "en": "Our class performed a dance at the talent show.",
+   "ko": "우리 반은 장기 자랑에서 춤을 선보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 위에서 뛰어난 연주를 하는 학생",
+ "imageCaption": "장기 자랑 무대에서 피아노를 멋지게 치는 친구를 떠올려 보세요. 모두가 '재능 있다!'라고 감탄해요.",
+ "movieLineEn": "You're the most talented singer I've ever heard!",
+ "movieLineKo": "넌 내가 들어 본 가수 중 가장 재능 있는 가수야!",
+ "storyTitle": "숨겨진 재능",
+ "story": "학교 talent show(장기 자랑)에서 나는 노래를 불렀어요. 친구들은 내가 untalented(재능 없는)라고 생각했죠. 그런데 노래가 끝나자 박수가 쏟아졌어요. talented(재능 있는) 가수가 탄생했다며요. 알고 보니 마이크가 꺼져 있었고, 모두 내 진짜 talent(재능)인 '립싱크 표정 연기'에 감동한 거였답니다!"
+}

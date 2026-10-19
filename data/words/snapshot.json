@@ -1,0 +1,68 @@
+{
+ "word": "snapshot",
+ "pos": "명사",
+ "phonetic": "[ˈsnæpʃɑːt]",
+ "meaning": "스냅 사진, 단편적인 정보, 한순간의 모습",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "snap",
+   "meaning": "재빨리 잡다, 딱 하는 소리 (snatch)",
+   "note": "중세 네덜란드어·저지 독일어 snappen(덥석 물다)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shot",
+   "meaning": "발사, 촬영 (shot)",
+   "note": "고대 영어 sceot(쏘기)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>snap</strong> (재빨리) + <strong>shot</strong> (쏘기) = '겨누지 않고 재빨리 쏘기'에서 <strong>'스냅 사진'</strong>이 되었어요.",
+ "historyTitle": "사냥꾼의 속사에서 사진으로",
+ "historyBody": "snapshot은 1800년대 초 사냥 용어로, 제대로 겨누지 않고 재빨리 쏘는 '속사'를 뜻했어요. 1860년대에 순간을 빠르게 찍는 사진 기술이 나오면서 '스냅 사진'이라는 뜻이 생겼죠. 지금은 '어떤 상황의 한순간 모습'이라는 비유적 뜻으로 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "snap",
+   "pos": "동사 / 명사",
+   "meaning": "딱 부러지다, 재빨리 찍다 / 딱 하는 소리",
+   "en": "The branch snapped under his weight.",
+   "ko": "그의 무게에 나뭇가지가 딱 부러졌어요."
+  },
+  {
+   "word": "shot",
+   "pos": "명사",
+   "meaning": "발사, 사진, 시도",
+   "en": "She took a great shot of the sunset.",
+   "ko": "그녀는 노을을 멋지게 찍었어요."
+  },
+  {
+   "word": "shoot",
+   "pos": "동사",
+   "meaning": "쏘다, 촬영하다",
+   "en": "They will shoot the movie in Busan.",
+   "ko": "그들은 그 영화를 부산에서 촬영할 거예요."
+  },
+  {
+   "word": "screenshot",
+   "pos": "명사",
+   "meaning": "화면 캡처",
+   "en": "He sent me a screenshot of the message.",
+   "ko": "그는 나에게 메시지 화면 캡처를 보냈어요."
+  },
+  {
+   "word": "snappy",
+   "pos": "형용사",
+   "meaning": "재빠른, 산뜻한",
+   "en": "Give your essay a short, snappy title.",
+   "ko": "에세이에 짧고 산뜻한 제목을 붙여 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행지에서 친구들과 '찰칵' 찍은 순간 사진",
+ "imageCaption": "'하나, 둘, 셋!' 하고 웃는 순간을 휴대폰으로 재빨리 찍는 장면을 떠올려 보세요.",
+ "movieLineEn": "This snapshot is the only proof we were ever here.",
+ "movieLineKo": "이 사진 한 장이 우리가 여기 있었다는 유일한 증거야.",
+ "storyTitle": "완벽한 단체 사진",
+ "story": "졸업식 날, 우리는 snapshot(스냅 사진)을 찍기로 했어요. 사진사 아저씨가 손가락을 snap(딱 튕기다)하며 \"웃어요!\" 하셨죠. 완벽한 shot(사진)을 위해 열 번이나 shoot(촬영하다)했어요. 그런데 사진을 보니 모두 눈을 감고 있었고, 지나가던 비둘기만 정면을 보고 있었답니다."
+}

@@ -1,0 +1,67 @@
+{
+ "word": "enhancement",
+ "pos": "명사",
+ "phonetic": "[ɪnˈhænsmənt]",
+ "meaning": "향상, 강화, 증진",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~하게 만들다 (make)",
+   "note": "무언가를 그런 상태로 만든다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hance (alt)",
+   "meaning": "높은 (high)",
+   "note": "라틴어 altus(높은)에서 고대 프랑스어를 거쳐 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~함, ~하는 것 (명사형)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (만들다) + <strong>hance</strong> (높은) + <strong>-ment</strong> (명사) = '더 높게 만드는 것'에서 <strong>'향상, 강화'</strong>가 되었어요.",
+ "historyTitle": "높이 올리는 일, enhancement",
+ "historyBody": "동사 enhance는 고대 프랑스어 enhaucier(높이다)에서 왔고, 뿌리는 라틴어 altus(높은)예요. 여기에 명사를 만드는 -ment가 붙어 '높임, 향상'이 되었어요. 수능 지문에서는 performance enhancement(성능 향상)처럼 자주 등장한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "enhance",
+   "pos": "동사",
+   "meaning": "향상시키다, 높이다",
+   "en": "Music can enhance your mood on a rainy day.",
+   "ko": "음악은 비 오는 날 기분을 좋게 해 줄 수 있어요."
+  },
+  {
+   "word": "enhanced",
+   "pos": "형용사",
+   "meaning": "향상된",
+   "en": "The enhanced security system protects the museum.",
+   "ko": "강화된 보안 시스템이 박물관을 지켜요."
+  },
+  {
+   "word": "altitude",
+   "pos": "명사",
+   "meaning": "고도",
+   "en": "Breathing becomes harder at high altitude.",
+   "ko": "높은 고도에서는 숨쉬기가 더 힘들어져요."
+  },
+  {
+   "word": "exalt",
+   "pos": "동사",
+   "meaning": "높이다, 찬양하다",
+   "en": "The people exalted the hero after the war.",
+   "ko": "사람들은 전쟁 후 그 영웅을 높이 찬양했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 게임 캐릭터의 능력치 막대가 쭉쭉 올라가는 장면",
+ "imageCaption": "레벨업할 때 능력치가 '띠링' 하고 올라가는 모습을 떠올리세요. 그게 바로 enhancement예요.",
+ "movieLineEn": "With this armor enhancement, nothing can stop us!",
+ "movieLineKo": "이 갑옷 강화만 있으면 아무도 우릴 막을 수 없어!",
+ "storyTitle": "강화 실패의 교훈",
+ "story": "준호는 게임 칼을 enhance(강화하다)하려고 용돈을 다 썼어요. enhancement(강화)에 성공하면 enhanced(강화된) 칼로 높은 altitude(고도)의 용도 잡을 수 있었죠. 결과는 99번 연속 실패! 친구들은 그의 끈기를 exalt(찬양하다)했어요. 100번째, 드디어 성공! 그런데 그 순간 게임 서비스 종료 공지가 떴답니다."
+}

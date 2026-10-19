@@ -1,0 +1,54 @@
+{
+ "word": "striped",
+ "pos": "형용사",
+ "phonetic": "[straɪpt]",
+ "meaning": "줄무늬가 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stripe",
+   "meaning": "줄무늬 (stripe)",
+   "note": "중세 네덜란드어·저지 독일어 stripe(줄, 띠)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~이 있는 (형용사를 만듦)",
+   "note": "명사 뒤에 붙어 '~을 가진'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>stripe</strong> (줄무늬) + <strong>-ed</strong> (~이 있는) = <strong>'줄무늬가 있는'</strong>이에요.",
+ "historyTitle": "직물 상인이 가져온 줄무늬",
+ "historyBody": "stripe는 15세기 무렵 중세 네덜란드어·저지 독일어 stripe(줄, 띠)에서 영어로 들어온 것으로 보여요. 당시 네덜란드와 북독일은 직물 무역의 중심지였기 때문에 옷감 관련 단어가 많이 건너왔죠. 군복 소매의 계급 줄도 stripe라고 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stripe",
+   "pos": "명사",
+   "meaning": "줄무늬, (군복의) 계급 줄",
+   "en": "A zebra is famous for its black and white stripes.",
+   "ko": "얼룩말은 검은색과 흰색 줄무늬로 유명해요."
+  },
+  {
+   "word": "stripy",
+   "pos": "형용사",
+   "meaning": "줄무늬의",
+   "en": "She knitted a stripy scarf for winter.",
+   "ko": "그녀는 겨울용 줄무늬 목도리를 떴어요."
+  },
+  {
+   "word": "pinstripe",
+   "pos": "명사",
+   "meaning": "가는 세로 줄무늬",
+   "en": "The businessman wore a dark pinstripe suit.",
+   "ko": "그 사업가는 짙은 색의 가는 줄무늬 정장을 입었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 초원 위의 줄무늬 얼룩말",
+ "imageCaption": "검은색과 흰색 줄이 번갈아 있는 얼룩말이 초원을 달리는 모습을 떠올려 보세요.",
+ "movieLineEn": "The thief was wearing a striped shirt and a black hat.",
+ "movieLineKo": "도둑은 줄무늬 셔츠에 검은 모자를 쓰고 있었어요.",
+ "storyTitle": "얼룩말의 고민",
+ "story": "얼룩말 지브는 자기 striped(줄무늬가 있는) 몸이 지겨웠어요. 그래서 stripe(줄무늬)를 지우려고 진흙탕에 뒹굴었죠. 온몸이 갈색이 되자 신이 났어요. 그런데 친구들이 \"pinstripe(가는 줄무늬) 정장 입은 말이다!\"라며 놀렸어요. 진흙이 마르면서 stripy(줄무늬의) 금이 쩍쩍 갔거든요."
+}

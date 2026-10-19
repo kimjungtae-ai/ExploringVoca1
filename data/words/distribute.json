@@ -1,0 +1,68 @@
+{
+ "word": "distribute",
+ "pos": "동사",
+ "phonetic": "[dɪˈstrɪbjuːt]",
+ "meaning": "나누어 주다, 분배하다, 유통시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "따로따로, 여기저기 (apart)",
+   "note": "여러 방향으로 흩어진다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tribut",
+   "meaning": "할당하다, 나누어 주다 (assign, allot)",
+   "note": "라틴어 tribuere(배정하다, 나누어 주다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (따로따로) + <strong>tribut</strong> (나누어 주다) = '여러 사람에게 따로따로 나누어 주다'에서 <strong>'분배하다'</strong>가 되었어요.",
+ "historyTitle": "로마의 부족(tribe)과 나눔",
+ "historyBody": "distribute는 라틴어 distribuere(나누어 주다)에서 왔고, dis(따로)와 tribuere(할당하다)가 합쳐진 말이에요. tribuere는 로마의 '부족(tribus)'과 관련이 있다고 보는 견해가 많아요. 부족별로 몫을 나누어 주던 일이 '분배'라는 뜻으로 이어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "distribution",
+   "pos": "명사",
+   "meaning": "분배, 유통, 분포",
+   "en": "The distribution of food was well organized.",
+   "ko": "식량 분배가 잘 조직되어 있었어요."
+  },
+  {
+   "word": "contribute",
+   "pos": "동사",
+   "meaning": "기여하다, 기부하다",
+   "en": "Everyone contributed ideas to the project.",
+   "ko": "모두가 프로젝트에 아이디어를 보탰어요."
+  },
+  {
+   "word": "attribute",
+   "pos": "동사 / 명사",
+   "meaning": "~의 탓으로 돌리다 / 속성",
+   "en": "She attributes her success to hard work.",
+   "ko": "그녀는 자신의 성공을 노력 덕분으로 여겨요."
+  },
+  {
+   "word": "tribute",
+   "pos": "명사",
+   "meaning": "헌사, 찬사",
+   "en": "The concert was a tribute to the late singer.",
+   "ko": "그 콘서트는 고인이 된 가수에게 바치는 헌사였어요."
+  },
+  {
+   "word": "distributor",
+   "pos": "명사",
+   "meaning": "유통업자, 배급사",
+   "en": "The distributor sent the books to every store.",
+   "ko": "유통업체는 모든 서점에 책을 보냈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 학생들에게 시험지를 한 장씩 나누어 주는 장면",
+ "imageCaption": "맨 앞줄부터 뒤로 시험지가 한 장씩 퍼져 나가는 모습을 떠올려 보세요. 여기저기 나누어 주는 것이 distribute예요.",
+ "movieLineEn": "Distribute the supplies to everyone. Nobody gets left behind.",
+ "movieLineKo": "보급품을 모두에게 나눠 줘. 한 명도 빠뜨리지 마.",
+ "storyTitle": "간식 나눔의 함정",
+ "story": "반장은 간식을 공평하게 distribute(나누어 주다)하는 임무를 맡았어요. 모두가 돈을 contribute(기여하다)해서 산 거였죠. 반장의 공정한 distribution(분배)에 친구들은 tribute(찬사)를 보냈어요. 그런데 마지막에 보니 반장 몫이 없었어요. 반장은 그걸 자기 수학 실력 탓으로 attribute(탓으로 돌리다)했답니다."
+}

@@ -1,0 +1,54 @@
+{
+ "word": "recover",
+ "pos": "동사",
+ "phonetic": "[rɪˈkʌvər]",
+ "meaning": "회복하다, 되찾다, 복구하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 되 (back, again)",
+   "note": "잃은 것을 다시 가져온다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cover (← recuperare)",
+   "meaning": "얻다, 가져오다 (get)",
+   "note": "cover(덮다)와는 다른 뿌리예요. 라틴어 recuperare에서 철자가 변한 거예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>cover</strong> (얻다 ← recuperare) = 잃었던 것을 다시 얻는다는 뜻에서 <strong>'회복하다, 되찾다'</strong>가 되었어요.",
+ "historyTitle": "'덮다(cover)'와는 상관없어요!",
+ "historyBody": "recover는 라틴어 recuperare(되찾다)에서 고대 프랑스어 recovrer를 거쳐 14세기 영어로 들어왔어요. 철자 때문에 '다시(re) 덮다(cover)'처럼 보이지만, 실제로 cover(덮다)와는 다른 말이에요. recuperare의 앞부분은 re-(다시)이고, 나머지의 기원은 capere(잡다)라는 설 등이 있지만 확실하지 않아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "recovery",
+   "pos": "명사",
+   "meaning": "회복, 복구",
+   "en": "The patient made a quick recovery after surgery.",
+   "ko": "그 환자는 수술 후 빠르게 회복했어요."
+  },
+  {
+   "word": "recuperate",
+   "pos": "동사",
+   "meaning": "(건강을) 회복하다",
+   "en": "She went to the countryside to recuperate.",
+   "ko": "그녀는 몸을 회복하러 시골로 갔어요."
+  },
+  {
+   "word": "recoverable",
+   "pos": "형용사",
+   "meaning": "회복 가능한, 되찾을 수 있는",
+   "en": "The lost files are still recoverable.",
+   "ko": "잃어버린 파일은 아직 복구할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 병원 침대에서 일어나 기지개를 켜는 환자",
+ "imageCaption": "감기로 며칠 누워 있다가 다시 힘이 나서 운동장을 뛰는 내 모습을 떠올려 보세요.",
+ "movieLineEn": "He'll recover. He's stronger than he looks.",
+ "movieLineKo": "그는 회복할 거야. 보기보다 강하거든.",
+ "storyTitle": "사라진 숙제 복구 작전",
+ "story": "컴퓨터가 고장 나서 숙제 파일이 사라졌어요! 다행히 파일은 recoverable(복구 가능한) 상태라 recover(되찾다)할 수 있었죠. 그런데 recovery(복구)된 파일을 열어 보니 숙제 대신 내 일기장이 나왔어요. 충격에서 recuperate(회복하다)하는 데 일주일이 걸렸대요. 선생님이 '글솜씨 좋다'며 칭찬하셨거든요!"
+}

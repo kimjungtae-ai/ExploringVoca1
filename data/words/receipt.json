@@ -1,0 +1,74 @@
+{
+ "word": "receipt",
+ "pos": "명사",
+ "phonetic": "[rɪˈsiːt]",
+ "meaning": "영수증, 수령, 받음",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 되돌려 (back)",
+   "note": "내 쪽으로 되가져온다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ceipt (cept)",
+   "meaning": "잡다, 받다 (take)",
+   "note": "라틴어 capere(잡다)의 과거분사 형태에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "(-t)",
+   "meaning": "~한 것 (명사)",
+   "note": "과거분사에서 온 어미가 '받은 것'이라는 명사가 되었어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌려) + <strong>ceipt</strong> (받다) = 받았다는 증거라서 <strong>'영수증, 수령'</strong>이 되었어요.",
+ "historyTitle": "소리 나지 않는 p의 비밀",
+ "historyBody": "receipt는 중세 라틴어 recepta(받은 것)에서 앵글로프랑스어 receite를 거쳐 14세기 영어로 들어왔어요. 원래는 p 없이 썼는데, 학자들이 라틴어 recipere(받다)를 떠올리게 하려고 철자에 p를 다시 넣었어요. 그래서 지금도 p는 발음하지 않는답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "receive",
+   "pos": "동사",
+   "meaning": "받다",
+   "en": "Did you receive my email yesterday?",
+   "ko": "어제 내 이메일 받았어?"
+  },
+  {
+   "word": "reception",
+   "pos": "명사",
+   "meaning": "접수처, 환영회",
+   "en": "Please leave your bag at the reception.",
+   "ko": "가방은 접수처에 맡겨 주세요."
+  },
+  {
+   "word": "recipe",
+   "pos": "명사",
+   "meaning": "요리법, 비결",
+   "en": "My grandmother taught me her secret recipe.",
+   "ko": "할머니가 비밀 요리법을 알려 주셨어요."
+  },
+  {
+   "word": "accept",
+   "pos": "동사",
+   "meaning": "받아들이다",
+   "en": "She accepted the job offer.",
+   "ko": "그녀는 일자리 제안을 받아들였어요."
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "붙잡다, 포착하다",
+   "en": "The camera captured the moment perfectly.",
+   "ko": "카메라가 그 순간을 완벽하게 포착했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 계산대에서 길게 나오는 종이 영수증",
+ "imageCaption": "편의점에서 물건을 사고 점원이 건네주는 작은 종이를 떠올려 보세요. '받았음'의 증거예요.",
+ "movieLineEn": "Keep the receipt. You might need to return it.",
+ "movieLineKo": "영수증 챙겨. 환불해야 할 수도 있으니까.",
+ "storyTitle": "세상에서 가장 긴 영수증",
+ "story": "엄마 심부름으로 마트에서 계란 하나를 샀는데, receipt(영수증)가 1미터나 나왔어요! 쿠폰과 광고가 줄줄이 붙어 있었죠. 집에 가서 receive(받다)한 영수증을 보여 드리자 엄마는 웃으며 accept(받아들이다)하셨어요. 그런데 영수증 뒷면에 김치찌개 recipe(요리법)가 있어서 그날 저녁 메뉴가 되었대요!"
+}

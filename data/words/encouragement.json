@@ -1,0 +1,80 @@
+{
+ "word": "encouragement",
+ "pos": "명사",
+ "phonetic": "[ɪnˈkɜːrɪdʒmənt]",
+ "meaning": "격려, 장려, 고무",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~하게 만들다 (make)",
+   "note": "명사 앞에 붙어 '그 상태로 만들다'라는 동사를 만들어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cour",
+   "meaning": "마음, 심장 (heart)",
+   "note": "라틴어 cor(심장)에서 왔어요. courage(용기)의 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-age",
+   "meaning": "~한 상태 (명사)",
+   "note": "courage를 이루는 명사 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (만들다) + <strong>courage</strong> (용기, 마음) + <strong>-ment</strong> (~것) = '마음에 용기를 넣어 주는 것'에서 <strong>'격려'</strong>가 되었어요.",
+ "historyTitle": "심장에 용기를 불어넣다",
+ "historyBody": "courage는 라틴어 cor(심장)에서 고대 프랑스어 corage(마음, 기개)를 거쳐 왔어요. 옛사람들은 용기가 심장에서 나온다고 생각했거든요. 여기에 en(만들다)이 붙어 encourage(용기를 주다)가 되었고, -ment가 붙어 encouragement(격려)가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "courage",
+   "pos": "명사",
+   "meaning": "용기",
+   "en": "It takes courage to say sorry first.",
+   "ko": "먼저 사과하려면 용기가 필요해요."
+  },
+  {
+   "word": "encourage",
+   "pos": "동사",
+   "meaning": "격려하다, 장려하다",
+   "en": "My teacher encouraged me to enter the contest.",
+   "ko": "선생님은 내가 대회에 나가도록 격려해 주셨어요."
+  },
+  {
+   "word": "discourage",
+   "pos": "동사",
+   "meaning": "낙담시키다, 단념시키다",
+   "en": "Don't let one failure discourage you.",
+   "ko": "한 번의 실패로 낙담하지 마세요."
+  },
+  {
+   "word": "courageous",
+   "pos": "형용사",
+   "meaning": "용감한",
+   "en": "The courageous firefighter saved the child.",
+   "ko": "그 용감한 소방관이 아이를 구했어요."
+  },
+  {
+   "word": "cordial",
+   "pos": "형용사",
+   "meaning": "다정한, 진심의",
+   "en": "We received a cordial welcome from our hosts.",
+   "ko": "우리는 주인들로부터 진심 어린 환영을 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 결승선 앞에서 지친 친구에게 박수와 응원을 보내는 사람들",
+ "imageCaption": "힘들어하는 친구 등을 토닥이며 '할 수 있어!'라고 말해 주는 장면을 떠올려 보세요. 마음에 용기를 채워 주는 거예요.",
+ "movieLineEn": "Thank you for your encouragement. I couldn't have done it alone.",
+ "movieLineKo": "격려해 줘서 고마워. 혼자서는 해내지 못했을 거야.",
+ "storyTitle": "격려의 힘",
+ "story": "겁 많은 병아리는 강을 건널 courage(용기)가 없었어요. 친구들이 '넌 할 수 있어!'라며 encourage(격려하다)했죠. 따뜻한 encouragement(격려) 덕분에 병아리는 courageous(용감한) 눈빛으로 뛰어들었어요. 그런데 강물은 겨우 발목 깊이였어요. 다들 discourage(낙담시키다)될 만큼 싱거운 모험이었답니다."
+}

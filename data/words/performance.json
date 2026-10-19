@@ -1,0 +1,54 @@
+{
+ "word": "performance",
+ "pos": "명사",
+ "phonetic": "[pərˈfɔːrməns]",
+ "meaning": "공연, 연주, 수행, 성과, 성능",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "perform",
+   "meaning": "수행하다, 공연하다 (carry out)",
+   "note": "고대 프랑스어 parfornir(완수하다)에서 온 동사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 '행위, 상태'를 뜻하는 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>perform</strong> (해내다, 공연하다) + <strong>-ance</strong> (~하는 것) = 해낸 것, 보여 준 것이라서 <strong>'공연, 수행, 성과'</strong>가 되었어요.",
+ "historyTitle": "'해냄'에서 '무대 공연'까지",
+ "historyBody": "perform은 고대 프랑스어 parfornir(완수하다)가 forme(모양)의 영향을 받아 철자가 바뀐 말이라, 안의 form은 실제로 '모양'이라는 뜻이 아니에요. performance는 15세기 말 '일을 해냄'이라는 뜻으로 처음 쓰였고, 17세기에 '공연'이라는 뜻이 더해졌어요. 지금은 '기계 성능, 업무 성과'라는 뜻으로도 수능에 자주 나와요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "perform",
+   "pos": "동사",
+   "meaning": "수행하다, 공연하다",
+   "en": "The surgeon performed a difficult operation.",
+   "ko": "그 외과 의사는 어려운 수술을 해냈어요."
+  },
+  {
+   "word": "performer",
+   "pos": "명사",
+   "meaning": "공연자",
+   "en": "Every performer felt nervous before the show.",
+   "ko": "모든 공연자가 쇼 전에 긴장했어요."
+  },
+  {
+   "word": "high-performance",
+   "pos": "형용사",
+   "meaning": "고성능의",
+   "en": "This laptop has a high-performance battery.",
+   "ko": "이 노트북은 고성능 배터리를 갖고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 콘서트 무대 위 화려한 공연 장면",
+ "imageCaption": "무대 조명이 켜지고 관객의 박수 속에서 멋진 무대를 펼치는 장면을 떠올려 보세요.",
+ "movieLineEn": "That was the best performance of my life!",
+ "movieLineKo": "그건 내 인생 최고의 공연이었어!",
+ "storyTitle": "노트북의 무대 공포증",
+ "story": "민수의 새 노트북은 high-performance(고성능의) 제품이었어요. 그런데 발표 날, 노트북이 무대 위에서 perform(수행하다)하자마자 멈춰 버렸죠! 당황한 민수는 즉석에서 노래를 부르는 performance(공연)를 했고, 최고의 performer(공연자)로 뽑혔어요. 노트북은 그 뒤로 발표 날마다 일부러 멈춘대요."
+}

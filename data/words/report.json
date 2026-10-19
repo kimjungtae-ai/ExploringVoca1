@@ -1,0 +1,75 @@
+{
+ "word": "report",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈpɔːrt]",
+ "meaning": "보고하다, 알리다, 보도하다 / 보고서, 보도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "들은 것을 다시 가지고 돌아온다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "port",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 portare(나르다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시, 뒤로) + <strong>port</strong> (나르다) = '소식을 가지고 돌아오다'에서 <strong>'보고하다, 보고서'</strong>가 되었어요.",
+ "historyTitle": "소식을 다시 날라 오는 사람",
+ "historyBody": "report는 라틴어 reportare(도로 가져오다)가 고대 프랑스어 reporter를 거쳐 14세기에 영어로 들어왔어요. 정찰병이 보고 들은 것을 진영으로 '다시 날라 오는' 일이 바로 보고였던 거죠. 그래서 소식을 전하는 기자를 reporter라고 부른답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reporter",
+   "pos": "명사",
+   "meaning": "기자, 리포터",
+   "en": "The reporter interviewed the winner after the race.",
+   "ko": "기자가 경주가 끝난 뒤 우승자를 인터뷰했어요."
+  },
+  {
+   "word": "transport",
+   "pos": "동사 / 명사",
+   "meaning": "수송하다 / 수송",
+   "en": "Trucks transport fresh vegetables to the city every day.",
+   "ko": "트럭이 매일 신선한 채소를 도시로 실어 날라요."
+  },
+  {
+   "word": "portable",
+   "pos": "형용사",
+   "meaning": "휴대용의",
+   "en": "I bought a portable charger for my phone.",
+   "ko": "나는 휴대폰용 휴대 충전기를 샀어요."
+  },
+  {
+   "word": "export",
+   "pos": "동사",
+   "meaning": "수출하다",
+   "en": "The country exports coffee all over the world.",
+   "ko": "그 나라는 전 세계로 커피를 수출해요."
+  },
+  {
+   "word": "import",
+   "pos": "동사",
+   "meaning": "수입하다",
+   "en": "We import most of our oil from abroad.",
+   "ko": "우리는 석유 대부분을 해외에서 수입해요."
+  },
+  {
+   "word": "support",
+   "pos": "동사",
+   "meaning": "지지하다, 지원하다",
+   "en": "My friends always support me when I feel down.",
+   "ko": "내가 우울할 때 친구들은 늘 나를 응원해 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 기자가 마이크를 들고 현장 소식을 전하는 장면",
+ "imageCaption": "비바람 속에서 우비를 입은 기자가 카메라를 보며 소식을 전하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Report to the captain immediately. That's an order!",
+ "movieLineKo": "즉시 선장에게 보고해. 이건 명령이다!",
+ "storyTitle": "꼬마 기자의 특종",
+ "story": "꼬마 reporter(기자) 하늘이는 학교 신문에 특종 report(보고서)를 쓰기로 했어요. portable(휴대용의) 녹음기를 들고 급식실로 출동! \"내일 메뉴는 치킨이래요!\" 친구들이 열렬히 support(지지하다)했죠. 하지만 다음 날 나온 건 치킨이 아니라 '치킨무'뿐이었답니다."
+}

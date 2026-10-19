@@ -1,0 +1,75 @@
+{
+ "word": "utilize",
+ "pos": "동사",
+ "phonetic": "[ˈjuːtəlaɪz]",
+ "meaning": "활용하다, 이용하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "util (← utilis)",
+   "meaning": "쓸모 있는 (useful)",
+   "note": "라틴어 utilis(쓸모 있는)에서 왔고, uti(사용하다)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "형용사나 명사를 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>util</strong> (쓸모 있는) + <strong>-ize</strong> (~하게 하다) = 쓸모 있게 만들다, 즉 <strong>'활용하다'</strong>가 되었어요.",
+ "historyTitle": "나폴레옹 시대에 들어온 단어",
+ "historyBody": "utilize는 1800년 무렵 프랑스어 'utiliser'에서 영어로 들어왔어요. 프랑스어 utiliser는 'utile(쓸모 있는)'에서 왔고, 그 뿌리는 라틴어 'utilis'와 'uti(사용하다)'예요. 그래서 use와 뜻이 비슷하지만, utilize는 '어떤 것을 쓸모 있게, 효과적으로 활용하다'라는 느낌이 더 강하답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "utility",
+   "pos": "명사",
+   "meaning": "유용성, 공공요금",
+   "en": "This tool has many practical utilities.",
+   "ko": "이 도구는 실용적인 쓰임새가 많아요."
+  },
+  {
+   "word": "use",
+   "pos": "동사 / 명사",
+   "meaning": "사용하다 / 사용",
+   "en": "How often do you use public transportation?",
+   "ko": "너는 대중교통을 얼마나 자주 이용하니?"
+  },
+  {
+   "word": "usage",
+   "pos": "명사",
+   "meaning": "사용(법)",
+   "en": "The teacher explained the usage of the new word.",
+   "ko": "선생님이 새 단어의 사용법을 설명해 주셨어요."
+  },
+  {
+   "word": "useful",
+   "pos": "형용사",
+   "meaning": "유용한",
+   "en": "A dictionary is useful when you read English books.",
+   "ko": "영어책을 읽을 때 사전은 유용해요."
+  },
+  {
+   "word": "utensil",
+   "pos": "명사",
+   "meaning": "도구, 식기",
+   "en": "Wash all the kitchen utensils after cooking.",
+   "ko": "요리한 뒤에는 모든 주방 도구를 씻으세요."
+  },
+  {
+   "word": "abuse",
+   "pos": "동사 / 명사",
+   "meaning": "남용하다, 학대하다 / 남용",
+   "en": "Don't abuse your right to free speech.",
+   "ko": "표현의 자유라는 권리를 남용하지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 버려진 페트병으로 화분을 만드는 손",
+ "imageCaption": "쓰레기통에 갈 뻔한 페트병을 잘라 예쁜 화분으로 만드는 모습을 떠올려 보세요. 쓸모 있게 활용하는 거예요.",
+ "movieLineEn": "We must utilize every second we have left!",
+ "movieLineKo": "남은 1초까지 다 활용해야 해!",
+ "storyTitle": "자투리 시간의 마법사",
+ "story": "수진이는 시간을 최대한 utilize(활용하다)하는 학생이에요. 줄 서는 동안 영단어 usage(사용법)를 외우고, 엘리베이터에선 수학 공식을 떠올리죠. 쉬는 시간의 utility(유용성)도 놓치지 않아요. 친구가 비결을 묻자 수진이가 말했어요. \"사실 잠을 제일 잘 use(사용하다)해. 수업 시간에 자거든.\" 선생님이 듣고 계셨답니다."
+}

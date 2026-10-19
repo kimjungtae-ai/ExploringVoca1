@@ -1,0 +1,48 @@
+{
+ "word": "lift",
+ "pos": "동사 / 명사",
+ "phonetic": "[lɪft]",
+ "meaning": "들어 올리다, (규제를) 해제하다 / (차를) 태워 주기, 엘리베이터",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "lift (lypta)",
+   "meaning": "공중으로 올리다 (raise into the air)",
+   "note": "고대 노르드어 lypta(들어 올리다)에서 온 짧은 단어라 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>lift</strong>는 고대 노르드어 <strong>lypta</strong>(공중으로 올리다)에서 온 한 덩어리 단어로 <strong>'들어 올리다'</strong>를 뜻해요.",
+ "historyTitle": "바이킹의 말 lypta와 '하늘'",
+ "historyBody": "lift는 바이킹이 쓰던 고대 노르드어 lypta(들어 올리다)에서 13세기쯤 영어로 들어왔어요. lypta는 lopt(공기, 하늘)와 관련된 말이라, '하늘로 올리다'라는 느낌이 담겨 있죠. 영어 loft(다락), aloft(높이)도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "uplift",
+   "pos": "동사 / 명사",
+   "meaning": "들어 올리다, 기분을 북돋우다 / 향상",
+   "en": "Her kind words uplifted the whole team.",
+   "ko": "그녀의 친절한 말이 팀 전체의 기운을 북돋았어요."
+  },
+  {
+   "word": "loft",
+   "pos": "명사",
+   "meaning": "다락, 위층 공간",
+   "en": "The artist turned the old loft into a studio.",
+   "ko": "그 화가는 오래된 다락을 작업실로 바꿨어요."
+  },
+  {
+   "word": "aloft",
+   "pos": "부사",
+   "meaning": "높이, 공중에",
+   "en": "The kite stayed aloft for over an hour.",
+   "ko": "연은 한 시간 넘게 하늘에 떠 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 역도 선수가 무거운 바벨을 머리 위로 번쩍 드는 장면",
+ "imageCaption": "'끙!' 하고 무거운 것을 공중으로 들어 올리는 모습, 그게 lift예요.",
+ "movieLineEn": "Need a lift? Hop in, I'm heading downtown.",
+ "movieLineKo": "태워 줄까? 타, 나 시내 가는 길이야.",
+ "storyTitle": "역도부 주장의 비밀",
+ "story": "역도부 주장은 100kg 바벨도 번쩍 lift(들어 올리다)했어요. 그 모습은 모두의 기분을 uplift(북돋우다)했죠. 하지만 그는 loft(다락)에 올라가는 건 무서워했어요. 높이 aloft(공중에) 있는 게 싫었거든요. 결국 엄마가 다락에서 짐을 꺼낼 때마다 주장은 아래에서 사다리만 들고 있었답니다."
+}

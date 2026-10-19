@@ -1,0 +1,61 @@
+{
+ "word": "suitcase",
+ "pos": "명사",
+ "phonetic": "[ˈsuːtkeɪs]",
+ "meaning": "여행 가방",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "suit",
+   "meaning": "정장 (suit)",
+   "note": "'한 벌의 옷'이라는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "case",
+   "meaning": "상자, 통 (box)",
+   "note": "라틴어 capsa(상자)에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>suit</strong> (정장 한 벌) + <strong>case</strong> (상자) = '옷 한 벌을 넣는 상자'에서 <strong>'여행 가방'</strong>이 되었어요.",
+ "historyTitle": "정장을 넣던 상자",
+ "historyBody": "suitcase는 19세기 후반에 생긴 말로, 원래 정장 한 벌(suit)을 구김 없이 넣어 다니던 납작한 가방이었어요. case는 라틴어 capsa(상자)에서 고대 북부 프랑스어를 거쳐 들어왔죠. 철도 여행이 늘면서 suitcase도 널리 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "suit",
+   "pos": "명사",
+   "meaning": "정장",
+   "en": "He bought a new suit for the wedding.",
+   "ko": "그는 결혼식에 입을 새 정장을 샀어요."
+  },
+  {
+   "word": "briefcase",
+   "pos": "명사",
+   "meaning": "서류 가방",
+   "en": "She put the documents in her briefcase.",
+   "ko": "그녀는 서류를 서류 가방에 넣었어요."
+  },
+  {
+   "word": "bookcase",
+   "pos": "명사",
+   "meaning": "책장",
+   "en": "The bookcase in my room is full of comics.",
+   "ko": "내 방 책장은 만화책으로 가득해요."
+  },
+  {
+   "word": "capsule",
+   "pos": "명사",
+   "meaning": "캡슐, 작은 용기",
+   "en": "Take one capsule after each meal.",
+   "ko": "매 식사 후 캡슐 하나를 복용하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 바퀴 달린 가방을 끌고 공항을 걷는 장면",
+ "imageCaption": "공항에서 바퀴 달린 커다란 여행 가방을 드르륵 끌고 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Pack your suitcase. We're going on an adventure!",
+ "movieLineKo": "여행 가방 싸. 우린 모험을 떠날 거야!",
+ "storyTitle": "공항의 가방 바꿔치기",
+ "story": "아빠가 출장 가며 suitcase(여행 가방)에 suit(정장)를 넣었어요. 그런데 공항에서 똑같은 가방을 들고 온 다른 사람과 바뀌었죠. 호텔에서 열어 보니 정장 대신 수영복과 비타민 capsule(캡슐)이 가득했어요. 아빠는 결국 briefcase(서류 가방)만 들고 회의에 갔고, 휴가 온 그 사람은 정장을 입고 해변에 갔대요!"
+}

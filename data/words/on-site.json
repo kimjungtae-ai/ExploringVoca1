@@ -1,0 +1,61 @@
+{
+ "word": "on-site",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ˌɑːn ˈsaɪt]",
+ "meaning": "현장의, 현지의 / 현장에서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "on",
+   "meaning": "~에, ~위에 (on)",
+   "note": "장소에 붙어 있음을 나타내요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "site",
+   "meaning": "장소, 현장 (place)",
+   "note": "라틴어 situs(위치, 장소)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>on</strong> (~에) + <strong>site</strong> (현장) = 바로 그 장소에 있는 것이라서 <strong>'현장의, 현장에서'</strong>가 되었어요.",
+ "historyTitle": "라틴어 situs(놓인 곳)",
+ "historyBody": "site는 라틴어 situs(위치, 자리)에서 고대 프랑스어를 거쳐 14세기 영어로 들어왔어요. on-site는 20세기에 공사장이나 회사 같은 '바로 그 현장에서'라는 뜻으로 쓰이기 시작했어요. 반대말은 off-site(현장 밖의)예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "site",
+   "pos": "명사",
+   "meaning": "장소, 현장, 사이트",
+   "en": "Workers wear helmets at the building site.",
+   "ko": "작업자들은 건설 현장에서 헬멧을 써요."
+  },
+  {
+   "word": "situation",
+   "pos": "명사",
+   "meaning": "상황",
+   "en": "She stayed calm in a difficult situation.",
+   "ko": "그녀는 어려운 상황에서도 침착했어요."
+  },
+  {
+   "word": "situated",
+   "pos": "형용사",
+   "meaning": "위치한",
+   "en": "The hotel is situated near the beach.",
+   "ko": "그 호텔은 해변 근처에 위치해 있어요."
+  },
+  {
+   "word": "website",
+   "pos": "명사",
+   "meaning": "웹사이트",
+   "en": "You can buy tickets on our website.",
+   "ko": "저희 웹사이트에서 표를 사실 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공사 현장에서 안전모를 쓴 직원이 직접 일하는 장면",
+ "imageCaption": "사무실이 아니라 바로 공사장에서 헬멧을 쓰고 일하는 사람을 떠올려 보세요.",
+ "movieLineEn": "We have a doctor on-site, so don't worry.",
+ "movieLineKo": "현장에 의사가 있으니 걱정하지 마.",
+ "storyTitle": "현장 근무 고양이",
+ "story": "회사에 on-site(현장의) 고양이가 생겼어요. 이 고양이는 매일 공사 site(현장)를 순찰했죠. 어려운 situation(상황)이 생기면 '야옹' 하고 알려 줬어요. 소문이 나자 회사 website(웹사이트)에 고양이 사진이 걸렸는데, 접속자가 폭주해 사이트가 다운됐대요. 고양이는 그날 처음으로 야근을 했답니다."
+}

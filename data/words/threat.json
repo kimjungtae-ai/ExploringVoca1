@@ -1,0 +1,48 @@
+{
+ "word": "threat",
+ "pos": "명사",
+ "phonetic": "[θret]",
+ "meaning": "위협, 협박, 위험 요소",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "threat (← þreat)",
+   "meaning": "무리, 압박 (crowd, pressure)",
+   "note": "고대 영어 þreat(무리, 압박, 위협)에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>threat</strong>는 쪼개기 어려운 고대 영어 단어로, '무리 지어 압박함'이라는 뜻에서 <strong>'위협'</strong>이 되었어요.",
+ "historyTitle": "몰려드는 무리의 압박",
+ "historyBody": "threat는 고대 영어 þreat에서 왔는데, 처음에는 '사람들의 무리'나 '압박, 괴롭힘'을 뜻했어요. 많은 사람이 몰려와 누르는 느낌에서 '겁을 주는 말이나 위험', 즉 위협이라는 뜻이 되었죠. 접두사나 어근으로 나눌 수 없는 순수 게르만계 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "threaten",
+   "pos": "동사",
+   "meaning": "위협하다",
+   "en": "Pollution threatens many sea animals.",
+   "ko": "오염은 많은 바다 동물을 위협해요."
+  },
+  {
+   "word": "threatening",
+   "pos": "형용사",
+   "meaning": "위협적인",
+   "en": "The dark clouds looked threatening.",
+   "ko": "먹구름이 위협적으로 보였어요."
+  },
+  {
+   "word": "threatened",
+   "pos": "형용사",
+   "meaning": "위협받는, 멸종 위기의",
+   "en": "Pandas were once a threatened species.",
+   "ko": "판다는 한때 멸종 위기종이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 먹구름이 몰려오는 위협적인 하늘",
+ "imageCaption": "소풍 날 저 멀리서 시커먼 먹구름이 몰려오는 하늘을 떠올려 보세요. 곧 무슨 일이 날 것 같은 느낌, 그게 threat예요.",
+ "movieLineEn": "Is that a threat? Because I'm not scared of you!",
+ "movieLineKo": "그거 협박이야? 난 너 안 무섭거든!",
+ "storyTitle": "고양이의 위협",
+ "story": "우리 집 고양이는 밥이 늦으면 내 책상 위 컵을 앞발로 threaten(위협하다)해요. 그 threatening(위협적인) 눈빛은 진짜 threat(위협)였죠. 나는 threatened(위협받는) 컵을 지키려고 재빨리 밥을 줬어요. 그런데 고양이는 밥을 먹고 나서 컵을 툭 떨어뜨렸어요. 협박은 협박일 뿐, 실행은 기분이었답니다!"
+}

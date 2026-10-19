@@ -1,0 +1,54 @@
+{
+ "word": "vehicle",
+ "pos": "명사",
+ "phonetic": "[ˈviːəkl]",
+ "meaning": "차량, 탈것, (전달) 수단",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vehi",
+   "meaning": "나르다, 실어 가다 (carry)",
+   "note": "라틴어 vehere(나르다, 타고 가다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-cle",
+   "meaning": "도구, 수단 (명사)",
+   "note": "라틴어 -culum에서 온, '~하는 도구'를 뜻하는 접미사예요."
+  }
+ ],
+ "summary": "<strong>vehi</strong> (나르다) + <strong>-cle</strong> (도구) = '실어 나르는 도구'라는 뜻에서 <strong>'차량, 탈것, 수단'</strong>이 되었어요.",
+ "historyTitle": "실어 나르는 도구, vehiculum",
+ "historyBody": "라틴어 vehiculum은 vehere(나르다)에 도구를 뜻하는 -culum이 붙은 말로, 수레나 마차를 가리켰어요. 17세기 영어에 들어와 지금은 자동차를 뜻하고, '생각을 전달하는 수단'이라는 비유적 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vector",
+   "pos": "명사",
+   "meaning": "벡터, (병의) 매개체",
+   "en": "Mosquitoes are a vector for many diseases.",
+   "ko": "모기는 많은 질병의 매개체예요."
+  },
+  {
+   "word": "vehicular",
+   "pos": "형용사",
+   "meaning": "차량의",
+   "en": "Vehicular traffic is not allowed in this area.",
+   "ko": "이 구역에는 차량 통행이 금지돼요."
+  },
+  {
+   "word": "convection",
+   "pos": "명사",
+   "meaning": "(열의) 대류",
+   "en": "Warm air rises because of convection.",
+   "ko": "대류 때문에 따뜻한 공기가 위로 올라가요."
+  }
+ ],
+ "imageSense": "대표 의미: 도로 위를 달리는 여러 종류의 차량",
+ "imageCaption": "버스, 트럭, 자동차가 사람과 짐을 싣고 도로를 달리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Step away from the vehicle and put your hands up!",
+ "movieLineKo": "차량에서 물러나서 손을 들어!",
+ "storyTitle": "외계인의 첫 운전",
+ "story": "외계인이 지구의 vehicle(차량)을 처음 봤어요. 과학 시간에 배운 vector(벡터)로 방향을 계산하고, convection(대류)까지 고려했죠. 완벽하게 출발했는데 차가 꼼짝도 안 했어요. 지나가던 아이가 말했어요. \"아저씨, 그거 놀이터 미끄럼틀이에요.\""
+}

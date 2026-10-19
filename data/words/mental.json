@@ -1,0 +1,61 @@
+{
+ "word": "mental",
+ "pos": "형용사",
+ "phonetic": "[ˈmentl]",
+ "meaning": "정신의, 마음의, 지능의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ment",
+   "meaning": "마음, 정신 (mind)",
+   "note": "라틴어 mens(정신), 소유격 mentis에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~와 관련된 (형용사)",
+   "note": "명사를 '~에 관한'이라는 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>ment</strong> (마음) + <strong>-al</strong> (~의) = 마음에 관한 것이라서 <strong>'정신의, 마음의'</strong>가 되었어요.",
+ "historyTitle": "로마인들이 말한 '마음(mens)'",
+ "historyBody": "라틴어 mens(마음, 정신)에서 후기 라틴어 형용사 mentalis가 생겼고, 15세기에 프랑스어를 거쳐 영어로 들어왔어요. '건전한 신체에 건전한 정신(mens sana in corpore sano)'이라는 라틴어 격언에도 이 단어가 나온답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mentally",
+   "pos": "부사",
+   "meaning": "정신적으로",
+   "en": "Running every morning keeps me mentally strong.",
+   "ko": "매일 아침 달리기는 나를 정신적으로 강하게 해 줘요."
+  },
+  {
+   "word": "mentality",
+   "pos": "명사",
+   "meaning": "사고방식, 정신 상태",
+   "en": "A winning mentality helped the team stay calm.",
+   "ko": "이기는 사고방식 덕분에 팀은 침착함을 유지했어요."
+  },
+  {
+   "word": "mention",
+   "pos": "동사",
+   "meaning": "언급하다",
+   "en": "She didn't mention the test to her parents.",
+   "ko": "그녀는 부모님께 시험 얘기를 꺼내지 않았어요."
+  },
+  {
+   "word": "comment",
+   "pos": "명사/동사",
+   "meaning": "논평, 의견 / 논평하다",
+   "en": "My teacher left a kind comment on my essay.",
+   "ko": "선생님이 내 에세이에 다정한 의견을 남겨 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 머릿속 생각과 감정을 나타내는 뇌와 하트 그림",
+ "imageCaption": "머리 위에 생각 풍선이 떠 있고, 그 안에 감정과 생각이 가득한 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't about strength. It's a mental game.",
+ "movieLineKo": "이건 힘의 문제가 아니야. 정신력 싸움이라고.",
+ "storyTitle": "멘탈 갑 거북이",
+ "story": "토끼와 다시 경주하게 된 거북이는 mental(정신의) 훈련에 집중했어요. 매일 명상하며 mentally(정신적으로) 강해졌죠. 토끼가 'comment(논평)할 가치도 없다'며 비웃었지만 거북이는 mention(언급하다)조차 안 했어요. 결과는? 토끼가 거북이의 차분함에 감동해 같이 명상하다 둘 다 잠들었답니다!"
+}

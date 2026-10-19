@@ -1,0 +1,48 @@
+{
+ "word": "row",
+ "pos": "명사 / 동사",
+ "phonetic": "[roʊ]",
+ "meaning": "줄, 열 / (노를) 젓다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "row (raw / rowan)",
+   "meaning": "줄 (line) / 노 젓다 (paddle)",
+   "note": "'줄'은 고대 영어 raw, '노 젓다'는 고대 영어 rowan에서 온, 철자만 같은 서로 다른 단어예요."
+  }
+ ],
+ "summary": "<strong>row</strong>는 <strong>'줄, 열'</strong>과 <strong>'노를 젓다'</strong>라는 두 가지 뜻을 가진, 철자만 같은 두 단어예요.",
+ "historyTitle": "철자는 같지만 뿌리는 다른 단어들",
+ "historyBody": "'줄, 열'의 row는 고대 영어 raw(줄)에서, '노를 젓다'의 row는 고대 영어 rowan에서 왔어요. 둘은 기원이 다른 동음이의어랍니다. 또 [raʊ]로 발음하면 '말다툼'이라는 전혀 다른 뜻이 되는데, 이 단어의 기원은 아직 밝혀지지 않았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in a row",
+   "pos": "숙어",
+   "meaning": "연속으로, 줄지어",
+   "en": "Our team won five games in a row.",
+   "ko": "우리 팀은 다섯 경기 연속으로 이겼어요."
+  },
+  {
+   "word": "rower",
+   "pos": "명사",
+   "meaning": "노 젓는 사람",
+   "en": "The rowers moved the boat quickly across the lake.",
+   "ko": "노 젓는 사람들이 배를 빠르게 움직여 호수를 건넜어요."
+  },
+  {
+   "word": "rowboat",
+   "pos": "명사",
+   "meaning": "노 젓는 배",
+   "en": "We rented a rowboat at the park.",
+   "ko": "우리는 공원에서 노 젓는 배를 빌렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 극장에서 한 줄로 나란히 앉은 관객들",
+ "imageCaption": "영화관 앞줄부터 뒷줄까지 의자가 가지런히 늘어선 모습을 떠올려 보세요.",
+ "movieLineEn": "Row faster! The waterfall is right behind us!",
+ "movieLineKo": "더 빨리 저어! 폭포가 바로 뒤에 있어!",
+ "storyTitle": "보트 위의 연승 행진",
+ "story": "아빠와 나는 호수에서 rowboat(노 젓는 배)를 탔어요. 아빠는 \"내가 최고의 rower(노 젓는 사람)지!\"라며 힘차게 row(노를 젓다)하셨죠. 세 번 in a row(연속으로) 다른 배를 추월했어요! 그런데 알고 보니 다른 배들은 race(경주)가 아니라 그냥 쉬고 있었답니다."
+}

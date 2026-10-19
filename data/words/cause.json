@@ -1,0 +1,55 @@
+{
+ "word": "cause",
+ "pos": "명사 / 동사",
+ "phonetic": "[kɔːz]",
+ "meaning": "원인, 대의 / 일으키다, 야기하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cause",
+   "meaning": "이유, 소송 (reason, lawsuit) — 라틴어 causa",
+   "note": "라틴어 causa에서 왔고, 그보다 더 오래된 기원은 밝혀지지 않았어요."
+  }
+ ],
+ "summary": "<strong>cause</strong>는 라틴어 <strong>causa</strong>(이유, 소송 사건)에서 와서 <strong>'원인, 일으키다'</strong>가 되었어요.",
+ "historyTitle": "로마 법정의 '사건'에서 '원인'으로",
+ "historyBody": "cause는 라틴어 causa(이유, 동기, 법정 소송)에서 고대 프랑스어를 거쳐 영어로 들어왔어요. causa 자체가 어디서 왔는지는 학자들도 아직 확실히 모른답니다. 법정 '사건'을 뜻하던 말이라 accuse(고소하다), excuse(변명하다)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "because",
+   "pos": "접속사",
+   "meaning": "~ 때문에",
+   "en": "We stayed home because it was raining.",
+   "ko": "비가 와서 우리는 집에 있었어요."
+  },
+  {
+   "word": "accuse",
+   "pos": "동사",
+   "meaning": "고발하다, 비난하다",
+   "en": "She was accused of stealing the money.",
+   "ko": "그녀는 돈을 훔친 혐의로 고발당했어요."
+  },
+  {
+   "word": "excuse",
+   "pos": "동사 / 명사",
+   "meaning": "용서하다, 변명하다 / 변명",
+   "en": "He always has an excuse for being late.",
+   "ko": "그는 늦을 때마다 늘 변명거리가 있어요."
+  },
+  {
+   "word": "causal",
+   "pos": "형용사",
+   "meaning": "인과 관계의",
+   "en": "Scientists found a causal link between smoking and cancer.",
+   "ko": "과학자들은 흡연과 암 사이의 인과 관계를 발견했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도미노 첫 조각이 넘어져 줄줄이 쓰러지는 장면",
+ "imageCaption": "첫 번째 도미노를 툭 미는 손가락을 떠올려 보세요. 모든 일의 시작, 그게 cause예요.",
+ "movieLineEn": "Every hero needs a cause worth fighting for.",
+ "movieLineKo": "모든 영웅에게는 싸울 가치가 있는 대의가 필요해.",
+ "storyTitle": "범인은 누구?",
+ "story": "교실 화분이 깨졌어요. 반장은 짝꿍을 accuse(고발하다)했죠. 짝꿍은 '내가 안 했어!'라며 excuse(변명)를 늘어놓았어요. 진짜 cause(원인)를 찾던 중, 모두가 깜짝 놀랐어요. because(~ 때문에) 창문으로 들어온 비둘기가 화분 위에서 낮잠을 자고 있었거든요!"
+}

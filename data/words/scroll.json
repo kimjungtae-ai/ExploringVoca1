@@ -1,0 +1,41 @@
+{
+ "word": "scroll",
+ "pos": "명사 / 동사",
+ "phonetic": "[skroʊl]",
+ "meaning": "두루마리 / (화면을) 스크롤하다, 넘기다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "scroll (escroue)",
+   "meaning": "종잇조각, 두루마리 (strip, roll)",
+   "note": "고대 프랑스어 escroue(양피지 조각)에서 온 scrowe가 roll(말다)의 영향을 받아 변한 말이에요."
+  }
+ ],
+ "summary": "<strong>scroll</strong>은 '돌돌 만 두루마리'에서 화면을 위아래로 <strong>'넘기다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "양피지 두루마리에서 무한 스크롤까지",
+ "historyBody": "scroll은 고대 프랑스어 escroue(양피지 조각)에서 온 중세 영어 scrowe가 roll(두루마리)의 영향을 받아 15세기쯤 scroll로 바뀐 말이에요. 옛날 문서는 길게 말아 두고 펼치며 읽었죠. 그 동작이 1980년대 컴퓨터 화면을 위아래로 '넘기는' 동작의 이름이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "scrolling",
+   "pos": "명사",
+   "meaning": "스크롤하기, 화면 넘기기",
+   "en": "Endless scrolling on social media wastes a lot of time.",
+   "ko": "소셜 미디어를 끝없이 넘기는 건 많은 시간을 낭비하게 해요."
+  },
+  {
+   "word": "scroll bar",
+   "pos": "명사",
+   "meaning": "스크롤 바",
+   "en": "Drag the scroll bar to see the rest of the page.",
+   "ko": "스크롤 바를 끌어 페이지의 나머지를 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 침대에 누워 엄지로 휴대폰 화면을 끝없이 넘기는 모습",
+ "imageCaption": "옛날 학자가 두루마리를 펼치듯, 엄지로 화면을 위로위로 밀어 올리는 장면을 떠올려 보세요.",
+ "movieLineEn": "The ancient scroll shows the way to the hidden temple.",
+ "movieLineKo": "고대 두루마리에 숨겨진 사원으로 가는 길이 나와 있어.",
+ "storyTitle": "끝없는 스크롤",
+ "story": "나는 숙제 전 '딱 5분만' 휴대폰을 scroll(넘기다)하기로 했어요. 짧은 video(영상)를 넘기고, 또 넘기고… scrolling(스크롤하기)을 멈출 수가 없었죠. 정신을 차려 보니 scroll bar(스크롤 바)는 끝이 없고 창밖은 morning(아침)이었어요. 오늘 본 영상 주제는 '시간 관리법'이었답니다."
+}

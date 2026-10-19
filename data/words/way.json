@@ -1,0 +1,69 @@
+{
+ "word": "way",
+ "pos": "명사 / 부사",
+ "phonetic": "[weɪ]",
+ "meaning": "길, 방법, 방식, 방향 / (부사) 훨씬",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "way (← 고대 영어 weg)",
+   "meaning": "길 (road, path)",
+   "note": "'움직이다, 나르다'라는 뜻의 아주 오래된 뿌리 *wegh-에서 왔어요. 더 나누기 어려워요."
+  }
+ ],
+ "summary": "고대 영어 <strong>weg</strong> (길)에서 와서 '가는 길'이 '하는 방법'으로 넓어져 <strong>'길, 방법'</strong>이 되었어요.",
+ "historyTitle": "길에서 방법으로",
+ "historyBody": "way는 고대 영어 weg(길)에서 왔고, 독일어 Weg와 같은 단어예요. '움직이다, 나르다'를 뜻하는 인도유럽어 뿌리 *wegh-에서 나왔는데, wagon과 weigh, 라틴어에서 온 vehicle도 같은 뿌리랍니다. '목표로 가는 길'이라는 뜻에서 '방법'이라는 의미가 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "always",
+   "pos": "부사",
+   "meaning": "항상",
+   "en": "She always smiles at her classmates.",
+   "ko": "그녀는 항상 반 친구들에게 미소 지어요."
+  },
+  {
+   "word": "anyway",
+   "pos": "부사",
+   "meaning": "어쨌든",
+   "en": "It was raining, but we went out anyway.",
+   "ko": "비가 왔지만 우리는 어쨌든 나갔어요."
+  },
+  {
+   "word": "highway",
+   "pos": "명사",
+   "meaning": "고속도로",
+   "en": "Traffic on the highway was very heavy.",
+   "ko": "고속도로 교통이 아주 혼잡했어요."
+  },
+  {
+   "word": "subway",
+   "pos": "명사",
+   "meaning": "지하철",
+   "en": "I take the subway to school every day.",
+   "ko": "나는 매일 지하철을 타고 학교에 가요."
+  },
+  {
+   "word": "sideways",
+   "pos": "부사",
+   "meaning": "옆으로",
+   "en": "Crabs walk sideways on the sand.",
+   "ko": "게는 모래 위에서 옆으로 걸어요."
+  },
+  {
+   "word": "wagon",
+   "pos": "명사",
+   "meaning": "짐마차",
+   "en": "The farmer loaded hay onto the wagon.",
+   "ko": "농부는 짐마차에 건초를 실었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲속 갈림길에 서서 방향을 고르는 장면",
+ "imageCaption": "숲속 갈림길에서 어느 쪽으로 갈지 고민하는 모습을 떠올려 보세요. 길도 way, 방법도 way예요.",
+ "movieLineEn": "There's always a way. We just haven't found it yet.",
+ "movieLineKo": "방법은 항상 있어. 우리가 아직 못 찾았을 뿐이야.",
+ "storyTitle": "길치 내비게이션",
+ "story": "새 내비게이션은 always(항상) 가장 빠른 way(길)를 안내한다고 했어요. 그런데 highway(고속도로) 대신 시골길로, 다시 subway(지하철)역으로 안내했죠. 화가 났지만 anyway(어쨌든) 따라갔어요. 도착한 곳은 내비 회사였어요. \"저도 길을 몰라서 물어보러 왔어요!\""
+}

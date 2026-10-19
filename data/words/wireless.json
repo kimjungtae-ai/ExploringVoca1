@@ -1,0 +1,54 @@
+{
+ "word": "wireless",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈwaɪərləs]",
+ "meaning": "무선의 / 무선, (옛말) 라디오",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "wire",
+   "meaning": "철사, 전선 (wire)",
+   "note": "고대 영어 wir(금속 실)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-less",
+   "meaning": "~이 없는",
+   "note": "'~이 없는'이라는 뜻의 형용사 접미사예요."
+  }
+ ],
+ "summary": "<strong>wire</strong> (전선) + <strong>-less</strong> (~이 없는) = <strong>'선이 없는, 무선의'</strong>가 되었어요.",
+ "historyTitle": "라디오에서 와이파이까지",
+ "historyBody": "wire는 고대 영어 wir(금속 실)에서 왔어요. wireless는 19세기 말 전선 없이 신호를 보내는 무선 전신을 가리키며 널리 쓰였고, 영국에서는 한동안 '라디오'를 wireless라고 불렀어요. 지금은 와이파이, 무선 이어폰처럼 일상 단어가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wire",
+   "pos": "명사 / 동사",
+   "meaning": "전선, 철사 / 배선하다",
+   "en": "Don't touch that wire. It's dangerous.",
+   "ko": "그 전선 만지지 마. 위험해."
+  },
+  {
+   "word": "wired",
+   "pos": "형용사",
+   "meaning": "유선의, 들뜬",
+   "en": "I can't sleep. I feel wired after drinking coffee.",
+   "ko": "잠이 안 와. 커피를 마셔서 들떠 있어."
+  },
+  {
+   "word": "wiring",
+   "pos": "명사",
+   "meaning": "배선",
+   "en": "The old house needs new wiring.",
+   "ko": "그 오래된 집은 배선을 새로 해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 선 없이 귀에 쏙 들어간 무선 이어폰",
+ "imageCaption": "전선이 꼬일 걱정 없이 귀에 꽂힌 무선 이어폰을 떠올려 보세요.",
+ "movieLineEn": "The signal is wireless. They can't trace it.",
+ "movieLineKo": "신호는 무선이야. 그들은 추적할 수 없어.",
+ "storyTitle": "무선 할머니",
+ "story": "할머니께 wireless(무선의) 이어폰을 선물해 드렸어요. 할머니는 wire(전선)가 없다며 걱정하셨죠. \"이게 어떻게 소리가 나니?\" 설명해 드리자 할머니는 wired(들뜬) 표정으로 트로트를 들으셨어요. 다음 날, 할머니가 이어폰 한 짝을 잃어버리고 말씀하셨어요. \"선이 있어야 안 잃어버리지!\""
+}

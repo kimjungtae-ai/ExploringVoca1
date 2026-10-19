@@ -1,0 +1,68 @@
+{
+ "word": "disturb",
+ "pos": "동사",
+ "phonetic": "[dɪˈstɜːrb]",
+ "meaning": "방해하다, 어지럽히다, 불안하게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 만들어 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "turb",
+   "meaning": "어지럽히다, 혼란 (disorder, confusion)",
+   "note": "라틴어 turbare(어지럽히다), turba(소란, 군중)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (완전히) + <strong>turb</strong> (어지럽히다) = '완전히 어지럽히다'에서 <strong>'방해하다, 불안하게 하다'</strong>가 되었어요.",
+ "historyTitle": "로마의 소란스러운 군중",
+ "historyBody": "disturb는 라틴어 disturbare(완전히 어지럽히다)에서 왔어요. 뿌리 turba는 '소란, 무질서한 군중'이라는 뜻이에요. 비행기가 흔들릴 때 쓰는 turbulence(난기류)도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "disturbance",
+   "pos": "명사",
+   "meaning": "방해, 소란",
+   "en": "The loud music caused a disturbance in the neighborhood.",
+   "ko": "시끄러운 음악이 동네에 소란을 일으켰어요."
+  },
+  {
+   "word": "turbulent",
+   "pos": "형용사",
+   "meaning": "격동의, 요동치는",
+   "en": "The country went through a turbulent period.",
+   "ko": "그 나라는 격동의 시기를 겪었어요."
+  },
+  {
+   "word": "turbulence",
+   "pos": "명사",
+   "meaning": "난기류, 격동",
+   "en": "The plane shook because of turbulence.",
+   "ko": "난기류 때문에 비행기가 흔들렸어요."
+  },
+  {
+   "word": "undisturbed",
+   "pos": "형용사",
+   "meaning": "방해받지 않은",
+   "en": "The old house remained undisturbed for years.",
+   "ko": "그 오래된 집은 수년간 아무도 손대지 않은 채 있었어요."
+  },
+  {
+   "word": "disturbing",
+   "pos": "형용사",
+   "meaning": "불안하게 하는, 충격적인",
+   "en": "The news about the accident was disturbing.",
+   "ko": "그 사고 소식은 충격적이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 문 손잡이에 걸린 '방해하지 마세요' 팻말",
+ "imageCaption": "조용히 공부하는데 누가 갑자기 문을 쾅 열고 들어오는 장면을 떠올려 보세요. 고요함이 와르르 어지럽혀지죠.",
+ "movieLineEn": "Do not disturb me. I'm saving the world.",
+ "movieLineKo": "방해하지 마. 지금 세상을 구하는 중이야.",
+ "storyTitle": "방해 금지의 반전",
+ "story": "누나는 방문에 '절대 disturb(방해하다) 금지'라고 붙였어요. 공부에 undisturbed(방해받지 않은) 시간이 필요하대요. 그런데 방 안에서 이상한 disturbance(소란)가 들렸어요. 문을 열어 보니 누나가 turbulent(요동치는) 리듬으로 춤 연습 중이었어요. 아이돌 오디션 준비였대요!"
+}

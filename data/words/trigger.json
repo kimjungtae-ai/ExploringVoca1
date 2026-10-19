@@ -1,0 +1,54 @@
+{
+ "word": "trigger",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈtrɪɡər]",
+ "meaning": "유발하다, 촉발하다 / 방아쇠, 계기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "trigg (← trekken)",
+   "meaning": "당기다 (pull)",
+   "note": "네덜란드어 trekken(당기다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것 (도구)",
+   "note": "'~하는 도구'를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>trekk</strong> (당기다) + <strong>-er</strong> (~하는 것) = 당기는 장치, 즉 <strong>'방아쇠'</strong>, 그리고 무언가를 일으키는 <strong>'유발하다'</strong>가 되었어요.",
+ "historyTitle": "네덜란드에서 건너온 방아쇠",
+ "historyBody": "trigger는 1620년대 영어에 'tricker'라는 모양으로 들어왔는데, 네덜란드어 'trekker(당기는 것)'에서 왔어요. 이 말은 'trekken(당기다)'에서 나왔고, 남아프리카를 거쳐 영어에 들어온 trek(긴 여행)과 같은 뿌리예요. 방아쇠를 당기면 일이 터지니, 20세기에 '유발하다'라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trek",
+   "pos": "명사 / 동사",
+   "meaning": "트레킹, 힘든 여행 / 오래 걷다",
+   "en": "We went on a long trek through the mountains.",
+   "ko": "우리는 산을 지나는 긴 트레킹을 떠났어요."
+  },
+  {
+   "word": "triggered",
+   "pos": "형용사",
+   "meaning": "(감정·반응이) 유발된",
+   "en": "His allergy was triggered by the cat's hair.",
+   "ko": "그의 알레르기는 고양이 털 때문에 일어났어요."
+  },
+  {
+   "word": "trekking",
+   "pos": "명사",
+   "meaning": "트레킹, 도보 여행",
+   "en": "Trekking in Nepal was the best experience of my life.",
+   "ko": "네팔에서의 트레킹은 내 인생 최고의 경험이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손가락으로 장난감 물총의 방아쇠를 당기는 모습",
+ "imageCaption": "물총의 방아쇠를 '당기면' 물이 뿜어져 나오듯, 작은 행동이 큰 일을 일으키는 장면을 떠올려 보세요.",
+ "movieLineEn": "One wrong word could trigger a war between the kingdoms.",
+ "movieLineKo": "말 한마디만 잘못해도 왕국 사이에 전쟁이 터질 수 있어.",
+ "storyTitle": "재채기 방아쇠",
+ "story": "산으로 trek(트레킹)을 떠난 준호는 꽃가루 때문에 재채기가 났어요. 커다란 재채기는 산 전체에 메아리를 trigger(유발하다)했고, 소리에 triggered(자극받은) 염소들이 놀라 달려왔죠. 염소들은 준호를 대장으로 모셨어요. 그날 trekking(도보 여행)은 염소 50마리와의 행진이 되었답니다."
+}

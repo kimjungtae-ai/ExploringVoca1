@@ -1,0 +1,74 @@
+{
+ "word": "translate",
+ "pos": "동사",
+ "phonetic": "[trænsˈleɪt]",
+ "meaning": "번역하다, 통역하다, (다른 형태로) 바꾸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "trans-",
+   "meaning": "가로질러, 저쪽으로 (across)",
+   "note": "한쪽에서 다른 쪽으로 건너간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lat (← latus)",
+   "meaning": "옮겨진 (carried)",
+   "note": "라틴어 ferre(나르다)의 과거분사 latus에서 왔어요. 모양은 달라도 '나르다' 집안이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>trans-</strong> (건너) + <strong>lat</strong> (옮겨진) + <strong>-ate</strong> = 말을 다른 언어로 건너 옮기다, 즉 <strong>'번역하다'</strong>가 되었어요.",
+ "historyTitle": "성인의 유해를 옮기던 말",
+ "historyBody": "translate는 라틴어 'translatus'에서 왔는데, 이는 'transferre(건너 나르다)'의 과거분사예요. 라틴어 ferre는 과거분사가 latus로 완전히 다른 모양이 되는 특이한 동사거든요. 중세에는 성인의 유해를 다른 곳으로 옮기는 일에도 이 말을 썼고, 차츰 '말을 다른 언어로 옮기다'라는 뜻이 중심이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "translation",
+   "pos": "명사",
+   "meaning": "번역, 번역본",
+   "en": "I read the Korean translation of the novel.",
+   "ko": "나는 그 소설의 한국어 번역본을 읽었어요."
+  },
+  {
+   "word": "translator",
+   "pos": "명사",
+   "meaning": "번역가, 통역사",
+   "en": "She wants to become a translator in the future.",
+   "ko": "그녀는 나중에 번역가가 되고 싶어 해요."
+  },
+  {
+   "word": "relate",
+   "pos": "동사",
+   "meaning": "관련시키다, 공감하다",
+   "en": "I can relate to the main character's feelings.",
+   "ko": "나는 주인공의 감정에 공감할 수 있어요."
+  },
+  {
+   "word": "relation",
+   "pos": "명사",
+   "meaning": "관계",
+   "en": "There is a close relation between sleep and health.",
+   "ko": "잠과 건강 사이에는 밀접한 관계가 있어요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사",
+   "meaning": "옮기다, 이동하다",
+   "en": "He transferred to a new school in Busan.",
+   "ko": "그는 부산에 있는 새 학교로 전학 갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 사람 사이에서 통역사가 말을 옮겨 주는 장면",
+ "imageCaption": "한국어로 한 말을 통역사가 영어로 '건너 옮겨' 전달하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Can you translate what the alien just said?",
+ "movieLineKo": "방금 외계인이 한 말 좀 통역해 줄 수 있어?",
+ "storyTitle": "고양이 번역기",
+ "story": "지수는 고양이 말을 translate(번역하다)하는 앱을 샀어요. 첫 translation(번역)은 \"밥 줘\"였죠. 지수는 자신이 최고의 translator(통역사)라며 들떴어요. 고양이와의 relation(관계)도 좋아졌죠. 그런데 백 번째 번역도 \"밥 줘\"였어요. 알고 보니 앱은 모든 소리를 그 말로만 바꿔 주는 장난감이었답니다!"
+}

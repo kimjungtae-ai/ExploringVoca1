@@ -1,0 +1,68 @@
+{
+ "word": "witness",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈwɪtnəs]",
+ "meaning": "목격자, 증인 / 목격하다, 증언하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "wit",
+   "meaning": "앎, 지혜 (knowledge)",
+   "note": "고대 영어 witt(마음, 이해력)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~함, ~하는 것 (명사)",
+   "note": "상태를 나타내는 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>wit</strong> (앎) + <strong>-ness</strong> (~함) = '직접 알고 있음'이라는 뜻에서 <strong>'증언, 목격자'</strong>가 되었어요.",
+ "historyTitle": "알고 있는 사람이 증인",
+ "historyBody": "고대 영어 witnes는 wit(앎)에 -ness가 붙어 '지식, 증언'이라는 뜻이었어요. 무언가를 '직접 보고 알고 있는' 사람이 증인이 되었죠. wit와 wise, wisdom은 '보다, 알다'를 뜻하는 인도유럽어 뿌리 *weid-에서 왔고, 라틴어에서 온 video, vision과도 먼 친척이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wit",
+   "pos": "명사",
+   "meaning": "재치, 지혜",
+   "en": "Her wit made everyone laugh.",
+   "ko": "그녀의 재치에 모두가 웃었어요."
+  },
+  {
+   "word": "witty",
+   "pos": "형용사",
+   "meaning": "재치 있는",
+   "en": "He gave a witty answer to the tricky question.",
+   "ko": "그는 까다로운 질문에 재치 있게 대답했어요."
+  },
+  {
+   "word": "wise",
+   "pos": "형용사",
+   "meaning": "현명한",
+   "en": "It was wise of you to save money.",
+   "ko": "돈을 모은 건 현명한 일이었어요."
+  },
+  {
+   "word": "wisdom",
+   "pos": "명사",
+   "meaning": "지혜",
+   "en": "Grandparents share their wisdom with us.",
+   "ko": "조부모님은 우리에게 지혜를 나눠 주세요."
+  },
+  {
+   "word": "eyewitness",
+   "pos": "명사",
+   "meaning": "목격자",
+   "en": "An eyewitness described the thief to the police.",
+   "ko": "한 목격자가 경찰에게 도둑의 인상착의를 말했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 사건 현장을 보고 깜짝 놀라 입을 가린 사람",
+ "imageCaption": "길에서 사고 장면을 보고 놀라 \"제가 봤어요!\" 하고 말하는 사람을 떠올려 보세요.",
+ "movieLineEn": "I was a witness. I saw everything that night.",
+ "movieLineKo": "나는 목격자였어. 그날 밤 모든 걸 봤어.",
+ "storyTitle": "사라진 케이크 사건",
+ "story": "생일 케이크가 사라졌어요! 유일한 eyewitness(목격자)는 강아지였죠. 탐정 엄마는 witty(재치 있는) 질문으로 강아지를 witness(증인)로 세웠어요. \"케이크 먹은 사람 쪽으로 가 봐!\" 강아지는 꼬리를 흔들며 아빠에게 갔어요. 하지만 wise(현명한) 엄마는 강아지 입가의 크림을 발견했답니다."
+}

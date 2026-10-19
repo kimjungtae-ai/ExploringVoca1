@@ -1,0 +1,61 @@
+{
+ "word": "encounter",
+ "pos": "동사 / 명사",
+ "phonetic": "[ɪnˈkaʊntər]",
+ "meaning": "(우연히) 마주치다, 직면하다 / 만남, 조우",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "안으로, ~에 (in)",
+   "note": "라틴어 in-에서 온 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "counter",
+   "meaning": "맞서는, 반대편의 (against)",
+   "note": "라틴어 contra(~에 맞서)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (~에) + <strong>counter</strong> (맞서는) = '맞은편에서 딱 마주하다'에서 <strong>'우연히 마주치다, 직면하다'</strong>가 되었어요.",
+ "historyTitle": "적과 맞닥뜨리던 말",
+ "historyBody": "encounter는 고대 프랑스어 encontrer(마주치다, 맞서다)에서 왔고, 그 뿌리는 라틴어 in(~에)과 contra(맞서)예요. 처음에는 전쟁터에서 적과 맞닥뜨리는 것을 뜻했어요. 지금은 사람이나 문제를 뜻밖에 마주치는 일에 두루 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "counter",
+   "pos": "명사 / 동사",
+   "meaning": "계산대 / 반박하다",
+   "en": "Please pay at the front counter.",
+   "ko": "앞쪽 계산대에서 계산해 주세요."
+  },
+  {
+   "word": "contrary",
+   "pos": "형용사 / 명사",
+   "meaning": "반대의 / 반대",
+   "en": "Contrary to popular belief, bats are not blind.",
+   "ko": "일반적인 믿음과 달리 박쥐는 눈이 멀지 않았어요."
+  },
+  {
+   "word": "contrast",
+   "pos": "명사 / 동사",
+   "meaning": "대조 / 대조하다",
+   "en": "There is a sharp contrast between the two cities.",
+   "ko": "두 도시 사이에는 뚜렷한 대조가 있어요."
+  },
+  {
+   "word": "counterpart",
+   "pos": "명사",
+   "meaning": "상대, 대응 관계에 있는 것",
+   "en": "The minister met his Japanese counterpart.",
+   "ko": "그 장관은 일본 측 상대 장관을 만났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲길에서 곰과 딱 마주친 등산객",
+ "imageCaption": "모퉁이를 돌았는데 맞은편에서 누군가와 딱 마주치는 순간을 떠올려 보세요. 깜짝!",
+ "movieLineEn": "I never expected to encounter you here, old friend.",
+ "movieLineKo": "여기서 널 마주칠 줄은 몰랐어, 오랜 친구여.",
+ "storyTitle": "편의점에서의 조우",
+ "story": "새벽 2시, 나는 편의점 counter(계산대) 앞에서 담임 선생님과 encounter(마주치다)했어요. 선생님은 컵라면, 나는 삼각김밥을 들고 있었죠. 평소 엄격한 모습과 contrast(대조)되는 잠옷 차림이었어요. contrary(반대의)로 선생님은 웃으며 말했어요. '우리 둘만의 비밀이다!'"
+}

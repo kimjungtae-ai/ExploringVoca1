@@ -1,0 +1,68 @@
+{
+ "word": "occur",
+ "pos": "동사",
+ "phonetic": "[əˈkɜːr]",
+ "meaning": "일어나다, 발생하다, (생각이) 떠오르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "oc- (ob-)",
+   "meaning": "~을 향하여 (toward, against)",
+   "note": "ob-가 c 앞에서 oc-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cur",
+   "meaning": "달리다 (run)",
+   "note": "라틴어 currere(달리다)에서 왔어요. current의 cur와 같아요."
+  }
+ ],
+ "summary": "<strong>oc-</strong> (~을 향해) + <strong>cur</strong> (달리다) = 사건이 내 앞으로 달려오는 것에서 <strong>'일어나다, 떠오르다'</strong>가 되었어요.",
+ "historyTitle": "앞으로 '달려와' 마주치는 일",
+ "historyBody": "라틴어 occurrere는 ob-(~을 향해)와 currere(달리다)가 합쳐져 '달려가 마주치다, 나타나다'라는 뜻이었어요. 16세기 초 영어로 들어와 '일이 생기다', 그리고 'It occurred to me(나에게 생각이 떠올랐다)'처럼 생각이 떠오른다는 뜻으로도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "occurrence",
+   "pos": "명사",
+   "meaning": "발생, 사건",
+   "en": "Heavy snow is a rare occurrence in this city.",
+   "ko": "폭설은 이 도시에서 드문 일이에요."
+  },
+  {
+   "word": "current",
+   "pos": "형용사/명사",
+   "meaning": "현재의 / 흐름, 해류",
+   "en": "The current situation is better than last year.",
+   "ko": "현재 상황은 작년보다 나아요."
+  },
+  {
+   "word": "currency",
+   "pos": "명사",
+   "meaning": "통화, 화폐",
+   "en": "The euro is the currency of many European countries.",
+   "ko": "유로는 많은 유럽 국가의 화폐예요."
+  },
+  {
+   "word": "course",
+   "pos": "명사",
+   "meaning": "강좌, 진로, 과정",
+   "en": "I signed up for an online cooking course.",
+   "ko": "나는 온라인 요리 강좌에 등록했어요."
+  },
+  {
+   "word": "curriculum",
+   "pos": "명사",
+   "meaning": "교육과정",
+   "en": "Coding is now part of the school curriculum.",
+   "ko": "코딩은 이제 학교 교육과정의 일부예요."
+  }
+ ],
+ "imageSense": "대표 의미: 머리 위에 전구가 '번쩍' 켜지며 생각이 떠오르는 장면",
+ "imageCaption": "길을 걷다가 갑자기 좋은 아이디어가 머릿속으로 달려 들어오는 모습을 떠올려 보세요.",
+ "movieLineEn": "It never occurred to me that he was the spy.",
+ "movieLineKo": "그가 스파이일 거라고는 전혀 생각지도 못했어.",
+ "storyTitle": "갑자기 떠오른 생각",
+ "story": "시험 중에 갑자기 한 생각이 occur(떠오르다)했어요. '가스 불 껐나?' 이런 occurrence(일)는 처음이었죠. current(현재의) 문제는 3번인데 머릿속엔 가스레인지뿐! 집에 전화해 보니 엄마가 '너 아침 안 먹고 나갔잖아'라고 하셨어요. 애초에 요리를 안 했던 거예요!"
+}

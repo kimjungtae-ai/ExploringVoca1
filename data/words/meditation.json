@@ -1,0 +1,47 @@
+{
+ "word": "meditation",
+ "pos": "명사",
+ "phonetic": "[ˌmedɪˈteɪʃn]",
+ "meaning": "명상, 묵상, 깊은 생각",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "medit",
+   "meaning": "깊이 생각하다 (think over)",
+   "note": "라틴어 meditari(곰곰이 생각하다, 연습하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>medit</strong> (곰곰이 생각하다) + <strong>-ation</strong> (것) = '깊이 생각하는 것'이라는 뜻에서 <strong>'명상'</strong>이 되었어요.",
+ "historyTitle": "라틴어 meditari, 곰곰이 생각하기",
+ "historyBody": "라틴어 meditari는 '곰곰이 생각하다, 마음속으로 연습하다'라는 뜻이었어요. 이것이 고대 프랑스어를 거쳐 13세기쯤 영어 meditation이 되었고, 처음엔 주로 종교적인 묵상을 뜻했죠. 오늘날에는 마음을 가라앉히는 '명상'이라는 뜻으로 널리 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "meditate",
+   "pos": "동사",
+   "meaning": "명상하다, 깊이 생각하다",
+   "en": "She meditates for ten minutes every morning.",
+   "ko": "그녀는 매일 아침 10분씩 명상해요."
+  },
+  {
+   "word": "meditative",
+   "pos": "형용사",
+   "meaning": "명상적인, 사색적인",
+   "en": "The quiet forest put me in a meditative mood.",
+   "ko": "고요한 숲에 있으니 사색적인 기분이 들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈을 감고 가부좌를 틀고 앉아 조용히 숨 쉬는 사람",
+ "imageCaption": "시끄러운 생각을 내려놓고 조용히 숨을 고르는 모습, 그게 meditation이에요.",
+ "movieLineEn": "Clear your mind. Meditation is the path to true strength.",
+ "movieLineKo": "마음을 비워라. 명상이 진정한 힘으로 가는 길이니라.",
+ "storyTitle": "명상 동아리의 진실",
+ "story": "시험 스트레스를 줄이려고 meditation(명상) 동아리에 들었어요. 매일 눈을 감고 meditate(명상하다)했죠. 교실은 늘 calm(차분한)하고 meditative(사색적인) 분위기로 조용했어요. 선생님은 우리 집중력에 감탄하셨어요. 그런데 사실 우리 대부분은 meditation 시간 내내 잠들어 있었고, 코 고는 meditation(명상) 소리까지 났답니다."
+}

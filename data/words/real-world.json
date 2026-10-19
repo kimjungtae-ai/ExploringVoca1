@@ -1,0 +1,68 @@
+{
+ "word": "real-world",
+ "pos": "형용사",
+ "phonetic": "[ˌriːəl ˈwɜːrld]",
+ "meaning": "현실 세계의, 실제의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "real",
+   "meaning": "실제의 (real)",
+   "note": "라틴어 res(사물, 실체)에서 온 realis에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "world",
+   "meaning": "세상 (world)",
+   "note": "고대 영어 weorold(사람의 시대, 인간 세상)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>real</strong> (실제의) + <strong>world</strong> (세상) = 교실이나 이론이 아닌 진짜 세상의 것이라서 <strong>'현실 세계의'</strong>가 되었어요.",
+ "historyTitle": "'사물'과 '사람의 시대'가 만나다",
+ "historyBody": "real은 라틴어 res(사물)에서 나온 후기 라틴어 realis(실제 사물의)에서 왔어요. world는 고대 영어 weorold로, wer(사람)와 ald(시대)가 합쳐진 '인간의 시대'라는 뜻이었어요. 두 단어를 붙인 real-world는 20세기에 '이론이 아닌 실제 상황의'라는 뜻으로 쓰이기 시작했어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reality",
+   "pos": "명사",
+   "meaning": "현실",
+   "en": "Her dream of becoming a pilot became a reality.",
+   "ko": "조종사가 되겠다는 그녀의 꿈이 현실이 되었어요."
+  },
+  {
+   "word": "realize",
+   "pos": "동사",
+   "meaning": "깨닫다, 실현하다",
+   "en": "I realized I had left my phone at home.",
+   "ko": "휴대폰을 집에 두고 온 걸 깨달았어요."
+  },
+  {
+   "word": "realistic",
+   "pos": "형용사",
+   "meaning": "현실적인",
+   "en": "Set realistic goals for your study plan.",
+   "ko": "공부 계획에 현실적인 목표를 세우세요."
+  },
+  {
+   "word": "really",
+   "pos": "부사",
+   "meaning": "정말로",
+   "en": "I really enjoyed the trip.",
+   "ko": "나는 여행이 정말 즐거웠어요."
+  },
+  {
+   "word": "worldwide",
+   "pos": "형용사/부사",
+   "meaning": "전 세계적인 / 전 세계에",
+   "en": "The song became popular worldwide.",
+   "ko": "그 노래는 전 세계적으로 인기를 얻었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교과서 속 수학 공식으로 실제 마트 할인 가격을 계산하는 장면",
+ "imageCaption": "교실에서 배운 지식을 마트, 은행, 버스 정류장 같은 진짜 생활에서 써먹는 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't a game anymore. This is the real world.",
+ "movieLineKo": "이건 더 이상 게임이 아니야. 이건 현실이라고.",
+ "storyTitle": "게임 고수의 현실 체험",
+ "story": "게임 속 최강 기사인 준수는 real-world(현실 세계의) 체험을 하러 캠핑을 갔어요. 텐트 치기는 게임처럼 쉬울 줄 알았죠. 그런데 reality(현실)는 달랐어요! 텐트가 바람에 날아가자 준수는 '세이브 포인트가 없구나'를 realize(깨닫다)했어요. 결국 realistic(현실적인) 선택으로 차에서 잤대요."
+}

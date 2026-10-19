@@ -1,0 +1,41 @@
+{
+ "word": "fatigue",
+ "pos": "명사 / 동사",
+ "phonetic": "[fəˈtiːɡ]",
+ "meaning": "피로, 피곤 / 피로하게 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fatigue (fatigare)",
+   "meaning": "지치게 하다 (to tire)",
+   "note": "라틴어 fatigare(지치게 하다)에서 프랑스어를 거쳐 왔어요. 더 깊은 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>fatigue</strong>는 라틴어 <strong>fatigare</strong>(지치게 하다)에서 온 한 덩어리 단어로 <strong>'피로'</strong>를 뜻해요.",
+ "historyTitle": "라틴어 fatigare, 지쳐 쓰러질 만큼",
+ "historyBody": "fatigue는 라틴어 fatigare(지치게 하다)가 프랑스어 fatiguer를 거쳐 17세기에 영어로 들어온 말이에요. fatigare를 '터질 만큼(ad fatim)'과 연결하는 설도 있지만 확실하지 않아요. 군대에서는 '사역, 작업복(fatigues)'이라는 뜻으로도 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fatigued",
+   "pos": "형용사",
+   "meaning": "피로한, 지친",
+   "en": "After the long hike, we were all fatigued.",
+   "ko": "긴 등산 뒤에 우리는 모두 지쳐 있었어요."
+  },
+  {
+   "word": "indefatigable",
+   "pos": "형용사",
+   "meaning": "지칠 줄 모르는",
+   "en": "She is an indefatigable volunteer at the animal shelter.",
+   "ko": "그녀는 동물 보호소에서 지칠 줄 모르는 자원봉사자예요."
+  }
+ ],
+ "imageSense": "대표 의미: 밤샘 공부 후 책상에 엎드려 잠든 학생",
+ "imageCaption": "눈 밑이 퀭하고 몸이 축 처진 모습을 떠올리세요. 그게 fatigue예요.",
+ "movieLineEn": "I'm not sleeping. I'm just fighting fatigue with my eyes closed.",
+ "movieLineKo": "자는 거 아니야. 눈 감고 피로와 싸우는 중이야.",
+ "storyTitle": "지칠 줄 모르는 강아지",
+ "story": "우리 강아지는 indefatigable(지칠 줄 모르는) 산책 마니아예요. 매일 저를 10km씩 끌고 다니죠. 저는 fatigue(피로)에 시달리며 늘 fatigued(지친) 상태였어요. 결국 exhausted(기진맥진한) 저는 러닝머신을 사 줬어요. 그런데 다음 날 보니 강아지는 소파에서 자고, 러닝머신 위엔 제가 달리고 있었어요!"
+}

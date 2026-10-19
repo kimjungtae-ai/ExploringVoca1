@@ -1,0 +1,48 @@
+{
+ "word": "witch",
+ "pos": "명사",
+ "phonetic": "[wɪtʃ]",
+ "meaning": "마녀",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "witch (← 고대 영어 wicce)",
+   "meaning": "마녀, 마법을 쓰는 사람 (witch)",
+   "note": "고대 영어 wicce(여성), wicca(남성)에서 왔고, 그 이전 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "고대 영어 <strong>wicce</strong> (마법을 쓰는 여자)에서 와서 <strong>'마녀'</strong>가 되었어요.",
+ "historyTitle": "기원이 수수께끼인 단어",
+ "historyBody": "witch는 고대 영어 wicce(여자 마법사)와 wicca(남자 마법사)에서 왔어요. 그 이전의 기원에 대해서는 여러 학설이 있지만 확실히 밝혀지지 않았어요. 중세 이후 유럽의 '마녀사냥'은 수많은 무고한 사람들이 희생된 슬픈 역사이기도 해요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "witchcraft",
+   "pos": "명사",
+   "meaning": "마법, 마술",
+   "en": "People in the past were afraid of witchcraft.",
+   "ko": "옛날 사람들은 마법을 두려워했어요."
+  },
+  {
+   "word": "bewitch",
+   "pos": "동사",
+   "meaning": "마법을 걸다, 매혹하다",
+   "en": "The singer's voice bewitched the audience.",
+   "ko": "그 가수의 목소리가 관객을 매혹했어요."
+  },
+  {
+   "word": "witch hunt",
+   "pos": "명사",
+   "meaning": "마녀사냥",
+   "en": "The online attack turned into a witch hunt.",
+   "ko": "그 온라인 공격은 마녀사냥으로 변했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뾰족 모자를 쓰고 빗자루를 탄 마녀",
+ "imageCaption": "보름달 아래 뾰족 모자를 쓰고 빗자루를 타고 나는 마녀를 떠올려 보세요.",
+ "movieLineEn": "The witch is coming! Hide the children!",
+ "movieLineKo": "마녀가 온다! 아이들을 숨겨!",
+ "storyTitle": "마녀의 고민",
+ "story": "숲속 witch(마녀)는 witchcraft(마법)로 마을 사람들을 bewitch(마법을 걸다)하려 했어요. 그런데 주문을 외우자 사람들이 모두 춤을 추기 시작했죠. 알고 보니 마법책이 아니라 K-pop 안무책이었어요! 마녀는 그날부터 마을 댄스 강사가 되어 큰 인기를 얻었답니다."
+}

@@ -1,0 +1,67 @@
+{
+ "word": "carbohydrate",
+ "pos": "명사",
+ "phonetic": "[ˌkɑːrboʊˈhaɪdreɪt]",
+ "meaning": "탄수화물",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "carbo",
+   "meaning": "탄소, 숯 (carbon)",
+   "note": "라틴어 carbo(숯)에서 온 '탄소'예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hydr",
+   "meaning": "물 (water)",
+   "note": "그리스어 hydor(물)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "화합물 (chemical compound)",
+   "note": "화학 물질 이름을 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>carbo</strong> (탄소) + <strong>hydr</strong> (물) + <strong>-ate</strong> (화합물) = '탄소와 물이 결합한 물질'에서 <strong>'탄수화물'</strong>이 되었어요.",
+ "historyTitle": "화학자들이 붙인 '탄소+물' 이름",
+ "historyBody": "19세기 화학자들은 설탕과 녹말이 탄소(C)와 물(H₂O)의 비율로 이루어져 있다고 보고 이 이름을 붙였어요. carbo는 라틴어 carbo(숯), hydr는 그리스어 hydor(물)에서 왔어요. 한국어 '탄수화물(炭水化物)'도 똑같이 '탄소+물'이라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "carbon",
+   "pos": "명사",
+   "meaning": "탄소",
+   "en": "Trees absorb carbon from the air.",
+   "ko": "나무는 공기 중의 탄소를 흡수해요."
+  },
+  {
+   "word": "hydrate",
+   "pos": "동사",
+   "meaning": "수분을 공급하다",
+   "en": "Drink plenty of water to stay hydrated in summer.",
+   "ko": "여름에는 물을 많이 마셔서 수분을 유지하세요."
+  },
+  {
+   "word": "dehydrate",
+   "pos": "동사",
+   "meaning": "탈수시키다, 건조시키다",
+   "en": "Long hours in the sun can dehydrate your body.",
+   "ko": "햇볕 아래 오래 있으면 몸이 탈수될 수 있어요."
+  },
+  {
+   "word": "hydrogen",
+   "pos": "명사",
+   "meaning": "수소",
+   "en": "Water is made of hydrogen and oxygen.",
+   "ko": "물은 수소와 산소로 이루어져 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 밥, 빵, 국수가 가득 차려진 식탁",
+ "imageCaption": "밥 한 공기, 빵 한 조각, 국수 한 그릇을 떠올려 보세요. 우리 몸의 주요 에너지원인 탄수화물이에요.",
+ "movieLineEn": "Before the big race, I need carbohydrates. Lots of them!",
+ "movieLineKo": "큰 경주 전에는 탄수화물이 필요해. 아주 많이!",
+ "storyTitle": "마라톤 선수의 탄수화물 작전",
+ "story": "마라톤 선수 철수는 경기 전날 carbohydrate(탄수화물)를 잔뜩 먹었어요. 물도 많이 마셔 몸을 hydrate(수분을 공급하다)했죠. dehydrate(탈수시키다)되면 안 되니까요! 그런데 너무 많이 먹어서 배가 hydrogen(수소) 풍선처럼 빵빵해졌어요. 결국 철수는 걷기 대회 1등을 했답니다."
+}

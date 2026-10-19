@@ -1,0 +1,41 @@
+{
+ "word": "skip",
+ "pos": "동사",
+ "phonetic": "[skɪp]",
+ "meaning": "건너뛰다, 거르다, 빼먹다, 깡충깡충 뛰다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "skip",
+   "meaning": "가볍게 뛰다 (leap)",
+   "note": "중세 영어 skippen에서 왔고, 스칸디나비아어에서 온 것으로 추정돼요."
+  }
+ ],
+ "summary": "<strong>skip</strong>은 '깡충 뛰다'에서 뛰어넘듯 <strong>'건너뛰다, 거르다'</strong>가 되었어요.",
+ "historyTitle": "깡충 뛰어 건너뛰기",
+ "historyBody": "skip은 14세기 무렵 중세 영어 skippen(가볍게 뛰다)으로 처음 나타났어요. 스웨덴 방언 skuppa(뛰다)처럼 스칸디나비아어에서 온 것으로 보지만 확실하지는 않아요. '깡충 뛰어넘다'에서 '중간을 건너뛰다, 빼먹다'라는 뜻이 생겼답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "skipping",
+   "pos": "명사",
+   "meaning": "건너뛰기, 줄넘기",
+   "en": "Skipping breakfast can make you tired in class.",
+   "ko": "아침을 거르면 수업 시간에 피곤해질 수 있어요."
+  },
+  {
+   "word": "skipping rope",
+   "pos": "명사",
+   "meaning": "줄넘기 줄",
+   "en": "She bought a skipping rope to exercise at home.",
+   "ko": "그녀는 집에서 운동하려고 줄넘기 줄을 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 신나서 깡충깡충 뛰며 길을 가는 아이 / 광고를 '건너뛰기' 버튼으로 넘기는 손",
+ "imageCaption": "영상 광고에서 '건너뛰기' 버튼을 누르는 순간을 떠올려 보세요.",
+ "movieLineEn": "Let's skip the small talk and get to the point.",
+ "movieLineKo": "잡담은 건너뛰고 본론으로 들어가자.",
+ "storyTitle": "건너뛰기의 달인",
+ "story": "준이는 무엇이든 skip(건너뛰다)하는 달인이에요. 영상 ad(광고)도, 아침 breakfast(아침밥)도, 숙제의 어려운 문제도요. 체육 시간 skipping rope(줄넘기 줄)만큼은 열심히 했죠. 그런데 시험 날, 준이는 습관처럼 마지막 페이지를 skip했어요. 거기엔 '보너스 문제: 이름 쓰기'가 있었답니다."
+}

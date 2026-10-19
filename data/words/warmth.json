@@ -1,0 +1,68 @@
+{
+ "word": "warmth",
+ "pos": "명사",
+ "phonetic": "[wɔːrmθ]",
+ "meaning": "따뜻함, 온기, 온정",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "warm",
+   "meaning": "따뜻한 (warm)",
+   "note": "고대 영어 wearm에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-th",
+   "meaning": "~함 (명사)",
+   "note": "형용사를 명사로 바꾸는 오래된 접미사예요. (strength, length와 같아요)"
+  }
+ ],
+ "summary": "<strong>warm</strong> (따뜻한) + <strong>-th</strong> (~함) = <strong>'따뜻함, 온기'</strong>가 되었어요.",
+ "historyTitle": "-th로 만든 오래된 명사",
+ "historyBody": "warm은 고대 영어 wearm에서 왔고, 독일어 warm과 같은 게르만어 단어예요. -th는 strong → strength, long → length처럼 형용사를 명사로 바꾸는 오래된 접미사로, warmth는 중세 영어 시기부터 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "warm",
+   "pos": "형용사 / 동사",
+   "meaning": "따뜻한 / 데우다",
+   "en": "Wear a warm coat. It's cold outside.",
+   "ko": "따뜻한 코트를 입어. 밖이 추워."
+  },
+  {
+   "word": "warmly",
+   "pos": "부사",
+   "meaning": "따뜻하게, 다정하게",
+   "en": "The host family welcomed me warmly.",
+   "ko": "홈스테이 가족이 나를 따뜻하게 맞아 주었어요."
+  },
+  {
+   "word": "warming",
+   "pos": "명사",
+   "meaning": "온난화, 따뜻해짐",
+   "en": "Global warming is melting the polar ice.",
+   "ko": "지구 온난화가 극지방의 얼음을 녹이고 있어요."
+  },
+  {
+   "word": "warm-up",
+   "pos": "명사",
+   "meaning": "준비 운동",
+   "en": "Always do a warm-up before you run.",
+   "ko": "달리기 전에는 항상 준비 운동을 하세요."
+  },
+  {
+   "word": "warm-hearted",
+   "pos": "형용사",
+   "meaning": "마음이 따뜻한",
+   "en": "Our warm-hearted neighbor shares her kimchi with us.",
+   "ko": "마음씨 따뜻한 이웃이 우리에게 김치를 나눠 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 추운 겨울날 난로 앞에서 손을 녹이는 장면",
+ "imageCaption": "눈 오는 날 난로 앞에서 손을 녹일 때 느끼는 그 포근함이 warmth예요.",
+ "movieLineEn": "I can still feel the warmth of your hand.",
+ "movieLineKo": "아직도 네 손의 온기가 느껴져.",
+ "storyTitle": "겨울 고양이의 선택",
+ "story": "추운 겨울, 길고양이가 warmth(온기)를 찾아 헤맸어요. warm-hearted(마음이 따뜻한) 할머니가 warmly(다정하게) 문을 열어 주셨죠. 고양이는 따뜻한 난로 대신 할머니 무릎을 골랐어요. 그날 이후 할머니 집은 동네 고양이들의 warm(따뜻한) 찜질방이 되었답니다."
+}

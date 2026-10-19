@@ -1,0 +1,61 @@
+{
+ "word": "thoughtful",
+ "pos": "형용사",
+ "phonetic": "[ˈθɔːtfl]",
+ "meaning": "사려 깊은, 배려하는, 생각에 잠긴",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "thought",
+   "meaning": "생각 (thought)",
+   "note": "고대 영어 þoht에서 왔고, think의 명사형이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ful",
+   "meaning": "~으로 가득한",
+   "note": "'~이 가득한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>thought</strong> (생각) + <strong>-ful</strong> (가득한) = '생각이 가득한'에서 <strong>'사려 깊은, 배려하는'</strong>이 되었어요.",
+ "historyTitle": "남을 '생각하는' 마음",
+ "historyBody": "thought는 고대 영어 þoht에서 왔고, think(þencan)와 같은 뿌리예요. thoughtful은 13세기에 '생각에 잠긴'이라는 뜻으로 시작해, 나중에 '남을 생각해 주는, 배려하는'이라는 뜻이 중심이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "thought",
+   "pos": "명사",
+   "meaning": "생각",
+   "en": "That's a great thought!",
+   "ko": "그거 정말 좋은 생각이야!"
+  },
+  {
+   "word": "think",
+   "pos": "동사",
+   "meaning": "생각하다",
+   "en": "Think carefully before you answer.",
+   "ko": "대답하기 전에 신중하게 생각하세요."
+  },
+  {
+   "word": "thoughtless",
+   "pos": "형용사",
+   "meaning": "생각 없는, 경솔한",
+   "en": "It was thoughtless of me to forget your birthday.",
+   "ko": "네 생일을 잊다니 내가 생각이 없었어."
+  },
+  {
+   "word": "thoughtfully",
+   "pos": "부사",
+   "meaning": "사려 깊게",
+   "en": "He thoughtfully left a note for his mom.",
+   "ko": "그는 사려 깊게 엄마에게 쪽지를 남겼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아픈 친구에게 필기 노트를 챙겨 주는 장면",
+ "imageCaption": "결석한 친구를 위해 수업 필기를 깔끔하게 정리해 주는 모습을 떠올려 보세요. 상대를 먼저 생각하는 마음이에요.",
+ "movieLineEn": "That's very thoughtful of you. Thank you so much.",
+ "movieLineKo": "정말 사려 깊으시네요. 정말 고마워요.",
+ "storyTitle": "배려왕의 실수",
+ "story": "친구는 정말 thoughtful(사려 깊은) 사람이에요. 내가 아플 때 죽을 사 들고 왔죠. 그 thought(생각)에 감동한 나는 고맙다고 했어요. 그런데 친구가 thoughtfully(사려 깊게) 덧붙였어요. \"너 매운 거 좋아하잖아. 제일 매운 걸로 샀어!\" 결국 내 목은 더 아파졌고, 다시는 think(생각하다) 없이 고맙다고 안 하기로 했답니다."
+}

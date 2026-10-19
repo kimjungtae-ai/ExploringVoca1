@@ -1,0 +1,41 @@
+{
+ "word": "roam",
+ "pos": "동사",
+ "phonetic": "[roʊm]",
+ "meaning": "돌아다니다, 배회하다, 방랑하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "roam",
+   "meaning": "떠돌아다니다 (wander)",
+   "note": "중세 영어 romen에서 왔지만, 그 이전 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>roam</strong>은 정해진 목적지 없이 <strong>'돌아다니다, 배회하다'</strong>라는 뜻이에요.",
+ "historyTitle": "기원이 수수께끼인 방랑의 단어",
+ "historyBody": "roam은 14세기 무렵 중세 영어 romen(떠돌다)으로 처음 나타났어요. 그 이전 기원은 확실하지 않으며, '로마(Rome)로 가는 순례자'에서 왔다는 이야기는 근거가 약한 민간 어원으로 여겨져요. 오늘날 휴대폰의 '로밍(roaming)'도 바로 이 단어에서 나왔답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "roaming",
+   "pos": "명사",
+   "meaning": "로밍, 돌아다니기",
+   "en": "Turn off data roaming before you travel abroad.",
+   "ko": "해외여행 전에 데이터 로밍을 꺼 두세요."
+  },
+  {
+   "word": "roamer",
+   "pos": "명사",
+   "meaning": "방랑자, 떠돌아다니는 사람",
+   "en": "The old roamer told stories of faraway lands.",
+   "ko": "나이 든 방랑자는 머나먼 땅에 대한 이야기를 들려줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넓은 초원을 자유롭게 돌아다니는 야생마 무리",
+ "imageCaption": "울타리 없는 들판을 바람처럼 이리저리 거니는 말들을 떠올려 보세요.",
+ "movieLineEn": "Wild horses roam free in these mountains.",
+ "movieLineKo": "이 산에서는 야생마들이 자유롭게 돌아다녀.",
+ "storyTitle": "로밍 요금의 비밀",
+ "story": "강아지 보리는 동네를 roam(돌아다니다)하는 roamer(방랑자)예요. 어느 날 주인 휴대폰을 목에 걸고 wander(떠돌다)하다 옆 동네까지 가 버렸죠. 다음 달, 주인은 roaming(로밍) 요금 폭탄 고지서를 받았어요. 알고 보니 보리가 국경 근처 캠핑장까지 travel(여행하다)했던 거예요!"
+}

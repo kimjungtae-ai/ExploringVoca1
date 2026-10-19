@@ -1,0 +1,74 @@
+{
+ "word": "conservation",
+ "pos": "명사",
+ "phonetic": "[ˌkɑːnsərˈveɪʃn]",
+ "meaning": "보존, 보호, (에너지) 절약",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 만들어 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "serv",
+   "meaning": "지키다, 보존하다 (keep, protect)",
+   "note": "라틴어 servare(지키다)에서 왔어요. '섬기다(servire)'와는 다른 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>serv</strong> (지키다) + <strong>-ation</strong> (~하는 것) = '온전히 지켜 내는 것'에서 <strong>'보존, 보호'</strong>가 되었어요.",
+ "historyTitle": "로마인의 '지키다' servare",
+ "historyBody": "conservation은 라틴어 conservatio(보존)에서 왔고, 동사 conservare는 con(완전히)과 servare(지키다, 보호하다)가 합쳐진 말이에요. 19~20세기에 숲과 야생 동물을 지키자는 운동이 일어나면서 '자연 보호'라는 뜻으로 많이 쓰이게 되었어요. serve(섬기다)와는 어근이 달라요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "conserve",
+   "pos": "동사",
+   "meaning": "보존하다, 아끼다",
+   "en": "Turn off the lights to conserve energy.",
+   "ko": "에너지를 아끼려면 불을 끄세요."
+  },
+  {
+   "word": "preserve",
+   "pos": "동사",
+   "meaning": "보존하다, 지키다",
+   "en": "The village tries to preserve its old traditions.",
+   "ko": "그 마을은 옛 전통을 지키려고 노력해요."
+  },
+  {
+   "word": "reserve",
+   "pos": "동사 / 명사",
+   "meaning": "예약하다, 남겨 두다 / 보호 구역",
+   "en": "We reserved a table for four at the restaurant.",
+   "ko": "우리는 식당에 4인용 테이블을 예약했어요."
+  },
+  {
+   "word": "reservation",
+   "pos": "명사",
+   "meaning": "예약, 보류",
+   "en": "I made a reservation at the hotel for Friday.",
+   "ko": "나는 금요일로 호텔을 예약했어요."
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "meaning": "관찰하다, 지키다",
+   "en": "Students observed the stars through a telescope.",
+   "ko": "학생들은 망원경으로 별을 관찰했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲에서 멸종 위기 동물을 보호하는 사람들",
+ "imageCaption": "울타리 안의 숲과 동물들을 정성껏 지키는 레인저를 떠올려 보세요. 온전히 지켜 내는 것이 conservation이에요.",
+ "movieLineEn": "Wildlife conservation isn't a hobby. It's my life.",
+ "movieLineKo": "야생 동물 보호는 취미가 아니야. 내 인생이지.",
+ "storyTitle": "에너지 절약 대작전",
+ "story": "우리 반은 에너지 conservation(절약) 대회에 참가했어요. 전기를 conserve(아끼다)하려고 불도 끄고 에어컨도 껐죠. 반장은 남은 아이스크림을 reserve(남겨 두다)했어요. 선생님이 열심히 observe(관찰하다)하더니 말씀하셨어요. '아이스크림이 녹고 있어!' 결국 다 같이 먹어 버렸답니다."
+}

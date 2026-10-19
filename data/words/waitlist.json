@@ -1,0 +1,61 @@
+{
+ "word": "waitlist",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈweɪtlɪst]",
+ "meaning": "대기자 명단 / 대기자 명단에 올리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "wait",
+   "meaning": "기다리다 (wait)",
+   "note": "고대 북부 프랑스어 waitier(지켜보다)에서 온 말로, 게르만어에 뿌리를 둬요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "list",
+   "meaning": "목록 (list)",
+   "note": "이름이나 항목을 줄줄이 적은 목록이에요."
+  }
+ ],
+ "summary": "<strong>wait</strong> (기다리다) + <strong>list</strong> (목록) = <strong>'기다리는 사람들의 명단, 대기자 명단'</strong>이 되었어요.",
+ "historyTitle": "망보던 사람에서 기다리는 사람으로",
+ "historyBody": "wait는 고대 북부 프랑스어 waitier에서 왔는데, 원래 '지켜보다, 망보다'라는 뜻이었어요. 지켜보며 때를 '기다리다'로 뜻이 바뀌었죠. 여기에 list가 붙은 waitlist는 20세기에 생긴 비교적 새로운 합성어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wait",
+   "pos": "동사",
+   "meaning": "기다리다",
+   "en": "Please wait here until your name is called.",
+   "ko": "이름이 불릴 때까지 여기서 기다려 주세요."
+  },
+  {
+   "word": "await",
+   "pos": "동사",
+   "meaning": "기다리다 (격식)",
+   "en": "Exciting adventures await you in the jungle.",
+   "ko": "정글에서 신나는 모험이 당신을 기다려요."
+  },
+  {
+   "word": "waiter",
+   "pos": "명사",
+   "meaning": "웨이터, 종업원",
+   "en": "The waiter brought us some water.",
+   "ko": "웨이터가 우리에게 물을 가져다주었어요."
+  },
+  {
+   "word": "checklist",
+   "pos": "명사",
+   "meaning": "점검표",
+   "en": "Make a checklist before you pack for the trip.",
+   "ko": "여행 짐을 싸기 전에 점검표를 만드세요."
+  }
+ ],
+ "imageSense": "대표 의미: 인기 식당 앞에서 명단에 이름을 적는 사람들",
+ "imageCaption": "줄이 긴 맛집 앞에서 태블릿에 이름을 적고 차례를 기다리는 모습을 떠올려 보세요.",
+ "movieLineEn": "You're on the waitlist. Number three hundred and twelve.",
+ "movieLineKo": "대기자 명단에 올라가셨어요. 312번입니다.",
+ "storyTitle": "대기 번호 1번",
+ "story": "유명한 빵집에 가니 waitlist(대기자 명단)가 엄청 길었어요. 나는 이름을 적고 끈기 있게 wait(기다리다)했죠. 두 시간 뒤 waiter(종업원)가 외쳤어요. \"1번 손님!\" 신나서 갔더니 사장님이 말했어요. \"오늘 빵은 다 팔렸어요. 대신 내일의 행운이 await(기다리다)합니다!\""
+}

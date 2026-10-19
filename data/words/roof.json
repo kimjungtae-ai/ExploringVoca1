@@ -1,0 +1,48 @@
+{
+ "word": "roof",
+ "pos": "명사",
+ "phonetic": "[ruːf]",
+ "meaning": "지붕, 꼭대기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "roof (hrof)",
+   "meaning": "지붕, 덮개 (roof)",
+   "note": "고대 영어 hrof에서 온 게르만계 토박이 단어예요."
+  }
+ ],
+ "summary": "<strong>roof</strong>는 고대 영어 hrof에서 온 말로 <strong>'지붕'</strong>을 뜻해요.",
+ "historyTitle": "천 년 넘게 머리 위를 지켜 온 단어",
+ "historyBody": "roof는 고대 영어 hrof(지붕, 꼭대기)에서 왔어요. 고대 노르드어 hróf(배를 덮는 헛간)와 친척이지만, 그보다 더 오래된 기원은 확실하지 않아요. 다른 게르만어 대부분은 '지붕'을 dach 계열 단어로 부르는데, 영어는 독특하게 roof를 지켜 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rooftop",
+   "pos": "명사",
+   "meaning": "옥상, 지붕 꼭대기",
+   "en": "We watched the fireworks from the rooftop.",
+   "ko": "우리는 옥상에서 불꽃놀이를 봤어요."
+  },
+  {
+   "word": "roofing",
+   "pos": "명사",
+   "meaning": "지붕 재료, 지붕 공사",
+   "en": "The roofing on this house needs to be replaced.",
+   "ko": "이 집의 지붕재는 교체해야 해요."
+  },
+  {
+   "word": "roofless",
+   "pos": "형용사",
+   "meaning": "지붕이 없는",
+   "en": "The roofless castle was open to the sky.",
+   "ko": "지붕이 없는 그 성은 하늘이 그대로 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 빗방울이 지붕 위로 톡톡 떨어지는 집",
+ "imageCaption": "비 오는 날, 빨간 지붕 아래에서 빗소리를 듣는 아늑한 모습을 떠올려 보세요.",
+ "movieLineEn": "Get everyone off the roof before the storm hits!",
+ "movieLineKo": "폭풍이 오기 전에 모두 지붕에서 내려오게 해!",
+ "storyTitle": "옥상 위의 산타",
+ "story": "크리스마스 이브, 우리 가족은 rooftop(옥상)에서 산타를 기다렸어요. 아빠는 roof(지붕)에 썰매가 착륙할 수 있게 roofing(지붕 공사)까지 하셨죠. 자정이 되자 무언가가 land(착륙하다)했어요. 그건 배달 drone(드론)이었고, 상자 안엔 아빠가 몰래 주문한 치킨이 있었답니다."
+}

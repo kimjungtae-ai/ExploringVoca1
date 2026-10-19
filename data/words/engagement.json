@@ -1,0 +1,67 @@
+{
+ "word": "engagement",
+ "pos": "명사",
+ "phonetic": "[ɪnˈɡeɪdʒmənt]",
+ "meaning": "약혼, 참여, 관여, 약속",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~안에, ~하게 만들다 (in, make)",
+   "note": "어떤 상태 안으로 들어가게 한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gage",
+   "meaning": "담보, 약속의 증표 (pledge)",
+   "note": "고대 프랑스어 gage(담보)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~함, ~하는 것 (명사형)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (안에) + <strong>gage</strong> (약속의 증표) + <strong>-ment</strong> (명사) = '약속으로 묶이는 것'에서 <strong>'약혼, 참여'</strong>가 되었어요.",
+ "historyTitle": "약속으로 묶는 말 engagier",
+ "historyBody": "고대 프랑스어 engagier는 '담보를 걸고 약속하다'라는 뜻이었어요. 17세기 무렵부터 영어 engagement는 '결혼 약속'이라는 뜻으로도 쓰였죠. 오늘날 수능 지문에서는 '참여, 관여'라는 뜻(student engagement 등)으로 자주 나온답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "engage",
+   "pos": "동사",
+   "meaning": "참여하다, 관여시키다",
+   "en": "Many teenagers engage in volunteer work during vacation.",
+   "ko": "많은 십대가 방학 동안 봉사 활동에 참여해요."
+  },
+  {
+   "word": "engaged",
+   "pos": "형용사",
+   "meaning": "약혼한, 몰두한",
+   "en": "My sister got engaged to her college friend.",
+   "ko": "언니가 대학 친구와 약혼했어요."
+  },
+  {
+   "word": "engaging",
+   "pos": "형용사",
+   "meaning": "매력적인, 마음을 끄는",
+   "en": "The speaker gave an engaging talk about space travel.",
+   "ko": "그 연사는 우주여행에 관한 흥미로운 강연을 했어요."
+  },
+  {
+   "word": "disengage",
+   "pos": "동사",
+   "meaning": "풀다, 손을 떼다",
+   "en": "Students may disengage when lessons are too difficult.",
+   "ko": "수업이 너무 어려우면 학생들은 흥미를 잃고 손을 놓을 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 수업 시간에 손을 번쩍 들고 토론에 참여하는 학생들",
+ "imageCaption": "모두가 손을 들고 눈을 반짝이는 교실을 떠올리세요. 수업에 '묶여' 함께하는 것이 engagement예요.",
+ "movieLineEn": "Our engagement is off! I'm marrying the dragon instead!",
+ "movieLineKo": "우리 약혼은 취소야! 난 대신 용이랑 결혼할 거야!",
+ "storyTitle": "참여율 100%의 비밀",
+ "story": "선생님은 학생들의 engagement(참여)가 너무 낮아 고민이었어요. 그래서 engaging(흥미로운) 퀴즈를 준비했죠. 모두가 퀴즈에 engage(참여하다)했고, 아무도 disengage(손을 떼다)하지 않았어요. 비결을 묻자 선생님이 웃었어요. \"1등 상품이 '오늘 숙제 면제권'이거든요.\" 다음 날 교실엔 engaged(몰두한) 학생만 가득했답니다."
+}

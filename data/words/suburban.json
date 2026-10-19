@@ -1,0 +1,67 @@
+{
+ "word": "suburban",
+ "pos": "형용사",
+ "phonetic": "[səˈbɜːrbən]",
+ "meaning": "교외의, 교외에 사는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sub-",
+   "meaning": "아래에, 가까이 (under, near)",
+   "note": "여기서는 '바로 아래, 근처'라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "urb",
+   "meaning": "도시 (city)",
+   "note": "라틴어 urbs(도시)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-an",
+   "meaning": "~의, ~에 관한",
+   "note": "형용사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>sub-</strong> (가까이) + <strong>urb</strong> (도시) + <strong>-an</strong> (~의) = '도시 바로 옆의'라는 뜻에서 <strong>'교외의'</strong>가 되었어요.",
+ "historyTitle": "로마 성벽 바로 바깥 동네",
+ "historyBody": "라틴어 suburbium은 도시(urbs) 성벽 바로 아래, 즉 근처에 있는 지역을 뜻했어요. 고대 로마에도 성 밖에 사람들이 모여 사는 동네가 있었죠. 20세기 자동차가 보급되면서 도시 근교의 '교외 주택가'가 크게 늘었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "suburb",
+   "pos": "명사",
+   "meaning": "교외, 근교",
+   "en": "They moved to a quiet suburb of Seoul.",
+   "ko": "그들은 서울 근교의 조용한 동네로 이사했어요."
+  },
+  {
+   "word": "urban",
+   "pos": "형용사",
+   "meaning": "도시의",
+   "en": "Urban areas often have heavy traffic.",
+   "ko": "도시 지역은 교통이 혼잡한 경우가 많아요."
+  },
+  {
+   "word": "urbanization",
+   "pos": "명사",
+   "meaning": "도시화",
+   "en": "Urbanization changed how people live and work.",
+   "ko": "도시화는 사람들이 살고 일하는 방식을 바꿨어요."
+  },
+  {
+   "word": "urbanize",
+   "pos": "동사",
+   "meaning": "도시화하다",
+   "en": "The farmland was quickly urbanized.",
+   "ko": "그 농지는 빠르게 도시화되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도시 근처 잔디 마당이 있는 주택가",
+ "imageCaption": "도심에서 차로 30분 떨어진, 잔디 마당과 비슷한 집들이 늘어선 조용한 동네를 떠올려 보세요.",
+ "movieLineEn": "Life in this suburban town is too quiet. Something's wrong.",
+ "movieLineKo": "이 교외 마을의 삶은 너무 조용해. 뭔가 이상해.",
+ "storyTitle": "교외로 간 도시 쥐",
+ "story": "urban(도시의) 쥐가 시끄러운 도시를 떠나 suburb(교외)로 이사했어요. 넓은 마당이 있는 suburban(교외의) 생활은 평화로웠죠. 그런데 몇 년 뒤 urbanization(도시화)이 진행되어 집 앞에 대형 마트가 생겼어요. 쥐는 화내기는커녕 신나서 매일 시식 코너로 출근했답니다!"
+}

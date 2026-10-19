@@ -1,0 +1,68 @@
+{
+ "word": "recharge",
+ "pos": "동사",
+ "phonetic": "[ˌriːˈtʃɑːrdʒ]",
+ "meaning": "재충전하다, (기운을) 회복하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "같은 일을 한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "charge",
+   "meaning": "짐을 싣다, 채우다 (load)",
+   "note": "후기 라틴어 carricare(수레에 짐을 싣다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>charge</strong> (채우다) = 비어 버린 것을 다시 채운다는 뜻에서 <strong>'재충전하다'</strong>가 되었어요.",
+ "historyTitle": "수레(carrus)에 짐 싣기",
+ "historyBody": "charge는 후기 라틴어 carricare(수레에 짐을 싣다)에서 왔고, 그 뿌리는 라틴어 carrus(수레)예요. 고대 프랑스어 chargier를 거쳐 영어로 들어왔어요. 짐을 싣는 것에서 '전기를 채우다'라는 뜻이 생겼고, recharge는 배터리뿐 아니라 사람이 쉬면서 기운을 되찾는다는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "charge",
+   "pos": "동사/명사",
+   "meaning": "청구하다, 충전하다 / 요금, 책임",
+   "en": "The hotel charges extra for breakfast.",
+   "ko": "그 호텔은 아침 식사에 추가 요금을 받아요."
+  },
+  {
+   "word": "car",
+   "pos": "명사",
+   "meaning": "자동차",
+   "en": "We traveled across the country by car.",
+   "ko": "우리는 차로 전국을 여행했어요."
+  },
+  {
+   "word": "carry",
+   "pos": "동사",
+   "meaning": "나르다, 들고 다니다",
+   "en": "Can you help me carry these boxes?",
+   "ko": "이 상자들 나르는 것 좀 도와줄래?"
+  },
+  {
+   "word": "cargo",
+   "pos": "명사",
+   "meaning": "화물",
+   "en": "The ship was full of cargo from Asia.",
+   "ko": "그 배는 아시아에서 온 화물로 가득했어요."
+  },
+  {
+   "word": "discharge",
+   "pos": "동사",
+   "meaning": "방출하다, 퇴원시키다",
+   "en": "He was discharged from the hospital yesterday.",
+   "ko": "그는 어제 병원에서 퇴원했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 배터리 아이콘이 빨간색에서 초록색으로 차오르는 장면",
+ "imageCaption": "충전기를 꽂자 0%였던 배터리가 쭉쭉 차오르는 모습, 그리고 낮잠 후 개운한 내 모습을 떠올려 보세요.",
+ "movieLineEn": "I need a weekend to recharge my batteries.",
+ "movieLineKo": "나 주말 동안 좀 재충전해야겠어.",
+ "storyTitle": "충전이 필요한 로봇",
+ "story": "로봇 청소기가 하루 종일 일하다 지쳤어요. recharge(재충전하다)하려고 충전기로 갔는데, 고양이가 그 위에서 자고 있었죠! 로봇은 고양이를 carry(나르다)할 수 없어서 기다렸어요. 결국 배터리가 discharge(방출되다)되어 멈췄고, 다음 날 주인은 '고양이 충전기 이용 요금'을 charge(청구하다)하겠다고 선언했대요."
+}

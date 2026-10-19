@@ -1,0 +1,61 @@
+{
+ "word": "octopus",
+ "pos": "명사",
+ "phonetic": "[ˈɑːktəpəs]",
+ "meaning": "문어",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "octo-",
+   "meaning": "여덟 (eight)",
+   "note": "그리스어 oktō(여덟)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pus",
+   "meaning": "발 (foot)",
+   "note": "그리스어 pous(발)에서 왔어요. tripod의 pod와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>octo</strong> (여덟) + <strong>pus</strong> (발) = 발이 여덟 개라서 <strong>'문어'</strong>가 되었어요.",
+ "historyTitle": "발이 여덟 개인 바다 생물",
+ "historyBody": "octopus는 그리스어 oktōpous(여덟 개의 발)에서 근대 라틴어를 거쳐 18세기에 영어로 들어왔어요. 복수형은 보통 octopuses라고 해요. octopi는 라틴어식이라 착각해서 만든 형태지만 일상에서도 쓰이긴 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "October",
+   "pos": "명사",
+   "meaning": "10월",
+   "en": "My birthday is in October.",
+   "ko": "내 생일은 10월이에요."
+  },
+  {
+   "word": "octagon",
+   "pos": "명사",
+   "meaning": "팔각형",
+   "en": "A stop sign is shaped like an octagon.",
+   "ko": "정지 표지판은 팔각형 모양이에요."
+  },
+  {
+   "word": "octave",
+   "pos": "명사",
+   "meaning": "옥타브, 8도 음정",
+   "en": "She can sing one octave higher than me.",
+   "ko": "그녀는 나보다 한 옥타브 높게 노래할 수 있어요."
+  },
+  {
+   "word": "tripod",
+   "pos": "명사",
+   "meaning": "삼각대",
+   "en": "He set his camera on a tripod.",
+   "ko": "그는 카메라를 삼각대 위에 세웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 바닷속에서 다리 여덟 개를 흐느적거리는 문어",
+ "imageCaption": "수족관 유리 너머에서 다리 여덟 개를 쭉 펼치고 헤엄치는 문어를 떠올려 보세요.",
+ "movieLineEn": "Watch out! That octopus is stealing your camera!",
+ "movieLineKo": "조심해! 저 문어가 네 카메라를 훔쳐 가고 있어!",
+ "storyTitle": "문어의 피아노 레슨",
+ "story": "October(10월)에 octopus(문어)가 피아노 학원에 등록했어요. 다리가 여덟 개라 octave(옥타브)를 한 번에 짚었죠! 선생님은 감탄했지만 문제가 있었어요. octagon(팔각형) 모양 의자에 앉자마자 다리가 건반 위 모든 음을 동시에 눌러 버렸거든요. 결국 문어는 드럼 반으로 옮겼대요."
+}

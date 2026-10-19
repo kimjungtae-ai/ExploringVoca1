@@ -1,0 +1,54 @@
+{
+ "word": "barely",
+ "pos": "부사",
+ "phonetic": "[ˈberli]",
+ "meaning": "간신히, 겨우, 거의 ~않다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bare",
+   "meaning": "벌거벗은, 아무것도 없는 (bare)",
+   "note": "덮인 것 없이 딱 그것만 있는 상태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>bare</strong> (아무것도 없는) + <strong>-ly</strong> (~하게) = '딱 그것만, 여유 없이'에서 <strong>'간신히, 겨우'</strong>가 되었어요.",
+ "historyTitle": "벌거벗은 상태에서 '겨우'로",
+ "historyBody": "bare는 고대 영어 bær(벌거벗은, 덮이지 않은)에서 온 게르만어 단어예요. barely는 처음에 '숨김없이, 그대로'라는 뜻이었다가 '딱 그만큼만, 겨우'라는 뜻으로 바뀌었어요. 수능에서는 '거의 ~않다'라는 부정의 의미로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bare",
+   "pos": "형용사",
+   "meaning": "벌거벗은, 맨-",
+   "en": "The trees were bare in the middle of winter.",
+   "ko": "한겨울에 나무들은 앙상했어요."
+  },
+  {
+   "word": "barefoot",
+   "pos": "형용사 / 부사",
+   "meaning": "맨발의 / 맨발로",
+   "en": "The children ran barefoot on the beach.",
+   "ko": "아이들은 해변에서 맨발로 뛰어다녔어요."
+  },
+  {
+   "word": "barehanded",
+   "pos": "형용사 / 부사",
+   "meaning": "맨손의 / 맨손으로",
+   "en": "He caught the fish barehanded.",
+   "ko": "그는 맨손으로 물고기를 잡았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 버스 문이 닫히기 직전에 간신히 올라타는 학생",
+ "imageCaption": "문이 닫히기 1초 전에 겨우 몸을 밀어 넣는 아슬아슬한 순간을 떠올려 보세요.",
+ "movieLineEn": "I barely made it out alive!",
+ "movieLineKo": "나 간신히 살아서 빠져나왔어!",
+ "storyTitle": "맨발의 지각생",
+ "story": "지훈이는 늦잠을 자서 신발도 못 신고 barefoot(맨발로) 뛰었어요. bare(맨) 발로 운동장을 가로질러 barely(간신히) 교실에 도착했죠. 숨을 헐떡이며 자리에 앉았는데, 친구가 말했어요. '오늘 일요일이야.' 지훈이는 barehanded(맨손으로) 얼굴을 감쌌답니다."
+}

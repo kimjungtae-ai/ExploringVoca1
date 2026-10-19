@@ -1,0 +1,61 @@
+{
+ "word": "reasonable",
+ "pos": "형용사",
+ "phonetic": "[ˈriːznəbl]",
+ "meaning": "합리적인, 타당한, (가격이) 적당한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "reason",
+   "meaning": "이성, 이유 (reason)",
+   "note": "라틴어 ratio(계산, 이성)에서 고대 프랑스어 raisun을 거쳐 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는 (able)",
+   "note": "'~할 만한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>reason</strong> (이성) + <strong>-able</strong> (~할 만한) = 이성에 맞을 만한 것이라서 <strong>'합리적인, 적당한'</strong>이 되었어요.",
+ "historyTitle": "로마인의 '계산(ratio)'",
+ "historyBody": "reason은 라틴어 ratio(계산, 판단, 이성)에서 고대 프랑스어 raisun을 거쳐 13세기 영어로 들어왔어요. ratio는 reri(계산하다, 생각하다)에서 나온 말이에요. reasonable은 14세기부터 쓰였고, '이치에 맞는'에서 '가격이 적당한'이라는 뜻으로도 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reason",
+   "pos": "명사",
+   "meaning": "이유, 이성",
+   "en": "There must be a reason for his silence.",
+   "ko": "그가 침묵하는 데는 분명 이유가 있을 거예요."
+  },
+  {
+   "word": "rational",
+   "pos": "형용사",
+   "meaning": "이성적인, 합리적인",
+   "en": "Try to make a rational decision, not an emotional one.",
+   "ko": "감정적이 아니라 이성적인 결정을 하도록 해 보세요."
+  },
+  {
+   "word": "ratio",
+   "pos": "명사",
+   "meaning": "비율",
+   "en": "The ratio of boys to girls in our class is 1 to 1.",
+   "ko": "우리 반 남녀 비율은 1 대 1이에요."
+  },
+  {
+   "word": "unreasonable",
+   "pos": "형용사",
+   "meaning": "불합리한, 터무니없는",
+   "en": "Asking us to finish in one hour is unreasonable.",
+   "ko": "한 시간 안에 끝내라는 건 무리한 요구예요."
+  }
+ ],
+ "imageSense": "대표 의미: 저울 양쪽이 딱 균형을 이룬 모습",
+ "imageCaption": "서로 의견이 달라도 고개를 끄덕일 만한 공정한 해결책을 떠올려 보세요.",
+ "movieLineEn": "Let's be reasonable. Nobody needs to get hurt.",
+ "movieLineKo": "합리적으로 하자. 아무도 다칠 필요 없어.",
+ "storyTitle": "합리적인 협상가",
+ "story": "동생이 용돈 협상을 시작했어요. 처음엔 하루 만 원이라는 unreasonable(터무니없는) 요구! 아빠가 reason(이유)을 묻자 동생은 '물가 ratio(비율)가 올랐어요'라며 rational(이성적인) 척을 했죠. 결국 reasonable(합리적인) 금액으로 합의했는데, 그 조건이 '아빠 구두 닦기'였대요. 동생은 이제 구두닦이 사업을 해요!"
+}

@@ -1,0 +1,55 @@
+{
+ "word": "tint",
+ "pos": "명사 / 동사",
+ "phonetic": "[tɪnt]",
+ "meaning": "엷은 색조, 색깔 / 엷게 물들이다, 색을 입히다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tint (← tinctus)",
+   "meaning": "물들인 (dyed)",
+   "note": "라틴어 tingere(물들이다)의 과거분사 tinctus가 줄어든 모양이에요. 더 쪼개기는 어려워요."
+  }
+ ],
+ "summary": "라틴어 <strong>tinctus</strong> (물들인)에서 와서 <strong>'엷은 색조, 엷게 물들이다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "염색 장인의 라틴어 tingere",
+ "historyBody": "tint는 라틴어 'tingere(물들이다, 적시다)'의 과거분사 'tinctus'에서 왔어요. 18세기 영어에서 tinct가 이탈리아어 tinta의 영향을 받아 tint로 바뀌었다고 해요. 같은 뿌리에서 tinge(엷은 기미), 그리고 고대 프랑스어를 거친 stain(얼룩)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tinge",
+   "pos": "명사 / 동사",
+   "meaning": "엷은 색, 기미 / 엷게 물들이다",
+   "en": "There was a tinge of sadness in her voice.",
+   "ko": "그녀의 목소리에는 슬픔의 기미가 살짝 묻어 있었어요."
+  },
+  {
+   "word": "tinted",
+   "pos": "형용사",
+   "meaning": "색이 들어간, 선팅된",
+   "en": "The car has tinted windows to block the sunlight.",
+   "ko": "그 차는 햇빛을 막으려고 창문에 색을 넣었어요."
+  },
+  {
+   "word": "stain",
+   "pos": "명사 / 동사",
+   "meaning": "얼룩 / 얼룩지게 하다",
+   "en": "I spilled coffee and got a stain on my white shirt.",
+   "ko": "커피를 쏟아서 흰 셔츠에 얼룩이 생겼어요."
+  },
+  {
+   "word": "tincture",
+   "pos": "명사",
+   "meaning": "팅크제 (약물 용액), 기미",
+   "en": "The doctor used a tincture of iodine to clean the wound.",
+   "ko": "의사는 상처를 소독하려고 요오드 팅크를 사용했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 투명한 유리창에 옅은 파란색 필름을 붙인 모습",
+ "imageCaption": "물에 물감 한 방울을 떨어뜨려 아주 연하게 물든 모습을 떠올려 보세요. 진하지 않고 살짝 물든 색이 tint예요.",
+ "movieLineEn": "Why does the sky have a pink tint tonight?",
+ "movieLineKo": "오늘 밤 하늘은 왜 분홍빛을 띠고 있지?",
+ "storyTitle": "머리 염색 대작전",
+ "story": "수아는 머리에 분홍 tint(엷은 색조)를 넣으려다 실수로 셔츠에 stain(얼룩)을 남겼어요. 거울을 보니 머리엔 겨우 tinge(엷은 기미)만 남았죠. 속상해서 tinted(색이 들어간) 선글라스를 썼는데, 친구들이 셔츠 얼룩이 최신 패션이냐며 따라 했답니다!"
+}

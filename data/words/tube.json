@@ -1,0 +1,48 @@
+{
+ "word": "tube",
+ "pos": "명사",
+ "phonetic": "[tuːb]",
+ "meaning": "관, 튜브, (런던) 지하철",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tube (← tubus)",
+   "meaning": "관, 파이프 (pipe)",
+   "note": "라틴어 tubus(관)에서 온 말이라 영어에서는 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "라틴어 <strong>tubus</strong> (관)에서 와서 <strong>'관, 튜브'</strong>가 되었어요.",
+ "historyTitle": "로마의 관에서 런던 지하철까지",
+ "historyBody": "tube는 라틴어 'tubus(관, 파이프)'에서 프랑스어를 거쳐 17세기에 영어로 들어왔어요. 둥근 관 모양의 터널을 달리는 런던 지하철은 그래서 'the Tube'라는 별명을 얻었죠. 라틴어 'tuba(나팔)'도 tubus와 관련 있는 말로 보고 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tubular",
+   "pos": "형용사",
+   "meaning": "관 모양의",
+   "en": "The chair has a light tubular metal frame.",
+   "ko": "그 의자는 가벼운 관 모양 금속 틀로 되어 있어요."
+  },
+  {
+   "word": "tubing",
+   "pos": "명사",
+   "meaning": "관, 튜브 재료",
+   "en": "The scientist connected the bottles with plastic tubing.",
+   "ko": "과학자는 플라스틱 관으로 병들을 연결했어요."
+  },
+  {
+   "word": "test tube",
+   "pos": "명사",
+   "meaning": "시험관",
+   "en": "Be careful not to drop the test tube.",
+   "ko": "시험관을 떨어뜨리지 않도록 조심하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 치약 튜브처럼 길고 속이 빈 관",
+ "imageCaption": "속이 비어 있는 긴 관을 떠올려 보세요. 치약 튜브, 시험관, 둥근 지하철 터널이 모두 tube예요.",
+ "movieLineEn": "Squeeze the tube from the bottom, like a civilized person.",
+ "movieLineKo": "교양 있는 사람답게 튜브는 아래부터 짜.",
+ "storyTitle": "과학실의 대발견",
+ "story": "과학 시간에 민지는 test tube(시험관) 속에 이것저것 섞었어요. 연기가 나자 plastic tubing(관)이 꿈틀거렸죠. 모두가 놀라 tube(관)를 바라봤는데, 그 안에서 나온 건 딸기 향 젤리였어요! 선생님은 tubular(관 모양의) 젤리 특허를 내자고 하셨답니다."
+}

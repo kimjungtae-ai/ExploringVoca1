@@ -1,0 +1,74 @@
+{
+ "word": "conscious",
+ "pos": "형용사",
+ "phonetic": "[ˈkɑːnʃəs]",
+ "meaning": "의식하는, 알고 있는, 의식이 있는, 의도적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께, 완전히 (with, thoroughly)",
+   "note": "함께 알거나 속속들이 안다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sci",
+   "meaning": "알다 (know)",
+   "note": "라틴어 scire(알다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ous",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께, 완전히) + <strong>sci</strong> (알다) + <strong>-ous</strong> (~한) = '속속들이 알고 있는'에서 <strong>'의식하는, 알고 있는'</strong>이 되었어요.",
+ "historyTitle": "'함께 아는 것'에서 '의식'으로",
+ "historyBody": "conscious는 라틴어 conscius(함께 알고 있는, 비밀을 공유한)에서 왔어요. con(함께)과 scire(알다)가 합쳐진 말로, 처음에는 남과 비밀을 함께 아는 것을 뜻했어요. 점차 '스스로 알아차리는'이라는 뜻이 되었고, science(과학)도 같은 scire에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "unconscious",
+   "pos": "형용사",
+   "meaning": "의식을 잃은, 무의식적인",
+   "en": "He fell and was unconscious for a few minutes.",
+   "ko": "그는 넘어져서 몇 분 동안 의식을 잃었어요."
+  },
+  {
+   "word": "consciousness",
+   "pos": "명사",
+   "meaning": "의식, 자각",
+   "en": "She slowly regained consciousness in the hospital.",
+   "ko": "그녀는 병원에서 천천히 의식을 되찾았어요."
+  },
+  {
+   "word": "conscience",
+   "pos": "명사",
+   "meaning": "양심",
+   "en": "My conscience told me to return the wallet.",
+   "ko": "양심이 나에게 지갑을 돌려주라고 말했어요."
+  },
+  {
+   "word": "science",
+   "pos": "명사",
+   "meaning": "과학",
+   "en": "Science helps us understand the world around us.",
+   "ko": "과학은 우리 주변 세상을 이해하는 데 도움을 줘요."
+  },
+  {
+   "word": "subconscious",
+   "pos": "형용사 / 명사",
+   "meaning": "잠재의식의 / 잠재의식",
+   "en": "Dreams may reveal our subconscious fears.",
+   "ko": "꿈은 우리의 잠재의식 속 두려움을 드러낼지도 몰라요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울 앞에서 자신의 표정을 의식하며 바라보는 학생",
+ "imageCaption": "다른 사람들의 시선을 느끼며 '아, 내가 지금 이러고 있구나' 알아차리는 순간을 떠올려 보세요.",
+ "movieLineEn": "Are you conscious? Can you hear me?",
+ "movieLineKo": "정신 있어? 내 말 들려?",
+ "storyTitle": "양심 있는 로봇",
+ "story": "science(과학) 대회에 나온 로봇은 스스로 conscious(의식하는)하다고 주장했어요. 심사위원이 테스트하자 로봇은 갑자기 conscience(양심)가 찔린다며 자백했죠. '사실 제 안에 사람이 들어 있어요!' 그 사람은 너무 더워서 unconscious(의식을 잃은) 직전이었대요. 결국 '연기상'을 받았답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "suitable",
+ "pos": "형용사",
+ "phonetic": "[ˈsuːtəbl]",
+ "meaning": "적합한, 알맞은, 어울리는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "suit",
+   "meaning": "맞다, 어울리다 (suit)",
+   "note": "라틴어 sequi(따르다)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는",
+   "note": "'~하기에 알맞은'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>suit</strong> (맞다) + <strong>-able</strong> (~할 수 있는) = '맞출 수 있는'이라는 뜻에서 <strong>'적합한, 알맞은'</strong>이 되었어요.",
+ "historyTitle": "조건을 '따르는' 것",
+ "historyBody": "suit는 라틴어 sequi(따르다)에서 왔어요. 무언가가 조건을 잘 '따라 맞으면' 어울린다고 하게 되었죠. 여기에 -able이 붙은 suitable은 16세기부터 '적합한'이라는 뜻으로 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "suit",
+   "pos": "동사 / 명사",
+   "meaning": "어울리다, 맞다 / 정장",
+   "en": "Does Friday suit you for the meeting?",
+   "ko": "회의 날짜로 금요일 괜찮으세요?"
+  },
+  {
+   "word": "suitably",
+   "pos": "부사",
+   "meaning": "적절하게",
+   "en": "He was suitably dressed for the party.",
+   "ko": "그는 파티에 맞게 적절히 옷을 입었어요."
+  },
+  {
+   "word": "unsuitable",
+   "pos": "형용사",
+   "meaning": "부적합한",
+   "en": "The soil is unsuitable for growing rice.",
+   "ko": "그 흙은 벼를 기르기에 적합하지 않아요."
+  },
+  {
+   "word": "pursue",
+   "pos": "동사",
+   "meaning": "추구하다, 뒤쫓다",
+   "en": "He decided to pursue his dream of acting.",
+   "ko": "그는 연기라는 꿈을 좇기로 결심했어요."
+  },
+  {
+   "word": "consequence",
+   "pos": "명사",
+   "meaning": "결과",
+   "en": "Climate change has serious consequences.",
+   "ko": "기후 변화는 심각한 결과를 가져와요."
+  }
+ ],
+ "imageSense": "대표 의미: 상황에 딱 맞는 물건을 고르는 장면",
+ "imageCaption": "등산 갈 때 구두 대신 등산화를 고르는 모습을 떠올려 보세요. 상황에 알맞은(suitable) 선택이에요.",
+ "movieLineEn": "This is not a suitable place for a picnic. It's a swamp!",
+ "movieLineKo": "여기는 소풍하기에 적합한 곳이 아니야. 늪이잖아!",
+ "storyTitle": "적합한 애완동물",
+ "story": "동생이 아파트에 suitable(적합한) 애완동물을 찾았어요. 강아지는 시끄러워 unsuitable(부적합한)하다는 결론이 났죠. 고민 끝에 조용한 거북이로 정했는데, 이름은 '번개'였어요. consequence(결과)적으로 번개는 동생 꿈을 suit(어울리다)하지 않게 하루 종일 잠만 잤답니다."
+}

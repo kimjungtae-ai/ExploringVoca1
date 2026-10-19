@@ -1,0 +1,68 @@
+{
+ "word": "remotely",
+ "pos": "부사",
+ "phonetic": "[rɪˈmoʊtli]",
+ "meaning": "원격으로, 멀리서, 아주 조금(도)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "remote",
+   "meaning": "멀리 떨어진, 원격의 (distant)",
+   "note": "라틴어 remotus(멀리 옮겨진)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사를 만듦)",
+   "note": "형용사 뒤에 붙어 '어떻게'를 나타내는 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>remote</strong> (멀리 떨어진) + <strong>-ly</strong> (~하게) = <strong>'원격으로, 멀리서'</strong>라는 뜻이에요.",
+ "historyTitle": "멀리서 일하는 시대의 단어",
+ "historyBody": "remote는 라틴어 removere(멀리 옮기다)의 과거분사 remotus에서 왔어요. 여기에 영어 부사 접미사 -ly가 붙어 remotely가 되었죠. 요즘은 'work remotely(재택·원격 근무하다)'라는 표현으로 수능 지문에도 자주 나온답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "remote",
+   "pos": "형용사",
+   "meaning": "외딴, 원격의",
+   "en": "They live in a remote area far from the city.",
+   "ko": "그들은 도시에서 멀리 떨어진 외딴 지역에 살아요."
+  },
+  {
+   "word": "remove",
+   "pos": "동사",
+   "meaning": "제거하다",
+   "en": "The teacher removed the old posters from the wall.",
+   "ko": "선생님께서 벽에서 오래된 포스터를 떼어 내셨어요."
+  },
+  {
+   "word": "move",
+   "pos": "동사",
+   "meaning": "움직이다",
+   "en": "The students moved their desks into a circle.",
+   "ko": "학생들은 책상을 둥글게 옮겼어요."
+  },
+  {
+   "word": "motion",
+   "pos": "명사",
+   "meaning": "움직임",
+   "en": "The slow motion of the clouds made me sleepy.",
+   "ko": "구름의 느린 움직임에 나는 졸음이 왔어요."
+  },
+  {
+   "word": "promote",
+   "pos": "동사",
+   "meaning": "촉진하다, 홍보하다",
+   "en": "The city promotes the festival through social media.",
+   "ko": "시는 소셜 미디어로 축제를 홍보해요."
+  }
+ ],
+ "imageSense": "대표 의미: 집에서 노트북으로 회의에 참여하는 모습",
+ "imageCaption": "파자마 차림으로 화상 회의에 들어간 직장인처럼, 몸은 멀리 있지만 일은 함께하는 장면을 그려 보세요.",
+ "movieLineEn": "I can control the robot remotely from my phone.",
+ "movieLineKo": "나는 휴대폰으로 그 로봇을 원격 조종할 수 있어.",
+ "storyTitle": "재택근무의 함정",
+ "story": "삼촌은 remotely(원격으로) 일하는 게 꿈이었어요. 드디어 집에서 remote(원격의) 회의에 들어갔죠. 위는 정장, 아래는 파자마! 카메라 motion(움직임) 없이 버티던 삼촌은 고양이를 remove(치우다)하려고 벌떡 일어났어요. 그날 회의 주제는 '복장 규정'이었답니다."
+}

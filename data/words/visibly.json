@@ -1,0 +1,81 @@
+{
+ "word": "visibly",
+ "pos": "부사",
+ "phonetic": "[ˈvɪzəbli]",
+ "meaning": "눈에 띄게, 명백히",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vis",
+   "meaning": "보다 (see)",
+   "note": "라틴어 videre(보다)의 과거분사 visus에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는",
+   "note": "'~할 수 있는'이라는 뜻의 형용사 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>vis</strong> (보다) + <strong>-ible</strong> (~할 수 있는) + <strong>-ly</strong> (~하게) = '볼 수 있을 만큼'이라는 뜻에서 <strong>'눈에 띄게'</strong>가 되었어요.",
+ "historyTitle": "눈으로 볼 수 있을 만큼",
+ "historyBody": "라틴어 videre(보다)에서 visibilis(볼 수 있는)가 나왔고, 이것이 프랑스어를 거쳐 영어 visible이 되었어요. 여기에 -ly가 붙은 visibly는 'visibly upset(눈에 띄게 속상한)'처럼 감정이 겉으로 드러날 때 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "visible",
+   "pos": "형용사",
+   "meaning": "눈에 보이는",
+   "en": "The stars are clearly visible tonight.",
+   "ko": "오늘 밤에는 별이 또렷하게 보여요."
+  },
+  {
+   "word": "invisible",
+   "pos": "형용사",
+   "meaning": "보이지 않는",
+   "en": "Air is invisible, but we need it to live.",
+   "ko": "공기는 보이지 않지만 우리는 살기 위해 공기가 필요해요."
+  },
+  {
+   "word": "vision",
+   "pos": "명사",
+   "meaning": "시력, 비전",
+   "en": "She has a clear vision for the future.",
+   "ko": "그녀는 미래에 대한 분명한 비전이 있어요."
+  },
+  {
+   "word": "visual",
+   "pos": "형용사",
+   "meaning": "시각의",
+   "en": "Visual aids help students understand faster.",
+   "ko": "시각 자료는 학생들이 더 빨리 이해하도록 도와요."
+  },
+  {
+   "word": "evidence",
+   "pos": "명사",
+   "meaning": "증거",
+   "en": "There is no evidence that he broke the window.",
+   "ko": "그가 창문을 깼다는 증거는 없어요."
+  },
+  {
+   "word": "video",
+   "pos": "명사",
+   "meaning": "영상",
+   "en": "We watched a funny video about cats.",
+   "ko": "우리는 고양이에 관한 웃긴 영상을 봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 시험 결과를 보고 얼굴이 확 밝아지는 학생",
+ "imageCaption": "성적표를 보자마자 얼굴에 웃음이 번지는 친구를 떠올려 보세요. visibly happy, 누가 봐도 행복한 거예요.",
+ "movieLineEn": "He was visibly shaking when he opened the door.",
+ "movieLineKo": "그는 문을 열 때 눈에 띄게 떨고 있었어.",
+ "storyTitle": "투명 망토의 비밀",
+ "story": "민준이는 invisible(보이지 않는) 망토를 샀다며 visibly(눈에 띄게) 들떠 있었어요. 망토를 쓰고 교실을 몰래 돌아다녔죠. 그런데 모두가 민준이를 보고 웃었어요. 망토는 visible(눈에 보이는) 정도가 아니라 형광 분홍색이었거든요. 결정적인 evidence(증거)는 엉덩이에 붙은 가격표였어요!"
+}

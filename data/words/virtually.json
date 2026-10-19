@@ -1,0 +1,67 @@
+{
+ "word": "virtually",
+ "pos": "부사",
+ "phonetic": "[ˈvɜːrtʃuəli]",
+ "meaning": "사실상, 거의, 가상으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "virtu",
+   "meaning": "힘, 효력 (virtue, power)",
+   "note": "라틴어 virtus(용기, 탁월함, 힘)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~적인 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>virtu</strong> (힘, 효력) + <strong>-al</strong> (~의) + <strong>-ly</strong> (~하게) = '실제는 아니어도 효력상으로'라는 뜻에서 <strong>'사실상, 거의'</strong>가 되었어요.",
+ "historyTitle": "실제는 아니지만 효과는 같은",
+ "historyBody": "라틴어 virtus는 '용기, 탁월함'에서 '힘, 효력'이라는 뜻으로 넓어졌어요. 중세 라틴어 virtualis는 '효력상 그러한'이라는 뜻이었고, 여기서 '사실상, 거의'라는 virtually가 나왔어요. 컴퓨터 시대에는 '가상의'라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "virtual",
+   "pos": "형용사",
+   "meaning": "사실상의, 가상의",
+   "en": "Students can take a virtual tour of the museum.",
+   "ko": "학생들은 박물관을 가상으로 둘러볼 수 있어요."
+  },
+  {
+   "word": "virtue",
+   "pos": "명사",
+   "meaning": "미덕, 장점",
+   "en": "Patience is a great virtue.",
+   "ko": "인내는 훌륭한 미덕이에요."
+  },
+  {
+   "word": "virtuous",
+   "pos": "형용사",
+   "meaning": "덕이 높은, 고결한",
+   "en": "The story is about a virtuous king.",
+   "ko": "그 이야기는 덕이 높은 왕에 관한 거예요."
+  },
+  {
+   "word": "virtuoso",
+   "pos": "명사",
+   "meaning": "(음악의) 거장, 명연주자",
+   "en": "The young pianist played like a virtuoso.",
+   "ko": "그 젊은 피아니스트는 거장처럼 연주했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 텅 빈 냉장고 앞에서 \"거의 아무것도 없네\" 하는 장면",
+ "imageCaption": "냉장고에 물 한 병만 남아 있는 모습을 떠올려 보세요. virtually empty, 사실상 텅 빈 거예요.",
+ "movieLineEn": "It's virtually impossible, but we have to try.",
+ "movieLineKo": "그건 사실상 불가능해. 하지만 해 봐야 해.",
+ "storyTitle": "가상 소풍",
+ "story": "비가 와서 소풍이 virtually(사실상) 취소됐어요. 선생님은 VR 안경으로 virtual(가상의) 소풍을 준비하셨죠. 인내라는 virtue(미덕)를 배우라며요. 모두 신나서 가상 김밥을 먹었는데, 반장이 진짜로 배고프다며 울었어요. 결국 선생님이 진짜 김밥을 사 오셨답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "lifeguard",
+ "pos": "명사",
+ "phonetic": "[ˈlaɪfɡɑːrd]",
+ "meaning": "인명 구조원, 안전 요원",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "life",
+   "meaning": "생명, 삶 (life)",
+   "note": "고대 영어 lif(생명)에서 온 게르만계 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "guard",
+   "meaning": "지키다, 지키는 사람 (guard)",
+   "note": "고대 프랑스어 garder(지키다)에서 왔어요. 게르만어 뿌리를 가진 말이에요."
+  }
+ ],
+ "summary": "<strong>life</strong> (생명) + <strong>guard</strong> (지키는 사람) = '생명을 지키는 사람'이라는 뜻에서 <strong>'인명 구조원'</strong>이 되었어요.",
+ "historyTitle": "생명을 지키는 사람",
+ "historyBody": "life는 고대 영어 lif(생명)에서 왔고, guard는 고대 프랑스어 garder(지키다)에서 왔어요. 원래 lifeguard는 17세기에 '경호원'을 뜻했는데, 19세기 말 해수욕이 유행하면서 '물에 빠진 사람을 구하는 사람'이라는 뜻으로 굳어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "guardian",
+   "pos": "명사",
+   "meaning": "보호자, 수호자",
+   "en": "Children under 14 must come with a parent or guardian.",
+   "ko": "14세 미만 어린이는 부모나 보호자와 함께 와야 해요."
+  },
+  {
+   "word": "safeguard",
+   "pos": "동사 / 명사",
+   "meaning": "보호하다 / 안전장치",
+   "en": "We need laws to safeguard wild animals.",
+   "ko": "야생 동물을 보호하기 위한 법이 필요해요."
+  },
+  {
+   "word": "regard",
+   "pos": "동사",
+   "meaning": "~로 여기다, 간주하다",
+   "en": "Many people regard him as a hero.",
+   "ko": "많은 사람이 그를 영웅으로 여겨요."
+  },
+  {
+   "word": "lifetime",
+   "pos": "명사",
+   "meaning": "평생, 일생",
+   "en": "This trip was the experience of a lifetime.",
+   "ko": "이번 여행은 평생 한 번뿐인 경험이었어요."
+  },
+  {
+   "word": "lifestyle",
+   "pos": "명사",
+   "meaning": "생활 방식",
+   "en": "A healthy lifestyle includes good sleep and exercise.",
+   "ko": "건강한 생활 방식에는 충분한 잠과 운동이 포함돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 해변의 높은 의자에 앉아 바다를 지켜보는 빨간 옷의 구조원",
+ "imageCaption": "호루라기를 물고 바다를 지켜보다 위험할 때 뛰어드는 사람, 그게 lifeguard예요.",
+ "movieLineEn": "Don't panic! The lifeguard is coming to get you!",
+ "movieLineKo": "당황하지 마! 구조원이 너 구하러 오고 있어!",
+ "storyTitle": "수영 못하는 인명 구조원",
+ "story": "해변의 새 lifeguard(인명 구조원)는 모두의 guardian(수호자)으로 regard(여기다)되었어요. 그는 바다의 안전을 safeguard(지키다)하겠다며 매일 망원경을 들었죠. 어느 날 아이가 물에 빠지자 그는 바다로 뛰어들었어요. 그런데 그가 허우적댔어요! 결국 아이가 그를 구해 냈답니다. 그는 lifetime(평생) 수영 연습을 하기로 했어요."
+}

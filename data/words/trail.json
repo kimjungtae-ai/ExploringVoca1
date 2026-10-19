@@ -1,0 +1,62 @@
+{
+ "word": "trail",
+ "pos": "명사 / 동사",
+ "phonetic": "[treɪl]",
+ "meaning": "오솔길, 자국, 흔적 / 뒤쫓다, 끌다, 뒤처지다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "trail (← tragula)",
+   "meaning": "끌다 (drag, draw)",
+   "note": "라틴어 tragula(끌개 그물·썰매)에서 왔고, trahere(끌다)와 관련 있어요. 영어에서는 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "라틴어 <strong>tragula</strong> (끌고 다니는 그물)에서 와서, 끌고 간 자국인 <strong>'흔적, 오솔길'</strong>이 되었어요.",
+ "historyTitle": "땅에 끌린 자국이 길이 되다",
+ "historyBody": "trail은 고대 프랑스어 'trailler(끌고 가다)'에서 왔고, 이는 라틴어 'tragula(끌개 그물, 썰매)'로 거슬러 올라가요. tragula는 '끌다'라는 뜻의 'trahere'와 관련이 있어서 tractor, attract와 먼 친척이에요. 무언가를 끌고 가면 땅에 자국이 남으니, '흔적'과 '오솔길'이라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trailer",
+   "pos": "명사",
+   "meaning": "트레일러, 예고편",
+   "en": "The movie trailer made everyone excited.",
+   "ko": "영화 예고편을 보고 모두가 신이 났어요."
+  },
+  {
+   "word": "tractor",
+   "pos": "명사",
+   "meaning": "트랙터",
+   "en": "The farmer drove his tractor across the field.",
+   "ko": "농부는 트랙터를 몰고 밭을 가로질렀어요."
+  },
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다, 마음을 끌다",
+   "en": "The bright lights attract many insects at night.",
+   "ko": "밝은 불빛은 밤에 많은 곤충을 끌어들여요."
+  },
+  {
+   "word": "extract",
+   "pos": "동사 / 명사",
+   "meaning": "뽑아내다 / 추출물",
+   "en": "The dentist had to extract my bad tooth.",
+   "ko": "치과 의사는 내 상한 이를 뽑아야 했어요."
+  },
+  {
+   "word": "trace",
+   "pos": "명사 / 동사",
+   "meaning": "흔적 / 추적하다",
+   "en": "The thief left no trace behind.",
+   "ko": "도둑은 아무 흔적도 남기지 않았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲속으로 구불구불 이어진 좁은 등산로",
+ "imageCaption": "숲속에 사람들이 오래 걸어 다녀서 생긴 좁은 길을 떠올려 보세요. 끌고 지나간 자국이 길이 된 거예요.",
+ "movieLineEn": "Follow the trail of cookie crumbs, and you'll find the thief.",
+ "movieLineKo": "과자 부스러기 흔적을 따라가면 도둑을 찾을 거야.",
+ "storyTitle": "과자 부스러기 흔적",
+ "story": "숲속 trail(오솔길)에 과자 부스러기가 떨어져 있었어요. 다람쥐 탐정은 trace(흔적)를 따라가다 커다란 tractor(트랙터)를 발견했죠. 달콤한 냄새가 다람쥐를 attract(끌어당기다)했어요. 트랙터 안에는 영화 trailer(예고편)를 찍던 곰 배우가 과자를 먹으며 울고 있었답니다. 슬픈 장면 연습 중이었대요."
+}

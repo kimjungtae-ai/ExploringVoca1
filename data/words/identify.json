@@ -1,0 +1,61 @@
+{
+ "word": "identify",
+ "pos": "동사",
+ "phonetic": "[aɪˈdentɪfaɪ]",
+ "meaning": "확인하다, 식별하다, 동일시하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ident (idem)",
+   "meaning": "같은 (same)",
+   "note": "라틴어 idem(같은)에서 온 identitas(동일함)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ify",
+   "meaning": "~하게 만들다 (make)",
+   "note": "라틴어 facere(만들다)에서 온 동사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ident</strong> (같은) + <strong>-ify</strong> (만들다) = '같은 것임을 밝혀내다'라는 뜻에서 <strong>'확인하다, 식별하다'</strong>가 되었어요.",
+ "historyTitle": "'바로 그것과 같다'를 밝혀내기",
+ "historyBody": "identify는 중세 라틴어 identificare에서 왔는데, identitas(같음) + facere(만들다)가 합쳐진 말이에요. 처음엔 '같은 것으로 여기다'라는 뜻이었고, 여기서 '누구인지, 무엇인지 확인하다'라는 뜻이 나왔어요. 신분증을 ID라고 부르는 것도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "identity",
+   "pos": "명사",
+   "meaning": "정체성, 신원",
+   "en": "Teenagers often search for their own identity.",
+   "ko": "십대들은 종종 자신의 정체성을 찾으려 해요."
+  },
+  {
+   "word": "identical",
+   "pos": "형용사",
+   "meaning": "똑같은, 동일한",
+   "en": "The twins wore identical shirts to school.",
+   "ko": "쌍둥이는 똑같은 셔츠를 입고 학교에 갔어요."
+  },
+  {
+   "word": "identification",
+   "pos": "명사",
+   "meaning": "신분 증명, 확인",
+   "en": "You need identification to open a bank account.",
+   "ko": "은행 계좌를 만들려면 신분증이 필요해요."
+  },
+  {
+   "word": "identifiable",
+   "pos": "형용사",
+   "meaning": "식별 가능한",
+   "en": "The birds are easily identifiable by their red wings.",
+   "ko": "그 새들은 빨간 날개로 쉽게 알아볼 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 형사가 돋보기로 지문을 비교하며 범인을 찾아내는 장면",
+ "imageCaption": "두 지문이 '같다'는 걸 밝혀내는 순간을 떠올리세요. 그게 identify예요.",
+ "movieLineEn": "Can you identify the man who stole your bag?",
+ "movieLineKo": "가방을 훔친 남자를 알아볼 수 있겠어요?",
+ "storyTitle": "쌍둥이 감별 작전",
+ "story": "선생님은 identical(똑같은) 쌍둥이를 도저히 identify(식별하다)할 수 없었어요. 그래서 이름표로 identification(신원 확인)을 하기로 했죠. 그런데 둘이 이름표를 바꿔 달아 identity(정체)가 계속 뒤바뀌었어요. 결국 선생님은 점심 메뉴로 identifiable(식별 가능한) 차이를 찾았어요. 형은 오이를 싫어했거든요!"
+}

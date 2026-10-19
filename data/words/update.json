@@ -1,0 +1,61 @@
+{
+ "word": "update",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˌʌpˈdeɪt] / [ˈʌpdeɪt]",
+ "meaning": "최신 정보로 바꾸다, 업데이트하다 / 최신 정보, 갱신",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "up-",
+   "meaning": "위로, 완전히 (up)",
+   "note": "위쪽 방향이나 '끝까지, 완전히'라는 느낌을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "date (← data)",
+   "meaning": "날짜 (date) — 원래 '주어진'",
+   "note": "라틴어 data(주어진)에서 왔어요. 편지 끝에 '~일에 주어짐'이라고 쓰던 습관 때문이에요."
+  }
+ ],
+ "summary": "<strong>up</strong> (위로, 끝까지) + <strong>date</strong> (날짜) = 날짜를 오늘까지 끌어올리다, 즉 <strong>'최신으로 바꾸다'</strong>가 되었어요.",
+ "historyTitle": "로마 편지에서 앱 업데이트까지",
+ "historyBody": "date는 라틴어 'data'에서 왔어요. 고대 로마 사람들은 편지 끝에 'data Romae(로마에서 주어짐)'처럼 쓰고 날짜를 적었는데, 이 'data(주어진)'가 결국 '날짜'라는 뜻이 되었죠. 같은 라틴어 동사 dare(주다)에서 오늘날의 data(자료, 주어진 것)도 나왔답니다. update는 20세기 중반 미국에서 'up-to-date로 만들다'라는 뜻으로 생긴 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "date",
+   "pos": "명사",
+   "meaning": "날짜",
+   "en": "Write the date at the top of the page.",
+   "ko": "페이지 맨 위에 날짜를 쓰세요."
+  },
+  {
+   "word": "up-to-date",
+   "pos": "형용사",
+   "meaning": "최신의",
+   "en": "This website gives up-to-date weather information.",
+   "ko": "이 웹사이트는 최신 날씨 정보를 알려 줘요."
+  },
+  {
+   "word": "outdated",
+   "pos": "형용사",
+   "meaning": "구식의",
+   "en": "My phone is so outdated that it can't run new apps.",
+   "ko": "내 휴대폰은 너무 오래돼서 새 앱을 실행할 수 없어요."
+  },
+  {
+   "word": "data",
+   "pos": "명사",
+   "meaning": "자료, 데이터",
+   "en": "The data shows that teenagers sleep less than before.",
+   "ko": "자료에 따르면 십 대들은 예전보다 잠을 덜 자요."
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰 화면에 뜬 '업데이트 중' 진행 막대",
+ "imageCaption": "휴대폰 화면에 진행 막대가 차오르며 최신 버전으로 바뀌는 모습을 떠올려 보세요.",
+ "movieLineEn": "Any update on the missing dragon?",
+ "movieLineKo": "사라진 용에 대한 새 소식 있어?",
+ "storyTitle": "업데이트의 함정",
+ "story": "시험 전날 밤, 내 노트북이 갑자기 update(업데이트)를 시작했어요. 남은 시간: 3시간! 나는 outdated(구식의) 노트북을 원망하며 종이에 data(자료)를 정리했죠. 손으로 쓰다 보니 내용이 머리에 쏙쏙 들어왔어요. 다음 날 시험은 만점! 내 머리가 up-to-date(최신의) 상태가 된 거예요."
+}

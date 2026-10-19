@@ -1,0 +1,75 @@
+{
+ "word": "unite",
+ "pos": "동사",
+ "phonetic": "[juˈnaɪt]",
+ "meaning": "연합하다, 통합하다, 하나로 뭉치다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "uni",
+   "meaning": "하나 (one)",
+   "note": "라틴어 unus(하나)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ite (← -ire)",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "라틴어 동사 unire(하나로 만들다)의 과거분사 unitus에서 온 꼬리예요."
+  }
+ ],
+ "summary": "<strong>uni</strong> (하나) + <strong>-ite</strong> (~하게 하다) = 하나로 만들다, 즉 <strong>'연합하다, 뭉치다'</strong>가 되었어요.",
+ "historyTitle": "여럿을 하나로 묶는 말",
+ "historyBody": "unite는 라틴어 'unire(하나로 만들다)'의 과거분사 'unitus'에서 왔어요. 'unus(하나)'에서 나온 말이죠. 미국의 정식 이름 'the United States(합중국)'도 여러 주가 하나로 합쳐졌다는 뜻이고, 'United Nations(국제 연합)'도 같은 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "united",
+   "pos": "형용사",
+   "meaning": "연합한, 결속된",
+   "en": "The team was united by a common goal.",
+   "ko": "그 팀은 공동의 목표로 하나가 되었어요."
+  },
+  {
+   "word": "unity",
+   "pos": "명사",
+   "meaning": "통합, 단결",
+   "en": "Music can bring a sense of unity to people.",
+   "ko": "음악은 사람들에게 하나 됨을 느끼게 해 줄 수 있어요."
+  },
+  {
+   "word": "reunite",
+   "pos": "동사",
+   "meaning": "재회하다, 다시 결합하다",
+   "en": "The lost dog was reunited with its owner.",
+   "ko": "잃어버린 개가 주인과 다시 만났어요."
+  },
+  {
+   "word": "union",
+   "pos": "명사",
+   "meaning": "연합, 결합",
+   "en": "The union of the two schools created a bigger campus.",
+   "ko": "두 학교가 통합해서 더 큰 캠퍼스가 생겼어요."
+  },
+  {
+   "word": "unique",
+   "pos": "형용사",
+   "meaning": "독특한, 유일한",
+   "en": "Each person has a unique fingerprint.",
+   "ko": "사람마다 고유한 지문을 갖고 있어요."
+  },
+  {
+   "word": "unify",
+   "pos": "동사",
+   "meaning": "통일하다, 통합하다",
+   "en": "The king tried to unify the divided land.",
+   "ko": "왕은 나뉜 땅을 통일하려고 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 사람이 손을 겹쳐 '파이팅!'을 외치는 모습",
+ "imageCaption": "여러 손이 한가운데 모여 하나로 겹쳐지는 모습을 떠올려 보세요. 여럿이 하나 되는 게 unite예요.",
+ "movieLineEn": "If we unite, nobody can stop us!",
+ "movieLineKo": "우리가 하나로 뭉치면 아무도 우리를 막을 수 없어!",
+ "storyTitle": "양말 왕국의 통일",
+ "story": "세탁기 속 짝 잃은 양말들이 unite(뭉치다)하기로 했어요. 그들은 '양말 union(연합)'을 만들고 unity(단결)를 외쳤죠. 오랜 투쟁 끝에 잃어버린 짝과 reunite(재회하다)하는 데 성공했어요! 그런데 엄마가 말했어요. \"어머, 다 짝짝이네?\" 알고 보니 모두 남의 짝과 다시 만난 거였답니다."
+}

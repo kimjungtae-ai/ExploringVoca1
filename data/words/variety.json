@@ -1,0 +1,68 @@
+{
+ "word": "variety",
+ "pos": "명사",
+ "phonetic": "[vəˈraɪəti]",
+ "meaning": "다양성, 여러 가지, 품종",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vari",
+   "meaning": "다양한, 바뀌는 (various)",
+   "note": "라틴어 varius(여러 색의, 다양한)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ety",
+   "meaning": "~함, ~성 (명사)",
+   "note": "라틴어 -ietas에서 온 명사 접미사로, 상태나 성질을 나타내요."
+  }
+ ],
+ "summary": "<strong>vari</strong> (다양한) + <strong>-ety</strong> (~성) = <strong>'다양성, 여러 가지'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "얼룩덜룩한 색에서 온 다양함",
+ "historyBody": "라틴어 varius는 원래 '얼룩덜룩한, 여러 색이 섞인'이라는 뜻이었어요. 여기서 나온 varietas가 프랑스어 variété를 거쳐 16세기 영어에 들어왔어요. 'a variety of(다양한)'는 수능 지문에 정말 자주 나오는 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vary",
+   "pos": "동사",
+   "meaning": "다르다, 다양하다, 바꾸다",
+   "en": "Prices vary from store to store.",
+   "ko": "가격은 가게마다 달라요."
+  },
+  {
+   "word": "various",
+   "pos": "형용사",
+   "meaning": "다양한, 여러 가지의",
+   "en": "The club offers various activities for students.",
+   "ko": "그 동아리는 학생들에게 다양한 활동을 제공해요."
+  },
+  {
+   "word": "variable",
+   "pos": "형용사 / 명사",
+   "meaning": "변하기 쉬운 / 변수",
+   "en": "The weather in spring is highly variable.",
+   "ko": "봄 날씨는 아주 변덕스러워요."
+  },
+  {
+   "word": "variation",
+   "pos": "명사",
+   "meaning": "변화, 차이",
+   "en": "There is little variation in temperature here.",
+   "ko": "이곳은 기온 차이가 거의 없어요."
+  },
+  {
+   "word": "invariably",
+   "pos": "부사",
+   "meaning": "언제나, 변함없이",
+   "en": "He invariably arrives five minutes late.",
+   "ko": "그는 언제나 5분 늦게 도착해요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 색깔의 과일이 가득 쌓인 시장 좌판",
+ "imageCaption": "빨강, 노랑, 초록 과일이 한가득 놓인 시장을 떠올려 보세요. 그게 바로 variety예요.",
+ "movieLineEn": "Life is full of variety. Try something new today!",
+ "movieLineKo": "인생은 다양함으로 가득해. 오늘은 새로운 걸 해 봐!",
+ "storyTitle": "아이스크림 대참사",
+ "story": "아이스크림 가게엔 31가지 variety(다양성)가 있었어요. 맛은 various(다양한)하고, 색도 vary(다르다)했죠. 수아는 한 시간 동안 고민했지만 결정을 못 했어요. 결국 점원이 말했어요. \"손님, 기다리는 동안 다 녹아서 이제 한 가지 맛뿐이에요.\" 그 맛의 이름은 '혼합'이었답니다."
+}

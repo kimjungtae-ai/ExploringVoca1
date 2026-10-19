@@ -1,0 +1,48 @@
+{
+ "word": "soak",
+ "pos": "동사",
+ "phonetic": "[soʊk]",
+ "meaning": "담그다, 흠뻑 적시다, 스며들다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "soak (socian)",
+   "meaning": "적시다, 스며들다 (soak)",
+   "note": "고대 영어 socian에서 왔고, suck(빨다)와 같은 뿌리로 보여요."
+  }
+ ],
+ "summary": "<strong>soak</strong>는 고대 영어 socian에서 온 말로 <strong>'담그다, 흠뻑 적시다'</strong>를 뜻해요.",
+ "historyTitle": "빨아들이듯 스며드는 물",
+ "historyBody": "soak는 고대 영어 socian(흠뻑 젖다)에서 왔고, sucan(빨다, 오늘날의 suck)과 같은 게르만어 뿌리에서 나온 것으로 보여요. 물이 무언가에 '빨려 들어가듯' 스며드는 이미지가 담겨 있죠. 'soak up(흡수하다)'은 지식이나 분위기를 흡수한다는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "soaked",
+   "pos": "형용사",
+   "meaning": "흠뻑 젖은",
+   "en": "We got soaked in the sudden rain.",
+   "ko": "우리는 갑자기 내린 비에 흠뻑 젖었어요."
+  },
+  {
+   "word": "soaking",
+   "pos": "형용사 / 명사",
+   "meaning": "흠뻑 젖은 / 담그기",
+   "en": "Take off those soaking wet socks.",
+   "ko": "그 흠뻑 젖은 양말 벗어."
+  },
+  {
+   "word": "soak up",
+   "pos": "구동사",
+   "meaning": "흡수하다, 즐기다",
+   "en": "We lay on the beach and soaked up the sun.",
+   "ko": "우리는 해변에 누워 햇볕을 듬뿍 쬐었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비에 흠뻑 젖어 물이 뚝뚝 떨어지는 사람",
+ "imageCaption": "우산 없이 소나기를 만나 머리부터 발끝까지 젖은 모습을 떠올려 보세요.",
+ "movieLineEn": "Soak the map in water, and the secret message will appear.",
+ "movieLineKo": "지도를 물에 담가 봐. 그러면 비밀 메시지가 나타날 거야.",
+ "storyTitle": "흠뻑 젖은 하루",
+ "story": "아침에 우산 없이 나갔다가 소나기에 soaked(흠뻑 젖은) 생쥐가 됐어요. soaking(흠뻑 젖은) 양말을 벗고 따뜻한 물에 발을 soak(담그다)했죠. 햇볕을 soak up(즐기다)하며 말리려는 순간, 스프링클러가 '촥!' 켜졌어요. 오늘 나는 하루에 세 번 wet(젖은) 상태가 되었답니다."
+}

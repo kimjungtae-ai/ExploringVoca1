@@ -1,0 +1,67 @@
+{
+ "word": "personality",
+ "pos": "명사",
+ "phonetic": "[ˌpɜːrsəˈnæləti]",
+ "meaning": "성격, 개성, (유명) 인사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "person",
+   "meaning": "사람 (person)",
+   "note": "라틴어 persona(가면, 인물)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "personal(개인의)을 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~성, ~함 (명사)",
+   "note": "성질이나 상태를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>person</strong> (사람) + <strong>-al</strong> (~의) + <strong>-ity</strong> (~성) = 한 사람다운 성질이라서 <strong>'성격, 개성'</strong>이 되었어요.",
+ "historyTitle": "가면 뒤에 숨은 진짜 '나'",
+ "historyBody": "라틴어 persona는 원래 연극 배우가 쓰던 '가면'이나 '극 중 인물'을 뜻했고, 여기서 '사람'이라는 뜻이 나왔어요. 'per(통과해) + sonare(소리 나다)', 즉 가면을 통해 소리가 울린다는 풀이가 유명하지만, 학자들은 이를 민간 어원으로 보고 에트루리아어 phersu(가면)에서 왔을 가능성을 더 크게 봐요. persona 자체의 정확한 기원은 확실하지 않아요. personality는 14세기에 '사람이라는 성질'을 뜻하며 영어에 들어왔고, 나중에 '성격'의 뜻으로 넓어졌어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "person",
+   "pos": "명사",
+   "meaning": "사람",
+   "en": "Each person has a different dream.",
+   "ko": "사람마다 다른 꿈을 가지고 있어요."
+  },
+  {
+   "word": "personal",
+   "pos": "형용사",
+   "meaning": "개인의",
+   "en": "Please don't ask about my personal life.",
+   "ko": "제 사생활에 대해선 묻지 말아 주세요."
+  },
+  {
+   "word": "personalize",
+   "pos": "동사",
+   "meaning": "개인 맞춤으로 하다",
+   "en": "You can personalize your phone case with your name.",
+   "ko": "폰 케이스에 이름을 넣어 나만의 것으로 만들 수 있어요."
+  },
+  {
+   "word": "persona",
+   "pos": "명사",
+   "meaning": "(겉으로 보이는) 인격, 페르소나",
+   "en": "His online persona is very different from his real self.",
+   "ko": "그의 온라인상 모습은 실제 모습과 많이 달라요."
+  }
+ ],
+ "imageSense": "대표 의미: 같은 옷을 입어도 표정과 행동이 모두 다른 친구들",
+ "imageCaption": "반 친구들의 서로 다른 웃음과 말투, 행동을 떠올려 보세요. 그게 바로 각자의 성격이에요.",
+ "movieLineEn": "She's not just smart. She has a great personality.",
+ "movieLineKo": "그녀는 똑똑하기만 한 게 아니야. 성격도 정말 좋아.",
+ "storyTitle": "두 얼굴의 고양이",
+ "story": "우리 집 고양이는 personality(성격)가 두 개예요. 손님 앞에서는 우아한 persona(페르소나)로 꼬리를 살랑, 하지만 가족 앞에선 소파를 긁는 장난꾸러기죠. 엄마가 personal(개인의) 상담사를 불렀는데, 상담사가 오자마자 고양이는 또 천사로 변신! 결국 상담사는 엄마의 성격 상담만 하고 갔대요."
+}

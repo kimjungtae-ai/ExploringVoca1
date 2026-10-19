@@ -1,0 +1,68 @@
+{
+ "word": "toothpaste",
+ "pos": "명사",
+ "phonetic": "[ˈtuːθpeɪst]",
+ "meaning": "치약",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "tooth",
+   "meaning": "이, 치아 (tooth)",
+   "note": "고대 영어 tōþ에서 온 순수 영어 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "paste",
+   "meaning": "반죽, 풀 (dough, paste)",
+   "note": "그리스어 pastē(보리죽)에서 라틴어를 거쳐 들어온 말이에요."
+  }
+ ],
+ "summary": "<strong>tooth</strong> (이) + <strong>paste</strong> (반죽) = 이를 닦는 데 쓰는 반죽, 즉 <strong>'치약'</strong>이에요.",
+ "historyTitle": "보리죽에서 치약까지",
+ "historyBody": "paste는 그리스어 'pastē(보리죽, 소스)'에서 후기 라틴어 'pasta(반죽)'를 거쳐 고대 프랑스어로 들어온 말이에요. 그래서 이탈리아 음식 pasta, 빵과자 pastry와 같은 집안이랍니다. toothpaste라는 말은 19세기에 쓰이기 시작했어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tooth",
+   "pos": "명사",
+   "meaning": "이, 치아",
+   "en": "Brush every tooth carefully, even the ones in the back.",
+   "ko": "안쪽에 있는 이까지 하나하나 꼼꼼하게 닦으세요."
+  },
+  {
+   "word": "paste",
+   "pos": "명사 / 동사",
+   "meaning": "반죽, 풀 / 붙여넣다",
+   "en": "You can copy and paste the link into your browser.",
+   "ko": "링크를 복사해서 브라우저에 붙여넣으면 돼요."
+  },
+  {
+   "word": "pasta",
+   "pos": "명사",
+   "meaning": "파스타",
+   "en": "My dad makes delicious pasta with tomato sauce.",
+   "ko": "우리 아빠는 토마토소스로 맛있는 파스타를 만들어 주세요."
+  },
+  {
+   "word": "pastry",
+   "pos": "명사",
+   "meaning": "페이스트리, 빵과자",
+   "en": "The bakery sells fresh pastry every morning.",
+   "ko": "그 빵집은 매일 아침 신선한 빵과자를 팔아요."
+  },
+  {
+   "word": "toothbrush",
+   "pos": "명사",
+   "meaning": "칫솔",
+   "en": "I put toothpaste on my toothbrush.",
+   "ko": "나는 칫솔에 치약을 짰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 칫솔 위에 하얀 치약을 길게 짜는 모습",
+ "imageCaption": "아침에 칫솔 위로 하얀 치약이 꿈틀꿈틀 나오는 모습을 떠올려 보세요. 이(tooth)를 위한 반죽(paste)이에요.",
+ "movieLineEn": "Who squeezed the toothpaste from the middle?!",
+ "movieLineKo": "누가 치약을 가운데부터 짰어?!",
+ "storyTitle": "요리사 형의 대실수",
+ "story": "형은 아침에 졸린 눈으로 toothbrush(칫솔)에 toothpaste(치약) 대신 마늘 paste(반죽)를 짰어요. 그 손으로 pasta(파스타)를 만들고 pastry(빵과자)까지 구웠죠. 가족들은 \"오늘 요리는 민트 향이 나네?\"라며 고개를 갸웃했어요. 마늘과 치약이 뒤바뀐 거였답니다!"
+}

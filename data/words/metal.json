@@ -1,0 +1,48 @@
+{
+ "word": "metal",
+ "pos": "명사",
+ "phonetic": "[ˈmetl]",
+ "meaning": "금속",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "metal (← 그리스어 metallon)",
+   "meaning": "광산, 금속 (mine, metal)",
+   "note": "더 쪼개기 어려운 단어로, 그리스어 metallon에서 통째로 왔어요."
+  }
+ ],
+ "summary": "<strong>metal</strong>은 그리스어 <strong>metallon</strong> (광산, 금속)에서 통째로 온 단어라 쪼개지 않고 <strong>'금속'</strong>으로 외워요.",
+ "historyTitle": "광산에서 캐낸 것",
+ "historyBody": "metal은 라틴어 metallum과 그리스어 metallon(광산, 채석장, 금속)을 거쳐 고대 프랑스어를 통해 13세기에 영어로 들어왔어요. 그리스어 metallon 자체의 더 오래된 기원은 확실히 밝혀지지 않았어요. 재미있게도 메달(medal)도 라틴어 metallum에서 갈라져 나온 친척이랍니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "metallic",
+   "pos": "형용사",
+   "meaning": "금속의, 금속성의",
+   "en": "The car was painted a shiny metallic blue.",
+   "ko": "그 차는 반짝이는 금속성 파란색으로 칠해져 있었어요."
+  },
+  {
+   "word": "medal",
+   "pos": "명사",
+   "meaning": "메달",
+   "en": "She won a gold medal at the Olympics.",
+   "ko": "그녀는 올림픽에서 금메달을 땄어요."
+  },
+  {
+   "word": "medalist",
+   "pos": "명사",
+   "meaning": "메달리스트, 메달 수상자",
+   "en": "The young medalist thanked her coach.",
+   "ko": "그 어린 메달리스트는 코치에게 감사 인사를 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 반짝이는 쇠, 구리, 금 같은 금속 덩어리",
+ "imageCaption": "광산에서 캐낸 반짝이는 쇳덩이와 구리 막대가 쌓여 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "This door is solid metal. We can't break through!",
+ "movieLineKo": "이 문은 통짜 금속이야. 뚫고 갈 수 없어!",
+ "storyTitle": "메달 대신 받은 것",
+ "story": "체육대회에서 1등 한 준호는 medal(메달)을 기대했어요. 그런데 받은 건 metal(금속) 국자! 선생님이 '이것도 metallic(금속의) 빛이 나잖니'라며 웃으셨죠. 실망한 준호는 그 국자로 급식을 퍼 주다가 '급식계의 medalist(메달리스트)'라는 별명을 얻었답니다."
+}

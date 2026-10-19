@@ -1,0 +1,68 @@
+{
+ "word": "wherever",
+ "pos": "부사 / 접속사",
+ "phonetic": "[werˈevər]",
+ "meaning": "어디든지, 어디에서 ~하더라도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "where",
+   "meaning": "어디에 (where)",
+   "note": "고대 영어 hwær에서 온 의문사예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ever",
+   "meaning": "언제나, 도대체 (ever)",
+   "note": "고대 영어 æfre에서 왔고, 강조의 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>where</strong> (어디에) + <strong>ever</strong> (언제든, 강조) = <strong>'어디든지, 어디에서 ~하더라도'</strong>가 되었어요.",
+ "historyTitle": "ever가 붙으면 '~든지'",
+ "historyBody": "where는 고대 영어 hwær, ever는 고대 영어 æfre에서 왔어요. 중세 영어 시기에 둘이 합쳐져 '어디든지'라는 뜻이 되었죠. whenever, however, whatever처럼 의문사에 -ever를 붙이면 '~든지'라는 뜻이 된다는 규칙을 기억해 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "whenever",
+   "pos": "접속사",
+   "meaning": "~할 때마다, 언제든지",
+   "en": "Call me whenever you need help.",
+   "ko": "도움이 필요하면 언제든지 전화해."
+  },
+  {
+   "word": "however",
+   "pos": "부사",
+   "meaning": "그러나, 아무리 ~해도",
+   "en": "However hard it is, don't give up.",
+   "ko": "아무리 힘들어도 포기하지 마."
+  },
+  {
+   "word": "whatever",
+   "pos": "대명사",
+   "meaning": "무엇이든지",
+   "en": "You can choose whatever you like.",
+   "ko": "원하는 것은 무엇이든 골라도 돼요."
+  },
+  {
+   "word": "whoever",
+   "pos": "대명사",
+   "meaning": "누구든지",
+   "en": "Whoever finishes first will get a prize.",
+   "ko": "먼저 끝내는 사람은 누구든 상을 받아요."
+  },
+  {
+   "word": "forever",
+   "pos": "부사",
+   "meaning": "영원히",
+   "en": "I will remember this day forever.",
+   "ko": "나는 이날을 영원히 기억할 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 강아지가 주인을 졸졸 따라다니는 장면",
+ "imageCaption": "주인이 부엌에 가든 거실에 가든 꼭 따라가는 강아지를 떠올려 보세요. wherever you go, I'll follow!",
+ "movieLineEn": "Wherever you go, I'll find you.",
+ "movieLineKo": "네가 어디로 가든, 내가 찾아낼 거야.",
+ "storyTitle": "졸졸이 고양이",
+ "story": "우리 고양이는 내가 wherever(어디든지) 가도 따라와요. 화장실에도, 학교 앞까지도요. whenever(언제든지) 내가 숨어도 귀신같이 찾아내죠. 친구들은 whatever(무엇이든) 이유가 있을 거라 했어요. 비밀은 간단했어요. 내 주머니에 forever(영원히) 들어 있는 참치 간식이었거든요!"
+}

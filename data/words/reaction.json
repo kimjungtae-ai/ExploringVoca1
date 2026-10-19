@@ -1,0 +1,74 @@
+{
+ "word": "reaction",
+ "pos": "명사",
+ "phonetic": "[riˈækʃn]",
+ "meaning": "반응, 반작용, 반발",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 되받아 (back, again)",
+   "note": "받은 것을 되돌려 준다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "act",
+   "meaning": "행동하다 (do, act)",
+   "note": "라틴어 agere(하다, 움직이다)의 과거분사 actus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "행위를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되받아) + <strong>act</strong> (행동하다) + <strong>-ion</strong> (~하는 것) = 무언가에 되받아 행동하는 것이라서 <strong>'반응'</strong>이 되었어요.",
+ "historyTitle": "과학 실험실에서 시작된 말",
+ "historyBody": "react와 reaction은 17세기에 과학자들이 re-(되받아)와 act(작용하다)를 붙여 '반작용'을 표현하면서 널리 쓰였어요. 뉴턴의 '작용과 반작용(action and reaction)'이 대표적이죠. 이후 화학 반응, 그리고 사람의 감정적 반응까지 뜻이 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "react",
+   "pos": "동사",
+   "meaning": "반응하다",
+   "en": "How did your parents react to the news?",
+   "ko": "부모님은 그 소식에 어떻게 반응하셨어?"
+  },
+  {
+   "word": "act",
+   "pos": "동사/명사",
+   "meaning": "행동하다 / 행동",
+   "en": "We must act quickly to save the forest.",
+   "ko": "숲을 살리려면 빨리 행동해야 해요."
+  },
+  {
+   "word": "active",
+   "pos": "형용사",
+   "meaning": "활동적인, 적극적인",
+   "en": "My grandmother is still very active.",
+   "ko": "할머니는 여전히 아주 활동적이세요."
+  },
+  {
+   "word": "interact",
+   "pos": "동사",
+   "meaning": "상호 작용하다, 교류하다",
+   "en": "Children learn by interacting with others.",
+   "ko": "아이들은 다른 사람들과 교류하며 배워요."
+  },
+  {
+   "word": "agent",
+   "pos": "명사",
+   "meaning": "대리인, 요원",
+   "en": "The travel agent booked our hotel.",
+   "ko": "여행사 직원이 우리 호텔을 예약해 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 깜짝 선물을 받고 눈이 휘둥그레지는 얼굴",
+ "imageCaption": "누군가 '서프라이즈!'를 외쳤을 때 깜짝 놀라 펄쩍 뛰는 친구의 반응을 떠올려 보세요.",
+ "movieLineEn": "I didn't expect that reaction. Are you crying?",
+ "movieLineKo": "그런 반응은 예상 못 했어. 너 우는 거야?",
+ "storyTitle": "고양이의 놀라운 반응",
+ "story": "유튜버가 고양이의 reaction(반응) 영상을 찍으려고 오이를 몰래 놓았어요. 다들 고양이가 펄쩍 뛰며 react(반응하다)할 거라 기대했죠. 그런데 고양이는 아주 active(활동적인) 표정으로 오이를 들고 가서 냉장고에 넣었어요. 알고 보니 이 집 냉장고 담당이었대요!"
+}

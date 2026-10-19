@@ -1,0 +1,61 @@
+{
+ "word": "cautious",
+ "pos": "형용사",
+ "phonetic": "[ˈkɔːʃəs]",
+ "meaning": "조심스러운, 신중한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "caut",
+   "meaning": "조심하다, 경계하다 (be on guard)",
+   "note": "라틴어 cavere(조심하다)의 과거분사 cautus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ious",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "'그런 성질이 가득한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>caut</strong> (조심하다) + <strong>-ious</strong> (~한 성질의) = '늘 경계하는 성질의'에서 <strong>'조심스러운, 신중한'</strong>이 되었어요.",
+ "historyTitle": "로마인의 경고 '조심하라!'",
+ "historyBody": "라틴어 cavere는 '조심하다, 경계하다'라는 뜻이에요. 그 과거분사 cautus에서 caution(주의)이 나왔고, 여기에 -ous가 붙어 cautious가 되었어요. 라틴어 경구 'Caveat emptor(구매자가 조심하라)'에도 같은 뿌리가 남아 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "caution",
+   "pos": "명사 / 동사",
+   "meaning": "주의, 경고 / 경고하다",
+   "en": "Use caution when driving on icy roads.",
+   "ko": "빙판길을 운전할 때는 주의하세요."
+  },
+  {
+   "word": "precaution",
+   "pos": "명사",
+   "meaning": "예방 조치, 조심",
+   "en": "As a precaution, we packed extra water.",
+   "ko": "예방 차원에서 우리는 물을 여분으로 챙겼어요."
+  },
+  {
+   "word": "cautiously",
+   "pos": "부사",
+   "meaning": "조심스럽게",
+   "en": "The cat cautiously approached the new toy.",
+   "ko": "고양이는 새 장난감에 조심스럽게 다가갔어요."
+  },
+  {
+   "word": "caveat",
+   "pos": "명사",
+   "meaning": "경고, 단서",
+   "en": "There is one caveat: the offer ends tomorrow.",
+   "ko": "단서가 하나 있어요. 그 할인은 내일 끝나요."
+  }
+ ],
+ "imageSense": "대표 의미: 살얼음판 위를 한 발 한 발 조심히 걷는 사람",
+ "imageCaption": "얼음이 깨질까 봐 발끝으로 살금살금 걷는 모습을 떠올려 보세요. 그게 바로 cautious한 태도예요.",
+ "movieLineEn": "Be cautious. We don't know what's behind that door.",
+ "movieLineKo": "조심해. 저 문 뒤에 뭐가 있는지 몰라.",
+ "storyTitle": "너무 조심스러운 다람쥐",
+ "story": "cautious(조심스러운) 다람쥐는 겨울 대비 precaution(예방 조치)으로 도토리를 100군데에 숨겼어요. 땅을 팔 때도 cautiously(조심스럽게) 주변을 살폈죠. 친구가 caution(경고)했어요. '어디 숨겼는지 기억해?' 봄이 되자 숲에는 다람쥐가 심은 참나무가 100그루 자라났답니다!"
+}

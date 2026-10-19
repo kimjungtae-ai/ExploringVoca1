@@ -1,0 +1,61 @@
+{
+ "word": "personal",
+ "pos": "형용사",
+ "phonetic": "[ˈpɜːrsənl]",
+ "meaning": "개인의, 개인적인, 사적인, 직접 하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "person",
+   "meaning": "사람 (person)",
+   "note": "라틴어 persona(가면, 인물)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "'~에 관한'이라는 뜻의 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>person</strong> (사람) + <strong>-al</strong> (~의) = 한 사람에 관한 것이라서 <strong>'개인의, 개인적인'</strong>이 되었어요.",
+ "historyTitle": "배우의 가면에서 '사람'으로",
+ "historyBody": "라틴어 persona는 원래 연극 배우가 쓰던 '가면'이나 '극 중 인물'을 뜻했고, 여기서 '사람'이라는 뜻이 나왔어요. 'per(통과해) + sonare(소리 나다)', 즉 가면을 통해 소리가 울린다는 풀이가 유명하지만, 학자들은 이를 민간 어원으로 보고 에트루리아어 phersu(가면)에서 왔을 가능성을 더 크게 봐요. persona 자체의 정확한 기원은 확실하지 않아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "person",
+   "pos": "명사",
+   "meaning": "사람",
+   "en": "She is the kindest person I know.",
+   "ko": "그녀는 내가 아는 가장 친절한 사람이에요."
+  },
+  {
+   "word": "personality",
+   "pos": "명사",
+   "meaning": "성격, 개성",
+   "en": "He has a cheerful personality.",
+   "ko": "그는 쾌활한 성격을 가졌어요."
+  },
+  {
+   "word": "personally",
+   "pos": "부사",
+   "meaning": "개인적으로, 직접",
+   "en": "I personally prefer tea to coffee.",
+   "ko": "저는 개인적으로 커피보다 차를 좋아해요."
+  },
+  {
+   "word": "impersonal",
+   "pos": "형용사",
+   "meaning": "비인간적인, 개인과 무관한",
+   "en": "The hospital felt cold and impersonal.",
+   "ko": "그 병원은 차갑고 비인간적으로 느껴졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 자물쇠가 달린 나만의 일기장",
+ "imageCaption": "나만 볼 수 있는 일기장과 휴대폰처럼 '나 한 사람'에게 속한 물건들을 떠올려 보세요.",
+ "movieLineEn": "Sorry, it's nothing personal. It's just business.",
+ "movieLineKo": "미안, 개인적인 감정은 없어. 그냥 일일 뿐이야.",
+ "storyTitle": "개인 비서 로봇",
+ "story": "민호는 personal(개인의) 비서 로봇을 샀어요. 로봇은 민호의 personality(성격)를 분석해 모든 걸 personally(직접) 챙겨 줬죠. 그런데 너무 열심이라 민호 대신 숙제까지 했어요! 선생님은 '이 사람(person)은 누구지? 글씨가 너무 반듯한데?'라며 의심하셨대요."
+}

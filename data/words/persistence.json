@@ -1,0 +1,74 @@
+{
+ "word": "persistence",
+ "pos": "명사",
+ "phonetic": "[pərˈsɪstəns]",
+ "meaning": "끈기, 고집, 지속",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "per-",
+   "meaning": "끝까지, 완전히 (thoroughly)",
+   "note": "처음부터 끝까지 꾸준히라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sist",
+   "meaning": "서다, 버티다 (stand)",
+   "note": "라틴어 sistere(서다, 세우다)에서 왔어요. stare(서다)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~함 (명사)",
+   "note": "상태나 성질을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>per-</strong> (끝까지) + <strong>sist</strong> (서 있다) + <strong>-ence</strong> (~함) = 끝까지 버티고 서 있는 것이라서 <strong>'끈기, 지속'</strong>이 되었어요.",
+ "historyTitle": "끝까지 '서서' 버티기",
+ "historyBody": "라틴어 persistere는 per-(끝까지)와 sistere(서다)가 합쳐져 '꿋꿋이 계속하다'라는 뜻이었어요. 16세기에 영어 persist가 되었고, 명사형 persistence가 함께 쓰였어요. insist, resist, assist도 모두 '서다'라는 같은 뿌리를 가진 친척이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "persist",
+   "pos": "동사",
+   "meaning": "지속하다, 고집하다",
+   "en": "If the pain persists, see a doctor.",
+   "ko": "통증이 계속되면 병원에 가세요."
+  },
+  {
+   "word": "persistent",
+   "pos": "형용사",
+   "meaning": "끈질긴, 지속적인",
+   "en": "Her persistent effort finally paid off.",
+   "ko": "그녀의 끈질긴 노력이 마침내 결실을 맺었어요."
+  },
+  {
+   "word": "insist",
+   "pos": "동사",
+   "meaning": "주장하다, 고집하다",
+   "en": "He insisted on paying for dinner.",
+   "ko": "그는 저녁값을 자기가 내겠다고 고집했어요."
+  },
+  {
+   "word": "resist",
+   "pos": "동사",
+   "meaning": "저항하다, 참다",
+   "en": "I couldn't resist the smell of fresh bread.",
+   "ko": "갓 구운 빵 냄새를 참을 수가 없었어요."
+  },
+  {
+   "word": "assist",
+   "pos": "동사",
+   "meaning": "돕다",
+   "en": "Volunteers assisted the elderly at the event.",
+   "ko": "자원봉사자들이 행사에서 어르신들을 도왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어져도 계속 일어나 다시 달리는 마라톤 선수",
+ "imageCaption": "비가 와도, 다리가 아파도 결승선까지 포기하지 않고 걸어가는 사람을 떠올려 보세요.",
+ "movieLineEn": "Talent is nothing without persistence.",
+ "movieLineKo": "끈기 없는 재능은 아무것도 아니야.",
+ "storyTitle": "끈기의 달팽이",
+ "story": "달팽이가 나무 꼭대기의 사과를 먹겠다고 insist(주장하다)했어요. 친구들은 말렸지만 달팽이는 persistence(끈기)로 오르고 또 올랐죠. 바람에도 resist(저항하다)하며 persist(지속하다)한 지 석 달! 드디어 꼭대기에 도착했는데… 사과는 이미 땅에 떨어져 있었대요. 그래도 경치는 최고였답니다."
+}

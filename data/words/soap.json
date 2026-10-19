@@ -1,0 +1,48 @@
+{
+ "word": "soap",
+ "pos": "명사",
+ "phonetic": "[soʊp]",
+ "meaning": "비누",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "soap (sape)",
+   "meaning": "비누 (soap)",
+   "note": "고대 영어 sape에서 온 게르만계 단어예요. 라틴어 sapo도 게르만어에서 빌려 간 것으로 보여요."
+  }
+ ],
+ "summary": "<strong>soap</strong>는 고대 영어 sape에서 온 말로 <strong>'비누'</strong>를 뜻해요.",
+ "historyTitle": "게르만족이 로마에 건넨 단어",
+ "historyBody": "soap는 고대 영어 sape에서 왔어요. 로마 학자 플리니우스는 갈리아와 게르만 사람들이 sapo라는 것으로 머리를 붉게 물들인다고 기록했는데, 이 라틴어 sapo가 게르만어에서 빌려 간 말로 여겨져요. 'soap opera'는 1930년대 미국 라디오 드라마를 비누 회사들이 후원한 데서 나온 표현이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "soapy",
+   "pos": "형용사",
+   "meaning": "비누의, 비누투성이의",
+   "en": "Wash the dishes in warm, soapy water.",
+   "ko": "따뜻한 비눗물에 설거지를 하세요."
+  },
+  {
+   "word": "soap opera",
+   "pos": "명사",
+   "meaning": "(TV·라디오) 연속극",
+   "en": "My grandma never misses her favorite soap opera.",
+   "ko": "할머니는 좋아하는 연속극을 절대 놓치지 않으세요."
+  },
+  {
+   "word": "soap bubble",
+   "pos": "명사",
+   "meaning": "비눗방울",
+   "en": "The kids chased soap bubbles in the park.",
+   "ko": "아이들은 공원에서 비눗방울을 쫓아다녔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손에 거품을 내며 깨끗이 씻는 모습",
+ "imageCaption": "하얀 비누 거품이 손가락 사이로 몽글몽글 피어나는 장면을 떠올려 보세요.",
+ "movieLineEn": "Wash your hands with soap. We don't know what's on that thing.",
+ "movieLineKo": "비누로 손 씻어. 그게 뭐가 묻었는지 모르잖아.",
+ "storyTitle": "막장 드라마 같은 하루",
+ "story": "할머니는 soap opera(연속극)의 열혈 팬이에요. 드라마를 보며 soapy(비누투성이의) 손으로 설거지를 하셨죠. 그러다 soap(비누)이 미끄러져 휙 날아갔어요! 비누는 창밖으로 나가 soap bubble(비눗방울)을 날리던 이웃집 아이 머리에 착 붙었죠. 그야말로 드라마 같은 twist(반전)였어요."
+}

@@ -1,0 +1,41 @@
+{
+ "word": "wig",
+ "pos": "명사",
+ "phonetic": "[wɪɡ]",
+ "meaning": "가발",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "wig (← periwig)",
+   "meaning": "가발 (periwig)",
+   "note": "17세기 단어 periwig를 줄인 말이에요. periwig의 뿌리인 프랑스어 perruque의 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>periwig</strong> (가발)의 뒷부분만 남아 <strong>'가발'</strong>이 되었어요.",
+ "historyTitle": "길었던 단어가 짧아지다",
+ "historyBody": "wig는 17세기에 periwig를 줄여 만든 말이에요. periwig는 프랑스어 perruque(가발)가 영어식으로 바뀐 형태인데, perruque 자체의 기원은 학자들 사이에서도 확실하지 않아요. 당시 유럽 귀족과 판사들은 하얀 가발을 즐겨 썼답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "periwig",
+   "pos": "명사",
+   "meaning": "(17~18세기의) 긴 가발",
+   "en": "The judge in the painting wears a white periwig.",
+   "ko": "그림 속 판사는 하얀 긴 가발을 쓰고 있어요."
+  },
+  {
+   "word": "wigmaker",
+   "pos": "명사",
+   "meaning": "가발 제작자",
+   "en": "The wigmaker used real hair for the costume.",
+   "ko": "가발 제작자는 의상에 진짜 머리카락을 사용했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 뒤에서 알록달록한 가발을 써 보는 배우",
+ "imageCaption": "연극 무대 뒤 거울 앞에서 금발, 은발 가발을 바꿔 쓰는 배우를 떠올려 보세요.",
+ "movieLineEn": "Nice wig. Did you think I wouldn't recognize you?",
+ "movieLineKo": "가발 멋지네. 내가 못 알아볼 줄 알았어?",
+ "storyTitle": "바람 부는 날의 변장",
+ "story": "탐정 지우는 범인을 쫓으려 금발 wig(가발)를 썼어요. 옛날 판사처럼 periwig(긴 가발)까지 고민했지만 너무 튀었죠. 완벽한 변장이라 자신했는데, 갑자기 강풍이 불었어요. 가발은 날아가 범인 머리에 쏙! 범인은 wigmaker(가발 제작자)였고, 품질에 감탄하며 자수했답니다."
+}

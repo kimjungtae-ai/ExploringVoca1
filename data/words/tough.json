@@ -1,0 +1,48 @@
+{
+ "word": "tough",
+ "pos": "형용사",
+ "phonetic": "[tʌf]",
+ "meaning": "힘든, 어려운, 강인한, 질긴, 엄격한",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tough (← tōh)",
+   "meaning": "질긴, 끈끈한 (strong, sticky)",
+   "note": "고대 영어 tōh에서 온 순수 영어 단어라 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "고대 영어 <strong>tōh</strong> (질긴)에서 와서 <strong>'강인한, 힘든, 어려운'</strong>이 되었어요.",
+ "historyTitle": "질긴 고기에서 힘든 시험까지",
+ "historyBody": "tough는 고대 영어 'tōh(질긴, 끈적한)'에서 온 오래된 게르만어 단어예요. 처음엔 잘 끊어지지 않는 물건이나 고기를 묘사했는데, 점점 '끈기 있는 사람', 그리고 '버티기 힘든 상황'까지 뜻이 넓어졌어요. gh 철자가 '프' 소리로 바뀐 것은 영어 발음 변화 때문이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "toughness",
+   "pos": "명사",
+   "meaning": "강인함, 질김",
+   "en": "Her toughness helped her finish the marathon.",
+   "ko": "그녀의 강인함 덕분에 마라톤을 완주할 수 있었어요."
+  },
+  {
+   "word": "toughen",
+   "pos": "동사",
+   "meaning": "강하게 하다, 엄격하게 하다",
+   "en": "The school decided to toughen its rules on phone use.",
+   "ko": "학교는 휴대폰 사용 규칙을 더 엄격하게 하기로 했어요."
+  },
+  {
+   "word": "tougher",
+   "pos": "형용사",
+   "meaning": "더 힘든, 더 강한",
+   "en": "This year's exam was tougher than last year's.",
+   "ko": "올해 시험은 작년보다 더 어려웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비바람 속에서도 꿋꿋이 산을 오르는 등산가",
+ "imageCaption": "잘 씹히지 않는 질긴 고기, 그리고 거센 바람에도 버티는 사람을 떠올려 보세요. 둘 다 tough예요.",
+ "movieLineEn": "When things get tough, the tough keep going.",
+ "movieLineKo": "상황이 힘들어지면, 강한 사람은 계속 나아가는 법이지.",
+ "storyTitle": "질긴 스테이크 결투",
+ "story": "강철 이빨 아저씨는 세상에서 제일 tough(질긴) 스테이크에 도전했어요. 씹을수록 tougher(더 힘든) 싸움이 되었죠. 결국 턱의 toughness(강인함)를 자랑하며 다 먹었는데, 셰프가 말했어요. \"손님, 그건 접시 받침용 가죽이었어요!\" 아저씨는 이빨을 toughen(강하게 하다)하는 훈련을 했다고 우겼답니다."
+}

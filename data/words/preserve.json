@@ -1,0 +1,61 @@
+{
+ "word": "preserve",
+ "pos": "동사 / 명사",
+ "phonetic": "[prɪˈzɜːrv]",
+ "meaning": "보존하다, 지키다, 보호하다 / 보호 구역, 잼",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "미리, 앞서 (before)",
+   "note": "일이 생기기 전에 미리라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "serve",
+   "meaning": "지키다, 보존하다 (keep, guard)",
+   "note": "라틴어 servare(지키다)에서 왔어요. '섬기다'의 serve와는 다른 뿌리예요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (미리) + <strong>serve</strong> (지키다) = 상하기 전에 미리 지킨다는 뜻에서 <strong>'보존하다, 보호하다'</strong>가 되었어요.",
+ "historyTitle": "미리 '지켜 두는' 지혜",
+ "historyBody": "중세 라틴어 praeservare는 prae-(미리)와 servare(지키다, 보관하다)가 합쳐진 말이에요. 고대 프랑스어를 거쳐 14세기 영어로 들어왔어요. 냉장고가 없던 시절 과일을 설탕에 졸여 보관했기 때문에 preserve가 '잼'이라는 명사로도 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "preservation",
+   "pos": "명사",
+   "meaning": "보존, 보호",
+   "en": "The preservation of old buildings is important.",
+   "ko": "오래된 건물을 보존하는 것은 중요해요."
+  },
+  {
+   "word": "conserve",
+   "pos": "동사",
+   "meaning": "아끼다, 보존하다",
+   "en": "Turn off the lights to conserve energy.",
+   "ko": "에너지를 아끼려면 불을 끄세요."
+  },
+  {
+   "word": "reserve",
+   "pos": "동사/명사",
+   "meaning": "예약하다 / 비축",
+   "en": "I reserved a table for four at the restaurant.",
+   "ko": "식당에 네 명 자리를 예약했어요."
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "meaning": "관찰하다, 준수하다",
+   "en": "Students observed the stars through a telescope.",
+   "ko": "학생들은 망원경으로 별을 관찰했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 유리병 속에 담긴 딸기잼과 보호 구역의 숲",
+ "imageCaption": "할머니가 여름 딸기를 잼으로 만들어 유리병에 꼭꼭 보관하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We must preserve this forest for our children.",
+ "movieLineKo": "우리는 아이들을 위해 이 숲을 지켜야 해.",
+ "storyTitle": "영원히 보존된 도시락",
+ "story": "환경 동아리가 숲을 preserve(보호하다)하는 캠페인을 열었어요. 에너지를 conserve(아끼다)하려고 불도 껐죠. 깜깜한 숲에서 별을 observe(관찰하다)하던 중, 한 학생이 1년 전 숨겨 둔 도시락을 발견했어요. 놀랍게도 완벽한 preservation(보존) 상태! 알고 보니 엄마표 장아찌였대요."
+}

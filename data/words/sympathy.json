@@ -1,0 +1,74 @@
+{
+ "word": "sympathy",
+ "pos": "명사",
+ "phonetic": "[ˈsɪmpəθi]",
+ "meaning": "동정, 연민, 공감, 동의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sym- (syn-)",
+   "meaning": "함께 (together)",
+   "note": "그리스어 syn(함께)이 p 앞에서 sym-이 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "path",
+   "meaning": "느낌, 고통 (feeling, suffering)",
+   "note": "그리스어 pathos(감정, 고통)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~하는 것 (명사형)",
+   "note": "추상명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sym-</strong> (함께) + <strong>path</strong> (느끼다) + <strong>-y</strong> = '함께 느끼는 것'에서 <strong>'동정, 공감'</strong>이 되었어요.",
+ "historyTitle": "고통을 함께 느끼는 마음",
+ "historyBody": "그리스어 sympatheia는 '함께 느끼는 것, 같은 감정'을 뜻했어요. 라틴어를 거쳐 16세기 영어로 들어왔고, 다른 사람의 슬픔을 함께 느끼는 '동정, 연민'이라는 뜻이 중심이 되었어요. empathy(감정 이입)는 20세기 초에 같은 뿌리로 만들어진 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sympathetic",
+   "pos": "형용사",
+   "meaning": "동정하는, 공감하는",
+   "en": "The teacher was sympathetic to my problem.",
+   "ko": "선생님은 내 문제에 공감해 주셨어요."
+  },
+  {
+   "word": "sympathize",
+   "pos": "동사",
+   "meaning": "동정하다, 공감하다",
+   "en": "I sympathize with people who lost their homes.",
+   "ko": "나는 집을 잃은 사람들에게 깊이 공감해요."
+  },
+  {
+   "word": "empathy",
+   "pos": "명사",
+   "meaning": "공감, 감정 이입",
+   "en": "Good doctors show empathy for their patients.",
+   "ko": "좋은 의사는 환자에게 공감을 보여요."
+  },
+  {
+   "word": "apathy",
+   "pos": "명사",
+   "meaning": "무관심",
+   "en": "Voter apathy is a serious problem.",
+   "ko": "유권자의 무관심은 심각한 문제예요."
+  },
+  {
+   "word": "pathetic",
+   "pos": "형용사",
+   "meaning": "한심한, 애처로운",
+   "en": "The lost puppy looked pathetic in the rain.",
+   "ko": "길 잃은 강아지가 빗속에서 애처로워 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 우는 친구의 어깨를 토닥여 주는 장면",
+ "imageCaption": "슬퍼하는 친구 옆에 앉아 말없이 어깨를 토닥여 주는 모습을 떠올려 보세요. 슬픔을 '함께 느끼는' 마음이에요.",
+ "movieLineEn": "I don't need your sympathy. I need your help!",
+ "movieLineKo": "네 동정은 필요 없어. 네 도움이 필요해!",
+ "storyTitle": "공감왕 강아지",
+ "story": "시험을 망친 내가 울고 있자, 강아지가 다가와 sympathy(동정)의 눈빛을 보냈어요. 정말 sympathetic(공감하는) 친구였죠. 형은 apathy(무관심)한 얼굴로 게임만 했어요. 감동한 나는 강아지에게 간식을 줬는데, 그 뒤로 강아지는 내가 울 때마다 empathy(공감)를 보이며 간식 서랍 앞에 앉아 있었답니다!"
+}

@@ -1,0 +1,69 @@
+{
+ "word": "scent",
+ "pos": "명사",
+ "phonetic": "[sent]",
+ "meaning": "향기, 냄새, 낌새",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "scent (sent)",
+   "meaning": "느끼다, 감지하다 (feel, perceive)",
+   "note": "라틴어 sentire(느끼다)에서 온 프랑스어 sentir(냄새 맡다)가 바탕이에요. c는 17세기에 덧붙은 글자예요."
+  }
+ ],
+ "summary": "<strong>scent</strong>는 라틴어 sentire(느끼다)에서 와서 '코로 느끼는 것', 즉 <strong>'향기, 냄새'</strong>가 되었어요.",
+ "historyTitle": "c는 나중에 끼어든 글자",
+ "historyBody": "scent는 고대 프랑스어 sentir(느끼다, 냄새 맡다)에서 온 말로, 14세기 영어에서는 sent라고 썼어요. 17세기에 science나 scene 같은 단어의 영향으로 c가 끼어들었다고 해요. 뿌리 sentire(느끼다)는 sense(감각), sentiment(감정)에도 들어 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sense",
+   "pos": "명사 / 동사",
+   "meaning": "감각, 의미 / 감지하다",
+   "en": "Dogs have a much better sense of smell than humans.",
+   "ko": "개는 사람보다 후각이 훨씬 뛰어나요."
+  },
+  {
+   "word": "sensitive",
+   "pos": "형용사",
+   "meaning": "민감한, 예민한",
+   "en": "My skin is sensitive to strong sunlight.",
+   "ko": "내 피부는 강한 햇빛에 민감해요."
+  },
+  {
+   "word": "sentiment",
+   "pos": "명사",
+   "meaning": "감정, 정서",
+   "en": "The letter was full of warm sentiment.",
+   "ko": "그 편지는 따뜻한 감정으로 가득했어요."
+  },
+  {
+   "word": "sensation",
+   "pos": "명사",
+   "meaning": "느낌, 감각, 센세이션",
+   "en": "I felt a strange sensation in my fingers.",
+   "ko": "나는 손가락에 이상한 느낌이 들었어요."
+  },
+  {
+   "word": "consent",
+   "pos": "명사 / 동사",
+   "meaning": "동의 / 동의하다",
+   "en": "You need your parents' consent to join the trip.",
+   "ko": "여행에 참가하려면 부모님의 동의가 필요해요."
+  },
+  {
+   "word": "resent",
+   "pos": "동사",
+   "meaning": "분하게 여기다",
+   "en": "She resented being treated like a child.",
+   "ko": "그녀는 어린애 취급받는 것이 분했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃밭을 지날 때 코끝을 스치는 은은한 향기",
+ "imageCaption": "봄날 라일락 나무 옆을 지날 때 바람에 실려 오는 꽃향기를 떠올려 보세요.",
+ "movieLineEn": "The dogs have picked up his scent. He went this way!",
+ "movieLineKo": "개들이 그의 냄새를 찾았어. 이쪽으로 갔어!",
+ "storyTitle": "명탐정 강아지",
+ "story": "강아지 탐정 콩이는 sense(감각) 중 후각이 최고예요. 사라진 소시지 사건을 맡자, 콩이의 sensitive(예민한) 코가 scent(냄새)를 따라갔죠. 범인을 찾았다는 sensation(흥분)도 잠시, 냄새는 콩이의 집 안으로 이어졌어요. 범인은 어젯밤 잠결에 소시지를 먹은 콩이 자신이었답니다!"
+}

@@ -1,0 +1,81 @@
+{
+ "word": "unused",
+ "pos": "형용사",
+ "phonetic": "[ʌnˈjuːzd]",
+ "meaning": "사용되지 않은, 쓰지 않은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "un-",
+   "meaning": "~이 아닌 (not)",
+   "note": "뒤에 오는 말의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "use (← usus)",
+   "meaning": "사용하다 (use)",
+   "note": "라틴어 uti(사용하다)의 과거분사 usus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사형)",
+   "note": "어떤 상태가 된 것을 나타내요."
+  }
+ ],
+ "summary": "<strong>un-</strong> (아닌) + <strong>use</strong> (사용하다) + <strong>-ed</strong> (~된) = 사용되지 않은, 즉 <strong>'쓰지 않은'</strong>이 되었어요.",
+ "historyTitle": "라틴어 uti, 쓰는 동사",
+ "historyBody": "use는 라틴어 'uti(사용하다)'의 과거분사 'usus'에서 고대 프랑스어를 거쳐 들어온 말이에요. 같은 동사에서 utensil(도구), utility(유용성), utilize(활용하다)도 나왔죠. 여기에 un-과 -ed가 붙어 '아직 쓰이지 않은'이라는 unused가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "use",
+   "pos": "동사 / 명사",
+   "meaning": "사용하다 / 사용",
+   "en": "Can I use your pen for a moment?",
+   "ko": "잠깐 네 펜 좀 써도 될까?"
+  },
+  {
+   "word": "useful",
+   "pos": "형용사",
+   "meaning": "유용한",
+   "en": "This app is useful for learning new words.",
+   "ko": "이 앱은 새 단어를 배우는 데 유용해요."
+  },
+  {
+   "word": "usage",
+   "pos": "명사",
+   "meaning": "사용(법), 사용량",
+   "en": "Our electricity usage goes up in summer.",
+   "ko": "여름에는 우리 집 전기 사용량이 늘어나요."
+  },
+  {
+   "word": "misuse",
+   "pos": "명사 / 동사",
+   "meaning": "남용, 오용 / 잘못 사용하다",
+   "en": "The misuse of medicine can be dangerous.",
+   "ko": "약을 잘못 사용하면 위험할 수 있어요."
+  },
+  {
+   "word": "abuse",
+   "pos": "명사 / 동사",
+   "meaning": "남용, 학대 / 남용하다",
+   "en": "He was punished for the abuse of his power.",
+   "ko": "그는 권력을 남용한 것 때문에 처벌받았어요."
+  },
+  {
+   "word": "utilize",
+   "pos": "동사",
+   "meaning": "활용하다",
+   "en": "We should utilize our free time wisely.",
+   "ko": "우리는 자유 시간을 현명하게 활용해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 포장도 뜯지 않은 채 서랍 속에 잠든 새 물건",
+ "imageCaption": "선물로 받았지만 한 번도 쓰지 않고 서랍에 넣어 둔 새 물건을 떠올려 보세요.",
+ "movieLineEn": "This sword has been unused for a hundred years.",
+ "movieLineKo": "이 검은 백 년 동안 한 번도 쓰이지 않았지.",
+ "storyTitle": "서랍 속 운동 기구",
+ "story": "아빠는 홈쇼핑에서 산 복근 운동 기구를 unused(사용되지 않은) 채 서랍에 넣어 두셨어요. \"정말 useful(유용한) 물건인데!\"라고 하시면서요. 어느 날 엄마가 그 기구를 꺼내 use(사용하다)했어요. 그걸로 김장 배추를 눌러 두는 데 utilize(활용하다)했죠. 기구는 드디어 제 역할을 찾았답니다."
+}

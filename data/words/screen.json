@@ -1,0 +1,55 @@
+{
+ "word": "screen",
+ "pos": "명사 / 동사",
+ "phonetic": "[skriːn]",
+ "meaning": "화면, 칸막이, 가리개 / 가리다, 상영하다, 검사하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "screen (escren)",
+   "meaning": "칸막이, 가리개 (shield)",
+   "note": "고대 북부 프랑스어 escren에서 왔고, 게르만어(중세 네덜란드어 scherm 등)에서 온 것으로 추정돼요."
+  }
+ ],
+ "summary": "<strong>screen</strong>은 '가리개, 칸막이'에서 빛을 비추는 <strong>'화면'</strong>까지 뜻이 넓어졌어요.",
+ "historyTitle": "벽난로 가리개에서 스마트폰 화면까지",
+ "historyBody": "screen은 14세기에 고대 북부 프랑스어 escren(가리개, 칸막이)에서 영어로 들어왔어요. 그 이전은 게르만어(중세 네덜란드어 scherm '방패, 가리개')에서 왔다고 보지만 확실하지는 않아요. 처음엔 벽난로의 열을 막는 가리개였는데, 영사막을 거쳐 오늘날의 TV·스마트폰 화면이 되었답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "screenshot",
+   "pos": "명사",
+   "meaning": "스크린숏, 화면 캡처",
+   "en": "I took a screenshot of the bus schedule.",
+   "ko": "나는 버스 시간표를 화면 캡처했어요."
+  },
+  {
+   "word": "touchscreen",
+   "pos": "명사",
+   "meaning": "터치스크린",
+   "en": "Young children learn to use touchscreens very quickly.",
+   "ko": "어린아이들은 터치스크린 사용법을 아주 빨리 배워요."
+  },
+  {
+   "word": "sunscreen",
+   "pos": "명사",
+   "meaning": "자외선 차단제",
+   "en": "Don't forget to put on sunscreen at the beach.",
+   "ko": "해변에서 자외선 차단제 바르는 거 잊지 마세요."
+  },
+  {
+   "word": "screening",
+   "pos": "명사",
+   "meaning": "상영, (건강) 검진, 심사",
+   "en": "The film's first screening was sold out.",
+   "ko": "그 영화의 첫 상영은 매진되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어두운 극장에서 빛나는 커다란 스크린",
+ "imageCaption": "불이 꺼진 영화관에서 커다란 화면이 환하게 빛나는 순간을 떠올려 보세요.",
+ "movieLineEn": "Everyone, look at the screen. This is our enemy.",
+ "movieLineKo": "모두 화면을 봐. 이게 우리의 적이다.",
+ "storyTitle": "자외선 차단의 반전",
+ "story": "누나는 휴대폰 screen(화면)만 보느라 햇볕에 그을릴까 봐 sunscreen(자외선 차단제)을 듬뿍 발랐어요. 그리고 셀카를 찍어 screenshot(화면 캡처)까지 남겼죠. 그런데 touchscreen(터치스크린)이 말을 안 들었어요. 손에 묻은 선크림 때문에 화면이 하얗게 번들거렸던 거예요!"
+}

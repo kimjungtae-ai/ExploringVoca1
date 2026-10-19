@@ -1,0 +1,48 @@
+{
+ "word": "swipe",
+ "pos": "동사 / 명사",
+ "phonetic": "[swaɪp]",
+ "meaning": "(카드를) 긁다, (화면을) 밀다, 휘두르다, 슬쩍 훔치다 / 휘두르기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "swipe (← sweep?)",
+   "meaning": "휘두르다, 쓸다 (sweep)",
+   "note": "sweep(쓸다)의 변형으로 보는 견해가 많지만 확실하지는 않아요."
+  }
+ ],
+ "summary": "<strong>swipe</strong>는 쪼개기 어려운 단어로, '쓸듯이 휘두르다'라는 뜻에서 <strong>'화면을 밀다, 카드를 긁다'</strong>가 되었어요.",
+ "historyTitle": "빗자루질에서 스마트폰까지",
+ "historyBody": "swipe는 18세기 중반 '세게 휘둘러 치다'라는 뜻으로 기록되었고, sweep(쓸다)의 변형일 가능성이 높다고 보지만 확실하지는 않아요. 20세기 후반에는 카드를 기계에 긁는 동작, 21세기에는 스마트폰 화면을 손가락으로 쓸어 넘기는 동작을 뜻하게 되었어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "sweep",
+   "pos": "동사",
+   "meaning": "쓸다, 휩쓸다",
+   "en": "Please sweep the floor after dinner.",
+   "ko": "저녁 먹고 나서 바닥 좀 쓸어 줘."
+  },
+  {
+   "word": "sweeper",
+   "pos": "명사",
+   "meaning": "청소부, 청소기",
+   "en": "The street sweeper starts work at dawn.",
+   "ko": "거리 청소부는 새벽에 일을 시작해요."
+  },
+  {
+   "word": "swiping",
+   "pos": "명사",
+   "meaning": "(화면) 넘기기",
+   "en": "Endless swiping on your phone wastes time.",
+   "ko": "휴대폰 화면을 끝없이 넘기는 건 시간 낭비예요."
+  }
+ ],
+ "imageSense": "대표 의미: 손가락으로 스마트폰 화면을 옆으로 미는 장면",
+ "imageCaption": "사진을 넘기려고 손가락으로 화면을 '쓱' 옆으로 미는 동작을 떠올려 보세요. 빗자루로 쓰는 동작과 닮았죠.",
+ "movieLineEn": "Just swipe your card here and you're good to go.",
+ "movieLineKo": "여기에 카드만 긁으시면 돼요.",
+ "storyTitle": "청소 로봇의 반란",
+ "story": "나는 침대에 누워 휴대폰 화면만 swipe(넘기다)하고 있었어요. 엄마가 방을 sweep(쓸다)하라고 하셨지만 swiping(화면 넘기기)을 멈출 수 없었죠. 결국 엄마는 sweeper(청소기) 로봇을 켜셨어요. 그런데 로봇이 바닥에 떨어진 내 충전기 줄을 꿀꺽 삼켜 버렸답니다. 그날 휴대폰은 일찍 잠들었어요!"
+}

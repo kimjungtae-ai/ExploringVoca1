@@ -1,0 +1,87 @@
+{
+ "word": "scratch-resistant",
+ "pos": "형용사",
+ "phonetic": "[ˈskrætʃ rɪzɪstənt]",
+ "meaning": "긁힘 방지의, 흠집이 잘 나지 않는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "scratch",
+   "meaning": "긁다, 긁힌 자국 (scratch)",
+   "note": "15세기 영어 단어로, scrat와 cratch(둘 다 '긁다')가 섞인 것으로 보이지만 확실하지 않아요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "~에 맞서, 거슬러 (against)",
+   "note": "resist 안에 들어 있는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sist",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 sistere(서다, 세우다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ant",
+   "meaning": "~하는 (형용사를 만듦)",
+   "note": "'~하는 성질의'라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>scratch</strong> (긁힘) + <strong>re-</strong> (맞서) + <strong>sist</strong> (서다) + <strong>-ant</strong> = '긁힘에 맞서 버티는'에서 <strong>'긁힘 방지의'</strong>가 되었어요.",
+ "historyTitle": "긁힘에 맞서 버티고 서다",
+ "historyBody": "resist는 라틴어 resistere(맞서 버티고 서다)에서 왔어요. scratch는 15세기 무렵 나타난 말로, 비슷한 뜻의 scrat와 cratch가 섞여 생긴 것으로 보이지만 정확한 기원은 분명하지 않아요. 두 단어가 하이픈으로 묶여 휴대폰 화면이나 안경 렌즈를 설명하는 현대적인 표현이 되었답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "resist",
+   "pos": "동사",
+   "meaning": "저항하다, 참다",
+   "en": "I couldn't resist eating another piece of cake.",
+   "ko": "나는 케이크 한 조각을 더 먹는 걸 참을 수 없었어요."
+  },
+  {
+   "word": "resistance",
+   "pos": "명사",
+   "meaning": "저항, 저항력",
+   "en": "Exercise builds the body's resistance to illness.",
+   "ko": "운동은 질병에 대한 몸의 저항력을 길러 줘요."
+  },
+  {
+   "word": "water-resistant",
+   "pos": "형용사",
+   "meaning": "방수의, 물에 강한",
+   "en": "My new watch is water-resistant.",
+   "ko": "내 새 시계는 방수가 돼요."
+  },
+  {
+   "word": "scratch",
+   "pos": "동사 / 명사",
+   "meaning": "긁다 / 긁힌 자국",
+   "en": "The cat scratched the new sofa.",
+   "ko": "고양이가 새 소파를 긁었어요."
+  },
+  {
+   "word": "insist",
+   "pos": "동사",
+   "meaning": "주장하다, 고집하다",
+   "en": "She insisted on paying for dinner.",
+   "ko": "그녀는 저녁값을 내겠다고 고집했어요."
+  },
+  {
+   "word": "assist",
+   "pos": "동사",
+   "meaning": "돕다",
+   "en": "Volunteers assisted the elderly at the event.",
+   "ko": "자원봉사자들이 행사에서 어르신들을 도왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 열쇠로 긁어도 흠집 하나 없는 휴대폰 화면",
+ "imageCaption": "주머니 속 열쇠와 동전 사이에서도 멀쩡한 매끈한 화면을 떠올려 보세요.",
+ "movieLineEn": "Relax. This armor is scratch-resistant and bulletproof.",
+ "movieLineKo": "걱정 마. 이 갑옷은 긁힘 방지에 방탄까지 돼.",
+ "storyTitle": "절대 안 긁히는 안경",
+ "story": "아빠는 scratch-resistant(긁힘 방지의) 안경을 사 오셨어요. 판매원이 water-resistant(방수의)까지 된다고 insist(주장하다)했대요. 고양이가 아무리 scratch(긁다)해도 멀쩡했죠! 아빠는 기뻐서 안경을 머리에 올린 채 하루 종일 안경을 찾으셨어요. 렌즈는 튼튼해도 기억력은 resist(버티다)하지 못했나 봐요."
+}

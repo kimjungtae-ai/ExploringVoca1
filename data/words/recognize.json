@@ -1,0 +1,67 @@
+{
+ "word": "recognize",
+ "pos": "동사",
+ "phonetic": "[ˈrekəɡnaɪz]",
+ "meaning": "알아보다, 인정하다, 인식하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "전에 알던 것을 다시라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cogn",
+   "meaning": "알다 (know)",
+   "note": "라틴어 cognoscere(알게 되다)에서 왔어요. com-(완전히) + gnoscere(알다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>cogn</strong> (알다) + <strong>-ize</strong> (~하다) = 전에 알던 것을 다시 알아본다는 뜻에서 <strong>'알아보다, 인정하다'</strong>가 되었어요.",
+ "historyTitle": "'다시 알아보는' 순간",
+ "historyBody": "라틴어 recognoscere는 re-(다시)와 cognoscere(알다)가 합쳐져 '다시 알다, 확인하다'라는 뜻이었어요. 고대 프랑스어 reconoistre를 거쳐 15세기 영어로 들어왔고, -ize 형태는 영어에서 나중에 자리 잡았어요. '사실이나 가치를 인정하다'라는 뜻도 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "recognition",
+   "pos": "명사",
+   "meaning": "인식, 인정, 알아봄",
+   "en": "She received recognition for her volunteer work.",
+   "ko": "그녀는 봉사 활동으로 인정을 받았어요."
+  },
+  {
+   "word": "cognitive",
+   "pos": "형용사",
+   "meaning": "인지의",
+   "en": "Sleep helps our cognitive abilities.",
+   "ko": "잠은 우리의 인지 능력에 도움이 돼요."
+  },
+  {
+   "word": "cognition",
+   "pos": "명사",
+   "meaning": "인지, 인식",
+   "en": "Music can improve cognition in older people.",
+   "ko": "음악은 노인들의 인지 기능을 향상시킬 수 있어요."
+  },
+  {
+   "word": "recognizable",
+   "pos": "형용사",
+   "meaning": "알아볼 수 있는",
+   "en": "His voice is easily recognizable.",
+   "ko": "그의 목소리는 쉽게 알아볼 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 10년 만에 만난 친구를 한눈에 알아보는 장면",
+ "imageCaption": "사람 많은 거리에서 '어? 너 혹시…!' 하고 옛 친구를 알아보는 순간을 떠올려 보세요.",
+ "movieLineEn": "I almost didn't recognize you without your glasses.",
+ "movieLineKo": "안경 안 쓰니까 하마터면 못 알아볼 뻔했어.",
+ "storyTitle": "아무도 못 알아본 선생님",
+ "story": "담임 선생님이 주말에 머리를 빨갛게 염색하셨어요. 월요일 아침, 아무도 선생님을 recognize(알아보다)하지 못했죠. 학생들의 cognitive(인지의) 능력 시험이 시작된 거예요! 결국 선생님 목소리로 recognition(알아봄)에 성공했어요. 그런데 사실 그건 새로 온 쌍둥이 동생 선생님이었대요!"
+}

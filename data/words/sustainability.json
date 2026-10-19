@@ -1,0 +1,87 @@
+{
+ "word": "sustainability",
+ "pos": "명사",
+ "phonetic": "[səˌsteɪnəˈbɪləti]",
+ "meaning": "지속 가능성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sus- (sub-)",
+   "meaning": "아래에서 (under)",
+   "note": "sub-가 변한 모습이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tain",
+   "meaning": "잡다, 유지하다 (hold)",
+   "note": "라틴어 tenere(잡다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는",
+   "note": "'~할 수 있는'이라는 형용사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질 (명사형)",
+   "note": "형용사를 추상명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>sus-</strong> (아래에서) + <strong>tain</strong> (붙잡다) + <strong>-able</strong> (~할 수 있는) + <strong>-ity</strong> (성질) = '밑에서 계속 받칠 수 있는 성질'에서 <strong>'지속 가능성'</strong>이 되었어요.",
+ "historyTitle": "환경 시대의 핵심 단어",
+ "historyBody": "sustain은 라틴어 sustinere(아래에서 떠받치다)에서 왔어요. sustainability는 1980년대 이후 환경 분야에서 '미래 세대가 쓸 자원을 해치지 않고 유지하는 것'이라는 뜻으로 널리 쓰이게 되었어요. 1987년 유엔 브룬틀란 보고서가 '지속 가능한 발전'을 정의하면서 유명해졌죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sustain",
+   "pos": "동사",
+   "meaning": "지속하다, 떠받치다",
+   "en": "It is hard to sustain your focus for hours.",
+   "ko": "몇 시간 동안 집중력을 유지하기는 어려워요."
+  },
+  {
+   "word": "sustainable",
+   "pos": "형용사",
+   "meaning": "지속 가능한",
+   "en": "We should use more sustainable energy.",
+   "ko": "우리는 지속 가능한 에너지를 더 많이 써야 해요."
+  },
+  {
+   "word": "maintain",
+   "pos": "동사",
+   "meaning": "유지하다, 주장하다",
+   "en": "Exercise helps you maintain good health.",
+   "ko": "운동은 건강을 유지하는 데 도움이 돼요."
+  },
+  {
+   "word": "contain",
+   "pos": "동사",
+   "meaning": "포함하다, 억누르다",
+   "en": "This drink contains a lot of sugar.",
+   "ko": "이 음료에는 설탕이 많이 들어 있어요."
+  },
+  {
+   "word": "obtain",
+   "pos": "동사",
+   "meaning": "얻다, 획득하다",
+   "en": "You must obtain permission before filming here.",
+   "ko": "여기서 촬영하려면 먼저 허가를 받아야 해요."
+  },
+  {
+   "word": "retain",
+   "pos": "동사",
+   "meaning": "보유하다, 유지하다",
+   "en": "Clay soil retains water well.",
+   "ko": "점토질 흙은 물을 잘 머금어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲과 태양광 패널이 함께 있는 친환경 마을",
+ "imageCaption": "나무를 베면 다시 심고, 햇빛으로 전기를 만드는 마을을 떠올려 보세요. 오래오래 '버틸 수 있는' 방식이에요.",
+ "movieLineEn": "Our company's top goal is sustainability, not just profit.",
+ "movieLineKo": "우리 회사의 최우선 목표는 이윤이 아니라 지속 가능성이에요.",
+ "storyTitle": "지속 가능한 용돈",
+ "story": "나는 용돈의 sustainability(지속 가능성)를 높이기로 했어요. 한 달 동안 용돈을 sustain(유지하다)하려고 군것질을 끊고 저금통에 retain(보유하다)했죠. 정말 sustainable(지속 가능한) 계획이었어요. 그런데 월말에 저금통을 열어 보니 동생이 '빌려 간다'는 쪽지만 남기고 다 obtain(얻다)해 갔답니다!"
+}

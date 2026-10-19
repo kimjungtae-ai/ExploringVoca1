@@ -1,0 +1,55 @@
+{
+ "word": "challenge",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈtʃælɪndʒ]",
+ "meaning": "도전, 난제, 이의 제기 / 도전하다, 이의를 제기하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "challenge",
+   "meaning": "비난, 거짓 고발 (accusation) — 라틴어 calumnia",
+   "note": "라틴어 calumnia가 고대 프랑스어 chalenge로 변한 것이라 영어에서는 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>challenge</strong>는 라틴어 <strong>calumnia</strong>(거짓 고발)에서 고대 프랑스어 chalenge(이의, 요구)를 거쳐 <strong>'도전, 이의 제기'</strong>가 되었어요.",
+ "historyTitle": "거짓 고발에서 결투 신청으로",
+ "historyBody": "challenge의 뿌리는 라틴어 calumnia(속임수, 거짓 고발)예요. 고대 프랑스어 chalenge는 '고발, 이의, 권리 주장'이라는 뜻이었어요. 중세에는 상대의 주장에 맞서 결투를 신청하는 일로 이어졌고, 여기서 오늘날의 '도전'이라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "challenging",
+   "pos": "형용사",
+   "meaning": "도전적인, 힘든",
+   "en": "Learning a new language is challenging but fun.",
+   "ko": "새 언어를 배우는 것은 힘들지만 재미있어요."
+  },
+  {
+   "word": "challenger",
+   "pos": "명사",
+   "meaning": "도전자",
+   "en": "The young challenger defeated the champion.",
+   "ko": "젊은 도전자가 챔피언을 이겼어요."
+  },
+  {
+   "word": "challenged",
+   "pos": "형용사",
+   "meaning": "어려움을 겪는, 장애가 있는",
+   "en": "The school helps students who are challenged in math.",
+   "ko": "그 학교는 수학에 어려움을 겪는 학생들을 도와요."
+  },
+  {
+   "word": "unchallenged",
+   "pos": "형용사",
+   "meaning": "도전받지 않는, 의심받지 않는",
+   "en": "His record remained unchallenged for ten years.",
+   "ko": "그의 기록은 10년 동안 깨지지 않았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 암벽 앞에 서서 오를 준비를 하는 등반가",
+ "imageCaption": "까마득한 절벽을 올려다보며 장갑을 끼는 등반가를 떠올려 보세요. 어렵지만 맞서는 것, 그게 challenge예요.",
+ "movieLineEn": "I accept your challenge. Name the time and place.",
+ "movieLineKo": "네 도전을 받아들이지. 시간과 장소를 말해.",
+ "storyTitle": "급식 도전자",
+ "story": "challenger(도전자) 민수는 급식 많이 먹기 챔피언에게 challenge(도전)했어요. 챔피언의 기록은 3년간 unchallenged(도전받지 않는) 상태였죠. 정말 challenging(힘든) 대결이었어요. 민수가 다섯 그릇째를 비우는 순간, 영양사 선생님이 외쳤어요. '둘 다 오늘 체육 시간에 오래달리기!'"
+}

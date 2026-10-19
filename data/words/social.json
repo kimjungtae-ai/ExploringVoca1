@@ -1,0 +1,68 @@
+{
+ "word": "social",
+ "pos": "형용사",
+ "phonetic": "[ˈsoʊʃl]",
+ "meaning": "사회의, 사회적인, 사교적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "soci",
+   "meaning": "동료, 친구 (companion)",
+   "note": "라틴어 socius(동료, 동맹)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~와 관련된 (형용사를 만듦)",
+   "note": "명사 뒤에 붙어 '~에 관한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>soci</strong> (동료) + <strong>-al</strong> (~의) = '동료들과 어울리는'에서 <strong>'사회의, 사교적인'</strong>이 되었어요.",
+ "historyTitle": "로마의 동맹 친구들",
+ "historyBody": "social은 라틴어 socialis(동료의, 동맹의)에서 왔는데, 그 뿌리 socius는 '함께하는 사람, 동맹국'을 뜻했어요. 로마는 함께 싸우는 이웃 나라들을 socii라고 불렀죠. 그래서 society(사회)는 '함께 어울리는 사람들의 모임'이라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "society",
+   "pos": "명사",
+   "meaning": "사회, 협회",
+   "en": "Technology has changed modern society a lot.",
+   "ko": "기술은 현대 사회를 크게 바꾸었어요."
+  },
+  {
+   "word": "socialize",
+   "pos": "동사",
+   "meaning": "사귀다, 어울리다",
+   "en": "He likes to socialize with people from other countries.",
+   "ko": "그는 다른 나라 사람들과 어울리는 걸 좋아해요."
+  },
+  {
+   "word": "associate",
+   "pos": "동사",
+   "meaning": "연관 짓다, 어울리다",
+   "en": "Many people associate the color red with love.",
+   "ko": "많은 사람이 빨간색을 사랑과 연관 지어요."
+  },
+  {
+   "word": "association",
+   "pos": "명사",
+   "meaning": "협회, 연관",
+   "en": "She joined the local teachers' association.",
+   "ko": "그녀는 지역 교사 협회에 가입했어요."
+  },
+  {
+   "word": "sociology",
+   "pos": "명사",
+   "meaning": "사회학",
+   "en": "My sister studies sociology at university.",
+   "ko": "우리 언니는 대학에서 사회학을 공부해요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 사람이 모여 이야기를 나누는 파티",
+ "imageCaption": "사람들이 둘러앉아 웃고 떠들며 서로 어울리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Come on, be social for once. It's a party!",
+ "movieLineKo": "에이, 이번만이라도 좀 어울려 봐. 파티잖아!",
+ "storyTitle": "사교왕 할아버지",
+ "story": "할아버지는 동네 최고의 social(사교적인) 인물이에요. 노인회 association(협회) 회장이시고, 매일 공원에서 socialize(어울리다)하시죠. 그런데 요즘엔 social media(소셜 미디어)까지 시작하셨어요. 할아버지 팔로워가 나보다 열 배 많은 건 society(사회)의 미스터리랍니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "waterfall",
+ "pos": "명사",
+ "phonetic": "[ˈwɔːtərfɔːl]",
+ "meaning": "폭포",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "water",
+   "meaning": "물 (water)",
+   "note": "고대 영어 wæter에서 온 기본 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fall",
+   "meaning": "떨어지다, 떨어짐 (fall)",
+   "note": "고대 영어 feallan(떨어지다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>water</strong> (물) + <strong>fall</strong> (떨어짐) = '떨어지는 물'이라는 뜻에서 <strong>'폭포'</strong>가 되었어요.",
+ "historyTitle": "떨어지는 물, 그대로 이름이 되다",
+ "historyBody": "waterfall은 고대 영어 wætergefeall에서 이어진 합성어로, 말 그대로 '물이 떨어지는 곳'이에요. water와 fall 모두 고대 영어부터 쓰인 게르만어 단어라, 수천 년 된 두 단어가 만나 만든 이름이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "water",
+   "pos": "명사",
+   "meaning": "물",
+   "en": "Drink plenty of water when you exercise.",
+   "ko": "운동할 때는 물을 충분히 마셔요."
+  },
+  {
+   "word": "fall",
+   "pos": "동사 / 명사",
+   "meaning": "떨어지다 / 가을, 떨어짐",
+   "en": "Leaves fall from the trees in autumn.",
+   "ko": "가을에는 나무에서 나뭇잎이 떨어져요."
+  },
+  {
+   "word": "rainfall",
+   "pos": "명사",
+   "meaning": "강우량",
+   "en": "This region gets little rainfall in summer.",
+   "ko": "이 지역은 여름에 강우량이 적어요."
+  },
+  {
+   "word": "downfall",
+   "pos": "명사",
+   "meaning": "몰락, 실패의 원인",
+   "en": "Greed was the king's downfall.",
+   "ko": "탐욕이 그 왕을 몰락하게 했어요."
+  },
+  {
+   "word": "waterproof",
+   "pos": "형용사",
+   "meaning": "방수의",
+   "en": "My new watch is waterproof.",
+   "ko": "내 새 시계는 방수가 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 절벽 위에서 하얗게 쏟아지는 거대한 물줄기",
+ "imageCaption": "높은 절벽에서 물이 쏴아 하고 떨어지며 물보라를 일으키는 모습을 떠올려 보세요.",
+ "movieLineEn": "Jump into the waterfall! It's the only way out!",
+ "movieLineKo": "폭포로 뛰어들어! 그게 유일한 탈출구야!",
+ "storyTitle": "폭포 수련의 진실",
+ "story": "무술 소년은 waterfall(폭포) 아래에서 수련하기로 했어요. 엄청난 water(물)가 머리 위로 fall(떨어지다)했죠. 정신이 번쩍 들었어요. 한 시간 뒤, 소년은 깨달음을 얻었어요. \"이건 rainfall(강우량) 100년치야... 그리고 감기 걸렸어.\" 다음 날 소년은 결석했답니다."
+}

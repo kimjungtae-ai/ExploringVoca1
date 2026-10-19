@@ -1,0 +1,68 @@
+{
+ "word": "likewise",
+ "pos": "부사",
+ "phonetic": "[ˈlaɪkwaɪz]",
+ "meaning": "마찬가지로, 똑같이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "like",
+   "meaning": "같은, 비슷한 (similar)",
+   "note": "고대 영어 gelic(비슷한)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-wise",
+   "meaning": "~한 방식으로 (in the manner of)",
+   "note": "고대 영어 wise(방식, 방법)에서 온 꼬리예요. (예: otherwise, clockwise)"
+  }
+ ],
+ "summary": "<strong>like</strong> (같은) + <strong>-wise</strong> (방식) = '같은 방식으로'라는 뜻에서 <strong>'마찬가지로'</strong>가 되었어요.",
+ "historyTitle": "'방식'을 뜻하던 고대 영어 wise",
+ "historyBody": "likewise는 중세 영어 in like wise(같은 방식으로)가 줄어든 말이에요. 여기서 wise는 '똑똑한'이 아니라 고대 영어 wise(방식, 방법)예요. 그래서 otherwise(다른 방식으로), clockwise(시계 방향으로)에도 같은 -wise가 들어 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "like",
+   "pos": "전치사 / 형용사",
+   "meaning": "~처럼 / 비슷한",
+   "en": "She sings like a professional singer.",
+   "ko": "그녀는 전문 가수처럼 노래해요."
+  },
+  {
+   "word": "alike",
+   "pos": "형용사 / 부사",
+   "meaning": "비슷한 / 똑같이",
+   "en": "The two sisters look alike.",
+   "ko": "두 자매는 서로 닮았어요."
+  },
+  {
+   "word": "likely",
+   "pos": "형용사",
+   "meaning": "~할 것 같은",
+   "en": "It is likely to rain this afternoon.",
+   "ko": "오늘 오후에 비가 올 것 같아요."
+  },
+  {
+   "word": "otherwise",
+   "pos": "부사",
+   "meaning": "그렇지 않으면, 다른 방식으로",
+   "en": "Hurry up, otherwise we'll miss the bus.",
+   "ko": "서둘러, 안 그러면 버스를 놓칠 거야."
+  },
+  {
+   "word": "clockwise",
+   "pos": "부사",
+   "meaning": "시계 방향으로",
+   "en": "Turn the cap clockwise to close the bottle.",
+   "ko": "병을 닫으려면 뚜껑을 시계 방향으로 돌리세요."
+  }
+ ],
+ "imageSense": "대표 의미: 한 사람이 인사하자 상대도 똑같이 고개 숙여 인사하는 장면",
+ "imageCaption": "\"만나서 반가워요!\" \"Likewise!\" 똑같이 돌려주는 인사를 떠올리세요.",
+ "movieLineEn": "\"It was a pleasure to meet you.\" \"Likewise.\"",
+ "movieLineKo": "\"만나서 반가웠어요.\" \"저도요.\"",
+ "storyTitle": "따라쟁이 동생",
+ "story": "형이 밥을 먹으면 동생도 likewise(마찬가지로) 먹었어요. 둘은 행동이 너무 alike(비슷한)했죠. 형이 의자를 clockwise(시계 방향으로) 돌리면 동생도 똑같이 돌렸어요. 형은 생각했어요. '공부하면 동생도 따라 할 likely(~할 것 같은)!' 형은 책을 펼쳤어요. 그런데 이번엔 동생이 말했어요. \"otherwise(그건 말고) 게임하자!\""
+}

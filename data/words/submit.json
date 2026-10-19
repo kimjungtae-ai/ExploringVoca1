@@ -1,0 +1,75 @@
+{
+ "word": "submit",
+ "pos": "동사",
+ "phonetic": "[səbˈmɪt]",
+ "meaning": "제출하다, 복종하다, 굴복하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sub-",
+   "meaning": "아래에 (under)",
+   "note": "아래쪽으로 내려놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mit",
+   "meaning": "보내다 (send)",
+   "note": "라틴어 mittere(보내다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>sub-</strong> (아래에) + <strong>mit</strong> (보내다) = '아래로 보내다'에서 <strong>'제출하다, 복종하다'</strong>가 되었어요.",
+ "historyTitle": "몸을 낮추어 바치다",
+ "historyBody": "라틴어 submittere는 '아래로 보내다, 낮추다'라는 뜻이었어요. 14세기 영어에서는 먼저 '굴복하다'라는 뜻으로 쓰였고, 이후 '심사를 받도록 내놓다', 즉 '제출하다'라는 뜻이 널리 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "admit",
+   "pos": "동사",
+   "meaning": "인정하다, 입장을 허락하다",
+   "en": "He admitted that he was wrong.",
+   "ko": "그는 자신이 틀렸다고 인정했어요."
+  },
+  {
+   "word": "permit",
+   "pos": "동사 / 명사",
+   "meaning": "허락하다 / 허가증",
+   "en": "Smoking is not permitted in this building.",
+   "ko": "이 건물에서는 흡연이 허용되지 않아요."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다, 전염시키다",
+   "en": "The satellite transmits signals to Earth.",
+   "ko": "그 위성은 지구로 신호를 전송해요."
+  },
+  {
+   "word": "emit",
+   "pos": "동사",
+   "meaning": "내뿜다, 배출하다",
+   "en": "Cars emit harmful gases into the air.",
+   "ko": "자동차는 공기 중으로 해로운 가스를 내뿜어요."
+  },
+  {
+   "word": "commit",
+   "pos": "동사",
+   "meaning": "저지르다, 전념하다",
+   "en": "She is committed to helping poor children.",
+   "ko": "그녀는 가난한 아이들을 돕는 데 전념하고 있어요."
+  },
+  {
+   "word": "omit",
+   "pos": "동사",
+   "meaning": "빠뜨리다, 생략하다",
+   "en": "Don't omit any important details in your report.",
+   "ko": "보고서에서 중요한 세부 사항을 빠뜨리지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님 책상 위에 과제를 공손히 내려놓는 장면",
+ "imageCaption": "고개를 살짝 숙이고 과제물을 선생님 책상에 내려놓는 모습을 떠올려 보세요. '아래로 보내는' submit이에요.",
+ "movieLineEn": "I will never submit to you, Dark Lord!",
+ "movieLineKo": "나는 절대 너에게 굴복하지 않겠다, 어둠의 군주여!",
+ "storyTitle": "생략된 이름",
+ "story": "준호는 밤새 쓴 보고서를 자신 있게 submit(제출하다)했어요. 선생님은 내용이 훌륭하다고 admit(인정하다)하셨죠. 그런데 한 가지를 omit(빠뜨리다)했대요. 바로 자기 이름이었어요! 준호는 숨을 크게 emit(내뿜다)하며 다시는 실수를 commit(저지르다)하지 않겠다고 다짐했답니다."
+}

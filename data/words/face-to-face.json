@@ -1,0 +1,67 @@
+{
+ "word": "face-to-face",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ˌfeɪs tə ˈfeɪs]",
+ "meaning": "대면하는, 마주 보는 / 직접 만나서, 얼굴을 맞대고",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "face",
+   "meaning": "얼굴 (face)",
+   "note": "라틴어 facies(모습, 얼굴)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "to",
+   "meaning": "~에게, ~로 (to)",
+   "note": "방향을 나타내는 고대 영어 to 그대로예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "face",
+   "meaning": "얼굴 (face)",
+   "note": "다시 얼굴! 얼굴이 얼굴을 향한다는 그림이에요."
+  }
+ ],
+ "summary": "<strong>face</strong> (얼굴) + <strong>to</strong> (~로) + <strong>face</strong> (얼굴) = '얼굴이 얼굴을 향해'라는 뜻에서 <strong>'직접 만나서, 대면하는'</strong>이 되었어요.",
+ "historyTitle": "얼굴과 얼굴이 만나는 표현",
+ "historyBody": "face-to-face는 '얼굴에서 얼굴로'라는 아주 그림 같은 표현이에요. 중세 영어 시절부터 쓰였고, 성경 번역에서도 '얼굴을 마주하여'라는 뜻으로 등장해요. 요즘은 온라인 수업과 대비해 face-to-face class(대면 수업)처럼 많이 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "face",
+   "pos": "동사",
+   "meaning": "직면하다, 마주하다",
+   "en": "We must face the problem instead of avoiding it.",
+   "ko": "우리는 문제를 피하지 말고 마주해야 해요."
+  },
+  {
+   "word": "facial",
+   "pos": "형용사",
+   "meaning": "얼굴의",
+   "en": "Babies can read facial expressions very early.",
+   "ko": "아기들은 아주 일찍부터 얼굴 표정을 읽을 수 있어요."
+  },
+  {
+   "word": "surface",
+   "pos": "명사",
+   "meaning": "표면",
+   "en": "Water covers most of the Earth's surface.",
+   "ko": "물이 지구 표면의 대부분을 덮고 있어요."
+  },
+  {
+   "word": "interface",
+   "pos": "명사",
+   "meaning": "접점, 인터페이스",
+   "en": "The robot has a voice interface for elderly users.",
+   "ko": "그 로봇은 노인 사용자를 위한 음성 인터페이스가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 화상 통화 대신 카페에서 직접 마주 앉아 이야기하는 두 친구",
+ "imageCaption": "화면 너머가 아니라 같은 테이블에 앉아 눈을 맞추는 모습, 그게 face-to-face예요.",
+ "movieLineEn": "I didn't want to tell you over the phone. I wanted to say it face-to-face.",
+ "movieLineKo": "전화로는 말하고 싶지 않았어. 얼굴 보고 직접 말하고 싶었어.",
+ "storyTitle": "온라인 친구와의 첫 만남",
+ "story": "3년 동안 게임 interface(인터페이스)로만 대화하던 친구를 드디어 face-to-face(직접 만나서)로 보기로 했어요. 떨리는 마음을 face(마주하다)하며 약속 장소에 갔죠. 상대의 facial(얼굴의) 표정이 낯익었어요. 알고 보니 그 친구는 매일 내 옆자리에 앉는 짝꿍이었지 뭐예요!"
+}

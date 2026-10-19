@@ -1,0 +1,61 @@
+{
+ "word": "theater",
+ "pos": "명사",
+ "phonetic": "[ˈθiːətər]",
+ "meaning": "극장, 연극, 공연장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "thea",
+   "meaning": "보다, 구경 (view)",
+   "note": "그리스어 theasthai(바라보다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ter (-tron)",
+   "meaning": "~하는 장소",
+   "note": "그리스어 -tron은 '도구, 장소'를 나타내요."
+  }
+ ],
+ "summary": "<strong>thea</strong> (보다) + <strong>-tron</strong> (장소) = '구경하는 장소'에서 <strong>'극장'</strong>이 되었어요.",
+ "historyTitle": "고대 그리스의 언덕 위 객석",
+ "historyBody": "그리스어 theatron은 '구경하는 곳'이라는 뜻으로, 원래 무대가 아니라 관객이 앉는 반원형 계단식 객석을 가리켰어요. 라틴어 theatrum, 고대 프랑스어를 거쳐 영어로 들어왔죠. 미국에서는 theater, 영국에서는 theatre로 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "theatrical",
+   "pos": "형용사",
+   "meaning": "연극의, 과장된",
+   "en": "Her theatrical scream made everyone laugh.",
+   "ko": "그녀의 과장된 비명에 모두가 웃었어요."
+  },
+  {
+   "word": "theory",
+   "pos": "명사",
+   "meaning": "이론",
+   "en": "Darwin's theory changed modern biology.",
+   "ko": "다윈의 이론은 현대 생물학을 바꿨어요."
+  },
+  {
+   "word": "theoretical",
+   "pos": "형용사",
+   "meaning": "이론적인",
+   "en": "The idea is only theoretical for now.",
+   "ko": "그 아이디어는 아직은 이론적일 뿐이에요."
+  },
+  {
+   "word": "amphitheater",
+   "pos": "명사",
+   "meaning": "원형 극장",
+   "en": "The ancient amphitheater could hold 20,000 people.",
+   "ko": "그 고대 원형 극장은 2만 명을 수용할 수 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 객석에서 무대를 바라보는 관객들",
+ "imageCaption": "어두운 객석에 앉아 환한 무대를 바라보는 관객들을 떠올려 보세요. '보는 곳'이 바로 theater예요.",
+ "movieLineEn": "Turn off your phone. We're in a theater, not a stadium!",
+ "movieLineKo": "휴대폰 꺼. 여긴 경기장이 아니라 극장이야!",
+ "storyTitle": "극장의 진짜 배우",
+ "story": "우리 반은 theater(극장)로 연극을 보러 갔어요. 배우들의 theatrical(과장된) 연기가 대단했죠. 그런데 가장 큰 박수를 받은 건 따로 있었어요. 관객석에서 졸던 담임 선생님이 코를 고는 바람에 배우가 즉석에서 \"저기 잠자는 왕이 있다!\"라고 대사를 바꾼 거예요. 우리 theory(이론)로는 theoretical(이론적인) 분석 없이도 그게 최고의 장면이었답니다!"
+}
