@@ -1,0 +1,68 @@
+{
+ "word": "customize",
+ "pos": "동사",
+ "phonetic": "[ˈkʌstəmaɪz]",
+ "meaning": "맞춤 제작하다, 원하는 대로 바꾸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "custom",
+   "meaning": "관습, 단골 (custom)",
+   "note": "라틴어 consuetudo(관습)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~화하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>custom</strong> (관습, 단골) + <strong>-ize</strong> (~하다) = '손님 한 명 한 명에게 맞추다'에서 <strong>'맞춤 제작하다'</strong>가 되었어요.",
+ "historyTitle": "'단골'에서 '맞춤'으로",
+ "historyBody": "custom은 고대 프랑스어 costume을 거쳐 라틴어 consuetudo(관습, 습관)에서 왔어요. 가게의 '단골(customer)'도 '습관처럼 찾아오는 사람'이라는 뜻에서 나왔어요. customize는 20세기 미국에서 '손님 한 사람 한 사람에게 맞춰 만들다'라는 뜻으로 생긴 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "customization",
+   "pos": "명사",
+   "meaning": "맞춤 제작",
+   "en": "Customization makes products more special for buyers.",
+   "ko": "맞춤 제작은 구매자에게 제품을 더 특별하게 만들어요."
+  },
+  {
+   "word": "custom",
+   "pos": "명사",
+   "meaning": "관습, 풍습",
+   "en": "Giving money in red envelopes is a Chinese custom.",
+   "ko": "빨간 봉투에 돈을 주는 것은 중국의 풍습이에요."
+  },
+  {
+   "word": "customer",
+   "pos": "명사",
+   "meaning": "고객, 손님",
+   "en": "The customer asked for a refund.",
+   "ko": "그 고객은 환불을 요청했어요."
+  },
+  {
+   "word": "accustomed",
+   "pos": "형용사",
+   "meaning": "익숙한",
+   "en": "She soon became accustomed to the cold weather.",
+   "ko": "그녀는 곧 추운 날씨에 익숙해졌어요."
+  },
+  {
+   "word": "costume",
+   "pos": "명사",
+   "meaning": "의상",
+   "en": "He wore a superhero costume to the party.",
+   "ko": "그는 파티에 슈퍼히어로 의상을 입고 왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 게임 캐릭터의 머리, 옷, 표정을 내 마음대로 꾸미는 장면",
+ "imageCaption": "게임 시작 전에 캐릭터 얼굴과 옷을 하나하나 고르는 모습을 떠올려 보세요. 내 취향에 맞춰 바꾸는 것이 customize예요.",
+ "movieLineEn": "We can customize this suit for any mission.",
+ "movieLineKo": "어떤 임무든 이 슈트를 맞춤 개조할 수 있어.",
+ "storyTitle": "맞춤 케이크 대소동",
+ "story": "엄마의 생일 케이크를 customize(맞춤 제작하다)하기로 했어요. 빵집 customer(손님)들도 구경할 정도였죠. 우리 집 custom(관습)대로 딸기를 듬뿍 올렸어요. 그런데 글씨를 'Happy Birthday Mom' 대신 'Happy Birthday Me'로 써서, 결국 내가 다 먹게 되었대요! customization(맞춤 제작) 실패!"
+}

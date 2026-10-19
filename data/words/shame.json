@@ -1,0 +1,48 @@
+{
+ "word": "shame",
+ "pos": "명사 / 동사",
+ "phonetic": "[ʃeɪm]",
+ "meaning": "부끄러움, 수치, 유감스러운 일 / 창피하게 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "shame",
+   "meaning": "부끄러움 (shame)",
+   "note": "고대 영어 'scamu(부끄러움, 수치)'에서 온 게르만계 단어라 더 쪼개지 않아요."
+  }
+ ],
+ "summary": "<strong>shame</strong> (부끄러움) = 잘못을 느낄 때의 화끈한 마음, 즉 <strong>'수치심, 부끄러움'</strong>이에요.",
+ "historyTitle": "고대 영어의 scamu",
+ "historyBody": "shame은 고대 영어 'scamu'에서 왔고, 독일어 'Scham'과 같은 게르만 뿌리를 가진 말이에요. 원래는 '수치, 굴욕'을 뜻했어요. 요즘 영어에서는 \"What a shame!\"처럼 '안타까운 일'을 말할 때도 아주 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ashamed",
+   "pos": "형용사",
+   "meaning": "부끄러워하는",
+   "en": "He was ashamed of lying to his best friend.",
+   "ko": "그는 가장 친한 친구에게 거짓말한 것을 부끄러워했어요."
+  },
+  {
+   "word": "shameful",
+   "pos": "형용사",
+   "meaning": "수치스러운",
+   "en": "Cheating on a test is a shameful act.",
+   "ko": "시험에서 부정행위를 하는 것은 수치스러운 행동이에요."
+  },
+  {
+   "word": "shameless",
+   "pos": "형용사",
+   "meaning": "뻔뻔한",
+   "en": "The shameless man cut in line again.",
+   "ko": "그 뻔뻔한 남자는 또 새치기를 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 실수한 아이가 얼굴을 붉히며 고개를 숙이는 장면",
+ "imageCaption": "얼굴이 빨개져서 두 손으로 얼굴을 가리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Shame on you! How could you forget my birthday?",
+ "movieLineKo": "창피한 줄 알아! 어떻게 내 생일을 잊을 수 있어?",
+ "storyTitle": "뻔뻔한 강아지",
+ "story": "강아지가 내 숙제를 찢어 놓고도 shameless(뻔뻔한) 얼굴로 꼬리를 흔들었어요. \"Shame(창피한 줄 알아)!\"라고 외치자 강아지가 ashamed(부끄러워하는) 척 고개를 숙였죠. 그런데 이 shameful(수치스러운) 사건의 진짜 범인은 숙제를 안 한 나였어요."
+}

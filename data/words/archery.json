@@ -1,0 +1,67 @@
+{
+ "word": "archery",
+ "pos": "명사",
+ "phonetic": "[ˈɑːrtʃəri]",
+ "meaning": "양궁, 궁술, 활쏘기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "arch (arcus)",
+   "meaning": "활 (bow)",
+   "note": "라틴어 arcus(활)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "활을 쏘는 사람, 즉 archer를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y (-ery)",
+   "meaning": "~하는 기술, 활동",
+   "note": "기술이나 활동을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>arch</strong> (활) + <strong>-er</strong> (사람) + <strong>-y</strong> (기술) = '활 쏘는 사람의 기술'에서 <strong>'양궁, 궁술'</strong>이 되었어요.",
+ "historyTitle": "중세 궁수들의 기술",
+ "historyBody": "archery는 고대 프랑스어 'archerie'에서 왔고, 그 바탕은 '궁수'를 뜻하는 'archier', 더 거슬러 올라가면 라틴어 'arcus(활)'예요. 중세 영국에서는 전쟁에 대비해 남자들에게 일요일마다 활쏘기 연습을 하도록 한 법도 있었어요. 지금은 올림픽 정식 종목이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "archer",
+   "pos": "명사",
+   "meaning": "궁수",
+   "en": "The young archer practiced every morning.",
+   "ko": "그 어린 궁수는 매일 아침 연습했어요."
+  },
+  {
+   "word": "arch",
+   "pos": "명사",
+   "meaning": "아치",
+   "en": "The bridge has three large arches.",
+   "ko": "그 다리에는 큰 아치가 세 개 있어요."
+  },
+  {
+   "word": "arc",
+   "pos": "명사",
+   "meaning": "호, 곡선",
+   "en": "The moon moved in an arc across the sky.",
+   "ko": "달이 하늘을 가로질러 곡선을 그리며 움직였어요."
+  },
+  {
+   "word": "arcade",
+   "pos": "명사",
+   "meaning": "아케이드, 지붕 덮인 상가",
+   "en": "We played games at the arcade after school.",
+   "ko": "우리는 방과 후 오락실에서 게임을 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 활시위를 당겨 멀리 있는 과녁을 겨누는 선수",
+ "imageCaption": "숨을 멈추고 활시위를 팽팽히 당긴 선수가 과녁 중앙을 노리는 장면을 떠올려 보세요. 활을 쏘는 기술이 archery예요.",
+ "movieLineEn": "Archery is not about strength. It's about patience.",
+ "movieLineKo": "활쏘기는 힘의 문제가 아니야. 인내의 문제지.",
+ "storyTitle": "과녁을 지킨 사과",
+ "story": "archery(양궁) 대회에서 archer(궁수) 소년이 머리에 사과를 올린 친구를 향해 활을 겨눴어요. 화살은 높은 arc(곡선)를 그리며 날아갔죠. 모두 숨을 죽였는데, 화살이 맞힌 건 사과가 아니라 뒤의 arch(아치) 위 간식 자판기 버튼이었어요. 사과 주스가 툭 떨어졌답니다."
+}

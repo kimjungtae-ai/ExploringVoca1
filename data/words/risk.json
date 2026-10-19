@@ -1,0 +1,48 @@
+{
+ "word": "risk",
+ "pos": "명사 / 동사",
+ "phonetic": "[rɪsk]",
+ "meaning": "위험, 모험 / 위험을 무릅쓰다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "risk",
+   "meaning": "위험 (danger) ← 프랑스어 risque, 이탈리아어 risco",
+   "note": "이탈리아어와 프랑스어를 거쳐 들어왔지만 더 오래된 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>risk</strong>는 쪼갤 수 없는 차용어로, 항해의 위험에서 출발해 <strong>'위험, 위험을 무릅쓰다'</strong>가 되었어요.",
+ "historyTitle": "상인들의 바다 모험",
+ "historyBody": "risk는 17세기에 프랑스어 risque를 통해 들어왔고, 그 전에는 이탈리아어 risco/rischio였어요. 무역과 항해 보험에서 쓰이던 말이었죠. 그보다 더 먼 기원은 그리스어 '절벽', 아랍어 '몫' 등 여러 설이 있지만 확실하지 않아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "risky",
+   "pos": "형용사",
+   "meaning": "위험한",
+   "en": "Climbing the mountain alone is risky.",
+   "ko": "혼자 그 산을 오르는 건 위험해요."
+  },
+  {
+   "word": "risk-free",
+   "pos": "형용사",
+   "meaning": "위험이 없는",
+   "en": "No investment is completely risk-free.",
+   "ko": "완전히 위험이 없는 투자는 없어요."
+  },
+  {
+   "word": "risk-taking",
+   "pos": "명사",
+   "meaning": "위험 감수",
+   "en": "Some risk-taking is necessary for success.",
+   "ko": "성공을 위해서는 어느 정도 위험 감수가 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄 하나에 의지해 절벽을 건너는 모험가",
+ "imageCaption": "아슬아슬한 외줄 위에서 한 걸음 내딛을지 고민하는 모습을 떠올려 보세요.",
+ "movieLineEn": "No risk, no reward. Let's jump!",
+ "movieLineKo": "위험 없이는 보상도 없어. 뛰자!",
+ "storyTitle": "위험한 도전",
+ "story": "겁 많은 다람쥐는 큰 risk(위험)를 무릅쓰기로 했어요. 고양이 앞 도토리를 줍는 risky(위험한) 작전이었죠. 친구들은 risk-free(위험이 없는) 방법을 권했지만, 다람쥐는 risk-taking(위험 감수)을 택했어요. 알고 보니 그 고양이는 도토리를 좋아하는 채식주의자였대요!"
+}

@@ -1,0 +1,88 @@
+{
+ "word": "convenient",
+ "pos": "형용사",
+ "phonetic": "[kənˈviːniənt]",
+ "meaning": "편리한, 사용하기 좋은, (~에) 가까운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "여럿이 같이 모인다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ven",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ient",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>ven</strong> (오다) + <strong>-ient</strong> (~한) = '딱 맞게 함께 오는'에서 <strong>'편리한'</strong>이 되었어요.",
+ "historyTitle": "라틴어 convenire, '함께 와서 딱 맞다'",
+ "historyBody": "convenience는 라틴어 convenire(함께 오다, 잘 맞다)에서 왔어요. 여러 것이 한곳에 '딱 맞게 모여 오는' 상태가 '편리함'이 된 것이에요. 같은 어근 ven(오다)이 event, prevent, adventure, avenue에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "convenience",
+   "pos": "명사",
+   "meaning": "편리, 편의",
+   "en": "For convenience, I keep my keys by the door.",
+   "ko": "편의를 위해 나는 열쇠를 문 옆에 둬요."
+  },
+  {
+   "word": "inconvenient",
+   "pos": "형용사",
+   "meaning": "불편한",
+   "en": "It is inconvenient to live far from school.",
+   "ko": "학교에서 멀리 사는 건 불편해요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회, 협약",
+   "en": "The science convention brought together experts from many countries.",
+   "ko": "그 과학 대회에는 여러 나라 전문가들이 모였어요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Washing your hands can prevent colds.",
+   "ko": "손을 씻으면 감기를 예방할 수 있어요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "행사, 사건",
+   "en": "The school festival is the biggest event of the year.",
+   "ko": "학교 축제는 일 년 중 가장 큰 행사예요."
+  },
+  {
+   "word": "adventure",
+   "pos": "명사",
+   "meaning": "모험",
+   "en": "Reading books is like going on an adventure.",
+   "ko": "책을 읽는 건 모험을 떠나는 것과 같아요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다, 끼어들다",
+   "en": "The teacher intervened to stop the fight.",
+   "ko": "선생님이 싸움을 말리려고 끼어드셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 집 바로 앞 버스 정류장에서 버스를 타는 장면",
+ "imageCaption": "문만 열면 바로 정류장이 있는 모습을 떠올려 보세요. 필요한 것이 딱 맞게 가까이 있는 것이 convenient예요.",
+ "movieLineEn": "How convenient that you showed up right now.",
+ "movieLineKo": "네가 딱 지금 나타나다니 참 편리하네.",
+ "storyTitle": "게으른 곰의 동굴",
+ "story": "곰은 강 바로 옆에 동굴을 팠어요. 물고기 잡기에 아주 convenient(편리한) 곳이었죠. 그 convenience(편리) 덕분에 사냥을 prevent(막다)할 일도 없었어요. 그런데 비가 오자 동굴이 물에 잠겨 inconvenient(불편한) 수영장이 되었고, 곰의 adventure(모험)가 시작되었대요!"
+}

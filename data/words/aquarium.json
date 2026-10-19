@@ -1,0 +1,61 @@
+{
+ "word": "aquarium",
+ "pos": "명사",
+ "phonetic": "[əˈkweriəm]",
+ "meaning": "수족관, 어항",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "aqua",
+   "meaning": "물 (water)",
+   "note": "라틴어로 '물'이라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-arium",
+   "meaning": "~을 두는 곳 (place for)",
+   "note": "무언가를 모아 두는 장소를 나타내요."
+  }
+ ],
+ "summary": "<strong>aqua</strong> (물) + <strong>-arium</strong> (~을 두는 곳) = '물을 담아 두는 곳'에서 <strong>'수족관, 어항'</strong>이 되었어요.",
+ "historyTitle": "가축 물통에서 수족관으로",
+ "historyBody": "라틴어 'aquarium'은 원래 '가축에게 물을 먹이는 곳, 물통'을 뜻했어요. 19세기 중반 영국에서 물고기와 수초를 유리 상자에 기르는 것이 유행하면서 '수족관'이라는 뜻으로 쓰이기 시작했죠. planetarium(천체 투영관)도 같은 -arium 어미를 쓴답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "aquatic",
+   "pos": "형용사",
+   "meaning": "물속에 사는, 수생의",
+   "en": "Many aquatic plants grow in this pond.",
+   "ko": "이 연못에는 많은 수생 식물이 자라요."
+  },
+  {
+   "word": "aqua",
+   "pos": "명사/형용사",
+   "meaning": "물, 청록색(의)",
+   "en": "She painted her room aqua.",
+   "ko": "그녀는 방을 청록색으로 칠했어요."
+  },
+  {
+   "word": "aqueduct",
+   "pos": "명사",
+   "meaning": "수로, 수도교",
+   "en": "The Romans built aqueducts to carry water to cities.",
+   "ko": "로마인들은 도시로 물을 나르려고 수도교를 지었어요."
+  },
+  {
+   "word": "aquaculture",
+   "pos": "명사",
+   "meaning": "양식(업)",
+   "en": "Aquaculture helps meet the demand for fish.",
+   "ko": "양식업은 생선 수요를 충족하는 데 도움을 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 유리벽 너머로 상어와 가오리가 헤엄치는 수족관",
+ "imageCaption": "거대한 유리 수조 앞에서 물고기 떼가 반짝이며 지나가는 모습을 떠올려 보세요. 물을 담아 생물을 두는 곳이 aquarium이에요.",
+ "movieLineEn": "Get me out of this aquarium! I want to see the ocean!",
+ "movieLineKo": "이 수족관에서 날 꺼내 줘! 바다를 보고 싶어!",
+ "storyTitle": "수족관을 탈출한 문어",
+ "story": "aquarium(수족관)에 사는 문어는 바다가 그리웠어요. 다른 aquatic(수생의) 친구들은 말렸지만 문어는 밤마다 탈출 계획을 세웠죠. 로마의 aqueduct(수로)처럼 파이프를 타고 가면 된다고 믿었어요. 드디어 탈출한 문어가 도착한 곳은 바다가 아니라 옆 건물 aquaculture(양식) 센터의 수조였답니다."
+}

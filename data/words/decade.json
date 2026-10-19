@@ -1,0 +1,54 @@
+{
+ "word": "decade",
+ "pos": "명사",
+ "phonetic": "[ˈdekeɪd]",
+ "meaning": "10년",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dec",
+   "meaning": "10 (ten)",
+   "note": "그리스어 deka(10)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ade",
+   "meaning": "~의 묶음 (group)",
+   "note": "여러 개를 한 묶음으로 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>dec</strong> (10) + <strong>-ade</strong> (묶음) = '10개짜리 묶음'에서 <strong>'10년'</strong>이 되었어요.",
+ "historyTitle": "10개 한 묶음, 그리스어 dekas",
+ "historyBody": "decade는 그리스어 dekas(10개의 묶음)가 라틴어와 프랑스어를 거쳐 들어온 말이에요. 처음에는 '10개짜리 묶음' 아무거나를 뜻했지만, 17세기 무렵부터 주로 '10년'을 가리키게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "decimal",
+   "pos": "형용사 / 명사",
+   "meaning": "십진법의 / 소수",
+   "en": "Write the answer as a decimal number.",
+   "ko": "답을 소수로 쓰세요."
+  },
+  {
+   "word": "December",
+   "pos": "명사",
+   "meaning": "12월 (옛 로마력의 10번째 달)",
+   "en": "My birthday is in December.",
+   "ko": "내 생일은 12월이에요."
+  },
+  {
+   "word": "decathlon",
+   "pos": "명사",
+   "meaning": "10종 경기",
+   "en": "He trained for years to compete in the decathlon.",
+   "ko": "그는 10종 경기에 나가려고 수년간 훈련했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 10개의 생일 촛불이 하나씩 켜지며 세월이 흐르는 장면",
+ "imageCaption": "달력 10권이 차곡차곡 쌓인 모습을 상상해 보세요. 그게 바로 decade예요.",
+ "movieLineEn": "I've waited a whole decade for this moment.",
+ "movieLineKo": "이 순간을 위해 꼬박 10년을 기다렸어.",
+ "storyTitle": "10년 만의 고백",
+ "story": "철수는 한 decade(10년) 동안 짝사랑을 했어요. 드디어 December(12월)에 고백하려고 decathlon(10종 경기)급 연습을 했죠. 떨리는 마음에 숫자를 decimal(소수)까지 세며 기다렸는데, 그녀의 대답은 \"나도 10년 전부터 기다렸어!\""
+}

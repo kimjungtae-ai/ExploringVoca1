@@ -1,0 +1,55 @@
+{
+ "word": "key",
+ "pos": "명사 / 형용사",
+ "phonetic": "[kiː]",
+ "meaning": "열쇠, 비결, (피아노) 건반 / 핵심적인, 중요한",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "key",
+   "meaning": "열쇠 (key)",
+   "note": "고대 영어 cæg에서 왔는데, 기원은 알려져 있지 않아요."
+  }
+ ],
+ "summary": "고대 영어 <strong>cæg</strong> (열쇠) = 문을 여는 도구에서 <strong>'비결, 핵심적인'</strong>이라는 뜻까지 생겼어요.",
+ "historyTitle": "기원이 수수께끼인 열쇠",
+ "historyBody": "key는 고대 영어 cæg에서 왔어요. 가까운 게르만어 친척이 거의 없어서 사전들은 기원을 '알 수 없다'고 해요. 문을 여는 도구라는 뜻에서 문제를 푸는 '비결', 가장 중요한 '핵심적인'이라는 뜻이 생겼고, 피아노의 '건반'도 key라고 부르게 되었답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "keyboard",
+   "pos": "명사",
+   "meaning": "키보드, 건반",
+   "en": "I bought a new keyboard for my computer.",
+   "ko": "나는 컴퓨터용 새 키보드를 샀어요."
+  },
+  {
+   "word": "keyhole",
+   "pos": "명사",
+   "meaning": "열쇠 구멍",
+   "en": "The cat tried to look through the keyhole.",
+   "ko": "고양이가 열쇠 구멍으로 들여다보려고 했어요."
+  },
+  {
+   "word": "keyword",
+   "pos": "명사",
+   "meaning": "핵심어, 검색어",
+   "en": "Underline the keywords when you read a passage.",
+   "ko": "지문을 읽을 때 핵심어에 밑줄을 그으세요."
+  },
+  {
+   "word": "keynote",
+   "pos": "명사 / 형용사",
+   "meaning": "기조, 주안점 / 기조의",
+   "en": "The scientist gave the keynote speech at the event.",
+   "ko": "그 과학자가 행사에서 기조연설을 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 열쇠로 잠긴 보물 상자를 여는 장면",
+ "imageCaption": "꽉 잠긴 문제를 '찰칵' 하고 여는 단 하나의 열쇠를 떠올려 보세요. 그래서 '핵심'이에요.",
+ "movieLineEn": "The key to winning is patience.",
+ "movieLineKo": "이기는 비결은 인내심이야.",
+ "storyTitle": "열쇠를 찾아라",
+ "story": "민지는 집 key(열쇠)를 잃어버렸어요. keyhole(열쇠 구멍)을 들여다보니 안에서 강아지가 꼬리를 흔들었죠. 인터넷에 keyword(검색어) '문 여는 법'을 쳤지만 소용없었어요. 결국 민지는 장난감 keyboard(키보드)로 노래를 쳤는데, 신난 강아지가 문을 열어 줬답니다. 비결은 음악이었어요!"
+}

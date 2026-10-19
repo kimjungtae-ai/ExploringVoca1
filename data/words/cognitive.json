@@ -1,0 +1,67 @@
+{
+ "word": "cognitive",
+ "pos": "형용사",
+ "phonetic": "[ˈkɑːɡnətɪv]",
+ "meaning": "인지의, 인식의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "완전히, 함께 (강조)",
+   "note": "라틴어 com-이 g 앞에서 co-가 된 형태로, 뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gni(t)",
+   "meaning": "알다 (know)",
+   "note": "라틴어 (g)noscere(알다)에서 온 어근으로, 영어 know와 먼 친척이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 성질의 (형용사형)",
+   "note": "동사 어근을 '그런 성질의'라는 형용사로 만들어요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (완전히) + <strong>gnit</strong> (알다) + <strong>-ive</strong> (~의) = '알게 되는 과정의'라는 데서 <strong>'인지의'</strong>가 되었습니다.",
+ "historyTitle": "알아 가는 능력",
+ "historyBody": "라틴어 cognoscere는 co-(완전히)와 gnoscere(알다)가 합쳐져 '알게 되다'를 뜻했어요. 이 gno-는 영어 know, 그리스어 gignōskein과 같은 인도유럽 뿌리에서 나왔답니다. cognitive는 17세기에 등장했고, 20세기 심리학에서 '인지 과학' 같은 용어로 크게 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "recognize",
+   "pos": "동사",
+   "meaning": "알아보다, 인정하다",
+   "en": "I didn't recognize her with short hair.",
+   "ko": "그녀가 단발머리를 해서 못 알아봤어."
+  },
+  {
+   "word": "recognition",
+   "pos": "명사",
+   "meaning": "인식, 인정",
+   "en": "The scientist finally received recognition for her work.",
+   "ko": "그 과학자는 마침내 연구를 인정받았어요."
+  },
+  {
+   "word": "cognition",
+   "pos": "명사",
+   "meaning": "인지, 인식",
+   "en": "Sleep plays a key role in human cognition.",
+   "ko": "잠은 인간의 인지에 중요한 역할을 해요."
+  },
+  {
+   "word": "ignorant",
+   "pos": "형용사",
+   "meaning": "무지한, 모르는",
+   "en": "He was ignorant of the new school rules.",
+   "ko": "그는 새 학교 규칙을 모르고 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뇌 속에서 정보가 반짝이며 연결되는 모습",
+ "imageCaption": "보고 듣고 알아 가는(gnit) 머릿속 과정을 떠올려 보세요.",
+ "movieLineEn": "Playing chess improves your cognitive skills.",
+ "movieLineKo": "체스를 두면 인지 능력이 좋아진대.",
+ "storyTitle": "천재 강아지 실험",
+ "story": "과학자는 강아지의 cognitive(인지의) 능력을 실험했어요. 강아지는 주인의 얼굴을 recognize(알아보다)하고 숫자까지 셌죠. 연구는 큰 recognition(인정)을 받았어요. 그런데 강아지는 사실 숫자에 ignorant(무지한)했어요. 주인이 몰래 간식 신호를 보내고 있었거든요!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "concise",
+ "pos": "형용사",
+ "phonetic": "[kənˈsaɪs]",
+ "meaning": "간결한, 간명한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cis",
+   "meaning": "자르다 (cut)",
+   "note": "라틴어 caedere(자르다)의 과거분사 caesus가 합성어에서 -cisus로 바뀐 어근이에요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>cise</strong> (자르다) = '군더더기를 싹 잘라 낸'이라는 데서 <strong>'간결한'</strong>이 되었습니다.",
+ "historyTitle": "불필요한 말을 잘라 내다",
+ "historyBody": "라틴어 concisus는 concidere(잘게 자르다)의 과거분사로, '잘라 낸, 짧게 줄인'이라는 뜻이었어요. 16세기 말 영어에 들어와 말이나 글이 짧고 핵심만 담긴 것을 가리키게 되었답니다. 같은 caedere에서 decide(결정하다, 원래 '잘라 내다')도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "precise",
+   "pos": "형용사",
+   "meaning": "정확한, 정밀한",
+   "en": "We need the precise time of the accident.",
+   "ko": "사고가 난 정확한 시간이 필요해요."
+  },
+  {
+   "word": "decide",
+   "pos": "동사",
+   "meaning": "결정하다",
+   "en": "She decided to study abroad.",
+   "ko": "그녀는 유학을 가기로 결정했어요."
+  },
+  {
+   "word": "decision",
+   "pos": "명사",
+   "meaning": "결정",
+   "en": "Choosing a college is a big decision.",
+   "ko": "대학을 고르는 건 중요한 결정이에요."
+  },
+  {
+   "word": "incisive",
+   "pos": "형용사",
+   "meaning": "예리한, 날카로운",
+   "en": "The reporter asked an incisive question.",
+   "ko": "그 기자는 예리한 질문을 던졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 긴 글에서 불필요한 문장을 가위로 싹둑 잘라 낸 원고",
+ "imageCaption": "군더더기를 완전히(con-) 잘라 낸(cise) 깔끔한 문장을 떠올려 보세요.",
+ "movieLineEn": "Be concise. We have only one minute left!",
+ "movieLineKo": "간결하게 말해. 1분밖에 안 남았어!",
+ "storyTitle": "교장 선생님의 짧은 훈화",
+ "story": "학생들은 교장 선생님께 concise(간결한) 훈화를 부탁드렸어요. 선생님은 precise(정확한) 시간을 재며 decide(결정하다)하셨죠. \"딱 1분만 하겠습니다.\" 모두가 그 decision(결정)에 박수를 쳤어요. 그런데 \"1분만\"이라는 말씀만 30분 동안 하셨답니다!"
+}

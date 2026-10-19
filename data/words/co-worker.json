@@ -1,0 +1,74 @@
+{
+ "word": "co-worker",
+ "pos": "명사",
+ "phonetic": "[ˈkoʊˌwɜːrkər]",
+ "meaning": "직장 동료, 함께 일하는 사람",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "함께 (together)",
+   "note": "라틴어 com-(함께)이 줄어든 형태예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "work",
+   "meaning": "일하다 (work)",
+   "note": "고대 영어 weorc(일)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "동사 뒤에 붙어 '그 일을 하는 사람'을 만들어요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (함께) + <strong>work</strong> (일하다) + <strong>-er</strong> (사람) = '함께 일하는 사람'이라는 데서 <strong>'직장 동료'</strong>가 되었습니다.",
+ "historyTitle": "라틴어와 영어의 합작",
+ "historyBody": "co-는 라틴어 com-(함께)에서 왔고, work는 고대 영어 weorc에서 온 순수 영어 단어예요. 이렇게 라틴어 접두사와 영어 단어가 결합한 coworker는 19세기 무렵부터 쓰였어요. coworker처럼 붙여 쓰기도 한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "work",
+   "pos": "동사/명사",
+   "meaning": "일하다, 작동하다 / 일, 작품",
+   "en": "My dad works at a hospital.",
+   "ko": "우리 아빠는 병원에서 일하셔."
+  },
+  {
+   "word": "worker",
+   "pos": "명사",
+   "meaning": "노동자, 일하는 사람",
+   "en": "The factory hired fifty new workers.",
+   "ko": "그 공장은 새 직원 50명을 고용했어요."
+  },
+  {
+   "word": "workplace",
+   "pos": "명사",
+   "meaning": "일터, 직장",
+   "en": "A friendly workplace makes people happier.",
+   "ko": "친근한 직장은 사람들을 더 행복하게 해요."
+  },
+  {
+   "word": "homework",
+   "pos": "명사",
+   "meaning": "숙제",
+   "en": "I always do my homework after dinner.",
+   "ko": "나는 항상 저녁 먹고 숙제를 해."
+  },
+  {
+   "word": "workshop",
+   "pos": "명사",
+   "meaning": "작업장, 연수회",
+   "en": "We joined a writing workshop last weekend.",
+   "ko": "우리는 지난 주말에 글쓰기 연수회에 참가했어."
+  }
+ ],
+ "imageSense": "대표 의미: 사무실에서 동료들이 한 책상에 모여 회의하는 장면",
+ "imageCaption": "함께(co-) 일하는(work) 사람(-er)이 옆자리에 앉아 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "My co-worker ate my lunch again!",
+ "movieLineKo": "내 직장 동료가 또 내 점심을 먹었어!",
+ "storyTitle": "사라진 도시락",
+ "story": "아빠의 workplace(직장)에서 매일 도시락이 사라졌어요. 아빠는 co-worker(직장 동료)들을 의심했죠. 다른 worker(노동자)들도 피해를 입었대요. 결국 CCTV를 확인하는 workshop(연수회)까지 열렸는데, 범인은 몰래 사무실에 살던 너구리였답니다!"
+}

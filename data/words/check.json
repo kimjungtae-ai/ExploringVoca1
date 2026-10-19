@@ -1,0 +1,55 @@
+{
+ "word": "check",
+ "pos": "동사 / 명사",
+ "phonetic": "[tʃek]",
+ "meaning": "확인하다, 점검하다, 저지하다 / 확인, 수표, 계산서",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "check",
+   "meaning": "(체스의) 장군!, 왕이 위협받음",
+   "note": "페르시아어 shāh(왕)가 고대 프랑스어 eschec를 거쳐 들어온 말이라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>check</strong> (체스의 '장군!') = 상대의 왕을 멈춰 세우고 살핀다는 데서 <strong>'확인하다, 저지하다'</strong>가 되었습니다.",
+ "historyTitle": "체스판에서 시작된 단어",
+ "historyBody": "check는 페르시아어 shāh(왕)에서 아랍어를 거쳐 고대 프랑스어 eschec(장군!)이 되어 영어로 들어왔어요. 체스에서 왕을 위협해 움직임을 막는 데서 '저지하다', 다시 '확인하다, 점검하다'로 뜻이 넓어졌어요. 체스(chess)도 eschec의 복수형에서 나온 친척 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "checkmate",
+   "pos": "명사",
+   "meaning": "(체스의) 외통수, 완패",
+   "en": "With one clever move, she put her opponent in checkmate.",
+   "ko": "그녀는 영리한 한 수로 상대를 외통수에 몰았어요."
+  },
+  {
+   "word": "chess",
+   "pos": "명사",
+   "meaning": "체스",
+   "en": "My grandfather taught me how to play chess.",
+   "ko": "할아버지께서 나에게 체스 두는 법을 가르쳐 주셨어."
+  },
+  {
+   "word": "checkup",
+   "pos": "명사",
+   "meaning": "건강 검진, 점검",
+   "en": "You should get a dental checkup twice a year.",
+   "ko": "1년에 두 번은 치과 검진을 받아야 해요."
+  },
+  {
+   "word": "checkered",
+   "pos": "형용사",
+   "meaning": "체크무늬의, 우여곡절 많은",
+   "en": "He wore a red checkered shirt to the picnic.",
+   "ko": "그는 소풍에 빨간 체크무늬 셔츠를 입고 왔어."
+  }
+ ],
+ "imageSense": "대표 의미: 출발 전 체크리스트에 하나씩 표시하며 확인하는 장면",
+ "imageCaption": "체스판의 왕을 멈춰 세우듯, 하나하나 멈춰서 살피는 모습을 떠올려 보세요.",
+ "movieLineEn": "Check the door twice before you leave.",
+ "movieLineKo": "나가기 전에 문을 두 번 확인해.",
+ "storyTitle": "체스 왕의 건강 검진",
+ "story": "체스 말 왕이 매일 \"check(장군)!\" 소리를 듣다 스트레스를 받아 병원에 갔어요. 의사가 checkup(건강 검진)을 해 보더니 말했죠. \"chess(체스)를 줄이세요.\" 왕이 한숨 쉬며 checkered(체크무늬의) 환자복을 입는 순간, 간호사가 외쳤어요. \"checkmate(외통수)! 입원 확정입니다!\""
+}

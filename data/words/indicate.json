@@ -1,0 +1,81 @@
+{
+ "word": "indicate",
+ "pos": "동사",
+ "phonetic": "[ˈɪndɪkeɪt]",
+ "meaning": "나타내다, 가리키다, 시사하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~쪽으로, 위에 (in, toward)",
+   "note": "무엇을 향해 손가락을 뻗는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "dic",
+   "meaning": "선언하다, 말하다 (proclaim, say)",
+   "note": "라틴어 dicare(선언하다)로, dicere(말하다)와 친척이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~쪽으로) + <strong>dic</strong> (말하다, 선언하다) + <strong>-ate</strong> = '저쪽을 향해 알려 주다'라는 뜻에서 <strong>'가리키다, 나타내다'</strong>가 되었습니다.",
+ "historyTitle": "검지손가락 index의 친척",
+ "historyBody": "라틴어 'indicare'는 '가리키다, 알리다'라는 뜻이었어요. 같은 뿌리에서 나온 라틴어 index는 '가리키는 것'이라 집게손가락이나 책의 색인을 뜻하게 되었죠. 그래서 indicate는 무언가를 손가락처럼 콕 짚어 보여 준다는 의미랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "indicator",
+   "pos": "명사",
+   "meaning": "지표, 표시기",
+   "en": "Smiling is an indicator of happiness.",
+   "ko": "미소는 행복의 지표예요."
+  },
+  {
+   "word": "indication",
+   "pos": "명사",
+   "meaning": "암시, 징후",
+   "en": "There is no indication of rain today.",
+   "ko": "오늘은 비가 올 기미가 없어요."
+  },
+  {
+   "word": "index",
+   "pos": "명사",
+   "meaning": "색인, 지수",
+   "en": "Look up the word in the index.",
+   "ko": "색인에서 그 단어를 찾아보세요."
+  },
+  {
+   "word": "dedicate",
+   "pos": "동사",
+   "meaning": "바치다, 헌신하다",
+   "en": "She dedicated her life to helping children.",
+   "ko": "그녀는 아이들을 돕는 데 평생을 바쳤어요."
+  },
+  {
+   "word": "predict",
+   "pos": "동사",
+   "meaning": "예측하다 (미리 말하다)",
+   "en": "It is hard to predict the weather.",
+   "ko": "날씨를 예측하는 것은 어려워요."
+  },
+  {
+   "word": "dictate",
+   "pos": "동사",
+   "meaning": "받아쓰게 하다, 지시하다",
+   "en": "The boss dictated a letter to his secretary.",
+   "ko": "사장은 비서에게 편지를 받아쓰게 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위의 빨간 화살표가 목적지를 콕 가리키는 장면",
+ "imageCaption": "자동차 계기판의 불빛이 '기름 부족!'을 알려 주는 모습을 떠올려 보세요. 무언가를 가리켜 보여 주는 것, 그게 indicate예요.",
+ "movieLineEn": "The map indicates the treasure is right here.",
+ "movieLineKo": "지도는 보물이 바로 여기 있다고 가리키고 있어.",
+ "storyTitle": "고장 난 날씨 예측기",
+ "story": "삼촌의 날씨 indicator(지표) 기계가 '맑음'을 indicate(나타내다)했어요. 그래서 소풍을 갔죠. 하늘엔 비 올 indication(징후)도 없었어요. 그런데 갑자기 소나기가! 삼촌은 '날씨는 predict(예측하다)하기 어렵다'며 웃었어요. 알고 보니 기계 화면은 그냥 스티커였대요."
+}

@@ -1,0 +1,54 @@
+{
+ "word": "complaint",
+ "pos": "명사",
+ "phonetic": "[kəmˈpleɪnt]",
+ "meaning": "불평, 불만, 항의, 병",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plain(t)",
+   "meaning": "가슴을 치며 슬퍼하다 (lament)",
+   "note": "라틴어 plangere(가슴을 치다, 슬퍼하다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>plaint</strong> (슬퍼하다) = '가슴을 치며 한탄함'이라는 데서 <strong>'불평, 항의'</strong>가 되었습니다.",
+ "historyTitle": "가슴을 치던 슬픔",
+ "historyBody": "라틴어 plangere는 원래 슬퍼서 가슴을 치는 행동을 뜻했어요. 이것이 속라틴어 complangere와 고대 프랑스어 complaindre를 거쳐 영어 complain이 되었죠. 처음엔 '슬퍼하며 한탄하다'였다가, 점점 '불만을 말하다'라는 뜻으로 바뀌었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "complain",
+   "pos": "동사",
+   "meaning": "불평하다, 항의하다",
+   "en": "He always complains about the school food.",
+   "ko": "그는 항상 급식에 대해 불평해요."
+  },
+  {
+   "word": "plaintiff",
+   "pos": "명사",
+   "meaning": "원고, 고소인",
+   "en": "The plaintiff asked the court for help.",
+   "ko": "원고는 법원에 도움을 요청했어요."
+  },
+  {
+   "word": "plaintive",
+   "pos": "형용사",
+   "meaning": "구슬픈, 애처로운",
+   "en": "We heard the plaintive cry of a lost puppy.",
+   "ko": "우리는 길 잃은 강아지의 애처로운 울음소리를 들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고객 센터 창구에서 불만을 쏟아 내는 손님",
+ "imageCaption": "가슴을 치며(plaint) 억울함을 하소연하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'd like to make a complaint about my soup. There's a fly in it!",
+ "movieLineKo": "수프에 대해 항의하고 싶어요. 파리가 들어 있어요!",
+ "storyTitle": "불평왕의 마지막 불평",
+ "story": "동네 불평왕 아저씨는 매일 complain(불평하다)했어요. 식당에서도 complaint(항의)를 했고, 결국 plaintiff(원고)가 되어 법원까지 갔죠. 판사가 물었어요. \"이번엔 뭐가 불만이죠?\" 아저씨는 plaintive(애처로운) 목소리로 답했어요. \"음식이 너무 맛있어서 살이 쪘어요!\""
+}

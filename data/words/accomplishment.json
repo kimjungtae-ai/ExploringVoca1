@@ -1,0 +1,86 @@
+{
+ "word": "accomplishment",
+ "pos": "명사",
+ "phonetic": "[əˈkɑːmplɪʃmənt]",
+ "meaning": "업적, 성취, 완수, 재주",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~에, 완전히 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (intensive)",
+   "note": "'꽉, 완전히'라는 강조의 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pli",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 plere(채우다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-sh",
+   "meaning": "동사 어미",
+   "note": "고대 프랑스어 동사 형태 -iss-에서 온 영어식 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> + <strong>com-</strong> (완전히) + <strong>pli</strong> (채우다) + <strong>-ment</strong> = '끝까지 꽉 채워 해낸 것'에서 <strong>'업적, 성취'</strong>가 되었어요.",
+ "historyTitle": "빈 그릇을 '가득 채우듯' 해내는 일",
+ "historyBody": "라틴어 complere는 '가득 채우다, 완성하다'라는 뜻이었어요. 고대 프랑스어 acomplir(완수하다)를 거쳐 영어 accomplish가 되었고, -ment가 붙어 '이루어 낸 것'을 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accomplish",
+   "pos": "동사",
+   "meaning": "성취하다, 완수하다",
+   "en": "We accomplished the project in just two weeks.",
+   "ko": "우리는 단 2주 만에 그 프로젝트를 완수했어요."
+  },
+  {
+   "word": "complete",
+   "pos": "형용사/동사",
+   "meaning": "완전한 / 완성하다",
+   "en": "Please complete the form before the interview.",
+   "ko": "면접 전에 서류를 작성해 주세요."
+  },
+  {
+   "word": "plenty",
+   "pos": "명사",
+   "meaning": "풍부함, 많음",
+   "en": "There is plenty of food for everyone.",
+   "ko": "모두가 먹을 음식이 충분해요."
+  },
+  {
+   "word": "supply",
+   "pos": "동사/명사",
+   "meaning": "공급하다 / 공급",
+   "en": "The farm supplies fresh milk to the town.",
+   "ko": "그 농장은 마을에 신선한 우유를 공급해요."
+  },
+  {
+   "word": "implement",
+   "pos": "동사",
+   "meaning": "실행하다, 시행하다",
+   "en": "The school will implement a new rule next month.",
+   "ko": "학교는 다음 달에 새 규칙을 시행할 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 산 정상에 깃발을 꽂고 두 팔을 번쩍 드는 장면",
+ "imageCaption": "오랜 노력이 가득 '채워져' 마침내 이룬 순간을 떠올려 보세요.",
+ "movieLineEn": "Finishing this marathon is my greatest accomplishment.",
+ "movieLineKo": "이 마라톤을 완주한 게 내 최고의 업적이야.",
+ "storyTitle": "아빠의 위대한 업적",
+ "story": "아빠는 평생의 accomplishment(업적)를 이루겠다며 직접 냉장고를 만들기 시작했어요. 재료는 plenty(풍부함)했고, 엄마가 간식을 supply(공급하다)했죠. 1년 뒤 드디어 complete(완성하다)! 문을 열자 안이 따뜻했어요. 아빠가 만든 건 냉장고가 아니라 오븐이었답니다."
+}

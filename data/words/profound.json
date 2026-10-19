@@ -1,0 +1,61 @@
+{
+ "word": "profound",
+ "pos": "형용사",
+ "phonetic": "[prəˈfaʊnd]",
+ "meaning": "깊은, 심오한, 엄청난",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로, 아래로 (forth, down)",
+   "note": "앞쪽 깊숙이 들어간다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "found",
+   "meaning": "바닥 (bottom)",
+   "note": "라틴어 fundus(바닥)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (아래로) + <strong>found</strong> (바닥) = '바닥까지 깊이 내려간'이라는 뜻에서 <strong>'깊은, 심오한'</strong>이 되었어요.",
+ "historyTitle": "바닥이 보이지 않는 깊이",
+ "historyBody": "라틴어 profundus는 '깊은, 바닥이 깊은'이라는 뜻이었어요. 고대 프랑스어 profont를 거쳐 14세기 영어에 들어왔고, 처음부터 '생각이 깊은'이라는 뜻으로도 쓰였어요. 같은 fundus에서 '기초'를 뜻하는 foundation과 fundamental이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "foundation",
+   "pos": "명사",
+   "meaning": "기초, 토대, 재단",
+   "en": "Reading is the foundation of all learning.",
+   "ko": "독서는 모든 배움의 기초예요."
+  },
+  {
+   "word": "fundamental",
+   "pos": "형용사",
+   "meaning": "근본적인, 기본적인",
+   "en": "Clean water is a fundamental human need.",
+   "ko": "깨끗한 물은 인간의 근본적인 필요예요."
+  },
+  {
+   "word": "found",
+   "pos": "동사",
+   "meaning": "설립하다",
+   "en": "The school was founded in 1950.",
+   "ko": "그 학교는 1950년에 설립되었어요."
+  },
+  {
+   "word": "profoundly",
+   "pos": "부사",
+   "meaning": "깊이, 크게",
+   "en": "The movie profoundly changed my view of life.",
+   "ko": "그 영화는 내 인생관을 크게 바꿨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 바닥이 보이지 않는 깊은 바다 속으로 내려가는 잠수부",
+ "imageCaption": "바다 바닥까지 끝없이 내려가는 모습처럼 '깊은 생각'을 떠올려 보세요.",
+ "movieLineEn": "That is the most profound thing you've ever said.",
+ "movieLineKo": "그건 네가 지금까지 한 말 중 가장 심오한 말이야.",
+ "storyTitle": "철학자 강아지",
+ "story": "강아지 콩이는 늘 profound(심오한) 표정으로 창밖을 봤어요. 가족들은 콩이가 삶의 fundamental(근본적인) 질문을 고민한다고 생각했죠. 철학의 foundation(기초)을 세운 강아지라며 profoundly(깊이) 감동했어요. 하지만 콩이가 바라본 건 옆집 치킨 배달 오토바이였답니다!"
+}

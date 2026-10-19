@@ -1,0 +1,55 @@
+{
+ "word": "extra",
+ "pos": "형용사 / 부사 / 명사",
+ "phonetic": "[ˈekstrə]",
+ "meaning": "추가의, 여분의 / 특별히 / 엑스트라(단역 배우)",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "extra",
+   "meaning": "~의 밖에, ~을 넘어 (outside, beyond)",
+   "note": "라틴어 extra(밖에)에서 왔어요. 영어에서는 extraordinary를 줄여 쓴 말로 보고 있어요."
+  }
+ ],
+ "summary": "<strong>extra</strong> (~을 넘어서) = '보통의 범위를 넘어선'에서 <strong>'추가의, 여분의'</strong>가 되었어요.",
+ "historyTitle": "extraordinary의 줄임말",
+ "historyBody": "단독 단어 extra는 17세기 무렵 extraordinary(보통을 넘어선)를 줄여 쓰면서 생긴 것으로 보여요. 라틴어 extra는 '~의 밖에'라는 뜻으로, ex(밖으로)와 관련 있어요. 영화의 '엑스트라'도 주연 외에 '추가로' 나오는 배우라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "extraordinary",
+   "pos": "형용사",
+   "meaning": "특별한, 놀라운",
+   "en": "The view from the top was extraordinary.",
+   "ko": "정상에서 본 경치는 정말 놀라웠어요."
+  },
+  {
+   "word": "exterior",
+   "pos": "명사",
+   "meaning": "외부, 외관",
+   "en": "The exterior of the car is bright red.",
+   "ko": "그 차의 외관은 밝은 빨간색이에요."
+  },
+  {
+   "word": "external",
+   "pos": "형용사",
+   "meaning": "외부의",
+   "en": "The company hired an external expert.",
+   "ko": "그 회사는 외부 전문가를 고용했어요."
+  },
+  {
+   "word": "extreme",
+   "pos": "형용사",
+   "meaning": "극단적인",
+   "en": "Avoid extreme diets; they are bad for your health.",
+   "ko": "극단적인 다이어트는 피하세요. 건강에 나빠요."
+  }
+ ],
+ "imageSense": "대표 의미: 피자 위에 치즈를 '추가'로 듬뿍 올리는 장면",
+ "imageCaption": "기본에 더해 '하나 더' 얹어 주는 서비스를 떠올려 보세요.",
+ "movieLineEn": "I need an extra hour. Just one more hour!",
+ "movieLineKo": "한 시간만 더 필요해. 딱 한 시간만!",
+ "storyTitle": "엑스트라의 반전",
+ "story": "드라마 extra(엑스트라)로 뽑힌 삼촌은 extreme(극도의) 열정으로 연기했어요. 감독은 그의 extraordinary(놀라운) 표정에 감탄했죠. 하지만 extra(추가의) 대사는 하나도 없었어요. 방송을 보니 삼촌은 화면 밖 exterior(외부) 그림자로만 나왔대요."
+}

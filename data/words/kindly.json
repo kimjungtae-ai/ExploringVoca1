@@ -1,0 +1,68 @@
+{
+ "word": "kindly",
+ "pos": "부사 / 형용사",
+ "phonetic": "[ˈkaɪndli]",
+ "meaning": "친절하게, 부디(~해 주세요) / 친절한, 다정한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "kind",
+   "meaning": "친절한, 종류 (kind)",
+   "note": "고대 영어 gecynde('타고난, 본래의')에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (in a way)",
+   "note": "형용사를 부사로, 또는 '~다운'이라는 형용사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>kind</strong> (친절한) + <strong>-ly</strong> (~하게) = <strong>'친절하게, 부디'</strong>라는 뜻이에요.",
+ "historyTitle": "'같은 가족'에서 '친절'로",
+ "historyBody": "kind는 고대 영어 cynd('종류, 가문, 본성')와 gecynde('타고난')에서 왔어요. 같은 핏줄(kin)인 사람에게 하듯 대하는 게 자연스럽다는 생각에서 '친절한'이라는 뜻이 생겼다고 사전들은 설명해요. 그래서 '종류'의 kind와 '친절한'의 kind는 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "kind",
+   "pos": "형용사 / 명사",
+   "meaning": "친절한 / 종류",
+   "en": "What kind of music do you like?",
+   "ko": "너는 어떤 종류의 음악을 좋아해?"
+  },
+  {
+   "word": "kindness",
+   "pos": "명사",
+   "meaning": "친절, 다정함",
+   "en": "A small act of kindness can change someone's day.",
+   "ko": "작은 친절 하나가 누군가의 하루를 바꿀 수 있어요."
+  },
+  {
+   "word": "unkind",
+   "pos": "형용사",
+   "meaning": "불친절한, 매정한",
+   "en": "It was unkind of him to laugh at her mistake.",
+   "ko": "그녀의 실수를 비웃다니 그는 매정했어요."
+  },
+  {
+   "word": "mankind",
+   "pos": "명사",
+   "meaning": "인류",
+   "en": "The invention of fire was important for mankind.",
+   "ko": "불의 발명은 인류에게 중요했어요."
+  },
+  {
+   "word": "kin",
+   "pos": "명사",
+   "meaning": "친척, 혈족",
+   "en": "She has no close kin living nearby.",
+   "ko": "그녀는 근처에 사는 가까운 친척이 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 길 잃은 할머니에게 미소 지으며 길을 안내해 주는 학생",
+ "imageCaption": "마치 내 가족에게 하듯 다정한 목소리로 도와주는 모습을 떠올려 보세요.",
+ "movieLineEn": "Kindly step away from my car, sir.",
+ "movieLineKo": "선생님, 제 차에서 좀 떨어져 주시겠어요?",
+ "storyTitle": "친절한 도둑?",
+ "story": "한 도둑이 빵집 문 앞에서 kindly(친절하게) 인사했어요. 사장님은 그 kindness(친절)에 감동해 빵을 줬죠. 도둑은 '어떤 kind(종류)의 빵이 제일 맛있나요?'라며 계속 물었어요. 그러다 하나씩 다 시식하더니 배불러서 그대로 잠들었어요. 결국 도둑은 빵집 직원이 되었답니다. 이것도 mankind(인류)의 평화죠!"
+}

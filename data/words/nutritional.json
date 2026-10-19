@@ -1,0 +1,74 @@
+{
+ "word": "nutritional",
+ "pos": "형용사",
+ "phonetic": "[nuˈtrɪʃənl]",
+ "meaning": "영양상의, 영양의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "nutri",
+   "meaning": "영양을 주다 (nourish)",
+   "note": "라틴어 nutrire(먹여 기르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tion",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "명사를 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>nutri</strong> (영양을 주다) + <strong>-tion</strong> (~하는 것) + <strong>-al</strong> (~의) = 영양 섭취에 관한이라서 <strong>'영양상의'</strong>가 되었어요.",
+ "historyTitle": "식품 라벨 속 단어",
+ "historyBody": "nutrition은 라틴어 nutritio(먹이기)에서 왔고, 여기에 -al이 붙어 nutritional이 되었어요. 20세기에 영양학이 발전하면서 'nutritional value(영양가)', 'nutritional facts(영양 성분표)' 같은 표현이 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nutrition",
+   "pos": "명사",
+   "meaning": "영양, 영양 섭취",
+   "en": "Nutrition plays a key role in children's growth.",
+   "ko": "영양은 아이들의 성장에 핵심적인 역할을 해요."
+  },
+  {
+   "word": "nutrient",
+   "pos": "명사",
+   "meaning": "영양소",
+   "en": "Plants take nutrients from the soil.",
+   "ko": "식물은 흙에서 영양소를 흡수해요."
+  },
+  {
+   "word": "nutritious",
+   "pos": "형용사",
+   "meaning": "영양가 높은",
+   "en": "Nuts are a nutritious snack.",
+   "ko": "견과류는 영양가 높은 간식이에요."
+  },
+  {
+   "word": "nutritionist",
+   "pos": "명사",
+   "meaning": "영양사",
+   "en": "The nutritionist planned a healthy menu for the school.",
+   "ko": "영양사가 학교를 위해 건강한 식단을 짰어요."
+  },
+  {
+   "word": "malnutrition",
+   "pos": "명사",
+   "meaning": "영양실조",
+   "en": "The charity fights malnutrition in Africa.",
+   "ko": "그 자선 단체는 아프리카의 영양실조와 싸우고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 과자 봉지 뒷면의 영양 성분표를 꼼꼼히 읽는 모습",
+ "imageCaption": "마트에서 과자 두 봉지를 들고 뒷면 숫자를 비교하는 학생을 떠올려 보세요.",
+ "movieLineEn": "This burger has zero nutritional value, but it tastes amazing.",
+ "movieLineKo": "이 버거는 영양가가 전혀 없지만 맛은 끝내줘.",
+ "storyTitle": "라벨 탐정",
+ "story": "다이어트 중인 형은 모든 음식의 nutritional(영양의) 정보를 확인해요. nutritionist(영양사)처럼 nutrient(영양소)를 계산하며 과자를 고르죠. 30분 고민 끝에 \"이건 nutritious(영양가 높은) 간식이야!\"라며 집은 건… 초코칩이 더 들어간 쿠키였답니다."
+}

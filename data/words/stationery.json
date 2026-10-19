@@ -1,0 +1,80 @@
+{
+ "word": "stationery",
+ "pos": "명사",
+ "phonetic": "[ˈsteɪʃəneri]",
+ "meaning": "문구류, 편지지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stat",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 온 statio(서 있는 곳, 자리)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 곳, ~하는 것 (명사)",
+   "note": "station은 '고정된 자리'예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "stationer는 '한자리에 가게를 둔 상인'이었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~의 물건 (명사)",
+   "note": "stationer가 파는 물건들, 즉 문구류예요."
+  }
+ ],
+ "summary": "<strong>station</strong> (고정된 자리) + <strong>-er</strong> (사람) + <strong>-y</strong> = '한자리에 가게를 차린 상인이 파는 물건'에서 <strong>'문구류'</strong>가 되었습니다.",
+ "historyTitle": "떠돌지 않던 중세 책장수",
+ "historyBody": "중세에는 대부분의 상인이 장터를 떠돌았지만, 대학 근처에 고정 가게(statio)를 낸 상인은 stationarius라고 불렸어요. 이들이 주로 책과 종이, 펜을 팔아서 영어 stationer는 '문구상'이 되었고, 그 물건이 stationery가 되었어요. 형용사 stationary(정지된)와 철자가 헷갈리니 조심하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "station",
+   "pos": "명사",
+   "meaning": "역, 정거장, 방송국",
+   "en": "I'll wait for you at the subway station.",
+   "ko": "지하철역에서 너를 기다릴게."
+  },
+  {
+   "word": "stationary",
+   "pos": "형용사",
+   "meaning": "움직이지 않는, 정지된",
+   "en": "The car remained stationary at the red light.",
+   "ko": "차는 빨간불에 멈춰 있었어요."
+  },
+  {
+   "word": "status",
+   "pos": "명사",
+   "meaning": "지위, 상태",
+   "en": "Check the status of your order online.",
+   "ko": "온라인에서 주문 상태를 확인하세요."
+  },
+  {
+   "word": "statue",
+   "pos": "명사",
+   "meaning": "조각상",
+   "en": "There is a bronze statue in the park.",
+   "ko": "공원에 청동 조각상이 있어요."
+  },
+  {
+   "word": "state",
+   "pos": "명사 / 동사",
+   "meaning": "상태, 국가 / 진술하다",
+   "en": "The house was in a terrible state after the storm.",
+   "ko": "폭풍 후 그 집은 끔찍한 상태였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 문구점 진열대에 가득한 색색의 펜, 공책, 편지지",
+ "imageCaption": "새 학기에 문구점에서 예쁜 공책과 형광펜을 고르는 장면을 떠올려 보세요.",
+ "movieLineEn": "Who needs a phone? I have beautiful stationery and a pen.",
+ "movieLineKo": "휴대폰이 왜 필요해? 나한텐 예쁜 편지지와 펜이 있는데.",
+ "storyTitle": "편지 쓰는 비둘기",
+ "story": "비둘기 구구는 stationery(문구류) 가게 앞 station(역) 지붕에 살았어요. 매일 예쁜 편지지를 물어다가 광장의 statue(조각상)에게 연애편지를 썼죠. 조각상은 늘 stationary(정지된) 상태로 대답이 없었어요. 구구의 마음 status(상태)는 엉망이었어요. 그런데 어느 날 답장이 왔어요. \"비둘기 똥 좀 그만 싸 줘. - 조각상\""
+}

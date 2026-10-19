@@ -1,0 +1,75 @@
+{
+ "word": "shorts",
+ "pos": "명사",
+ "phonetic": "[ʃɔːrts]",
+ "meaning": "반바지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "short",
+   "meaning": "짧은 (short)",
+   "note": "고대 영어 'sceort'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "복수형",
+   "note": "다리가 두 개라서 바지 종류는 항상 복수형으로 써요."
+  }
+ ],
+ "summary": "<strong>short</strong> (짧은) + <strong>-s</strong> (복수) = 짧은 바지, 즉 <strong>'반바지'</strong>예요.",
+ "historyTitle": "왜 반바지는 항상 -s일까?",
+ "historyBody": "shorts는 19세기 후반부터 '짧은 바지'를 뜻하게 되었어요. 영어에서 바지(pants, trousers)나 안경(glasses)처럼 두 부분이 짝을 이루는 물건은 복수형으로 써요. 그래서 반바지 한 벌도 'a pair of shorts'라고 한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "short",
+   "pos": "형용사",
+   "meaning": "짧은, 부족한",
+   "en": "Life is too short to waste time.",
+   "ko": "인생은 시간을 낭비하기엔 너무 짧아요."
+  },
+  {
+   "word": "shortage",
+   "pos": "명사",
+   "meaning": "부족, 결핍",
+   "en": "There is a shortage of water in summer.",
+   "ko": "여름에는 물 부족이 있어요."
+  },
+  {
+   "word": "shorten",
+   "pos": "동사",
+   "meaning": "짧게 하다, 줄이다",
+   "en": "Can you shorten your speech a little?",
+   "ko": "연설을 조금 줄여 줄 수 있나요?"
+  },
+  {
+   "word": "shortly",
+   "pos": "부사",
+   "meaning": "곧, 간단히",
+   "en": "The train will arrive shortly.",
+   "ko": "기차가 곧 도착할 거예요."
+  },
+  {
+   "word": "shortcut",
+   "pos": "명사",
+   "meaning": "지름길, 손쉬운 방법",
+   "en": "We took a shortcut through the park.",
+   "ko": "우리는 공원을 가로지르는 지름길로 갔어요."
+  },
+  {
+   "word": "shortcoming",
+   "pos": "명사",
+   "meaning": "결점, 단점",
+   "en": "Everyone has some shortcomings.",
+   "ko": "누구나 몇 가지 단점이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한여름에 반바지를 입고 뛰노는 아이들",
+ "imageCaption": "무릎 위까지 오는 시원한 반바지를 입고 해변을 달리는 모습을 떠올려 보세요.",
+ "movieLineEn": "You're wearing shorts in the snow? Are you crazy?",
+ "movieLineKo": "눈 오는데 반바지를 입었다고? 너 미쳤어?",
+ "storyTitle": "겨울 반바지 소년",
+ "story": "내 친구는 한겨울에도 shorts(반바지)만 입어요. 바지가 short(짧은)하면 더 빨리 달린다나요. 지각할 때마다 shortcut(지름길)로 달려서 늘 1등이었죠. 그런데 오늘은 눈이 너무 와서 다리가 꽁꽁! shortly(곧) 그는 긴바지 사랑꾼이 되었어요."
+}

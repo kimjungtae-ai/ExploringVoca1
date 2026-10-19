@@ -1,0 +1,75 @@
+{
+ "word": "reduce",
+ "pos": "동사",
+ "phonetic": "[rɪˈduːs]",
+ "meaning": "줄이다, 감소시키다, (~한 상태로) 만들다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back)",
+   "note": "원래 자리 쪽으로 되돌린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "duc",
+   "meaning": "이끌다 (lead)",
+   "note": "라틴어 ducere(이끌다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>duc</strong> (이끌다) = 뒤로 끌어 되돌리다 → 양이나 크기를 <strong>'줄이다'</strong>예요.",
+ "historyTitle": "뒤로 끌어당기는 로마인의 말",
+ "historyBody": "라틴어 reducere는 '뒤로 이끌다, 되돌려 놓다'라는 뜻이었어요. 중세 영어에서는 '원래 상태로 되돌리다'라는 의미로 쓰이다가 점점 '작게 만들다, 줄이다'라는 뜻이 중심이 되었어요. ducere 가족은 produce, introduce처럼 정말 많답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reduction",
+   "pos": "명사",
+   "meaning": "감소, 축소",
+   "en": "The new policy led to a reduction in traffic accidents.",
+   "ko": "새 정책으로 교통사고가 감소했어요."
+  },
+  {
+   "word": "produce",
+   "pos": "동사",
+   "meaning": "생산하다",
+   "en": "This farm produces fresh milk every day.",
+   "ko": "이 농장은 매일 신선한 우유를 생산해요."
+  },
+  {
+   "word": "introduce",
+   "pos": "동사",
+   "meaning": "소개하다, 도입하다",
+   "en": "Let me introduce my best friend to you.",
+   "ko": "내 가장 친한 친구를 소개할게."
+  },
+  {
+   "word": "conduct",
+   "pos": "동사 / 명사",
+   "meaning": "수행하다, 지휘하다 / 행동",
+   "en": "Scientists conducted an experiment on sleep and memory.",
+   "ko": "과학자들은 수면과 기억에 관한 실험을 수행했어요."
+  },
+  {
+   "word": "educate",
+   "pos": "동사",
+   "meaning": "교육하다",
+   "en": "Parents want to educate their children well.",
+   "ko": "부모님들은 자녀를 잘 교육하고 싶어 해요."
+  },
+  {
+   "word": "deduce",
+   "pos": "동사",
+   "meaning": "추론하다",
+   "en": "From the footprints, the detective deduced the thief's height.",
+   "ko": "탐정은 발자국으로 도둑의 키를 추론했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 쓰레기 더미가 점점 작아지는 모습",
+ "imageCaption": "커다란 쓰레기 산이 분리수거로 쑥쑥 작아지는 장면을 그려 보세요. 양을 뒤로 끌어 줄이는 게 reduce예요.",
+ "movieLineEn": "We have to reduce the weight, or this plane won't fly!",
+ "movieLineKo": "무게를 줄여야 해, 안 그러면 이 비행기는 못 떠!",
+ "storyTitle": "다이어트 대작전",
+ "story": "아빠는 간식을 reduce(줄이다)하겠다고 선언했어요. 직접 식단표를 produce(생산하다)하고 가족에게 introduce(소개하다)했죠. 일주일 뒤 체중 reduction(감소)은 0kg! 탐정처럼 냉장고를 조사한 나는 결론을 deduce(추론하다)했어요. 범인은 밤마다 치킨을 시킨 아빠 본인이었답니다."
+}

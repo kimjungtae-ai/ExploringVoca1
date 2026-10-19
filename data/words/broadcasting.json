@@ -1,0 +1,67 @@
+{
+ "word": "broadcasting",
+ "pos": "명사",
+ "phonetic": "[ˈbrɔːdkæstɪŋ]",
+ "meaning": "방송, 방송업",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "broad",
+   "meaning": "넓은, 널리 (wide)",
+   "note": "고대 영어 brād에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "cast",
+   "meaning": "던지다, 뿌리다 (throw)",
+   "note": "고대 노르드어 kasta에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 일",
+   "note": "동사를 명사로 만들어 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>broad</strong> (널리) + <strong>cast</strong> (뿌리다) + <strong>-ing</strong> (~하는 일) = '소식을 널리 뿌리는 일', 즉 <strong>'방송'</strong>이에요.",
+ "historyTitle": "라디오 시대가 만든 새 직업",
+ "historyBody": "broadcast는 원래 씨앗을 넓게 흩뿌리는 농사 용어였어요. 1920년대 라디오 방송이 시작되면서 '전파를 사방에 보내다'라는 뜻이 생겼고, 그 일을 가리키는 broadcasting도 함께 널리 쓰이게 되었어요. 1922년 영국에서 설립된 BBC의 이름에도 Broadcasting이 들어 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "broadcast",
+   "pos": "동사 / 명사",
+   "meaning": "방송하다 / 방송",
+   "en": "The concert was broadcast live around the world.",
+   "ko": "그 콘서트는 전 세계에 생중계되었어."
+  },
+  {
+   "word": "broadcaster",
+   "pos": "명사",
+   "meaning": "방송인, 방송사",
+   "en": "The broadcaster apologized for the technical error.",
+   "ko": "방송사는 기술적 오류에 대해 사과했어."
+  },
+  {
+   "word": "broad",
+   "pos": "형용사",
+   "meaning": "넓은",
+   "en": "The river is broad and deep here.",
+   "ko": "여기는 강이 넓고 깊어."
+  },
+  {
+   "word": "forecast",
+   "pos": "명사",
+   "meaning": "예보",
+   "en": "Check the forecast before you go camping.",
+   "ko": "캠핑 가기 전에 일기 예보를 확인해."
+  }
+ ],
+ "imageSense": "대표 의미: 방송국 스튜디오에서 앵커가 뉴스를 전하는 장면",
+ "imageCaption": "'ON AIR' 불빛 아래 카메라 앞에서 뉴스를 전하는 스튜디오를 떠올려 보세요.",
+ "movieLineEn": "Broadcasting from the moon, this is Captain Lee!",
+ "movieLineKo": "달에서 방송합니다, 저는 이 선장입니다!",
+ "storyTitle": "교내 방송 사고",
+ "story": "방송반 서윤이는 첫 broadcasting(방송)에 떨려서 마이크를 꽉 쥐었어요. 멋진 broadcaster(방송인)처럼 날씨 forecast(예보)를 읽었죠. 그런데 마이크가 꺼진 줄 알고 '아, 배고파!'라고 한 말까지 broadcast(방송하다)됐어요. 그날 점심, 친구들이 서윤이에게 간식을 잔뜩 줬답니다."
+}

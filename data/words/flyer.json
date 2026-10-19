@@ -1,0 +1,61 @@
+{
+ "word": "flyer",
+ "pos": "명사",
+ "phonetic": "[ˈflaɪər]",
+ "meaning": "전단지, 비행사, 비행기 승객",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fly",
+   "meaning": "날다 (fly)",
+   "note": "고대 영어 fleogan(날다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람/것",
+   "note": "동사 뒤에 붙어 '~하는 사람, ~하는 것'을 만들어요."
+  }
+ ],
+ "summary": "<strong>fly</strong> (날다) + <strong>-er</strong> (~하는 것/사람) = '나는 사람, 날아다니는 종이'에서 <strong>'비행사, 전단지'</strong>가 되었습니다.",
+ "historyTitle": "하늘을 '날던' 종이",
+ "historyBody": "flyer는 원래 '나는 것, 나는 사람'을 뜻했어요. 20세기 미국에서 사람들에게 널리 뿌리듯 나눠 주는 광고지를 flyer라고 부르기 시작했대요. flier라고 쓰기도 하고, 항공사의 'frequent flyer(자주 이용하는 승객)'라는 표현에도 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fly",
+   "pos": "동사",
+   "meaning": "날다",
+   "en": "Birds fly south for the winter.",
+   "ko": "새들은 겨울을 나러 남쪽으로 날아가요."
+  },
+  {
+   "word": "flight",
+   "pos": "명사",
+   "meaning": "비행, 항공편",
+   "en": "Our flight to Tokyo was delayed by an hour.",
+   "ko": "도쿄행 우리 항공편이 한 시간 지연됐어요."
+  },
+  {
+   "word": "butterfly",
+   "pos": "명사",
+   "meaning": "나비",
+   "en": "A butterfly starts its life as a caterpillar.",
+   "ko": "나비는 애벌레로 삶을 시작해요."
+  },
+  {
+   "word": "firefly",
+   "pos": "명사",
+   "meaning": "반딧불이",
+   "en": "Fireflies glow to attract partners.",
+   "ko": "반딧불이는 짝을 유혹하려고 빛을 내요."
+  }
+ ],
+ "imageSense": "대표 의미: 길거리에서 나눠 주는 알록달록한 광고 전단지",
+ "imageCaption": "학교 앞에서 학원 홍보 전단지를 손에 쥐여 주는 장면을 떠올려 보세요.",
+ "movieLineEn": "Put up these flyers. We need to find that cat!",
+ "movieLineKo": "이 전단지들 붙여. 그 고양이를 꼭 찾아야 해!",
+ "storyTitle": "날아간 전단지",
+ "story": "지호는 잃어버린 강아지를 찾으려고 flyer(전단지)를 만들었어요. 바람에 전단지가 fly(날다)하더니 하늘 높이 flight(비행)를 시작했죠! butterfly(나비)처럼 팔랑팔랑 날던 전단지는 이웃 마을 강아지 집 앞에 떨어졌어요. 그 집 주인이 전화했죠. \"이 강아지, 우리 집 밥 먹고 있어요!\""
+}

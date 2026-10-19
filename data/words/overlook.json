@@ -1,0 +1,61 @@
+{
+ "word": "overlook",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˌoʊvərˈlʊk]",
+ "meaning": "간과하다, 못 보고 넘어가다, 내려다보다, 눈감아 주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "look",
+   "meaning": "보다 (look)",
+   "note": "고대 영어 locian(보다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>over</strong> (위로, 넘어서) + <strong>look</strong> (보다) = '위에서 내려다보다' 또는 '시선이 넘어가 버려 못 보다'라는 뜻에서 <strong>'내려다보다, 간과하다'</strong>가 되었어요.",
+ "historyTitle": "높은 곳에서 보면 놓치는 것도 있다",
+ "historyBody": "overlook은 14세기에 '위에서 내려다보다'라는 뜻으로 쓰이기 시작했어요. 곧 '눈길이 위로 넘어가 버려 놓치다', 즉 '간과하다'라는 뜻이 생겼고, '알면서도 눈감아 주다'라는 뜻으로도 쓰였어요. look은 고대 영어 locian에서 온 게르만계 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "look",
+   "pos": "동사",
+   "meaning": "보다",
+   "en": "Look at the beautiful sunset!",
+   "ko": "저 아름다운 노을 좀 봐!"
+  },
+  {
+   "word": "outlook",
+   "pos": "명사",
+   "meaning": "전망, 관점",
+   "en": "She has a positive outlook on life.",
+   "ko": "그녀는 삶을 긍정적으로 바라봐요."
+  },
+  {
+   "word": "onlooker",
+   "pos": "명사",
+   "meaning": "구경꾼",
+   "en": "Many onlookers gathered to watch the street performance.",
+   "ko": "많은 구경꾼들이 거리 공연을 보러 모였어요."
+  },
+  {
+   "word": "good-looking",
+   "pos": "형용사",
+   "meaning": "잘생긴, 보기 좋은",
+   "en": "The actor is good-looking and very kind.",
+   "ko": "그 배우는 잘생기고 아주 친절해요."
+  }
+ ],
+ "imageSense": "대표 의미: 언덕 위 카페에서 바다를 내려다보는데, 발밑의 고양이는 못 보는 장면",
+ "imageCaption": "멋진 경치만 보느라 발밑의 작은 것을 놓치는 모습을 떠올려 보세요. 내려다보다와 간과하다가 한 장면에 다 있어요.",
+ "movieLineEn": "Don't overlook the small details. That's where the truth hides.",
+ "movieLineKo": "작은 부분을 간과하지 마. 진실은 거기에 숨어 있어.",
+ "storyTitle": "전망 좋은 시험지",
+ "story": "민지는 창밖 바다를 overlook(내려다보다)하는 교실에서 시험을 봤어요. 아름다운 outlook(전망)에 감탄하다가 뒷면 문제를 overlook(간과하다)해 버렸죠. 복도의 onlooker(구경꾼)들이 손짓했지만 몰랐어요. 다행히 뒷면엔 '수고했어요!'라고만 적혀 있었답니다."
+}

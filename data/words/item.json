@@ -1,0 +1,41 @@
+{
+ "word": "item",
+ "pos": "명사",
+ "phonetic": "[ˈaɪtəm]",
+ "meaning": "물품, 품목, 항목, (뉴스의) 한 건",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "item",
+   "meaning": "또한, 마찬가지로 (likewise)",
+   "note": "라틴어 부사 item('또한')이 그대로 명사가 된 말이에요."
+  }
+ ],
+ "summary": "라틴어 <strong>item</strong> (또한, 다음으로) = 목록에서 하나씩 덧붙이던 말이라서 <strong>'품목, 항목'</strong>이 되었어요.",
+ "historyTitle": "목록 맨 앞에 붙던 라틴어 '또한'",
+ "historyBody": "item은 원래 라틴어 부사로 '또한, 마찬가지로'라는 뜻이었어요. 중세 영국의 목록이나 문서에서 새 줄을 시작할 때마다 'Item, 은 접시 하나', 'Item, 의자 둘'처럼 썼거든요. 그러다 16세기 말쯤 목록의 '한 줄, 한 항목' 자체를 가리키는 명사가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "itemize",
+   "pos": "동사",
+   "meaning": "항목별로 나누어 적다",
+   "en": "Please itemize your expenses on this form.",
+   "ko": "이 양식에 지출 내역을 항목별로 적어 주세요."
+  },
+  {
+   "word": "itemized",
+   "pos": "형용사",
+   "meaning": "항목별로 적힌",
+   "en": "The store gave me an itemized receipt.",
+   "ko": "가게는 나에게 품목별로 적힌 영수증을 주었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 장바구니 목록에 한 줄씩 적힌 우유, 계란, 빵",
+ "imageCaption": "쇼핑 목록에서 '하나, 또 하나'하고 체크해 가는 각각의 물건을 떠올려 보세요.",
+ "movieLineEn": "Every item in this room is older than your grandfather.",
+ "movieLineKo": "이 방에 있는 물건은 하나같이 너희 할아버지보다 오래됐어.",
+ "storyTitle": "장보기 목록의 비밀",
+ "story": "엄마가 장보기 목록을 itemize(항목별로 적다)해 주셨어요. 첫 번째 item(품목)은 우유, 두 번째 item(품목)은 계란이었죠. 계산대에서 itemized(항목별로 적힌) 영수증을 보니 이상하게 과자가 10봉지나! 알고 보니 동생이 목록 맨 밑에 몰래 적어 둔 거였어요."
+}

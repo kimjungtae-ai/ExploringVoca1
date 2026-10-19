@@ -1,0 +1,62 @@
+{
+ "word": "free",
+ "pos": "형용사 / 동사 / 부사",
+ "phonetic": "[friː]",
+ "meaning": "자유로운, 무료의, ~이 없는, 한가한 / 풀어 주다 / 무료로",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "free",
+   "meaning": "사랑받는, 자유로운 (beloved, free)",
+   "note": "고대 영어 freo에서 왔고, '사랑하다'라는 아주 오래된 뿌리와 연결돼요."
+  }
+ ],
+ "summary": "<strong>free</strong> (사랑받는 → 구속되지 않은) = 가족처럼 아낌받는 사람은 노예가 아니라는 뜻에서 <strong>'자유로운'</strong>이 되었습니다.",
+ "historyTitle": "'사랑'과 '자유'가 같은 뿌리",
+ "historyBody": "free는 고대 영어 freo에서 왔고, 게르만어 *frijaz(사랑받는, 구속되지 않은)가 뿌리예요. 옛날에 '집안의 사랑받는 식구'는 노예와 달리 자유로운 사람이었기 때문에 '자유로운'이라는 뜻이 생겼다고 해요. friend(친구)도 '사랑하다'라는 같은 뿌리에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "freedom",
+   "pos": "명사",
+   "meaning": "자유",
+   "en": "Freedom of speech is important in a democracy.",
+   "ko": "언론의 자유는 민주주의에서 중요해요."
+  },
+  {
+   "word": "freely",
+   "pos": "부사",
+   "meaning": "자유롭게, 아낌없이",
+   "en": "Students can freely choose their after-school classes.",
+   "ko": "학생들은 방과 후 수업을 자유롭게 고를 수 있어요."
+  },
+  {
+   "word": "friend",
+   "pos": "명사",
+   "meaning": "친구",
+   "en": "A true friend listens to you when you are sad.",
+   "ko": "진정한 친구는 슬플 때 내 이야기를 들어 줘요."
+  },
+  {
+   "word": "carefree",
+   "pos": "형용사",
+   "meaning": "근심 걱정 없는",
+   "en": "We spent a carefree summer at the beach.",
+   "ko": "우리는 해변에서 걱정 없는 여름을 보냈어요."
+  },
+  {
+   "word": "freeway",
+   "pos": "명사",
+   "meaning": "고속도로",
+   "en": "The freeway was crowded on Friday evening.",
+   "ko": "금요일 저녁 고속도로는 붐볐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 새장 문이 열려 새가 하늘로 날아가는 장면",
+ "imageCaption": "새장 문을 열자 새가 날개를 활짝 펴고 하늘로 훨훨 날아가는 모습을 떠올려 보세요.",
+ "movieLineEn": "You're free now. Go, and never look back!",
+ "movieLineKo": "넌 이제 자유야. 가, 그리고 절대 뒤돌아보지 마!",
+ "storyTitle": "공짜 아이스크림의 대가",
+ "story": "'오늘 아이스크림 free(무료)!' 간판을 본 지수는 friend(친구)들과 달려갔어요. carefree(걱정 없는)한 마음으로 freely(자유롭게) 골라 먹었죠. 그런데 계산대 직원이 말했어요. \"무료는 맞는데요, 다 드신 분은 설거지를 해 주셔야 해요.\" 지수의 freedom(자유)은 세 시간 뒤에야 돌아왔대요!"
+}

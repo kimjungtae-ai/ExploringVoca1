@@ -1,0 +1,68 @@
+{
+ "word": "landfill",
+ "pos": "명사",
+ "phonetic": "[ˈlændfɪl]",
+ "meaning": "쓰레기 매립지, 쓰레기 매립",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "land",
+   "meaning": "땅 (land)",
+   "note": "고대 영어 land(땅)에서 온 기본 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fill",
+   "meaning": "채우다 (fill)",
+   "note": "고대 영어 fyllan(채우다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>land</strong> (땅) + <strong>fill</strong> (채우다) = '땅을 채우는 곳'이라서 <strong>'쓰레기 매립지'</strong>예요.",
+ "historyTitle": "20세기에 생긴 합성어",
+ "historyBody": "landfill은 20세기 초 미국에서 만들어진 합성어로, 쓰레기로 낮은 땅을 메워 평평하게 만드는 일을 뜻했어요. land와 fill 모두 고대 영어부터 쓰인 게르만어 단어예요. 오늘날 환경 지문에서는 쓰레기를 줄여 매립지를 아끼자는 내용으로 자주 나온답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "landscape",
+   "pos": "명사",
+   "meaning": "풍경, 경치",
+   "en": "The landscape of Jeju Island is beautiful in spring.",
+   "ko": "제주도의 풍경은 봄에 아름다워요."
+  },
+  {
+   "word": "landmark",
+   "pos": "명사",
+   "meaning": "랜드마크, 주요 지형지물",
+   "en": "The tower is a famous landmark in the city.",
+   "ko": "그 탑은 그 도시의 유명한 랜드마크예요."
+  },
+  {
+   "word": "landslide",
+   "pos": "명사",
+   "meaning": "산사태, 압도적 승리",
+   "en": "Heavy rain caused a landslide near the village.",
+   "ko": "폭우로 마을 근처에 산사태가 일어났어요."
+  },
+  {
+   "word": "refill",
+   "pos": "동사 / 명사",
+   "meaning": "다시 채우다 / 리필",
+   "en": "Can I get a refill of my coffee?",
+   "ko": "커피 리필해 주실 수 있나요?"
+  },
+  {
+   "word": "fulfill",
+   "pos": "동사",
+   "meaning": "이행하다, 성취하다",
+   "en": "She worked hard to fulfill her dream.",
+   "ko": "그녀는 꿈을 이루기 위해 열심히 노력했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 트럭이 쓰레기를 쏟아붓고 불도저가 흙으로 덮는 거대한 땅",
+ "imageCaption": "구덩이가 쓰레기로 점점 채워져 언덕이 되어 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Everything we throw away ends up in a landfill somewhere.",
+ "movieLineKo": "우리가 버리는 모든 건 결국 어딘가의 매립지로 가.",
+ "storyTitle": "쓰레기 산의 반전",
+ "story": "우리 동네 landfill(쓰레기 매립지)은 점점 높아져 landmark(랜드마크)가 되었어요. 관광객들은 그 landscape(풍경)를 보며 사진을 찍었죠. 그런데 비가 오자 작은 landslide(산사태)가 일어나 쓰레기가 굴러 내려왔어요. 그때부터 주민들은 텀블러를 refill(다시 채우다)해서 쓰기 시작했답니다."
+}

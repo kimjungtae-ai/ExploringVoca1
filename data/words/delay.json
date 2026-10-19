@@ -1,0 +1,54 @@
+{
+ "word": "delay",
+ "pos": "동사 / 명사",
+ "phonetic": "[dɪˈleɪ]",
+ "meaning": "미루다, 지연시키다 / 지연, 연기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져, 멀리 (away)",
+   "note": "원래 des-(떨어져)에서 온 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lay",
+   "meaning": "남겨 두다, 놓아두다 (leave, let)",
+   "note": "고대 프랑스어 laier(남겨 두다)에서 왔다고 보지만, 그 이전 뿌리는 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (떨어져) + <strong>lay</strong> (남겨 두다) = '나중으로 떼어 남겨 두다'에서 <strong>'미루다, 지연'</strong>이 되었어요.",
+ "historyTitle": "고대 프랑스어 delaier",
+ "historyBody": "delay는 고대 프랑스어 delaier(미루다)에서 왔어요. 이 말은 des- + laier(남겨 두다)로 보는데, laier가 라틴어 laxare(느슨하게 하다)와 관련 있다는 설도 있지만 확실하지 않아요. 그래서 아래 친척 단어들은 '느슨하게 풀어 둔다'는 설을 따른 참고용이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "relax",
+   "pos": "동사",
+   "meaning": "긴장을 풀다, 쉬다",
+   "en": "Take a deep breath and relax.",
+   "ko": "숨을 깊이 들이쉬고 긴장을 푸세요."
+  },
+  {
+   "word": "release",
+   "pos": "동사 / 명사",
+   "meaning": "풀어 주다, 발표하다 / 석방, 출시",
+   "en": "The band will release a new album next month.",
+   "ko": "그 밴드는 다음 달에 새 앨범을 발표할 거예요."
+  },
+  {
+   "word": "delayed",
+   "pos": "형용사",
+   "meaning": "지연된",
+   "en": "Our flight was delayed because of heavy snow.",
+   "ko": "폭설 때문에 우리 비행기가 지연되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항 전광판에 'DELAYED'가 깜빡이는 장면",
+ "imageCaption": "출발 시간이 빨간 글씨로 바뀌며 기다림이 길어지는 공항 대기실을 떠올려 보세요.",
+ "movieLineEn": "Every minute of delay puts more lives at risk!",
+ "movieLineKo": "1분 지연될 때마다 더 많은 생명이 위험해진다고!",
+ "storyTitle": "지연된 비행기의 선물",
+ "story": "가족 여행 날, 비행기가 3시간 delayed(지연된)됐어요. 화가 난 아빠는 relax(긴장을 풀다)하려고 공항 카페에 갔죠. 그런데 거기서 좋아하는 가수가 새 앨범을 release(발표하다)하는 깜짝 공연을! 아빠는 말했어요. \"delay(지연) 최고!\""
+}

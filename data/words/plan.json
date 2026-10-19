@@ -1,0 +1,62 @@
+{
+ "word": "plan",
+ "pos": "명사 / 동사",
+ "phonetic": "[plæn]",
+ "meaning": "계획, 설계도 / 계획하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "plan",
+   "meaning": "평평한 (flat)",
+   "note": "라틴어 planus(평평한)에서 왔어요. 평평한 종이에 그린 도면이 '계획'이 되었어요."
+  }
+ ],
+ "summary": "<strong>plan</strong> (평평한 면) = 평평한 종이 위에 그린 도면, 곧 <strong>'계획, 설계도'</strong>예요.",
+ "historyTitle": "평평한 종이 위의 건물 도면",
+ "historyBody": "plan은 1600년대 말 프랑스어 plan(평면도, 기초)에서 들어왔고, 그 뿌리는 라틴어 planum(평평한 면)이에요. 처음에는 건물을 위에서 내려다보고 평평하게 그린 '평면도'를 뜻했어요. 이 뜻이 점점 넓어져 '앞으로 할 일을 미리 그려 본 것', 즉 '계획'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "plane",
+   "pos": "명사",
+   "meaning": "평면; 비행기",
+   "en": "A flat surface is called a plane in math.",
+   "ko": "수학에서 평평한 면을 평면이라고 해요."
+  },
+  {
+   "word": "plain",
+   "pos": "형용사/명사",
+   "meaning": "평범한, 분명한 / 평원",
+   "en": "She wore a plain white T-shirt.",
+   "ko": "그녀는 무늬 없는 흰 티셔츠를 입었어요."
+  },
+  {
+   "word": "explain",
+   "pos": "동사",
+   "meaning": "설명하다",
+   "en": "Can you explain this math problem to me?",
+   "ko": "이 수학 문제 좀 설명해 줄래?"
+  },
+  {
+   "word": "explanation",
+   "pos": "명사",
+   "meaning": "설명",
+   "en": "The teacher gave a clear explanation of the rule.",
+   "ko": "선생님께서 그 규칙을 분명하게 설명해 주셨어요."
+  },
+  {
+   "word": "planner",
+   "pos": "명사",
+   "meaning": "계획하는 사람, 일정표",
+   "en": "I write my homework in a weekly planner.",
+   "ko": "나는 주간 플래너에 숙제를 적어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 펼쳐 놓은 일정표와 설계도",
+ "imageCaption": "평평한 종이에 하루 계획을 칸칸이 그려 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "Relax. I have a plan.",
+ "movieLineKo": "진정해. 나한테 계획이 있어.",
+ "storyTitle": "완벽한 공부 계획",
+ "story": "민수는 planner(일정표)에 완벽한 plan(계획)을 세웠어요. 선생님께 계획을 explain(설명하다)하자 칭찬을 받았죠. 아주 plain(분명한) 목표였어요. 하루 열 시간 공부! 그런데 계획표를 예쁘게 꾸미느라 일주일이 다 갔어요. 민수의 explanation(설명)은 이랬죠. \"계획도 공부예요!\""
+}

@@ -1,0 +1,61 @@
+{
+ "word": "overfeed",
+ "pos": "동사",
+ "phonetic": "[ˌoʊvərˈfiːd]",
+ "meaning": "(먹이를) 너무 많이 주다, 과식시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "feed",
+   "meaning": "먹이다 (feed)",
+   "note": "고대 영어 fedan(먹이다)에서 왔고, food와 형제예요."
+  }
+ ],
+ "summary": "<strong>over-</strong> (지나치게) + <strong>feed</strong> (먹이다) = <strong>'너무 많이 먹이다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "food와 feed는 한 가족",
+ "historyBody": "feed는 고대 영어 fedan에서 왔고, 이는 음식을 뜻하는 foda(food)에서 나온 동사예요. 그래서 feed는 말 그대로 '음식을 주다'라는 뜻이죠. foster(기르다, 육성하다)도 고대 영어에서 food와 관련된 말이었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "feed",
+   "pos": "동사",
+   "meaning": "먹이다, 먹이를 주다",
+   "en": "Please don't feed the animals at the zoo.",
+   "ko": "동물원에서 동물들에게 먹이를 주지 마세요."
+  },
+  {
+   "word": "food",
+   "pos": "명사",
+   "meaning": "음식",
+   "en": "Korean food is becoming popular around the world.",
+   "ko": "한국 음식이 전 세계에서 인기를 얻고 있어요."
+  },
+  {
+   "word": "feedback",
+   "pos": "명사",
+   "meaning": "피드백, 의견",
+   "en": "The teacher gave me helpful feedback on my essay.",
+   "ko": "선생님이 내 에세이에 도움이 되는 피드백을 주셨어요."
+  },
+  {
+   "word": "foster",
+   "pos": "동사",
+   "meaning": "기르다, 촉진하다",
+   "en": "Reading together can foster a love of books in children.",
+   "ko": "함께 책을 읽으면 아이들이 책을 사랑하도록 키울 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어항 속 금붕어에게 먹이를 한가득 쏟아붓는 장면",
+ "imageCaption": "작은 금붕어 앞에 먹이가 산처럼 쌓인 모습을 떠올려 보세요. 너무 많이 주는 게 overfeed예요.",
+ "movieLineEn": "Don't overfeed the dragon. He gets grumpy when he's full.",
+ "movieLineKo": "용한테 먹이 너무 많이 주지 마. 배부르면 성질부리거든.",
+ "storyTitle": "뚱보 금붕어",
+ "story": "동생은 금붕어가 불쌍하다며 계속 feed(먹이를 주다)했어요. 엄마는 overfeed(너무 많이 주다)하면 안 된다고 feedback(의견)을 주셨죠. 그래도 동생은 food(음식)를 몰래 줬어요. 일주일 뒤 금붕어는 어항보다 커졌어요. 알고 보니 그건 금붕어가 아니라 잉어였어요!"
+}

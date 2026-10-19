@@ -1,0 +1,61 @@
+{
+ "word": "shipment",
+ "pos": "명사",
+ "phonetic": "[ˈʃɪpmənt]",
+ "meaning": "선적, 수송, 수송품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ship",
+   "meaning": "배, 운송하다 (ship)",
+   "note": "고대 영어 'scip(배)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것, ~한 결과 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ship</strong> (배로 보내다) + <strong>-ment</strong> (~하는 것) = 배로 보내는 일이나 그 물건, 즉 <strong>'선적, 수송품'</strong>이에요.",
+ "historyTitle": "배에서 택배까지",
+ "historyBody": "ship은 고대 영어 'scip'에서 온 말로 원래 '배'를 뜻했어요. 옛날엔 물건을 멀리 보내려면 배가 최고였기 때문에, ship이 '배로 보내다'라는 동사가 되었죠. 오늘날엔 트럭이나 비행기로 보내도 shipment, shipping이라고 해요. 참고로 friendship의 -ship은 다른 뿌리의 접미사예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ship",
+   "pos": "명사 / 동사",
+   "meaning": "배 / 보내다, 운송하다",
+   "en": "The company ships products all over the world.",
+   "ko": "그 회사는 전 세계로 제품을 보내요."
+  },
+  {
+   "word": "shipping",
+   "pos": "명사",
+   "meaning": "배송, 해운",
+   "en": "Shipping is free for orders over 30 dollars.",
+   "ko": "30달러 이상 주문 시 배송은 무료예요."
+  },
+  {
+   "word": "shipyard",
+   "pos": "명사",
+   "meaning": "조선소",
+   "en": "My uncle builds huge ships at a shipyard.",
+   "ko": "우리 삼촌은 조선소에서 거대한 배를 만들어요."
+  },
+  {
+   "word": "shipwreck",
+   "pos": "명사",
+   "meaning": "난파선, 난파",
+   "en": "Divers found an old shipwreck at the bottom of the sea.",
+   "ko": "잠수부들이 바다 밑에서 오래된 난파선을 발견했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 항구에서 컨테이너가 배에 실리는 장면",
+ "imageCaption": "커다란 화물선에 상자들이 차곡차곡 실려 멀리 떠나는 모습을 떠올려 보세요.",
+ "movieLineEn": "The shipment arrives tonight. Be ready at the dock.",
+ "movieLineKo": "수송품이 오늘 밤 도착해. 부두에서 준비하고 있어.",
+ "storyTitle": "택배 상자의 비밀",
+ "story": "외국에서 온 shipment(수송품)를 기다리는데 3주째 감감무소식! shipping(배송) 추적을 해 보니 shipwreck(난파) 소식이 떴어요. 울상이 된 나에게 다음 날 상자가 도착했죠. 바다를 떠다니다 해변에 밀려와 ship(배)보다 빨리 왔대요."
+}

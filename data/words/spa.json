@@ -1,0 +1,41 @@
+{
+ "word": "spa",
+ "pos": "명사",
+ "phonetic": "[spɑː]",
+ "meaning": "온천, 스파, 휴양 시설",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "Spa",
+   "meaning": "벨기에의 온천 마을 이름 (place name)",
+   "note": "벨기에 리에주 근처의 광천 마을 'Spa'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>Spa</strong> (벨기에 온천 마을 이름) = 그 마을처럼 광천수로 쉬는 곳이라는 뜻에서 <strong>'온천, 스파'</strong>가 되었습니다.",
+ "historyTitle": "온천 마을 이름이 보통 명사가 되다",
+ "historyBody": "spa는 벨기에 동부에 있는 실제 마을 Spa의 이름에서 왔어요. 이 마을은 중세부터 몸에 좋은 광천수로 유명해서 유럽 귀족들이 치료하러 몰려들었죠. 17세기 무렵부터 영어에서 '광천 휴양지'를 가리키는 보통 명사로 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "spa town",
+   "pos": "명사",
+   "meaning": "온천 마을",
+   "en": "Bath is a famous spa town in England.",
+   "ko": "바스는 영국의 유명한 온천 마을이에요."
+  },
+  {
+   "word": "day spa",
+   "pos": "명사",
+   "meaning": "당일 스파 (휴식 시설)",
+   "en": "My aunt relaxed at a day spa after a long week.",
+   "ko": "이모는 긴 한 주를 보낸 뒤 당일 스파에서 쉬셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 김이 모락모락 나는 온천물에 몸을 담그고 쉬는 장면",
+ "imageCaption": "얼굴에 오이를 올리고 따뜻한 물에 몸을 담근 채 쉬는 모습을 떠올려 보세요.",
+ "movieLineEn": "After this mission, I'm going straight to the spa.",
+ "movieLineKo": "이 임무 끝나면 난 곧장 스파로 갈 거야.",
+ "storyTitle": "원숭이들의 스파 대소동",
+ "story": "눈 덮인 산의 원숭이들이 spa(온천)를 열었어요. 소문을 듣고 spa town(온천 마을) 사람들까지 relax(쉬다)하러 몰려왔죠. 원숭이 사장은 day spa(당일 스파) 요금표를 만들고 친절하게 welcome(환영하다)했어요. 그런데 손님이 너무 많아 정작 원숭이들은 들어갈 자리가 없었어요. 결국 사장님이 사람들 등에서 반신욕을 했대요!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "double-check",
+ "pos": "동사",
+ "phonetic": "[ˌdʌblˈtʃek]",
+ "meaning": "재확인하다, 다시 한 번 확인하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "double",
+   "meaning": "두 번, 두 배로 (twice)",
+   "note": "라틴어 duplus(두 겹)에서 온 영어 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "check",
+   "meaning": "확인하다, 점검하다 (check)",
+   "note": "원래 체스에서 왕을 공격할 때 외치던 말에서 왔어요."
+  }
+ ],
+ "summary": "<strong>double</strong> (두 번) + <strong>check</strong> (확인하다) = '두 번 확인하다'라는 뜻에서 <strong>'재확인하다'</strong>가 되었어요.",
+ "historyTitle": "체스 판에서 시작된 check",
+ "historyBody": "check는 페르시아어 shah(왕)가 아랍어와 고대 프랑스어 eschec를 거쳐 들어온 말이에요. 체스에서 왕을 위협할 때 '장군!'이라고 외치던 말이 '멈추게 하다, 확인하다'라는 뜻으로 넓어졌답니다. double-check는 20세기 무렵부터 널리 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "double",
+   "pos": "형용사/동사",
+   "meaning": "두 배의 / 두 배로 하다",
+   "en": "The price of the ticket doubled this year.",
+   "ko": "올해 표 가격이 두 배로 올랐어요."
+  },
+  {
+   "word": "checkup",
+   "pos": "명사",
+   "meaning": "건강 검진, 점검",
+   "en": "I go to the dentist for a checkup every year.",
+   "ko": "나는 매년 치과에 검진을 받으러 가요."
+  },
+  {
+   "word": "checklist",
+   "pos": "명사",
+   "meaning": "점검표, 체크리스트",
+   "en": "Make a checklist before you pack for the trip.",
+   "ko": "여행 짐을 싸기 전에 체크리스트를 만드세요."
+  },
+  {
+   "word": "checkpoint",
+   "pos": "명사",
+   "meaning": "검문소, 확인 지점",
+   "en": "Runners got water at every checkpoint.",
+   "ko": "주자들은 모든 확인 지점에서 물을 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 시험지 답안을 손가락으로 한 번 더 짚으며 확인하는 장면",
+ "imageCaption": "답안지 OMR 카드를 처음부터 끝까지 다시 한 번 짚어 보는 손을 떠올려 보세요.",
+ "movieLineEn": "Double-check the parachute before you jump!",
+ "movieLineKo": "뛰어내리기 전에 낙하산 다시 한 번 확인해!",
+ "storyTitle": "완벽주의자 수빈이의 수능 전날",
+ "story": "수빈이는 수능 전날 checklist(체크리스트)를 만들었어요. 수험표, 신분증, 컴퓨터용 사인펜까지 모두 double-check(재확인하다)했죠. 걱정이 double(두 배가 되다)해져서 가방을 세 번이나 열어 봤어요. 다음 날 시험장 checkpoint(확인 지점)에 도착한 수빈이, 그런데 실내화를 신고 왔지 뭐예요!"
+}

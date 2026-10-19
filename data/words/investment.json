@@ -1,0 +1,67 @@
+{
+ "word": "investment",
+ "pos": "명사",
+ "phonetic": "[ɪnˈvestmənt]",
+ "meaning": "투자, 투자금, (시간·노력의) 투입",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에, 위에 (in, on)",
+   "note": "무엇인가를 안에 넣거나 입힌다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vest",
+   "meaning": "옷, 옷을 입히다 (clothe)",
+   "note": "라틴어 vestis(옷)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것, 결과 (result)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>vest</strong> (옷을 입히다) + <strong>-ment</strong> (명사) = '돈에 새 옷을 입히듯 다른 형태로 바꾸는 것'에서 <strong>'투자'</strong>가 되었어요.",
+ "historyTitle": "옷 입히기가 투자가 된 사연",
+ "historyBody": "라틴어 investire는 원래 '옷을 입히다', 또는 관직의 옷을 입혀 '권한을 주다'라는 뜻이었어요. 17세기 무렵 이탈리아어 investire의 영향으로 '돈을 사업 등에 넣다'라는 뜻이 영어에 들어왔는데, 돈에 다른 형태의 옷을 입힌다는 비유로 설명하기도 해요. 그래서 vest(조끼)와 invest(투자하다)가 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "invest",
+   "pos": "동사",
+   "meaning": "투자하다, (시간·노력을) 쏟다",
+   "en": "She invested a lot of time in learning the piano.",
+   "ko": "그녀는 피아노를 배우는 데 많은 시간을 쏟았어요."
+  },
+  {
+   "word": "investor",
+   "pos": "명사",
+   "meaning": "투자자",
+   "en": "Many investors are interested in clean energy companies.",
+   "ko": "많은 투자자들이 청정에너지 기업에 관심이 있어요."
+  },
+  {
+   "word": "vest",
+   "pos": "명사",
+   "meaning": "조끼",
+   "en": "He wore a warm vest under his jacket.",
+   "ko": "그는 재킷 안에 따뜻한 조끼를 입었어요."
+  },
+  {
+   "word": "reinvest",
+   "pos": "동사",
+   "meaning": "재투자하다",
+   "en": "The company reinvested its profits in new technology.",
+   "ko": "그 회사는 이익을 새 기술에 재투자했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 화분에 물을 주며 나무가 자라 열매 맺기를 기다리는 장면",
+ "imageCaption": "지금 돈과 시간을 넣어 두면 나중에 더 크게 돌아오는 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't spending, it's an investment in our future.",
+ "movieLineKo": "이건 낭비가 아니라 우리 미래에 대한 투자야.",
+ "storyTitle": "다람쥐의 도토리 투자",
+ "story": "다람쥐는 도토리를 땅에 묻는 investment(투자)를 했어요. 친구들은 '그냥 먹지 왜 invest(투자하다)해?'라며 비웃었죠. 다람쥐는 멋진 vest(조끼)를 입은 investor(투자자)처럼 기다렸어요. 봄이 오자 도토리 자리마다 참나무가 쑥쑥! 문제는 어디에 묻었는지 다 까먹어서 남이 다 주워 갔다는 거예요."
+}

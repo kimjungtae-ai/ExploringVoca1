@@ -1,0 +1,67 @@
+{
+ "word": "features",
+ "pos": "명사(복수) / 동사(3인칭 단수)",
+ "phonetic": "[ˈfiːtʃərz]",
+ "meaning": "특징들, 이목구비 / 특징으로 삼다, (영화 등에) 출연시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "feat",
+   "meaning": "만들다 (make)",
+   "note": "라틴어 facere(만들다)에서 온 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 것 (명사)",
+   "note": "만든 결과물을 나타내는 명사 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "복수 / 3인칭 단수",
+   "note": "명사면 '여러 개', 동사면 '그(것)가 ~하다'를 나타내요."
+  }
+ ],
+ "summary": "<strong>feat</strong> (만들다) + <strong>-ure</strong> (~한 것) + <strong>-s</strong> = '만들어진 모양새들'이라는 뜻에서 <strong>'특징들, 이목구비'</strong>가 되었습니다.",
+ "historyTitle": "복수형이 되면 '얼굴'이 되는 단어",
+ "historyBody": "feature는 라틴어 factura(만들어진 것)에서 고대 프랑스어 faiture를 거쳐 영어로 들어왔어요. 원래 '생김새'를 뜻했기 때문에 복수형 features는 지금도 '눈, 코, 입 같은 이목구비'를 뜻해요. 동사로 쓰면 'The film features ~'처럼 '~을 주연으로 내세우다'라는 뜻이 된답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "feature",
+   "pos": "명사 / 동사",
+   "meaning": "특징 / 특징으로 삼다",
+   "en": "This phone's best feature is its long battery life.",
+   "ko": "이 휴대폰의 가장 좋은 특징은 배터리가 오래간다는 거예요."
+  },
+  {
+   "word": "fact",
+   "pos": "명사",
+   "meaning": "사실",
+   "en": "She checked every fact before writing her article.",
+   "ko": "그녀는 기사를 쓰기 전에 모든 사실을 확인했어요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장",
+   "en": "The old factory was turned into an art museum.",
+   "ko": "그 오래된 공장은 미술관으로 바뀌었어요."
+  },
+  {
+   "word": "manufacture",
+   "pos": "동사",
+   "meaning": "제조하다",
+   "en": "Many toys are manufactured in large factories.",
+   "ko": "많은 장난감이 큰 공장에서 제조돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 신제품 상자에 적힌 여러 가지 기능 목록",
+ "imageCaption": "새 스마트폰 광고에 '방수, 초고속 충전, 인공지능 카메라'처럼 나열된 것들이 바로 features예요.",
+ "movieLineEn": "This new car features a talking steering wheel!",
+ "movieLineKo": "이 신차는 말하는 운전대가 특징이야!",
+ "storyTitle": "기능 많은 냉장고의 반전",
+ "story": "새 냉장고는 features(기능들)가 무려 백 가지였어요. 노래도 하고 날씨 report도 했죠. factory(공장)에서 manufacture(제조하다)된 이 냉장고 광고에는 유명 배우까지 feature(출연시키다)했어요. 그런데 가족들이 가장 감탄한 feature(특징)는 딱 하나, '음식이 시원하다'였대요!"
+}

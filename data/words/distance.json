@@ -1,0 +1,67 @@
+{
+ "word": "distance",
+ "pos": "명사",
+ "phonetic": "[ˈdɪstəns]",
+ "meaning": "거리, 먼 곳, 거리감",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "떨어져 (apart)",
+   "note": "서로 떨어져 있다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "st",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 상태 (명사)",
+   "note": "상태를 나타내는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (떨어져) + <strong>st</strong> (서다) + <strong>-ance</strong> (상태) = '떨어져 서 있는 상태'에서 <strong>'거리'</strong>가 되었어요.",
+ "historyTitle": "떨어져 서 있다는 것",
+ "historyBody": "distance는 라틴어 distantia에서 왔고, 그 동사 distare는 '떨어져 서 있다'라는 뜻이에요. 두 사람이 서로 떨어져 선 공간이 '거리'예요. 마음이 떨어진 '거리감'이라는 뜻도 여기서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "distant",
+   "pos": "형용사",
+   "meaning": "먼, 거리를 두는",
+   "en": "They traveled to a distant country.",
+   "ko": "그들은 먼 나라로 여행을 갔어요."
+  },
+  {
+   "word": "instant",
+   "pos": "형용사",
+   "meaning": "즉각적인",
+   "en": "The new app was an instant success.",
+   "ko": "그 새 앱은 즉각적인 성공을 거두었어요."
+  },
+  {
+   "word": "constant",
+   "pos": "형용사",
+   "meaning": "끊임없는, 일정한",
+   "en": "The baby needs constant care.",
+   "ko": "아기는 끊임없는 보살핌이 필요해요."
+  },
+  {
+   "word": "obstacle",
+   "pos": "명사",
+   "meaning": "장애물",
+   "en": "Fear is the biggest obstacle to success.",
+   "ko": "두려움은 성공의 가장 큰 장애물이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 멀리 떨어진 산 위의 집을 바라보는 장면",
+ "imageCaption": "두 사람 사이에 놓인 긴 길을 떠올려 보세요.",
+ "movieLineEn": "No distance can keep me away from you.",
+ "movieLineKo": "어떤 거리도 날 너에게서 떼어 놓을 수 없어.",
+ "storyTitle": "장거리 연애의 비밀",
+ "story": "철이는 distant(먼) 곳에 사는 여자 친구와 연애 중이었어요. distance(거리)라는 obstacle(장애물)에도 constant(끊임없는) 문자를 보냈죠. 어느 날 깜짝 방문을 하려고 instant(즉각적인) 결정을 내렸는데, 알고 보니 그녀는 바로 옆 아파트에 살고 있었대요!"
+}

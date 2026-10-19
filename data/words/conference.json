@@ -1,0 +1,74 @@
+{
+ "word": "conference",
+ "pos": "명사",
+ "phonetic": "[ˈkɑːnfərəns]",
+ "meaning": "회의, 학회, 협의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "com-이 f 앞에서 con-이 된 형태예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "나르다, 가져오다 (carry, bring)",
+   "note": "라틴어 ferre(나르다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>fer</strong> (가져오다) + <strong>-ence</strong> (것) = '각자 생각을 함께 가져와 모으는 것'이라는 데서 <strong>'회의, 학회'</strong>가 되었습니다.",
+ "historyTitle": "생각을 들고 모이는 자리",
+ "historyBody": "라틴어 conferre는 '함께 가져오다, 모으다, 비교하다'라는 뜻이었어요. 중세 라틴어 conferentia를 거쳐 16세기 영어에 들어왔죠. 사람들이 각자의 생각과 정보를 한자리에 가져와 나누는 모습이 바로 conference랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "confer",
+   "pos": "동사",
+   "meaning": "상의하다, 수여하다",
+   "en": "The teachers conferred about the school festival.",
+   "ko": "선생님들은 학교 축제에 대해 상의했어요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사/명사",
+   "meaning": "옮기다, 전학하다 / 이동",
+   "en": "He transferred to a new school in March.",
+   "ko": "그는 3월에 새 학교로 전학했어요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사/명사",
+   "meaning": "제공하다 / 제안",
+   "en": "She offered me a cup of tea.",
+   "ko": "그녀가 나에게 차 한 잔을 권했어요."
+  },
+  {
+   "word": "prefer",
+   "pos": "동사",
+   "meaning": "더 좋아하다",
+   "en": "I prefer reading books to watching TV.",
+   "ko": "나는 TV 보는 것보다 책 읽는 걸 더 좋아해."
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참조하다",
+   "en": "Please refer to the map on page 10.",
+   "ko": "10쪽의 지도를 참조하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 큰 회의실에서 여러 나라 학자들이 발표를 듣는 장면",
+ "imageCaption": "각자의 생각을 함께(con-) 들고 와(fer) 모이는 모습을 떠올려 보세요.",
+ "movieLineEn": "The conference starts in five minutes. Where's my speech?",
+ "movieLineKo": "회의가 5분 뒤에 시작해. 내 연설문 어디 있지?",
+ "storyTitle": "화상 회의 대참사",
+ "story": "아빠는 중요한 화상 conference(회의)에 참석하셨어요. 사장님께 자료를 transfer(전송하다)하고 의견을 offer(제안하다)하셨죠. 다들 아빠 의견을 prefer(더 좋아하다)했어요. 그런데 회의가 끝나고 보니, 아빠는 위에는 정장, 아래에는 곰돌이 잠옷을 입고 계셨답니다!"
+}

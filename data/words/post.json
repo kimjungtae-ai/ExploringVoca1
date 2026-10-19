@@ -1,0 +1,69 @@
+{
+ "word": "post",
+ "pos": "명사 / 동사",
+ "phonetic": "[poʊst]",
+ "meaning": "우편, 직위, 기둥 / 게시하다, 우편으로 부치다, 배치하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "post",
+   "meaning": "놓인, 배치된 (placed)",
+   "note": "라틴어 ponere(놓다)의 과거분사 positus에서 왔어요. '우편'과 '직위'의 post가 여기서 나왔어요."
+  }
+ ],
+ "summary": "<strong>post</strong> (놓인 곳, 배치) = 정해진 자리에 놓인 것에서 <strong>'우편, 직위, 게시하다'</strong>라는 뜻이 나왔어요.",
+ "historyTitle": "말을 갈아타던 역참과 우편",
+ "historyBody": "'우편'의 post는 이탈리아어 posta에서 왔고, 라틴어 posita(놓인, 배치된)가 뿌리예요. 옛날에는 길을 따라 일정한 거리마다 말과 사람을 '배치'해 편지를 이어 달리게 했거든요. '직위'의 post도 같은 뿌리지만, '기둥'이라는 뜻의 post는 라틴어 postis에서 온 별개의 단어예요. SNS에 '게시하다'는 기둥에 공지를 붙이던 데서 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 자리, 입장",
+   "en": "Please tell me your position on this issue.",
+   "ko": "이 문제에 대한 너의 입장을 말해 줘."
+  },
+  {
+   "word": "deposit",
+   "pos": "동사/명사",
+   "meaning": "맡기다, 예금하다 / 예금, 보증금",
+   "en": "I deposited my allowance in the bank.",
+   "ko": "나는 용돈을 은행에 예금했어요."
+  },
+  {
+   "word": "opposite",
+   "pos": "형용사/명사",
+   "meaning": "반대의 / 반대",
+   "en": "My best friend and I have opposite tastes in music.",
+   "ko": "나와 단짝은 음악 취향이 정반대예요."
+  },
+  {
+   "word": "postal",
+   "pos": "형용사",
+   "meaning": "우편의",
+   "en": "The postal service delivers letters six days a week.",
+   "ko": "우체국은 일주일에 엿새 편지를 배달해요."
+  },
+  {
+   "word": "postage",
+   "pos": "명사",
+   "meaning": "우편 요금",
+   "en": "How much is the postage for this package?",
+   "ko": "이 소포 우편 요금은 얼마예요?"
+  },
+  {
+   "word": "poster",
+   "pos": "명사",
+   "meaning": "포스터, 벽보",
+   "en": "I put a movie poster on my bedroom wall.",
+   "ko": "나는 침실 벽에 영화 포스터를 붙였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰으로 사진을 SNS에 올리는 모습",
+ "imageCaption": "휴대폰 화면에서 '게시' 버튼을 누르는 손가락, 그리고 빨간 우체통을 함께 떠올려 보세요.",
+ "movieLineEn": "Don't post that photo! My hair looks terrible!",
+ "movieLineKo": "그 사진 올리지 마! 내 머리 엉망이란 말이야!",
+ "storyTitle": "할머니의 첫 게시물",
+ "story": "할머니가 SNS에 첫 post(게시물)를 올리셨어요. 손글씨 편지를 찍은 사진이었죠. \"postal(우편) 서비스보다 빠르구나!\" 그런데 할머니는 postage(우편 요금)를 내야 하는 줄 알고 우표를 화면에 붙이셨어요. 친구들은 그 사진을 poster(포스터)로 만들어 '최고의 게시물' 상을 드렸대요."
+}

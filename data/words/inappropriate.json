@@ -1,0 +1,73 @@
+{
+ "word": "inappropriate",
+ "pos": "형용사",
+ "phonetic": "[ˌɪnəˈproʊpriət]",
+ "meaning": "부적절한, 알맞지 않은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap-",
+   "meaning": "~에게 (ad-, to)",
+   "note": "ad-가 p 앞에서 ap-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "propri",
+   "meaning": "자기 자신의 (one's own)",
+   "note": "라틴어 proprius(자기 것의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>ap-</strong> (~에게) + <strong>propri</strong> (자기 것의) + <strong>-ate</strong> = '그 자리에 딱 맞지 않는'이라는 뜻에서 <strong>'부적절한'</strong>이 되었습니다.",
+ "historyTitle": "'내 것'에서 '알맞은'으로",
+ "historyBody": "라틴어 'appropriare'는 '자기 것으로 만들다'라는 뜻이었어요. 어떤 것에 딱 속하는 것은 그것에 '알맞은' 것이니, appropriate는 '적절한'이라는 뜻이 되었죠. 여기에 in-이 붙어 '알맞지 않은'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appropriate",
+   "pos": "형용사",
+   "meaning": "적절한, 알맞은",
+   "en": "Jeans are not appropriate for a wedding.",
+   "ko": "청바지는 결혼식에 적절하지 않아요."
+  },
+  {
+   "word": "proper",
+   "pos": "형용사",
+   "meaning": "적절한, 올바른",
+   "en": "Get proper rest before the big race.",
+   "ko": "큰 경주 전에는 제대로 쉬어야 해요."
+  },
+  {
+   "word": "property",
+   "pos": "명사",
+   "meaning": "재산, 소유물, 특성",
+   "en": "This land is the property of the school.",
+   "ko": "이 땅은 학교 소유의 재산이에요."
+  },
+  {
+   "word": "properly",
+   "pos": "부사",
+   "meaning": "제대로, 적절하게",
+   "en": "Make sure the machine is working properly.",
+   "ko": "기계가 제대로 작동하는지 꼭 확인하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 장례식장에 수영복을 입고 나타난 사람",
+ "imageCaption": "모두 검은 옷을 입은 조용한 자리에 혼자 반짝이 옷을 입은 모습을 떠올려 보세요. 상황에 안 맞는 그 느낌이 inappropriate예요.",
+ "movieLineEn": "That joke was completely inappropriate, Tony.",
+ "movieLineKo": "토니, 그 농담은 완전히 부적절했어.",
+ "storyTitle": "졸업식 패션 대참사",
+ "story": "삼촌은 졸업식에 공룡 잠옷을 입고 왔어요. 이모가 '정말 inappropriate(부적절한)해! proper(적절한) 정장 입어!'라고 했죠. 삼촌은 '이건 내 소중한 property(재산)야'라며 버텼어요. 그런데 졸업생 대표가 '오늘의 appropriate(적절한) 의상상은 공룡 삼촌!'이라고 발표했답니다."
+}

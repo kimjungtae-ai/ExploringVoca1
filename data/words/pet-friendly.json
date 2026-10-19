@@ -1,0 +1,74 @@
+{
+ "word": "pet-friendly",
+ "pos": "형용사",
+ "phonetic": "[ˈpet ˈfrendli]",
+ "meaning": "반려동물 친화적인, 반려동물 동반이 가능한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pet",
+   "meaning": "반려동물 (pet)",
+   "note": "1500년대 스코틀랜드·북잉글랜드에서 쓰이던 말로, 기원은 확실하지 않아요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "friend",
+   "meaning": "친구 (friend)",
+   "note": "고대 영어 frēond에서 왔고 '사랑하는 사람'이라는 뜻이었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~같은 (형용사)",
+   "note": "명사에 붙어 '~다운'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>pet</strong> (반려동물) + <strong>friendly</strong> (친근한) = 반려동물에게 친근한, 즉 <strong>'반려동물 동반이 가능한'</strong>이라는 뜻이에요.",
+ "historyTitle": "'친구'에서 나온 '-friendly' 꼬리표",
+ "historyBody": "friend는 고대 영어 frēond에서 왔는데, '사랑하다'라는 동사 frēon과 관련 있어요. 현대 영어에서는 '-friendly'가 '~에게 좋은, ~에 친화적인'이라는 뜻의 꼬리표처럼 쓰여 eco-friendly, user-friendly 같은 말을 만들어요. 다만 pet 자체의 기원은 확실하지 않아서 게일어 peata(길들인 동물)와 관련 있다는 설이 있을 뿐이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "friendly",
+   "pos": "형용사",
+   "meaning": "친절한, 우호적인",
+   "en": "The new student was friendly to everyone in class.",
+   "ko": "새로 온 학생은 반 친구 모두에게 친절했어요."
+  },
+  {
+   "word": "friendship",
+   "pos": "명사",
+   "meaning": "우정",
+   "en": "Their friendship lasted for more than fifty years.",
+   "ko": "그들의 우정은 50년 넘게 이어졌어요."
+  },
+  {
+   "word": "unfriendly",
+   "pos": "형용사",
+   "meaning": "불친절한, 비우호적인",
+   "en": "The shop owner gave us an unfriendly look.",
+   "ko": "가게 주인은 우리를 불친절하게 쳐다봤어요."
+  },
+  {
+   "word": "eco-friendly",
+   "pos": "형용사",
+   "meaning": "친환경적인",
+   "en": "We should use eco-friendly bags instead of plastic ones.",
+   "ko": "우리는 비닐봉지 대신 친환경 가방을 써야 해요."
+  },
+  {
+   "word": "user-friendly",
+   "pos": "형용사",
+   "meaning": "사용하기 쉬운",
+   "en": "This app is so user-friendly that my grandmother can use it.",
+   "ko": "이 앱은 정말 쓰기 쉬워서 우리 할머니도 쓰실 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강아지와 함께 들어갈 수 있는 카페 입구의 발바닥 표지판",
+ "imageCaption": "카페 문 앞에 '반려견 환영' 발바닥 스티커가 붙어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry, this hotel is totally pet-friendly!",
+ "movieLineKo": "걱정 마, 이 호텔은 반려동물 완전 환영이야!",
+ "storyTitle": "고양이의 호텔 리뷰",
+ "story": "pet-friendly(반려동물 친화적인) 호텔에 간 고양이 나비. 직원은 friendly(친절한)했고 user-friendly(쓰기 쉬운) 캣타워도 있었어요. 하지만 나비는 리뷰에 별 하나를 줬어요. 이유는? 옆방 강아지와의 friendship(우정)이 너무 깊어져서 집에 가기 싫어졌기 때문이래요!"
+}

@@ -1,0 +1,41 @@
+{
+ "word": "clay",
+ "pos": "명사",
+ "phonetic": "[kleɪ]",
+ "meaning": "점토, 찰흙",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "clay",
+   "meaning": "끈적한 흙 (sticky earth)",
+   "note": "고대 영어 clæg에서 온 게르만어로, '달라붙다'는 뜻의 아주 오래된 뿌리와 연결돼요."
+  }
+ ],
+ "summary": "<strong>clay</strong> (끈적하게 달라붙는 흙) = 손에 착 붙는 흙이라는 데서 <strong>'점토, 찰흙'</strong>이 되었습니다.",
+ "historyTitle": "달라붙는 흙",
+ "historyBody": "clay는 고대 영어 clæg에서 왔고, 인도유럽조어 *glei-(달라붙다)라는 뿌리에 닿아요. 같은 뿌리에서 glue(풀)와 cling(달라붙다)도 나왔다고 보는 것이 일반적이에요. 아주 먼 친척이라 모양이 많이 다르지만 '끈적하게 붙는다'는 느낌은 같답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "glue",
+   "pos": "명사/동사",
+   "meaning": "풀, 접착제 / 붙이다",
+   "en": "Use glue to stick the photo on the poster.",
+   "ko": "풀을 써서 사진을 포스터에 붙여."
+  },
+  {
+   "word": "cling",
+   "pos": "동사",
+   "meaning": "달라붙다, 매달리다",
+   "en": "The wet shirt clung to his back.",
+   "ko": "젖은 셔츠가 그의 등에 달라붙었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 물레 위에서 축축한 찰흙으로 그릇을 빚는 장면",
+ "imageCaption": "손에 끈적하게 달라붙는 축축한 흙을 떠올려 보세요.",
+ "movieLineEn": "Shape the clay slowly, like you're shaping your future.",
+ "movieLineKo": "미래를 빚듯이 찰흙을 천천히 빚어 봐.",
+ "storyTitle": "찰흙 공예의 비극",
+ "story": "미술 시간에 나는 clay(찰흙)로 강아지를 만들었어요. 귀가 자꾸 떨어져서 glue(풀)를 듬뿍 발랐죠. 찰흙이 손에 cling(달라붙다)해서 떨어지지 않았어요. 완성품을 본 선생님이 말씀하셨어요. \"멋진 potato(감자)네!\""
+}

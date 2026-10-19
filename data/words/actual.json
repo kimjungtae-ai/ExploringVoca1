@@ -1,0 +1,75 @@
+{
+ "word": "actual",
+ "pos": "형용사",
+ "phonetic": "[ˈæktʃuəl]",
+ "meaning": "실제의, 사실상의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "act",
+   "meaning": "행하다, 하다 (do)",
+   "note": "라틴어 agere(하다)의 과거분사 actus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ual",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "라틴어 -alis에서 온 형용사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>act</strong> (행하다) + <strong>-ual</strong> (~의) = '실제로 행해진'에서 <strong>'실제의'</strong>가 되었어요.",
+ "historyTitle": "말이 아니라 '행동'으로 존재하는 것",
+ "historyBody": "후기 라틴어 actualis는 actus(행동, 행해진 일)에서 나와 '행동에 관한, 실제적인'이라는 뜻이었어요. 생각이나 가능성만이 아니라 실제로 일어난 것을 말할 때 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "act",
+   "pos": "동사/명사",
+   "meaning": "행동하다 / 행동",
+   "en": "We must act quickly to save the forest.",
+   "ko": "숲을 구하려면 빨리 행동해야 해요."
+  },
+  {
+   "word": "action",
+   "pos": "명사",
+   "meaning": "행동, 조치",
+   "en": "Actions speak louder than words.",
+   "ko": "행동이 말보다 더 중요해요."
+  },
+  {
+   "word": "active",
+   "pos": "형용사",
+   "meaning": "활동적인, 적극적인",
+   "en": "My grandmother is still very active at 80.",
+   "ko": "우리 할머니는 80세에도 여전히 매우 활동적이세요."
+  },
+  {
+   "word": "actually",
+   "pos": "부사",
+   "meaning": "실제로, 사실은",
+   "en": "I actually enjoyed the math test.",
+   "ko": "나는 사실 수학 시험이 재미있었어요."
+  },
+  {
+   "word": "react",
+   "pos": "동사",
+   "meaning": "반응하다",
+   "en": "How did your parents react to the news?",
+   "ko": "부모님은 그 소식에 어떻게 반응하셨어?"
+  },
+  {
+   "word": "interact",
+   "pos": "동사",
+   "meaning": "상호 작용하다",
+   "en": "Children learn by interacting with others.",
+   "ko": "아이들은 다른 사람들과 어울리며 배워요."
+  }
+ ],
+ "imageSense": "대표 의미: 광고 사진 속 큰 햄버거와 실제로 받은 작은 햄버거를 비교하는 장면",
+ "imageCaption": "사진과 다른 '진짜' 모습을 떠올려 보세요. actual은 보이는 그대로의 실제예요.",
+ "movieLineEn": "Is this the actual treasure map or a fake?",
+ "movieLineKo": "이게 진짜 보물 지도야, 아니면 가짜야?",
+ "storyTitle": "실제 크기의 공룡",
+ "story": "동물원 광고에는 '실제 크기 공룡'이라고 쓰여 있었어요. 아이들은 active(활동적인) 공룡을 기대하며 달려갔죠. 그런데 actual(실제의) 공룡은 손바닥만 했어요! 아이들이 react(반응하다)하기도 전에 사육사가 말했어요. '이건 actually(사실) 아기 공룡의 실제 크기예요.'"
+}

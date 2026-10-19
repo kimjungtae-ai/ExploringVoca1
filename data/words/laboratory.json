@@ -1,0 +1,61 @@
+{
+ "word": "laboratory",
+ "pos": "명사",
+ "phonetic": "[ˈlæbrətɔːri]",
+ "meaning": "실험실, 연구소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "labor",
+   "meaning": "노동, 일하다 (work)",
+   "note": "라틴어 laborare(일하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-atory",
+   "meaning": "~하는 장소 (place for)",
+   "note": "라틴어 -atorium에서 온 '장소'를 나타내는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>labor</strong> (일하다) + <strong>-atory</strong> (장소) = '일하는 곳'에서 <strong>'실험실, 연구소'</strong>가 되었어요.",
+ "historyTitle": "연금술사의 작업실",
+ "historyBody": "laboratory는 중세 라틴어 laboratorium('일하는 곳, 작업장')에서 왔어요. 17세기 영어에서는 특히 연금술사나 약사가 약품을 섞고 끓이던 작업실을 가리켰죠. 그것이 오늘날의 과학 '실험실'이 되었고, 줄여서 lab이라고도 해요. 미국식은 '래버러토리', 영국식은 '러보러터리'처럼 발음해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lab",
+   "pos": "명사",
+   "meaning": "실험실 (laboratory의 줄임말)",
+   "en": "We have science class in the lab today.",
+   "ko": "오늘은 실험실에서 과학 수업이 있어요."
+  },
+  {
+   "word": "labor",
+   "pos": "명사 / 동사",
+   "meaning": "노동 / 애쓰다",
+   "en": "Building the castle took years of labor.",
+   "ko": "그 성을 짓는 데는 수년의 노동이 들었어요."
+  },
+  {
+   "word": "collaborate",
+   "pos": "동사",
+   "meaning": "협력하다",
+   "en": "Scientists from many countries collaborated on the project.",
+   "ko": "여러 나라의 과학자들이 그 프로젝트에 협력했어요."
+  },
+  {
+   "word": "elaborate",
+   "pos": "형용사 / 동사",
+   "meaning": "정교한 / 자세히 설명하다",
+   "en": "Could you elaborate on your idea?",
+   "ko": "네 아이디어를 좀 더 자세히 설명해 줄래?"
+  }
+ ],
+ "imageSense": "대표 의미: 흰 가운을 입은 과학자가 시험관과 현미경으로 실험하는 장면",
+ "imageCaption": "부글부글 끓는 플라스크와 반짝이는 유리 기구가 가득한 '일하는 방'을 떠올려 보세요.",
+ "movieLineEn": "Nobody leaves this laboratory until we find the answer.",
+ "movieLineKo": "답을 찾을 때까지 아무도 이 실험실을 못 나가.",
+ "storyTitle": "실험실의 위대한 발견",
+ "story": "과학자 고양이는 laboratory(실험실)에서 밤낮으로 labor(노동)를 했어요. 동료와 collaborate(협력하다)해 '절대 안 녹는 아이스크림'을 만들었죠. 모두 감탄했고 고양이는 결과를 elaborate(자세히 설명하다)했어요. 그런데 한 입 먹어 보니, 안 녹는 게 아니라 그냥 얼음 덩어리였답니다."
+}

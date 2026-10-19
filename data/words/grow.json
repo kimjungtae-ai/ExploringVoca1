@@ -1,0 +1,55 @@
+{
+ "word": "grow",
+ "pos": "동사",
+ "phonetic": "[ɡroʊ]",
+ "meaning": "자라다, 성장하다, 재배하다, (점점) ~해지다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "grow (古 grōwan)",
+   "meaning": "자라다 (grow, become green)",
+   "note": "고대 영어 grōwan에서 온 게르만계 단어라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>grow</strong>는 고대 영어 grōwan(<strong>식물이 자라다</strong>)에서 와서 <strong>'자라다, 성장하다, ~해지다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "풀(grass), 초록(green)과 한 가족",
+ "historyBody": "grow는 고대 영어 grōwan에서 왔고, 처음엔 주로 식물이 자라는 것을 말했어요. 사전들은 grass(풀), green(초록)과 같은 게르만 뿌리로 봐요. 그래서 '쑥쑥 푸르게 자란다'는 그림을 떠올리면 기억하기 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "growth",
+   "pos": "명사",
+   "meaning": "성장, 증가",
+   "en": "The country has seen rapid economic growth.",
+   "ko": "그 나라는 빠른 경제 성장을 겪었어."
+  },
+  {
+   "word": "outgrow",
+   "pos": "동사",
+   "meaning": "너무 커서 맞지 않게 되다",
+   "en": "Children quickly outgrow their shoes.",
+   "ko": "아이들은 금방 커서 신발이 작아져."
+  },
+  {
+   "word": "grass",
+   "pos": "명사",
+   "meaning": "풀, 잔디",
+   "en": "The kids played soccer on the grass.",
+   "ko": "아이들은 잔디 위에서 축구를 했어."
+  },
+  {
+   "word": "green",
+   "pos": "형용사 / 명사",
+   "meaning": "초록의, 친환경의 / 초록색",
+   "en": "Our school is trying to become a green campus.",
+   "ko": "우리 학교는 친환경 캠퍼스가 되려고 노력하고 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 새싹이 쑥쑥 자라 큰 나무가 되는 장면",
+ "imageCaption": "땅에서 고개를 내민 초록 새싹이 하루하루 키가 커지는 모습을 떠올려 보세요.",
+ "movieLineEn": "One day, you'll grow up and understand.",
+ "movieLineKo": "언젠가 네가 자라면 이해하게 될 거야.",
+ "storyTitle": "자라지 않는 화분",
+ "story": "준호는 화분에 씨앗을 심고 매일 grow(자라다)하길 기도했어요. 옆집 grass(잔디)는 green(초록색)으로 쑥쑥 자라는데 화분은 그대로였죠. 한 달 뒤 드디어 엄청난 growth(성장)! 화분을 outgrow(너무 커지다)할 만큼 컸어요. 그런데 자세히 보니 씨앗이 아니라 엄마가 숨겨 둔 콩나물이었대요!"
+}

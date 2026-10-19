@@ -1,0 +1,67 @@
+{
+ "word": "fortunately",
+ "pos": "부사",
+ "phonetic": "[ˈfɔːrtʃənətli]",
+ "meaning": "다행히, 운 좋게도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fortun",
+   "meaning": "행운 (luck)",
+   "note": "라틴어 fortuna(운, 행운의 여신)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사)",
+   "note": "fortunate = '운이 좋은'."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꾸는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>fortun</strong> (행운) + <strong>-ate</strong> (~한) + <strong>-ly</strong> (~하게) = '운이 좋게'라는 뜻에서 <strong>'다행히'</strong>가 되었습니다.",
+ "historyTitle": "행운의 여신 포르투나",
+ "historyBody": "로마 사람들은 운을 다스리는 여신을 Fortuna라고 불렀어요. 그녀는 바퀴를 돌려 사람의 운명을 바꾼다고 여겨졌죠. 여기서 fortune(운, 재산)과 fortunate(운 좋은)가 나왔고, -ly를 붙여 fortunately(다행히)가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fortune",
+   "pos": "명사",
+   "meaning": "운, 재산, 큰돈",
+   "en": "He made a fortune by selling his app.",
+   "ko": "그는 앱을 팔아 큰돈을 벌었어요."
+  },
+  {
+   "word": "fortunate",
+   "pos": "형용사",
+   "meaning": "운이 좋은",
+   "en": "I was fortunate to have such kind friends.",
+   "ko": "나는 이렇게 친절한 친구들이 있어서 운이 좋았어요."
+  },
+  {
+   "word": "unfortunately",
+   "pos": "부사",
+   "meaning": "불행하게도, 유감스럽게도",
+   "en": "Unfortunately, the concert was canceled because of rain.",
+   "ko": "유감스럽게도 비 때문에 콘서트가 취소됐어요."
+  },
+  {
+   "word": "misfortune",
+   "pos": "명사",
+   "meaning": "불운, 불행",
+   "en": "She faced her misfortune with courage.",
+   "ko": "그녀는 용기를 내어 불행에 맞섰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어질 뻔했는데 친구가 팔을 잡아 주는 장면",
+ "imageCaption": "미끄러져 넘어지려는 순간 누군가 '휙' 잡아 줘서 안도의 한숨을 쉬는 모습이 fortunately예요.",
+ "movieLineEn": "Fortunately, the bridge held just long enough.",
+ "movieLineKo": "다행히도, 다리가 딱 버틸 만큼만 버텨 줬어.",
+ "storyTitle": "운수 좋은 날?",
+ "story": "Unfortunately(불행하게도) 민지는 시험 날 늦잠을 잤어요. 하지만 fortunately(다행히) 버스가 바로 왔죠. 버스에서 지갑을 잃는 misfortune(불운)도 있었지만, 착한 할아버지가 찾아 주셨어요. 정말 fortunate(운 좋은) 하루라고 생각하며 교실에 도착했는데, 시험은 다음 주였어요!"
+}

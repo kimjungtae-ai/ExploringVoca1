@@ -1,0 +1,41 @@
+{
+ "word": "branch",
+ "pos": "명사 / 동사",
+ "phonetic": "[bræntʃ]",
+ "meaning": "나뭇가지, 지점, 분야 / 갈라지다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "branch (← branca)",
+   "meaning": "(동물의) 발 (paw)",
+   "note": "후기 라틴어 branca(짐승의 발)가 고대 프랑스어 branche를 거쳐 들어왔어요."
+  }
+ ],
+ "summary": "<strong>branch</strong>는 후기 라틴어 <strong>branca</strong>(짐승의 발)에서 와서, 발가락처럼 갈라진 모양 때문에 <strong>'나뭇가지, 지점, 분야'</strong>가 되었어요.",
+ "historyTitle": "짐승의 발에서 나뭇가지로",
+ "historyBody": "branch는 고대 프랑스어 branche를 거쳐 들어왔고, 그 뿌리는 후기 라틴어 branca(짐승의 발)예요. 발가락이 갈라지듯 나무에서 뻗어 나온 가지를 가리키게 되었다고 봐요. 그 뒤 '본점에서 갈라져 나온 지점', '학문의 한 분야'로 뜻이 넓어졌어요. branca 자체의 기원은 확실하지 않아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "branch out",
+   "pos": "동사",
+   "meaning": "(사업·활동을) 넓히다, 새 분야로 뻗어 나가다",
+   "en": "The bakery decided to branch out into coffee.",
+   "ko": "그 빵집은 커피까지 사업을 넓히기로 했어."
+  },
+  {
+   "word": "branching",
+   "pos": "형용사 / 명사",
+   "meaning": "가지를 뻗은 / 분기",
+   "en": "The river has many branching streams.",
+   "ko": "그 강에는 갈라져 나온 지류가 많아."
+  }
+ ],
+ "imageSense": "대표 의미: 큰 나무에서 사방으로 뻗어 나간 나뭇가지",
+ "imageCaption": "굵은 나무줄기에서 가지가 손가락처럼 갈라지는 모습을 떠올려 보세요. 은행 '지점'도 본점에서 뻗은 가지예요.",
+ "movieLineEn": "The bird is sitting on the highest branch!",
+ "movieLineKo": "새가 제일 높은 나뭇가지에 앉아 있어!",
+ "storyTitle": "나뭇가지 위의 은행",
+ "story": "다람쥐 은행은 숲속 branch(나뭇가지)에 새 branch(지점)를 열었어요. 도토리 저금이 인기를 끌자 사업을 branch out(넓히다)해서 밤 대출도 시작했죠. branching(가지를 뻗은) 나무마다 지점이 생겼어요. 그런데 겨울이 오자 은행장 다람쥐가 도토리를 어디 묻었는지 잊어버렸답니다!"
+}

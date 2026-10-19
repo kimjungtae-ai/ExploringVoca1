@@ -1,0 +1,47 @@
+{
+ "word": "fabric",
+ "pos": "명사",
+ "phonetic": "[ˈfæbrɪk]",
+ "meaning": "직물, 천, (사회의) 구조",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fabr",
+   "meaning": "만드는 사람, 장인 (worker)",
+   "note": "라틴어 faber(장인, 대장장이)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의 것 (명사·형용사형)",
+   "note": "라틴어 fabrica(작업장, 만든 것)의 끝부분이에요."
+  }
+ ],
+ "summary": "<strong>fabr</strong> (장인) + <strong>-ic</strong> = '장인이 만든 것'에서 <strong>'직물, 천, 구조'</strong>가 되었어요.",
+ "historyTitle": "대장간에서 옷감까지",
+ "historyBody": "fabric은 라틴어 'fabrica(작업장, 기술, 제작물)'에서 왔고, faber는 쇠나 나무를 다루는 장인을 뜻했어요. 15세기 영어에서는 '건물, 구조물'이라는 뜻이었고, 18세기에 들어 '짠 천, 직물'이라는 뜻이 생겼어요. 그래서 지금도 'the fabric of society(사회의 구조)'처럼 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fabricate",
+   "pos": "동사",
+   "meaning": "조작하다, 꾸며내다, 제작하다",
+   "en": "He fabricated an excuse for being late.",
+   "ko": "그는 지각한 핑계를 꾸며냈어요."
+  },
+  {
+   "word": "fabrication",
+   "pos": "명사",
+   "meaning": "조작, 날조, 제작",
+   "en": "The newspaper story was a complete fabrication.",
+   "ko": "그 신문 기사는 완전히 날조된 것이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 알록달록한 천들이 가게에 차곡차곡 쌓여 있는 장면",
+ "imageCaption": "부드러운 천을 손으로 만져 보며 옷감을 고르는 모습을 떠올려 보세요.",
+ "movieLineEn": "This fabric is stronger than steel. Trust me.",
+ "movieLineKo": "이 천은 강철보다 튼튼해. 날 믿어.",
+ "storyTitle": "투명 천의 비밀",
+ "story": "재봉사는 왕에게 세상에서 가장 가벼운 fabric(천)을 바쳤어요. 사실 그건 fabricate(꾸며내다)한 이야기였죠. 왕은 보이지 않는 옷을 입고 행진했어요. 모두 fabrication(날조)을 알았지만 침묵했죠. 그때 한 아이가 외쳤어요. 'Wow(우와)! 임금님 내복 귀여워요!' 왕은 내복을 입고 있었거든요."
+}

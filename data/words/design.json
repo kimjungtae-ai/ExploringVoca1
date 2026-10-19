@@ -1,0 +1,68 @@
+{
+ "word": "design",
+ "pos": "명사 / 동사",
+ "phonetic": "[dɪˈzaɪn]",
+ "meaning": "디자인, 설계, 계획 / 설계하다, 고안하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "밖으로 (out)",
+   "note": "밖으로 드러낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sign",
+   "meaning": "표시, 표시하다 (mark)",
+   "note": "라틴어 signum(표시)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (밖으로) + <strong>sign</strong> (표시하다) = '생각을 밖으로 표시해 그려 내다'에서 <strong>'설계하다, 디자인'</strong>이 되었어요.",
+ "historyTitle": "표시해서 그려 내는 일",
+ "historyBody": "design은 라틴어 designare(표시하다, 지정하다)가 이탈리아어와 프랑스어를 거쳐 들어온 말이에요. 머릿속 계획을 종이 위에 선으로 표시해 보여 주는 것이 '설계'였죠. 르네상스 시대 화가들이 밑그림을 그리는 일도 이 말과 관계가 깊어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sign",
+   "pos": "명사 / 동사",
+   "meaning": "표시, 신호 / 서명하다",
+   "en": "Please sign your name at the bottom.",
+   "ko": "맨 아래에 서명해 주세요."
+  },
+  {
+   "word": "signal",
+   "pos": "명사",
+   "meaning": "신호",
+   "en": "Wait for the green signal before crossing.",
+   "ko": "건너기 전에 초록 신호를 기다리세요."
+  },
+  {
+   "word": "signature",
+   "pos": "명사",
+   "meaning": "서명",
+   "en": "I need your signature on this form.",
+   "ko": "이 서류에 당신의 서명이 필요해요."
+  },
+  {
+   "word": "significant",
+   "pos": "형용사",
+   "meaning": "중요한, 상당한",
+   "en": "There was a significant change in his attitude.",
+   "ko": "그의 태도에 상당한 변화가 있었어요."
+  },
+  {
+   "word": "assign",
+   "pos": "동사",
+   "meaning": "배정하다, 맡기다",
+   "en": "The teacher assigned us a group project.",
+   "ko": "선생님이 우리에게 조별 과제를 맡기셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 디자이너가 스케치북에 옷이나 건물의 밑그림을 그리는 장면",
+ "imageCaption": "하얀 종이 위에 선을 하나씩 표시하며 아이디어를 그려 내는 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't luck. It's all part of my design.",
+ "movieLineKo": "이건 운이 아니야. 모두 내 계획의 일부지.",
+ "storyTitle": "티셔츠 디자인 대회",
+ "story": "반 티셔츠 design(디자인)을 assign(맡기다)받은 은지는 밤새 그렸어요. significant(중요한) 상징으로 하트를 넣고 자기 signature(서명)도 크게 넣었죠. 친구들의 OK sign(신호)을 받고 주문했는데, 도착한 티셔츠엔 은지 얼굴만 큼지막하게!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "physical",
+ "pos": "형용사",
+ "phonetic": "[ˈfɪzɪkl]",
+ "meaning": "신체의, 육체의, 물리적인, 물질의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "physi",
+   "meaning": "자연 (nature)",
+   "note": "그리스어 physis(자연, 타고난 성질)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-cal",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "-ic + -al이 합쳐져 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>physi</strong> (자연) + <strong>-cal</strong> (~의) = 자연 그대로의 몸과 물질에 관한, 곧 <strong>'신체의, 물리적인'</strong>이라는 뜻이에요.",
+ "historyTitle": "자연을 연구하던 그리스 철학자들",
+ "historyBody": "그리스어 physis는 '자라나다'라는 동사에서 나온 말로 '자연, 본성'을 뜻했어요. 중세 라틴어 physicalis는 '자연에 관한, 의학의'라는 뜻이었고, 옛날에는 의사가 자연의 원리를 다루는 사람으로 여겨져 physician이 '의사'가 되었어요. 1600년대 이후 physical은 '정신'과 반대되는 '몸의, 물질의'라는 뜻으로 널리 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "physics",
+   "pos": "명사",
+   "meaning": "물리학",
+   "en": "She wants to study physics at university.",
+   "ko": "그녀는 대학에서 물리학을 공부하고 싶어 해요."
+  },
+  {
+   "word": "physician",
+   "pos": "명사",
+   "meaning": "의사, 내과 의사",
+   "en": "The physician told him to get more sleep.",
+   "ko": "의사는 그에게 잠을 더 자라고 말했어요."
+  },
+  {
+   "word": "physicist",
+   "pos": "명사",
+   "meaning": "물리학자",
+   "en": "Einstein is the most famous physicist in history.",
+   "ko": "아인슈타인은 역사상 가장 유명한 물리학자예요."
+  },
+  {
+   "word": "physically",
+   "pos": "부사",
+   "meaning": "신체적으로, 물리적으로",
+   "en": "Running every day keeps me physically strong.",
+   "ko": "매일 달리기를 하면 몸이 튼튼해져요."
+  },
+  {
+   "word": "physique",
+   "pos": "명사",
+   "meaning": "체격",
+   "en": "The swimmer has a strong physique.",
+   "ko": "그 수영 선수는 체격이 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 체육 시간에 땀 흘리며 몸을 움직이는 학생들",
+ "imageCaption": "운동장에서 줄넘기하며 땀 흘리는 몸을 떠올려 보세요. '몸의, 신체의'라는 뜻이 쏙 들어와요.",
+ "movieLineEn": "This isn't a mental battle. It's a physical one!",
+ "movieLineKo": "이건 정신 싸움이 아니야. 몸으로 하는 싸움이라고!",
+ "storyTitle": "물리 선생님의 체육 수업",
+ "story": "physics(물리학) 선생님이 체육 선생님 대신 수업에 오셨어요. \"physical(신체의) 활동도 결국 힘과 속도의 문제란다!\" 학생들은 공식만 외우다 지쳤죠. 결국 physically(신체적으로) 가장 지친 사람은 공식을 칠판 가득 쓴 선생님! 보건실 physician(의사)이 진단했어요. \"팔 운동 과다입니다.\""
+}

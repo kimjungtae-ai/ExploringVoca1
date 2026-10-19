@@ -1,0 +1,87 @@
+{
+ "word": "accommodate",
+ "pos": "동사",
+ "phonetic": "[əˈkɑːmədeɪt]",
+ "meaning": "수용하다, 숙박시키다, (요구 등을) 들어주다, 적응시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~에 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께, 완전히 (with)",
+   "note": "'잘 맞게 함께'라는 느낌을 더해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mod",
+   "meaning": "척도, 알맞은 정도 (measure)",
+   "note": "라틴어 modus(척도, 방식)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~에) + <strong>com-</strong> (함께) + <strong>mod</strong> (알맞은 정도) + <strong>-ate</strong> = '~에 꼭 맞게 하다'에서 <strong>'수용하다, 숙박시키다, 들어주다'</strong>가 되었어요.",
+ "historyTitle": "딱 맞게 '치수를 재던' 라틴어 modus",
+ "historyBody": "라틴어 accommodare는 '~에 맞추다, 알맞게 하다'라는 뜻이었어요. 핵심인 modus는 '척도, 정도'를 뜻해요. 사람이나 요구에 맞춰 자리를 마련해 준다는 뜻에서 '숙박시키다, 수용하다'가 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accommodation",
+   "pos": "명사",
+   "meaning": "숙소, 숙박 시설",
+   "en": "We booked our accommodation near the beach.",
+   "ko": "우리는 해변 근처에 숙소를 예약했어요."
+  },
+  {
+   "word": "mode",
+   "pos": "명사",
+   "meaning": "방식, 모드",
+   "en": "Please switch your phone to silent mode.",
+   "ko": "휴대폰을 무음 모드로 바꿔 주세요."
+  },
+  {
+   "word": "modify",
+   "pos": "동사",
+   "meaning": "수정하다, 변경하다",
+   "en": "We had to modify our plan because of the rain.",
+   "ko": "비 때문에 계획을 수정해야 했어요."
+  },
+  {
+   "word": "moderate",
+   "pos": "형용사",
+   "meaning": "적당한, 보통의",
+   "en": "Moderate exercise is good for your health.",
+   "ko": "적당한 운동은 건강에 좋아요."
+  },
+  {
+   "word": "modest",
+   "pos": "형용사",
+   "meaning": "겸손한, 적당한",
+   "en": "He is very modest about his success.",
+   "ko": "그는 자신의 성공에 대해 매우 겸손해요."
+  },
+  {
+   "word": "model",
+   "pos": "명사",
+   "meaning": "모델, 모형, 본보기",
+   "en": "She built a model of the solar system.",
+   "ko": "그녀는 태양계 모형을 만들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 호텔이 손님 100명을 모두 받아 방을 내어 주는 장면",
+ "imageCaption": "손님 수에 '딱 맞게' 방과 침대를 마련하는 호텔 주인을 떠올려 보세요.",
+ "movieLineEn": "This tiny boat can't accommodate all of us!",
+ "movieLineKo": "이 작은 배엔 우리 모두를 태울 수 없어!",
+ "storyTitle": "요술 텐트의 비밀",
+ "story": "캠핑장의 작은 텐트는 놀랍게도 50명을 accommodate(수용하다)할 수 있었어요. 사람들은 최고의 accommodation(숙소)이라며 감탄했죠. 주인은 modest(겸손한) 미소로 '그냥 조금 modify(수정하다)했을 뿐'이라고 했어요. 비밀은? 텐트 바닥이 지하 체육관과 연결돼 있었대요!"
+}

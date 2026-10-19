@@ -1,0 +1,67 @@
+{
+ "word": "experiment",
+ "pos": "명사 / 동사",
+ "phonetic": "[ɪkˈsperɪmənt]",
+ "meaning": "실험 / 실험하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "끝까지 시도해 본다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "peri",
+   "meaning": "시험하다 (try)",
+   "note": "라틴어 experiri(시험해 보다)의 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "행위나 그 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (끝까지) + <strong>peri</strong> (시험하다) + <strong>-ment</strong> (명사) = '직접 시험해 보는 일'에서 <strong>'실험'</strong>이 되었어요.",
+ "historyTitle": "직접 해 봐야 안다",
+ "historyBody": "experiment는 14세기에 고대 프랑스어를 거쳐 라틴어 'experimentum(시험, 증거)'에서 왔어요. 처음엔 '경험'과 비슷한 뜻이었지만, 17세기 과학 혁명 시기에 '가설을 확인하려고 일부러 해 보는 시험'이라는 뜻이 굳어졌어요. experience와 형제 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "experimental",
+   "pos": "형용사",
+   "meaning": "실험적인, 실험의",
+   "en": "The band plays experimental music.",
+   "ko": "그 밴드는 실험적인 음악을 연주해요."
+  },
+  {
+   "word": "experience",
+   "pos": "명사 / 동사",
+   "meaning": "경험 / 경험하다",
+   "en": "Working at a café gave me useful experience.",
+   "ko": "카페에서 일하며 유용한 경험을 얻었어요."
+  },
+  {
+   "word": "expert",
+   "pos": "명사",
+   "meaning": "전문가",
+   "en": "Ask an expert before you buy a used car.",
+   "ko": "중고차를 사기 전에 전문가에게 물어보세요."
+  },
+  {
+   "word": "peril",
+   "pos": "명사",
+   "meaning": "위험",
+   "en": "The island's wildlife is in peril.",
+   "ko": "그 섬의 야생 동물은 위험에 처해 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고글 쓴 학생이 비커에 용액을 붓자 거품이 나는 장면",
+ "imageCaption": "과학실에서 '어떻게 될까?' 하며 직접 시험해 보는 순간을 떠올려 보세요.",
+ "movieLineEn": "The experiment worked! It's alive!",
+ "movieLineKo": "실험이 성공했어! 살아 있어!",
+ "storyTitle": "실험실의 대폭발",
+ "story": "과학 동아리는 화산 폭발 experiment(실험)를 했어요. 동아리 회장은 자신을 expert(전문가)라고 소개했죠. 하지만 experimental(실험적인) 방법으로 식초를 열 배 넣자 거품이 천장까지! 선생님은 '좋은 experience(경험)였지?' 하며 걸레를 건네주셨어요."
+}

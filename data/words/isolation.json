@@ -1,0 +1,74 @@
+{
+ "word": "isolation",
+ "pos": "명사",
+ "phonetic": "[ˌaɪsəˈleɪʃn]",
+ "meaning": "고립, 격리, 외로움",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "isol",
+   "meaning": "섬 (island)",
+   "note": "이탈리아어 isola, 라틴어 insula(섬)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (make)",
+   "note": "동사를 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것, 상태 (state)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>isol</strong> (섬) + <strong>-ate</strong> (~하게 하다) + <strong>-ion</strong> (상태) = '섬처럼 따로 떨어지게 된 상태'라서 <strong>'고립, 격리'</strong>예요.",
+ "historyTitle": "섬처럼 떨어진다는 이탈리아어",
+ "historyBody": "isolate는 18세기에 이탈리아어 isolato('섬이 된, 떨어진')에서 프랑스어를 거쳐 영어로 들어왔어요. isola는 라틴어 insula(섬)에서 왔기 때문에, insulate(단열하다)와 peninsula(반도)도 같은 집안이에요. 바다에 둘러싸인 섬처럼 홀로 떨어진 상태를 떠올리면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "isolate",
+   "pos": "동사",
+   "meaning": "고립시키다, 격리하다",
+   "en": "Doctors isolated the sick patient from others.",
+   "ko": "의사들은 아픈 환자를 다른 사람들로부터 격리했어요."
+  },
+  {
+   "word": "isolated",
+   "pos": "형용사",
+   "meaning": "고립된, 외딴",
+   "en": "They lived in an isolated village in the mountains.",
+   "ko": "그들은 산속 외딴 마을에 살았어요."
+  },
+  {
+   "word": "insulate",
+   "pos": "동사",
+   "meaning": "단열하다, 절연하다",
+   "en": "Thick walls insulate the house from the cold.",
+   "ko": "두꺼운 벽이 집을 추위로부터 막아 줘요."
+  },
+  {
+   "word": "insulation",
+   "pos": "명사",
+   "meaning": "단열, 단열재",
+   "en": "Good insulation can save a lot of energy.",
+   "ko": "좋은 단열재는 많은 에너지를 절약할 수 있어요."
+  },
+  {
+   "word": "peninsula",
+   "pos": "명사",
+   "meaning": "반도",
+   "en": "Korea is located on a peninsula in East Asia.",
+   "ko": "한국은 동아시아의 반도에 위치해 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넓은 바다 한가운데 작은 섬에 혼자 앉아 있는 사람",
+ "imageCaption": "주변이 모두 물로 둘러싸여 아무와도 연결되지 않은 작은 섬을 떠올려 보세요.",
+ "movieLineEn": "After months of isolation, I almost forgot how to talk to people.",
+ "movieLineKo": "몇 달 동안 고립돼 있었더니, 사람과 대화하는 법을 거의 잊었어.",
+ "storyTitle": "펭귄의 고립 탈출기",
+ "story": "펭귄 한 마리가 빙하 조각을 타고 isolated(외딴) 섬에 갇혔어요. isolation(고립)이 너무 외로워 코코넛으로 insulation(단열재) 집을 지었죠. 그러다 이 섬이 사실 섬이 아니라 peninsula(반도)라는 걸 알게 됐어요. 걸어서 5분이면 집이었던 거예요! 펭귄은 스스로를 isolate(고립시키다)했던 셈이죠."
+}

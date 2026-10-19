@@ -1,0 +1,48 @@
+{
+ "word": "ring",
+ "pos": "명사 / 동사",
+ "phonetic": "[rɪŋ]",
+ "meaning": "반지, 고리, 원형 경기장 / (종·전화가) 울리다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ring",
+   "meaning": "원, 고리 (circle) / 울리다 (sound) ← 고대 영어 hring, hringan",
+   "note": "철자는 같지만 '고리'와 '울리다'는 고대 영어에서 서로 다른 단어였어요."
+  }
+ ],
+ "summary": "<strong>ring</strong>은 더 쪼갤 수 없는 오래된 영어 단어로, '고리'라는 <strong>ring</strong>과 '울리다'라는 <strong>ring</strong>이 우연히 같은 모양이 되었어요.",
+ "historyTitle": "모양이 같은 두 단어",
+ "historyBody": "'반지, 고리'의 ring은 고대 영어 hring(원, 고리)에서 왔어요. '울리다'의 ring은 고대 영어 hringan에서 왔는데, 종소리를 흉내 낸 소리에서 생겼을 것으로 보여요. 두 단어는 우연히 철자가 같아졌을 뿐 뿌리가 다른 동음이의어랍니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "earring",
+   "pos": "명사",
+   "meaning": "귀걸이",
+   "en": "She wore silver earrings to the party.",
+   "ko": "그녀는 파티에 은 귀걸이를 하고 갔어요."
+  },
+  {
+   "word": "ringtone",
+   "pos": "명사",
+   "meaning": "벨소리",
+   "en": "I changed my ringtone to a funny song.",
+   "ko": "나는 벨소리를 재미있는 노래로 바꿨어요."
+  },
+  {
+   "word": "keyring",
+   "pos": "명사",
+   "meaning": "열쇠고리",
+   "en": "He hung his keys on a small keyring.",
+   "ko": "그는 열쇠를 작은 열쇠고리에 걸었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손가락에 끼운 반짝이는 동그란 반지와 따르릉 울리는 전화",
+ "imageCaption": "동그란 고리 모양의 반지와 '링링' 울리는 벨소리, 두 가지를 함께 떠올려 보세요.",
+ "movieLineEn": "If the phone rings, don't answer. It's a trap.",
+ "movieLineKo": "전화가 울려도 받지 마. 함정이야.",
+ "storyTitle": "반지의 전화",
+ "story": "민호는 여자친구에게 줄 ring(반지)을 숨겨 두었어요. 그런데 고백 순간 휴대폰이 ring(울리다)했죠. ringtone(벨소리)은 엄마 목소리였어요. 당황해서 반지 대신 keyring(열쇠고리)을 내밀었는데, 여자친구는 earring(귀걸이)보다 더 좋다며 웃었대요!"
+}

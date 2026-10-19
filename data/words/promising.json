@@ -1,0 +1,74 @@
+{
+ "word": "promising",
+ "pos": "형용사",
+ "phonetic": "[ˈprɑːmɪsɪŋ]",
+ "meaning": "유망한, 장래성 있는, 조짐이 좋은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞쪽으로 내보낸다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mis",
+   "meaning": "보내다 (send)",
+   "note": "라틴어 mittere(보내다)의 과거분사 missus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (형용사)",
+   "note": "현재분사가 형용사처럼 쓰여요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>mis</strong> (보내다) + <strong>-ing</strong> = '앞날을 미리 보내 주는'이라는 느낌에서 <strong>'유망한'</strong>이 되었어요.",
+ "historyTitle": "미래로 보내는 말, promise",
+ "historyBody": "라틴어 promittere는 '앞으로 내보내다, 미리 말하다'라는 뜻이었어요. 여기서 '약속(promise)'이 나왔지요. 좋은 미래를 '약속하는 듯한' 사람이나 일을 promising이라고 부르게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "promise",
+   "pos": "동사 / 명사",
+   "meaning": "약속하다 / 약속, 가능성",
+   "en": "I promise I will call you tonight.",
+   "ko": "오늘 밤에 꼭 전화할게, 약속해."
+  },
+  {
+   "word": "mission",
+   "pos": "명사",
+   "meaning": "임무, 사명",
+   "en": "Their mission is to help homeless animals.",
+   "ko": "그들의 임무는 유기 동물을 돕는 거예요."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다, 전염시키다",
+   "en": "Mosquitoes can transmit diseases.",
+   "ko": "모기는 질병을 옮길 수 있어요."
+  },
+  {
+   "word": "permit",
+   "pos": "동사",
+   "meaning": "허락하다",
+   "en": "Phones are not permitted during the exam.",
+   "ko": "시험 중에는 휴대폰이 허용되지 않아요."
+  },
+  {
+   "word": "submit",
+   "pos": "동사",
+   "meaning": "제출하다",
+   "en": "Please submit your essay by Friday.",
+   "ko": "금요일까지 에세이를 제출해 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 새싹이 햇빛을 받으며 쑥쑥 자라는 장면",
+ "imageCaption": "앞으로 크게 자랄 것 같은 새싹을 떠올리면 promising이에요.",
+ "movieLineEn": "The kid has talent. He's very promising.",
+ "movieLineKo": "그 꼬마 재능이 있어. 아주 유망해.",
+ "storyTitle": "유망한 축구 신동",
+ "story": "코치는 우리 반 동호를 아주 promising(유망한) 선수라고 했어요. 동호는 국가대표가 되겠다고 promise(약속하다)했죠. 그의 mission(임무)은 매일 슛 백 번! 연습 영상을 친구들에게 transmit(전송하다)하기도 했어요. 그런데 대회 당일, 동호는 골키퍼로 뽑혔답니다!"
+}

@@ -1,0 +1,48 @@
+{
+ "word": "flavor",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈfleɪvər]",
+ "meaning": "맛, 풍미, 특색 / 맛을 내다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "flavor",
+   "meaning": "냄새, 향기 (smell)",
+   "note": "고대 프랑스어 flaor(냄새, 향기)에서 왔어요. 그 전 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>flavor</strong> (고대 프랑스어 flaor, 냄새) = 원래 '향기'를 뜻하다가 혀로 느끼는 <strong>'맛, 풍미'</strong>가 되었습니다.",
+ "historyTitle": "원래는 '냄새'였던 맛",
+ "historyBody": "flavor는 고대 프랑스어 flaor(냄새, 향기)에서 왔어요. 라틴어 flare(불다)에서 왔다는 설이 있지만 확실하지 않아요. 중간의 v는 savor(맛, 풍미)의 영향으로 들어간 것으로 보이고, 17세기쯤부터 '맛'이라는 뜻이 주로 쓰였답니다. 실제로 맛의 상당 부분은 코로 느낀다고 하니 재밌죠?",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "flavorful",
+   "pos": "형용사",
+   "meaning": "맛이 풍부한",
+   "en": "This soup is very flavorful thanks to fresh herbs.",
+   "ko": "신선한 허브 덕분에 이 수프는 맛이 아주 풍부해요."
+  },
+  {
+   "word": "flavored",
+   "pos": "형용사",
+   "meaning": "~맛이 나는",
+   "en": "I ordered strawberry-flavored milk.",
+   "ko": "나는 딸기 맛 우유를 주문했어요."
+  },
+  {
+   "word": "flavorless",
+   "pos": "형용사",
+   "meaning": "맛이 없는, 밋밋한",
+   "en": "The hospital food was flavorless.",
+   "ko": "병원 음식은 맛이 밋밋했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이스크림 가게의 알록달록한 맛 진열대",
+ "imageCaption": "초코, 딸기, 민트… 서른 가지 맛이 줄지어 있는 아이스크림 진열대를 떠올려 보세요.",
+ "movieLineEn": "This cake has the flavor of my childhood.",
+ "movieLineKo": "이 케이크에서 내 어린 시절의 맛이 나.",
+ "storyTitle": "민트초코 전쟁",
+ "story": "아이스크림 가게에 새 flavor(맛)가 나왔어요. 이름은 '민트초코 김치'! 사장님은 아주 flavorful(맛이 풍부한)하다고 했지만, 손님들은 망설였죠. 한 손님이 용기 내 먹고 외쳤어요. \"치약 flavored(맛이 나는) 김치예요!\" 다른 손님은 flavorless(밋밋한)하다고 했고요. 그런데 다음 날, 그 맛이 매진됐대요!"
+}

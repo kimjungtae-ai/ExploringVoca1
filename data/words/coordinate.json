@@ -1,0 +1,81 @@
+{
+ "word": "coordinate",
+ "pos": "동사 / 명사",
+ "phonetic": "[koʊˈɔːrdɪneɪt]",
+ "meaning": "조정하다, 조직화하다, (몸을) 협응하다 / 좌표",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "함께 (together)",
+   "note": "con-이 모음 앞에서 줄어든 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ordin",
+   "meaning": "순서, 질서 (order)",
+   "note": "라틴어 ordo(줄, 순서)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (함께) + <strong>ordin</strong> (순서) + <strong>-ate</strong> (~하다) = '여러 것을 함께 질서 있게 맞추다'에서 <strong>'조정하다, 조직화하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 ordo, '가지런한 줄'",
+ "historyBody": "coordinate는 중세 라틴어 coordinare(함께 정렬하다)에서 왔어요. co-(함께)와 ordinare(순서대로 놓다)가 합쳐진 말이고, ordinare의 뿌리 ordo는 '줄, 순서'라는 뜻으로 order에 그대로 남아 있어요. 수학의 '좌표(coordinates)'도 위치를 질서 있게 나타낸다는 뜻에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "coordination",
+   "pos": "명사",
+   "meaning": "조정, 협응",
+   "en": "Playing the piano requires good hand coordination.",
+   "ko": "피아노를 치려면 손의 협응력이 좋아야 해요."
+  },
+  {
+   "word": "coordinator",
+   "pos": "명사",
+   "meaning": "진행자, 코디네이터",
+   "en": "The event coordinator planned every detail.",
+   "ko": "행사 진행자가 모든 세부 사항을 계획했어요."
+  },
+  {
+   "word": "order",
+   "pos": "명사/동사",
+   "meaning": "순서, 질서, 주문 / 명령하다, 주문하다",
+   "en": "Please line up in order of height.",
+   "ko": "키 순서대로 줄을 서 주세요."
+  },
+  {
+   "word": "ordinary",
+   "pos": "형용사",
+   "meaning": "보통의, 평범한",
+   "en": "It was just an ordinary day at school.",
+   "ko": "그날은 학교에서 그냥 평범한 하루였어요."
+  },
+  {
+   "word": "extraordinary",
+   "pos": "형용사",
+   "meaning": "비범한, 놀라운",
+   "en": "She has an extraordinary talent for music.",
+   "ko": "그녀는 음악에 놀라운 재능이 있어요."
+  },
+  {
+   "word": "subordinate",
+   "pos": "명사/형용사",
+   "meaning": "부하 / 종속된",
+   "en": "The manager treated his subordinates with respect.",
+   "ko": "그 관리자는 부하 직원들을 존중했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지휘자가 여러 악기 소리를 하나로 맞추는 장면",
+ "imageCaption": "지휘봉 하나로 바이올린, 드럼, 플루트를 맞추는 지휘자를 떠올려 보세요. 여럿을 질서 있게 맞추는 것이 coordinate예요.",
+ "movieLineEn": "Send me the coordinates, and I'll be there in ten minutes.",
+ "movieLineKo": "좌표를 보내 줘. 10분 안에 갈게.",
+ "storyTitle": "생일 파티 지휘관",
+ "story": "나는 친구의 깜짝 파티를 coordinate(조정하다)했어요. 케이크 order(주문)부터 풍선까지 완벽한 coordination(조정)이었죠. ordinary(평범한) 파티가 아닌 extraordinary(놀라운) 파티가 될 예정이었어요. 그런데 친구에게 시간을 알려 주는 걸 잊어서, 주인공만 빼고 다 모였대요!"
+}

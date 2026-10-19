@@ -1,0 +1,68 @@
+{
+ "word": "seatmate",
+ "pos": "명사",
+ "phonetic": "[ˈsiːtmeɪt]",
+ "meaning": "옆자리 사람, 짝",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "seat",
+   "meaning": "자리 (seat)",
+   "note": "앉는 자리를 뜻해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mate",
+   "meaning": "친구, 동료 (companion)",
+   "note": "중세 저지 독일어 'mate(함께 음식을 나누는 사람)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>seat</strong> (자리) + <strong>mate</strong> (친구) = 자리를 함께 쓰는 친구, 즉 <strong>'옆자리 사람, 짝'</strong>이에요.",
+ "historyTitle": "밥을 나누던 친구, mate",
+ "historyBody": "mate는 중세 저지 독일어에서 '함께 음식을 나누는 동료'를 뜻하던 말이 영어로 들어온 거예요. 그래서 classmate, roommate처럼 '무언가를 같이 하는 사람'에 붙어요. seatmate는 '같은 자리를 나눠 쓰는 사람'이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "classmate",
+   "pos": "명사",
+   "meaning": "반 친구",
+   "en": "My classmate and I studied together for the final exam.",
+   "ko": "반 친구와 나는 기말고사를 함께 공부했어요."
+  },
+  {
+   "word": "roommate",
+   "pos": "명사",
+   "meaning": "룸메이트, 방 친구",
+   "en": "My roommate always wakes up earlier than me.",
+   "ko": "내 룸메이트는 늘 나보다 일찍 일어나요."
+  },
+  {
+   "word": "teammate",
+   "pos": "명사",
+   "meaning": "팀 동료",
+   "en": "She passed the ball to her teammate at the last second.",
+   "ko": "그녀는 마지막 순간에 팀 동료에게 공을 패스했어요."
+  },
+  {
+   "word": "seat",
+   "pos": "명사",
+   "meaning": "좌석",
+   "en": "There was no empty seat on the crowded bus.",
+   "ko": "붐비는 버스에는 빈 좌석이 없었어요."
+  },
+  {
+   "word": "seating",
+   "pos": "명사",
+   "meaning": "좌석 배치",
+   "en": "The seating in the classroom changes every month.",
+   "ko": "교실 자리 배치는 매달 바뀌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교실에서 나란히 앉은 두 학생이 교과서를 함께 보는 장면",
+ "imageCaption": "책상을 나란히 붙이고 앉은 짝꿍이 지우개를 빌려주는 모습을 떠올려 보세요.",
+ "movieLineEn": "You're my seatmate for the next ten hours. Nice to meet you!",
+ "movieLineKo": "앞으로 10시간 동안 네가 내 옆자리야. 만나서 반가워!",
+ "storyTitle": "비행기 옆자리의 정체",
+ "story": "비행기에서 seatmate(옆자리 사람)가 계속 코를 골았어요. 내 seat(좌석)을 바꾸려다 보니 그 사람은 우리 반 classmate(반 친구)의 아빠였죠! 게다가 내 roommate(룸메이트)의 삼촌이기도 했어요. 세상 참 좁다며 둘이 기내식만 세 번 먹었어요."
+}

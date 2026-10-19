@@ -1,0 +1,68 @@
+{
+ "word": "broaden",
+ "pos": "동사",
+ "phonetic": "[ˈbrɔːdn]",
+ "meaning": "넓히다, 넓어지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "broad",
+   "meaning": "넓은 (wide)",
+   "note": "고대 영어 brād(넓은)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 만들다 (make)",
+   "note": "형용사를 '~하게 하다'라는 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>broad</strong> (넓은) + <strong>-en</strong> (~하게 만들다) = <strong>'넓히다'</strong>예요.",
+ "historyTitle": "넓은 길을 뜻하던 broad",
+ "historyBody": "broad는 고대 영어 brād(넓은)에서 온 게르만어예요. abroad(해외에)는 원래 'on broad', 즉 '넓게, 사방으로 퍼져서'라는 뜻이었다가 '집 밖으로, 나라 밖으로'가 되었어요. broaden은 여기에 -en이 붙어 1700년대부터 널리 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "broad",
+   "pos": "형용사",
+   "meaning": "넓은, 폭넓은",
+   "en": "He has a broad knowledge of history.",
+   "ko": "그는 역사에 관해 폭넓은 지식을 갖고 있어."
+  },
+  {
+   "word": "breadth",
+   "pos": "명사",
+   "meaning": "폭, 너비",
+   "en": "The breadth of her reading surprised the teacher.",
+   "ko": "그녀의 폭넓은 독서량에 선생님이 놀라셨어."
+  },
+  {
+   "word": "abroad",
+   "pos": "부사",
+   "meaning": "해외에, 해외로",
+   "en": "My cousin is studying abroad in Canada.",
+   "ko": "내 사촌은 캐나다에서 유학 중이야."
+  },
+  {
+   "word": "broadly",
+   "pos": "부사",
+   "meaning": "대체로, 넓게",
+   "en": "She smiled broadly when she heard the news.",
+   "ko": "그 소식을 듣고 그녀는 활짝 웃었어."
+  },
+  {
+   "word": "broadcast",
+   "pos": "동사",
+   "meaning": "방송하다",
+   "en": "The game will be broadcast tonight.",
+   "ko": "그 경기는 오늘 밤 방송될 거야."
+  }
+ ],
+ "imageSense": "대표 의미: 좁은 길이 넓은 도로로 확장되는 장면",
+ "imageCaption": "좁은 골목이 공사 뒤 넓은 길로 바뀌는 모습, 그리고 책을 읽으며 생각의 폭이 넓어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Reading will broaden your mind more than any game.",
+ "movieLineKo": "독서는 어떤 게임보다도 네 생각을 넓혀 줄 거야.",
+ "storyTitle": "생각을 넓히는 여행",
+ "story": "시야를 broaden(넓히다)하고 싶었던 현우는 abroad(해외로) 여행을 떠났어요. 다양한 문화를 보며 broad(폭넓은) 지식을 쌓겠다고 다짐했죠. 그런데 돌아와서 보니 넓어진 건 생각이 아니라 허리둘레였어요! 맛집 투어의 breadth(폭)가 너무 넓었거든요."
+}

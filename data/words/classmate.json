@@ -1,0 +1,68 @@
+{
+ "word": "classmate",
+ "pos": "명사",
+ "phonetic": "[ˈklæsmeɪt]",
+ "meaning": "반 친구, 급우",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "class",
+   "meaning": "학급, 계급 (class)",
+   "note": "라틴어 classis(로마 시민의 등급)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mate",
+   "meaning": "동료, 짝 (companion)",
+   "note": "중세 저지 독일어 gemate(함께 밥 먹는 사람)에서 온 바탕 단어예요."
+  }
+ ],
+ "summary": "<strong>class</strong> (학급) + <strong>mate</strong> (짝, 동료) = '같은 반의 짝'이라는 데서 <strong>'반 친구, 급우'</strong>가 되었습니다.",
+ "historyTitle": "밥을 같이 먹는 동료",
+ "historyBody": "class는 고대 로마에서 시민을 재산에 따라 나눈 등급 classis에서 왔어요. mate는 중세 저지 독일어 gemate에서 왔는데, '함께 식사하는 사람'이라는 뜻이었고 meat(고기, 원래는 '음식')와 친척이에요. 같은 반에서 함께 밥 먹는 친구가 바로 classmate인 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "class",
+   "pos": "명사",
+   "meaning": "학급, 수업, 계층",
+   "en": "Our English class starts at nine.",
+   "ko": "우리 영어 수업은 9시에 시작해요."
+  },
+  {
+   "word": "classify",
+   "pos": "동사",
+   "meaning": "분류하다",
+   "en": "Scientists classify animals into groups.",
+   "ko": "과학자들은 동물을 여러 무리로 분류해요."
+  },
+  {
+   "word": "classic",
+   "pos": "형용사/명사",
+   "meaning": "고전적인, 일류의 / 고전",
+   "en": "This novel is a classic that everyone should read.",
+   "ko": "이 소설은 모두가 읽어야 할 고전이에요."
+  },
+  {
+   "word": "roommate",
+   "pos": "명사",
+   "meaning": "룸메이트, 방 친구",
+   "en": "My roommate always forgets to turn off the light.",
+   "ko": "내 룸메이트는 늘 불 끄는 걸 잊어버려."
+  },
+  {
+   "word": "teammate",
+   "pos": "명사",
+   "meaning": "팀 동료",
+   "en": "She passed the ball to her teammate.",
+   "ko": "그녀는 팀 동료에게 공을 패스했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 같은 교실에서 나란히 앉아 도시락을 나눠 먹는 친구들",
+ "imageCaption": "같은 반(class)에서 함께 밥 먹는 짝(mate)을 떠올려 보세요.",
+ "movieLineEn": "Hey, aren't you my classmate from middle school?",
+ "movieLineKo": "야, 너 중학교 때 우리 반 친구 아니야?",
+ "storyTitle": "수상한 전학생",
+ "story": "새로 온 classmate(반 친구)는 말이 없었어요. 체육 시간에 teammate(팀 동료)가 되자 놀라운 실력을 보여 줬죠. 기숙사 roommate(룸메이트)도 그의 정체를 몰랐어요. 친구들은 그를 '천재'로 classify(분류하다)했는데, 알고 보니 3년 꿇은 선배였대요!"
+}

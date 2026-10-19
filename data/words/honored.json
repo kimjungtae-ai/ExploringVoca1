@@ -1,0 +1,68 @@
+{
+ "word": "honored",
+ "pos": "형용사",
+ "phonetic": "[ˈɑːnərd]",
+ "meaning": "영광스러운, 명예로운, 존경받는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "honor",
+   "meaning": "명예, 존경 (honor)",
+   "note": "라틴어 honor(명예, 존경)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~을 받은",
+   "note": "'명예를 받은' 상태를 나타내는 형용사 어미예요."
+  }
+ ],
+ "summary": "<strong>honor</strong> (명예) + <strong>-ed</strong> (~을 받은) = 명예를 받은 느낌이라는 뜻에서 <strong>'영광스러운'</strong>이 되었어요.",
+ "historyTitle": "로마의 명예 여신, 호노스",
+ "historyBody": "honor는 라틴어 honor(명예, 존경, 관직)에서 고대 프랑스어를 거쳐 영어로 들어왔어요. 로마 사람들은 명예를 Honos라는 신으로 모시기도 했대요. honest(정직한)도 라틴어 honestus(존경받을 만한)에서 왔으니 같은 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "honor",
+   "pos": "명사 / 동사",
+   "meaning": "명예, 영광 / 존경하다",
+   "en": "It is an honor to meet you.",
+   "ko": "당신을 만나게 되어 영광이에요."
+  },
+  {
+   "word": "honorable",
+   "pos": "형용사",
+   "meaning": "존경할 만한, 명예로운",
+   "en": "He made an honorable decision to tell the truth.",
+   "ko": "그는 사실을 말하는 명예로운 결정을 했어."
+  },
+  {
+   "word": "dishonor",
+   "pos": "명사 / 동사",
+   "meaning": "불명예 / 명예를 더럽히다",
+   "en": "Cheating on the test would bring dishonor to the team.",
+   "ko": "시험에서 부정행위를 하면 팀에 불명예가 될 거야."
+  },
+  {
+   "word": "honest",
+   "pos": "형용사",
+   "meaning": "정직한",
+   "en": "Thank you for being honest with me.",
+   "ko": "나에게 솔직하게 말해 줘서 고마워."
+  },
+  {
+   "word": "honorary",
+   "pos": "형용사",
+   "meaning": "명예의 (직함)",
+   "en": "She received an honorary degree from the university.",
+   "ko": "그녀는 그 대학에서 명예 학위를 받았어."
+  }
+ ],
+ "imageSense": "대표 의미: 단상에서 상을 받으며 고개 숙여 인사하는 장면",
+ "imageCaption": "시상식에서 '이 상을 받게 되어 영광입니다'라고 말하는 순간을 떠올려 보세요.",
+ "movieLineEn": "I'm honored to stand beside you today.",
+ "movieLineKo": "오늘 당신 곁에 서게 되어 영광이에요.",
+ "storyTitle": "명예 시민 고양이",
+ "story": "시장님은 동네 고양이에게 honorary(명예의) 시민증을 주었어요. 고양이는 honored(영광스러운) 표정으로 꼬리를 세웠죠. 사람들은 '정말 honorable(존경할 만한) 고양이야!'라며 박수쳤어요. 그때 honest(정직한) 꼬마가 외쳤어요. '저 고양이, 어제 생선 가게에서 생선 훔쳤어요!' 고양이는 dishonor(불명예)를 피해 줄행랑쳤답니다."
+}

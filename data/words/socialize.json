@@ -1,0 +1,74 @@
+{
+ "word": "socialize",
+ "pos": "동사",
+ "phonetic": "[ˈsoʊʃəlaɪz]",
+ "meaning": "사람들과 어울리다, 사교 활동을 하다, 사회화하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "soci",
+   "meaning": "동료, 친구 (companion)",
+   "note": "라틴어 socius는 '함께하는 동료'라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "social은 '사회의, 사교적인'이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하다, ~하게 만들다 (동사)",
+   "note": "형용사를 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>soci</strong> (동료) + <strong>-al</strong> (~의) + <strong>-ize</strong> (~하다) = '동료처럼 함께 지내다', 즉 <strong>'사람들과 어울리다'</strong>입니다.",
+ "historyTitle": "동료를 뜻하던 라틴어 socius",
+ "historyBody": "라틴어 socius(동료)에서 socialis(동료의)가 나왔고, 영어 social이 되었어요. socialize는 17세기에 '사회적으로 만들다'라는 뜻으로 처음 쓰였고, 20세기 들어 '사람들과 어울려 놀다'라는 뜻이 널리 퍼졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "social",
+   "pos": "형용사",
+   "meaning": "사회의, 사교적인",
+   "en": "Humans are social animals who need friends.",
+   "ko": "인간은 친구가 필요한 사회적 동물이에요."
+  },
+  {
+   "word": "society",
+   "pos": "명사",
+   "meaning": "사회",
+   "en": "Our society is changing quickly because of technology.",
+   "ko": "우리 사회는 기술 때문에 빠르게 변하고 있어요."
+  },
+  {
+   "word": "sociable",
+   "pos": "형용사",
+   "meaning": "사교적인, 붙임성 있는",
+   "en": "My cousin is so sociable that everyone likes her.",
+   "ko": "내 사촌은 아주 붙임성이 좋아서 모두가 그녀를 좋아해요."
+  },
+  {
+   "word": "associate",
+   "pos": "동사",
+   "meaning": "연관 짓다, 어울리다",
+   "en": "Many people associate summer with the beach.",
+   "ko": "많은 사람들은 여름을 해변과 연관 지어요."
+  },
+  {
+   "word": "association",
+   "pos": "명사",
+   "meaning": "협회, 연관",
+   "en": "She joined a local association for young writers.",
+   "ko": "그녀는 젊은 작가들을 위한 지역 협회에 가입했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 파티에서 사람들이 음료를 들고 웃으며 이야기하는 장면",
+ "imageCaption": "새 학기 첫날, 처음 보는 친구들과 말을 트며 어울리는 장면을 떠올려 보세요.",
+ "movieLineEn": "Come on, put down your phone and socialize a little!",
+ "movieLineKo": "자, 휴대폰 좀 내려놓고 사람들이랑 좀 어울려 봐!",
+ "storyTitle": "파티에 간 내향인 판다",
+ "story": "내향적인 판다는 엄마 말에 파티에 가서 socialize(어울리다)해 보기로 했어요. social(사교적인) 원숭이들은 너무 시끄러웠죠. 판다는 sociable(붙임성 있는) 척 웃으며 대나무 association(협회) 회원들과 인사했어요. 그런데 알고 보니 그 society(모임)는 '조용히 대나무 먹기 클럽'이라 판다는 처음으로 파티가 즐거웠대요!"
+}

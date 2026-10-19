@@ -1,0 +1,61 @@
+{
+ "word": "noisy",
+ "pos": "형용사",
+ "phonetic": "[ˈnɔɪzi]",
+ "meaning": "시끄러운, 떠들썩한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "noise",
+   "meaning": "소음 (noise)",
+   "note": "고대 프랑스어 noise(소란, 다툼)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~이 가득한 (형용사)",
+   "note": "명사를 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>noise</strong> (소음) + <strong>-y</strong> (가득한) = 소음이 가득한이라서 <strong>'시끄러운'</strong>이 되었어요.",
+ "historyTitle": "기원이 수수께끼인 noise",
+ "historyBody": "noise는 고대 프랑스어 noise(소란, 다툼)에서 왔어요. 그 이전 기원은 확실하지 않은데, 라틴어 nausea(뱃멀미)에서 '불쾌함, 소동'으로 뜻이 바뀌었다는 설과 noxia(해로움)에서 왔다는 설 등이 있어요. 학자들 사이에서도 아직 결론이 나지 않았답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "noise",
+   "pos": "명사",
+   "meaning": "소음",
+   "en": "The noise from the construction site kept me awake.",
+   "ko": "공사장 소음 때문에 잠을 못 잤어요."
+  },
+  {
+   "word": "noisily",
+   "pos": "부사",
+   "meaning": "시끄럽게",
+   "en": "The children ran noisily down the hallway.",
+   "ko": "아이들이 복도를 시끄럽게 뛰어갔어요."
+  },
+  {
+   "word": "noiseless",
+   "pos": "형용사",
+   "meaning": "소리 없는, 조용한",
+   "en": "The new fan is almost noiseless.",
+   "ko": "새 선풍기는 거의 소리가 나지 않아요."
+  },
+  {
+   "word": "noise-canceling",
+   "pos": "형용사",
+   "meaning": "소음을 차단하는",
+   "en": "I use noise-canceling headphones on the subway.",
+   "ko": "나는 지하철에서 소음 차단 헤드폰을 써요."
+  }
+ ],
+ "imageSense": "대표 의미: 냄비 뚜껑을 두드리며 떠드는 아이들로 가득한 교실",
+ "imageCaption": "쉬는 시간 종이 울리자마자 왁자지껄해진 교실을 떠올려 보세요.",
+ "movieLineEn": "Shh! Don't be so noisy, or they'll hear us!",
+ "movieLineKo": "쉿! 너무 시끄럽게 하지 마. 그들이 우리 소리를 듣겠어!",
+ "storyTitle": "도서관의 범인",
+ "story": "조용한 도서관에 갑자기 noisy(시끄러운) 소리가 났어요. 사서 선생님이 noise(소음)의 범인을 찾아 나섰죠. 다들 noiseless(소리 없는) 표정으로 책만 봤어요. 범인은 noisily(시끄럽게) 코를 골며 자던 사서 선생님 본인의 휴대폰 알람이었답니다."
+}

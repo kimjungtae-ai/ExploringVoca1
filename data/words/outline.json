@@ -1,0 +1,68 @@
+{
+ "word": "outline",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈaʊtlaɪn]",
+ "meaning": "윤곽, 개요 / 개요를 서술하다, 윤곽을 그리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "바깥 (outer)",
+   "note": "바깥쪽 가장자리를 뜻해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "line",
+   "meaning": "선 (line)",
+   "note": "라틴어 linea(아마 실, 줄)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>out</strong> (바깥) + <strong>line</strong> (선) = '바깥 테두리 선'이라는 뜻에서 <strong>'윤곽, 개요'</strong>가 되었어요.",
+ "historyTitle": "아마 실에서 시작된 선",
+ "historyBody": "outline은 17세기에 그림의 '바깥 테두리 선'을 뜻하는 말로 쓰이기 시작했어요. line은 라틴어 linea에서 왔는데, 원래 '아마(linen)로 만든 실'이라는 뜻이었어요. 실을 팽팽히 당기면 곧은 줄이 되니까 '선'이라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "line",
+   "pos": "명사",
+   "meaning": "선, 줄",
+   "en": "Please wait in line until your name is called.",
+   "ko": "이름이 불릴 때까지 줄을 서서 기다려 주세요."
+  },
+  {
+   "word": "linear",
+   "pos": "형용사",
+   "meaning": "선형의, 직선의",
+   "en": "The story is not linear; it jumps between past and present.",
+   "ko": "그 이야기는 일직선이 아니라 과거와 현재를 오가요."
+  },
+  {
+   "word": "deadline",
+   "pos": "명사",
+   "meaning": "마감 기한",
+   "en": "The deadline for the essay is next Monday.",
+   "ko": "에세이 마감은 다음 주 월요일이에요."
+  },
+  {
+   "word": "guideline",
+   "pos": "명사",
+   "meaning": "지침",
+   "en": "Follow the safety guidelines during the experiment.",
+   "ko": "실험 중에는 안전 지침을 따르세요."
+  },
+  {
+   "word": "headline",
+   "pos": "명사",
+   "meaning": "(기사) 제목",
+   "en": "The news headline caught my attention.",
+   "ko": "그 뉴스 제목이 내 눈길을 끌었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 연필로 산의 바깥 테두리 선만 먼저 그려 놓은 장면",
+ "imageCaption": "색칠하기 전에 그림의 테두리만 쓱 그린 스케치를 떠올려 보세요. 큰 틀만 보여 주는 게 outline이에요.",
+ "movieLineEn": "Here's the outline of the plan. The details come later.",
+ "movieLineKo": "이게 계획의 개요야. 세부 사항은 나중에 말해 줄게.",
+ "storyTitle": "마감 전날의 개요",
+ "story": "deadline(마감 기한) 하루 전, 준호는 보고서 outline(개요)만 겨우 썼어요. 선생님의 guideline(지침)대로 line(줄)을 맞춰 정리했죠. 다음 날 신문 headline(제목)에 '고등학생 보고서, 개요만으로 상 받아'가 실렸어요. 사실 그 대회 이름이 '개요 대회'였거든요."
+}

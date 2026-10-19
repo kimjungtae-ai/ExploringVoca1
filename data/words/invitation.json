@@ -1,0 +1,61 @@
+{
+ "word": "invitation",
+ "pos": "명사",
+ "phonetic": "[ˌɪnvɪˈteɪʃn]",
+ "meaning": "초대, 초대장, 권유",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "invite",
+   "meaning": "초대하다 (invite)",
+   "note": "라틴어 invitare에서 왔는데, 더 깊은 뿌리는 확실하지 않아요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (act of)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>invite</strong> (초대하다) + <strong>-ation</strong> (~하는 것) = '초대하는 일'이라서 <strong>'초대, 초대장'</strong>이에요.",
+ "historyTitle": "뿌리가 수수께끼인 라틴어 invitare",
+ "historyBody": "invitation은 라틴어 invitatio에서, invite는 라틴어 invitare('초대하다, 권하다')에서 왔어요. invitare를 in-과 다른 어근으로 더 쪼개는 설명이 있지만 사전들도 확실하다고 보지 않아요. 그래서 이 단어는 invite + -ation 정도로만 나눠 외우는 게 정직한 방법이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "invite",
+   "pos": "동사",
+   "meaning": "초대하다, 요청하다",
+   "en": "Let's invite our classmates to the party.",
+   "ko": "반 친구들을 파티에 초대하자."
+  },
+  {
+   "word": "inviting",
+   "pos": "형용사",
+   "meaning": "매력적인, 솔깃한",
+   "en": "The warm café looked very inviting on a cold day.",
+   "ko": "추운 날 그 따뜻한 카페는 아주 들어가고 싶어 보였어요."
+  },
+  {
+   "word": "uninvited",
+   "pos": "형용사",
+   "meaning": "초대받지 않은",
+   "en": "An uninvited guest showed up at the wedding.",
+   "ko": "초대받지 않은 손님이 결혼식에 나타났어요."
+  },
+  {
+   "word": "invitee",
+   "pos": "명사",
+   "meaning": "초대받은 사람",
+   "en": "Each invitee received a small gift at the door.",
+   "ko": "초대받은 사람은 각자 문 앞에서 작은 선물을 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 리본이 묶인 예쁜 초대장을 친구에게 건네는 장면",
+ "imageCaption": "봉투를 열자 '내 생일 파티에 와 줘!'라고 쓰인 카드가 나오는 모습을 떠올려 보세요.",
+ "movieLineEn": "Thank you for the invitation. I wouldn't miss it for the world.",
+ "movieLineKo": "초대해 줘서 고마워. 무슨 일이 있어도 꼭 갈게.",
+ "storyTitle": "초대장의 반전",
+ "story": "곰이 숲속 친구들에게 invitation(초대장)을 보냈어요. 꿀 파티에 invite(초대하다)한다는 글에 모두 설렜죠. 파티장은 정말 inviting(매력적인) 분위기였어요. 그런데 uninvited(초대받지 않은) 벌떼가 몰려왔어요. 알고 보니 곰이 쓴 꿀이 전부 벌집에서 몰래 가져온 거였거든요!"
+}

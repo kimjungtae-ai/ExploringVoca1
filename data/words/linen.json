@@ -1,0 +1,54 @@
+{
+ "word": "linen",
+ "pos": "명사",
+ "phonetic": "[ˈlɪnɪn]",
+ "meaning": "리넨, 아마포, (침대보·식탁보 등) 리넨 제품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "lin",
+   "meaning": "아마 (flax)",
+   "note": "라틴어 linum(아마, 아마실)에서 온 부분이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~로 만든 (made of)",
+   "note": "wooden, golden처럼 '~로 된'을 뜻하는 옛 형용사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>lin</strong> (아마) + <strong>-en</strong> (~로 만든) = '아마로 만든 천'이라는 뜻에서 <strong>'리넨, 아마포'</strong>가 되었습니다.",
+ "historyTitle": "이집트 미라가 입은 옷감",
+ "historyBody": "고대 영어 līnen은 원래 '아마로 만든'이라는 형용사였고, līn(아마)은 라틴어 linum에서 왔어요. 아마 섬유로 짠 천은 고대 이집트에서 미라를 감싸는 데 쓰일 만큼 오래된 옷감이랍니다. 지금도 침대 시트나 식탁보를 통틀어 'linen'이라고 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "line",
+   "pos": "명사",
+   "meaning": "선, 줄",
+   "en": "Please wait in line until your name is called.",
+   "ko": "이름이 불릴 때까지 줄을 서서 기다려 주세요."
+  },
+  {
+   "word": "linear",
+   "pos": "형용사",
+   "meaning": "직선의, 선형의",
+   "en": "The story does not follow a linear timeline.",
+   "ko": "그 이야기는 직선적인 시간 순서를 따르지 않아요."
+  },
+  {
+   "word": "lining",
+   "pos": "명사",
+   "meaning": "안감",
+   "en": "My winter coat has a soft, warm lining.",
+   "ko": "내 겨울 코트에는 부드럽고 따뜻한 안감이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇살 아래 하얀 리넨 침대 시트가 빨랫줄에 펄럭이는 장면",
+ "imageCaption": "까슬까슬하면서 시원한 하얀 천을 떠올려 보세요. 아마 줄기에서 뽑은 실로 짠 천이 linen이에요.",
+ "movieLineEn": "Fresh linen for the guests, please!",
+ "movieLineKo": "손님들을 위해 깨끗한 리넨을 준비해 줘요!",
+ "storyTitle": "호텔 리넨의 비밀",
+ "story": "호텔 직원 지수는 하얀 linen(리넨)을 긴 line(줄)에 널었어요. 시트들은 linear(직선의)로 반듯하게 걸렸죠. 그때 바람이 불어 코트 lining(안감) 같은 천 하나가 날아갔어요. 쫓아가 보니 그건 시트가 아니라 사장님의 하얀 망토였지 뭐예요!"
+}

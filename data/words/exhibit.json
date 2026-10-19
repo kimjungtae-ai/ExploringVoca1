@@ -1,0 +1,68 @@
+{
+ "word": "exhibit",
+ "pos": "동사 / 명사",
+ "phonetic": "[ɪɡˈzɪbɪt]",
+ "meaning": "전시하다, (감정·특징을) 보이다 / 전시품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "사람들이 볼 수 있게 밖으로 내놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hibit / hab",
+   "meaning": "가지다, 잡다 (hold, have)",
+   "note": "라틴어 habere(가지다, 붙잡다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>hibit</strong> (잡다, 가지다) = '가진 것을 밖으로 들어 보이다'에서 <strong>'전시하다, 보이다'</strong>가 되었어요.",
+ "historyTitle": "손에 든 것을 내보이다",
+ "historyBody": "exhibit는 라틴어 'exhibere(내보이다, 제시하다)'의 과거분사 exhibitus에서 왔어요. habere(가지다)가 다른 말과 합쳐질 때 -hibere로 모양이 바뀌어요. 법정에서 '증거물'을 exhibit라고 부르는 것도 '사람들 앞에 내놓은 것'이라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "exhibition",
+   "pos": "명사",
+   "meaning": "전시회, 전시",
+   "en": "We visited a photo exhibition downtown.",
+   "ko": "우리는 시내에서 사진 전시회를 관람했어요."
+  },
+  {
+   "word": "prohibit",
+   "pos": "동사",
+   "meaning": "금지하다",
+   "en": "Smoking is prohibited in this building.",
+   "ko": "이 건물에서는 흡연이 금지되어 있어요."
+  },
+  {
+   "word": "inhibit",
+   "pos": "동사",
+   "meaning": "억제하다, 방해하다",
+   "en": "Fear can inhibit your ability to learn.",
+   "ko": "두려움은 배우는 능력을 방해할 수 있어요."
+  },
+  {
+   "word": "habit",
+   "pos": "명사",
+   "meaning": "습관",
+   "en": "Reading before bed is a good habit.",
+   "ko": "자기 전에 책 읽는 건 좋은 습관이에요."
+  },
+  {
+   "word": "inhabit",
+   "pos": "동사",
+   "meaning": "살다, 거주하다",
+   "en": "Penguins inhabit the cold Antarctic coast.",
+   "ko": "펭귄은 추운 남극 해안에 살아요."
+  }
+ ],
+ "imageSense": "대표 의미: 미술관 유리 진열장에 놓인 도자기",
+ "imageCaption": "귀한 물건을 사람들이 볼 수 있게 밖으로 꺼내 진열하는 모습을 떠올려 보세요.",
+ "movieLineEn": "The museum will exhibit the stolen painting tomorrow.",
+ "movieLineKo": "박물관은 내일 그 도난당했던 그림을 전시할 거야.",
+ "storyTitle": "수상한 전시품",
+ "story": "미술관은 고양이 그림을 exhibit(전시하다)하기로 했어요. 사진 촬영은 prohibit(금지하다)됐죠. 그런데 관람객들은 웃음을 inhibit(억제하다)할 수 없었어요. 액자 속 그림 대신, 진짜 고양이가 낮잠 자는 habit(습관)대로 액자 안에 누워 있었거든요!"
+}

@@ -1,0 +1,62 @@
+{
+ "word": "stand",
+ "pos": "동사 / 명사",
+ "phonetic": "[stænd]",
+ "meaning": "서다, 참다, 견디다 / 가판대, 입장",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stand (standan)",
+   "meaning": "서다 (stand)",
+   "note": "고대 영어 standan에서 온 게르만계 기본 단어예요."
+  }
+ ],
+ "summary": "<strong>stand</strong> (고대 영어 standan: 서다) = 두 발로 버티고 서는 것에서 <strong>'서다, 견디다, 입장'</strong>이 되었습니다.",
+ "historyTitle": "인도유럽어의 아주 오래된 '서다'",
+ "historyBody": "stand는 고대 영어 standan에서 온 단어로, 라틴어 stare(서다), 그리스어 histanai(세우다)와 같은 인도유럽 조어 뿌리 *stā-를 공유하는 먼 친척이에요. 그래서 영어 stand와 라틴계 단어 status, station은 아주 먼 사촌 사이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "understand",
+   "pos": "동사",
+   "meaning": "이해하다",
+   "en": "I can't understand this math problem.",
+   "ko": "나는 이 수학 문제를 이해할 수 없어요."
+  },
+  {
+   "word": "withstand",
+   "pos": "동사",
+   "meaning": "견뎌 내다",
+   "en": "This bridge can withstand strong earthquakes.",
+   "ko": "이 다리는 강한 지진을 견뎌 낼 수 있어요."
+  },
+  {
+   "word": "outstanding",
+   "pos": "형용사",
+   "meaning": "뛰어난, 두드러진",
+   "en": "She is an outstanding student in our class.",
+   "ko": "그녀는 우리 반에서 뛰어난 학생이에요."
+  },
+  {
+   "word": "bystander",
+   "pos": "명사",
+   "meaning": "구경꾼, 방관자",
+   "en": "A bystander called the police after the accident.",
+   "ko": "사고 후에 한 구경꾼이 경찰에 신고했어요."
+  },
+  {
+   "word": "standpoint",
+   "pos": "명사",
+   "meaning": "관점, 입장",
+   "en": "From an economic standpoint, the plan is risky.",
+   "ko": "경제적인 관점에서 그 계획은 위험해요."
+  }
+ ],
+ "imageSense": "대표 의미: 거센 바람 속에서도 두 발로 꿋꿋이 서 있는 사람",
+ "imageCaption": "폭풍 속에서도 쓰러지지 않고 버티고 선 나무를 떠올려 보세요.",
+ "movieLineEn": "I can't stand it anymore! Who keeps eating my pudding?",
+ "movieLineKo": "더는 못 참아! 누가 자꾸 내 푸딩을 먹는 거야?",
+ "storyTitle": "서서 자는 말의 고민",
+ "story": "말 히힝이는 서서 자는 게 특기였어요. 친구들은 \"어떻게 그렇게 stand(서다)한 채로 자?\"라며 understand(이해하다)하지 못했죠. 히힝이는 비바람도 withstand(견디다)하는 outstanding(뛰어난) 잠꾸러기였어요. 그런데 어느 날 bystander(구경꾼) 소년이 물었어요. \"누우면 안 돼?\" 히힝이는 처음 누워 보고 사흘 동안 일어나지 않았대요!"
+}

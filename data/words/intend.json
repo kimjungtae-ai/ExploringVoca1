@@ -1,0 +1,75 @@
+{
+ "word": "intend",
+ "pos": "동사",
+ "phonetic": "[ɪnˈtend]",
+ "meaning": "의도하다, ~할 작정이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~쪽으로 (toward)",
+   "note": "무엇을 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tend",
+   "meaning": "뻗다, 당기다 (stretch)",
+   "note": "라틴어 tendere(뻗다, 당기다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~쪽으로) + <strong>tend</strong> (뻗다) = '마음을 목표 쪽으로 쭉 뻗다'라는 뜻에서 <strong>'의도하다'</strong>가 되었습니다.",
+ "historyTitle": "활시위를 당기듯 마음을 뻗다",
+ "historyBody": "라틴어 'intendere'는 '~쪽으로 뻗다, 팽팽히 당기다'라는 뜻이었어요. 활시위를 당겨 과녁을 겨누듯 마음을 어떤 목표로 향하게 하는 것이 '의도'가 된 거죠. intense(강렬한)도 이 단어의 과거분사에서 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "intention",
+   "pos": "명사",
+   "meaning": "의도, 목적",
+   "en": "I had no intention of hurting you.",
+   "ko": "너를 상처 줄 의도는 전혀 없었어."
+  },
+  {
+   "word": "tend",
+   "pos": "동사",
+   "meaning": "~하는 경향이 있다 (~쪽으로 뻗다)",
+   "en": "People tend to eat more when stressed.",
+   "ko": "사람들은 스트레스를 받으면 더 먹는 경향이 있어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 늘리다",
+   "en": "They extended the deadline by a week.",
+   "ko": "그들은 마감일을 일주일 연장했어요."
+  },
+  {
+   "word": "attend",
+   "pos": "동사",
+   "meaning": "참석하다 (~쪽으로 마음을 뻗다)",
+   "en": "I will attend the meeting tomorrow.",
+   "ko": "나는 내일 회의에 참석할 거예요."
+  },
+  {
+   "word": "pretend",
+   "pos": "동사",
+   "meaning": "~인 척하다",
+   "en": "He pretended to be asleep.",
+   "ko": "그는 자는 척했어요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장 (팽팽하게 당김)",
+   "en": "There was tension before the final match.",
+   "ko": "결승전 전에 긴장감이 감돌았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 궁수가 활시위를 당겨 과녁을 겨누는 장면",
+ "imageCaption": "활을 당겨 과녁을 향해 마음을 쭉 뻗는 모습을 떠올려 보세요. 무언가를 하려고 겨누는 것, 그게 intend예요.",
+ "movieLineEn": "I never intended to be a hero.",
+ "movieLineKo": "난 영웅이 될 생각은 전혀 없었어.",
+ "storyTitle": "계획대로 안 되는 다이어트",
+ "story": "형은 다이어트를 intend(의도하다)했지만 밤마다 라면을 끓이는 tend(경향)가 있었어요. 엄마에게 들키자 '친구 생일 파티에 attend(참석하다)할 연습'이라고 pretend(~인 척하다)했죠. 엄마는 웃으며 형의 intention(의도)을 이해해 줬어요. 그리고 라면은 엄마가 다 드셨대요."
+}

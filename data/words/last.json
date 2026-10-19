@@ -1,0 +1,62 @@
+{
+ "word": "last",
+ "pos": "형용사 / 부사 / 동사",
+ "phonetic": "[læst]",
+ "meaning": "마지막의, 지난 / 마지막으로 / 지속되다, 오래가다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "last",
+   "meaning": "가장 늦은 (latest) / 따라가다, 지속하다 (endure)",
+   "note": "'마지막의'는 late의 최상급에서, '지속되다'는 고대 영어 læstan에서 온 서로 다른 단어예요."
+  }
+ ],
+ "summary": "'마지막의' <strong>last</strong>는 late의 최상급 <strong>latost</strong>(가장 늦은)가 줄어든 말이고, '지속되다' <strong>last</strong>는 고대 영어 <strong>læstan</strong>(이어 가다)에서 온 <strong>다른 단어</strong>예요.",
+ "historyTitle": "생김새는 같지만 뿌리는 둘",
+ "historyBody": "'마지막의'를 뜻하는 last는 고대 영어 latost('가장 늦은'), 즉 late의 최상급이 줄어든 말이에요. 반면 '지속되다'의 last는 고대 영어 læstan('발자국을 따라가다, 이어 가다, 견디다')에서 왔어요. 우연히 모양이 같아진 두 단어라서, 문맥에 따라 뜻을 잘 구별해야 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "late",
+   "pos": "형용사 / 부사",
+   "meaning": "늦은 / 늦게",
+   "en": "I was late for school because of the rain.",
+   "ko": "나는 비 때문에 학교에 지각했어요."
+  },
+  {
+   "word": "latest",
+   "pos": "형용사",
+   "meaning": "최신의, 가장 최근의",
+   "en": "Have you heard the latest news?",
+   "ko": "최신 소식 들었어요?"
+  },
+  {
+   "word": "lately",
+   "pos": "부사",
+   "meaning": "최근에",
+   "en": "I haven't seen him lately.",
+   "ko": "나는 최근에 그를 못 봤어요."
+  },
+  {
+   "word": "lasting",
+   "pos": "형용사",
+   "meaning": "오래 지속되는",
+   "en": "The trip left a lasting memory.",
+   "ko": "그 여행은 오래 남는 추억을 남겼어요."
+  },
+  {
+   "word": "everlasting",
+   "pos": "형용사",
+   "meaning": "영원한, 끝없는",
+   "en": "They promised each other everlasting friendship.",
+   "ko": "그들은 서로에게 영원한 우정을 약속했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 달리기 결승선을 맨 마지막으로 통과하지만 끝까지 버틴 선수",
+ "imageCaption": "줄의 맨 끝에 선 사람, 그리고 오랫동안 꺼지지 않고 버티는 촛불을 함께 떠올려 보세요.",
+ "movieLineEn": "This is your last chance. Don't waste it.",
+ "movieLineKo": "이게 네 마지막 기회야. 날리지 마.",
+ "storyTitle": "마지막 과자의 운명",
+ "story": "상자에 last(마지막의) 과자 한 개가 남았어요. 형은 '맛이 오래 last(지속되다)하게 천천히 먹을 거야'라고 했죠. 그런데 late(늦은) 밤, 동생이 몰래 먹어 버렸어요. 다음 날 형은 latest(최신의) 과자를 사 왔는데, 이번엔 고양이가 먹었답니다. 우리 집 과자의 everlasting(끝없는) 비극이죠."
+}

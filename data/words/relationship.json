@@ -1,0 +1,87 @@
+{
+ "word": "relationship",
+ "pos": "명사",
+ "phonetic": "[rɪˈleɪʃənʃɪp]",
+ "meaning": "관계, 관련성, 연관",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "다시 연결해 가져온다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lat",
+   "meaning": "나르다, 가져오다 (carried)",
+   "note": "라틴어 latus는 ferre(나르다)의 과거분사로 쓰이는 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "relate를 명사 relation으로 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ship",
+   "meaning": "상태, 관계 (명사)",
+   "note": "friendship처럼 사람 사이의 상태를 나타내는 영어 고유 접미사예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>lat</strong> (가져오다) + <strong>-ion</strong> + <strong>-ship</strong> (상태) = 서로를 다시 가져와 이어 주는 상태, 즉 <strong>'관계'</strong>예요.",
+ "historyTitle": "라틴어와 고대 영어의 만남",
+ "historyBody": "relate는 라틴어 relatus(다시 가져온, 보고된)에서 왔는데, 이는 referre(다시 나르다)의 과거분사예요. 여기에 고대 영어 -scipe에서 온 -ship이 붙어 17세기쯤 relationship이 생겼어요. 라틴어 뿌리와 영어 접미사가 결합한 재미있는 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relate",
+   "pos": "동사",
+   "meaning": "관련시키다, 공감하다",
+   "en": "Many teens can relate to the main character.",
+   "ko": "많은 십대가 주인공에게 공감할 수 있어요."
+  },
+  {
+   "word": "relation",
+   "pos": "명사",
+   "meaning": "관계, 관련",
+   "en": "There is a close relation between sleep and memory.",
+   "ko": "수면과 기억 사이에는 밀접한 관계가 있어요."
+  },
+  {
+   "word": "relative",
+   "pos": "명사 / 형용사",
+   "meaning": "친척 / 상대적인",
+   "en": "We visited our relatives during the holiday.",
+   "ko": "우리는 명절에 친척들을 방문했어요."
+  },
+  {
+   "word": "relatively",
+   "pos": "부사",
+   "meaning": "비교적, 상대적으로",
+   "en": "The test was relatively easy this time.",
+   "ko": "이번 시험은 비교적 쉬웠어요."
+  },
+  {
+   "word": "translate",
+   "pos": "동사",
+   "meaning": "번역하다",
+   "en": "Can you translate this sentence into English?",
+   "ko": "이 문장을 영어로 번역해 줄 수 있어요?"
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 가리키다",
+   "en": "What does this pronoun refer to?",
+   "ko": "이 대명사는 무엇을 가리키나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 두 사람을 잇는 실, 손을 맞잡은 친구들",
+ "imageCaption": "두 사람 사이에 보이지 않는 끈이 이어져 있는 모습을 상상해 보세요. 서로를 연결하는 그 끈이 relationship이에요.",
+ "movieLineEn": "Our relationship is complicated. Like a puzzle.",
+ "movieLineKo": "우리 관계는 복잡해. 퍼즐처럼.",
+ "storyTitle": "명절의 수수께끼",
+ "story": "명절에 처음 보는 relative(친척)가 인사했어요. 우리 relationship(관계)이 궁금해진 나는 족보를 펼쳤죠. 너무 복잡해서 사촌 형에게 translate(번역하다)를 부탁할 정도였어요. 한참 계산한 끝에 relation(관계)을 알아냈어요. 그분은 친척이 아니라 옆집 아저씨였고, 송편 냄새를 따라 들어온 거였답니다."
+}

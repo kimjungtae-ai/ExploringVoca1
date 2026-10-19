@@ -1,0 +1,55 @@
+{
+ "word": "costume",
+ "pos": "명사",
+ "phonetic": "[ˈkɑːstuːm]",
+ "meaning": "의상, 복장, (특정 시대·지역의) 옷차림",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "consuetudo (라틴어)",
+   "meaning": "관습, 습관 (custom)",
+   "note": "이탈리아어 costume(관습, 옷차림)을 거쳐 영어에 들어왔어요."
+  }
+ ],
+ "summary": "라틴어 <strong>consuetudo</strong> (관습)가 이탈리아어에서 '시대와 지역의 풍습에 맞는 옷차림'을 뜻하게 되면서 <strong>'의상, 복장'</strong>이 되었어요.",
+ "historyTitle": "custom(관습)과 쌍둥이인 단어",
+ "historyBody": "costume은 라틴어 consuetudo(관습)에서 이탈리아어 costume(관습, 풍속)을 거쳐 18세기에 프랑스어와 영어로 들어왔어요. 처음에는 그림 속 인물의 '시대에 맞는 옷차림'을 뜻하는 미술 용어였어요. custom(관습)도 같은 라틴어에서 왔으니, 두 단어는 사실 쌍둥이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "custom",
+   "pos": "명사",
+   "meaning": "관습, 풍습",
+   "en": "It is a Korean custom to bow to elders.",
+   "ko": "어른께 인사하는 것은 한국의 관습이에요."
+  },
+  {
+   "word": "customer",
+   "pos": "명사",
+   "meaning": "손님, 고객",
+   "en": "The shop gives free coffee to its customers.",
+   "ko": "그 가게는 손님들에게 무료 커피를 줘요."
+  },
+  {
+   "word": "accustomed",
+   "pos": "형용사",
+   "meaning": "익숙한",
+   "en": "I am not accustomed to waking up early.",
+   "ko": "나는 일찍 일어나는 데 익숙하지 않아요."
+  },
+  {
+   "word": "customize",
+   "pos": "동사",
+   "meaning": "맞춤 제작하다",
+   "en": "You can customize your sneakers with your name.",
+   "ko": "운동화에 이름을 넣어 맞춤 제작할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 핼러윈에 해적 의상을 입은 아이들",
+ "imageCaption": "해적 모자와 안대를 쓰고 사탕을 받으러 다니는 아이들을 떠올려 보세요. 특별한 옷차림이 costume이에요.",
+ "movieLineEn": "Nobody will recognize me in this costume.",
+ "movieLineKo": "이 의상을 입으면 아무도 날 못 알아볼 거야.",
+ "storyTitle": "공룡 의상의 대반전",
+ "story": "핼러윈에 나는 공룡 costume(의상)을 입었어요. 옷 가게 customer(손님) 중 내가 제일 멋졌죠! 우리 동네 custom(풍습)대로 집집마다 사탕을 받으러 갔어요. 무거운 옷에 accustomed(익숙한)해질 무렵, 강아지가 진짜 공룡인 줄 알고 도망가서 사탕을 다 독차지했답니다!"
+}

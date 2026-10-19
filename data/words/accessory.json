@@ -1,0 +1,74 @@
+{
+ "word": "accessory",
+ "pos": "명사 / 형용사",
+ "phonetic": "[əkˈsesəri]",
+ "meaning": "장신구, 액세서리, 부속품 / 부수적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~쪽으로 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cess",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ory",
+   "meaning": "~하는 것, ~에 관한",
+   "note": "명사나 형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~쪽으로) + <strong>cess</strong> (가다) + <strong>-ory</strong> (~하는 것) = '주된 것에 덧붙어 가는 것'에서 <strong>'부속품, 액세서리'</strong>가 되었어요.",
+ "historyTitle": "주인공 옆에 '다가와 붙는' 조연",
+ "historyBody": "중세 라틴어 accessorius는 accedere(다가가다, 더해지다)에서 나와 '덧붙는, 부수적인'이라는 뜻이었어요. 그래서 원래는 법률에서 '종범(공범)'을 뜻하기도 했고, 나중에 옷에 덧붙이는 장신구라는 뜻이 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "access",
+   "pos": "명사",
+   "meaning": "접근, 이용",
+   "en": "Everyone should have access to clean water.",
+   "ko": "모든 사람이 깨끗한 물을 이용할 수 있어야 해요."
+  },
+  {
+   "word": "accessible",
+   "pos": "형용사",
+   "meaning": "접근 가능한",
+   "en": "The park is easily accessible by bus.",
+   "ko": "그 공원은 버스로 쉽게 갈 수 있어요."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 진행하다",
+   "en": "After lunch, we proceeded to the museum.",
+   "ko": "점심 후에 우리는 박물관으로 향했어요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "The results exceeded our expectations.",
+   "ko": "결과는 우리의 기대를 넘어섰어요."
+  },
+  {
+   "word": "succeed",
+   "pos": "동사",
+   "meaning": "성공하다",
+   "en": "She worked hard and finally succeeded.",
+   "ko": "그녀는 열심히 일해서 마침내 성공했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 옷에 덧붙여 꾸미는 귀걸이, 모자, 가방",
+ "imageCaption": "기본 옷 옆에 반짝이는 목걸이와 모자를 하나씩 '더해 가는' 모습을 떠올려 보세요.",
+ "movieLineEn": "A good hat is the perfect accessory for any adventure.",
+ "movieLineKo": "좋은 모자는 어떤 모험에도 완벽한 액세서리지.",
+ "storyTitle": "액세서리 부자 고양이",
+ "story": "고양이 나비는 accessory(액세서리)를 사랑했어요. 목걸이 개수가 백 개를 exceed(초과하다)했죠. 패션쇼에 나가려고 무대로 proceed(나아가다)하던 순간, 무게 때문에 꼼짝도 못 했어요. 그래도 나비는 succeed(성공하다)했어요. 관객들이 '움직이는 보석상'이라며 박수를 쳤거든요!"
+}

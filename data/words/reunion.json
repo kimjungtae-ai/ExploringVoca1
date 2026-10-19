@@ -1,0 +1,81 @@
+{
+ "word": "reunion",
+ "pos": "명사",
+ "phonetic": "[ˌriːˈjuːniən]",
+ "meaning": "재회, 동창회, 재결합",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "uni",
+   "meaning": "하나 (one) ← unus",
+   "note": "라틴어 unus(하나)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-on",
+   "meaning": "~하는 것 (명사)",
+   "note": "union(하나로 합침)의 끝부분이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>uni</strong> (하나) + <strong>-on</strong> (것) = '다시 하나로 모이는 것'에서 <strong>'재회, 동창회'</strong>가 되었어요.",
+ "historyTitle": "다시 하나가 되는 날",
+ "historyBody": "union은 라틴어 unio(하나 됨)에서 왔고, 그 뿌리는 unus(하나)예요. reunion은 17세기 초 프랑스어 réunion을 통해 영어에 들어왔어요. 같은 unus에서 unique(유일한), universe(우주, '하나로 돌아간 것')도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "union",
+   "pos": "명사",
+   "meaning": "결합, 연합, 노동조합",
+   "en": "The European Union has many member countries.",
+   "ko": "유럽 연합에는 많은 회원국이 있어요."
+  },
+  {
+   "word": "unite",
+   "pos": "동사",
+   "meaning": "연합하다, 하나가 되다",
+   "en": "The two teams united to win the game.",
+   "ko": "두 팀은 경기에서 이기려고 하나로 뭉쳤어요."
+  },
+  {
+   "word": "unity",
+   "pos": "명사",
+   "meaning": "통합, 단결",
+   "en": "Unity is the key to a strong team.",
+   "ko": "단결은 강한 팀의 비결이에요."
+  },
+  {
+   "word": "unique",
+   "pos": "형용사",
+   "meaning": "독특한, 유일한",
+   "en": "Every snowflake has a unique shape.",
+   "ko": "모든 눈송이는 저마다 독특한 모양을 가지고 있어요."
+  },
+  {
+   "word": "universe",
+   "pos": "명사",
+   "meaning": "우주, 세계",
+   "en": "Scientists study the origins of the universe.",
+   "ko": "과학자들은 우주의 기원을 연구해요."
+  },
+  {
+   "word": "unify",
+   "pos": "동사",
+   "meaning": "통일하다, 통합하다",
+   "en": "The new king tried to unify the country.",
+   "ko": "새 왕은 나라를 통일하려고 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 오랜만에 만난 친구들이 끌어안는 동창회",
+ "imageCaption": "흩어졌던 친구들이 다시 한자리에 모여 한 덩어리로 웃는 모습을 떠올려 보세요.",
+ "movieLineEn": "Ten years later, the reunion began with a hug and a punch.",
+ "movieLineKo": "10년 후, 재회는 포옹과 주먹 한 방으로 시작됐다.",
+ "storyTitle": "수상한 동창회",
+ "story": "10년 만의 reunion(동창회)에 친구들이 unite(하나가 되다)했어요. 모두 unique(독특한)하게 변해 있었죠. 반장은 unity(단결)를 외치며 건배를 했어요. 그런데 한참 놀다 보니 옆 학교 동창회에 와 있었지 뭐예요! 그래도 다들 너무 즐거워서 union(연합)을 맺었대요."
+}

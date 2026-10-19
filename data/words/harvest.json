@@ -1,0 +1,41 @@
+{
+ "word": "harvest",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈhɑːrvɪst]",
+ "meaning": "수확, 추수, 수확량 / 수확하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "harvest (古 hærfest)",
+   "meaning": "가을, 거두는 때 (autumn)",
+   "note": "고대 영어 hærfest는 원래 '가을'이라는 뜻이었어요. 게르만계 단어라 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>harvest</strong>는 고대 영어 hærfest(<strong>가을</strong>)에서 와서, 가을에 하는 일인 <strong>'수확, 추수'</strong>를 뜻하게 되었어요.",
+ "historyTitle": "'가을'이 '추수'가 된 이야기",
+ "historyBody": "harvest는 고대 영어 hærfest에서 왔는데, 원래 계절 '가을'을 뜻했어요. 독일어 Herbst(가을)와 형제예요. 그 뿌리는 '뜯다, 거두다'라는 인도유럽 조어 *kerp-로 보여, 라틴어 carpere(따다, 'carpe diem'의 그 말)와 친척이에요. 나중에 가을이라는 뜻은 autumn과 fall에게 넘어갔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "harvester",
+   "pos": "명사",
+   "meaning": "수확하는 사람, 수확기",
+   "en": "The harvester moved slowly across the wheat field.",
+   "ko": "수확기가 밀밭을 천천히 가로질러 갔어."
+  },
+  {
+   "word": "excerpt",
+   "pos": "명사",
+   "meaning": "발췌, 인용 부분",
+   "en": "We read an excerpt from the novel in class.",
+   "ko": "우리는 수업 시간에 그 소설의 발췌문을 읽었어."
+  }
+ ],
+ "imageSense": "대표 의미: 황금빛 들판에서 농부들이 벼를 거두는 장면",
+ "imageCaption": "가을 햇살 아래 누렇게 익은 벼를 낫으로 쓱쓱 베어 거두는 모습을 떠올려 보세요.",
+ "movieLineEn": "This year's harvest will feed the whole village.",
+ "movieLineKo": "올해 수확이면 온 마을이 먹고 살 수 있어.",
+ "storyTitle": "다람쥐의 대풍년",
+ "story": "다람쥐는 가을 harvest(수확)를 위해 도토리를 열심히 harvest(수확하다)했어요. 친구들은 그를 '숲속 harvester(수확하는 사람)'라 불렀죠. 겨울 내내 일기에 수확 이야기를 써서 excerpt(발췌문)가 숲속 신문에 실릴 정도였어요. 그런데 봄이 되자 숨겨 둔 곳을 다 잊어서, 숲이 온통 참나무가 됐대요!"
+}

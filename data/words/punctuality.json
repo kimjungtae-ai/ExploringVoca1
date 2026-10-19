@@ -1,0 +1,67 @@
+{
+ "word": "punctuality",
+ "pos": "명사",
+ "phonetic": "[ˌpʌŋktʃuˈæləti]",
+ "meaning": "시간 엄수, 시간을 잘 지킴",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "punct",
+   "meaning": "점, 찌르다 (point, prick)",
+   "note": "라틴어 punctum(점), pungere(찌르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ual",
+   "meaning": "~의 (형용사)",
+   "note": "punctual(시간을 잘 지키는)을 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~함 (명사)",
+   "note": "형용사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>punct</strong> (점) + <strong>-ual</strong> + <strong>-ity</strong> = '정해진 시각의 한 점을 딱 맞춤'이라는 뜻에서 <strong>'시간 엄수'</strong>가 되었어요.",
+ "historyTitle": "바늘로 콕 찍은 점",
+ "historyBody": "라틴어 punctum은 바늘로 '콕 찍은 점'을 뜻해요. punctual은 원래 '아주 세밀한, 정확한'이라는 뜻이었다가, 17세기 후반부터 '시간을 정확히 지키는'이라는 뜻으로 쓰였어요. point(점)도 같은 punctum에서 프랑스어를 거쳐 온 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "punctual",
+   "pos": "형용사",
+   "meaning": "시간을 잘 지키는",
+   "en": "She is always punctual for her classes.",
+   "ko": "그녀는 항상 수업 시간을 잘 지켜요."
+  },
+  {
+   "word": "punctuation",
+   "pos": "명사",
+   "meaning": "구두점, 문장 부호",
+   "en": "Check your punctuation before you submit the essay.",
+   "ko": "에세이를 제출하기 전에 문장 부호를 확인하세요."
+  },
+  {
+   "word": "puncture",
+   "pos": "명사 / 동사",
+   "meaning": "구멍 / 구멍을 내다",
+   "en": "A nail caused a puncture in my bike tire.",
+   "ko": "못 때문에 자전거 타이어에 구멍이 났어요."
+  },
+  {
+   "word": "point",
+   "pos": "명사",
+   "meaning": "점, 요점",
+   "en": "That's a good point.",
+   "ko": "좋은 지적이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 시계 바늘이 정각을 가리키는 순간 문을 여는 학생",
+ "imageCaption": "시계판 위 '딱 한 점'에 맞춰 도착하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Punctuality is the politeness of kings.",
+ "movieLineKo": "시간 엄수는 왕의 예의이다.",
+ "storyTitle": "너무 정확한 친구",
+ "story": "서진이는 punctuality(시간 엄수)의 왕이에요. 늘 punctual(시간을 잘 지키는)해서 약속 시각 1초 전에 도착하죠. 그런데 오늘은 자전거 타이어에 puncture(구멍)가 났어요. 그래도 정확히 도착했는데, 친구들의 point(요점)는 하나였어요. '약속 내일인데?'"
+}

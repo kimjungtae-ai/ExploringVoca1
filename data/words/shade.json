@@ -1,0 +1,55 @@
+{
+ "word": "shade",
+ "pos": "명사 / 동사",
+ "phonetic": "[ʃeɪd]",
+ "meaning": "그늘, 색조, 가리개 / 그늘지게 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "shade",
+   "meaning": "그늘 (shade)",
+   "note": "고대 영어 'sceadu(그늘, 어둠)'에서 온 짧은 게르만계 단어라 더 쪼개지 않아요."
+  }
+ ],
+ "summary": "<strong>shade</strong> (그늘) = 빛이 가려져 어두운 곳, 즉 <strong>'그늘'</strong>이에요.",
+ "historyTitle": "shade와 shadow는 원래 한 단어",
+ "historyBody": "고대 영어 'sceadu'는 '그늘, 어둠'이라는 뜻이었어요. 이 단어의 두 가지 형태가 각각 shade와 shadow로 갈라져 오늘날 두 단어가 되었어요. 보통 shade는 해를 피하는 '그늘진 곳', shadow는 물체가 만드는 '그림자 모양'을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "shadow",
+   "pos": "명사",
+   "meaning": "그림자",
+   "en": "My shadow gets longer in the late afternoon.",
+   "ko": "늦은 오후에는 내 그림자가 더 길어져요."
+  },
+  {
+   "word": "shady",
+   "pos": "형용사",
+   "meaning": "그늘진, 수상한",
+   "en": "We found a shady spot under a big tree.",
+   "ko": "우리는 큰 나무 아래 그늘진 곳을 찾았어요."
+  },
+  {
+   "word": "sunshade",
+   "pos": "명사",
+   "meaning": "차양, 양산",
+   "en": "She held a sunshade to protect her skin.",
+   "ko": "그녀는 피부를 보호하려고 양산을 들었어요."
+  },
+  {
+   "word": "shaded",
+   "pos": "형용사",
+   "meaning": "그늘진, 음영이 들어간",
+   "en": "The shaded area on the map shows the forest.",
+   "ko": "지도의 음영 부분은 숲을 나타내요."
+  }
+ ],
+ "imageSense": "대표 의미: 뜨거운 여름날 큰 나무 그늘 아래에서 쉬는 장면",
+ "imageCaption": "햇볕이 쨍쨍한 날 나무 아래 시원한 그늘로 쏙 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let's rest in the shade. It's too hot out here.",
+ "movieLineKo": "그늘에서 쉬자. 여기 밖은 너무 더워.",
+ "storyTitle": "그늘 쟁탈전",
+ "story": "한여름 공원에서 고양이와 나는 shade(그늘) 쟁탈전을 벌였어요. 나는 sunshade(양산)를 펼쳤지만 고양이가 그 아래 쏙! 결국 나는 나무의 shadow(그림자) 쪽으로 밀려났죠. 그런데 그 shady(그늘진) 자리에 아이스크림 트럭이 멈췄어요. 승자는 나!"
+}

@@ -1,0 +1,54 @@
+{
+ "word": "priority",
+ "pos": "명사",
+ "phonetic": "[praɪˈɔːrəti]",
+ "meaning": "우선순위, 우선 사항, 우선권",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "prior",
+   "meaning": "앞선, 먼저의 (earlier, first)",
+   "note": "라틴어 prior(더 앞선)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~함, ~성 (명사)",
+   "note": "형용사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>prior</strong> (앞선) + <strong>-ity</strong> (~함) = '앞에 있음'이라는 뜻에서 <strong>'우선순위, 우선 사항'</strong>이 되었어요.",
+ "historyTitle": "먼저 온 사람이 먼저, prior",
+ "historyBody": "라틴어 prior는 '더 앞선'이라는 뜻의 비교급이에요. 중세 라틴어 prioritas를 거쳐 14세기 말 영어에 들어왔어요. 수도원의 부원장을 prior라고 부른 것도 '앞선 사람'이라는 뜻에서랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prior",
+   "pos": "형용사",
+   "meaning": "이전의, 사전의",
+   "en": "Please call us prior to your visit.",
+   "ko": "방문하기 전에 저희에게 전화해 주세요."
+  },
+  {
+   "word": "prioritize",
+   "pos": "동사",
+   "meaning": "우선순위를 매기다",
+   "en": "Successful people prioritize their most important tasks.",
+   "ko": "성공한 사람들은 가장 중요한 일에 우선순위를 둬요."
+  },
+  {
+   "word": "prioritization",
+   "pos": "명사",
+   "meaning": "우선순위 결정",
+   "en": "Prioritization is a key skill for busy students.",
+   "ko": "우선순위 결정은 바쁜 학생들에게 핵심 기술이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄 맨 앞에 '1순위' 깃발이 꽂혀 있는 장면",
+ "imageCaption": "여러 일 중 맨 앞으로 쏙 나와 있는 한 가지를 떠올리면 priority예요.",
+ "movieLineEn": "Your safety is my only priority.",
+ "movieLineKo": "네 안전이 나의 유일한 최우선 사항이야.",
+ "storyTitle": "고양이의 우선순위",
+ "story": "우리 집 고양이의 첫 번째 priority(우선 사항)는 밥이에요. 그래서 하루 일과를 prioritize(우선순위를 매기다)할 때도 '밥, 낮잠, 밥' 순서죠. prior(이전의) 주인도 똑같이 적어 두었대요. 그런데 오늘은 prioritization(우선순위 결정)이 바뀌었어요. 1순위가 '내 노트북 위에서 자기'였거든요!"
+}

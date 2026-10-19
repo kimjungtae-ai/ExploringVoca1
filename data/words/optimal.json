@@ -1,0 +1,61 @@
+{
+ "word": "optimal",
+ "pos": "형용사",
+ "phonetic": "[ˈɑːptɪməl]",
+ "meaning": "최적의, 가장 좋은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "optim",
+   "meaning": "가장 좋은 (best)",
+   "note": "라틴어 optimus(최고의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>optim</strong> (가장 좋은) + <strong>-al</strong> (~의) = <strong>'최적의, 가장 좋은'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "라틴어 '최고'에서 온 말",
+ "historyBody": "라틴어 optimus는 bonus(좋은)의 최상급으로 '가장 좋은'이라는 뜻이에요. 여기서 optimum(최적 조건)이 먼저 쓰였고, 19세기 후반 생물학에서 optimal이라는 형용사가 만들어졌어요. optimism(낙관주의)도 '세상은 가능한 최선'이라는 철학 사상에서 나온 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "optimum",
+   "pos": "명사 / 형용사",
+   "meaning": "최적 조건 / 최적의",
+   "en": "Plants grow best at the optimum temperature.",
+   "ko": "식물은 최적 온도에서 가장 잘 자라요."
+  },
+  {
+   "word": "optimism",
+   "pos": "명사",
+   "meaning": "낙관주의",
+   "en": "Her optimism helped the team stay calm during the crisis.",
+   "ko": "그녀의 낙관적인 태도 덕분에 팀은 위기 속에서도 침착할 수 있었어요."
+  },
+  {
+   "word": "optimistic",
+   "pos": "형용사",
+   "meaning": "낙관적인",
+   "en": "He is optimistic about passing the exam next week.",
+   "ko": "그는 다음 주 시험에 합격할 거라고 낙관하고 있어요."
+  },
+  {
+   "word": "optimize",
+   "pos": "동사",
+   "meaning": "최적화하다",
+   "en": "The company optimized its app to run faster on old phones.",
+   "ko": "그 회사는 오래된 휴대폰에서도 더 빨리 돌아가도록 앱을 최적화했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 온도계와 시계를 보며 딱 알맞은 순간에 빵을 꺼내는 장면",
+ "imageCaption": "오븐 앞에서 가장 맛있는 순간을 정확히 맞추는 제빵사를 떠올려 보세요. 그게 '최적'이에요.",
+ "movieLineEn": "Seven hours of sleep. That's the optimal plan for winning tomorrow.",
+ "movieLineKo": "일곱 시간 수면. 그게 내일 이기기 위한 최적의 계획이야.",
+ "storyTitle": "최적의 라면 끓이기",
+ "story": "optimistic(낙관적인) 지훈이는 라면을 optimize(최적화하다)하겠다며 연구했어요. 물 550ml, 4분 30초가 optimal(최적의) 조건이래요. optimism(낙관주의)으로 가득 차 완벽한 라면을 끓였는데, 젓가락이 집에 하나도 없었어요!"
+}

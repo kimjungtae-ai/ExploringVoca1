@@ -1,0 +1,55 @@
+{
+ "word": "bowl",
+ "pos": "명사",
+ "phonetic": "[boʊl]",
+ "meaning": "그릇, 사발, 한 그릇(의 양)",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bowl (← bolle)",
+   "meaning": "둥근 그릇 (round vessel)",
+   "note": "고대 영어 bolle에서 왔고, '부풀다'라는 뜻의 뿌리와 연결된다고 봐요."
+  }
+ ],
+ "summary": "<strong>bowl</strong>은 고대 영어 <strong>bolle</strong>(둥근 그릇)에서 와서 지금도 <strong>'그릇, 사발'</strong>을 뜻해요.",
+ "historyTitle": "둥글게 부푼 모양의 그릇",
+ "historyBody": "bowl은 고대 영어 bolle(둥근 그릇)에서 왔어요. 어원 사전에서는 이 말이 '불다, 부풀다'라는 뜻의 인도유럽어 뿌리에서 나왔다고 보고, ball(공)도 같은 뿌리의 친척으로 봐요. 참고로 볼링에서 공을 굴리는 bowl은 라틴어 bulla(공)에서 온 다른 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bowlful",
+   "pos": "명사",
+   "meaning": "한 그릇 가득",
+   "en": "He ate a bowlful of rice in two minutes.",
+   "ko": "그는 밥 한 그릇을 2분 만에 먹었어."
+  },
+  {
+   "word": "ball",
+   "pos": "명사",
+   "meaning": "공",
+   "en": "The kids kicked the ball across the field.",
+   "ko": "아이들이 공을 운동장 저쪽으로 찼어."
+  },
+  {
+   "word": "balloon",
+   "pos": "명사",
+   "meaning": "풍선",
+   "en": "We filled the room with colorful balloons.",
+   "ko": "우리는 방을 알록달록한 풍선으로 가득 채웠어."
+  },
+  {
+   "word": "ballot",
+   "pos": "명사",
+   "meaning": "투표용지, 투표",
+   "en": "Each student put a ballot into the box.",
+   "ko": "학생들은 각자 투표용지를 상자에 넣었어."
+  }
+ ],
+ "imageSense": "대표 의미: 김이 모락모락 나는 둥근 국그릇",
+ "imageCaption": "따끈한 국이 담긴 둥근 그릇을 두 손으로 감싸 쥔 모습을 떠올려 보세요.",
+ "movieLineEn": "Who ate my bowl of soup?",
+ "movieLineKo": "누가 내 수프 한 그릇 먹었어?",
+ "storyTitle": "사라진 라면 한 그릇",
+ "story": "밤 11시, 형은 몰래 라면 한 bowl(그릇)을 끓였어요. 잠깐 화장실 간 사이 bowlful(한 그릇 가득)이던 라면이 텅 비었죠! 범인을 찾으려고 가족 ballot(투표)를 했는데, 모두 강아지를 지목했어요. 그런데 강아지 입가엔 balloon(풍선) 껌만 붙어 있었고, 진범은 아빠였답니다."
+}

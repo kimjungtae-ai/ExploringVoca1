@@ -1,0 +1,68 @@
+{
+ "word": "lively",
+ "pos": "형용사",
+ "phonetic": "[ˈlaɪvli]",
+ "meaning": "활기찬, 생기 넘치는, 생생한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "live / life",
+   "meaning": "살아 있는, 생명 (life)",
+   "note": "고대 영어 līf(생명)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~같은 (형용사)",
+   "note": "friendly, lovely처럼 명사에 붙어 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>live(life)</strong> (생명) + <strong>-ly</strong> (~다운) = '생명력이 가득한'이라는 뜻에서 <strong>'활기찬, 생기 넘치는'</strong>이 되었습니다.",
+ "historyTitle": "생명이 넘치는 단어",
+ "historyBody": "lively는 고대 영어 līflīc에서 왔는데, līf(생명)에 '~다운'을 뜻하는 -līc가 붙은 말이에요. 처음엔 '살아 있는'이라는 뜻이었다가 점차 '활기찬, 생생한'이라는 뜻으로 넓어졌어요. -ly로 끝나지만 부사가 아니라 형용사라는 점, 수능에서 꼭 기억하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "life",
+   "pos": "명사",
+   "meaning": "삶, 생명",
+   "en": "Music makes my life much happier.",
+   "ko": "음악은 내 삶을 훨씬 행복하게 해 줘요."
+  },
+  {
+   "word": "live",
+   "pos": "동사/형용사",
+   "meaning": "살다 / 살아 있는, 생방송의",
+   "en": "We watched a live concert on TV last night.",
+   "ko": "우리는 어젯밤 TV로 생방송 콘서트를 봤어요."
+  },
+  {
+   "word": "alive",
+   "pos": "형용사",
+   "meaning": "살아 있는",
+   "en": "The firefighters found the cat alive.",
+   "ko": "소방관들은 고양이를 살아 있는 채로 발견했어요."
+  },
+  {
+   "word": "liveliness",
+   "pos": "명사",
+   "meaning": "활기, 생기",
+   "en": "The liveliness of the market attracts tourists.",
+   "ko": "시장의 활기가 관광객들을 끌어모아요."
+  },
+  {
+   "word": "livelihood",
+   "pos": "명사",
+   "meaning": "생계 (수단)",
+   "en": "Fishing is the main livelihood of this village.",
+   "ko": "어업은 이 마을의 주된 생계 수단이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이들의 웃음소리로 북적이는 활기찬 시장 골목",
+ "imageCaption": "사람들이 웃고 떠들며 생명력이 톡톡 튀는 장면을 떠올려 보세요. 그 분위기가 바로 lively예요.",
+ "movieLineEn": "This party needs to be more lively. Turn up the music!",
+ "movieLineKo": "이 파티는 좀 더 활기차야 해. 음악 크게 틀어!",
+ "storyTitle": "조용한 도서관의 반전",
+ "story": "도서관 사서 할아버지는 늘 조용했지만, 퇴근 후엔 lively(활기찬) 댄스 동아리 회장이었어요. 춤이 그의 life(삶)의 기쁨이었죠. 어느 날 동아리가 live(생방송의) 무대에 서자 학생들이 깜짝 놀랐어요. 무대 위 liveliness(활기)의 주인공이 \"쉿!\" 하던 그분이었거든요."
+}

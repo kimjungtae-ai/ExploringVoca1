@@ -1,0 +1,67 @@
+{
+ "word": "strategy",
+ "pos": "명사",
+ "phonetic": "[ˈstrætədʒi]",
+ "meaning": "전략, 계획",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "strat",
+   "meaning": "군대 (army)",
+   "note": "그리스어 stratos(군대, 진영)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "eg (agein)",
+   "meaning": "이끌다 (lead)",
+   "note": "그리스어 agein(이끌다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~하는 기술 (명사)",
+   "note": "'장군의 기술'이라는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>strat</strong> (군대) + <strong>eg</strong> (이끌다) + <strong>-y</strong> = '군대를 이끄는 장군의 기술'에서 <strong>'전략'</strong>이 되었습니다.",
+ "historyTitle": "그리스 장군 strategos의 기술",
+ "historyBody": "고대 그리스에서 군대(stratos)를 이끄는(agein) 장군을 strategos라고 불렀어요. 그 장군의 지휘술이 strategia였고, 이것이 19세기 초 영어 strategy가 되었어요. 지금은 전쟁뿐 아니라 공부나 사업의 '계획'을 말할 때도 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "strategic",
+   "pos": "형용사",
+   "meaning": "전략적인",
+   "en": "The city is in a strategic location for trade.",
+   "ko": "그 도시는 무역에 전략적인 위치에 있어요."
+  },
+  {
+   "word": "strategically",
+   "pos": "부사",
+   "meaning": "전략적으로",
+   "en": "The store is strategically located near the station.",
+   "ko": "그 가게는 역 근처에 전략적으로 자리 잡고 있어요."
+  },
+  {
+   "word": "strategist",
+   "pos": "명사",
+   "meaning": "전략가",
+   "en": "He is known as a brilliant military strategist.",
+   "ko": "그는 뛰어난 군사 전략가로 알려져 있어요."
+  },
+  {
+   "word": "stratagem",
+   "pos": "명사",
+   "meaning": "책략, 계략",
+   "en": "The fox used a clever stratagem to get the cheese.",
+   "ko": "여우는 치즈를 얻으려고 영리한 계략을 썼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 장군이 지도 위에 말을 놓으며 작전을 짜는 장면",
+ "imageCaption": "시험 전날 과목별 공부 순서를 꼼꼼히 짜는 것도 strategy예요.",
+ "movieLineEn": "We need a new strategy. Running away isn't working.",
+ "movieLineKo": "새로운 전략이 필요해. 도망치는 건 안 통하잖아.",
+ "storyTitle": "고양이의 간식 전략",
+ "story": "고양이 냥냥이는 간식을 얻기 위한 strategy(전략)를 짰어요. 첫째, strategic(전략적인) 위치인 냉장고 앞에 눕기. 둘째, 주인 발에 strategically(전략적으로) 몸 비비기. 천재 strategist(전략가) 냥냥이의 stratagem(계략)은 완벽했죠. 그런데 주인이 다이어트 중이라 냉장고에는 브로콜리뿐이었대요!"
+}

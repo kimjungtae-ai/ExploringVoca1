@@ -1,0 +1,82 @@
+{
+ "word": "current",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈkɜːrənt]",
+ "meaning": "현재의, 지금의, 통용되는 / (물·공기의) 흐름, 해류, 전류",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "curr",
+   "meaning": "달리다, 흐르다 (run)",
+   "note": "라틴어 currere(달리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 (형용사)",
+   "note": "'~하고 있는'이라는 뜻의 접미사예요."
+  }
+ ],
+ "summary": "<strong>curr</strong> (달리다) + <strong>-ent</strong> (~하는) = '지금 달려 흐르고 있는'에서 <strong>'현재의, 흐름'</strong>이 되었어요.",
+ "historyTitle": "라틴어 currere, '달리다'",
+ "historyBody": "current는 라틴어 currere(달리다)의 현재분사 currens에서 고대 프랑스어 corant(달리는, 흐르는)를 거쳐 왔어요. 물이나 전기가 '달려 흐르는 것'이 해류·전류가 되었고, 지금 흘러가고 있는 시간이라는 뜻에서 '현재의'가 되었어요. 같은 어근이 currency(통화), occur, course에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "currently",
+   "pos": "부사",
+   "meaning": "현재, 지금",
+   "en": "She is currently living in Busan.",
+   "ko": "그녀는 현재 부산에 살고 있어요."
+  },
+  {
+   "word": "currency",
+   "pos": "명사",
+   "meaning": "통화, 화폐",
+   "en": "The euro is the currency of many European countries.",
+   "ko": "유로는 많은 유럽 국가의 통화예요."
+  },
+  {
+   "word": "occur",
+   "pos": "동사",
+   "meaning": "일어나다, 발생하다",
+   "en": "The accident occurred late at night.",
+   "ko": "그 사고는 밤늦게 일어났어요."
+  },
+  {
+   "word": "recur",
+   "pos": "동사",
+   "meaning": "되풀이되다, 재발하다",
+   "en": "If the problem recurs, call me again.",
+   "ko": "문제가 다시 생기면 또 전화 주세요."
+  },
+  {
+   "word": "course",
+   "pos": "명사",
+   "meaning": "과정, 강좌, 진로",
+   "en": "I'm taking an online cooking course.",
+   "ko": "나는 온라인 요리 강좌를 듣고 있어요."
+  },
+  {
+   "word": "curriculum",
+   "pos": "명사",
+   "meaning": "교육 과정",
+   "en": "The school added coding to its curriculum.",
+   "ko": "그 학교는 교육 과정에 코딩을 추가했어요."
+  },
+  {
+   "word": "excursion",
+   "pos": "명사",
+   "meaning": "소풍, 짧은 여행",
+   "en": "Our class went on an excursion to the museum.",
+   "ko": "우리 반은 박물관으로 견학을 갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강물이 빠르게 흘러가는 장면",
+ "imageCaption": "나뭇잎 하나가 빠른 물살에 실려 떠내려가는 모습을 떠올려 보세요. 지금 이 순간 달려 흐르는 것이 current예요.",
+ "movieLineEn": "Swim with the current, not against it!",
+ "movieLineKo": "물살을 거스르지 말고 따라서 헤엄쳐!",
+ "storyTitle": "해류를 탄 거북이",
+ "story": "거북이는 바다의 current(해류)를 타고 여행을 떠났어요. 이 course(진로)라면 하와이에 갈 수 있었죠. 그런데 예상 못 한 일이 occur(일어나다)했어요. 해류가 거꾸로 흐른 거예요! 거북이는 결국 출발한 해변으로 돌아왔고, current(현재의) 위치는 집 앞이었대요. 그래도 currency(돈)는 아꼈답니다."
+}

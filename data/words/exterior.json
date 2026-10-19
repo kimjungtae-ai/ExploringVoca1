@@ -1,0 +1,61 @@
+{
+ "word": "exterior",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ɪkˈstɪriər]",
+ "meaning": "외부, 외관 / 외부의, 바깥쪽의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ex / exter",
+   "meaning": "밖 (out, outside)",
+   "note": "라틴어 ex(밖으로)와 exterus(바깥의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ior",
+   "meaning": "더 ~한 (비교급)",
+   "note": "라틴어 비교급 어미예요. '더 바깥쪽의'라는 뜻이 돼요."
+  }
+ ],
+ "summary": "<strong>exter</strong> (바깥의) + <strong>-ior</strong> (더 ~한) = '더 바깥쪽에 있는'에서 <strong>'외부의, 외관'</strong>이 되었어요.",
+ "historyTitle": "라틴어의 '더 바깥쪽'",
+ "historyBody": "exterior는 라틴어 'exterior(더 바깥쪽의)'를 그대로 가져온 말로, exterus(바깥의)의 비교급이에요. 같은 단어의 최상급 extremus는 영어 extreme(극단적인, 가장 바깥의)이 되었어요. 반대말 interior(내부의)도 같은 -ior 비교급 구조를 가지고 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "external",
+   "pos": "형용사",
+   "meaning": "외부의, 외적인",
+   "en": "This medicine is for external use only.",
+   "ko": "이 약은 외용으로만 사용하세요."
+  },
+  {
+   "word": "extreme",
+   "pos": "형용사",
+   "meaning": "극단적인, 극도의",
+   "en": "The desert has extreme temperatures.",
+   "ko": "사막은 기온 차가 극심해요."
+  },
+  {
+   "word": "extra",
+   "pos": "형용사 / 부사",
+   "meaning": "추가의 / 특별히",
+   "en": "Can I get an extra blanket, please?",
+   "ko": "담요 하나 더 받을 수 있을까요?"
+  },
+  {
+   "word": "extraordinary",
+   "pos": "형용사",
+   "meaning": "특별한, 놀라운",
+   "en": "She has an extraordinary talent for music.",
+   "ko": "그녀는 음악에 놀라운 재능이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 멋진 성의 겉모습을 밖에서 올려다보는 장면",
+ "imageCaption": "건물 안이 아니라 바깥에서 본 겉모습을 떠올려 보세요.",
+ "movieLineEn": "Behind that tough exterior, he has a soft heart.",
+ "movieLineKo": "그 거친 겉모습 뒤엔 여린 마음이 있어.",
+ "storyTitle": "겉과 속이 다른 집",
+ "story": "새로 지은 집은 exterior(외관)가 성처럼 화려했어요. external(외부의) 장식도 extreme(극도의) 수준이었죠. 사람들은 extraordinary(놀라운) 집이라며 감탄했어요. 그런데 문을 열어 보니 안은 텅 빈 창고! 돈을 겉에만 다 써 버렸대요."
+}

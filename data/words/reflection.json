@@ -1,0 +1,74 @@
+{
+ "word": "reflection",
+ "pos": "명사",
+ "phonetic": "[rɪˈflekʃən]",
+ "meaning": "반사, (거울 등에 비친) 상, 반영, 성찰",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back)",
+   "note": "원래 방향으로 되돌아간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "flect",
+   "meaning": "구부리다 (bend)",
+   "note": "라틴어 flectere(구부리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작을 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>flect</strong> (구부리다) + <strong>-ion</strong> (명사) = 뒤로 꺾여 돌아오는 것 → <strong>'반사, 비친 모습, 성찰'</strong>이에요.",
+ "historyTitle": "호수에 비친 자신에게 반한 소년",
+ "historyBody": "reflection은 라틴어 reflexio(뒤로 구부림)에서 왔어요. 그리스 신화의 나르키소스는 호수에 비친 자기 모습, 즉 reflection에 반해 떠나지 못했다고 해요. 이처럼 '비친 모습'에서 '자신을 돌아보는 성찰'이라는 뜻까지 생겨났답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reflect",
+   "pos": "동사",
+   "meaning": "반사하다, 반영하다, 숙고하다",
+   "en": "The results reflect the students' hard work.",
+   "ko": "그 결과는 학생들의 노력을 반영해요."
+  },
+  {
+   "word": "reflective",
+   "pos": "형용사",
+   "meaning": "사려 깊은, 반사하는",
+   "en": "Runners wear reflective vests at night for safety.",
+   "ko": "달리기하는 사람들은 안전을 위해 밤에 반사 조끼를 입어요."
+  },
+  {
+   "word": "flexible",
+   "pos": "형용사",
+   "meaning": "유연한",
+   "en": "Our school has a flexible schedule during exam week.",
+   "ko": "우리 학교는 시험 주간에 유연한 일정을 운영해요."
+  },
+  {
+   "word": "reflex",
+   "pos": "명사",
+   "meaning": "반사 작용",
+   "en": "Blinking is a natural reflex.",
+   "ko": "눈 깜빡임은 자연스러운 반사 작용이에요."
+  },
+  {
+   "word": "deflect",
+   "pos": "동사",
+   "meaning": "빗나가게 하다",
+   "en": "The shield deflected the arrows.",
+   "ko": "방패가 화살을 빗나가게 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울 앞에서 오늘 하루를 돌아보는 학생",
+ "imageCaption": "밤에 창문에 비친 내 얼굴을 보며 '오늘 잘했나?' 생각하는 모습을 떠올려 보세요. 비친 모습도, 돌아보는 생각도 reflection이에요.",
+ "movieLineEn": "Mirror, mirror... is that really my reflection?",
+ "movieLineKo": "거울아, 거울아... 저게 정말 내 모습이니?",
+ "storyTitle": "셀카의 함정",
+ "story": "언니는 가게 유리창에 비친 reflection(비친 모습)을 보며 셀카를 찍었어요. reflective(반사하는) 유리 덕분에 조명이 완벽했죠. 언니는 flexible(유연한) 몸으로 갖가지 포즈를 취했어요. 그때 유리창 너머에서 손님들이 박수를 쳤어요. 알고 보니 그건 유리창이 아니라 반대쪽에서 다 보이는 카페 창문이었어요. 언니는 깊은 reflection(성찰)에 빠졌답니다."
+}

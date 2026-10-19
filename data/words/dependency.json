@@ -1,0 +1,67 @@
+{
+ "word": "dependency",
+ "pos": "명사",
+ "phonetic": "[dɪˈpendənsi]",
+ "meaning": "의존, 종속, 속국",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로 (down)",
+   "note": "아래로 늘어진다는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pend",
+   "meaning": "매달리다 (hang)",
+   "note": "라틴어 pendere(매달리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ency",
+   "meaning": "~한 상태 (명사)",
+   "note": "상태를 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (아래로) + <strong>pend</strong> (매달리다) + <strong>-ency</strong> (상태) = '누군가에게 매달려 있는 상태'에서 <strong>'의존'</strong>이 되었어요.",
+ "historyTitle": "매달려 있다는 것",
+ "historyBody": "depend는 라틴어 dependere(~에 매달려 있다)에서 왔어요. 줄에 매달린 물건은 그 줄 없이는 버틸 수 없죠. 그래서 '~에 달려 있다, 의존하다'라는 뜻이 되었고, dependency는 그 의존 상태를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "depend",
+   "pos": "동사",
+   "meaning": "의존하다, ~에 달려 있다",
+   "en": "Our plans depend on the weather.",
+   "ko": "우리 계획은 날씨에 달려 있어요."
+  },
+  {
+   "word": "independent",
+   "pos": "형용사",
+   "meaning": "독립적인",
+   "en": "She became independent after she got a job.",
+   "ko": "그녀는 취직한 뒤 독립했어요."
+  },
+  {
+   "word": "suspend",
+   "pos": "동사",
+   "meaning": "매달다, 중단하다",
+   "en": "The game was suspended because of rain.",
+   "ko": "비 때문에 경기가 중단되었어요."
+  },
+  {
+   "word": "pendant",
+   "pos": "명사",
+   "meaning": "펜던트, 늘어뜨린 장식",
+   "en": "She wore a silver pendant on her necklace.",
+   "ko": "그녀는 목걸이에 은 펜던트를 달고 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 스마트폰 없이는 아무것도 못 하는 사람이 폰에 매달린 장면",
+ "imageCaption": "줄에 대롱대롱 매달린 사람처럼 무언가에 기대어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Your dependency on that phone is getting out of control.",
+ "movieLineKo": "너 그 폰에 의존하는 게 점점 심각해지고 있어.",
+ "storyTitle": "스마트폰 졸업식",
+ "story": "지민이는 스마트폰 dependency(의존)가 심했어요. 성적이 폰 사용 시간에 depend(달려 있다)한다는 걸 깨닫고 independent(독립적인) 생활을 결심했죠. 폰 사용을 suspend(중단하다)한 첫날, 지민이는 폰 대신 폰 모양 pendant(펜던트)를 계속 만지작거렸대요."
+}

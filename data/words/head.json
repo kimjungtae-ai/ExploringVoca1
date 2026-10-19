@@ -1,0 +1,62 @@
+{
+ "word": "head",
+ "pos": "명사 / 동사",
+ "phonetic": "[hed]",
+ "meaning": "머리, 우두머리 / 향하다, 이끌다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "head (古 hēafod)",
+   "meaning": "머리 (head)",
+   "note": "고대 영어 hēafod에서 온 게르만계 단어로, 라틴어 caput(머리)과 먼 친척이에요."
+  }
+ ],
+ "summary": "<strong>head</strong>는 고대 영어 hēafod(<strong>머리</strong>)에서 와서 <strong>'머리, 우두머리, ~로 향하다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "두 음절이 한 음절로 줄어든 머리",
+ "historyBody": "head는 고대 영어 hēafod에서 왔는데, 시간이 지나며 가운데 소리가 사라져 지금처럼 짧아졌어요. 사전들은 라틴어 caput(머리, capital과 captain의 뿌리)과 같은 인도유럽 뿌리로 봐요. 머리가 몸의 맨 앞이라서 '~로 향하다'라는 동사 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "headache",
+   "pos": "명사",
+   "meaning": "두통, 골칫거리",
+   "en": "I had a terrible headache after the exam.",
+   "ko": "시험이 끝난 뒤 나는 두통이 심했어."
+  },
+  {
+   "word": "headline",
+   "pos": "명사",
+   "meaning": "(기사) 제목, 헤드라인",
+   "en": "The news made headlines around the world.",
+   "ko": "그 소식은 전 세계 헤드라인을 장식했어."
+  },
+  {
+   "word": "ahead",
+   "pos": "부사",
+   "meaning": "앞에, 미리",
+   "en": "Plan ahead if you want to study abroad.",
+   "ko": "유학을 가고 싶다면 미리 계획을 세워."
+  },
+  {
+   "word": "headquarters",
+   "pos": "명사",
+   "meaning": "본부, 본사",
+   "en": "The company's headquarters is in Seoul.",
+   "ko": "그 회사의 본사는 서울에 있어."
+  },
+  {
+   "word": "overhead",
+   "pos": "부사 / 형용사",
+   "meaning": "머리 위에 / 머리 위의",
+   "en": "A plane flew overhead.",
+   "ko": "비행기 한 대가 머리 위로 날아갔어."
+  }
+ ],
+ "imageSense": "대표 의미: 모두가 머리를 들고 앞으로 향해 걸어가는 장면",
+ "imageCaption": "무리의 맨 앞, 머리 역할을 하며 길을 이끄는 사람을 떠올려 보세요.",
+ "movieLineEn": "Let's head home before it gets dark.",
+ "movieLineKo": "어두워지기 전에 집으로 가자.",
+ "storyTitle": "골칫덩이 반장",
+ "story": "반장은 늘 앞장서 head(이끌다)하는 걸 좋아했어요. 하지만 너무 ahead(앞서)가는 바람에 친구들은 headache(두통)에 시달렸죠. 결국 반 친구들이 headquarters(본부)를 세우고 반장을 몰래 따돌렸어요. 그런데 다음 날 신문 headline(헤드라인)에 반장이 길 잃은 강아지를 구했다는 기사가 났답니다!"
+}

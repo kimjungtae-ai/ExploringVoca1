@@ -1,0 +1,61 @@
+{
+ "word": "despite",
+ "pos": "전치사",
+ "phonetic": "[dɪˈspaɪt]",
+ "meaning": "~에도 불구하고",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로 (down)",
+   "note": "아래로 내려다본다는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spite",
+   "meaning": "보다 (look)",
+   "note": "라틴어 specere(보다)의 과거분사 spectus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (아래로) + <strong>spite</strong> (보다) = '깔보다, 무시하다'에서 '~을 무시하고'를 거쳐 <strong>'~에도 불구하고'</strong>가 되었어요.",
+ "historyTitle": "'깔봄'에서 '불구하고'로",
+ "historyBody": "despite는 고대 프랑스어 despit(경멸)를 거쳐 라틴어 despectus(내려다봄, 깔봄)에서 왔어요. 원래는 '경멸'이라는 명사였는데, 'in despite of(~을 무시하고)'라는 표현이 줄어들어 지금의 전치사 despite가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "despise",
+   "pos": "동사",
+   "meaning": "경멸하다",
+   "en": "She despises people who lie.",
+   "ko": "그녀는 거짓말하는 사람들을 경멸해요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중",
+   "en": "Thousands of spectators filled the stadium.",
+   "ko": "수천 명의 관중이 경기장을 가득 채웠어요."
+  },
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "검사하다, 점검하다",
+   "en": "Workers inspect every car before it leaves.",
+   "ko": "직원들이 출고 전에 모든 차를 점검해요."
+  },
+  {
+   "word": "respect",
+   "pos": "명사 / 동사",
+   "meaning": "존경 / 존경하다",
+   "en": "I really respect my grandfather.",
+   "ko": "나는 할아버지를 정말 존경해요."
+  }
+ ],
+ "imageSense": "대표 의미: 비가 쏟아지는데도 우산 없이 끝까지 달리는 마라톤 선수",
+ "imageCaption": "폭우를 '무시하고' 계속 달리는 선수를 떠올려 보세요. 그게 despite예요.",
+ "movieLineEn": "Despite everything, I still believe in you.",
+ "movieLineKo": "그 모든 일에도 불구하고, 난 여전히 널 믿어.",
+ "storyTitle": "폭우 속 응원단",
+ "story": "\"despite(~에도 불구하고) the rain!\"을 외치며 spectator(관중)들은 폭우 속에서도 자리를 지켰어요. 감독은 비를 despise(경멸하다)하듯 우산도 안 썼죠. 경기 후 심판이 관중석을 inspect(점검하다)하러 갔는데, 관중은 전부 마네킹이었어요! 감독은 기막힌 연출로 모두의 respect(존경)를 받았대요."
+}

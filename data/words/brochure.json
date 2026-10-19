@@ -1,0 +1,47 @@
+{
+ "word": "brochure",
+ "pos": "명사",
+ "phonetic": "[broʊˈʃʊr]",
+ "meaning": "(안내·광고용) 소책자, 팸플릿",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "broch",
+   "meaning": "바늘로 꿰매다 (stitch)",
+   "note": "프랑스어 brocher(꿰매다)에서 왔어요. broche는 '뾰족한 바늘, 꼬챙이'예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 것 (결과물)",
+   "note": "동작의 결과물을 뜻하는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>broch</strong> (꿰매다) + <strong>-ure</strong> (~한 것) = '몇 장을 실로 꿰매어 묶은 것', 즉 <strong>'소책자'</strong>예요.",
+ "historyTitle": "실로 꿰맨 얇은 책",
+ "historyBody": "brochure는 18세기에 프랑스어에서 들어온 말이에요. 프랑스어 brocher는 '바늘로 꿰매다'라는 뜻으로, 몇 장의 종이를 실로 대충 꿰매 묶은 얇은 책을 brochure라고 불렀어요. 같은 broche(뾰족한 핀)에서 브로치(brooch)라는 장신구 이름도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "brooch",
+   "pos": "명사",
+   "meaning": "브로치 (옷에 꽂는 장신구)",
+   "en": "Grandma wore a silver brooch on her coat.",
+   "ko": "할머니는 코트에 은 브로치를 다셨어."
+  },
+  {
+   "word": "broach",
+   "pos": "동사",
+   "meaning": "(어려운 이야기를) 꺼내다",
+   "en": "I didn't know how to broach the topic with my parents.",
+   "ko": "부모님께 그 이야기를 어떻게 꺼내야 할지 몰랐어."
+  }
+ ],
+ "imageSense": "대표 의미: 여행사 앞에 꽂혀 있는 알록달록한 여행 안내 책자",
+ "imageCaption": "여행사나 박물관 입구에 꽂혀 있는 얇고 반질반질한 안내 책자를 떠올려 보세요.",
+ "movieLineEn": "According to the brochure, this hotel has a pool on the roof.",
+ "movieLineKo": "안내 책자에 따르면 이 호텔엔 옥상 수영장이 있대.",
+ "storyTitle": "책자 속 호텔",
+ "story": "가족 여행 brochure(소책자)엔 바다가 보이는 멋진 호텔이 있었어요. 엄마는 새 brooch(브로치)까지 달고 신이 났죠. 그런데 도착하니 바다는 벽에 그려진 그림이었어요! 아빠가 조심스레 환불 이야기를 broach(꺼내다)하자, 주인은 웃으며 brochure(소책자) 맨 아래 작은 글씨를 가리켰답니다."
+}

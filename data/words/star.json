@@ -1,0 +1,62 @@
+{
+ "word": "star",
+ "pos": "명사 / 동사",
+ "phonetic": "[stɑːr]",
+ "meaning": "별, 스타, 인기인 / 주연을 맡다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "star (steorra)",
+   "meaning": "별 (star)",
+   "note": "고대 영어 steorra에서 온 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>star</strong> (고대 영어 steorra: 별) = 밤하늘에서 반짝이는 별에서, 사람들 사이에서 빛나는 <strong>'스타, 주연'</strong>이 되었습니다.",
+ "historyTitle": "인도유럽어 전체에 빛나는 '별'",
+ "historyBody": "star는 고대 영어 steorra에서 왔어요. 인도유럽 조어 *ster-에서 나온 말이라 그리스어 aster, 라틴어 stella와 먼 친척이에요. 그래서 astronaut, asterisk 같은 단어에도 '별'의 흔적이 남아 있어요. '인기 배우'라는 뜻은 19세기 초부터 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "starry",
+   "pos": "형용사",
+   "meaning": "별이 총총한",
+   "en": "We lay on the grass under the starry sky.",
+   "ko": "우리는 별이 총총한 하늘 아래 풀밭에 누웠어요."
+  },
+  {
+   "word": "stardom",
+   "pos": "명사",
+   "meaning": "스타의 지위, 인기",
+   "en": "The singer rose to stardom at the age of 17.",
+   "ko": "그 가수는 17살에 스타가 되었어요."
+  },
+  {
+   "word": "starlight",
+   "pos": "명사",
+   "meaning": "별빛",
+   "en": "The lake shone softly in the starlight.",
+   "ko": "호수가 별빛 속에서 은은하게 빛났어요."
+  },
+  {
+   "word": "superstar",
+   "pos": "명사",
+   "meaning": "슈퍼스타",
+   "en": "The soccer superstar visited a children's hospital.",
+   "ko": "그 축구 슈퍼스타가 어린이 병원을 방문했어요."
+  },
+  {
+   "word": "starfish",
+   "pos": "명사",
+   "meaning": "불가사리",
+   "en": "We found a starfish on the beach.",
+   "ko": "우리는 해변에서 불가사리를 발견했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 까만 밤하늘에 반짝이는 수많은 별",
+ "imageCaption": "캠핑장에서 올려다본 밤하늘의 반짝이는 별들을 떠올려 보세요.",
+ "movieLineEn": "You were born to be a star, kid.",
+ "movieLineKo": "꼬마야, 넌 스타가 될 운명을 타고났어.",
+ "storyTitle": "스타가 되고 싶은 불가사리",
+ "story": "바닷가 starfish(불가사리)는 진짜 star(스타)가 되고 싶었어요. 매일 밤 starry(별이 총총한) 하늘을 보며 노래 연습을 했죠. 마침내 오디션에서 starlight(별빛) 같은 목소리로 stardom(스타의 지위)에 올랐어요. 기자가 비결을 물었어요. \"팔이 다섯 개라 마이크를 다섯 개 들 수 있거든요!\""
+}

@@ -1,0 +1,41 @@
+{
+ "word": "camel",
+ "pos": "명사",
+ "phonetic": "[ˈkæml]",
+ "meaning": "낙타",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "camel (← kamēlos)",
+   "meaning": "낙타 (camel)",
+   "note": "그리스어 kamēlos에서 왔고, 그 전에는 히브리어 gamal 같은 셈어에서 왔어요."
+  }
+ ],
+ "summary": "<strong>camel</strong>은 셈어(히브리어 gamal, 아랍어 jamal)가 그리스어 <strong>kamēlos</strong>, 라틴어 camelus를 거쳐 온 말로 <strong>'낙타'</strong>를 뜻해요.",
+ "historyTitle": "사막에서 건너온 이름",
+ "historyBody": "낙타를 가리키는 말은 히브리어 gamal, 아랍어 jamal 같은 셈어에서 시작되었어요. 낙타가 많던 중동 지역의 이름이 그리스어 kamēlos와 라틴어 camelus를 거쳐 고대 영어에 들어왔죠. 영어 안에서는 더 쪼갤 수 없는, 먼 길을 여행해 온 외래어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "camel hair",
+   "pos": "명사",
+   "meaning": "낙타털 (옷감)",
+   "en": "He bought a warm coat made of camel hair.",
+   "ko": "그는 낙타털로 만든 따뜻한 코트를 샀어."
+  },
+  {
+   "word": "camel ride",
+   "pos": "명사",
+   "meaning": "낙타 타기",
+   "en": "We took a camel ride across the desert in Egypt.",
+   "ko": "우리는 이집트에서 낙타를 타고 사막을 건넜어."
+  }
+ ],
+ "imageSense": "대표 의미: 혹이 난 낙타가 뜨거운 사막을 천천히 걷는 장면",
+ "imageCaption": "끝없는 모래 언덕 위를 혹 달린 낙타가 느릿느릿 걸어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry. This camel knows the way to the oasis.",
+ "movieLineKo": "걱정 마. 이 낙타는 오아시스 가는 길을 알아.",
+ "storyTitle": "낙타의 복수",
+ "story": "사막 여행에서 아빠는 camel ride(낙타 타기)에 도전했어요. 멋지게 camel(낙타)에 올라 사진을 찍었죠. 그런데 낙타가 갑자기 앉아 버려 아빠는 모래 위로 데굴데굴! 아빠의 새 camel hair(낙타털) 코트를 보고 친척 낙타털이라 화가 났나 봐요. 그 camel(낙타)은 아빠 모자까지 먹어 버렸답니다."
+}

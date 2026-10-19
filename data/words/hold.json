@@ -1,0 +1,62 @@
+{
+ "word": "hold",
+ "pos": "동사 / 명사",
+ "phonetic": "[hoʊld]",
+ "meaning": "잡다, 들다, 개최하다, 유지하다, 담다 / 잡기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "hold (古 haldan)",
+   "meaning": "지키다, 붙잡다 (keep, grasp)",
+   "note": "고대 영어 haldan에서 온 게르만계 단어라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>hold</strong>는 고대 영어 haldan(<strong>지키다, 붙잡다</strong>)에서 와서 <strong>'잡다, 유지하다, 개최하다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "가축을 지키던 목동의 말",
+ "historyBody": "hold는 고대 영어 haldan(healdan)에서 왔는데, 원래 '가축을 지키다, 돌보다'라는 뜻이 있었어요. 그래서 '붙잡고 있다, 유지하다, (행사를) 열다'처럼 뜻이 넓어졌어요. 독일어 halten(잡다, 멈추다)과 형제 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "holder",
+   "pos": "명사",
+   "meaning": "소유자, 받침대",
+   "en": "Every ticket holder can enter the concert hall.",
+   "ko": "표를 가진 사람은 누구나 공연장에 들어갈 수 있어."
+  },
+  {
+   "word": "household",
+   "pos": "명사 / 형용사",
+   "meaning": "가정, 가구 / 가정의",
+   "en": "Most households have at least one smartphone.",
+   "ko": "대부분의 가정에는 스마트폰이 적어도 한 대 있어."
+  },
+  {
+   "word": "uphold",
+   "pos": "동사",
+   "meaning": "지지하다, 유지하다",
+   "en": "We must uphold the rules of our school.",
+   "ko": "우리는 학교 규칙을 지켜야 해."
+  },
+  {
+   "word": "withhold",
+   "pos": "동사",
+   "meaning": "보류하다, 주지 않다",
+   "en": "He withheld the truth from his parents.",
+   "ko": "그는 부모님께 사실을 숨겼어."
+  },
+  {
+   "word": "behold",
+   "pos": "동사",
+   "meaning": "(보다) 바라보다",
+   "en": "Behold the beautiful sunset over the sea!",
+   "ko": "바다 위의 아름다운 노을을 보라!"
+  }
+ ],
+ "imageSense": "대표 의미: 두 손으로 컵을 꼭 쥐고 있는 장면",
+ "imageCaption": "놓치지 않게 손에 꼭 쥐고 있는 모습, 그리고 '잠깐만 기다려(hold on)'를 떠올려 보세요.",
+ "movieLineEn": "Hold on tight. This is going to be bumpy.",
+ "movieLineKo": "꽉 잡아. 많이 흔들릴 거야.",
+ "storyTitle": "줄 서기 챔피언",
+ "story": "아빠는 household(가정)의 대표로 콘서트 표를 사러 갔어요. 몇 시간째 줄을 hold(유지하다)하며 자리를 지켰죠. 직원이 '표 holder(소유자)만 입장 가능!'이라며 판매를 withhold(보류하다)했지만, 아빠는 끝까지 uphold(지키다)했어요. 마침내 표를 받고 외쳤죠. 'Behold(보라)!' 그런데 그건 내년 공연 표였대요."
+}

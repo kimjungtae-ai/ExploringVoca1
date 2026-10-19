@@ -1,0 +1,74 @@
+{
+ "word": "competency",
+ "pos": "명사",
+ "phonetic": "[ˈkɑːmpɪtənsi]",
+ "meaning": "능력, 역량, 적성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pet",
+   "meaning": "추구하다, 향하다 (seek, strive)",
+   "note": "라틴어 petere(찾다, 향해 가다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ency",
+   "meaning": "~한 성질 (명사형)",
+   "note": "형용사 competent를 성질을 나타내는 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>pet</strong> (향하다) + <strong>-ency</strong> (성질) = '목표에 맞게 해낼 수 있는 성질'이라는 데서 <strong>'능력, 역량'</strong>이 되었습니다.",
+ "historyTitle": "딱 맞아떨어진다는 뜻",
+ "historyBody": "라틴어 competere는 '함께 향해 가다'에서 '서로 맞아떨어지다, 적합하다'라는 뜻이 되었어요. 그래서 competent는 '어떤 일에 딱 맞는, 유능한'이라는 뜻이 되었죠. 같은 동사에서 '함께 다투다'라는 뜻의 compete(경쟁하다)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "competent",
+   "pos": "형용사",
+   "meaning": "유능한, 능숙한",
+   "en": "She is a competent leader who listens to everyone.",
+   "ko": "그녀는 모두의 말을 들어 주는 유능한 리더예요."
+  },
+  {
+   "word": "compete",
+   "pos": "동사",
+   "meaning": "경쟁하다",
+   "en": "Ten teams will compete in the final.",
+   "ko": "결승에서 10개 팀이 경쟁할 거예요."
+  },
+  {
+   "word": "appetite",
+   "pos": "명사",
+   "meaning": "식욕, 욕구",
+   "en": "Running gave me a huge appetite.",
+   "ko": "달리기를 했더니 식욕이 엄청 생겼어."
+  },
+  {
+   "word": "repeat",
+   "pos": "동사",
+   "meaning": "반복하다",
+   "en": "Could you repeat the question, please?",
+   "ko": "질문을 다시 한번 말씀해 주시겠어요?"
+  },
+  {
+   "word": "petition",
+   "pos": "명사",
+   "meaning": "청원, 탄원서",
+   "en": "Over a thousand students signed the petition.",
+   "ko": "천 명이 넘는 학생이 그 청원서에 서명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 면접관 앞에서 자신의 능력을 차근차근 보여 주는 지원자",
+ "imageCaption": "목표를 향해(pet) 딱 맞게 해낼 수 있는 힘을 떠올려 보세요.",
+ "movieLineEn": "This job needs one key competency: never giving up.",
+ "movieLineKo": "이 일에는 핵심 역량 하나가 필요해. 절대 포기하지 않는 것.",
+ "storyTitle": "로봇 알바생의 역량",
+ "story": "편의점에 로봇 알바생이 왔어요. 사장님은 그의 competency(역량)를 시험했죠. 계산은 competent(유능한)했지만 손님이 같은 말을 repeat(반복하다)하면 고장 났어요. 결국 로봇은 해고를 막으려 petition(청원서)을 냈는데, 서명한 건 전부 다른 로봇들이었대요!"
+}

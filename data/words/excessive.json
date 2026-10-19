@@ -1,0 +1,74 @@
+{
+ "word": "excessive",
+ "pos": "형용사",
+ "phonetic": "[ɪkˈsesɪv]",
+ "meaning": "지나친, 과도한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "정해진 선 밖으로 나간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cess",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다)의 과거분사 cessus에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~한 성질의 (형용사형)",
+   "note": "성질이나 경향을 나타내는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>cess</strong> (가다) + <strong>-ive</strong> (형용사) = '적당한 선을 넘어간'에서 <strong>'지나친, 과도한'</strong>이 되었어요.",
+ "historyTitle": "선을 넘은 상태",
+ "historyBody": "excessive는 고대 프랑스어 'excessif'를 거쳐 라틴어 'excessus(넘어감)'에서 왔어요. excessus는 동사 excedere(넘어서다)의 과거분사형으로, exceed와 같은 뿌리예요. 즉 '적당한 한계를 넘어가 버린' 상태를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "excess",
+   "pos": "명사",
+   "meaning": "초과, 과잉",
+   "en": "An excess of salt can raise blood pressure.",
+   "ko": "소금을 너무 많이 먹으면 혈압이 오를 수 있어요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "The cost exceeded our budget.",
+   "ko": "비용이 우리 예산을 초과했어요."
+  },
+  {
+   "word": "access",
+   "pos": "명사 / 동사",
+   "meaning": "접근 / 접근하다",
+   "en": "Only staff can access this room.",
+   "ko": "직원만 이 방에 들어갈 수 있어요."
+  },
+  {
+   "word": "process",
+   "pos": "명사 / 동사",
+   "meaning": "과정 / 처리하다",
+   "en": "Learning a language is a slow process.",
+   "ko": "언어를 배우는 건 느린 과정이에요."
+  },
+  {
+   "word": "recede",
+   "pos": "동사",
+   "meaning": "물러나다, 약해지다",
+   "en": "The flood water slowly receded.",
+   "ko": "홍수 물이 천천히 빠졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 컵에 물을 너무 많이 부어 넘쳐흐르는 장면",
+ "imageCaption": "적당한 선을 넘어 물이 컵 밖으로 줄줄 흘러넘치는 모습을 떠올려 보세요.",
+ "movieLineEn": "This is excessive, even for you!",
+ "movieLineKo": "이건 너한테도 너무 지나쳐!",
+ "storyTitle": "과도한 생일 파티",
+ "story": "강아지 생일에 주인은 excessive(지나친) 파티를 열었어요. 풍선이 excess(과잉) 상태라 집 문을 access(접근)할 수도 없었죠. 결국 예산을 exceed(초과하다)했어요. 그런데 정작 강아지는 파티 내내 풍선 상자 안에서 꿀잠을 잤답니다."
+}

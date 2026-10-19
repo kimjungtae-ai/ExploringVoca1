@@ -1,0 +1,88 @@
+{
+ "word": "information",
+ "pos": "명사",
+ "phonetic": "[ˌɪnfərˈmeɪʃən]",
+ "meaning": "정보, 지식, 안내",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안쪽에 넣는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "form",
+   "meaning": "모양, 형태 (shape)",
+   "note": "라틴어 forma(모양)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>form</strong> (모양) + <strong>-ation</strong> (~것) = '머릿속에 모양을 만들어 준 것'이라는 뜻에서 <strong>'정보'</strong>가 되었습니다.",
+ "historyTitle": "가르침에서 디지털 정보로",
+ "historyBody": "라틴어 'informatio'는 '개념, 가르침'이라는 뜻이었어요. 14세기 영어에서는 '전달된 지식'을 뜻했고, 20세기 컴퓨터 시대에는 데이터라는 뜻까지 얻었죠. 정보 기술 IT의 I가 바로 information이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inform",
+   "pos": "동사",
+   "meaning": "알리다",
+   "en": "Please inform me of any changes.",
+   "ko": "변경 사항이 있으면 저에게 알려 주세요."
+  },
+  {
+   "word": "informative",
+   "pos": "형용사",
+   "meaning": "유익한",
+   "en": "The museum tour was informative and fun.",
+   "ko": "박물관 견학은 유익하고 재미있었어요."
+  },
+  {
+   "word": "formation",
+   "pos": "명사",
+   "meaning": "형성, 대형",
+   "en": "The birds flew in a V formation.",
+   "ko": "새들이 V자 대형으로 날아갔어요."
+  },
+  {
+   "word": "transform",
+   "pos": "동사",
+   "meaning": "변형시키다, 바꾸다",
+   "en": "The old factory was transformed into a museum.",
+   "ko": "낡은 공장이 박물관으로 바뀌었어요."
+  },
+  {
+   "word": "reform",
+   "pos": "동사 / 명사",
+   "meaning": "개혁하다 / 개혁",
+   "en": "The government plans to reform the school system.",
+   "ko": "정부는 학교 제도를 개혁할 계획이에요."
+  },
+  {
+   "word": "uniform",
+   "pos": "명사 / 형용사",
+   "meaning": "교복, 제복 / 균일한",
+   "en": "Students must wear a uniform at school.",
+   "ko": "학생들은 학교에서 교복을 입어야 해요."
+  },
+  {
+   "word": "formal",
+   "pos": "형용사",
+   "meaning": "공식적인, 격식을 차린",
+   "en": "You should wear formal clothes to the interview.",
+   "ko": "면접에는 격식 있는 옷을 입어야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 안내 데스크에서 지도를 펼쳐 주는 직원",
+ "imageCaption": "궁금한 것을 물었을 때 머릿속에 그림이 딱 그려지게 해 주는 내용을 떠올려 보세요. 그게 information이에요.",
+ "movieLineEn": "I need more information before I trust you.",
+ "movieLineKo": "널 믿기 전에 정보가 더 필요해.",
+ "storyTitle": "정보의 바다에서 생긴 일",
+ "story": "준호는 숙제를 위해 인터넷에서 information(정보)을 찾았어요. 아주 informative(유익한) 글을 발견해 formal(격식 있는) 보고서로 바꿨죠. 선생님은 '훌륭한 보고서'라며 칭찬하셨고, 반 전체에 그 출처를 inform(알리다)하셨어요. 그 글을 쓴 사람은… 바로 선생님이었대요!"
+}

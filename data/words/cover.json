@@ -1,0 +1,55 @@
+{
+ "word": "cover",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈkʌvər]",
+ "meaning": "덮다, 가리다, 다루다, 보도하다, (비용을) 충당하다 / 덮개, 표지",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cooperire (라틴어)",
+   "meaning": "완전히 덮다 (cover completely)",
+   "note": "co-(완전히) + operire(덮다, 닫다)가 고대 프랑스어 covrir를 거쳐 cover가 되었어요."
+  }
+ ],
+ "summary": "라틴어 <strong>cooperire</strong> (완전히 덮다)가 고대 프랑스어 covrir로 줄어들면서 <strong>'덮다, 다루다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 operire, '덮어 닫다'",
+ "historyBody": "cover는 고대 프랑스어 covrir를 거쳐 라틴어 cooperire(완전히 덮다)에서 왔어요. '덮다'에서 '범위를 덮다', 즉 '(주제를) 다루다, 보도하다'로 뜻이 넓어졌어요. 참고로 recover(회복하다)는 라틴어 recuperare에서 온 다른 단어라서 cover의 가족이 아니에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "discover",
+   "pos": "동사",
+   "meaning": "발견하다",
+   "en": "Scientists discovered a new kind of frog.",
+   "ko": "과학자들이 새로운 종류의 개구리를 발견했어요."
+  },
+  {
+   "word": "discovery",
+   "pos": "명사",
+   "meaning": "발견",
+   "en": "The discovery of penicillin saved many lives.",
+   "ko": "페니실린의 발견은 많은 생명을 구했어요."
+  },
+  {
+   "word": "uncover",
+   "pos": "동사",
+   "meaning": "덮개를 벗기다, 밝혀내다",
+   "en": "The reporter uncovered the truth.",
+   "ko": "그 기자가 진실을 밝혀냈어요."
+  },
+  {
+   "word": "coverage",
+   "pos": "명사",
+   "meaning": "보도, 보장 범위",
+   "en": "The news coverage of the event was huge.",
+   "ko": "그 사건에 대한 뉴스 보도는 엄청났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 잠든 아이에게 이불을 덮어 주는 장면",
+ "imageCaption": "포근한 이불을 아이 어깨까지 덮어 주는 모습을 떠올려 보세요. 무언가를 감싸 가리는 것이 cover예요.",
+ "movieLineEn": "Cover me! I'm going in!",
+ "movieLineKo": "엄호해 줘! 내가 들어간다!",
+ "storyTitle": "이불 속 보물",
+ "story": "동생은 항상 이불로 무언가를 cover(덮다)하고 있었어요. 나는 그 비밀을 uncover(밝혀내다)하기로 했죠. 기자처럼 coverage(보도)를 준비하고 이불을 확 걷었더니, 큰 discovery(발견)가 있었어요! 바로 내가 잃어버린 과자 상자였대요. 반은 이미 비어 있었고요."
+}

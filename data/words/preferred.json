@@ -1,0 +1,81 @@
+{
+ "word": "preferred",
+ "pos": "형용사 / 동사",
+ "phonetic": "[prɪˈfɜːrd]",
+ "meaning": "선호되는, 우선의 / prefer의 과거·과거분사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "앞에 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 ferre(나르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사)",
+   "note": "r을 하나 더 쓰고 -ed를 붙였어요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (앞에) + <strong>fer</strong> (나르다) + <strong>-ed</strong> (~된) = 앞자리로 옮겨진, 곧 <strong>'선호되는'</strong>이에요.",
+ "historyTitle": "앞에 놓인 것이 더 좋은 것",
+ "historyBody": "prefer는 라틴어 praeferre(앞에 놓다)에서 고대 프랑스어 preferer를 거쳐 1300년대 영어에 들어왔어요. 원래는 '승진시키다, 앞에 내세우다'라는 뜻도 있었어요. preferred는 그 과거분사로 '우선적으로 선택되는'이라는 뜻이며, 강세가 뒤에 있어서 r을 두 번 쓴답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prefer",
+   "pos": "동사",
+   "meaning": "더 좋아하다, 선호하다",
+   "en": "I prefer tea to coffee.",
+   "ko": "나는 커피보다 차를 더 좋아해요."
+  },
+  {
+   "word": "preference",
+   "pos": "명사",
+   "meaning": "선호, 좋아함",
+   "en": "Everyone has a different preference in music.",
+   "ko": "사람마다 음악 취향이 달라요."
+  },
+  {
+   "word": "preferable",
+   "pos": "형용사",
+   "meaning": "더 나은, 바람직한",
+   "en": "Walking is preferable to driving for short trips.",
+   "ko": "가까운 거리는 운전보다 걷는 게 더 나아요."
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참고하다",
+   "en": "Please refer to page ten for the answer.",
+   "ko": "정답은 10쪽을 참고하세요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사/명사",
+   "meaning": "옮기다, 갈아타다 / 이동",
+   "en": "You need to transfer to another bus at the station.",
+   "ko": "정류장에서 다른 버스로 갈아타야 해요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사/명사",
+   "meaning": "제공하다, 제안하다 / 제안",
+   "en": "She offered me a seat on the bus.",
+   "ko": "그녀는 버스에서 내게 자리를 양보해 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 메뉴판에서 하트 표시가 붙은 인기 메뉴",
+ "imageCaption": "여러 메뉴 중 '추천'이라고 별표가 붙은 메뉴를 떠올려 보세요. 앞으로 내세워진 거예요.",
+ "movieLineEn": "Cash is my preferred payment, but hugs work too.",
+ "movieLineKo": "현금이 제일 좋지만 포옹도 받아 줄게.",
+ "storyTitle": "선호 좌석의 비밀",
+ "story": "비행기에서 민수는 preferred(선호되는) 창가 자리를 예약했어요. 창밖 구름을 prefer(더 좋아하다)했거든요. 그런데 옆 사람이 자리를 바꾸자고 offer(제안하다)했죠. 친절한 민수는 자리를 transfer(옮기다)했어요. 알고 보니 그 자리는 비즈니스석! 착한 일의 대가였대요."
+}

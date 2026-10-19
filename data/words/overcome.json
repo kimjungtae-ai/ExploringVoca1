@@ -1,0 +1,68 @@
+{
+ "word": "overcome",
+ "pos": "동사",
+ "phonetic": "[ˌoʊvərˈkʌm]",
+ "meaning": "극복하다, 이겨내다, (감정에) 압도되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "come",
+   "meaning": "오다 (come)",
+   "note": "고대 영어 cuman(오다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>over</strong> (넘어서) + <strong>come</strong> (오다) = '장애물을 넘어서 오다'라는 뜻에서 <strong>'극복하다, 이겨내다'</strong>가 되었어요.",
+ "historyTitle": "적을 넘어 이긴다는 옛말",
+ "historyBody": "overcome은 고대 영어 ofercuman에서 왔고, 원래 '적을 이기다, 덮쳐 오다'라는 뜻이었어요. 그 뒤 어려움이나 두려움을 '극복하다'라는 뜻으로 넓어졌어요. be overcome with(감정에 압도되다)는 감정이 사람을 '덮쳐 온다'는 옛 뜻이 남은 표현이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "come",
+   "pos": "동사",
+   "meaning": "오다",
+   "en": "Spring will come soon.",
+   "ko": "곧 봄이 올 거예요."
+  },
+  {
+   "word": "income",
+   "pos": "명사",
+   "meaning": "수입, 소득",
+   "en": "Many families spend a large part of their income on housing.",
+   "ko": "많은 가정이 소득의 큰 부분을 주거비로 써요."
+  },
+  {
+   "word": "outcome",
+   "pos": "명사",
+   "meaning": "결과",
+   "en": "Nobody could predict the outcome of the election.",
+   "ko": "아무도 선거 결과를 예측할 수 없었어요."
+  },
+  {
+   "word": "become",
+   "pos": "동사",
+   "meaning": "~이 되다",
+   "en": "She wants to become a doctor someday.",
+   "ko": "그녀는 언젠가 의사가 되고 싶어 해요."
+  },
+  {
+   "word": "welcome",
+   "pos": "동사 / 감탄사",
+   "meaning": "환영하다 / 환영합니다",
+   "en": "The host family welcomed me with a warm smile.",
+   "ko": "홈스테이 가족은 따뜻한 미소로 나를 맞아 주었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 장애물 벽을 힘껏 넘어 반대편에 착지하는 장면",
+ "imageCaption": "커다란 벽을 기어올라 넘어오는 모습을 떠올려 보세요. 어려움을 '넘어서 오는 것', 그게 overcome이에요.",
+ "movieLineEn": "Together, we can overcome anything. Even this storm.",
+ "movieLineKo": "함께라면 우린 뭐든 이겨낼 수 있어. 이 폭풍까지도.",
+ "storyTitle": "무대 공포증 극복기",
+ "story": "지민이는 무대 공포증을 overcome(극복하다)하고 싶었어요. 가수가 become(되다)하는 게 꿈이었거든요. 드디어 축제 무대에 올랐고, 관객들이 welcome(환영하다)해 줬어요. outcome(결과)은 대성공! 그런데 알고 보니 관객은 전부 지민이네 가족 스무 명이었답니다."
+}

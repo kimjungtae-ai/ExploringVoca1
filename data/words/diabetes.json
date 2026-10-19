@@ -1,0 +1,60 @@
+{
+ "word": "diabetes",
+ "pos": "명사",
+ "phonetic": "[ˌdaɪəˈbiːtiːz]",
+ "meaning": "당뇨병",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dia-",
+   "meaning": "통과하여 (through)",
+   "note": "그리스어 dia(관통하여)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "bet",
+   "meaning": "가다 (go)",
+   "note": "그리스어 bainein(가다, 걷다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-es",
+   "meaning": "~하는 것 (그리스어 명사 꼬리)",
+   "note": "그리스어 diabētēs(통과하는 것, 사이펀)의 꼬리예요."
+  }
+ ],
+ "summary": "<strong>dia-</strong> (통과하여) + <strong>bet</strong> (가다) = '물이 몸을 그대로 통과해 나가는 병'에서 <strong>'당뇨병'</strong>이 되었어요.",
+ "historyTitle": "몸을 관통하는 사이펀",
+ "historyBody": "diabetes는 그리스어 diabētēs(통과하는 것, 사이펀)에서 왔어요. 고대 그리스 의사들은 물을 마셔도 소변으로 계속 빠져나가는 증상을 보고, 물이 관을 통과하듯 몸을 지나간다고 해서 이 이름을 붙였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "diabetic",
+   "pos": "형용사 / 명사",
+   "meaning": "당뇨병의 / 당뇨병 환자",
+   "en": "My grandfather eats diabetic snacks with no sugar.",
+   "ko": "할아버지는 설탕이 없는 당뇨 환자용 간식을 드세요."
+  },
+  {
+   "word": "basis",
+   "pos": "명사",
+   "meaning": "기초, 근거",
+   "en": "Trust is the basis of every friendship.",
+   "ko": "신뢰는 모든 우정의 기초예요."
+  },
+  {
+   "word": "acrobat",
+   "pos": "명사",
+   "meaning": "곡예사",
+   "en": "The acrobat walked on a rope high above us.",
+   "ko": "곡예사가 우리 머리 위 높은 밧줄 위를 걸었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 혈당 측정기로 손끝의 피를 재는 장면",
+ "imageCaption": "단 음식을 조심하며 혈당 수치를 확인하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Too much sugar every day can lead to diabetes.",
+ "movieLineKo": "매일 설탕을 너무 많이 먹으면 당뇨병에 걸릴 수 있어.",
+ "storyTitle": "곡예사의 사탕 금지령",
+ "story": "서커스 acrobat(곡예사) 원숭이는 사탕 중독이었어요. 의사는 diabetes(당뇨병)를 경고하며 diabetic(당뇨병의) 식단을 짜 줬죠. 건강이 공연의 basis(기초)라는 말에 원숭이는 사탕을 끊었어요. 대신 바나나 50개를 먹었대요. 그것도 당이 많은데!"
+}

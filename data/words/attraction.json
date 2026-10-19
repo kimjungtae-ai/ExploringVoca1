@@ -1,0 +1,81 @@
+{
+ "word": "attraction",
+ "pos": "명사",
+ "phonetic": "[əˈtrækʃn]",
+ "meaning": "매력, 끌림, 명소, 볼거리, 인력",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "at- (ad-)",
+   "meaning": "~쪽으로 (to)",
+   "note": "ad-가 t 앞에서 at-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tract (trahere)",
+   "meaning": "끌다 (draw)",
+   "note": "끌어당긴다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>at-</strong> (~쪽으로) + <strong>tract</strong> (끌다) + <strong>-ion</strong> (명사) = '사람을 끌어당기는 것'에서 <strong>'매력, 명소'</strong>가 되었어요.",
+ "historyTitle": "과학의 인력에서 관광 명소까지",
+ "historyBody": "attraction은 라틴어 'attractio(끌어당김)'에서 왔어요. 17세기 뉴턴의 시대에는 물체끼리 끌어당기는 힘, 즉 '인력'을 뜻하는 과학 용어로 많이 쓰였죠. 19세기부터는 사람을 끌어모으는 쇼나 장소, 곧 '볼거리, 명소'라는 뜻으로도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다",
+   "en": "The festival attracts thousands of visitors.",
+   "ko": "그 축제는 수천 명의 방문객을 끌어모아요."
+  },
+  {
+   "word": "attractive",
+   "pos": "형용사",
+   "meaning": "매력적인",
+   "en": "The city is attractive to young travelers.",
+   "ko": "그 도시는 젊은 여행자들에게 매력적이에요."
+  },
+  {
+   "word": "distract",
+   "pos": "동사",
+   "meaning": "(주의를) 산만하게 하다",
+   "en": "Loud music distracts me when I study.",
+   "ko": "공부할 때 시끄러운 음악은 나를 산만하게 해요."
+  },
+  {
+   "word": "extract",
+   "pos": "동사/명사",
+   "meaning": "뽑아내다 / 추출물",
+   "en": "The dentist extracted my bad tooth.",
+   "ko": "치과 의사가 내 썩은 이를 뽑았어요."
+  },
+  {
+   "word": "tractor",
+   "pos": "명사",
+   "meaning": "트랙터",
+   "en": "The farmer drove his tractor across the field.",
+   "ko": "농부가 트랙터를 몰고 들판을 가로질렀어요."
+  },
+  {
+   "word": "contract",
+   "pos": "명사/동사",
+   "meaning": "계약 / 수축하다",
+   "en": "The player signed a three-year contract.",
+   "ko": "그 선수는 3년 계약에 서명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 놀이공원의 롤러코스터 앞에 길게 늘어선 사람들",
+ "imageCaption": "놀이공원에서 가장 인기 있는 놀이기구 앞에 길게 줄 선 사람들을 떠올려 보세요. 사람들을 끌어당기는 볼거리가 attraction이에요.",
+ "movieLineEn": "There's a strange attraction between us. I can't explain it.",
+ "movieLineKo": "우리 사이엔 이상한 끌림이 있어. 설명할 순 없지만.",
+ "storyTitle": "동네 최고의 명소",
+ "story": "우리 동네에 새로운 attraction(명소)이 생겼어요. 줄이 너무 길어서 다들 그곳이 정말 attractive(매력적인) 곳이라 생각했죠. 나도 contract(계약)서 같은 대기표를 받고 두 시간을 기다렸어요. 마침내 들어가 보니, 그냥 줄 서는 사람들을 구경하는 곳이었어요. 사람들은 그 광경에 attract(끌리다)된 거였죠!"
+}

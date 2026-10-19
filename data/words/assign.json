@@ -1,0 +1,75 @@
+{
+ "word": "assign",
+ "pos": "동사",
+ "phonetic": "[əˈsaɪn]",
+ "meaning": "(일·책임을) 맡기다, 배정하다, 할당하다, 지정하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "as- (ad-)",
+   "meaning": "~에게 (to)",
+   "note": "ad-가 s 앞에서 as-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sign (signare)",
+   "meaning": "표시하다 (mark)",
+   "note": "라틴어 signum(표시)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>as-</strong> (~에게) + <strong>sign</strong> (표시하다) = '이 일은 너에게 간다고 표시하다'에서 <strong>'맡기다, 배정하다'</strong>가 되었어요.",
+ "historyTitle": "이름표를 붙여 나눠 주다",
+ "historyBody": "라틴어 'assignare'는 ad-(~에게)와 'signare(표시하다)'가 합쳐진 말이에요. 원래는 땅이나 몫을 누구의 것인지 '표시해서 나눠 주다'라는 뜻이었어요. 이것이 고대 프랑스어 'assigner'를 거쳐 영어에 들어와 '일이나 역할을 맡기다'로 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "assignment",
+   "pos": "명사",
+   "meaning": "과제, 임무",
+   "en": "I finished my math assignment last night.",
+   "ko": "나는 어젯밤에 수학 과제를 끝냈어요."
+  },
+  {
+   "word": "sign",
+   "pos": "명사/동사",
+   "meaning": "표지판, 징후 / 서명하다",
+   "en": "Please sign your name at the bottom.",
+   "ko": "맨 아래에 이름을 서명해 주세요."
+  },
+  {
+   "word": "signal",
+   "pos": "명사/동사",
+   "meaning": "신호 / 신호를 보내다",
+   "en": "Wait for the green signal before you cross.",
+   "ko": "길을 건너기 전에 초록 신호를 기다리세요."
+  },
+  {
+   "word": "signature",
+   "pos": "명사",
+   "meaning": "서명",
+   "en": "I need your signature on this form.",
+   "ko": "이 양식에 당신의 서명이 필요해요."
+  },
+  {
+   "word": "design",
+   "pos": "동사/명사",
+   "meaning": "설계하다 / 디자인",
+   "en": "She designed her own website.",
+   "ko": "그녀는 자기 웹사이트를 직접 디자인했어요."
+  },
+  {
+   "word": "significant",
+   "pos": "형용사",
+   "meaning": "중요한, 상당한",
+   "en": "There was a significant change in the weather.",
+   "ko": "날씨에 상당한 변화가 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 학생마다 다른 과제 카드를 나눠 주는 장면",
+ "imageCaption": "선생님이 이름이 적힌 카드를 한 장씩 나눠 주며 '이건 네 몫이야' 하는 모습을 떠올려 보세요. 표시해서 맡기는 것이 assign이에요.",
+ "movieLineEn": "The general assigned me to guard the gate tonight.",
+ "movieLineKo": "장군님께서 오늘 밤 나에게 성문 경비를 맡기셨어.",
+ "storyTitle": "조별 과제의 반전",
+ "story": "선생님이 조별 assignment(과제)를 assign(맡기다)하셨어요. 리더 서준이는 친구들에게 역할 카드에 sign(서명하다)하게 했죠. 모두 signature(서명)를 마치자 서준이가 웃었어요. '좋아, 이제 발표는 전부 너희 몫이야!' 그런데 카드 뒷면을 보니 '발표자: 서준'이라고 쓰여 있었답니다."
+}

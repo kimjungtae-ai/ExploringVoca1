@@ -1,0 +1,88 @@
+{
+ "word": "intensive",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈtensɪv]",
+ "meaning": "집중적인, 집약적인, 강도 높은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~쪽으로 (toward)",
+   "note": "한쪽을 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tens",
+   "meaning": "팽팽하게 당긴 (stretched)",
+   "note": "라틴어 tensus(당겨진)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~쪽으로) + <strong>tens</strong> (팽팽한) + <strong>-ive</strong> (~한) = '한곳에 팽팽하게 힘을 모은'이라는 뜻에서 <strong>'집중적인'</strong>이 되었습니다.",
+ "historyTitle": "중환자실(ICU)의 I",
+ "historyBody": "intensive는 15세기부터 쓰였는데, 처음엔 '강렬한'과 거의 같은 뜻이었어요. 나중에 '짧은 시간에 힘을 집중하는'이라는 뜻이 중심이 되었죠. 병원의 중환자실 ICU가 바로 Intensive Care Unit, 집중 치료실이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "intense",
+   "pos": "형용사",
+   "meaning": "강렬한",
+   "en": "He has an intense love for music.",
+   "ko": "그는 음악을 열렬히 사랑해요."
+  },
+  {
+   "word": "intensity",
+   "pos": "명사",
+   "meaning": "강도, 강렬함",
+   "en": "The intensity of the sunlight hurt my eyes.",
+   "ko": "햇빛의 강렬함에 눈이 아팠어요."
+  },
+  {
+   "word": "intensive",
+   "pos": "형용사",
+   "meaning": "집중적인, 집약적인",
+   "en": "She took an intensive English course.",
+   "ko": "그녀는 집중 영어 강좌를 들었어요."
+  },
+  {
+   "word": "intensify",
+   "pos": "동사",
+   "meaning": "강화하다, 심해지다",
+   "en": "The storm intensified during the night.",
+   "ko": "폭풍이 밤사이 더 심해졌어요."
+  },
+  {
+   "word": "intend",
+   "pos": "동사",
+   "meaning": "의도하다",
+   "en": "I intend to study abroad next year.",
+   "ko": "나는 내년에 유학 갈 작정이에요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장",
+   "en": "The tension in the room was high.",
+   "ko": "방 안의 긴장감이 높았어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 늘이다",
+   "en": "Can you extend your stay for a day?",
+   "ko": "하루 더 머무를 수 있나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 방학 동안 하루 종일 영어만 공부하는 집중 캠프",
+ "imageCaption": "흩어진 힘을 한 점에 모아 팽팽하게 쏟아붓는 모습을 떠올려 보세요. 그게 intensive예요.",
+ "movieLineEn": "This is an intensive program. Only the strong survive.",
+ "movieLineKo": "이건 집중 프로그램이야. 강한 자만 살아남지.",
+ "storyTitle": "집중 수학 캠프",
+ "story": "지호는 방학 동안 intensive(집중적인) 수학 캠프에 갔어요. 수업의 intensity(강도)가 너무 intense(강렬한)해서 꿈에서도 숫자가 나왔죠. 지호는 캠프를 extend(연장하다)하자는 선생님 말에 기절할 뻔했어요. 그런데 집에 오니 동생이 물었어요. '형, 3 더하기 5가 뭐야?' 지호는 대답하지 못했대요."
+}

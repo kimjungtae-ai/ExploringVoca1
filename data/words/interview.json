@@ -1,0 +1,75 @@
+{
+ "word": "interview",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪntərvjuː]",
+ "meaning": "면접, 인터뷰 / 면접하다, 인터뷰하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "서로, 사이에 (between)",
+   "note": "두 사람이 서로 마주 본다는 느낌을 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "view",
+   "meaning": "보다 (see)",
+   "note": "라틴어 videre(보다)에서 프랑스어를 거쳐 온 말이에요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (서로) + <strong>view</strong> (보다) = '서로 마주 보며 이야기하다'에서 <strong>'면접, 인터뷰'</strong>가 되었어요.",
+ "historyTitle": "서로 얼굴을 보던 프랑스의 만남",
+ "historyBody": "interview는 16세기 중세 프랑스어 entrevue에서 왔는데, entrevoir는 '서로 얼굴을 잠깐 보다'라는 뜻이었어요. 처음엔 사람끼리 만나는 '면담'을 뜻했고, 19세기에 신문 기자가 유명인에게 질문하는 '인터뷰'의 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "view",
+   "pos": "명사 / 동사",
+   "meaning": "경치, 견해 / 보다",
+   "en": "The view from the top of the mountain was amazing.",
+   "ko": "산꼭대기에서 본 경치는 정말 놀라웠어요."
+  },
+  {
+   "word": "review",
+   "pos": "명사 / 동사",
+   "meaning": "복습, 검토, 후기 / 다시 보다",
+   "en": "I review my notes every night before I go to bed.",
+   "ko": "나는 매일 밤 자기 전에 필기를 복습해요."
+  },
+  {
+   "word": "preview",
+   "pos": "명사 / 동사",
+   "meaning": "미리 보기, 예고편 / 미리 보다",
+   "en": "We watched a preview of the new movie online.",
+   "ko": "우리는 온라인에서 새 영화의 예고편을 봤어요."
+  },
+  {
+   "word": "viewer",
+   "pos": "명사",
+   "meaning": "시청자, 보는 사람",
+   "en": "The show attracted millions of viewers last night.",
+   "ko": "그 프로그램은 어젯밤 수백만 명의 시청자를 끌어모았어요."
+  },
+  {
+   "word": "interviewer",
+   "pos": "명사",
+   "meaning": "면접관, 인터뷰 진행자",
+   "en": "The interviewer asked me why I wanted the job.",
+   "ko": "면접관은 내가 왜 그 일을 원하는지 물었어요."
+  },
+  {
+   "word": "viewpoint",
+   "pos": "명사",
+   "meaning": "관점, 견해",
+   "en": "Try to understand the problem from your friend's viewpoint.",
+   "ko": "친구의 관점에서 그 문제를 이해하려고 해 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상을 사이에 두고 면접관과 지원자가 마주 앉아 이야기하는 장면",
+ "imageCaption": "두 사람이 서로(inter) 얼굴을 바라보며(view) 질문과 대답을 주고받는 모습을 떠올려 보세요.",
+ "movieLineEn": "Relax. It's just an interview, not a trial.",
+ "movieLineKo": "긴장 풀어. 그냥 면접이야, 재판이 아니라고.",
+ "storyTitle": "고양이의 면접 대소동",
+ "story": "고양이가 생선가게 interview(면접)를 봤어요. 미리 preview(미리 보기)로 질문을 외우고, 전날 밤 review(복습하다)도 했죠. interviewer(면접관)가 '당신의 viewpoint(관점)에서 생선이란?'이라고 묻자 고양이는 침을 꿀꺽. 결과는 합격! 단, 생선 근처엔 절대 가지 않는 계산대 담당으로요."
+}

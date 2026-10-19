@@ -1,0 +1,75 @@
+{
+ "word": "produce",
+ "pos": "동사 / 명사",
+ "phonetic": "[동 prəˈduːs / 명 ˈproʊduːs]",
+ "meaning": "생산하다, 만들어 내다, 낳다 / 농산물",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞으로 내놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "duc(e)",
+   "meaning": "이끌다 (lead)",
+   "note": "라틴어 ducere(이끌다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>duce</strong> (이끌다) = '앞으로 이끌어 내다'라는 뜻에서 <strong>'생산하다'</strong>가 되었어요.",
+ "historyTitle": "앞으로 끌어내는 일",
+ "historyBody": "라틴어 producere는 '앞으로 이끌어 내다, 늘이다'라는 뜻이었어요. 15세기 초 영어에 들어와 '만들어 내다, 생산하다'라는 의미로 자리 잡았어요. 명사로 쓰일 때는 '농산물'이라는 뜻이 되고 강세가 앞으로 옮겨 가요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "product",
+   "pos": "명사",
+   "meaning": "제품, 생산물",
+   "en": "This product is made from recycled plastic.",
+   "ko": "이 제품은 재활용 플라스틱으로 만들어졌어요."
+  },
+  {
+   "word": "production",
+   "pos": "명사",
+   "meaning": "생산",
+   "en": "Rice production increased this year.",
+   "ko": "올해 쌀 생산량이 늘었어요."
+  },
+  {
+   "word": "productive",
+   "pos": "형용사",
+   "meaning": "생산적인",
+   "en": "I had a very productive morning.",
+   "ko": "나는 아주 생산적인 아침을 보냈어요."
+  },
+  {
+   "word": "introduce",
+   "pos": "동사",
+   "meaning": "소개하다, 도입하다",
+   "en": "Let me introduce my best friend.",
+   "ko": "제 가장 친한 친구를 소개할게요."
+  },
+  {
+   "word": "reduce",
+   "pos": "동사",
+   "meaning": "줄이다",
+   "en": "We should reduce plastic waste.",
+   "ko": "우리는 플라스틱 쓰레기를 줄여야 해요."
+  },
+  {
+   "word": "educate",
+   "pos": "동사",
+   "meaning": "교육하다",
+   "en": "Schools educate young people for the future.",
+   "ko": "학교는 미래를 위해 젊은이들을 교육해요."
+  }
+ ],
+ "imageSense": "대표 의미: 농장에서 사과가 주렁주렁 열려 수확되는 장면",
+ "imageCaption": "땅속에서 채소를 앞으로 '끌어내는' 농부의 모습을 떠올려 보세요.",
+ "movieLineEn": "This factory can produce a thousand robots a day.",
+ "movieLineKo": "이 공장은 하루에 로봇 천 대를 생산할 수 있어.",
+ "storyTitle": "닭의 생산성 회의",
+ "story": "농장 닭들이 회의를 열었어요. 주제는 '달걀을 더 produce(생산하다)하는 법'이었죠. 대장 닭은 production(생산)을 늘리려면 productive(생산적인) 습관이 필요하다며 새 운동을 introduce(도입하다)했어요. 그런데 다들 너무 피곤해서, 그날 나온 product(생산물)는 코 고는 소리뿐이었답니다!"
+}

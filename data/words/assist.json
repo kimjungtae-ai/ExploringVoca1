@@ -1,0 +1,75 @@
+{
+ "word": "assist",
+ "pos": "동사 / 명사",
+ "phonetic": "[əˈsɪst]",
+ "meaning": "돕다, 거들다, 보조하다 / (스포츠의) 어시스트",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "as- (ad-)",
+   "meaning": "~ 곁에 (to, beside)",
+   "note": "ad-가 s 앞에서 as-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sist (sistere)",
+   "meaning": "서다, 세우다 (stand)",
+   "note": "라틴어 sistere(서다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>as-</strong> (~ 곁에) + <strong>sist</strong> (서다) = '누군가의 곁에 서 주다'에서 <strong>'돕다, 거들다'</strong>가 되었어요.",
+ "historyTitle": "곁에 서 있어 주는 사람",
+ "historyBody": "라틴어 'assistere'는 ad-(~ 곁에)와 'sistere(서다)'가 합쳐져 '곁에 서다'라는 뜻이었어요. 법정이나 의식에서 누군가 옆에 서 있어 주는 것이 곧 돕는 일이었죠. 같은 sist가 resist(맞서 서다), insist(버티고 서다), consist(함께 서다)에도 들어 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "assistant",
+   "pos": "명사",
+   "meaning": "조수, 보조원",
+   "en": "The assistant helped the chef prepare the food.",
+   "ko": "그 조수는 요리사가 음식 준비하는 걸 도왔어요."
+  },
+  {
+   "word": "assistance",
+   "pos": "명사",
+   "meaning": "도움, 원조",
+   "en": "Thank you for your kind assistance.",
+   "ko": "친절하게 도와주셔서 감사해요."
+  },
+  {
+   "word": "resist",
+   "pos": "동사",
+   "meaning": "저항하다, 참다",
+   "en": "I couldn't resist eating another cookie.",
+   "ko": "나는 쿠키를 하나 더 먹는 걸 참을 수 없었어요."
+  },
+  {
+   "word": "insist",
+   "pos": "동사",
+   "meaning": "주장하다, 고집하다",
+   "en": "She insisted on paying for dinner.",
+   "ko": "그녀는 저녁값을 내겠다고 고집했어요."
+  },
+  {
+   "word": "consist",
+   "pos": "동사",
+   "meaning": "(~으로) 구성되다",
+   "en": "The team consists of five members.",
+   "ko": "그 팀은 다섯 명으로 구성되어 있어요."
+  },
+  {
+   "word": "persist",
+   "pos": "동사",
+   "meaning": "계속되다, 고집하다",
+   "en": "If the pain persists, see a doctor.",
+   "ko": "통증이 계속되면 의사에게 가 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 축구 선수가 동료에게 패스해 골을 돕는 장면",
+ "imageCaption": "골대 앞 친구에게 공을 툭 밀어 주고 함께 기뻐하는 선수를 떠올려 보세요. 곁에 서서 거들어 주는 것이 assist예요.",
+ "movieLineEn": "I'm here to assist you, not to replace you.",
+ "movieLineKo": "난 너를 대신하려는 게 아니라 도우려고 온 거야.",
+ "storyTitle": "마법사의 조수",
+ "story": "꼬마 마법사의 assistant(조수) 고양이는 매일 마법을 assist(돕다)했어요. 마법사는 '고양이 도움은 필요 없어!'라고 insist(고집하다)했지만 주문은 늘 실패했죠. 고양이가 옆에서 꼬리를 흔들어야만 마법이 됐거든요. 알고 보니 진짜 마법사는 고양이였고, 꼬마는 그 assistance(도움)로 버틴 거였답니다."
+}

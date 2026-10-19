@@ -1,0 +1,82 @@
+{
+ "word": "extend",
+ "pos": "동사",
+ "phonetic": "[ɪkˈstend]",
+ "meaning": "연장하다, 늘이다, (손 등을) 뻗다, 확대하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "바깥쪽으로 쭉 뻗어 나간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tend / tens",
+   "meaning": "뻗다, 당기다 (stretch)",
+   "note": "라틴어 tendere(뻗다, 늘이다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>tend</strong> (뻗다) = '밖으로 쭉 뻗다'에서 <strong>'늘이다, 연장하다'</strong>가 되었어요.",
+ "historyTitle": "팔을 쭉 뻗듯이",
+ "historyBody": "extend는 라틴어 'extendere(밖으로 뻗다, 넓히다)'에서 왔어요. tendere(뻗다)는 활시위를 당기거나 천을 팽팽하게 펴는 모습과 관련된 말이에요. 그래서 시간, 길이, 범위를 길게 늘이는 데 두루 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "extension",
+   "pos": "명사",
+   "meaning": "연장, 확장, 내선 번호",
+   "en": "I asked my teacher for an extension on the deadline.",
+   "ko": "나는 선생님께 마감 기한 연장을 부탁했어요."
+  },
+  {
+   "word": "extent",
+   "pos": "명사",
+   "meaning": "정도, 범위",
+   "en": "To some extent, I agree with you.",
+   "ko": "어느 정도는 네 말에 동의해."
+  },
+  {
+   "word": "extensive",
+   "pos": "형용사",
+   "meaning": "광범위한, 대규모의",
+   "en": "The storm caused extensive damage to the town.",
+   "ko": "폭풍은 마을에 광범위한 피해를 입혔어요."
+  },
+  {
+   "word": "tend",
+   "pos": "동사",
+   "meaning": "~하는 경향이 있다",
+   "en": "People tend to sleep less during exams.",
+   "ko": "사람들은 시험 기간에 잠을 덜 자는 경향이 있어요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장, 팽팽함",
+   "en": "You could feel the tension in the room.",
+   "ko": "방 안의 긴장감을 느낄 수 있었어요."
+  },
+  {
+   "word": "intend",
+   "pos": "동사",
+   "meaning": "의도하다",
+   "en": "I didn't intend to hurt your feelings.",
+   "ko": "네 기분을 상하게 할 의도는 없었어."
+  },
+  {
+   "word": "pretend",
+   "pos": "동사",
+   "meaning": "~인 척하다",
+   "en": "He pretended to be asleep.",
+   "ko": "그는 자는 척했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄자를 쭉 잡아당겨 길이를 늘이는 장면",
+ "imageCaption": "짧던 줄자가 밖으로 쭉쭉 늘어나는 모습을 떠올려 보세요.",
+ "movieLineEn": "I extend my hand to you in friendship.",
+ "movieLineKo": "우정의 뜻으로 너에게 손을 내밀게.",
+ "storyTitle": "마감 연장 작전",
+ "story": "과제 마감 전날, 지훈이는 선생님께 기한을 extend(연장하다)해 달라고 했어요. 선생님은 '어느 extent(정도)까지 했니?'라고 물었죠. 지훈이는 다 한 척 pretend(~인 척하다)했어요. 결국 extension(연장)을 받았지만, 선생님이 '내일 발표해!'라고 하셔서 밤을 새웠대요."
+}

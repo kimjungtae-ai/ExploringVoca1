@@ -1,0 +1,55 @@
+{
+ "word": "spoil",
+ "pos": "동사 / 명사",
+ "phonetic": "[spɔɪl]",
+ "meaning": "망치다, 상하다, (아이를) 버릇없게 만들다 / 전리품",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "spoil (spoliare)",
+   "meaning": "빼앗다, 벗겨 내다 (strip, plunder)",
+   "note": "라틴어 spolium(벗겨 낸 가죽, 전리품)과 spoliare(약탈하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>spoil</strong> (라틴어 spoliare: 약탈하다) = '빼앗아 망가뜨리다'에서 <strong>'망치다, 상하다'</strong>가 되었습니다.",
+ "historyTitle": "전쟁터의 전리품에서 '망치다'로",
+ "historyBody": "라틴어 spolium은 원래 동물에게서 벗겨 낸 가죽, 그리고 적에게서 빼앗은 전리품을 뜻했어요. 고대 프랑스어 espoillier(약탈하다)를 거쳐 영어 spoil이 되었고, '약탈해서 망가뜨리다'에서 '망치다, 상하게 하다'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "spoiler",
+   "pos": "명사",
+   "meaning": "스포일러, 망치는 것",
+   "en": "Don't tell me any spoilers about the movie!",
+   "ko": "그 영화에 대해 스포일러는 하나도 말하지 마!"
+  },
+  {
+   "word": "spoiled",
+   "pos": "형용사",
+   "meaning": "버릇없는, 상한",
+   "en": "The spoiled child cried when he didn't get a toy.",
+   "ko": "버릇없는 아이는 장난감을 못 받자 울었어요."
+  },
+  {
+   "word": "spoils",
+   "pos": "명사 (복수)",
+   "meaning": "전리품, 이익",
+   "en": "The winners shared the spoils of the game.",
+   "ko": "승자들이 경기의 전리품을 나눠 가졌어요."
+  },
+  {
+   "word": "despoil",
+   "pos": "동사",
+   "meaning": "약탈하다, 빼앗다",
+   "en": "The army despoiled the small village.",
+   "ko": "군대가 작은 마을을 약탈했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 냉장고 속 우유가 상해서 코를 막는 장면",
+ "imageCaption": "생일 케이크를 실수로 엎어 파티를 망쳐 버린 순간을 떠올려 보세요.",
+ "movieLineEn": "Don't spoil the surprise! She's coming in five minutes.",
+ "movieLineKo": "깜짝 파티 망치지 마! 그녀가 5분 뒤에 온다고.",
+ "storyTitle": "스포일러 앵무새",
+ "story": "앵무새 삐삐는 모든 영화의 spoiler(스포일러)였어요. 할머니가 spoil(버릇없게 만들다)해서 삐삐는 아주 spoiled(버릇없는) 새가 되었죠. 영화를 볼 때마다 \"범인은 집사!\"라고 외쳐 모두의 즐거움을 spoil(망치다)했어요. 화난 가족이 말했어요. \"오늘 영화엔 집사가 안 나와!\" 삐삐는 당당했어요. \"그럼 범인은 할머니!\""
+}

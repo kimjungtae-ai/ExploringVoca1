@@ -1,0 +1,62 @@
+{
+ "word": "order",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɔːrdər]",
+ "meaning": "순서, 질서, 명령, 주문 / 명령하다, 주문하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ord(er)",
+   "meaning": "줄, 차례 (row, rank)",
+   "note": "라틴어 ordo(줄, 계급)에서 왔고, 프랑스어 ordre를 거쳐 order가 되었어요."
+  }
+ ],
+ "summary": "<strong>ord</strong> (줄, 차례) = '가지런히 줄 세운 상태'라는 뜻에서 <strong>'순서, 질서'</strong>가 되었고, 줄을 세우라는 말에서 <strong>'명령, 주문'</strong>이 나왔어요.",
+ "historyTitle": "줄 세우기에서 시작된 질서",
+ "historyBody": "라틴어 ordo는 '줄, 차례, 계급'이라는 뜻이었어요. 고대 프랑스어 ordre를 거쳐 13세기 영어에 들어왔고, '질서'에서 '명령', 다시 '주문'으로 뜻이 넓어졌어요. ordinary(평범한)도 '정해진 순서대로의'라는 뜻에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ordinary",
+   "pos": "형용사",
+   "meaning": "평범한, 보통의",
+   "en": "It was just an ordinary day until the phone rang.",
+   "ko": "전화가 울리기 전까지는 그냥 평범한 하루였어요."
+  },
+  {
+   "word": "extraordinary",
+   "pos": "형용사",
+   "meaning": "비범한, 놀라운",
+   "en": "The young pianist showed extraordinary talent.",
+   "ko": "그 어린 피아니스트는 놀라운 재능을 보여 주었어요."
+  },
+  {
+   "word": "disorder",
+   "pos": "명사",
+   "meaning": "무질서, 장애",
+   "en": "Lack of sleep can cause a mood disorder.",
+   "ko": "수면 부족은 기분 장애를 일으킬 수 있어요."
+  },
+  {
+   "word": "coordinate",
+   "pos": "동사",
+   "meaning": "조정하다, 조화시키다",
+   "en": "The teacher coordinated the schedules of all three clubs.",
+   "ko": "선생님이 세 동아리의 일정을 조정하셨어요."
+  },
+  {
+   "word": "subordinate",
+   "pos": "명사 / 형용사",
+   "meaning": "부하 / 종속된",
+   "en": "A good leader listens to the ideas of subordinates.",
+   "ko": "좋은 리더는 부하 직원들의 생각에 귀를 기울여요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이들이 키 순서대로 한 줄로 서 있는 장면",
+ "imageCaption": "체육 시간에 키 순서대로 줄을 선 모습을 떠올려 보세요. 줄과 차례, 그게 order의 출발점이에요.",
+ "movieLineEn": "Everyone, stay in order! Nobody leaves until I say so.",
+ "movieLineKo": "모두 줄 맞춰 서! 내가 말할 때까지 아무도 못 나가.",
+ "storyTitle": "질서 대장 반장",
+ "story": "반장은 ordinary(평범한) 날에도 order(질서)를 외쳐요. 교실이 disorder(무질서)에 빠지자 반장이 모두를 coordinate(조정하다)했죠. 덕분에 extraordinary(놀라운) 일이 생겼어요. 아이들이 줄을 맞춰 선 순간, 선생님이 '오늘 자습!'이라고 하셨거든요."
+}

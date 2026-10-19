@@ -1,0 +1,47 @@
+{
+ "word": "seriously",
+ "pos": "부사",
+ "phonetic": "[ˈsɪriəsli]",
+ "meaning": "진지하게, 심각하게, 정말로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "serious",
+   "meaning": "진지한, 심각한 (serious)",
+   "note": "라틴어 'serius'에서 왔지만 그 이전 기원은 불확실해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>serious</strong> (진지한) + <strong>-ly</strong> (~하게) = <strong>'진지하게, 심각하게'</strong>예요.",
+ "historyTitle": "기원이 수수께끼인 '무거운' 말",
+ "historyBody": "라틴어 'serius'는 '무거운, 진지한'을 뜻했고, 후기 라틴어 'seriosus'와 고대 프랑스어를 거쳐 영어로 들어왔어요. 다만 serius 자체가 어디서 왔는지는 학자들 사이에서도 확실하지 않아요. 그래서 이 단어는 뿌리를 더 쪼개기보다 '진지한'이라는 덩어리로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "serious",
+   "pos": "형용사",
+   "meaning": "심각한, 진지한",
+   "en": "Air pollution is a serious problem in big cities.",
+   "ko": "대기 오염은 대도시의 심각한 문제예요."
+  },
+  {
+   "word": "seriousness",
+   "pos": "명사",
+   "meaning": "진지함, 심각성",
+   "en": "She spoke with great seriousness about her future.",
+   "ko": "그녀는 자신의 미래에 대해 아주 진지하게 이야기했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구가 장난을 멈추고 진지하게 고민을 들어 주는 장면",
+ "imageCaption": "웃던 친구가 갑자기 표정을 바꾸고 \"진지하게 말할게\" 하는 순간을 떠올려 보세요.",
+ "movieLineEn": "Seriously, this is the best pizza I've ever had.",
+ "movieLineKo": "진짜로, 이건 내가 먹어 본 피자 중 최고야.",
+ "storyTitle": "진지한 고백",
+ "story": "친구가 seriously(진지하게) 할 말이 있다며 나를 불렀어요. 그 seriousness(진지함)에 나는 serious(심각한) 문제가 생긴 줄 알았죠. 친구는 떨리는 목소리로 말했어요. \"사실 너 앞니에 고춧가루 껴 있어. 3교시부터.\" Seriously(정말로)?!"
+}

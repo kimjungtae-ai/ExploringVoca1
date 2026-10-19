@@ -1,0 +1,74 @@
+{
+ "word": "candidate",
+ "pos": "명사",
+ "phonetic": "[ˈkændɪdət]",
+ "meaning": "후보자, 지원자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cand",
+   "meaning": "하얗게 빛나다 (shine, white)",
+   "note": "라틴어 candere(빛나다)와 candidus(새하얀)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-id",
+   "meaning": "~한 상태의",
+   "note": "라틴어 형용사를 만드는 꼬리예요. candid(솔직한)에도 들어 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 사람",
+   "note": "'~한 상태의 사람'이라는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>cand</strong> (하얗게 빛나다) + <strong>-id</strong> (~한) + <strong>-ate</strong> (~한 사람) = '하얀 옷을 입은 사람'에서 <strong>'후보자'</strong>가 되었어요.",
+ "historyTitle": "흰 토가를 입은 로마의 후보자들",
+ "historyBody": "고대 로마에서 관직에 출마한 사람들은 분필 가루로 하얗게 만든 토가(겉옷)를 입었어요. 깨끗하고 정직해 보이려는 뜻이었죠. 그래서 라틴어 candidatus(하얀 옷을 입은 사람)가 '후보자'를 뜻하게 되었어요. 같은 뿌리에서 candle(초)과 candid(솔직한)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "candid",
+   "pos": "형용사",
+   "meaning": "솔직한, 숨김없는",
+   "en": "Thank you for your candid opinion about my essay.",
+   "ko": "내 에세이에 대해 솔직한 의견 줘서 고마워."
+  },
+  {
+   "word": "candle",
+   "pos": "명사",
+   "meaning": "초, 양초",
+   "en": "She blew out the candles on her birthday cake.",
+   "ko": "그녀는 생일 케이크의 촛불을 불어 껐어."
+  },
+  {
+   "word": "candor",
+   "pos": "명사",
+   "meaning": "솔직함",
+   "en": "I respect his candor even when it hurts.",
+   "ko": "나는 그의 솔직함이 아플 때조차 존중해."
+  },
+  {
+   "word": "candidacy",
+   "pos": "명사",
+   "meaning": "입후보, 후보 자격",
+   "en": "She announced her candidacy for class president.",
+   "ko": "그녀는 반장 선거 출마를 발표했어."
+  },
+  {
+   "word": "incense",
+   "pos": "명사",
+   "meaning": "향",
+   "en": "The temple smelled of sweet incense.",
+   "ko": "절에서 달콤한 향 냄새가 났어."
+  }
+ ],
+ "imageSense": "대표 의미: 하얀 옷을 입고 연설하는 선거 후보자",
+ "imageCaption": "새하얀 옷을 입고 단상에 올라 '저를 뽑아 주세요!'라고 외치는 후보를 떠올려 보세요.",
+ "movieLineEn": "I'm the best candidate for this job, and I can prove it.",
+ "movieLineKo": "제가 이 일에 가장 적합한 후보예요, 증명할 수 있어요.",
+ "storyTitle": "흰 옷 입은 후보",
+ "story": "반장 선거에 나간 candidate(후보자) 도현이는 로마식으로 하얀 이불을 두르고 등장했어요. candid(솔직한) 연설로 '전 사실 청소를 싫어해요'라고 고백했죠. 그 candor(솔직함)에 반한 친구들이 표를 몰아줬어요! 당선 축하 candle(초)을 켜는데, 이불에 촛농이 떨어져 결국 이불 빨래 당번이 되었답니다."
+}

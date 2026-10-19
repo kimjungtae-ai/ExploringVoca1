@@ -1,0 +1,75 @@
+{
+ "word": "select",
+ "pos": "동사 / 형용사",
+ "phonetic": "[sɪˈlekt]",
+ "meaning": "선택하다, 고르다 / 엄선된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "se-",
+   "meaning": "따로, 떨어져 (apart)",
+   "note": "여럿 중에서 따로 떼어 낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lect",
+   "meaning": "고르다, 모으다 (choose, gather)",
+   "note": "라틴어 'legere(고르다, 모으다, 읽다)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>se-</strong> (따로) + <strong>lect</strong> (고르다) = 여럿 중에서 따로 골라내다, 즉 <strong>'선택하다'</strong>예요.",
+ "historyTitle": "고르고 모으고 읽는 legere",
+ "historyBody": "라틴어 'legere'는 '고르다, 모으다, 읽다'라는 뜻을 함께 가진 동사예요. 글자를 하나하나 골라 모으는 것이 '읽기'였거든요. 여기서 select(골라내다), collect(함께 모으다), elect(뽑다) 같은 단어들이 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "selection",
+   "pos": "명사",
+   "meaning": "선택, 선발된 것",
+   "en": "The store has a wide selection of books.",
+   "ko": "그 가게에는 다양한 책이 갖춰져 있어요."
+  },
+  {
+   "word": "selective",
+   "pos": "형용사",
+   "meaning": "선택적인, 까다로운",
+   "en": "She is very selective about the friends she makes.",
+   "ko": "그녀는 친구를 사귈 때 매우 까다로워요."
+  },
+  {
+   "word": "collect",
+   "pos": "동사",
+   "meaning": "모으다, 수집하다",
+   "en": "My brother collects old coins from different countries.",
+   "ko": "우리 형은 여러 나라의 옛날 동전을 모아요."
+  },
+  {
+   "word": "elect",
+   "pos": "동사",
+   "meaning": "선출하다",
+   "en": "The students elected a new class president.",
+   "ko": "학생들은 새 반장을 선출했어요."
+  },
+  {
+   "word": "neglect",
+   "pos": "동사",
+   "meaning": "방치하다, 소홀히 하다",
+   "en": "Don't neglect your health while studying hard.",
+   "ko": "열심히 공부하면서도 건강을 소홀히 하지 마세요."
+  },
+  {
+   "word": "intelligent",
+   "pos": "형용사",
+   "meaning": "지적인, 똑똑한",
+   "en": "Dolphins are known as intelligent animals.",
+   "ko": "돌고래는 똑똑한 동물로 알려져 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 과일 가게에서 가장 잘 익은 사과를 골라 드는 장면",
+ "imageCaption": "바구니 가득한 사과 중에서 제일 빨간 하나를 쏙 집어 드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Select your weapon wisely. You only get one chance.",
+ "movieLineKo": "무기를 현명하게 골라. 기회는 단 한 번뿐이야.",
+ "storyTitle": "반장 선거의 반전",
+ "story": "반장 선거에서 우리 반은 후보를 select(선택하다)하기로 했어요. 다들 intelligent(똑똑한) 민수를 elect(선출하다)하려 했죠. 그런데 민수는 숙제를 neglect(소홀히 하다)한 벌로 청소 당번! 결국 반장은 투표용지를 collect(모으다)하던 담임 선생님 차지가 됐어요."
+}

@@ -1,0 +1,54 @@
+{
+ "word": "bulky",
+ "pos": "형용사",
+ "phonetic": "[ˈbʌlki]",
+ "meaning": "부피가 큰, 덩치가 큰",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bulk",
+   "meaning": "부피, 대량 (heap, cargo)",
+   "note": "고대 노르드어 bulki(짐, 화물 더미)에서 왔다고 봐요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~한, ~가 많은",
+   "note": "명사 뒤에 붙어 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>bulk</strong> (부피) + <strong>-y</strong> (~한) = '부피가 많은', 즉 <strong>'부피가 큰, 덩치가 큰'</strong>이에요.",
+ "historyTitle": "바이킹 배의 화물 더미",
+ "historyBody": "bulk는 중세 영어 시기에 들어온 말로, 고대 노르드어 bulki(배에 실은 짐, 화물 더미)에서 왔다고 봐요. 그래서 '부피, 대량'이라는 뜻이 생겼고, 'in bulk(대량으로)' 같은 표현이 나왔어요. 여기에 -y가 붙어 bulky는 '부피가 커서 다루기 힘든'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bulk",
+   "pos": "명사",
+   "meaning": "부피, 대부분, 대량",
+   "en": "The bulk of the work was done by volunteers.",
+   "ko": "그 일의 대부분은 자원봉사자들이 했어."
+  },
+  {
+   "word": "in bulk",
+   "pos": "부사구",
+   "meaning": "대량으로",
+   "en": "Buying rice in bulk saves money.",
+   "ko": "쌀을 대량으로 사면 돈이 절약돼요."
+  },
+  {
+   "word": "bulkiness",
+   "pos": "명사",
+   "meaning": "부피가 큼",
+   "en": "The bulkiness of the sofa made moving difficult.",
+   "ko": "소파 부피가 커서 이사가 힘들었어."
+  }
+ ],
+ "imageSense": "대표 의미: 엘리베이터 문에 끼어 들어가지 않는 커다란 상자",
+ "imageCaption": "좁은 문을 통과하지 못하고 낑낑대는 커다란 택배 상자를 떠올려 보세요. 그게 bulky예요.",
+ "movieLineEn": "This bulky suit makes me walk like a penguin!",
+ "movieLineKo": "이 덩치 큰 옷 때문에 펭귄처럼 걷게 돼!",
+ "storyTitle": "거대 택배의 정체",
+ "story": "현관 앞에 bulky(부피가 큰) 택배가 도착했어요. 엄마가 휴지를 in bulk(대량으로) 산 거였죠. 상자의 bulkiness(부피가 큼) 때문에 문을 통과하지 못했어요. 결국 상자를 뜯어 휴지의 bulk(대부분)를 하나씩 옮겼는데, 다 옮기고 나니 거실이 휴지 성이 되었답니다. 동생은 거기서 일주일을 살았어요."
+}

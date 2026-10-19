@@ -1,0 +1,75 @@
+{
+ "word": "specific",
+ "pos": "형용사",
+ "phonetic": "[spəˈsɪfɪk]",
+ "meaning": "구체적인, 특정한, 명확한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "speci",
+   "meaning": "보다, 모양, 종류 (look, kind)",
+   "note": "라틴어 species(겉모습, 종류)에서 왔고, 그 뿌리는 specere(보다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-fic",
+   "meaning": "만들다 (make)",
+   "note": "라틴어 facere(만들다)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>speci</strong> (종류, 모양) + <strong>-fic</strong> (만들다) = '하나의 종류로 딱 정해 만든'에서 <strong>'구체적인, 특정한'</strong>이 되었습니다.",
+ "historyTitle": "'눈에 보이는 모양'에서 '특정한'으로",
+ "historyBody": "라틴어 specere(보다)에서 species(겉모습, 종류)가 나왔어요. 중세 라틴어 specificus는 '어떤 종류를 이루는, 그 종류에 딱 맞는'이라는 뜻이었고, 17세기 영어에서 '막연하지 않고 딱 정해진'이라는 뜻의 specific이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "species",
+   "pos": "명사",
+   "meaning": "(생물의) 종",
+   "en": "Many species of birds live in this forest.",
+   "ko": "이 숲에는 많은 종의 새들이 살아요."
+  },
+  {
+   "word": "specify",
+   "pos": "동사",
+   "meaning": "명시하다, 구체적으로 말하다",
+   "en": "Please specify the date of your arrival.",
+   "ko": "도착 날짜를 구체적으로 적어 주세요."
+  },
+  {
+   "word": "specifically",
+   "pos": "부사",
+   "meaning": "구체적으로, 특별히",
+   "en": "This book is written specifically for teenagers.",
+   "ko": "이 책은 특별히 십대들을 위해 쓰였어요."
+  },
+  {
+   "word": "specimen",
+   "pos": "명사",
+   "meaning": "표본, 견본",
+   "en": "The scientist collected a specimen of the rare plant.",
+   "ko": "과학자는 그 희귀 식물의 표본을 채집했어요."
+  },
+  {
+   "word": "aspect",
+   "pos": "명사",
+   "meaning": "측면, 양상",
+   "en": "Music is an important aspect of our culture.",
+   "ko": "음악은 우리 문화의 중요한 측면이에요."
+  },
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "점검하다, 조사하다",
+   "en": "The officer inspected the car carefully.",
+   "ko": "경찰관은 차를 꼼꼼히 점검했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 많은 물건 중 하나를 손가락으로 콕 집어 가리키는 장면",
+ "imageCaption": "'아무거나'가 아니라 '바로 저 빨간 우산!'처럼 딱 집어 말하는 느낌이에요.",
+ "movieLineEn": "Be more specific. 'Somewhere in the city' isn't helpful!",
+ "movieLineKo": "좀 더 구체적으로 말해. '도시 어딘가'는 도움이 안 돼!",
+ "storyTitle": "너무 구체적인 주문",
+ "story": "배달 앱에 이런 요청이 왔어요. \"아주 specific(구체적인) 부탁입니다. 치킨을 specifically(특별히) 다리 일곱 개로 주세요.\" 사장님은 닭의 species(종)를 의심하며 inspect(조사하다)했어요. 그리고 요청을 specify(명시하다)한 손님에게 전화했죠. \"손님, 문어 주문하신 거 아니에요?\""
+}

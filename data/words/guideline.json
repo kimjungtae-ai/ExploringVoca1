@@ -1,0 +1,61 @@
+{
+ "word": "guideline",
+ "pos": "명사",
+ "phonetic": "[ˈɡaɪdlaɪn]",
+ "meaning": "지침, 가이드라인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "guide",
+   "meaning": "안내하다, 이끌다 (lead, show the way)",
+   "note": "고대 프랑스어 guider에서 왔고, 게르만계 '알다, 보다'라는 말과 관련 있어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "line",
+   "meaning": "선, 줄 (line)",
+   "note": "라틴어 linea(아마실로 만든 줄)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>guide</strong> (안내하다) + <strong>line</strong> (줄) = 따라가도록 그어 놓은 안내선이라는 뜻에서 <strong>'지침'</strong>이 되었어요.",
+ "historyTitle": "길잡이 밧줄에서 규칙으로",
+ "historyBody": "guideline은 원래 동굴이나 산길에서 길을 잃지 않게 붙잡고 가는 안내용 줄을 뜻했어요. 20세기 들어 '따라야 할 방향, 지침'이라는 뜻으로 넓어졌죠. guide는 고대 프랑스어 guider에서, line은 라틴어 linea(아마실)에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "guide",
+   "pos": "명사 / 동사",
+   "meaning": "안내자 / 안내하다",
+   "en": "Our guide showed us around the old palace.",
+   "ko": "가이드가 우리에게 옛 궁궐을 구경시켜 주었어."
+  },
+  {
+   "word": "guidance",
+   "pos": "명사",
+   "meaning": "지도, 안내",
+   "en": "Students need guidance when choosing a career.",
+   "ko": "학생들은 진로를 정할 때 지도가 필요해."
+  },
+  {
+   "word": "misguided",
+   "pos": "형용사",
+   "meaning": "잘못 이해한, 잘못 판단한",
+   "en": "His plan was well-meant but misguided.",
+   "ko": "그의 계획은 선의였지만 잘못된 판단이었어."
+  },
+  {
+   "word": "guidebook",
+   "pos": "명사",
+   "meaning": "안내서, 여행 안내 책자",
+   "en": "I bought a guidebook before my trip to Jeju.",
+   "ko": "나는 제주 여행 전에 안내 책자를 샀어."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 놓인 '안전 수칙' 안내문을 하나씩 읽는 장면",
+ "imageCaption": "실험실 벽에 붙은 '이렇게 하세요' 목록을 따라가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Follow the guidelines, and nobody gets hurt.",
+ "movieLineKo": "지침을 따르면 아무도 다치지 않아.",
+ "storyTitle": "규칙 덕후 펭귄",
+ "story": "펭귄 반장은 소풍 guideline(지침)을 100개나 만들었어요. guidebook(안내 책자)까지 나눠 주며 guidance(지도)를 했죠. 친구들은 그 계획이 misguided(잘못 판단한) 거라고 했지만 반장은 guide(안내하다)를 멈추지 않았어요. 그런데 마지막 지침이 '소풍은 비 때문에 취소'였답니다!"
+}

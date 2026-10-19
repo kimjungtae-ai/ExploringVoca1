@@ -1,0 +1,41 @@
+{
+ "word": "purse",
+ "pos": "명사",
+ "phonetic": "[pɜːrs]",
+ "meaning": "지갑, (여성용) 핸드백, 상금",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "purse (← 라틴어 bursa)",
+   "meaning": "가죽 주머니 (leather bag)",
+   "note": "그리스어 byrsa(가죽)가 라틴어 bursa를 거쳐 고대 영어 purs가 되었어요."
+  }
+ ],
+ "summary": "<strong>purse</strong>는 그리스어 <strong>byrsa</strong> (가죽)에서 와서 '가죽으로 만든 돈주머니'라는 뜻의 <strong>'지갑'</strong>이 되었어요.",
+ "historyTitle": "가죽 주머니에서 지갑으로",
+ "historyBody": "그리스어 byrsa는 '짐승 가죽'을 뜻했고, 중세 라틴어 bursa는 '가죽 돈주머니'가 되었어요. 이 말이 고대 영어에 purs로 들어왔지요. 같은 bursa에서 '돈을 되돌려 주다'라는 뜻의 reimburse가 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reimburse",
+   "pos": "동사",
+   "meaning": "배상하다, 돈을 갚아 주다",
+   "en": "The company will reimburse your travel costs.",
+   "ko": "회사가 출장 비용을 돌려줄 거예요."
+  },
+  {
+   "word": "purser",
+   "pos": "명사",
+   "meaning": "(배나 비행기의) 사무장",
+   "en": "The purser welcomed the passengers on board.",
+   "ko": "사무장이 탑승한 승객들을 맞이했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 동전이 짤랑거리는 작은 가죽 지갑",
+ "imageCaption": "끈을 조여 여는 옛날 가죽 돈주머니를 떠올려 보세요.",
+ "movieLineEn": "Somebody stole my purse!",
+ "movieLineKo": "누가 내 지갑을 훔쳐 갔어!",
+ "storyTitle": "지갑 속 보물",
+ "story": "할머니는 오래된 가죽 purse(지갑)를 소중히 여기셨어요. 비행기에서 떨어뜨렸는데 친절한 purser(사무장)가 찾아 주었죠. 항공사는 택시비를 reimburse(돈을 갚아 주다)하겠다고 했어요. 대체 무슨 보물이 들었나 궁금해 열어 보니, 손주들의 유치원 photo(사진)만 가득했답니다!"
+}

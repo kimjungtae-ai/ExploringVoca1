@@ -1,0 +1,75 @@
+{
+ "word": "refund",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈriːfʌnd] (명사), [rɪˈfʌnd] (동사)",
+ "meaning": "환불 / 환불하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "원래 주인에게 되돌린다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fund",
+   "meaning": "붓다 (pour)",
+   "note": "라틴어 fundere(붓다, 쏟다)에서 왔어요. 돈을 '쏟아 돌려준다'는 그림이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>fund</strong> (붓다) = 받은 돈을 다시 쏟아 돌려주다, 즉 <strong>'환불(하다)'</strong>이에요.",
+ "historyTitle": "돈을 '다시 부어' 주는 일",
+ "historyBody": "refund는 라틴어 refundere(다시 붓다, 돌려주다)에서 왔어요. 재미있게도 '기금'이라는 뜻의 fund는 라틴어 fundus(바닥)에서 온 다른 단어라서 생김새만 비슷해요. 진짜 친척은 fundere의 과거분사 fusus에서 온 fuse, confuse 같은 단어들이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refuse",
+   "pos": "동사",
+   "meaning": "거절하다",
+   "en": "She refused to give up her dream.",
+   "ko": "그녀는 꿈을 포기하기를 거부했어요."
+  },
+  {
+   "word": "confuse",
+   "pos": "동사",
+   "meaning": "혼란스럽게 하다",
+   "en": "These two words often confuse students.",
+   "ko": "이 두 단어는 학생들을 자주 헷갈리게 해요."
+  },
+  {
+   "word": "fusion",
+   "pos": "명사",
+   "meaning": "융합, 결합",
+   "en": "This restaurant serves Korean-Mexican fusion food.",
+   "ko": "이 식당은 한국-멕시코 퓨전 음식을 팔아요."
+  },
+  {
+   "word": "infuse",
+   "pos": "동사",
+   "meaning": "불어넣다, 우려내다",
+   "en": "The coach infused the team with confidence.",
+   "ko": "코치는 팀에 자신감을 불어넣었어요."
+  },
+  {
+   "word": "transfusion",
+   "pos": "명사",
+   "meaning": "수혈",
+   "en": "The patient needed a blood transfusion.",
+   "ko": "그 환자는 수혈이 필요했어요."
+  },
+  {
+   "word": "refundable",
+   "pos": "형용사",
+   "meaning": "환불 가능한",
+   "en": "This ticket is not refundable, so choose carefully.",
+   "ko": "이 표는 환불이 안 되니 신중하게 고르세요."
+  }
+ ],
+ "imageSense": "대표 의미: 고객센터에서 영수증을 내밀고 돈을 돌려받는 모습",
+ "imageCaption": "작아서 못 입는 옷과 영수증을 들고 가게에 가서 돈을 다시 받는 장면을 떠올려 보세요. 그게 refund예요.",
+ "movieLineEn": "I want a full refund, right now!",
+ "movieLineKo": "지금 당장 전액 환불해 주세요!",
+ "storyTitle": "환불 전쟁",
+ "story": "삼촌은 산 지 한 시간 된 로봇 청소기의 refund(환불)를 요구했어요. 직원은 '이 상품은 refundable(환불 가능한)이 아니에요'라며 refuse(거절하다)했죠. 설명서를 보다 confuse(혼란스럽게 하다)된 삼촌이 버튼을 누르자 청소기가 또렷하게 말했어요. '주인님, 전원부터 켜 주세요.'"
+}

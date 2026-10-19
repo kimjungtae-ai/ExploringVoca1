@@ -1,0 +1,41 @@
+{
+ "word": "dusk",
+ "pos": "명사",
+ "phonetic": "[dʌsk]",
+ "meaning": "황혼, 해 질 녘, 땅거미",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dusk (dox)",
+   "meaning": "어스름한, 어두운 (dark)",
+   "note": "고대 영어 dox(어두운)에서 온 말로, 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>dusk</strong>는 '어두운'이라는 옛말에서 와서 <strong>'해 질 녘, 황혼'</strong>이 되었어요.",
+ "historyTitle": "글자 순서가 바뀐 단어",
+ "historyBody": "dusk는 고대 영어 dox(어두운, 거무스름한)에서 왔어요. 중세 영어에서 x(ks) 소리의 순서가 sk로 뒤바뀌면서 dusk가 되었답니다. 처음에는 '어둑한'이라는 형용사였고, 17세기쯤부터 '해 질 녘'이라는 명사로 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dusky",
+   "pos": "형용사",
+   "meaning": "어스름한, 거무스름한",
+   "en": "The sky turned dusky as the sun went down.",
+   "ko": "해가 지면서 하늘이 어스름해졌어요."
+  },
+  {
+   "word": "dusk-to-dawn",
+   "pos": "형용사",
+   "meaning": "해 질 녘부터 새벽까지의",
+   "en": "The park has dusk-to-dawn lights for safety.",
+   "ko": "공원에는 안전을 위해 해 질 녘부터 새벽까지 켜지는 조명이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 해가 지고 하늘이 보랏빛으로 물드는 저녁 무렵",
+ "imageCaption": "산 너머로 해가 막 넘어가고 가로등이 하나둘 켜지는 순간을 떠올려 보세요.",
+ "movieLineEn": "We ride at dusk, when the shadows are long.",
+ "movieLineKo": "그림자가 길어지는 해 질 녘에 우리는 출발한다.",
+ "storyTitle": "해 질 녘의 산책",
+ "story": "강아지 초코는 매일 dusk(해 질 녘)만 되면 산책을 나가자고 졸라요. 하늘이 dusky(어스름한) 보랏빛이 되면 신이 나서 뛰어다니죠. 공원의 dusk-to-dawn(해 질 녘부터 새벽까지의) 조명이 켜지면 더 신나요. 알고 보니 초코의 진짜 목적은 산책이 아니라 dusk(해 질 녘)에 나오는 옆집 강아지 별이였답니다!"
+}

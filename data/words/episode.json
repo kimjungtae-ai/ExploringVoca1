@@ -1,0 +1,73 @@
+{
+ "word": "episode",
+ "pos": "명사",
+ "phonetic": "[ˈepɪsoʊd]",
+ "meaning": "(인생의) 사건, 에피소드, (드라마의) 1회분",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "epi-",
+   "meaning": "위에, 덧붙여 (upon, in addition)",
+   "note": "무언가에 더해진다는 뜻이에요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "eis-",
+   "meaning": "안으로 (into)",
+   "note": "그리스어에서 '~ 안으로'라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hod / od",
+   "meaning": "길 (way)",
+   "note": "그리스어 hodos(길)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-e",
+   "meaning": "(명사 어미)",
+   "note": "영어로 들어오며 붙은 어미예요."
+  }
+ ],
+ "summary": "<strong>epi-</strong> (덧붙여) + <strong>eis</strong> (안으로) + <strong>hod</strong> (길) = '사이에 덧붙여 들어온 부분'에서 <strong>'에피소드, 1회분'</strong>이 되었어요.",
+ "historyTitle": "그리스 비극의 '막간 장면'",
+ "historyBody": "그리스어 'epeisodion'은 고대 그리스 비극에서 합창단의 노래 사이에 끼어든 대사 장면을 가리켰어요. 'eisodos(입장)'는 eis(안으로)와 hodos(길)를 합친 말이에요. 그래서 '중간에 끼어든 이야기 한 토막'이라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "episodic",
+   "pos": "형용사",
+   "meaning": "삽화적인, 간헐적인",
+   "en": "He suffers from episodic headaches during exams.",
+   "ko": "그는 시험 기간에 간헐적인 두통에 시달려요."
+  },
+  {
+   "word": "method",
+   "pos": "명사",
+   "meaning": "방법",
+   "en": "This is the best method to learn new words.",
+   "ko": "이것이 새 단어를 익히는 가장 좋은 방법이에요."
+  },
+  {
+   "word": "period",
+   "pos": "명사",
+   "meaning": "기간, 시대",
+   "en": "The museum shows art from the Joseon period.",
+   "ko": "그 박물관은 조선 시대 미술을 보여 줘요."
+  },
+  {
+   "word": "exodus",
+   "pos": "명사",
+   "meaning": "(대규모) 탈출, 이동",
+   "en": "There is an exodus of young people from rural areas.",
+   "ko": "농촌 지역에서 젊은이들의 대규모 이동이 일어나고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 긴 드라마 시리즈 중 '제3화'가 재생되는 TV 화면",
+ "imageCaption": "긴 이야기 사이에 끼어든 한 토막, 드라마 1회분을 떠올려 보세요.",
+ "movieLineEn": "Don't spoil the next episode for me!",
+ "movieLineKo": "다음 회 스포일러 하지 마!",
+ "storyTitle": "마지막 회의 비밀",
+ "story": "준호는 드라마 마지막 episode(1회분)를 보려고 공부 method(방법)까지 바꿨어요. 시험 period(기간)인데도 꾹 참았죠. 드디어 방송 날, 온 가족의 exodus(대이동)처럼 거실로 모였어요. 그런데 화면에 뜬 자막: '다음 주에 계속.' 진짜 마지막은 다음 주였어요!"
+}

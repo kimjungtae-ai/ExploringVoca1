@@ -1,0 +1,61 @@
+{
+ "word": "exchange",
+ "pos": "동사 / 명사",
+ "phonetic": "[ɪksˈtʃeɪndʒ]",
+ "meaning": "교환하다, 주고받다 / 교환, 환전",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 완전히 (out)",
+   "note": "하나를 밖으로 내보내고 다른 것을 받는 느낌이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "change",
+   "meaning": "바꾸다 (change)",
+   "note": "후기 라틴어 cambiare(맞바꾸다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>change</strong> (바꾸다) = '내 것을 내주고 바꾸다'에서 <strong>'교환하다'</strong>가 되었어요.",
+ "historyTitle": "물물교환에서 온 말",
+ "historyBody": "exchange는 앵글로·프랑스어 'eschaunge'에서 왔고, 이는 통속 라틴어 '*excambiare'(ex- + cambiare 맞바꾸다)에서 비롯되었어요. cambiare는 켈트(갈리아)어에서 왔을 것으로 추정돼요. 영어로 들어온 뒤 철자가 라틴어 ex-에 맞춰 바뀌었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "change",
+   "pos": "동사 / 명사",
+   "meaning": "바꾸다 / 변화, 잔돈",
+   "en": "Let's change seats so you can see better.",
+   "ko": "네가 더 잘 보이게 자리를 바꾸자."
+  },
+  {
+   "word": "changeable",
+   "pos": "형용사",
+   "meaning": "변하기 쉬운",
+   "en": "The weather in spring is very changeable.",
+   "ko": "봄 날씨는 아주 변덕스러워요."
+  },
+  {
+   "word": "interchange",
+   "pos": "명사 / 동사",
+   "meaning": "교환, 나들목 / 주고받다",
+   "en": "The conference allowed an interchange of ideas.",
+   "ko": "그 회의는 서로 생각을 주고받는 자리가 되었어요."
+  },
+  {
+   "word": "unchanged",
+   "pos": "형용사",
+   "meaning": "변하지 않은",
+   "en": "The old village has remained unchanged for centuries.",
+   "ko": "그 오래된 마을은 수백 년 동안 변하지 않았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 친구가 선물 상자를 서로 맞바꾸는 장면",
+ "imageCaption": "손에 든 것을 서로 '휙' 바꿔 쥐는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let's exchange gifts before the snow stops.",
+ "movieLineKo": "눈이 그치기 전에 선물을 교환하자.",
+ "storyTitle": "교환 학생의 실수",
+ "story": "exchange(교환) 학생 톰은 은행에서 돈을 exchange(환전하다)했어요. 그런데 직원과 change(잔돈) 이야기를 하다가 뭔가 꼬였죠. 결국 톰의 돈은 unchanged(변하지 않은) 채로 돌아왔는데, 손에 든 건 원화가 아니라 직원의 점심 도시락이었어요!"
+}

@@ -1,0 +1,80 @@
+{
+ "word": "educational",
+ "pos": "형용사",
+ "phonetic": "[ˌedʒuˈkeɪʃənl]",
+ "meaning": "교육의, 교육적인, 교육에 유익한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex(밖으로)가 짧아진 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "duc",
+   "meaning": "이끌다 (lead)",
+   "note": "라틴어 ducere(이끌다)와 관련된 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate / -ion",
+   "meaning": "~하다 / ~하는 것",
+   "note": "동사를 만든 뒤 다시 명사(education)로 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~에 관한 (형용사형)",
+   "note": "명사를 형용사로 바꿔 주는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>duc</strong> (이끌다) + <strong>-ation</strong> (~하는 것) + <strong>-al</strong> (~의) = '이끌어 키워 내는 일의'라는 뜻에서 <strong>'교육의, 교육적인'</strong>이 되었어요.",
+ "historyTitle": "아이를 길러 내는 라틴어 educare",
+ "historyBody": "라틴어 educare는 '(아이를) 기르다, 양육하다'라는 뜻이고, educere(밖으로 이끌어 내다)와 관련된 말이에요. 흔히 '재능을 밖으로 끌어낸다'라고 풀이하지만, 원래 로마 사람들에게는 '보살펴 키운다'는 뜻에 더 가까웠어요. 이 말이 16세기 무렵 영어 education이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "educate",
+   "pos": "동사",
+   "meaning": "교육하다",
+   "en": "Parents educate their children at home, too.",
+   "ko": "부모님은 집에서도 아이들을 교육해요."
+  },
+  {
+   "word": "education",
+   "pos": "명사",
+   "meaning": "교육",
+   "en": "Education opens many doors for young people.",
+   "ko": "교육은 젊은이들에게 많은 문을 열어 줘요."
+  },
+  {
+   "word": "educator",
+   "pos": "명사",
+   "meaning": "교육자",
+   "en": "She is a respected educator in our city.",
+   "ko": "그녀는 우리 도시에서 존경받는 교육자예요."
+  },
+  {
+   "word": "produce",
+   "pos": "동사",
+   "meaning": "생산하다 (앞으로 이끌어 내다)",
+   "en": "This farm produces fresh vegetables.",
+   "ko": "이 농장은 신선한 채소를 생산해요."
+  },
+  {
+   "word": "introduce",
+   "pos": "동사",
+   "meaning": "소개하다 (안으로 이끌다)",
+   "en": "Let me introduce my best friend to you.",
+   "ko": "내 가장 친한 친구를 소개할게."
+  }
+ ],
+ "imageSense": "대표 의미: 아이들이 박물관에서 공룡 화석을 보며 배우는 장면",
+ "imageCaption": "눈을 반짝이며 설명을 듣는 아이들과 커다란 공룡 뼈를 떠올려 보세요. 재미있으면서 배우는 것, 그게 educational이에요.",
+ "movieLineEn": "This isn't just a game. It's educational, Mom!",
+ "movieLineKo": "이건 그냥 게임이 아니에요. 교육적이라고요, 엄마!",
+ "storyTitle": "교육적인 게임의 정체",
+ "story": "민호는 엄마에게 게임기를 사 달라며 \"educational(교육적인) 게임이에요!\"라고 졸랐어요. 엄마는 한 educator(교육자)의 조언대로 게임을 직접 해 보셨죠. \"정말 education(교육)에 좋네. 영어 단어가 나와!\" 그 뒤로 게임기는 엄마 차지가 되었고, 엄마는 민호에게 새 단어장을 introduce(소개하다)해 주셨답니다."
+}

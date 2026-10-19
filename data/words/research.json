@@ -1,0 +1,68 @@
+{
+ "word": "research",
+ "pos": "명사 / 동사",
+ "phonetic": "[rɪˈsɜːrtʃ]",
+ "meaning": "연구, 조사 / 연구하다, 조사하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "강조, 철저히 (intensive)",
+   "note": "여기선 '되풀이해서 꼼꼼히'라는 강조의 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "search",
+   "meaning": "찾다 (seek) ← circare(돌아다니다)",
+   "note": "라틴어 circus(원)에서 온 '빙빙 돌며 찾다'예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (철저히) + <strong>search</strong> (찾다) = '샅샅이 되풀이해서 찾다'에서 <strong>'연구, 조사'</strong>가 되었어요.",
+ "historyTitle": "빙빙 돌며 찾는 사람",
+ "historyBody": "search는 고대 프랑스어 cercher에서 왔고, 이는 후기 라틴어 circare(빙 돌아다니다)에서 나왔어요. circare의 뿌리는 circus(원)이죠. 16세기 프랑스어 recercher(철저히 찾다)가 영어 research가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "search",
+   "pos": "명사 / 동사",
+   "meaning": "찾기, 수색 / 찾다",
+   "en": "We searched the whole house for the key.",
+   "ko": "우리는 열쇠를 찾으려고 집 전체를 뒤졌어요."
+  },
+  {
+   "word": "researcher",
+   "pos": "명사",
+   "meaning": "연구원",
+   "en": "The researcher studied sleep for ten years.",
+   "ko": "그 연구원은 10년 동안 잠을 연구했어요."
+  },
+  {
+   "word": "circle",
+   "pos": "명사",
+   "meaning": "원, 동그라미",
+   "en": "The children sat in a circle.",
+   "ko": "아이들이 동그랗게 둘러앉았어요."
+  },
+  {
+   "word": "circuit",
+   "pos": "명사",
+   "meaning": "순회, 회로",
+   "en": "The race car finished the circuit quickly.",
+   "ko": "그 경주차는 트랙을 빠르게 돌았어요."
+  },
+  {
+   "word": "circulate",
+   "pos": "동사",
+   "meaning": "순환하다, 퍼지다",
+   "en": "Blood circulates through the body.",
+   "ko": "피는 몸 전체를 순환해요."
+  }
+ ],
+ "imageSense": "대표 의미: 실험실에서 자료를 꼼꼼히 다시 살펴보는 연구원",
+ "imageCaption": "현미경과 노트를 번갈아 보며 같은 것을 몇 번이고 다시 찾는 연구원을 떠올려 보세요.",
+ "movieLineEn": "My research proves that cats secretly rule the world.",
+ "movieLineKo": "내 연구가 고양이가 몰래 세상을 지배한다는 걸 증명해.",
+ "storyTitle": "양말 연구소",
+ "story": "researcher(연구원) 박사는 사라진 양말을 research(연구)했어요. 세탁기를 search(찾다)하고 빨래가 circulate(순환하다)하는 길을 따라 circle(원)을 그리며 돌았죠. 마침내 찾은 범인은… 양말을 몰래 모으던 박사 본인의 강아지였어요!"
+}

@@ -1,0 +1,60 @@
+{
+ "word": "principal",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈprɪnsəpəl]",
+ "meaning": "주요한, 주된 / 교장, 원금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "prin-",
+   "meaning": "첫째의 (first)",
+   "note": "라틴어 primus(첫째)에서 온 부분이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cip",
+   "meaning": "잡다, 차지하다 (take)",
+   "note": "라틴어 capere(잡다)가 변한 모양이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~한 (형용사)",
+   "note": "형용사를 만들어 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>prin-</strong> (첫째) + <strong>cip</strong> (차지하다) + <strong>-al</strong> = '첫 자리를 차지하는'이라는 뜻에서 <strong>'주요한, 교장'</strong>이 되었어요.",
+ "historyTitle": "첫 자리를 차지한 사람, princeps",
+ "historyBody": "라틴어 princeps는 '첫 자리를 차지한 사람', 즉 우두머리를 뜻했어요. 로마 초대 황제 아우구스투스도 자신을 princeps(제1시민)라고 불렀답니다. 여기서 형용사 principalis가 나와 영어 principal이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prince",
+   "pos": "명사",
+   "meaning": "왕자",
+   "en": "The prince waved to the crowd from the balcony.",
+   "ko": "왕자는 발코니에서 군중에게 손을 흔들었어요."
+  },
+  {
+   "word": "principle",
+   "pos": "명사",
+   "meaning": "원리, 원칙",
+   "en": "Honesty is the first principle of our club.",
+   "ko": "정직은 우리 동아리의 첫 번째 원칙이에요."
+  },
+  {
+   "word": "principally",
+   "pos": "부사",
+   "meaning": "주로",
+   "en": "The museum is principally visited by students.",
+   "ko": "그 박물관은 주로 학생들이 방문해요."
+  }
+ ],
+ "imageSense": "대표 의미: 학교 강당 맨 앞자리에서 연설하는 교장 선생님",
+ "imageCaption": "학교에서 '첫 번째 자리'에 서 있는 분, 바로 교장 선생님을 떠올려 보세요.",
+ "movieLineEn": "The principal wants to see you in her office right now.",
+ "movieLineKo": "교장 선생님이 지금 당장 교장실로 오래.",
+ "storyTitle": "교장 선생님과 왕자님",
+ "story": "우리 학교 principal(교장)은 원래 어느 나라 prince(왕자)였다는 소문이 돌았어요. 그분의 첫째 principle(원칙)은 '지각 금지'였죠. 학생들은 principally(주로) 왕관을 찾으려고 교장실을 기웃거렸어요. 결국 찾은 건 '체육대회 우승' 종이 왕관이었답니다!"
+}

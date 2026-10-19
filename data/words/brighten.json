@@ -1,0 +1,54 @@
+{
+ "word": "brighten",
+ "pos": "동사",
+ "phonetic": "[ˈbraɪtn]",
+ "meaning": "밝게 하다, 밝아지다, (기분을) 환하게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bright",
+   "meaning": "밝은 (shining)",
+   "note": "고대 영어 beorht(빛나는)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 만들다 (make)",
+   "note": "형용사 뒤에 붙어 '~하게 하다'라는 동사를 만들어요."
+  }
+ ],
+ "summary": "<strong>bright</strong> (밝은) + <strong>-en</strong> (~하게 만들다) = <strong>'밝게 하다, 환하게 하다'</strong>예요.",
+ "historyTitle": "로버트와 앨버트 속에 숨은 bright",
+ "historyBody": "bright는 고대 영어 beorht(빛나는)에서 왔어요. 이 말은 옛 게르만 이름에도 들어가서 Robert(명성이 빛나는), Albert(고귀하게 빛나는)의 '-bert'가 바로 beorht예요. 여기에 '~하게 만들다'라는 -en이 붙어 brighten이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bright",
+   "pos": "형용사",
+   "meaning": "밝은, 영리한",
+   "en": "She is a bright student with many ideas.",
+   "ko": "그녀는 아이디어가 많은 영리한 학생이야."
+  },
+  {
+   "word": "brightly",
+   "pos": "부사",
+   "meaning": "밝게",
+   "en": "The stars were shining brightly last night.",
+   "ko": "어젯밤 별들이 밝게 빛나고 있었어."
+  },
+  {
+   "word": "brightness",
+   "pos": "명사",
+   "meaning": "밝기, 빛남",
+   "en": "Turn down the brightness of your screen at night.",
+   "ko": "밤에는 화면 밝기를 낮춰."
+  }
+ ],
+ "imageSense": "대표 의미: 커튼을 열자 어두운 방이 햇살로 환해지는 장면",
+ "imageCaption": "커튼을 확 젖히는 순간 방 안이 밝아지고, 친구 얼굴도 미소로 환해지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Your smile could brighten the darkest day.",
+ "movieLineKo": "네 미소는 가장 어두운 날도 환하게 밝힐 수 있어.",
+ "storyTitle": "형광 머리띠",
+ "story": "우울한 친구를 위해 지아는 방을 brighten(밝게 하다)하기로 했어요. 전등의 brightness(밝기)를 최대로 올리고 형광 머리띠까지 brightly(밝게) 빛나게 했죠. 친구 얼굴이 bright(밝은)해졌어요! 그런데 너무 눈부셔서 둘 다 선글라스를 끼고 놀았답니다."
+}

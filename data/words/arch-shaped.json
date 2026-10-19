@@ -1,0 +1,74 @@
+{
+ "word": "arch-shaped",
+ "pos": "형용사",
+ "phonetic": "[ˈɑːrtʃ ʃeɪpt]",
+ "meaning": "아치 모양의, 활 모양으로 굽은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "arch",
+   "meaning": "아치, 둥근 곡선 (curve)",
+   "note": "라틴어 arcus(활)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shape",
+   "meaning": "모양 (form)",
+   "note": "고대 영어 gesceap(모양, 창조물)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~한 모양을 가진",
+   "note": "명사 뒤에 붙어 '~ 모양의'라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>arch</strong> (활 모양 곡선) + <strong>shape</strong> (모양) + <strong>-ed</strong> = '아치 모양을 가진'에서 <strong>'아치 모양의'</strong>가 되었어요.",
+ "historyTitle": "활에서 온 둥근 곡선",
+ "historyBody": "arch는 라틴어 'arcus(활, 곡선)'가 고대 프랑스어 'arche'를 거쳐 들어온 말이에요. 로마인들은 돌을 활처럼 둥글게 쌓는 아치 기술로 다리와 수도교를 튼튼하게 지었어요. 참고로 architect의 'archi-'는 그리스어 '우두머리'에서 온 것으로, 이 arch와는 뿌리가 다르답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "arch",
+   "pos": "명사",
+   "meaning": "아치, 둥근 구조물",
+   "en": "We walked under a stone arch into the old town.",
+   "ko": "우리는 돌 아치 아래를 지나 구시가지로 들어갔어요."
+  },
+  {
+   "word": "arc",
+   "pos": "명사",
+   "meaning": "호, 둥근 곡선",
+   "en": "The ball flew in a high arc over the net.",
+   "ko": "공은 네트 위로 높은 곡선을 그리며 날아갔어요."
+  },
+  {
+   "word": "archery",
+   "pos": "명사",
+   "meaning": "양궁, 활쏘기",
+   "en": "Korea is famous for winning medals in archery.",
+   "ko": "한국은 양궁에서 메달을 따는 것으로 유명해요."
+  },
+  {
+   "word": "archer",
+   "pos": "명사",
+   "meaning": "궁수, 활 쏘는 사람",
+   "en": "The archer hit the center of the target.",
+   "ko": "그 궁수는 과녁 한가운데를 맞혔어요."
+  },
+  {
+   "word": "shape",
+   "pos": "명사/동사",
+   "meaning": "모양 / 형성하다",
+   "en": "Our experiences shape who we are.",
+   "ko": "우리의 경험이 우리가 어떤 사람인지를 만들어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무지개처럼 둥글게 휜 돌다리",
+ "imageCaption": "강 위에 무지개처럼 둥글게 휘어진 돌다리를 떠올려 보세요. 활처럼 굽은 그 모양이 arch-shaped예요.",
+ "movieLineEn": "Look! That arch-shaped door must lead to the secret garden.",
+ "movieLineKo": "봐! 저 아치 모양 문이 비밀의 정원으로 통하는 게 분명해.",
+ "storyTitle": "무지개 다리의 정체",
+ "story": "공원에 arch-shaped(아치 모양의) 다리가 생겼어요. 사람들은 그 arc(곡선)가 무지개 같다며 사진을 찍었죠. 그런데 archery(양궁) 동아리 archer(궁수)들이 다가와 '우리 활 어디 갔지?' 하고 찾았어요. 알고 보니 그건 다리가 아니라 거인이 두고 간 활이었답니다!"
+}

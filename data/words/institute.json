@@ -1,0 +1,81 @@
+{
+ "word": "institute",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪnstɪtuːt]",
+ "meaning": "연구소, 협회, 기관 / 시작하다, 도입하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에, 위에 (in, on)",
+   "note": "어떤 자리에 세운다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "stitu",
+   "meaning": "세우다 (set up)",
+   "note": "라틴어 statuere(세우다)가 모양이 바뀐 거예요. stand와 먼 친척이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-te",
+   "meaning": "동사·명사 꼬리",
+   "note": "라틴어 과거분사 꼬리가 남은 거예요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>stitu</strong> (세우다) + <strong>-te</strong> = '새로 세워 놓은 것'이라는 뜻에서 <strong>'기관, 연구소 / 시작하다'</strong>가 되었습니다.",
+ "historyTitle": "로마의 규칙과 교과서",
+ "historyBody": "라틴어 'instituere'는 '세우다, 정하다, 가르치다'라는 뜻이었어요. 로마의 법학 교과서 제목도 'Institutiones'였죠. 그래서 institute는 '제도를 세우다'에서 '세워진 기관, 연구소'까지 뜻하게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "institution",
+   "pos": "명사",
+   "meaning": "기관, 제도, 협회",
+   "en": "Universities are important institutions.",
+   "ko": "대학은 중요한 기관이에요."
+  },
+  {
+   "word": "constitute",
+   "pos": "동사",
+   "meaning": "구성하다",
+   "en": "Women constitute half of the population.",
+   "ko": "여성이 인구의 절반을 구성해요."
+  },
+  {
+   "word": "constitution",
+   "pos": "명사",
+   "meaning": "헌법, 체질, 구성",
+   "en": "The constitution protects our rights.",
+   "ko": "헌법은 우리의 권리를 보호해요."
+  },
+  {
+   "word": "substitute",
+   "pos": "명사 / 동사",
+   "meaning": "대체물, 대리인 / 대신하다",
+   "en": "You can substitute honey for sugar.",
+   "ko": "설탕 대신 꿀을 써도 돼요."
+  },
+  {
+   "word": "status",
+   "pos": "명사",
+   "meaning": "지위, 상태",
+   "en": "Money doesn't always bring social status.",
+   "ko": "돈이 항상 사회적 지위를 가져다주는 것은 아니에요."
+  },
+  {
+   "word": "statue",
+   "pos": "명사",
+   "meaning": "조각상",
+   "en": "There is a statue of a king in the park.",
+   "ko": "공원에 왕의 동상이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 언덕 위에 우뚝 세워진 연구소 건물",
+ "imageCaption": "땅 위에 단단히 세워 놓은 커다란 건물과 규칙을 떠올려 보세요. 세워서 만든 기관, 그게 institute예요.",
+ "movieLineEn": "Welcome to the Institute. Nothing here is normal.",
+ "movieLineKo": "연구소에 온 걸 환영해. 여기 평범한 건 하나도 없어.",
+ "storyTitle": "연구소의 비밀 실험",
+ "story": "과학 institute(연구소)에서 새 규칙을 institute(도입하다)했어요. 모든 연구원이 매일 낮잠을 자는 거죠. 이 institution(제도)에 연구소장의 status(지위)가 걸렸어요. 결과는 대성공! 연구원들은 낮잠 중에 꿈에서 본 아이디어로 노벨상 후보가 되었대요. 지금은 연구소 앞에 베개 statue(조각상)가 있어요."
+}

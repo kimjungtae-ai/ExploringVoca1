@@ -1,0 +1,55 @@
+{
+ "word": "prize",
+ "pos": "명사 / 동사",
+ "phonetic": "[praɪz]",
+ "meaning": "상, 상품, 경품 / 소중히 여기다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "prize (← 고대 프랑스어 pris)",
+   "meaning": "값, 가치, 보상 (price, value)",
+   "note": "라틴어 pretium(값)에서 온 말로, price와 원래 같은 단어였어요."
+  }
+ ],
+ "summary": "<strong>prize</strong>는 라틴어 <strong>pretium</strong> (값, 가치)에서 와서 '가치 있는 보상'이라는 뜻의 <strong>'상, 상품'</strong>이 되었어요.",
+ "historyTitle": "price와 prize는 원래 한 단어",
+ "historyBody": "중세 영어의 prise는 '값'과 '보상'을 모두 뜻했어요. 이 말은 고대 프랑스어 pris를 거쳐 라틴어 pretium(값)에서 왔답니다. 16세기쯤 철자가 갈라져 '값'은 price, '상'은 prize로 굳어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격",
+   "en": "The price of fruit goes up in winter.",
+   "ko": "겨울에는 과일 가격이 올라요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "Time with family is precious to me.",
+   "ko": "가족과 보내는 시간은 내게 소중해요."
+  },
+  {
+   "word": "appreciate",
+   "pos": "동사",
+   "meaning": "진가를 알아보다, 감사하다",
+   "en": "I really appreciate your help with my homework.",
+   "ko": "숙제를 도와줘서 정말 고마워."
+  },
+  {
+   "word": "praise",
+   "pos": "동사 / 명사",
+   "meaning": "칭찬하다 / 칭찬",
+   "en": "The teacher praised her for her hard work.",
+   "ko": "선생님은 그녀의 노력을 칭찬하셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 시상대 위에서 반짝이는 트로피를 받는 장면",
+ "imageCaption": "'가치(값)'를 인정받아 손에 쥐는 트로피를 떠올려 보세요.",
+ "movieLineEn": "And the first prize goes to... you!",
+ "movieLineKo": "그리고 1등 상은… 바로 당신입니다!",
+ "storyTitle": "값비싼 상품",
+ "story": "동네 그리기 대회의 1등 prize(상품)는 아주 precious(귀중한) 황금 붓이었어요. 지우는 그 붓의 price(가격)가 궁금해서 잠도 못 잤죠. 1등을 해서 모두의 praise(칭찬)를 받고, 붓을 appreciate(진가를 알아보다)하려고 자세히 봤더니… 금색 매직으로 칠한 나무젓가락이었답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "politely",
+ "pos": "부사",
+ "phonetic": "[pəˈlaɪtli]",
+ "meaning": "공손하게, 예의 바르게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "polite",
+   "meaning": "다듬어진 (polished)",
+   "note": "라틴어 politus(윤을 낸)에서 왔어요. polish와 형제예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>polite</strong> (다듬어진, 예의 바른) + <strong>-ly</strong> (~하게) = 말과 행동을 반듯하게 다듬어서, 곧 <strong>'공손하게'</strong>예요.",
+ "historyTitle": "윤이 나게 다듬은 사람",
+ "historyBody": "polite는 라틴어 politus에서 왔는데, 이는 polire(윤을 내다)의 과거분사예요. 처음 영어에서는 '매끄럽게 다듬어진'이라는 뜻이었다가, 1600년대 이후 '말씨와 행동이 세련된, 예의 바른'이라는 뜻이 되었어요. 거친 돌을 갈고닦듯 사람의 태도를 다듬는다는 비유랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "polite",
+   "pos": "형용사",
+   "meaning": "예의 바른, 공손한",
+   "en": "Please be polite to the guests.",
+   "ko": "손님들께 예의 바르게 대해 주세요."
+  },
+  {
+   "word": "impolite",
+   "pos": "형용사",
+   "meaning": "무례한",
+   "en": "Staring at strangers is impolite.",
+   "ko": "낯선 사람을 빤히 쳐다보는 건 무례해요."
+  },
+  {
+   "word": "politeness",
+   "pos": "명사",
+   "meaning": "공손함, 예의",
+   "en": "Politeness costs nothing but means a lot.",
+   "ko": "예의는 돈이 들지 않지만 큰 의미가 있어요."
+  },
+  {
+   "word": "polish",
+   "pos": "동사",
+   "meaning": "닦다, 다듬다",
+   "en": "I need to polish my essay before Friday.",
+   "ko": "금요일 전에 내 에세이를 다듬어야 해요."
+  },
+  {
+   "word": "polished",
+   "pos": "형용사",
+   "meaning": "세련된, 윤이 나는",
+   "en": "The pianist gave a polished performance.",
+   "ko": "그 피아니스트는 세련된 연주를 보여 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고개를 살짝 숙이며 두 손으로 물건을 건네는 모습",
+ "imageCaption": "어른께 두 손으로 공손하게 물건을 건네는 장면을 떠올려 보세요.",
+ "movieLineEn": "He politely asked me to get off his foot.",
+ "movieLineKo": "그는 공손하게 자기 발에서 내려와 달라고 했어.",
+ "storyTitle": "너무 공손한 도둑",
+ "story": "밤에 집에 든 도둑이 주인과 눈이 마주쳤어요. 도둑은 politely(공손하게) 인사했죠. \"impolite(무례한) 방문 죄송합니다.\" 그의 politeness(공손함)에 놀란 주인은 차까지 내줬어요. 도둑은 고맙다며 주인 구두를 polish(닦다)해 주고 떠났어요. 다음 날 보니 구두 한 짝이 없었대요!"
+}

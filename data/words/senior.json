@@ -1,0 +1,61 @@
+{
+ "word": "senior",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈsiːniər]",
+ "meaning": "손위의, 상급의 / 연장자, 노인, 졸업반 학생, 선배",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sen",
+   "meaning": "늙은 (old)",
+   "note": "라틴어 'senex(늙은, 노인)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ior",
+   "meaning": "더 ~한 (비교급)",
+   "note": "라틴어 비교급 어미로, '더 ~한'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>sen</strong> (늙은) + <strong>-ior</strong> (더 ~한) = 더 나이 든, 즉 <strong>'손위의, 상급의, 연장자'</strong>예요.",
+ "historyTitle": "로마의 원로원과 '더 늙은 사람'",
+ "historyBody": "라틴어 'senior'는 'senex(늙은)'의 비교급으로 '더 나이 든'을 뜻했어요. 로마의 원로원인 senate도 '나이 든 사람들의 모임'이라는 뜻이에요. 프랑스어를 거쳐 존칭 sir(경, 선생님)도 같은 senior에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "seniority",
+   "pos": "명사",
+   "meaning": "연공서열, 선임",
+   "en": "Promotions in the company were based on seniority.",
+   "ko": "그 회사의 승진은 연공서열에 따라 이루어졌어요."
+  },
+  {
+   "word": "senate",
+   "pos": "명사",
+   "meaning": "상원, 원로원",
+   "en": "The senate voted on the new law yesterday.",
+   "ko": "상원은 어제 새 법안에 대해 투표했어요."
+  },
+  {
+   "word": "senator",
+   "pos": "명사",
+   "meaning": "상원 의원",
+   "en": "The senator gave a speech about climate change.",
+   "ko": "그 상원 의원은 기후 변화에 대해 연설했어요."
+  },
+  {
+   "word": "sir",
+   "pos": "명사",
+   "meaning": "(남성 존칭) 선생님, 경",
+   "en": "Excuse me, sir, you dropped your wallet.",
+   "ko": "실례합니다, 선생님, 지갑을 떨어뜨리셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 졸업반 선배가 신입생에게 학교를 안내하는 장면",
+ "imageCaption": "머리가 희끗한 할아버지와 한 학년 위 선배를 함께 떠올려 보세요. 둘 다 '더 나이 든' 사람이에요.",
+ "movieLineEn": "Respect your seniors, kid. They've seen it all.",
+ "movieLineKo": "선배들을 존중해, 꼬마야. 그들은 별걸 다 겪어 봤어.",
+ "storyTitle": "선배의 정체",
+ "story": "senior(선배)라고 우기는 아저씨가 매일 학교 식당에 왔어요. 자기가 seniority(선임)가 제일 높다나요. 알고 보니 그는 진짜 senator(상원 의원)였어요! 40년 전 이 학교 졸업생이라, 급식이 그리워 몰래 온 거래요. 다들 \"Yes, sir(선생님)!\" 했죠."
+}

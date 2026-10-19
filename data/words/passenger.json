@@ -1,0 +1,68 @@
+{
+ "word": "passenger",
+ "pos": "명사",
+ "phonetic": "[ˈpæsɪndʒər]",
+ "meaning": "승객",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pass(age)",
+   "meaning": "지나가다, 통행 (pass, passage)",
+   "note": "라틴어 passus(걸음)에서 온 pass와 passage가 바탕이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "'~하는 사람'을 나타내요. 원래 passager였는데 중간에 n이 끼어들었어요."
+  }
+ ],
+ "summary": "<strong>passage</strong> (통행) + <strong>-er</strong> (사람) = '길을 지나가는 사람, 여행자'라는 뜻에서 <strong>'승객'</strong>이 되었어요.",
+ "historyTitle": "끼어든 n의 비밀",
+ "historyBody": "passenger는 고대 프랑스어 passagier(지나가는 사람, 여행자)에서 왔고, 14세기 영어에서는 passager로 쓰였어요. 15세기쯤 messenger처럼 발음하기 편하게 중간에 n이 끼어들었답니다. 처음엔 '나그네'였다가 탈것을 탄 '승객'이라는 뜻으로 자리 잡았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pass",
+   "pos": "동사",
+   "meaning": "지나가다, 통과하다",
+   "en": "We passed a small café on the way home.",
+   "ko": "우리는 집에 오는 길에 작은 카페를 지나쳤어요."
+  },
+  {
+   "word": "passage",
+   "pos": "명사",
+   "meaning": "통로, (글의) 한 구절, 통과",
+   "en": "Read the passage carefully and answer the questions.",
+   "ko": "지문을 잘 읽고 질문에 답하세요."
+  },
+  {
+   "word": "passerby",
+   "pos": "명사",
+   "meaning": "행인, 지나가는 사람",
+   "en": "A kind passerby helped the old man cross the street.",
+   "ko": "친절한 행인이 할아버지가 길을 건너도록 도와주었어요."
+  },
+  {
+   "word": "passport",
+   "pos": "명사",
+   "meaning": "여권",
+   "en": "You need a passport to travel abroad.",
+   "ko": "해외여행을 하려면 여권이 필요해요."
+  },
+  {
+   "word": "surpass",
+   "pos": "동사",
+   "meaning": "능가하다, 뛰어넘다",
+   "en": "Her score surpassed everyone's expectations.",
+   "ko": "그녀의 점수는 모두의 기대를 뛰어넘었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 버스 창가 자리에 앉아 바깥 풍경을 보는 사람들",
+ "imageCaption": "버스에 올라 창밖으로 지나가는 풍경을 보는 모습을 떠올려 보세요. 그 자리에 앉은 사람이 passenger예요.",
+ "movieLineEn": "Attention, passengers. Please fasten your seatbelts. We're in for a bumpy ride.",
+ "movieLineKo": "승객 여러분, 안전벨트를 매 주세요. 험한 비행이 예상됩니다.",
+ "storyTitle": "이상한 승객",
+ "story": "버스 기사님은 매일 같은 passenger(승객)를 태워요. 그 승객은 한 정거장만 pass(지나가다)하면 내리죠. 궁금했던 기사님이 이유를 물었어요. passerby(행인)처럼 걸어도 될 거리였거든요. 승객이 웃으며 답했어요. '사실 저 이 버스 회사 사장이에요. 점검 중이죠!'"
+}

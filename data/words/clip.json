@@ -1,0 +1,41 @@
+{
+ "word": "clip",
+ "pos": "명사 / 동사",
+ "phonetic": "[klɪp]",
+ "meaning": "클립, 짧은 영상 / 자르다, 깎다, (클립으로) 고정하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "clip",
+   "meaning": "① 자르다 (cut) ② 꽉 쥐다 (embrace)",
+   "note": "'자르다'는 고대 노르드어 klippa, '고정하다'는 고대 영어 clyppan(껴안다)에서 온 서로 다른 단어예요."
+  }
+ ],
+ "summary": "<strong>clip</strong> (싹둑 자르다 / 꽉 쥐다) = 잘라 낸 짧은 조각, 꽉 집는 도구라는 데서 <strong>'짧은 영상, 클립'</strong>이 되었습니다.",
+ "historyTitle": "모양은 같지만 출신이 다른 두 단어",
+ "historyBody": "'자르다'의 clip은 바이킹의 말인 고대 노르드어 klippa에서 왔어요. '집게, 고정하다'의 clip은 고대 영어 clyppan(껴안다)에서 왔죠. 우연히 철자가 같아졌을 뿐 다른 단어이고, '영상 클립'은 필름을 잘라 낸 조각이라는 첫 번째 뜻에서 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "clipper",
+   "pos": "명사",
+   "meaning": "깎는 기구, 손톱깎이",
+   "en": "Where are the nail clippers?",
+   "ko": "손톱깎이 어디 있어?"
+  },
+  {
+   "word": "clipping",
+   "pos": "명사",
+   "meaning": "오려 낸 기사, 잘라 낸 것",
+   "en": "She kept a clipping of the newspaper article.",
+   "ko": "그녀는 그 신문 기사를 오려서 간직했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가위로 신문 기사를 싹둑 오리고 클립으로 집어 두는 모습",
+ "imageCaption": "싹둑 잘라 낸 조각, 또는 꽉 집어 주는 집게를 떠올려 보세요.",
+ "movieLineEn": "Did you see the clip of the cat playing piano?",
+ "movieLineKo": "고양이가 피아노 치는 영상 클립 봤어?",
+ "storyTitle": "앞머리 대참사",
+ "story": "수아는 미용실 영상 clip(짧은 영상)을 보고 직접 앞머리를 clip(자르다)했어요. 가위 대신 clipper(깎는 기구)를 썼더니 너무 짧아졌죠! 급하게 hairpin(머리핀)으로 고정하고 학교에 갔어요. 그런데 친구들이 그 모습을 찍어 올리자 인기 clipping(잘라 낸 장면)이 되었대요!"
+}

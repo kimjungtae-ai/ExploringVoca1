@@ -1,0 +1,68 @@
+{
+ "word": "lawyer",
+ "pos": "명사",
+ "phonetic": "[ˈlɔːjər]",
+ "meaning": "변호사, 법률가",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "law",
+   "meaning": "법 (law)",
+   "note": "고대 노르드어 lagu('놓인 것, 정해진 것')에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-yer",
+   "meaning": "~하는 사람 (person)",
+   "note": "-er의 변형으로 '~과 관련된 일을 하는 사람'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>law</strong> (법) + <strong>-yer</strong> (사람) = '법을 다루는 사람'이라서 <strong>'변호사'</strong>예요.",
+ "historyTitle": "바이킹이 남긴 '법'",
+ "historyBody": "law는 고대 영어 lagu에서 왔는데, 이는 바이킹의 언어인 고대 노르드어 lag('놓인 것, 정해진 것')에서 들어온 말이에요. '사회에 정해 놓은 규칙'이 곧 법이었던 거죠. 그래서 lay(놓다)와도 먼 친척이에요. 14세기에 '법을 다루는 사람'인 lawyer가 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "law",
+   "pos": "명사",
+   "meaning": "법, 법칙",
+   "en": "Everyone must obey the law.",
+   "ko": "모든 사람은 법을 지켜야 해요."
+  },
+  {
+   "word": "lawful",
+   "pos": "형용사",
+   "meaning": "합법적인",
+   "en": "They protested in a peaceful and lawful way.",
+   "ko": "그들은 평화롭고 합법적인 방식으로 시위했어요."
+  },
+  {
+   "word": "unlawful",
+   "pos": "형용사",
+   "meaning": "불법의",
+   "en": "Driving without a license is unlawful.",
+   "ko": "무면허 운전은 불법이에요."
+  },
+  {
+   "word": "lawsuit",
+   "pos": "명사",
+   "meaning": "소송",
+   "en": "The company faced a lawsuit from its customers.",
+   "ko": "그 회사는 고객들로부터 소송을 당했어요."
+  },
+  {
+   "word": "outlaw",
+   "pos": "명사 / 동사",
+   "meaning": "무법자 / 불법화하다",
+   "en": "Many countries have outlawed the hunting of whales.",
+   "ko": "많은 나라가 고래 사냥을 법으로 금지했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 법정에서 서류를 들고 의뢰인을 변호하는 변호사",
+ "imageCaption": "법전과 서류를 펼쳐 놓고 '이의 있습니다!'라고 외치는 사람을 떠올려 보세요.",
+ "movieLineEn": "I'm not saying another word until my lawyer gets here.",
+ "movieLineKo": "변호사가 올 때까지 한 마디도 안 할 거예요.",
+ "storyTitle": "고양이 변호사의 첫 재판",
+ "story": "강아지가 이웃집 소시지를 먹은 혐의로 lawsuit(소송)를 당했어요. 고양이 lawyer(변호사)는 '먹은 건 lawful(합법적인) 일입니다. 바닥에 떨어진 건 주운 사람 것이 law(법)죠!'라고 외쳤어요. 판사는 고개를 끄덕였어요. 그런데 증거 영상 속 소시지를 떨어뜨린 건 바로 고양이였답니다!"
+}

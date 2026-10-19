@@ -1,0 +1,55 @@
+{
+ "word": "heal",
+ "pos": "동사",
+ "phonetic": "[hiːl]",
+ "meaning": "치유하다, 낫다, 회복시키다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "heal (古 hǣlan)",
+   "meaning": "온전하게 하다 (make whole)",
+   "note": "고대 영어 hāl(온전한)에서 나온 동사로, whole, health와 형제예요."
+  }
+ ],
+ "summary": "<strong>heal</strong>은 고대 영어 hǣlan(<strong>온전하게 만들다</strong>)에서 와서 <strong>'치유하다, 낫다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "건강하다는 건 '온전하다'는 것",
+ "historyBody": "heal은 고대 영어 hǣlan에서 왔고, 이 동사는 hāl(온전한, 다친 데 없는)에서 나왔어요. 같은 hāl에서 whole(전체의), health(건강), hale(정정한)이 나왔고, holy(신성한)도 같은 뿌리로 봐요. 옛사람들에게 '낫는다'는 건 몸이 다시 '온전해지는' 것이었죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "health",
+   "pos": "명사",
+   "meaning": "건강",
+   "en": "Regular exercise is good for your health.",
+   "ko": "규칙적인 운동은 건강에 좋아."
+  },
+  {
+   "word": "healthy",
+   "pos": "형용사",
+   "meaning": "건강한, 건강에 좋은",
+   "en": "Try to eat a healthy breakfast every day.",
+   "ko": "매일 건강한 아침을 먹도록 노력해."
+  },
+  {
+   "word": "whole",
+   "pos": "형용사 / 명사",
+   "meaning": "전체의, 온전한 / 전체",
+   "en": "She ate the whole pizza by herself.",
+   "ko": "그녀는 피자 한 판을 혼자 다 먹었어."
+  },
+  {
+   "word": "holy",
+   "pos": "형용사",
+   "meaning": "신성한",
+   "en": "The temple is a holy place for many people.",
+   "ko": "그 사원은 많은 사람에게 신성한 곳이야."
+  }
+ ],
+ "imageSense": "대표 의미: 다친 무릎에 반창고를 붙이고 상처가 아물어 가는 장면",
+ "imageCaption": "찢어진 곳이 다시 하나로 붙어 '온전해지는' 상처를 떠올려 보세요.",
+ "movieLineEn": "Time will heal your broken heart.",
+ "movieLineKo": "시간이 너의 상처받은 마음을 치유해 줄 거야.",
+ "storyTitle": "만병통치 할머니 수프",
+ "story": "감기에 걸린 나는 할머니의 수프로 heal(낫다)하기로 했어요. 할머니는 healthy(건강에 좋은) 재료를 whole(통째로) 다 넣으셨죠. 한 입 먹자 health(건강)가 돌아오는 느낌! 거의 holy(신성한) 맛이었어요. 비결을 묻자 할머니가 웃으셨어요. '사실 그거 편의점 수프야. 비결은 할미의 사랑이지!'"
+}

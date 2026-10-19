@@ -1,0 +1,54 @@
+{
+ "word": "entrance",
+ "pos": "명사",
+ "phonetic": "[ˈentrəns]",
+ "meaning": "입구, 입장, 입학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "enter",
+   "meaning": "들어가다 (enter)",
+   "note": "라틴어 intrare(안으로 들어가다)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 행동이나 장소를 나타내는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>enter</strong> (들어가다) + <strong>-ance</strong> (명사) = '들어가는 것, 들어가는 곳'에서 <strong>'입구, 입장, 입학'</strong>이 되었어요.",
+ "historyTitle": "안으로 들어가는 문",
+ "historyBody": "enter는 고대 프랑스어 'entrer'를 거쳐 라틴어 'intrare(안으로 들어가다)'에서 왔고, 이는 intra(안에)와 관련 있어요. 참고로 동사 entrance[ɪnˈtræns](황홀하게 하다)는 en-과 trance(무아지경)가 합쳐진 전혀 다른 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "enter",
+   "pos": "동사",
+   "meaning": "들어가다, 입력하다",
+   "en": "Please knock before you enter the room.",
+   "ko": "방에 들어가기 전에 노크해 주세요."
+  },
+  {
+   "word": "entry",
+   "pos": "명사",
+   "meaning": "입장, 출입, (사전의) 항목",
+   "en": "Entry to the museum is free on Sundays.",
+   "ko": "일요일에는 박물관 입장이 무료예요."
+  },
+  {
+   "word": "entrant",
+   "pos": "명사",
+   "meaning": "참가자, 신입생",
+   "en": "Each entrant must submit a short essay.",
+   "ko": "각 참가자는 짧은 에세이를 제출해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 건물 입구 문으로 사람들이 들어가는 장면",
+ "imageCaption": "'입구(Entrance)'라고 쓰인 표지판 아래로 사람들이 줄지어 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Meet me at the main entrance at midnight.",
+ "movieLineKo": "자정에 정문 입구에서 만나자.",
+ "storyTitle": "입구를 찾아라",
+ "story": "수진이는 입학 entrance(입학) 시험장에 일찍 도착했어요. 하지만 entry(입장) 표지판을 따라가도 enter(들어가다)할 문이 안 보였죠. 다른 entrant(참가자)들도 헤맸어요. 30분 뒤 알고 보니, 모두 같은 건물을 빙빙 돌며 서로를 따라가고 있었답니다!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "foldable",
+ "pos": "형용사",
+ "phonetic": "[ˈfoʊldəbl]",
+ "meaning": "접을 수 있는, 접이식의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fold",
+   "meaning": "접다 (fold)",
+   "note": "고대 영어 faldan(접다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는 (형용사)",
+   "note": "동사 뒤에 붙어 '~할 수 있는'이라는 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>fold</strong> (접다) + <strong>-able</strong> (~할 수 있는) = '접을 수 있는'이라는 뜻에서 <strong>'접이식의'</strong>가 되었습니다.",
+ "historyTitle": "고대 영어 faldan에서 폴더블 폰까지",
+ "historyBody": "fold는 고대 영어 faldan(접다)에서 왔고, 독일어 falten과 형제예요. twofold(두 배의)처럼 '겹'을 뜻하는 -fold도 같은 집안이에요. foldable은 오래전부터 있던 말이지만, 요즘은 '폴더블 폰' 덕분에 훨씬 친숙해졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fold",
+   "pos": "동사",
+   "meaning": "접다, (팔짱을) 끼다",
+   "en": "Please fold your clothes neatly before you put them away.",
+   "ko": "옷을 넣기 전에 깔끔하게 개어 주세요."
+  },
+  {
+   "word": "unfold",
+   "pos": "동사",
+   "meaning": "펴다, (이야기가) 펼쳐지다",
+   "en": "She unfolded the map on the table.",
+   "ko": "그녀는 탁자 위에 지도를 펼쳤어요."
+  },
+  {
+   "word": "folder",
+   "pos": "명사",
+   "meaning": "폴더, 서류철",
+   "en": "Put your test papers in this blue folder.",
+   "ko": "시험지를 이 파란 폴더에 넣으세요."
+  },
+  {
+   "word": "twofold",
+   "pos": "형용사 / 부사",
+   "meaning": "두 배의, 두 부분으로 된",
+   "en": "The number of visitors increased twofold this year.",
+   "ko": "올해 방문객 수가 두 배로 늘었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 반으로 착 접히는 스마트폰",
+ "imageCaption": "책처럼 펼쳤다가 반으로 착 접어 주머니에 넣는 휴대폰을 떠올리면 foldable이 생각나요.",
+ "movieLineEn": "This foldable bike fits in my backpack. Genius!",
+ "movieLineKo": "이 접이식 자전거는 내 배낭에 들어가. 천재적이야!",
+ "storyTitle": "접이식 집",
+ "story": "발명가 할아버지는 foldable(접이식의) 집을 만들었어요. 버튼을 누르면 집이 종이처럼 fold(접다)되어 folder(서류철) 크기가 되었죠. 여행지에서 다시 unfold(펴다)하면 원래대로 돌아왔어요. 그런데 어느 날 할머니가 그 서류철을 실수로 재활용함에 버렸대요. 그 집, 지금은 누구네 공책이 되었을까요?"
+}

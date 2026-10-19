@@ -1,0 +1,47 @@
+{
+ "word": "cordless",
+ "pos": "형용사",
+ "phonetic": "[ˈkɔːrdləs]",
+ "meaning": "무선의, 코드가 없는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "cord",
+   "meaning": "끈, 줄, 전선 (string, cord)",
+   "note": "그리스어 khordē(현악기 줄)에서 라틴어 chorda를 거쳐 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-less",
+   "meaning": "~이 없는 (without)",
+   "note": "'없다'는 뜻의 형용사 접미사예요."
+  }
+ ],
+ "summary": "<strong>cord</strong> (줄, 전선) + <strong>-less</strong> (~없는) = '전선이 없는'에서 <strong>'무선의'</strong>가 되었어요.",
+ "historyTitle": "악기 줄에서 전선까지",
+ "historyBody": "cord는 그리스어 khordē(창자로 만든 악기 줄)에서 라틴어 chorda, 고대 프랑스어 corde를 거쳐 영어에 들어왔어요. 음악의 '화음'을 뜻하는 chord도 같은 뿌리예요. 여기에 고대 영어에서 온 -less(~이 없는)가 붙어 '전선 없는'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cord",
+   "pos": "명사",
+   "meaning": "끈, 줄, 전선",
+   "en": "Don't trip over the power cord.",
+   "ko": "전선에 걸려 넘어지지 마세요."
+  },
+  {
+   "word": "chord",
+   "pos": "명사",
+   "meaning": "화음, (악기의) 현",
+   "en": "He played a simple chord on the guitar.",
+   "ko": "그는 기타로 간단한 화음을 쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 전선 없이 자유롭게 움직이는 무선 청소기",
+ "imageCaption": "콘센트에서 멀리 떨어진 곳까지 청소기를 들고 다니는 모습을 떠올려 보세요. 줄에 묶이지 않은 자유로움이 cordless예요.",
+ "movieLineEn": "Grab the cordless drill. We need to fix this door now!",
+ "movieLineKo": "무선 드릴 가져와. 이 문 지금 고쳐야 해!",
+ "storyTitle": "자유를 찾은 청소기",
+ "story": "집 청소기는 늘 cord(전선)에 묶여 슬펐어요. 어느 날 cordless(무선의) 청소기로 업그레이드되자 기뻐서 노래했죠. 기타의 chord(화음)처럼 '위잉~' 소리를 내며 온 집을 돌아다녔어요. 그런데 cordless(무선의)의 단점! 배터리가 다 되어 소파 밑에서 잠들어 버렸대요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "normally",
+ "pos": "부사",
+ "phonetic": "[ˈnɔːrməli]",
+ "meaning": "보통, 일반적으로, 정상적으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "norm",
+   "meaning": "기준, 직각자 (rule)",
+   "note": "라틴어 norma(목수의 직각자, 기준)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>norm</strong> (기준) + <strong>-al</strong> + <strong>-ly</strong> = 기준에 맞게라서 <strong>'보통, 정상적으로'</strong>가 되었어요.",
+ "historyTitle": "목수의 직각자",
+ "historyBody": "라틴어 norma는 원래 목수가 직각을 잴 때 쓰던 'ㄱ자 자'였어요. 반듯한 직각이 '기준'이 되면서 normal은 '기준에 맞는, 정상적인'이라는 뜻이 되었죠. 기준에서 크게 벗어난 enormous(거대한)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "normal",
+   "pos": "형용사",
+   "meaning": "정상의, 보통의",
+   "en": "It is normal to feel nervous before a big test.",
+   "ko": "큰 시험 전에 긴장하는 건 정상이에요."
+  },
+  {
+   "word": "norm",
+   "pos": "명사",
+   "meaning": "표준, 규범",
+   "en": "Wearing a uniform is the norm at most Korean schools.",
+   "ko": "교복 착용은 대부분의 한국 학교에서 일반적이에요."
+  },
+  {
+   "word": "abnormal",
+   "pos": "형용사",
+   "meaning": "비정상적인",
+   "en": "The doctor found nothing abnormal in the X-ray.",
+   "ko": "의사는 엑스레이에서 비정상적인 것을 발견하지 못했어요."
+  },
+  {
+   "word": "enormous",
+   "pos": "형용사",
+   "meaning": "거대한, 막대한",
+   "en": "An enormous whale appeared next to our boat.",
+   "ko": "거대한 고래가 우리 배 옆에 나타났어요."
+  },
+  {
+   "word": "normalize",
+   "pos": "동사",
+   "meaning": "정상화하다",
+   "en": "Both countries agreed to normalize relations.",
+   "ko": "두 나라는 관계를 정상화하기로 합의했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 평소처럼 아침 7시에 일어나 등교하는 하루",
+ "imageCaption": "매일 똑같이 반복되는 평범한 아침 일과를 떠올려 보세요.",
+ "movieLineEn": "Just act normally. Nobody suspects a thing.",
+ "movieLineKo": "그냥 평소처럼 행동해. 아무도 눈치 못 챘어.",
+ "storyTitle": "평범한 척하는 외계인",
+ "story": "전학생 지구는 normally(평소에) 아주 normal(평범한) 학생이에요. 그런데 급식으로 enormous(거대한) 양을 먹고, 가끔 귀가 초록색으로 변해요. 친구들이 abnormal(비정상적인) 점을 묻자 지구는 웃으며 \"지구에선 이게 norm(표준)이야\"라고 했죠. 이름부터 수상했답니다."
+}

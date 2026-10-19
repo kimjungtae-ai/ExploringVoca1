@@ -1,0 +1,61 @@
+{
+ "word": "nearby",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ˌnɪrˈbaɪ]",
+ "meaning": "근처의 / 근처에",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "near",
+   "meaning": "가까운 (close)",
+   "note": "고대 영어 near(더 가까이)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "by",
+   "meaning": "곁에 (beside)",
+   "note": "'옆에, 곁에'라는 뜻의 고대 영어 bi에서 왔어요."
+  }
+ ],
+ "summary": "<strong>near</strong> (가까운) + <strong>by</strong> (곁에) = 바로 곁 가까이라서 <strong>'근처의, 근처에'</strong>가 되었어요.",
+ "historyTitle": "원래는 '더 가까이'였던 near",
+ "historyBody": "near는 고대 영어에서 원래 neah(가까운)의 비교급, 즉 '더 가까이'라는 뜻이었어요. 그런데 시간이 지나며 그냥 '가까운'이라는 뜻이 되었죠. nearby는 14세기 무렵부터 쓰인 합성어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "near",
+   "pos": "형용사 / 전치사",
+   "meaning": "가까운 / ~ 가까이에",
+   "en": "Is there a bank near the station?",
+   "ko": "역 근처에 은행이 있나요?"
+  },
+  {
+   "word": "nearly",
+   "pos": "부사",
+   "meaning": "거의",
+   "en": "I nearly forgot my best friend's birthday.",
+   "ko": "나는 가장 친한 친구 생일을 거의 잊을 뻔했어요."
+  },
+  {
+   "word": "bystander",
+   "pos": "명사",
+   "meaning": "구경꾼, 행인",
+   "en": "A bystander called the police after the accident.",
+   "ko": "사고 후 한 행인이 경찰에 신고했어요."
+  },
+  {
+   "word": "neighbor",
+   "pos": "명사",
+   "meaning": "이웃",
+   "en": "Our neighbor brought us some homemade cookies.",
+   "ko": "이웃이 직접 만든 쿠키를 가져다주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 집 바로 옆 골목에 있는 편의점",
+ "imageCaption": "창문만 열면 보이는 집 앞 편의점처럼 아주 가까운 곳을 떠올려 보세요.",
+ "movieLineEn": "Stay nearby. I don't want to lose you in this crowd.",
+ "movieLineKo": "가까이 있어. 이 인파 속에서 널 잃어버리고 싶지 않아.",
+ "storyTitle": "가까운데 먼 편의점",
+ "story": "동생이 \"nearby(근처의) 편의점에 가자\"고 했어요. 편의점은 near(가까운) 곳이었지만 우린 nearly(거의) 한 시간이 걸렸죠. 가는 길에 친구, 고양이, neighbor(이웃) 할머니까지 다 만나서 수다를 떨었거든요. 정작 도착했을 땐 지갑을 집에 두고 왔답니다."
+}

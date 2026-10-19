@@ -1,0 +1,61 @@
+{
+ "word": "owner",
+ "pos": "명사",
+ "phonetic": "[ˈoʊnər]",
+ "meaning": "주인, 소유자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "own",
+   "meaning": "소유하다, 자기 자신의 (own)",
+   "note": "고대 영어 agen(소유된)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "동사 뒤에 붙어 그 일을 하는 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>own</strong> (소유하다) + <strong>-er</strong> (~하는 사람) = <strong>'주인, 소유자'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "own, owe, ought는 한 집안",
+ "historyBody": "own은 고대 영어 agen(소유된)에서 왔는데, 이는 동사 agan(가지다)의 과거분사예요. agan은 나중에 owe(빚지다)가 되었고, 그 과거형은 ought(~해야 한다)로 남았어요. '가지고 있다'에서 '남의 것을 가지고 있으니 갚아야 한다'로 뜻이 이어진 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "own",
+   "pos": "동사 / 형용사",
+   "meaning": "소유하다 / 자기 자신의",
+   "en": "My uncle owns a small bakery downtown.",
+   "ko": "삼촌은 시내에서 작은 빵집을 운영하세요."
+  },
+  {
+   "word": "ownership",
+   "pos": "명사",
+   "meaning": "소유권",
+   "en": "The ownership of the land is still unclear.",
+   "ko": "그 땅의 소유권은 아직 불분명해요."
+  },
+  {
+   "word": "owe",
+   "pos": "동사",
+   "meaning": "빚지다, 신세 지다",
+   "en": "I owe my success to my teachers.",
+   "ko": "나의 성공은 선생님들 덕분이에요."
+  },
+  {
+   "word": "ought",
+   "pos": "조동사",
+   "meaning": "~해야 한다",
+   "en": "You ought to apologize to your friend.",
+   "ko": "너는 친구에게 사과해야 해."
+  }
+ ],
+ "imageSense": "대표 의미: 가게 문 앞에서 열쇠를 든 주인이 웃으며 서 있는 장면",
+ "imageCaption": "'제 가게예요!'라며 열쇠 꾸러미를 흔드는 사장님을 떠올려 보세요. 무언가를 가진 사람, 그게 owner예요.",
+ "movieLineEn": "Who's the owner of this car? It's blocking my way!",
+ "movieLineKo": "이 차 주인 누구야? 내 길을 막고 있잖아!",
+ "storyTitle": "진짜 주인은 누구?",
+ "story": "카페 owner(주인)는 고양이를 키워요. 손님들은 사장님이 고양이를 own(소유하다)한다고 생각했죠. 그런데 고양이가 매일 좋은 자리를 차지했어요. 사장님은 '저 녀석한테 owe(빚지다)한 게 많아요'라며 웃었어요. 사실 고양이 덕분에 손님이 늘었거든요. 진짜 ownership(소유권)은 고양이에게 있었답니다."
+}

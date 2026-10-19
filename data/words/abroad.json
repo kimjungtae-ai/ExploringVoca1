@@ -1,0 +1,61 @@
+{
+ "word": "abroad",
+ "pos": "부사",
+ "phonetic": "[əˈbrɔːd]",
+ "meaning": "해외에, 해외로, 널리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "a-",
+   "meaning": "~에, ~위에 (on)",
+   "note": "고대 영어 'on'이 줄어든 형태예요. asleep, aboard의 a-와 같아요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "broad",
+   "meaning": "넓은 (wide)",
+   "note": "넓게 퍼져 있는 모습을 나타내요."
+  }
+ ],
+ "summary": "<strong>a-</strong> (~에) + <strong>broad</strong> (넓은) = '넓은 곳으로, 널리 퍼져서'에서 <strong>'해외에, 해외로'</strong>가 되었어요.",
+ "historyTitle": "'널리'에서 '해외로'가 된 단어",
+ "historyBody": "중세 영어 abrood는 원래 '널리, 사방으로 퍼져서'라는 뜻이었어요. 집 밖으로 멀리 나가 있다는 의미로 넓어지다가 15세기 무렵부터 '자기 나라 밖에서'라는 뜻으로 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "broad",
+   "pos": "형용사",
+   "meaning": "넓은, 폭넓은",
+   "en": "The river is broad and deep near the city.",
+   "ko": "그 강은 도시 근처에서 넓고 깊어요."
+  },
+  {
+   "word": "broaden",
+   "pos": "동사",
+   "meaning": "넓히다",
+   "en": "Reading many books can broaden your view of the world.",
+   "ko": "많은 책을 읽으면 세상을 보는 시야가 넓어질 수 있어요."
+  },
+  {
+   "word": "breadth",
+   "pos": "명사",
+   "meaning": "폭, 너비, 폭넓음",
+   "en": "She was surprised by the breadth of his knowledge.",
+   "ko": "그녀는 그의 폭넓은 지식에 놀랐어요."
+  },
+  {
+   "word": "broadcast",
+   "pos": "동사/명사",
+   "meaning": "방송하다 / 방송",
+   "en": "The game will be broadcast live on TV tonight.",
+   "ko": "그 경기는 오늘 밤 TV로 생중계될 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 여권을 들고 비행기를 타고 넓은 세상으로 떠나는 장면",
+ "imageCaption": "공항에서 커다란 세계 지도를 바라보는 학생을 떠올려 보세요. 넓은(broad) 세상으로 나가는 거예요!",
+ "movieLineEn": "I'm going to study abroad next year!",
+ "movieLineKo": "나 내년에 해외로 유학 갈 거야!",
+ "storyTitle": "해외 유학생 강아지",
+ "story": "강아지 바둑이는 abroad(해외에서) 공부하는 게 꿈이었어요. 시야를 broaden(넓히다)하고 싶었거든요. 출국 날, 뉴스에서 broadcast(방송)가 나왔어요. '바둑이, 세계 최초 강아지 유학생!' 그런데 도착한 곳은 broad(넓은) 들판의 옆 동네 개 학교였답니다."
+}

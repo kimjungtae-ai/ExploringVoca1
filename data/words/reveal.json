@@ -1,0 +1,54 @@
+{
+ "word": "reveal",
+ "pos": "동사",
+ "phonetic": "[rɪˈviːl]",
+ "meaning": "드러내다, 밝히다, 폭로하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "반대로, 거꾸로 (back, reverse)",
+   "note": "하던 동작을 거꾸로 되돌린다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "veal",
+   "meaning": "덮다, 베일을 씌우다 (cover, veil) ← velare",
+   "note": "라틴어 velum(덮개, 베일)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (거꾸로) + <strong>veal</strong> (덮다) = '덮개를 걷어 내다'에서 <strong>'드러내다, 밝히다'</strong>가 되었어요.",
+ "historyTitle": "베일을 걷어 올리다",
+ "historyBody": "라틴어 revelare는 '베일을 벗기다, 덮개를 걷다'라는 뜻이었어요. velum은 천, 덮개, 돛을 뜻했고 영어 veil(베일)도 여기서 왔죠. 고대 프랑스어 reveler를 거쳐 14세기 후반에 영어 reveal이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "revelation",
+   "pos": "명사",
+   "meaning": "폭로, 계시, 뜻밖의 사실",
+   "en": "The news was a revelation to everyone.",
+   "ko": "그 소식은 모두에게 놀라운 사실이었어요."
+  },
+  {
+   "word": "veil",
+   "pos": "명사 / 동사",
+   "meaning": "베일, 덮개 / 가리다",
+   "en": "The bride wore a long white veil.",
+   "ko": "신부는 길고 하얀 베일을 썼어요."
+  },
+  {
+   "word": "unveil",
+   "pos": "동사",
+   "meaning": "공개하다, 베일을 벗기다",
+   "en": "The company will unveil its new phone tomorrow.",
+   "ko": "그 회사는 내일 새 휴대폰을 공개할 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 천을 휙 걷어 내자 숨겨진 조각상이 드러나는 장면",
+ "imageCaption": "무대 위에서 커다란 천을 걷어 올리는 순간 놀라운 것이 나타나는 모습을 떠올려 보세요.",
+ "movieLineEn": "Take off your mask and reveal who you really are!",
+ "movieLineKo": "가면을 벗고 네 진짜 정체를 드러내!",
+ "storyTitle": "마술사의 비밀",
+ "story": "마술사가 큰 veil(덮개) 아래 코끼리를 숨겼어요. 드디어 unveil(공개하다)하는 순간, 관객들은 숨을 죽였죠. 그가 천을 걷어 reveal(드러내다)하자 코끼리가 아닌 쥐 한 마리가 나왔어요. 놀라운 revelation(뜻밖의 사실)은, 코끼리가 쥐가 무서워 도망갔다는 것이었어요!"
+}

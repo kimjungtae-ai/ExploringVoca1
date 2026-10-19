@@ -1,0 +1,55 @@
+{
+ "word": "fix",
+ "pos": "동사 / 명사",
+ "phonetic": "[fɪks]",
+ "meaning": "고치다, 고정하다, 정하다, (식사를) 준비하다 / 해결책, 곤경",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fix",
+   "meaning": "고정하다 (fasten)",
+   "note": "라틴어 figere(박다, 고정하다)의 과거분사 fixus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>fix</strong> (박아서 고정하다) = 움직이지 않게 딱 붙인다는 뜻에서 출발해 <strong>'고정하다, 고치다'</strong>가 되었습니다.",
+ "historyTitle": "못을 '박는' 데서 시작된 단어",
+ "historyBody": "fix는 라틴어 figere(박다, 고정하다)의 과거분사 fixus에서 왔어요. 처음에는 '고정하다, 정하다'라는 뜻이었는데, 17세기 이후 '제자리로 돌려놓다'에서 '고치다'라는 뜻이 생겼어요. prefix(접두사)도 '앞에 고정된 것'이라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fixed",
+   "pos": "형용사",
+   "meaning": "고정된, 정해진",
+   "en": "The store sells everything at a fixed price.",
+   "ko": "그 가게는 모든 물건을 정가에 팔아요."
+  },
+  {
+   "word": "prefix",
+   "pos": "명사",
+   "meaning": "접두사 (앞에 붙은 것)",
+   "en": "The prefix 'un-' often means 'not'.",
+   "ko": "접두사 'un-'은 종종 '아니다'라는 뜻이에요."
+  },
+  {
+   "word": "suffix",
+   "pos": "명사",
+   "meaning": "접미사 (뒤에 붙은 것)",
+   "en": "Adding the suffix '-ful' makes 'hope' into 'hopeful'.",
+   "ko": "접미사 '-ful'을 붙이면 'hope'가 'hopeful'이 돼요."
+  },
+  {
+   "word": "fixture",
+   "pos": "명사",
+   "meaning": "(붙박이) 설비, 고정물",
+   "en": "The new apartment has modern light fixtures.",
+   "ko": "새 아파트에는 현대적인 조명 설비가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공구로 고장 난 자전거를 고치는 장면",
+ "imageCaption": "드라이버를 들고 덜렁거리는 자전거 바퀴를 단단히 조이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry. I can fix anything with duct tape!",
+ "movieLineKo": "걱정 마. 난 강력 테이프로 뭐든 고칠 수 있어!",
+ "storyTitle": "뭐든 고치는 삼촌",
+ "story": "삼촌은 뭐든 fix(고치다)할 수 있다고 자랑했어요. 의자 다리를 테이프로 fixed(고정된)하게 만들고, 흔들리던 전등 fixture(설비)도 손봤죠. 영어 숙제의 prefix(접두사) 실수도 고쳐 줬어요. 그런데 마지막으로 고친 건 집안 와이파이였는데, 그 뒤로 온 동네 와이파이가 다 끊겼대요!"
+}

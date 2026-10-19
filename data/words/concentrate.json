@@ -1,0 +1,67 @@
+{
+ "word": "concentrate",
+ "pos": "동사",
+ "phonetic": "[ˈkɑːnsntreɪt]",
+ "meaning": "집중하다, 농축하다, 모으다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "com-이 c 앞에서 con-이 된 형태예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "centr",
+   "meaning": "중심 (center)",
+   "note": "라틴어 centrum(중심), 그리스어 kentron(콕 찌르는 점)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "어근을 동사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>centr</strong> (중심) + <strong>-ate</strong> (~하다) = '모든 것을 중심으로 함께 모으다'라는 데서 <strong>'집중하다'</strong>가 되었습니다.",
+ "historyTitle": "컴퍼스 바늘이 꽂히는 점",
+ "historyBody": "center는 그리스어 kentron(뾰족한 끝)에서 왔는데, 컴퍼스로 원을 그릴 때 바늘을 꽂는 중심점을 가리켰어요. 17세기 프랑스어 concentrer(한 중심으로 모으다)를 본떠 영어 concentrate가 만들어졌답니다. 흩어진 생각을 한 점에 모으는 것이 바로 집중이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "concentration",
+   "pos": "명사",
+   "meaning": "집중, 농도",
+   "en": "Noise can break your concentration.",
+   "ko": "소음은 집중력을 깨뜨릴 수 있어요."
+  },
+  {
+   "word": "center",
+   "pos": "명사",
+   "meaning": "중심, 센터",
+   "en": "There is a fountain in the center of the park.",
+   "ko": "공원 한가운데에 분수가 있어요."
+  },
+  {
+   "word": "central",
+   "pos": "형용사",
+   "meaning": "중심의, 중앙의",
+   "en": "Education plays a central role in our lives.",
+   "ko": "교육은 우리 삶에서 중심 역할을 해요."
+  },
+  {
+   "word": "eccentric",
+   "pos": "형용사",
+   "meaning": "별난, 괴짜인",
+   "en": "My eccentric uncle wears sunglasses at night.",
+   "ko": "별난 우리 삼촌은 밤에도 선글라스를 써."
+  }
+ ],
+ "imageSense": "대표 의미: 돋보기로 햇빛을 한 점에 모아 종이를 태우는 장면",
+ "imageCaption": "흩어진 빛을 중심(centr)으로 함께(con-) 모으는 모습을 떠올려 보세요.",
+ "movieLineEn": "Shh! I'm trying to concentrate!",
+ "movieLineKo": "쉿! 나 집중하려고 하는 중이야!",
+ "storyTitle": "괴짜 삼촌의 집중법",
+ "story": "eccentric(별난) 삼촌은 공부할 때 concentrate(집중하다)하려고 방 center(중심)에 텐트를 쳤어요. 그 안에서 concentration(집중)이 최고였대요. 나도 따라 해 봤는데, 텐트 안이 너무 아늑해서 central(중심의) 활동은 결국 낮잠이 되어 버렸답니다."
+}

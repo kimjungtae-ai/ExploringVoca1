@@ -1,0 +1,54 @@
+{
+ "word": "charity",
+ "pos": "명사",
+ "phonetic": "[ˈtʃærəti]",
+ "meaning": "자선, 자선 단체, 너그러움",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "char",
+   "meaning": "소중한, 사랑하는 (dear)",
+   "note": "라틴어 carus(소중한)에서 온 부분이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질, 상태 (명사형)",
+   "note": "형용사를 '성질'을 나타내는 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>char</strong> (소중한) + <strong>-ity</strong> (성질) = '남을 소중히 여기는 마음'에서 <strong>'자선, 자선 단체'</strong>가 되었습니다.",
+ "historyTitle": "사랑을 뜻하던 라틴어 caritas",
+ "historyBody": "라틴어 carus(소중한)에서 caritas(사랑, 소중히 여김)가 나왔고, 이것이 고대 프랑스어 charité를 거쳐 영어에 들어왔어요. 중세 교회에서는 이웃을 향한 사랑을 뜻했는데, 점차 가난한 사람을 돕는 행동과 단체를 가리키게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "charitable",
+   "pos": "형용사",
+   "meaning": "자선의, 너그러운",
+   "en": "She donates to charitable groups every winter.",
+   "ko": "그녀는 매년 겨울 자선 단체에 기부해요."
+  },
+  {
+   "word": "cherish",
+   "pos": "동사",
+   "meaning": "소중히 여기다",
+   "en": "I will always cherish the memories of our school trip.",
+   "ko": "나는 우리 수학여행의 추억을 늘 소중히 간직할 거야."
+  },
+  {
+   "word": "caress",
+   "pos": "동사/명사",
+   "meaning": "어루만지다 / 애무",
+   "en": "The mother gently caressed her baby's cheek.",
+   "ko": "엄마는 아기의 볼을 부드럽게 어루만졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 자원봉사자들이 따뜻한 음식과 담요를 나눠 주는 장면",
+ "imageCaption": "소중한 마음을 담아 이웃에게 무언가를 건네는 모습을 떠올려 보세요. 사랑이 곧 자선이 됩니다.",
+ "movieLineEn": "All the money from tonight's concert goes to charity.",
+ "movieLineKo": "오늘 밤 콘서트 수익금은 전부 자선 단체로 갑니다.",
+ "storyTitle": "짠돌이 사장님의 반전 기부",
+ "story": "동네에서 제일 짠돌이 사장님이 charity(자선) 바자회에 나타났어요. 모두 놀랐지만, 사장님은 아끼던 물건을 cherish(소중히 여기다)하듯 caress(어루만지다)하더니 전부 기부했죠. \"나 원래 charitable(자선을 베푸는)한 사람이야!\" 그런데 알고 보니 전부 창고에서 십 년 묵은 재고였대요!"
+}

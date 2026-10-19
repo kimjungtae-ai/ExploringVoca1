@@ -1,0 +1,61 @@
+{
+ "word": "restock",
+ "pos": "동사",
+ "phonetic": "[ˌriːˈstɑːk]",
+ "meaning": "다시 채우다, 재입고하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stock",
+   "meaning": "재고, 비축하다 (stock)",
+   "note": "원래 고대 영어 stocc(나무 그루터기, 기둥)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>stock</strong> (재고를 채우다) = <strong>'다시 채우다, 재입고하다'</strong>라는 뜻이에요.",
+ "historyTitle": "나무 그루터기에서 창고로",
+ "historyBody": "stock은 고대 영어 stocc(나무줄기, 그루터기)에서 왔어요. 줄기에서 갈라져 나온다는 생각에서 '혈통, 밑천'이라는 뜻이 생겼고, 나중에 '가게에 쌓아 둔 물건(재고)'과 '주식'이라는 뜻도 생겼답니다. restock은 18세기부터 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stock",
+   "pos": "명사 / 동사",
+   "meaning": "재고, 주식 / 갖추다",
+   "en": "That size is out of stock right now.",
+   "ko": "그 사이즈는 지금 품절이에요."
+  },
+  {
+   "word": "stockpile",
+   "pos": "명사 / 동사",
+   "meaning": "비축량 / 비축하다",
+   "en": "People stockpiled food before the storm.",
+   "ko": "사람들은 폭풍 전에 식량을 비축했어요."
+  },
+  {
+   "word": "livestock",
+   "pos": "명사",
+   "meaning": "가축",
+   "en": "The farmer raises livestock such as cows and pigs.",
+   "ko": "그 농부는 소와 돼지 같은 가축을 길러요."
+  },
+  {
+   "word": "stockholder",
+   "pos": "명사",
+   "meaning": "주주",
+   "en": "The stockholders met to discuss the company's future.",
+   "ko": "주주들이 회사의 미래를 논의하려고 모였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 텅 빈 마트 진열대에 직원이 새 상품을 채워 넣는 장면",
+ "imageCaption": "비어 있던 선반에 상자를 열어 물건을 다시 가득 채우는 모습을 떠올려 보세요.",
+ "movieLineEn": "We need to restock the ship before we sail again.",
+ "movieLineKo": "다시 항해하기 전에 배에 보급품을 채워야 해.",
+ "storyTitle": "라면 품절 사건",
+ "story": "편의점 라면이 out of stock(품절)이 됐어요. 사장님은 급히 restock(재입고하다)하려고 창고를 열었죠. 그런데 거기엔 라면 대신 livestock(가축)인 염소 한 마리가 있었어요. 염소가 몰래 라면을 stockpile(비축하다)하고 있었던 거예요!"
+}

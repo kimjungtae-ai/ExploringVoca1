@@ -1,0 +1,68 @@
+{
+ "word": "refresh",
+ "pos": "동사",
+ "phonetic": "[rɪˈfreʃ]",
+ "meaning": "생기를 되찾게 하다, 상쾌하게 하다, (화면을) 새로 고치다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 새롭게 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fresh",
+   "meaning": "신선한, 상쾌한 (fresh)",
+   "note": "게르만어에서 프랑스어를 거쳐 들어온 말이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>fresh</strong> (신선한) = 다시 신선하게 만들다, 즉 <strong>'상쾌하게 하다, 새로 고치다'</strong>예요.",
+ "historyTitle": "다시 신선해지는 마법",
+ "historyBody": "refresh는 고대 프랑스어 refreschier(다시 시원하게 하다)에서 왔어요. 그 속의 fresche(신선한)는 게르만어 계통인 프랑크어에서 들어온 말로, 영어 fresh와 친척이에요. 오늘날에는 웹페이지를 '새로 고침' 할 때도 이 단어를 쓰죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fresh",
+   "pos": "형용사",
+   "meaning": "신선한, 새로운",
+   "en": "Fresh vegetables are good for your health.",
+   "ko": "신선한 채소는 건강에 좋아요."
+  },
+  {
+   "word": "refreshing",
+   "pos": "형용사",
+   "meaning": "상쾌한, 신선한",
+   "en": "A cold glass of lemonade is so refreshing in summer.",
+   "ko": "여름에 시원한 레모네이드 한 잔은 정말 상쾌해요."
+  },
+  {
+   "word": "refreshment",
+   "pos": "명사",
+   "meaning": "다과, 원기 회복",
+   "en": "Refreshments will be served after the concert.",
+   "ko": "음악회가 끝난 뒤 다과가 제공될 거예요."
+  },
+  {
+   "word": "freshman",
+   "pos": "명사",
+   "meaning": "신입생, 1학년",
+   "en": "My brother is a freshman in high school.",
+   "ko": "우리 형은 고등학교 1학년이에요."
+  },
+  {
+   "word": "freshness",
+   "pos": "명사",
+   "meaning": "신선함",
+   "en": "The store checks the freshness of its fish every morning.",
+   "ko": "그 가게는 매일 아침 생선의 신선도를 확인해요."
+  }
+ ],
+ "imageSense": "대표 의미: 찬물로 세수하고 눈이 번쩍 뜨이는 모습",
+ "imageCaption": "졸린 오후, 차가운 물로 얼굴을 씻고 정신이 확 드는 순간을 떠올려 보세요. 다시 싱싱해지는 그 느낌이 refresh예요.",
+ "movieLineEn": "A quick nap will refresh you, trust me.",
+ "movieLineKo": "잠깐 낮잠 자면 기운이 날 거야, 믿어 봐.",
+ "storyTitle": "새로 고침 중독",
+ "story": "freshman(신입생) 지우는 수강 신청 화면을 1초마다 refresh(새로 고치다)했어요. 손가락이 아플 땐 refreshing(상쾌한) 탄산수를 마셨죠. 마침내 신청 성공! fresh(새로운) 시간표를 보던 지우는 비명을 질렀어요. 너무 열심히 누른 나머지 '아침 7시 체육' 수업을 신청했거든요."
+}

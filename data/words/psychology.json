@@ -1,0 +1,54 @@
+{
+ "word": "psychology",
+ "pos": "명사",
+ "phonetic": "[saɪˈkɑːlədʒi]",
+ "meaning": "심리학, 심리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "psycho-",
+   "meaning": "영혼, 마음 (soul, mind)",
+   "note": "그리스어 psyche(숨, 영혼, 마음)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-logy",
+   "meaning": "학문, ~학 (study)",
+   "note": "그리스어 logos(말, 이치)에서 온 꼬리예요."
+  }
+ ],
+ "summary": "<strong>psycho-</strong> (마음) + <strong>-logy</strong> (학문) = '마음을 연구하는 학문'이라는 뜻에서 <strong>'심리학'</strong>이 되었어요.",
+ "historyTitle": "숨결이자 영혼, 프시케",
+ "historyBody": "그리스어 psyche는 원래 '숨'을 뜻했고, 나중에 '영혼, 마음'이라는 뜻이 되었어요. 그리스 신화에서 에로스의 연인 이름도 프시케랍니다. psychology라는 말은 16세기 라틴어 psychologia로 처음 만들어졌고, 18세기부터 영어에 널리 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "psychological",
+   "pos": "형용사",
+   "meaning": "심리적인",
+   "en": "Stress can cause psychological problems.",
+   "ko": "스트레스는 심리적 문제를 일으킬 수 있어요."
+  },
+  {
+   "word": "psychologist",
+   "pos": "명사",
+   "meaning": "심리학자",
+   "en": "The psychologist studied how children learn.",
+   "ko": "그 심리학자는 아이들이 배우는 방식을 연구했어요."
+  },
+  {
+   "word": "psychiatrist",
+   "pos": "명사",
+   "meaning": "정신과 의사",
+   "en": "She went to see a psychiatrist about her sleep problems.",
+   "ko": "그녀는 수면 문제로 정신과 의사를 찾아갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 상담실에서 마음속 이야기를 듣고 메모하는 학자",
+ "imageCaption": "머릿속 생각과 감정을 돋보기로 들여다보는 모습을 떠올려 보세요.",
+ "movieLineEn": "It's simple psychology. He wants attention.",
+ "movieLineKo": "간단한 심리학이야. 그는 관심을 원하는 거지.",
+ "storyTitle": "고양이 심리학자",
+ "story": "누나는 대학에서 psychology(심리학)를 공부해요. 우리 고양이가 왜 상자만 좋아하는지 psychological(심리적인) 이유를 연구하겠대요. 유명한 psychologist(심리학자)처럼 노트까지 들고 관찰했죠. 3주 뒤 결론이 나왔어요. '그냥 상자가 좋은 거다.' 고양이는 그 연구 노트 위에서 잤답니다!"
+}

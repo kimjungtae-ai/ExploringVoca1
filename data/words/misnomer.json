@@ -1,0 +1,74 @@
+{
+ "word": "misnomer",
+ "pos": "명사",
+ "phonetic": "[ˌmɪsˈnoʊmər]",
+ "meaning": "잘못 붙여진 이름, 부적절한 명칭",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "mis-",
+   "meaning": "잘못 (wrongly)",
+   "note": "고대 프랑스어 mes-(잘못)에서 온 형태예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nom",
+   "meaning": "이름 (name)",
+   "note": "라틴어 nomen(이름), nominare(이름 붙이다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것 (명사)",
+   "note": "법률 프랑스어에서 동사를 명사처럼 쓰던 흔적이에요."
+  }
+ ],
+ "summary": "<strong>mis-</strong> (잘못) + <strong>nom</strong> (이름) + <strong>-er</strong> = 이름을 잘못 붙인 것이라서 <strong>'잘못 붙여진 이름'</strong>이 되었어요.",
+ "historyTitle": "법정에서 태어난 단어",
+ "historyBody": "misnomer는 앵글로-프랑스어 법률 용어 mesnommer(이름을 잘못 부르다)에서 왔어요. 옛 법정에서는 문서에 사람 이름을 잘못 적으면 소송이 무효가 될 수도 있었대요. 그래서 이런 실수를 가리키는 말이 따로 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nominate",
+   "pos": "동사",
+   "meaning": "지명하다, 후보로 추천하다",
+   "en": "The film was nominated for three awards.",
+   "ko": "그 영화는 세 개 부문 상 후보에 올랐어요."
+  },
+  {
+   "word": "nomination",
+   "pos": "명사",
+   "meaning": "지명, 추천",
+   "en": "Her nomination as class leader surprised everyone.",
+   "ko": "그녀가 반장 후보로 추천된 건 모두를 놀라게 했어요."
+  },
+  {
+   "word": "nominee",
+   "pos": "명사",
+   "meaning": "후보자, 지명된 사람",
+   "en": "Each nominee gave a short speech.",
+   "ko": "후보자 각자가 짧은 연설을 했어요."
+  },
+  {
+   "word": "nominal",
+   "pos": "형용사",
+   "meaning": "이름뿐인, 명목상의",
+   "en": "He is the nominal leader, but his sister makes the decisions.",
+   "ko": "그는 명목상 리더일 뿐이고 결정은 그의 누나가 해요."
+  },
+  {
+   "word": "noun",
+   "pos": "명사",
+   "meaning": "명사",
+   "en": "In English, a noun often comes after 'the'.",
+   "ko": "영어에서 명사는 흔히 'the' 뒤에 와요."
+  }
+ ],
+ "imageSense": "대표 의미: 이름표와 실제 모습이 전혀 안 맞는 장면",
+ "imageCaption": "'거대한 괴물'이라는 이름표를 단 손톱만 한 햄스터를 떠올려 보세요.",
+ "movieLineEn": "Calling him 'Tiny' is a misnomer. He's seven feet tall!",
+ "movieLineKo": "걔를 '꼬맹이'라고 부르는 건 이름이 안 맞아. 키가 2미터가 넘는다고!",
+ "storyTitle": "이름값 못 하는 강아지",
+ "story": "'번개'라는 강아지는 사실 하루 종일 자요. 그 이름은 완벽한 misnomer(잘못 붙여진 이름)죠. 가족들은 새 이름을 nominate(추천하다)했고, nominee(후보자)는 '베개'와 '이불'이었어요. 그때 번개가 간식 소리에 번개처럼 달려왔답니다!"
+}

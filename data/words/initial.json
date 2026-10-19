@@ -1,0 +1,74 @@
+{
+ "word": "initial",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ɪˈnɪʃəl]",
+ "meaning": "처음의, 초기의 / (이름의) 머리글자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안으로 들어간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "it",
+   "meaning": "가다 (go)",
+   "note": "라틴어 ire(가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>it</strong> (가다) + <strong>-ial</strong> (~의) = '안으로 막 들어가는 순간의'라는 뜻에서 <strong>'처음의, 초기의'</strong>가 되었습니다.",
+ "historyTitle": "들어가는 것이 곧 시작",
+ "historyBody": "라틴어 'initium'은 '들어감, 시작'이라는 뜻이에요. 새로운 일에 발을 들여놓는 순간이 바로 시작이니까요. 그래서 initial은 '처음의'가 되었고, 이름의 첫 글자(머리글자)도 뜻하게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "initiate",
+   "pos": "동사",
+   "meaning": "시작하다, 착수하다",
+   "en": "The school initiated a new reading program.",
+   "ko": "학교는 새로운 독서 프로그램을 시작했어요."
+  },
+  {
+   "word": "initiative",
+   "pos": "명사",
+   "meaning": "주도권, 계획, 진취성",
+   "en": "She took the initiative and asked the first question.",
+   "ko": "그녀가 먼저 나서서 첫 질문을 했어요."
+  },
+  {
+   "word": "exit",
+   "pos": "명사 / 동사",
+   "meaning": "출구 / 나가다 (밖으로 가다)",
+   "en": "Where is the nearest exit?",
+   "ko": "가장 가까운 출구가 어디예요?"
+  },
+  {
+   "word": "transition",
+   "pos": "명사",
+   "meaning": "전환, 변화 (건너감)",
+   "en": "The transition to high school can be hard.",
+   "ko": "고등학교로의 전환은 힘들 수 있어요."
+  },
+  {
+   "word": "circuit",
+   "pos": "명사",
+   "meaning": "회로, 순회 (빙 돌아가다)",
+   "en": "The electric circuit was broken.",
+   "ko": "전기 회로가 끊어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 새 공책 첫 장에 이름 머리글자를 쓰는 장면",
+ "imageCaption": "문 안으로 첫발을 딱 들여놓는 순간을 떠올려 보세요. 맨 처음, 그게 initial이에요.",
+ "movieLineEn": "My initial plan failed, so here's plan B.",
+ "movieLineKo": "내 처음 계획은 실패했어, 그래서 여기 B 계획이 있어.",
+ "storyTitle": "첫인상과 머리글자",
+ "story": "새 학기 initial(처음의) 날, 나는 가방에 머리글자 J.K.를 새겼어요. 친구가 먼저 initiative(주도권)를 잡고 말을 걸었죠. '너 혹시 유명한 작가야?' 그 오해가 우정을 initiate(시작하다)했어요. 졸업식 날 exit(출구)에서 친구가 말했어요. '사실 그 작가 아닌 거 알았어.'"
+}

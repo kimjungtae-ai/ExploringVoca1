@@ -1,0 +1,54 @@
+{
+ "word": "rigorous",
+ "pos": "형용사",
+ "phonetic": "[ˈrɪɡərəs]",
+ "meaning": "엄격한, 철저한, 혹독한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rigor",
+   "meaning": "뻣뻣함, 엄격함 (stiffness) ← rigere",
+   "note": "라틴어 rigere(뻣뻣하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ous",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "'~이 가득한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>rigor</strong> (뻣뻣함, 엄격함) + <strong>-ous</strong> (~한) = '조금도 휘지 않을 만큼 뻣뻣한'에서 <strong>'엄격한, 철저한'</strong>이 되었어요.",
+ "historyTitle": "꽁꽁 언 것처럼 뻣뻣한",
+ "historyBody": "라틴어 rigor는 '뻣뻣함, 추위로 굳음'을 뜻했고, 동사 rigere(뻣뻣하다)에서 나왔어요. 여기서 '융통성 없는 엄격함'이라는 뜻이 생겼죠. rigorous는 14세기 말 고대 프랑스어 rigoros를 거쳐 영어에 들어왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rigor",
+   "pos": "명사",
+   "meaning": "엄격함, 철저함",
+   "en": "The study was done with scientific rigor.",
+   "ko": "그 연구는 과학적으로 철저하게 이루어졌어요."
+  },
+  {
+   "word": "rigid",
+   "pos": "형용사",
+   "meaning": "엄격한, 딱딱한, 융통성 없는",
+   "en": "The school has rigid rules about uniforms.",
+   "ko": "그 학교는 교복에 관한 규칙이 엄격해요."
+  },
+  {
+   "word": "rigidity",
+   "pos": "명사",
+   "meaning": "경직성, 엄격함",
+   "en": "The rigidity of the plan caused problems.",
+   "ko": "계획이 융통성이 없어서 문제가 생겼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 군대식 훈련장에서 철저하게 훈련받는 선수들",
+ "imageCaption": "코치가 호루라기를 불며 한 동작도 대충 넘어가지 않는 혹독한 훈련장을 떠올려 보세요.",
+ "movieLineEn": "The training will be rigorous. Only the strong will stay.",
+ "movieLineKo": "훈련은 혹독할 거다. 강한 자만 남을 것이다.",
+ "storyTitle": "철저한 급식 검사",
+ "story": "영양사 선생님은 rigorous(철저한) 검사로 유명했어요. 콩 한 알도 rigor(엄격함)로 세었죠. 규칙은 rigid(융통성 없는)해서 김치를 안 먹으면 디저트도 없었어요. 그런데 rigidity(경직성)의 끝판왕인 선생님도 몰래 디저트를 두 개씩 드셨대요!"
+}

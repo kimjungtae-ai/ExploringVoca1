@@ -1,0 +1,75 @@
+{
+ "word": "predict",
+ "pos": "동사",
+ "phonetic": "[prɪˈdɪkt]",
+ "meaning": "예측하다, 예언하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "미리, 앞서 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "dict",
+   "meaning": "말하다 (say)",
+   "note": "라틴어 dicere(말하다)의 과거분사 dictus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (미리) + <strong>dict</strong> (말하다) = 일어나기 전에 미리 말하다, 곧 <strong>'예측하다'</strong>예요.",
+ "historyTitle": "미래를 미리 말한 로마의 점술가들",
+ "historyBody": "predict는 라틴어 praedicere(미리 말하다, 예언하다)의 과거분사 praedictus에서 1600년대 영어에 들어왔어요. 로마 시대에는 새가 나는 모양이나 동물 내장을 보고 미래를 '미리 말하는' 점술가가 있었죠. dicere(말하다)는 dictionary, verdict 같은 수많은 단어를 남겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prediction",
+   "pos": "명사",
+   "meaning": "예측, 예언",
+   "en": "His prediction about the weather was wrong.",
+   "ko": "날씨에 대한 그의 예측은 틀렸어요."
+  },
+  {
+   "word": "predictable",
+   "pos": "형용사",
+   "meaning": "예측할 수 있는",
+   "en": "The ending of the movie was too predictable.",
+   "ko": "그 영화의 결말은 너무 뻔했어요."
+  },
+  {
+   "word": "unpredictable",
+   "pos": "형용사",
+   "meaning": "예측할 수 없는",
+   "en": "Mountain weather is often unpredictable.",
+   "ko": "산 날씨는 종종 예측할 수 없어요."
+  },
+  {
+   "word": "dictionary",
+   "pos": "명사",
+   "meaning": "사전",
+   "en": "Look up the word in your dictionary.",
+   "ko": "사전에서 그 단어를 찾아보세요."
+  },
+  {
+   "word": "contradict",
+   "pos": "동사",
+   "meaning": "반박하다, 모순되다",
+   "en": "The new data contradicts his theory.",
+   "ko": "새 자료는 그의 이론과 모순돼요."
+  },
+  {
+   "word": "verdict",
+   "pos": "명사",
+   "meaning": "평결, 판정",
+   "en": "The jury reached a verdict after two days.",
+   "ko": "배심원단은 이틀 뒤 평결을 내렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 일기 예보관이 내일 날씨를 알려 주는 장면",
+ "imageCaption": "TV 속 기상 캐스터가 지도 앞에서 \"내일은 비가 옵니다\"라고 말하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I predict you will lose this game in three minutes.",
+ "movieLineKo": "네가 3분 안에 이 게임에서 질 거라고 예언하지.",
+ "storyTitle": "점쟁이 문어의 실수",
+ "story": "점쟁이 문어는 축구 결과를 predict(예측하다)하는 걸로 유명했어요. 그의 prediction(예측)은 늘 맞았죠. 사람들은 dictionary(사전)에 '문어=정확'이라고 쓸 정도였어요. 그런데 결승전에서 문어가 두 팀을 동시에 골랐어요! 다리가 여덟 개라 너무 unpredictable(예측할 수 없는) 선택이었대요."
+}

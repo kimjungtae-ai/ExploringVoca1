@@ -1,0 +1,75 @@
+{
+ "word": "simplify",
+ "pos": "동사",
+ "phonetic": "[ˈsɪmplɪfaɪ]",
+ "meaning": "간단하게 하다, 단순화하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "simple",
+   "meaning": "단순한 (simple)",
+   "note": "라틴어 'simplex(한 겹의)'에서 왔어요. 'sem-(하나)'과 'plic-(접다)'이 합쳐진 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ify",
+   "meaning": "~하게 만들다 (make)",
+   "note": "라틴어 'facere(만들다)'에서 온 동사 어미예요."
+  }
+ ],
+ "summary": "<strong>simple</strong> (한 겹의, 단순한) + <strong>-ify</strong> (~하게 만들다) = <strong>'단순하게 만들다'</strong>예요.",
+ "historyTitle": "한 번만 접은 종이",
+ "historyBody": "라틴어 'simplex'는 '한 번 접은, 한 겹의'라는 뜻이었어요. 여러 번 접힌 것은 복잡하고, 한 겹이면 단순하다는 생각이죠. 반대로 'com-(함께)'+'plex(접힌)'인 complex는 '여러 겹 얽힌 → 복잡한'이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "simple",
+   "pos": "형용사",
+   "meaning": "간단한, 단순한",
+   "en": "The instructions were simple and easy to follow.",
+   "ko": "설명서는 간단해서 따라 하기 쉬웠어요."
+  },
+  {
+   "word": "simply",
+   "pos": "부사",
+   "meaning": "간단히, 그저",
+   "en": "I simply forgot to call you.",
+   "ko": "나는 그저 너한테 전화하는 걸 잊었어."
+  },
+  {
+   "word": "simplicity",
+   "pos": "명사",
+   "meaning": "단순함, 간단함",
+   "en": "People love the simplicity of her designs.",
+   "ko": "사람들은 그녀 디자인의 단순함을 좋아해요."
+  },
+  {
+   "word": "complex",
+   "pos": "형용사",
+   "meaning": "복잡한",
+   "en": "The human brain is very complex.",
+   "ko": "인간의 뇌는 매우 복잡해요."
+  },
+  {
+   "word": "complicate",
+   "pos": "동사",
+   "meaning": "복잡하게 만들다",
+   "en": "Don't complicate the problem.",
+   "ko": "문제를 복잡하게 만들지 마."
+  },
+  {
+   "word": "duplicate",
+   "pos": "동사 / 명사",
+   "meaning": "복사하다 / 사본",
+   "en": "Please duplicate this file for the meeting.",
+   "ko": "회의를 위해 이 파일을 복사해 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 엉킨 실타래를 풀어 한 줄로 쭉 펴는 장면",
+ "imageCaption": "여러 번 접힌 종이를 쫙 펴서 한 장으로 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let me simplify this for you. Push the red button. That's it.",
+ "movieLineKo": "간단히 말해 줄게. 빨간 버튼 눌러. 그게 다야.",
+ "storyTitle": "할머니의 요리 비법",
+ "story": "할머니 요리책이 너무 complex(복잡한)해서 내가 simplify(간단하게 하다)하기로 했어요. 100단계를 simple(간단한) 3단계로 줄였죠. \"재료 넣기, 끓이기, 먹기.\" 결과는 대실패! 할머니가 웃으며 말씀하셨어요. \"simplicity(단순함)에도 정성은 필요하단다.\""
+}

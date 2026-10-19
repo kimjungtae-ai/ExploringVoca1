@@ -1,0 +1,48 @@
+{
+ "word": "hang",
+ "pos": "동사",
+ "phonetic": "[hæŋ]",
+ "meaning": "걸다, 매달다, 매달리다, (시간을) 보내다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "hang (古 hangian)",
+   "meaning": "매달다, 매달려 있다 (hang)",
+   "note": "고대 영어 hangian·hōn과 고대 노르드어 hanga가 섞여 생긴 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>hang</strong>은 고대 영어 hangian(<strong>매달려 있다</strong>)에서 와서 <strong>'걸다, 매달다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "세 갈래가 하나로 합쳐진 단어",
+ "historyBody": "hang은 고대 영어의 두 동사 hōn(매달다)과 hangian(매달려 있다), 그리고 바이킹의 고대 노르드어 hanga가 합쳐진 말이에요. 그래서 과거형도 hung과 hanged 두 가지가 남았어요. 'hang out(어울려 놀다)'은 19세기에 생긴 표현이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hanger",
+   "pos": "명사",
+   "meaning": "옷걸이",
+   "en": "Put your coat on a hanger.",
+   "ko": "외투를 옷걸이에 걸어 둬."
+  },
+  {
+   "word": "hangout",
+   "pos": "명사",
+   "meaning": "자주 가는 곳, 아지트",
+   "en": "This cafe is our favorite hangout after school.",
+   "ko": "이 카페는 방과 후 우리가 제일 좋아하는 아지트야."
+  },
+  {
+   "word": "overhang",
+   "pos": "동사 / 명사",
+   "meaning": "~위로 돌출하다 / 돌출부",
+   "en": "Big trees overhang the narrow path.",
+   "ko": "큰 나무들이 좁은 길 위로 드리워져 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 벽에 액자를 걸고, 옷걸이에 옷을 매다는 장면",
+ "imageCaption": "못에 그림을 탁 걸거나 나뭇가지에 원숭이가 대롱대롱 매달린 모습을 떠올려요.",
+ "movieLineEn": "Hang on! I'm coming to get you!",
+ "movieLineKo": "꽉 잡아! 내가 구하러 갈게!",
+ "storyTitle": "원숭이의 옷장",
+ "story": "원숭이 몽키는 나무에 hang(매달리다)하는 게 취미였어요. 어느 날 사람 집에 놀러 가 옷장 속 hanger(옷걸이)를 발견했죠. 몽키는 바로 옷걸이에 매달려 놀았어요. 그 집은 금세 동네 원숭이들의 hangout(아지트)이 됐고, 지붕이 overhang(돌출하다)한 곳까지 꽉 찼대요. 주인은 결국 옷을 바닥에 개어 둔답니다."
+}

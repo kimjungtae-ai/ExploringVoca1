@@ -1,0 +1,74 @@
+{
+ "word": "opposite",
+ "pos": "형용사 / 명사 / 전치사",
+ "phonetic": "[ˈɑːpəzɪt]",
+ "meaning": "반대의, 맞은편의 / 반대 / ~의 맞은편에",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "op- (ob-)",
+   "meaning": "~에 맞서 (against)",
+   "note": "p 앞에서 ob-가 op-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pos(it)",
+   "meaning": "놓다 (put, place)",
+   "note": "라틴어 ponere(놓다)의 과거분사 positus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ite",
+   "meaning": "~된 (형용사)",
+   "note": "'~하게 놓인'이라는 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>op-</strong> (맞서) + <strong>posit</strong> (놓다) = '마주 보게 놓인'이라는 뜻에서 <strong>'반대의, 맞은편의'</strong>가 되었어요.",
+ "historyTitle": "마주 보게 놓인 두 물건",
+ "historyBody": "라틴어 opponere는 '~에 맞서 놓다'라는 뜻이고, 그 과거분사 oppositus가 '맞은편에 놓인'이 되었어요. 이 말이 고대 프랑스어를 거쳐 14세기 영어에 들어왔어요. 같은 뿌리에서 oppose(반대하다)와 opponent(상대)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "oppose",
+   "pos": "동사",
+   "meaning": "반대하다",
+   "en": "Many residents oppose the plan to build a factory near the school.",
+   "ko": "많은 주민들이 학교 근처에 공장을 짓는 계획에 반대해요."
+  },
+  {
+   "word": "opponent",
+   "pos": "명사",
+   "meaning": "상대, 반대자",
+   "en": "She shook hands with her opponent before the tennis match.",
+   "ko": "그녀는 테니스 경기 전에 상대 선수와 악수했어요."
+  },
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 입장",
+   "en": "Please stay in your position until the music starts.",
+   "ko": "음악이 시작될 때까지 자기 위치에 있어 주세요."
+  },
+  {
+   "word": "postpone",
+   "pos": "동사",
+   "meaning": "연기하다 (뒤로 놓다)",
+   "en": "The game was postponed because of heavy rain.",
+   "ko": "폭우 때문에 경기가 연기되었어요."
+  },
+  {
+   "word": "expose",
+   "pos": "동사",
+   "meaning": "노출하다 (밖에 놓다)",
+   "en": "Don't expose your skin to strong sunlight for too long.",
+   "ko": "강한 햇빛에 피부를 너무 오래 노출하지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 길 양쪽에서 두 가게가 서로 마주 보고 있는 장면",
+ "imageCaption": "횡단보도를 사이에 두고 마주 선 빵집과 카페를 떠올려 보세요. 서로 '맞은편'에 놓여 있죠.",
+ "movieLineEn": "You're going the opposite way! The castle is behind us!",
+ "movieLineKo": "너 반대 방향으로 가고 있잖아! 성은 우리 뒤쪽이라고!",
+ "storyTitle": "반대만 하는 친구",
+ "story": "민수는 뭐든 oppose(반대하다)하는 친구예요. 내가 왼쪽이라 하면 opposite(반대의) 쪽으로 가요. 체육대회에서 opponent(상대) 팀이 됐는데, 경기가 postpone(연기하다)되자 신나 했어요. 그런데 알고 보니 민수의 position(입장)은 '비 오는 날은 쉬자'였어요."
+}

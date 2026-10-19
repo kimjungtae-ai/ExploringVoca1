@@ -1,0 +1,74 @@
+{
+ "word": "incredibly",
+ "pos": "부사",
+ "phonetic": "[ɪnˈkredəbli]",
+ "meaning": "믿을 수 없을 정도로, 엄청나게, 놀랍게도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cred",
+   "meaning": "믿다 (believe)",
+   "note": "라틴어 credere(믿다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ibly",
+   "meaning": "~할 수 있게 (부사)",
+   "note": "-ible에 -ly가 합쳐진 부사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>cred</strong> (믿다) + <strong>-ibly</strong> (~할 수 있게) = '믿을 수 없을 만큼'이라는 뜻에서 <strong>'엄청나게, 놀랍게도'</strong>가 되었습니다.",
+ "historyTitle": "강조의 말이 된 '믿을 수 없게'",
+ "historyBody": "incredible에 부사 꼬리가 붙은 말로, 원래는 '믿기 어렵게'라는 뜻이었어요. 오늘날에는 very처럼 정도를 강하게 강조하는 말로 아주 자주 쓰인답니다. 같은 뿌리인 라틴어 credere에서 credit, creed도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "incredible",
+   "pos": "형용사",
+   "meaning": "믿을 수 없는, 놀라운",
+   "en": "The view from the top was incredible.",
+   "ko": "정상에서 본 경치는 놀라웠어요."
+  },
+  {
+   "word": "credit",
+   "pos": "명사",
+   "meaning": "신용, 학점, 공로",
+   "en": "She got credit for the great idea.",
+   "ko": "그녀는 그 멋진 아이디어로 공로를 인정받았어요."
+  },
+  {
+   "word": "credible",
+   "pos": "형용사",
+   "meaning": "믿을 만한",
+   "en": "We need a credible source for this report.",
+   "ko": "이 보고서에는 믿을 만한 출처가 필요해요."
+  },
+  {
+   "word": "credibility",
+   "pos": "명사",
+   "meaning": "신뢰성",
+   "en": "Lying will damage your credibility.",
+   "ko": "거짓말은 너의 신뢰성을 떨어뜨릴 거예요."
+  },
+  {
+   "word": "creed",
+   "pos": "명사",
+   "meaning": "신조, 신념",
+   "en": "Honesty is the creed of our family.",
+   "ko": "정직은 우리 가족의 신조예요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈 깜짝할 새 결승선을 통과하는 거북이",
+ "imageCaption": "느린 줄만 알았던 거북이가 엄청나게 빨리 달리는 모습을 떠올려 보세요. 믿기 힘들 정도라는 느낌이 incredibly예요.",
+ "movieLineEn": "You look incredibly calm for someone who just lost.",
+ "movieLineKo": "방금 진 사람치고 엄청나게 침착해 보이네.",
+ "storyTitle": "엄청나게 빠른 거북이",
+ "story": "운동회에서 거북이가 incredibly(믿을 수 없을 정도로) 빨리 달렸어요. 관중들은 incredible(놀라운) 장면에 소리쳤죠. 해설자는 'credible(믿을 만한) 기록인지 확인하겠습니다!' 했어요. 확인해 보니 거북이는 토끼 등에 업혀 있었어요. 그래도 credit(공로)은 둘이 나눴대요."
+}

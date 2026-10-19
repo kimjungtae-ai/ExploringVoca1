@@ -1,0 +1,68 @@
+{
+ "word": "employ",
+ "pos": "동사",
+ "phonetic": "[ɪmˈplɔɪ]",
+ "meaning": "고용하다, (방법·기술 등을) 쓰다, 이용하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "em- (in-)",
+   "meaning": "안으로 (in)",
+   "note": "라틴어 in-이 p 앞에서 em-이 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ploy (plicare)",
+   "meaning": "접다, 감싸다 (fold)",
+   "note": "라틴어 plicare(접다)가 고대 프랑스어 ploier로 변한 모양이에요."
+  }
+ ],
+ "summary": "<strong>em-</strong> (안으로) + <strong>ploy</strong> (접다) = '안으로 접어 넣다, 일에 끌어들이다'라는 뜻에서 <strong>'고용하다, 이용하다'</strong>가 되었어요.",
+ "historyTitle": "접어 넣는 것에서 일을 맡기는 것으로",
+ "historyBody": "employ는 고대 프랑스어 emploier에서 왔고, 그 뿌리는 라틴어 implicare(안으로 접어 넣다, 관여시키다)예요. '어떤 일에 끌어들이다'라는 뜻에서 '사람을 쓰다, 고용하다'가 되었답니다. 같은 implicare에서 imply(암시하다)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "employee",
+   "pos": "명사",
+   "meaning": "직원, 종업원",
+   "en": "The company has over 500 employees.",
+   "ko": "그 회사에는 500명이 넘는 직원이 있어요."
+  },
+  {
+   "word": "employer",
+   "pos": "명사",
+   "meaning": "고용주",
+   "en": "My employer gave me a day off.",
+   "ko": "고용주가 나에게 하루 휴가를 줬어요."
+  },
+  {
+   "word": "employment",
+   "pos": "명사",
+   "meaning": "고용, 일자리",
+   "en": "The new factory will create employment for many people.",
+   "ko": "새 공장은 많은 사람에게 일자리를 만들어 줄 거예요."
+  },
+  {
+   "word": "unemployment",
+   "pos": "명사",
+   "meaning": "실업",
+   "en": "Unemployment rose during the crisis.",
+   "ko": "위기 동안 실업률이 올랐어요."
+  },
+  {
+   "word": "imply",
+   "pos": "동사",
+   "meaning": "암시하다 (안에 접어 넣다)",
+   "en": "Her smile implied that she agreed.",
+   "ko": "그녀의 미소는 동의한다는 걸 암시했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 사장님이 새 직원과 악수하며 '함께 일합시다' 하는 장면",
+ "imageCaption": "면접이 끝나고 사장님이 새 직원에게 명찰을 건네는 모습을 떠올려 보세요.",
+ "movieLineEn": "I don't employ heroes. I employ people who finish the job.",
+ "movieLineKo": "난 영웅을 고용하지 않아. 일을 끝내는 사람을 고용하지.",
+ "storyTitle": "고양이 카페의 진짜 사장님",
+ "story": "카페 사장님은 고양이 세 마리를 employ(고용하다)했어요. 고양이들은 성실한 employee(직원)였죠. 손님이 오면 무릎에 앉아 주고, 낮잠도 열심히 잤어요. 그런데 어느 날 사장님이 깨달았어요. 진짜 employer(고용주)는 고양이였다는 걸요. 사장님은 매일 간식을 바치고, 고양이들은 꼬리로 미소를 imply(암시하다)할 뿐이었거든요!"
+}

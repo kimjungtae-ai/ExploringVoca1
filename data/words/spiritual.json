@@ -1,0 +1,75 @@
+{
+ "word": "spiritual",
+ "pos": "형용사",
+ "phonetic": "[ˈspɪrɪtʃuəl]",
+ "meaning": "정신적인, 영적인, 종교적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "spirit",
+   "meaning": "숨, 정신 (breath, spirit)",
+   "note": "라틴어 spiritus(숨, 영혼)에서 왔고, 그 뿌리는 spirare(숨 쉬다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ual",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "명사를 '~와 관련된'이라는 형용사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>spirit</strong> (숨, 정신) + <strong>-ual</strong> (~의) = '숨결처럼 보이지 않는 내면의'에서 <strong>'정신적인, 영적인'</strong>이 되었습니다.",
+ "historyTitle": "숨결이 곧 영혼이었던 시대",
+ "historyBody": "라틴어 spirare는 '숨 쉬다'이고, spiritus는 '숨, 바람, 생명의 기운'이었어요. 옛사람들은 살아 있다는 증거인 숨을 곧 영혼이라고 생각했죠. 그래서 spiritual은 몸이 아닌 '마음과 영혼에 관한'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "spirit",
+   "pos": "명사",
+   "meaning": "정신, 기운, 영혼",
+   "en": "The team showed a great fighting spirit.",
+   "ko": "그 팀은 대단한 투지를 보여 주었어요."
+  },
+  {
+   "word": "inspire",
+   "pos": "동사",
+   "meaning": "영감을 주다, 고무하다",
+   "en": "Her speech inspired many young students.",
+   "ko": "그녀의 연설은 많은 젊은 학생들에게 영감을 주었어요."
+  },
+  {
+   "word": "aspire",
+   "pos": "동사",
+   "meaning": "열망하다",
+   "en": "He aspires to become a doctor.",
+   "ko": "그는 의사가 되기를 열망해요."
+  },
+  {
+   "word": "respiration",
+   "pos": "명사",
+   "meaning": "호흡",
+   "en": "Plants also need respiration to live.",
+   "ko": "식물도 살기 위해 호흡이 필요해요."
+  },
+  {
+   "word": "expire",
+   "pos": "동사",
+   "meaning": "(기한이) 만료되다",
+   "en": "My passport will expire next month.",
+   "ko": "내 여권은 다음 달에 만료돼요."
+  },
+  {
+   "word": "conspire",
+   "pos": "동사",
+   "meaning": "공모하다, 음모를 꾸미다",
+   "en": "The thieves conspired to steal the painting.",
+   "ko": "도둑들은 그 그림을 훔치려고 공모했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 조용한 산사에서 눈을 감고 명상하며 마음을 들여다보는 장면",
+ "imageCaption": "깊게 숨을 들이쉬고 내쉬며 마음이 맑아지는 순간을 떠올려 보세요.",
+ "movieLineEn": "This isn't just a journey. It's a spiritual awakening.",
+ "movieLineKo": "이건 그냥 여행이 아니야. 영적인 깨달음이지.",
+ "storyTitle": "명상하는 강아지",
+ "story": "강아지 초코는 spiritual(정신적인) 성장을 위해 명상을 시작했어요. 깊은 respiration(호흡)을 하며 spirit(정신)을 모았죠. 스님 고양이가 초코를 inspire(영감을 주다)했고, 초코는 해탈을 aspire(열망하다)했어요. 그런데 삼 분 뒤 초코의 꼬리가 마구 흔들렸어요. 옆집에서 고기 굽는 냄새가 났거든요!"
+}

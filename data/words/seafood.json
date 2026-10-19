@@ -1,0 +1,68 @@
+{
+ "word": "seafood",
+ "pos": "명사",
+ "phonetic": "[ˈsiːfuːd]",
+ "meaning": "해산물",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sea",
+   "meaning": "바다 (sea)",
+   "note": "고대 영어 'sǣ'에서 온 아주 오래된 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "food",
+   "meaning": "음식 (food)",
+   "note": "고대 영어 'fōda(먹을 것)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sea</strong> (바다) + <strong>food</strong> (음식) = 바다에서 나는 먹거리, 즉 <strong>'해산물'</strong>이에요.",
+ "historyTitle": "바다와 음식이 만난 합성어",
+ "historyBody": "sea와 food는 둘 다 고대 영어 시절부터 쓰인 게르만계 단어예요. 두 단어를 붙인 seafood는 19세기 무렵부터 널리 쓰이기 시작했어요. 이렇게 쉬운 두 단어를 붙인 합성어는 뜻을 바로 짐작할 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "seaside",
+   "pos": "명사",
+   "meaning": "해변, 바닷가",
+   "en": "We spent our summer vacation at a quiet seaside town.",
+   "ko": "우리는 조용한 바닷가 마을에서 여름휴가를 보냈어요."
+  },
+  {
+   "word": "seashore",
+   "pos": "명사",
+   "meaning": "해안, 바닷가",
+   "en": "Children were collecting shells along the seashore.",
+   "ko": "아이들이 해안을 따라 조개껍데기를 줍고 있었어요."
+  },
+  {
+   "word": "seasick",
+   "pos": "형용사",
+   "meaning": "뱃멀미하는",
+   "en": "I felt seasick during the long boat trip.",
+   "ko": "긴 배 여행 동안 나는 뱃멀미가 났어요."
+  },
+  {
+   "word": "seaweed",
+   "pos": "명사",
+   "meaning": "해초, 김·미역",
+   "en": "Seaweed is a healthy food rich in minerals.",
+   "ko": "해초는 미네랄이 풍부한 건강한 음식이에요."
+  },
+  {
+   "word": "food",
+   "pos": "명사",
+   "meaning": "음식",
+   "en": "Local food is one of the best parts of traveling.",
+   "ko": "현지 음식은 여행의 가장 좋은 부분 중 하나예요."
+  }
+ ],
+ "imageSense": "대표 의미: 접시 위에 새우, 조개, 오징어가 가득 담긴 장면",
+ "imageCaption": "바다에서 막 건져 올린 새우와 조개가 식탁 위에 올라온 모습을 떠올려 보세요.",
+ "movieLineEn": "This is the freshest seafood in the whole city!",
+ "movieLineKo": "이건 이 도시 전체에서 제일 신선한 해산물이야!",
+ "storyTitle": "바닷가 식당의 반전",
+ "story": "seaside(바닷가) 식당에서 seafood(해산물) 요리를 시켰어요. 배를 타고 와서 seasick(뱃멀미하는) 상태였지만 꾹 참았죠. 그런데 나온 건 seaweed(해초) 한 장뿐! 사장님 왈, \"오늘 물고기들이 단체 휴가를 갔어요.\""
+}

@@ -1,0 +1,87 @@
+{
+ "word": "misinformation",
+ "pos": "명사",
+ "phonetic": "[ˌmɪsɪnfərˈmeɪʃn]",
+ "meaning": "잘못된 정보, 오보",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "mis-",
+   "meaning": "잘못 (wrongly)",
+   "note": "잘못되었다는 뜻을 더해요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (into)",
+   "note": "안쪽으로 들어간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "form",
+   "meaning": "형태, 모양 (shape)",
+   "note": "라틴어 forma(모양)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>mis-</strong> (잘못) + <strong>in-</strong> (안으로) + <strong>form</strong> (모양) + <strong>-ation</strong> = 머릿속에 잘못된 모양을 만들어 넣는 것이라서 <strong>'잘못된 정보'</strong>가 되었어요.",
+ "historyTitle": "머릿속에 '모양'을 만드는 일",
+ "historyBody": "라틴어 informare는 '모양을 만들다, 가르쳐서 형성하다'라는 뜻이었어요. 정보(information)란 머릿속에 생각의 모양을 만들어 주는 것이었죠. 요즘은 SNS로 퍼지는 misinformation이 사회 문제로 자주 다뤄져요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inform",
+   "pos": "동사",
+   "meaning": "알리다",
+   "en": "Please inform us if you change your address.",
+   "ko": "주소가 바뀌면 저희에게 알려 주세요."
+  },
+  {
+   "word": "information",
+   "pos": "명사",
+   "meaning": "정보",
+   "en": "You can find more information on our website.",
+   "ko": "저희 웹사이트에서 더 많은 정보를 찾을 수 있어요."
+  },
+  {
+   "word": "form",
+   "pos": "명사 / 동사",
+   "meaning": "형태, 양식 / 형성하다",
+   "en": "Ice is the solid form of water.",
+   "ko": "얼음은 물의 고체 형태예요."
+  },
+  {
+   "word": "transform",
+   "pos": "동사",
+   "meaning": "변형시키다, 바꾸다",
+   "en": "The old factory was transformed into a museum.",
+   "ko": "낡은 공장이 박물관으로 탈바꿈했어요."
+  },
+  {
+   "word": "reform",
+   "pos": "명사 / 동사",
+   "meaning": "개혁 / 개혁하다",
+   "en": "The government promised to reform the education system.",
+   "ko": "정부는 교육 제도를 개혁하겠다고 약속했어요."
+  },
+  {
+   "word": "format",
+   "pos": "명사",
+   "meaning": "형식, 구성 방식",
+   "en": "The test format will change next year.",
+   "ko": "시험 형식이 내년에 바뀔 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰 속 가짜 뉴스가 빠르게 퍼져 나가는 장면",
+ "imageCaption": "하나의 엉터리 소문이 단톡방을 타고 수십 명에게 순식간에 퍼지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't believe everything online. It's full of misinformation.",
+ "movieLineKo": "인터넷의 모든 걸 믿지 마. 잘못된 정보투성이야.",
+ "storyTitle": "가짜 뉴스 소동",
+ "story": "단톡방에 '내일 휴교'라는 misinformation(잘못된 정보)이 돌았어요. 반장이 선생님께 inform(알리다)했더니, 정확한 information(정보)은 '내일 시험'이었죠. 모두의 표정이 transform(바뀌다)했어요. 범인은 시험이 싫었던 선생님 본인이었답니다!"
+}

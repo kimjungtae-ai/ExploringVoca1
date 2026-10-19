@@ -1,0 +1,41 @@
+{
+ "word": "honk",
+ "pos": "동사 / 명사",
+ "phonetic": "[hɑːŋk]",
+ "meaning": "(경적을) 울리다, 빵빵거리다 / 경적 소리, 거위 울음",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "honk",
+   "meaning": "빵! 끼룩! (소리 흉내)",
+   "note": "거위 울음소리를 흉내 낸 의성어라 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>honk</strong>는 거위의 <strong>'끼룩' 소리를 흉내 낸 말</strong>에서 자동차의 <strong>'경적을 울리다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "거위에서 자동차로",
+ "historyBody": "honk는 19세기 중반 미국에서 기러기·거위의 울음소리를 흉내 내어 만든 의성어예요. 20세기 초 자동차가 등장하자, 경적 소리가 거위 소리와 비슷하다고 해서 '경적을 울리다'라는 뜻으로 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "honking",
+   "pos": "명사 / 형용사",
+   "meaning": "경적 소리 / 빵빵거리는",
+   "en": "The honking of cars woke me up early.",
+   "ko": "차 경적 소리 때문에 일찍 깼어."
+  },
+  {
+   "word": "honker",
+   "pos": "명사",
+   "meaning": "경적을 울리는 사람·것, 거위",
+   "en": "A honker kept beeping at the green light.",
+   "ko": "한 운전자가 초록불에서 계속 경적을 울렸어."
+  }
+ ],
+ "imageSense": "대표 의미: 막히는 도로에서 자동차들이 빵빵 경적을 울리는 장면",
+ "imageCaption": "꽉 막힌 도로에서 '빵빵!' 울리는 경적, 혹은 '끼룩!' 우는 거위를 떠올려 보세요.",
+ "movieLineEn": "Stop honking! I'm moving as fast as I can!",
+ "movieLineKo": "경적 그만 울려! 최대한 빨리 가고 있다고!",
+ "storyTitle": "거위 운전사",
+ "story": "거위 꽥꽥이가 처음 운전을 배웠어요. 앞차가 느리자 honk(경적을 울리다)하려 했는데, 그만 진짜 honk(끼룩 소리)를 질렀죠. 도로 위 honking(경적 소리) 사이로 꽥꽥이의 울음이 퍼졌어요. 사람들은 '저 honker(경적 울리는 사람) 누구야?' 하며 두리번거렸대요. 그 뒤로 꽥꽥이 차엔 경적이 필요 없었답니다."
+}

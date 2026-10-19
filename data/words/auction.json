@@ -1,0 +1,61 @@
+{
+ "word": "auction",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɔːkʃn]",
+ "meaning": "경매 / 경매로 팔다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "auct (augere)",
+   "meaning": "늘리다, 키우다 (increase)",
+   "note": "augment(늘리다)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>auct</strong> (늘리다) + <strong>-ion</strong> (명사) = '가격을 점점 올려 가며 파는 것'에서 <strong>'경매'</strong>가 되었어요.",
+ "historyTitle": "값이 점점 '늘어나는' 로마의 장터",
+ "historyBody": "라틴어 'auctio'는 'augere(늘리다)'에서 나온 말로 '늘림, 값 올리기'를 뜻했어요. 고대 로마에서는 전쟁에서 얻은 물건을 창을 땅에 꽂아 놓고 경매로 팔았다고 해요. 사는 사람들이 값을 계속 '올려' 부르는 모습에서 경매라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "augment",
+   "pos": "동사",
+   "meaning": "늘리다, 증가시키다",
+   "en": "She works part-time to augment her income.",
+   "ko": "그녀는 수입을 늘리려고 아르바이트를 해요."
+  },
+  {
+   "word": "author",
+   "pos": "명사",
+   "meaning": "저자, 작가",
+   "en": "The author signed copies of her new book.",
+   "ko": "그 작가는 신간에 사인을 해 주었어요."
+  },
+  {
+   "word": "authority",
+   "pos": "명사",
+   "meaning": "권위, 권한, 당국",
+   "en": "Only the principal has the authority to cancel classes.",
+   "ko": "교장 선생님만 수업을 취소할 권한이 있어요."
+  },
+  {
+   "word": "auctioneer",
+   "pos": "명사",
+   "meaning": "경매인",
+   "en": "The auctioneer shouted, \"Sold!\"",
+   "ko": "경매인이 \"낙찰!\"이라고 외쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 경매인이 망치를 '탕' 두드리며 낙찰을 외치는 장면",
+ "imageCaption": "사람들이 팻말을 들고 '100만!', '200만!' 하며 값을 올려 부르는 경매장을 떠올려 보세요. 값을 점점 늘려 가며 파는 것이 auction이에요.",
+ "movieLineEn": "Going once, going twice... sold at the auction to the man in black!",
+ "movieLineKo": "하나, 둘... 검은 옷의 신사분께 낙찰입니다!",
+ "storyTitle": "할아버지의 낡은 의자",
+ "story": "할아버지의 낡은 의자가 auction(경매)에 나왔어요. auctioneer(경매인)가 '유명 author(작가)가 앉던 의자입니다!'라고 소개하자 가격이 쑥쑥 augment(늘어나다)했죠. 결국 엄청난 값에 팔렸는데, 산 사람은 바로 할아버지였어요. '이 의자가 없으니 글이 안 써지더라고.' 할아버지가 그 작가였거든요!"
+}

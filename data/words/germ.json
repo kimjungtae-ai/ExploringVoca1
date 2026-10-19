@@ -1,0 +1,48 @@
+{
+ "word": "germ",
+ "pos": "명사",
+ "phonetic": "[dʒɜːrm]",
+ "meaning": "세균, 병균, 싹, (일의) 기원",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "germ",
+   "meaning": "싹, 새싹 (sprout, bud)",
+   "note": "라틴어 germen(싹, 새순)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>germ</strong> (라틴어 germen, 싹) = 생명이 처음 싹트는 작은 씨앗에서 <strong>'세균, 싹, 기원'</strong>이 되었습니다.",
+ "historyTitle": "'새싹'이 '세균'이 되기까지",
+ "historyBody": "germ은 라틴어 germen(싹, 새순, 씨앗)에서 왔어요. 원래 '생명이 자라 나오는 작은 시작'을 뜻했고, 지금도 'the germ of an idea(아이디어의 싹)'처럼 쓰여요. 19세기 후반 파스퇴르 등의 연구로 병원균이 알려지면서 '병균, 세균'이라는 뜻이 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "germinate",
+   "pos": "동사",
+   "meaning": "싹트다, 발아하다",
+   "en": "The seeds will germinate in about a week.",
+   "ko": "씨앗은 일주일쯤 뒤에 싹을 틔울 거예요."
+  },
+  {
+   "word": "germ-free",
+   "pos": "형용사",
+   "meaning": "무균의, 세균이 없는",
+   "en": "The lab must be kept germ-free.",
+   "ko": "실험실은 세균이 없는 상태로 유지되어야 해요."
+  },
+  {
+   "word": "germination",
+   "pos": "명사",
+   "meaning": "발아",
+   "en": "Warm temperatures help seed germination.",
+   "ko": "따뜻한 온도는 씨앗의 발아를 도와요."
+  }
+ ],
+ "imageSense": "대표 의미: 현미경 속에서 꿈틀거리는 작은 세균들",
+ "imageCaption": "현미경을 들여다보면 손에 붙어 있던 작은 세균들이 꼬물꼬물 움직이는 모습이 보여요.",
+ "movieLineEn": "Wash your hands! Germs are everywhere!",
+ "movieLineKo": "손 씻어! 세균은 어디에나 있다고!",
+ "storyTitle": "세균 박사 동생",
+ "story": "동생은 germ(세균)을 너무 무서워했어요. 집 안을 germ-free(무균의)하게 만들겠다며 소독제를 뿌렸죠. 화분 흙까지 소독했더니 씨앗이 germinate(싹트다)하지 않았어요. 엄마는 germination(발아)에는 좋은 미생물도 필요하다고 설명해 주셨어요. 그날 이후 동생은 세균에게 이름을 붙여 주기 시작했대요!"
+}

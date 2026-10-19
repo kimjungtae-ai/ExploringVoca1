@@ -1,0 +1,74 @@
+{
+ "word": "relaxation",
+ "pos": "명사",
+ "phonetic": "[ˌriːlækˈseɪʃən]",
+ "meaning": "휴식, 긴장 완화, (규제의) 완화",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "팽팽했던 것을 원래대로 되돌린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lax",
+   "meaning": "느슨한 (loose)",
+   "note": "라틴어 laxus(느슨한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>lax</strong> (느슨한) + <strong>-ation</strong> (명사) = 다시 느슨하게 풀어 주는 것, 즉 <strong>'휴식, 완화'</strong>예요.",
+ "historyTitle": "근육도 규칙도 '느슨하게'",
+ "historyBody": "라틴어 relaxare는 re-(다시, 뒤로)와 laxare(느슨하게 하다)가 합쳐진 말이고, laxare는 laxus(느슨한)에서 왔어요. 이 말이 중세 영어 relaxen으로 들어왔고, 처음엔 '팽팽한 것을 늦추다'라는 뜻이었어요. 재미있게도 release(풀어 주다)도 고대 프랑스어를 거친 같은 relaxare의 후손이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relax",
+   "pos": "동사",
+   "meaning": "쉬다, 긴장을 풀다",
+   "en": "Take a deep breath and relax.",
+   "ko": "숨을 깊이 들이쉬고 긴장을 푸세요."
+  },
+  {
+   "word": "relaxing",
+   "pos": "형용사",
+   "meaning": "편안하게 해 주는",
+   "en": "A warm bath is very relaxing.",
+   "ko": "따뜻한 목욕은 아주 편안해요."
+  },
+  {
+   "word": "relaxed",
+   "pos": "형용사",
+   "meaning": "느긋한",
+   "en": "The teacher has a relaxed attitude toward small mistakes.",
+   "ko": "그 선생님은 작은 실수에 대해 너그러운 태도를 갖고 계세요."
+  },
+  {
+   "word": "lax",
+   "pos": "형용사",
+   "meaning": "느슨한, 해이한",
+   "en": "Security at the gate was surprisingly lax.",
+   "ko": "정문 보안이 놀랄 만큼 허술했어요."
+  },
+  {
+   "word": "release",
+   "pos": "동사 / 명사",
+   "meaning": "풀어 주다, 출시하다 / 석방, 출시",
+   "en": "The band will release a new album next month.",
+   "ko": "그 밴드는 다음 달에 새 앨범을 낼 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 스파에서 눈을 감고 따뜻한 물에 몸을 담근 사람",
+ "imageCaption": "따뜻한 물속에서 굳은 어깨가 사르르 풀리는 장면을 떠올려 보세요. 몸과 마음이 느슨해지는 것이 relaxation이에요.",
+ "movieLineEn": "This isn't a vacation. It's mandatory relaxation.",
+ "movieLineKo": "이건 휴가가 아니야. 의무적인 휴식이라고.",
+ "storyTitle": "강아지의 명상 수업",
+ "story": "엄마는 relaxation(휴식)을 위해 요가를 시작했어요. relaxing(편안하게 해 주는) 음악에 맞춰 relax(긴장을 풀다)하는 동작을 따라 했죠. 그 옆에서 강아지도 엄마를 따라 했어요. 한 시간 뒤, 엄마는 여전히 낑낑대는데 강아지는 완벽하게 relaxed(느긋한) 자세로 코를 골고 있었답니다."
+}

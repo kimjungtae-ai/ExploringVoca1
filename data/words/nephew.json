@@ -1,0 +1,41 @@
+{
+ "word": "nephew",
+ "pos": "명사",
+ "phonetic": "[ˈnefjuː]",
+ "meaning": "(남자) 조카",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "nephew",
+   "meaning": "손자, 조카 (nepos)",
+   "note": "라틴어 nepos(손자, 조카)가 고대 프랑스어 neveu를 거쳐 들어온 말이라 영어 안에서는 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>nephew</strong>는 라틴어 nepos(<strong>손자, 조카</strong>)에서 왔고, 형제자매의 아들인 <strong>'남자 조카'</strong>를 뜻해요.",
+ "historyTitle": "교황의 '조카' 사랑",
+ "historyBody": "라틴어 nepos는 '손자'와 '조카'를 모두 뜻했어요. 중세에 일부 교황과 주교가 '조카'라 부르던 친척에게 높은 자리를 주던 일에서 nepotism(친족 등용, 연고주의)이라는 말이 생겼답니다. 여자 조카 niece도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "niece",
+   "pos": "명사",
+   "meaning": "(여자) 조카",
+   "en": "My niece just started elementary school.",
+   "ko": "내 여자 조카가 막 초등학교에 입학했어요."
+  },
+  {
+   "word": "nepotism",
+   "pos": "명사",
+   "meaning": "친족 등용, 연고주의",
+   "en": "The company was criticized for nepotism in hiring.",
+   "ko": "그 회사는 채용 과정의 연고주의로 비판받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 삼촌과 꼬마 남자 조카가 함께 노는 모습",
+ "imageCaption": "삼촌 어깨 위에 목말을 탄 꼬마 남자아이가 신나게 웃는 장면을 떠올려 보세요.",
+ "movieLineEn": "You're not just my nephew. You're my best friend.",
+ "movieLineKo": "넌 그냥 내 조카가 아니야. 내 가장 친한 친구야.",
+ "storyTitle": "조카의 용돈 작전",
+ "story": "설날, nephew(남자 조카) 민준이와 niece(여자 조카) 서연이가 삼촌에게 작전을 짰어요. 민준이는 애교, 서연이는 노래로 용돈을 노렸죠. 삼촌은 \"이건 nepotism(연고주의)이야!\"라며 웃었어요. 결국 nephew(조카)들에게 용돈을 털린 삼촌은 라면으로 저녁을 때웠답니다."
+}

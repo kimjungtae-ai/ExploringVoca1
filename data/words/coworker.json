@@ -1,0 +1,74 @@
+{
+ "word": "coworker",
+ "pos": "명사",
+ "phonetic": "[ˈkoʊˌwɜːrkər]",
+ "meaning": "동료, 함께 일하는 사람",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "함께 (together)",
+   "note": "라틴어에서 온 '함께'라는 뜻의 접두사예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "work",
+   "meaning": "일, 일하다 (work)",
+   "note": "고대 영어 weorc에서 온 순수 영어 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람 (person)",
+   "note": "사람을 나타내는 접미사예요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (함께) + <strong>work</strong> (일하다) + <strong>-er</strong> (사람) = '함께 일하는 사람'에서 <strong>'동료'</strong>가 되었어요.",
+ "historyTitle": "라틴어 접두사 + 영어 단어의 만남",
+ "historyBody": "coworker는 라틴어에서 온 접두사 co-(함께)와 고대 영어 weorc(일)에서 온 work가 합쳐진 말이에요. 이렇게 서로 다른 언어 출신이 섞인 단어도 영어에는 많아요. 비슷한 뜻으로 colleague도 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "work",
+   "pos": "동사/명사",
+   "meaning": "일하다 / 일, 작품",
+   "en": "My father works at a hospital.",
+   "ko": "우리 아빠는 병원에서 일하세요."
+  },
+  {
+   "word": "worker",
+   "pos": "명사",
+   "meaning": "노동자, 일하는 사람",
+   "en": "The factory workers took a short break.",
+   "ko": "공장 노동자들이 잠깐 쉬었어요."
+  },
+  {
+   "word": "workplace",
+   "pos": "명사",
+   "meaning": "직장, 일터",
+   "en": "A friendly workplace makes people happy.",
+   "ko": "친근한 직장은 사람들을 행복하게 해요."
+  },
+  {
+   "word": "teamwork",
+   "pos": "명사",
+   "meaning": "팀워크, 협동 작업",
+   "en": "Good teamwork helped us win the game.",
+   "ko": "좋은 팀워크 덕분에 경기에서 이겼어요."
+  },
+  {
+   "word": "homework",
+   "pos": "명사",
+   "meaning": "숙제",
+   "en": "I always finish my homework before dinner.",
+   "ko": "나는 항상 저녁 전에 숙제를 끝내요."
+  }
+ ],
+ "imageSense": "대표 의미: 사무실에서 옆자리 사람과 서류를 함께 보는 장면",
+ "imageCaption": "옆자리에서 커피를 나눠 마시며 일하는 사람을 떠올려 보세요. 같은 곳에서 함께 일하는 사람이 coworker예요.",
+ "movieLineEn": "My coworker thinks I'm a normal guy. If only he knew.",
+ "movieLineKo": "내 동료는 내가 평범한 사람인 줄 알아. 진실을 안다면.",
+ "storyTitle": "수상한 동료",
+ "story": "아빠의 새 coworker(동료)는 늘 선글라스를 썼어요. workplace(직장)에서 work(일하다)도 엄청 빨랐죠. 팀원들은 그의 teamwork(팀워크)에 감탄했어요. 아빠는 그가 비밀 요원이라고 의심했는데, 알고 보니 밤새 homework(숙제)를 하는 아들을 돕느라 눈이 부었던 거래요!"
+}

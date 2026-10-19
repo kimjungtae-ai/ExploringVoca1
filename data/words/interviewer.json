@@ -1,0 +1,74 @@
+{
+ "word": "interviewer",
+ "pos": "명사",
+ "phonetic": "[ˈɪntərvjuːər]",
+ "meaning": "면접관, 인터뷰 진행자, 회견 기자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "서로, 사이에 (between)",
+   "note": "두 사람이 마주한다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "view",
+   "meaning": "보다 (see)",
+   "note": "라틴어 videre(보다)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람 (person who)",
+   "note": "동작을 하는 사람을 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (서로) + <strong>view</strong> (보다) + <strong>-er</strong> (사람) = '서로 마주 보며 묻는 사람'이라서 <strong>'면접관, 인터뷰 진행자'</strong>예요.",
+ "historyTitle": "기자의 등장과 함께 생긴 말",
+ "historyBody": "interview는 중세 프랑스어 entrevue('서로 봄')에서 왔어요. 19세기에 신문 기자들이 유명인을 찾아가 질문하는 일이 유행하면서, 질문하는 사람인 interviewer와 질문받는 사람인 interviewee라는 말도 함께 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "interview",
+   "pos": "명사 / 동사",
+   "meaning": "면접, 인터뷰 / 면접하다",
+   "en": "I have a job interview at ten tomorrow morning.",
+   "ko": "나는 내일 아침 10시에 취업 면접이 있어요."
+  },
+  {
+   "word": "interviewee",
+   "pos": "명사",
+   "meaning": "면접 대상자, 인터뷰를 받는 사람",
+   "en": "The interviewee answered every question calmly.",
+   "ko": "면접 대상자는 모든 질문에 차분하게 대답했어요."
+  },
+  {
+   "word": "view",
+   "pos": "명사 / 동사",
+   "meaning": "경치, 견해 / 보다",
+   "en": "Everyone has a different view on this issue.",
+   "ko": "모든 사람은 이 문제에 대해 다른 견해를 갖고 있어요."
+  },
+  {
+   "word": "review",
+   "pos": "명사 / 동사",
+   "meaning": "검토, 후기 / 다시 보다",
+   "en": "She read the reviews before buying the camera.",
+   "ko": "그녀는 카메라를 사기 전에 후기를 읽었어요."
+  },
+  {
+   "word": "viewer",
+   "pos": "명사",
+   "meaning": "시청자",
+   "en": "The viewers loved the surprising ending of the drama.",
+   "ko": "시청자들은 그 드라마의 놀라운 결말을 아주 좋아했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마이크를 들고 질문하는 기자, 또는 서류를 보며 질문하는 면접관",
+ "imageCaption": "질문지를 손에 들고 상대를 바라보며 '자기소개 해 주세요'라고 말하는 사람을 떠올려 보세요.",
+ "movieLineEn": "The interviewer smiled, but her questions were sharp.",
+ "movieLineKo": "면접관은 웃고 있었지만, 질문은 날카로웠어.",
+ "storyTitle": "면접관이 된 강아지",
+ "story": "강아지가 처음으로 interviewer(면접관)가 됐어요. interviewee(면접 대상자) 고양이에게 '공에 대한 당신의 view(견해)는?'이라고 물었죠. 고양이는 '굴리는 것보다 깔고 자는 게 최고죠'라고 답했어요. 강아지는 서류를 review(검토하다)하더니 외쳤어요. '불합격! 그리고 내 방석에서 당장 내려와!'"
+}

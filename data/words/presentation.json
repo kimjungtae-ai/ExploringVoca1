@@ -1,0 +1,81 @@
+{
+ "word": "presentation",
+ "pos": "명사",
+ "phonetic": "[ˌpriːzenˈteɪʃn]",
+ "meaning": "발표, 제시, 증정, 표현",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "앞에 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sent",
+   "meaning": "있는, 존재하는 (being)",
+   "note": "라틴어 esse(있다)의 현재분사 형태 -sens, -sentis에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사 present(내놓다)를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (앞에) + <strong>sent</strong> (있는) + <strong>-ation</strong> (명사) = 사람들 앞에 내놓는 것, 곧 <strong>'발표, 제시'</strong>예요.",
+ "historyTitle": "왕 앞에 무엇을 내놓던 의식",
+ "historyBody": "presentation은 라틴어 praesentatio(앞에 내보임)에서 고대 프랑스어를 거쳐 1300년대 말 영어에 들어왔어요. 처음에는 교회 성직에 사람을 추천하거나 선물을 바치는 '증정'을 뜻했어요. 20세기 들어 사람들 앞에서 자료를 보여 주며 말하는 '발표'라는 뜻이 가장 흔해졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "present",
+   "pos": "형용사/명사/동사",
+   "meaning": "현재의, 참석한 / 현재, 선물 / 주다, 제시하다",
+   "en": "All the students were present at the meeting.",
+   "ko": "모든 학생이 회의에 참석했어요."
+  },
+  {
+   "word": "represent",
+   "pos": "동사",
+   "meaning": "대표하다, 나타내다",
+   "en": "She will represent our school at the contest.",
+   "ko": "그녀가 대회에서 우리 학교를 대표할 거예요."
+  },
+  {
+   "word": "presence",
+   "pos": "명사",
+   "meaning": "존재, 참석",
+   "en": "Thank you for your presence at our wedding.",
+   "ko": "저희 결혼식에 와 주셔서 감사합니다."
+  },
+  {
+   "word": "absent",
+   "pos": "형용사",
+   "meaning": "결석한, 없는",
+   "en": "He was absent from school because of a cold.",
+   "ko": "그는 감기 때문에 학교에 결석했어요."
+  },
+  {
+   "word": "essential",
+   "pos": "형용사",
+   "meaning": "필수적인, 본질적인",
+   "en": "Water is essential for all living things.",
+   "ko": "물은 모든 생명체에게 필수적이에요."
+  },
+  {
+   "word": "representative",
+   "pos": "명사",
+   "meaning": "대표자, 대리인",
+   "en": "Each class chose a representative for the council.",
+   "ko": "각 반은 학생회에 보낼 대표를 뽑았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 화면 앞에서 레이저 포인터로 자료를 가리키며 말하는 학생",
+ "imageCaption": "교실 앞 스크린에 슬라이드를 띄우고 친구들 앞에서 설명하는 모습을 떠올려 보세요.",
+ "movieLineEn": "My presentation is ready. My courage is not.",
+ "movieLineKo": "내 발표는 준비됐어. 내 용기는 아니지만.",
+ "storyTitle": "발표 대타",
+ "story": "조별 presentation(발표) 날, 발표자가 absent(결석한)였어요. 우리 조를 represent(대표하다)할 사람이 필요했죠. 다들 민수를 봤어요. 민수는 떨리는 목소리로 present(발표하다)하기 시작했어요. 그런데 화면에 뜬 건 발표 자료가 아니라 민수의 고양이 사진첩! 그 조가 1등을 했대요."
+}

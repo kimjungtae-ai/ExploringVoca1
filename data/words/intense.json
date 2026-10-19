@@ -1,0 +1,75 @@
+{
+ "word": "intense",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈtens]",
+ "meaning": "강렬한, 극심한, 열정적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~쪽으로 (toward)",
+   "note": "한쪽을 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tens",
+   "meaning": "팽팽하게 당긴 (stretched)",
+   "note": "라틴어 tendere(당기다)의 과거분사 tensus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~쪽으로) + <strong>tens</strong> (팽팽히 당긴) = '한껏 팽팽하게 당겨진'이라는 뜻에서 <strong>'강렬한, 극심한'</strong>이 되었습니다.",
+ "historyTitle": "끊어질 듯 팽팽한 줄",
+ "historyBody": "라틴어 'intensus'는 'intendere(팽팽히 당기다)'의 과거분사로, '잔뜩 당겨진'이라는 뜻이었어요. 줄을 끝까지 당기면 팽팽한 긴장이 생기듯, 감정이나 빛, 열이 아주 강한 상태를 뜻하게 되었죠. tension(긴장)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "intensity",
+   "pos": "명사",
+   "meaning": "강도, 강렬함",
+   "en": "The intensity of the sunlight hurt my eyes.",
+   "ko": "햇빛의 강렬함에 눈이 아팠어요."
+  },
+  {
+   "word": "intensive",
+   "pos": "형용사",
+   "meaning": "집중적인, 집약적인",
+   "en": "She took an intensive English course.",
+   "ko": "그녀는 집중 영어 강좌를 들었어요."
+  },
+  {
+   "word": "intensify",
+   "pos": "동사",
+   "meaning": "강화하다, 심해지다",
+   "en": "The storm intensified during the night.",
+   "ko": "폭풍이 밤사이 더 심해졌어요."
+  },
+  {
+   "word": "intend",
+   "pos": "동사",
+   "meaning": "의도하다",
+   "en": "I intend to study abroad next year.",
+   "ko": "나는 내년에 유학 갈 작정이에요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장",
+   "en": "The tension in the room was high.",
+   "ko": "방 안의 긴장감이 높았어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 늘이다",
+   "en": "Can you extend your stay for a day?",
+   "ko": "하루 더 머무를 수 있나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 한여름 정오, 이글이글 타오르는 태양",
+ "imageCaption": "끊어지기 직전까지 팽팽하게 당겨진 고무줄을 떠올려 보세요. 그만큼 강한 느낌이 intense예요.",
+ "movieLineEn": "Things are getting intense. Hold on tight!",
+ "movieLineKo": "상황이 점점 격해지고 있어. 꽉 잡아!",
+ "storyTitle": "강렬한 매운맛 대결",
+ "story": "삼촌은 세상에서 가장 intense(강렬한) 매운 라면에 도전했어요. 한 입 먹자 매운맛의 intensity(강도)에 땀이 비 오듯 했죠. 고통이 intensify(심해지다)될수록 관중의 tension(긴장)도 높아졌어요. 결국 삼촌은 완식! 그런데 소감이 '음, 생각보다 싱겁네'였대요."
+}

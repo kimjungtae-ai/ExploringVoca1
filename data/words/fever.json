@@ -1,0 +1,41 @@
+{
+ "word": "fever",
+ "pos": "명사",
+ "phonetic": "[ˈfiːvər]",
+ "meaning": "열, 발열, 열광, 열기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fever",
+   "meaning": "열 (fever)",
+   "note": "라틴어 febris(열)가 고대 영어 fefor로 들어왔어요."
+  }
+ ],
+ "summary": "<strong>fever</strong> (라틴어 febris, 열) = 몸이 뜨거워지는 상태에서 <strong>'열, 열광'</strong>이 되었습니다.",
+ "historyTitle": "라틴어 febris에서 온 뜨거운 단어",
+ "historyBody": "fever는 라틴어 febris(열)가 고대 영어에 fefor로 들어온 단어이고, 나중에 고대 프랑스어 fievre의 영향도 받았어요. febris 자체가 어디서 왔는지는 확실하지 않아요. '월드컵 열기(World Cup fever)'처럼 무언가에 열광하는 분위기를 말할 때도 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "feverish",
+   "pos": "형용사",
+   "meaning": "열이 나는, 몹시 흥분한",
+   "en": "I felt feverish, so I left school early.",
+   "ko": "열이 나는 것 같아서 학교를 일찍 나왔어요."
+  },
+  {
+   "word": "feverishly",
+   "pos": "부사",
+   "meaning": "열광적으로, 미친 듯이",
+   "en": "The students worked feverishly to finish the project on time.",
+   "ko": "학생들은 프로젝트를 제때 끝내려고 미친 듯이 작업했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 이마에 손을 얹고 체온계를 보는 장면",
+ "imageCaption": "이마가 뜨끈뜨끈해서 엄마가 체온계를 꺼내는 모습을 떠올려 보세요.",
+ "movieLineEn": "He has a high fever. We need a doctor, now!",
+ "movieLineKo": "그 애 열이 높아. 지금 당장 의사가 필요해!",
+ "storyTitle": "축구 열기에 걸린 할머니",
+ "story": "할머니가 갑자기 fever(열)가 난다고 하셨어요. 얼굴이 빨갛고 feverish(열이 나는)해 보였죠. 걱정된 가족이 병원에 가려는데, 할머니는 TV 앞에서 feverishly(열광적으로) 응원봉을 흔들고 계셨어요. 알고 보니 그건 감기가 아니라 월드컵 fever(열기)였어요. 의사 선생님의 report(진단)는 \"골이 들어가면 낫습니다!\"였대요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "ecological",
+ "pos": "형용사",
+ "phonetic": "[ˌiːkəˈlɑːdʒɪkl]",
+ "meaning": "생태(학)의, 생태계의, 환경 보호의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "eco (oikos)",
+   "meaning": "집, 사는 곳 (house)",
+   "note": "그리스어 oikos(집, 살림)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "log (logos)",
+   "meaning": "학문, 말 (study)",
+   "note": "그리스어 logos(말, 이치)에서 온 '~학'이라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ical",
+   "meaning": "~의, ~에 관한 (형용사형)",
+   "note": "-ic와 -al이 합쳐진 형용사 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>eco</strong> (집) + <strong>log</strong> (학문) + <strong>-ical</strong> (~의) = '생물이 사는 집을 연구하는 학문의'라는 뜻에서 <strong>'생태학의, 생태계의'</strong>가 되었어요.",
+ "historyTitle": "헤켈이 만든 단어, 생태학",
+ "historyBody": "1866년 독일의 생물학자 에른스트 헤켈은 그리스어 oikos(집)와 logia(학문)를 합쳐 Ökologie라는 말을 만들었어요. 생물과 그들이 사는 '집', 즉 환경의 관계를 연구한다는 뜻이었죠. 이 말이 영어 ecology가 되었고, 형용사 ecological이 생겨났답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ecology",
+   "pos": "명사",
+   "meaning": "생태(학)",
+   "en": "She studies the ecology of coral reefs.",
+   "ko": "그녀는 산호초의 생태를 연구해요."
+  },
+  {
+   "word": "ecosystem",
+   "pos": "명사",
+   "meaning": "생태계",
+   "en": "Bees play a key role in the ecosystem.",
+   "ko": "벌은 생태계에서 중요한 역할을 해요."
+  },
+  {
+   "word": "ecologist",
+   "pos": "명사",
+   "meaning": "생태학자",
+   "en": "The ecologist counted the birds in the forest.",
+   "ko": "생태학자가 숲속의 새들을 셌어요."
+  },
+  {
+   "word": "economy",
+   "pos": "명사",
+   "meaning": "경제",
+   "en": "The country's economy grew quickly last year.",
+   "ko": "그 나라의 경제는 작년에 빠르게 성장했어요."
+  },
+  {
+   "word": "biology",
+   "pos": "명사",
+   "meaning": "생물학",
+   "en": "Biology is my favorite subject.",
+   "ko": "생물은 내가 가장 좋아하는 과목이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲속 동물, 식물, 강물이 서로 연결된 생태계 그림",
+ "imageCaption": "나무, 곤충, 새, 강이 화살표로 이어진 생태계 지도를 떠올려 보세요.",
+ "movieLineEn": "This dam will be an ecological disaster for the whole valley.",
+ "movieLineKo": "이 댐은 계곡 전체에 생태학적 재앙이 될 거야.",
+ "storyTitle": "생태학자의 깜짝 발견",
+ "story": "ecologist(생태학자) 김 박사님은 연못의 ecosystem(생태계)을 조사하다가 ecological(생태학적) 대발견을 했어요. 개구리들이 밤마다 모여 합창을 하는 거예요! biology(생물학) 교과서를 바꿀 발견이라며 녹음을 했는데, 다시 들어 보니 옆 동네 노래방 소리였답니다."
+}

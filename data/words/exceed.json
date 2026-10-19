@@ -1,0 +1,75 @@
+{
+ "word": "exceed",
+ "pos": "동사",
+ "phonetic": "[ɪkˈsiːd]",
+ "meaning": "넘다, 초과하다, 능가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "정해진 선 밖으로 나간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ceed / cede",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다, 물러나다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>ceed</strong> (가다) = '선을 넘어 밖으로 가다'에서 <strong>'초과하다, 넘다'</strong>가 되었어요.",
+ "historyTitle": "한계선을 넘어가다",
+ "historyBody": "exceed는 14세기 고대 프랑스어 'exceder'를 거쳐 라틴어 'excedere(밖으로 나가다, 넘어서다)'에서 왔어요. cedere(가다)는 proceed, succeed, access 등 '움직임'을 뜻하는 많은 영어 단어의 뿌리가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "excess",
+   "pos": "명사",
+   "meaning": "초과, 과잉",
+   "en": "Eating sugar in excess is bad for your teeth.",
+   "ko": "설탕을 과하게 먹는 건 치아에 나빠요."
+  },
+  {
+   "word": "excessive",
+   "pos": "형용사",
+   "meaning": "지나친, 과도한",
+   "en": "Excessive screen time can hurt your eyes.",
+   "ko": "지나친 화면 사용 시간은 눈을 해칠 수 있어요."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "진행하다, 나아가다",
+   "en": "Please proceed to gate 12 for boarding.",
+   "ko": "탑승을 위해 12번 게이트로 가 주세요."
+  },
+  {
+   "word": "precede",
+   "pos": "동사",
+   "meaning": "~보다 앞서다",
+   "en": "A short speech preceded the concert.",
+   "ko": "콘서트에 앞서 짧은 연설이 있었어요."
+  },
+  {
+   "word": "succeed",
+   "pos": "동사",
+   "meaning": "성공하다, 뒤를 잇다",
+   "en": "If you keep trying, you will succeed.",
+   "ko": "계속 노력하면 성공할 거예요."
+  },
+  {
+   "word": "access",
+   "pos": "명사 / 동사",
+   "meaning": "접근 / 접근하다",
+   "en": "Students have free access to the library.",
+   "ko": "학생들은 도서관을 자유롭게 이용할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 속도계 바늘이 빨간 제한선을 넘어가는 장면",
+ "imageCaption": "제한 속도 표지판보다 바늘이 더 올라가 '선을 넘는' 모습을 떠올려 보세요.",
+ "movieLineEn": "Your power exceeds anything we've ever seen.",
+ "movieLineKo": "너의 힘은 우리가 본 그 어떤 것도 능가해.",
+ "storyTitle": "수하물 무게 초과",
+ "story": "공항에서 지민이의 가방이 무게 제한을 exceed(초과하다)했어요. 직원은 excess(초과) 요금을 내야 proceed(진행하다)할 수 있다고 했죠. 지민이는 excessive(지나친) 간식들을 그 자리에서 다 먹어 치웠어요. 가방은 통과! 대신 지민이 몸무게가 제한을 넘었대요."
+}

@@ -1,0 +1,61 @@
+{
+ "word": "release",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈliːs]",
+ "meaning": "풀어 주다, 석방하다, 발표하다, 출시하다, 방출하다 / 석방, 출시",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "붙잡고 있던 것을 원래대로 돌려보낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lease (← 라틴어 laxare)",
+   "meaning": "느슨하게 하다 (loosen)",
+   "note": "고대 프랑스어 relaissier를 거치면서 lax가 lease 모양으로 변했어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>lease</strong> (느슨하게 하다) = 꽉 쥐었던 손을 느슨하게 풀다, 즉 <strong>'풀어 주다, 출시하다'</strong>예요.",
+ "historyTitle": "relax와 쌍둥이였던 단어",
+ "historyBody": "release는 고대 프랑스어 relaissier(풀어 주다)에서 왔고, 그 뿌리는 라틴어 relaxare(다시 느슨하게 하다)예요. 즉 relax와 release는 같은 라틴어에서 나온 형제 단어예요. 갇힌 사람을 풀어 주는 뜻에서 새 영화나 앨범을 세상에 '풀어 놓는' 출시라는 뜻까지 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relax",
+   "pos": "동사",
+   "meaning": "쉬다, 긴장을 풀다",
+   "en": "Close your eyes and let your body relax.",
+   "ko": "눈을 감고 몸의 긴장을 풀어 보세요."
+  },
+  {
+   "word": "relaxation",
+   "pos": "명사",
+   "meaning": "휴식, 완화",
+   "en": "Yoga is good for relaxation.",
+   "ko": "요가는 긴장을 푸는 데 좋아요."
+  },
+  {
+   "word": "lax",
+   "pos": "형용사",
+   "meaning": "느슨한, 해이한",
+   "en": "The rules were too lax to stop cheating.",
+   "ko": "규칙이 너무 느슨해서 부정행위를 막지 못했어요."
+  },
+  {
+   "word": "relaxed",
+   "pos": "형용사",
+   "meaning": "느긋한",
+   "en": "The atmosphere at the party was relaxed.",
+   "ko": "파티 분위기는 편안했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손을 펴서 새를 하늘로 날려 보내는 모습",
+ "imageCaption": "두 손에 감싸 쥔 작은 새를 하늘로 휙 풀어 주는 장면을 떠올려 보세요. 꽉 쥔 것을 놓아주는 것이 release예요.",
+ "movieLineEn": "Release the dragon!",
+ "movieLineKo": "드래곤을 풀어라!",
+ "storyTitle": "신곡 출시의 비밀",
+ "story": "아이돌 그룹이 신곡을 release(출시하다)하는 날이었어요. 팬들은 relax(쉬다)할 틈도 없이 밤새 기다렸죠. 드디어 노래가 나오자 모두 relaxed(긴장이 풀린) 표정으로 감상했어요. 노래 제목은 'Relaxation(휴식)'. 그런데 3분 내내 아무 소리 없이 숨소리만 들렸어요. 실수로 녹음 전 파일을 올린 거였답니다."
+}

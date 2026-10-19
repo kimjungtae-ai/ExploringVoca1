@@ -1,0 +1,55 @@
+{
+ "word": "mow",
+ "pos": "동사",
+ "phonetic": "[moʊ]",
+ "meaning": "(풀·잔디를) 베다, 깎다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mow",
+   "meaning": "풀을 베다 (cut grass)",
+   "note": "고대 영어 mawan(베다)에서 온 게르만어 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>mow</strong>는 고대 영어 mawan에서 왔고, 낫이나 기계로 <strong>'풀을 베다, 잔디를 깎다'</strong>라는 뜻이에요.",
+ "historyTitle": "풀 베기와 aftermath의 비밀",
+ "historyBody": "mow는 고대 영어 mawan에서 왔고 독일어 mähen(베다)과 친척이에요. 놀랍게도 '여파, 후유증'을 뜻하는 aftermath의 math가 옛말로 '풀 베기'였어요. 첫 번째 풀을 벤 뒤 다시 자라난 풀을 aftermath라고 부르던 데서 지금의 뜻이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lawn mower",
+   "pos": "명사",
+   "meaning": "잔디 깎는 기계",
+   "en": "My dad bought a new lawn mower for the garden.",
+   "ko": "아빠가 정원용 잔디 깎는 기계를 새로 사셨어요."
+  },
+  {
+   "word": "meadow",
+   "pos": "명사",
+   "meaning": "풀밭, 목초지",
+   "en": "Cows were eating grass in the green meadow.",
+   "ko": "소들이 푸른 풀밭에서 풀을 먹고 있었어요."
+  },
+  {
+   "word": "aftermath",
+   "pos": "명사",
+   "meaning": "여파, 후유증",
+   "en": "Many people needed help in the aftermath of the flood.",
+   "ko": "홍수의 여파로 많은 사람이 도움이 필요했어요."
+  },
+  {
+   "word": "mown",
+   "pos": "형용사",
+   "meaning": "베어진, 깎인",
+   "en": "I love the smell of freshly mown grass.",
+   "ko": "나는 막 깎은 잔디 냄새를 정말 좋아해요."
+  }
+ ],
+ "imageSense": "대표 의미: 주말 아침 잔디 깎는 기계로 마당을 정리하는 모습",
+ "imageCaption": "부르릉 소리를 내는 기계가 지나간 자리마다 잔디가 줄무늬로 짧아지는 장면을 떠올려 보세요.",
+ "movieLineEn": "Hey kid, can you mow my lawn this weekend?",
+ "movieLineKo": "얘야, 이번 주말에 우리 집 잔디 좀 깎아 줄래?",
+ "storyTitle": "잔디 깎기 대참사",
+ "story": "삼촌이 mow(잔디를 깎다)하겠다며 lawn mower(잔디 깎는 기계)를 켰어요. 기계가 폭주해서 이웃집 meadow(풀밭)까지 다 깎아 버렸죠. 그 aftermath(여파)로 삼촌은 동네 잔디 깎기 담당이 되었어요. 이제 삼촌은 '잔디 요정'이라 불린답니다."
+}

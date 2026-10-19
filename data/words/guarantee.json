@@ -1,0 +1,54 @@
+{
+ "word": "guarantee",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˌɡærənˈtiː]",
+ "meaning": "보장하다, 보증하다 / 보증, 보장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "guarant (← garant)",
+   "meaning": "보증인 (warrantor)",
+   "note": "프랑크어 *warand에서 고대 프랑스어 garant(보증인)이 되었어요. warrant와 쌍둥이 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ee",
+   "meaning": "(명사 어미)",
+   "note": "프랑스어 garantie의 -ie가 영어 -ee와 섞인 것으로 보여요. 정확한 경로는 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>guarant</strong> (보증인) + <strong>-ee</strong> = 책임지고 약속해 주는 사람·약속이라는 뜻에서 <strong>'보장하다, 보증'</strong>이 되었어요.",
+ "historyTitle": "w가 g로 변한 쌍둥이 단어",
+ "historyBody": "guarantee는 프랑크어(게르만어) *warand가 고대 프랑스어로 들어가 garant(보증인)이 된 데서 왔어요. 프랑스어는 게르만어의 w를 gu-/g-로 바꾸곤 해서 warrant와 guarantee가 쌍둥이가 되었죠. 끝의 -ee가 어떻게 붙었는지는 확실하지 않아서 caution 표시를 했어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "warrant",
+   "pos": "명사 / 동사",
+   "meaning": "영장, 보증 / 정당화하다",
+   "en": "The police had a warrant to search the house.",
+   "ko": "경찰은 그 집을 수색할 영장을 갖고 있었어."
+  },
+  {
+   "word": "warranty",
+   "pos": "명사",
+   "meaning": "(품질) 보증서",
+   "en": "This laptop comes with a two-year warranty.",
+   "ko": "이 노트북에는 2년 품질 보증이 딸려 있어."
+  },
+  {
+   "word": "guaranty",
+   "pos": "명사",
+   "meaning": "보증, 담보",
+   "en": "The bank asked for a guaranty before giving the loan.",
+   "ko": "은행은 대출 전에 보증을 요구했어."
+  }
+ ],
+ "imageSense": "대표 의미: 상자에 '100% 품질 보증' 도장이 쾅 찍히는 장면",
+ "imageCaption": "'제가 책임지고 약속할게요!'라며 가슴을 탕탕 치는 판매원을 떠올려 보세요.",
+ "movieLineEn": "I can't guarantee we'll win, but we'll fight.",
+ "movieLineKo": "이긴다고 보장할 순 없지만, 우리는 싸울 거야.",
+ "storyTitle": "보증 천재 판매원",
+ "story": "판매원은 우산을 팔며 '절대 안 젖어요, guarantee(보장하다)!'라고 외쳤어요. 2년 warranty(품질 보증)에 guaranty(보증)서까지 줬죠. 손님이 비 오는 날 써 보니 정말 하나도 안 젖었어요. 비결을 묻자 판매원이 말했어요. '이 우산은 집 밖에 들고 나가면 warrant(보증)가 무효예요!'"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "potential",
+ "pos": "형용사 / 명사",
+ "phonetic": "[pəˈtenʃl]",
+ "meaning": "잠재적인, 가능성 있는 / 잠재력, 가능성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pot",
+   "meaning": "힘이 있다, ~할 수 있다 (be able)",
+   "note": "라틴어 posse(할 수 있다), potens(힘 있는)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 (형용사)",
+   "note": "라틴어 현재분사 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의, ~에 관한",
+   "note": "형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>pot</strong> (할 수 있다) + <strong>-ent</strong> + <strong>-ial</strong> (~의) = 아직 드러나지 않았지만 할 수 있는 힘이 있는, 곧 <strong>'잠재적인, 잠재력'</strong>이에요.",
+ "historyTitle": "아리스토텔레스의 '가능태'",
+ "historyBody": "potential은 후기 라틴어 potentialis에서 왔고, potentia(힘, 능력), posse(할 수 있다)가 뿌리예요. 중세 학자들은 아리스토텔레스의 '가능성으로 존재하는 상태'를 라틴어 potentia로 옮겼어요. 그래서 potential은 '지금은 아니지만 될 수 있는 힘'을 뜻하게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "potent",
+   "pos": "형용사",
+   "meaning": "강력한, 효능 있는",
+   "en": "This medicine is very potent, so take only one pill.",
+   "ko": "이 약은 효과가 아주 강하니 한 알만 드세요."
+  },
+  {
+   "word": "potentially",
+   "pos": "부사",
+   "meaning": "잠재적으로, 어쩌면",
+   "en": "This storm is potentially dangerous.",
+   "ko": "이 폭풍은 잠재적으로 위험해요."
+  },
+  {
+   "word": "possible",
+   "pos": "형용사",
+   "meaning": "가능한",
+   "en": "Is it possible to finish this by tomorrow?",
+   "ko": "이걸 내일까지 끝내는 게 가능할까요?"
+  },
+  {
+   "word": "impossible",
+   "pos": "형용사",
+   "meaning": "불가능한",
+   "en": "Nothing is impossible if you keep trying.",
+   "ko": "계속 노력하면 불가능한 건 없어요."
+  },
+  {
+   "word": "power",
+   "pos": "명사",
+   "meaning": "힘, 권력",
+   "en": "Knowledge gives people the power to change things.",
+   "ko": "지식은 사람들에게 세상을 바꿀 힘을 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 씨앗 속에 숨은 커다란 나무",
+ "imageCaption": "손바닥 위 작은 도토리 안에 거대한 참나무가 숨어 있다고 상상해 보세요.",
+ "movieLineEn": "You have potential, kid. Don't waste it.",
+ "movieLineKo": "넌 잠재력이 있어, 꼬마야. 낭비하지 마.",
+ "storyTitle": "잠재력 넘치는 감자",
+ "story": "감자 한 알이 말했어요. \"나는 potential(잠재력)이 대단해! 감자튀김도, 칩도 될 수 있지!\" 모든 게 possible(가능한) 것 같았죠. 그런데 냉장고 구석에서 잊혀 싹이 났어요. 감자는 potent(강력한) 결심을 했어요. 땅에 심겨 감자 열 개가 된 거예요! 잠재력은 진짜 power(힘)였답니다."
+}

@@ -1,0 +1,75 @@
+{
+ "word": "affect",
+ "pos": "동사",
+ "phonetic": "[əˈfekt]",
+ "meaning": "영향을 미치다, (감정을) 움직이다, ~인 척하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "af-",
+   "meaning": "~에 (to)",
+   "note": "ad-가 f 앞에서 af-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fect",
+   "meaning": "하다, 만들다 (do, make)",
+   "note": "라틴어 facere(하다)의 변형이에요."
+  }
+ ],
+ "summary": "<strong>af-</strong> (~에) + <strong>fect</strong> (하다) = '~에 무언가를 하다'에서 <strong>'영향을 미치다'</strong>가 되었어요.",
+ "historyTitle": "'~에게 작용하다'라는 라틴어 afficere",
+ "historyBody": "라틴어 afficere는 ad(~에)와 facere(하다)가 합쳐져 '~에 작용하다, 영향을 주다'라는 뜻이었어요. 같은 뿌리의 effect는 '밖으로 만들어 낸 것', 즉 결과예요. affect(동사, 영향을 주다)와 effect(명사, 결과)를 헷갈리지 않도록 주의하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "effect",
+   "pos": "명사",
+   "meaning": "효과, 결과",
+   "en": "The medicine had a quick effect.",
+   "ko": "그 약은 빠르게 효과가 나타났어요."
+  },
+  {
+   "word": "affection",
+   "pos": "명사",
+   "meaning": "애정",
+   "en": "She shows great affection for her dog.",
+   "ko": "그녀는 자기 개에게 큰 애정을 보여요."
+  },
+  {
+   "word": "fact",
+   "pos": "명사",
+   "meaning": "사실",
+   "en": "It is a fact that the earth goes around the sun.",
+   "ko": "지구가 태양 주위를 도는 것은 사실이에요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장",
+   "en": "My uncle works in a car factory.",
+   "ko": "우리 삼촌은 자동차 공장에서 일해요."
+  },
+  {
+   "word": "infect",
+   "pos": "동사",
+   "meaning": "감염시키다",
+   "en": "The virus can infect many people quickly.",
+   "ko": "그 바이러스는 많은 사람을 빠르게 감염시킬 수 있어요."
+  },
+  {
+   "word": "perfect",
+   "pos": "형용사",
+   "meaning": "완벽한",
+   "en": "The weather was perfect for a picnic.",
+   "ko": "날씨가 소풍 가기에 완벽했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비가 오자 사람들의 기분과 계획이 바뀌는 장면",
+ "imageCaption": "무언가가 다른 것에 '작용해서' 변화를 일으키는 모습을 떠올려 보세요.",
+ "movieLineEn": "Your choices will affect the whole kingdom.",
+ "movieLineKo": "네 선택이 왕국 전체에 영향을 미칠 거야.",
+ "storyTitle": "감기에 걸린 로봇",
+ "story": "과학자는 감정이 있는 perfect(완벽한) 로봇을 만들었어요. 로봇은 주인에게 affection(애정)을 보였죠. 그런데 주인의 감기가 로봇을 affect(영향을 미치다)했어요! 로봇이 '에취!' 하며 나사를 날렸어요. 사실 이건 기계라서 infect(감염시키다)된 게 아니라, 주인을 따라 하는 effect(효과)였대요."
+}

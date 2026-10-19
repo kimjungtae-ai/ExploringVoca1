@@ -1,0 +1,61 @@
+{
+ "word": "chilly",
+ "pos": "형용사",
+ "phonetic": "[ˈtʃɪli]",
+ "meaning": "쌀쌀한, 추운, 냉담한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "chill",
+   "meaning": "냉기, 쌀쌀함 (cold)",
+   "note": "고대 영어 ciele(추위)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~한 상태의 (형용사형)",
+   "note": "명사를 '그런 느낌이 나는'이라는 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>chill</strong> (냉기) + <strong>-y</strong> (~한) = '냉기가 도는'이라는 데서 <strong>'쌀쌀한, 냉담한'</strong>이 되었습니다.",
+ "historyTitle": "cold, cool과 한 집안",
+ "historyBody": "chill은 고대 영어 ciele(추위, 서늘함)에서 왔어요. 이 말은 cold(추운), cool(시원한)과 같은 게르만어 뿌리를 공유하는 친척이랍니다. 16세기쯤 -y가 붙어 chilly가 되었고, 날씨뿐 아니라 '쌀쌀맞은 태도'에도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "chill",
+   "pos": "명사/동사",
+   "meaning": "냉기, 오한 / 차게 하다",
+   "en": "Chill the juice in the fridge before the party.",
+   "ko": "파티 전에 주스를 냉장고에 차갑게 해 둬."
+  },
+  {
+   "word": "chilling",
+   "pos": "형용사",
+   "meaning": "오싹하게 하는, 소름 끼치는",
+   "en": "The movie had a chilling ending.",
+   "ko": "그 영화는 결말이 소름 끼쳤어."
+  },
+  {
+   "word": "cold",
+   "pos": "형용사",
+   "meaning": "추운, 차가운",
+   "en": "It was so cold that the lake froze.",
+   "ko": "너무 추워서 호수가 얼었어요."
+  },
+  {
+   "word": "cool",
+   "pos": "형용사",
+   "meaning": "시원한, 멋진",
+   "en": "A cool breeze came through the window.",
+   "ko": "창문으로 시원한 바람이 들어왔어."
+  }
+ ],
+ "imageSense": "대표 의미: 가을 아침, 목도리를 두르고 입김을 부는 장면",
+ "imageCaption": "냉기(chill)가 살짝 감도는 공기를 떠올려 보세요. 피부에 닿는 쌀쌀함이 바로 chilly예요.",
+ "movieLineEn": "It's a bit chilly tonight. Take my jacket.",
+ "movieLineKo": "오늘 밤 좀 쌀쌀하다. 내 재킷 입어.",
+ "storyTitle": "에어컨 전쟁",
+ "story": "교실이 너무 chilly(쌀쌀한)해서 민수는 덜덜 떨었어요. 짝꿍은 \"이게 cool(시원한)한 거지!\"라며 에어컨을 더 켰죠. 민수는 chill(오한)을 느끼며 cold(추운) 손으로 리모컨을 찾았어요. 그런데 chilling(소름 끼치는) 반전! 리모컨은 선생님 주머니 속에 있었답니다."
+}

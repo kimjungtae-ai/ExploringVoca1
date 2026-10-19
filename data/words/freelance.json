@@ -1,0 +1,61 @@
+{
+ "word": "freelance",
+ "pos": "형용사 / 동사 / 명사",
+ "phonetic": "[ˈfriːlæns]",
+ "meaning": "프리랜서의, 자유 계약의 / 프리랜서로 일하다 / 프리랜서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "free",
+   "meaning": "자유로운 (free)",
+   "note": "고대 영어 freo에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "lance",
+   "meaning": "창 (spear)",
+   "note": "라틴어 lancea(창)에서 고대 프랑스어 lance를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>free</strong> (자유로운) + <strong>lance</strong> (창) = '어느 영주에게도 묶이지 않은 창잡이'에서 <strong>'프리랜서, 자유 계약의'</strong>가 되었습니다.",
+ "historyTitle": "소설 속 '자유로운 창'",
+ "historyBody": "free lance라는 말은 1819년 월터 스콧의 소설 《아이반호》에서 돈을 받고 누구에게나 싸워 주는 중세 용병 기사를 가리키며 널리 알려졌어요. 이후 특정 회사에 속하지 않고 일하는 작가나 디자이너를 freelance라고 부르게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "freelancer",
+   "pos": "명사",
+   "meaning": "프리랜서",
+   "en": "My aunt works as a freelancer designing websites.",
+   "ko": "이모는 웹사이트를 디자인하는 프리랜서로 일하세요."
+  },
+  {
+   "word": "free",
+   "pos": "형용사",
+   "meaning": "자유로운, 무료의",
+   "en": "Admission to the museum is free on Sundays.",
+   "ko": "일요일에는 박물관 입장이 무료예요."
+  },
+  {
+   "word": "freedom",
+   "pos": "명사",
+   "meaning": "자유",
+   "en": "Working from home gives her more freedom.",
+   "ko": "재택근무는 그녀에게 더 많은 자유를 줘요."
+  },
+  {
+   "word": "freely",
+   "pos": "부사",
+   "meaning": "자유롭게",
+   "en": "Freelancers can freely choose their projects.",
+   "ko": "프리랜서는 자유롭게 프로젝트를 고를 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 카페에서 노트북으로 자유롭게 일하는 사람",
+ "imageCaption": "출근 대신 좋아하는 카페에 앉아 노트북으로 일하는 디자이너를 떠올려 보세요.",
+ "movieLineEn": "I'm a freelance spy. I work for whoever pays the most.",
+ "movieLineKo": "난 프리랜서 스파이야. 가장 많이 주는 쪽을 위해 일하지.",
+ "storyTitle": "중세 기사의 재취업",
+ "story": "타임머신으로 현대에 온 중세 기사는 직업을 찾았어요. \"나는 freelance(자유 계약의) 창잡이요!\" 사람들은 그를 freelancer(프리랜서)로 고용했죠. 기사는 freedom(자유)을 사랑해 freely(자유롭게) 일했어요. 그의 첫 업무는… 창으로 높은 선반 위 택배 상자 내리기였대요!"
+}

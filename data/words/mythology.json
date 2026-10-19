@@ -1,0 +1,68 @@
+{
+ "word": "mythology",
+ "pos": "명사",
+ "phonetic": "[mɪˈθɑːlədʒi]",
+ "meaning": "신화, 신화학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "myth",
+   "meaning": "이야기, 신화 (story)",
+   "note": "그리스어 mythos(말, 이야기)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ology",
+   "meaning": "~학, ~에 대한 이야기 (study)",
+   "note": "그리스어 logos(말, 학문)에서 온 접미사예요."
+  }
+ ],
+ "summary": "<strong>myth</strong> (이야기) + <strong>-ology</strong> (학문, 이야기 모음) = 신화 이야기들의 모음이라서 <strong>'신화, 신화학'</strong>이 되었어요.",
+ "historyTitle": "그리스 사람들의 '이야기'",
+ "historyBody": "그리스어 mythos는 원래 그냥 '말, 이야기'를 뜻했어요. 그리스 사람들은 신과 영웅에 관한 이야기를 mythologia로 불렀고, 이것이 라틴어와 프랑스어를 거쳐 영어 mythology가 되었어요. 단어 myth는 오히려 19세기에야 영어에 널리 쓰이기 시작했답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "myth",
+   "pos": "명사",
+   "meaning": "신화, 근거 없는 믿음",
+   "en": "It is a myth that we only use ten percent of our brains.",
+   "ko": "우리가 뇌의 10%만 쓴다는 건 근거 없는 믿음이에요."
+  },
+  {
+   "word": "mythical",
+   "pos": "형용사",
+   "meaning": "신화 속의, 가공의",
+   "en": "The dragon is a mythical creature.",
+   "ko": "용은 신화 속의 생물이에요."
+  },
+  {
+   "word": "biology",
+   "pos": "명사",
+   "meaning": "생물학",
+   "en": "I want to study biology in college.",
+   "ko": "나는 대학에서 생물학을 공부하고 싶어요."
+  },
+  {
+   "word": "psychology",
+   "pos": "명사",
+   "meaning": "심리학",
+   "en": "Psychology helps us understand human behavior.",
+   "ko": "심리학은 우리가 인간 행동을 이해하도록 도와줘요."
+  },
+  {
+   "word": "logic",
+   "pos": "명사",
+   "meaning": "논리",
+   "en": "His argument was full of logic and clear examples.",
+   "ko": "그의 주장은 논리와 명확한 예시로 가득했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 번개를 든 제우스와 신들이 구름 위에 모인 장면",
+ "imageCaption": "올림포스산 꼭대기에서 신들이 회의하는 고대 그리스 벽화를 떠올려 보세요.",
+ "movieLineEn": "In Greek mythology, he was the god of the sea.",
+ "movieLineKo": "그리스 신화에서 그는 바다의 신이었어.",
+ "storyTitle": "신화 시험",
+ "story": "철수는 mythology(신화) 시험을 앞두고 제우스 꿈을 꿨어요. 제우스가 \"내 mythical(신화 속의) 번개 공식을 외워라!\"라고 했죠. 철수가 \"그건 myth(근거 없는 믿음)잖아요\"라고 하자 제우스는 logic(논리)이 없다며 화냈어요. 깨어 보니 시험지 첫 문제가 '제우스의 무기'였답니다."
+}

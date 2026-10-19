@@ -1,0 +1,48 @@
+{
+ "word": "plot",
+ "pos": "명사 / 동사",
+ "phonetic": "[plɑːt]",
+ "meaning": "줄거리, 음모, 작은 땅 / 음모를 꾸미다, 구상하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "plot",
+   "meaning": "작은 땅 (small piece of ground)",
+   "note": "고대 영어 plot(작은 땅 조각)에서 왔고 그 이전 기원은 알려져 있지 않아요."
+  }
+ ],
+ "summary": "<strong>plot</strong> (작은 땅, 계획) = 땅의 구획을 그리듯 이야기와 계획을 짜는 것, 곧 <strong>'줄거리, 음모'</strong>예요.",
+ "historyTitle": "땅 한 뙈기에서 음모까지",
+ "historyBody": "plot은 고대 영어에서 '작은 땅 조각'을 뜻했고, 그보다 오래된 기원은 알려져 있지 않아요. 1580년대에 '비밀 계획, 음모'라는 뜻이 생겼는데, 이는 프랑스어 complot(음모)의 영향을 받았다고 보지만 확실하지는 않아요. 이후 '이야기의 짜임', 즉 줄거리라는 뜻도 생겼답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "subplot",
+   "pos": "명사",
+   "meaning": "(소설·영화의) 부차적 줄거리",
+   "en": "The love story is only a subplot in the movie.",
+   "ko": "그 사랑 이야기는 영화의 곁가지 줄거리일 뿐이에요."
+  },
+  {
+   "word": "plotline",
+   "pos": "명사",
+   "meaning": "줄거리",
+   "en": "The plotline of the drama was hard to follow.",
+   "ko": "그 드라마의 줄거리는 따라가기 어려웠어요."
+  },
+  {
+   "word": "plotter",
+   "pos": "명사",
+   "meaning": "음모자, 공모자",
+   "en": "The plotters were caught before they could act.",
+   "ko": "음모자들은 행동하기 전에 붙잡혔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어두운 방에서 지도를 펼쳐 놓고 계획을 짜는 사람들",
+ "imageCaption": "촛불 아래 지도를 펴 놓고 속닥속닥 계획을 꾸미는 장면을 떠올려 보세요.",
+ "movieLineEn": "The plot of this movie makes no sense!",
+ "movieLineKo": "이 영화 줄거리는 말이 안 돼!",
+ "storyTitle": "고양이들의 대음모",
+ "story": "고양이들이 밤마다 모여 plot(음모)을 꾸몄어요. 목표는 냉장고 속 생선! plotter(음모자) 대장이 plotline(줄거리)을 그렸고, 꼬마 고양이는 subplot(곁가지 계획)으로 주인 관심 끌기를 맡았죠. 그런데 꼬마가 너무 귀여워서 주인이 생선을 그냥 줬어요. 결국 plot(계획)은 필요 없었대요!"
+}

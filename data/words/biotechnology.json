@@ -1,0 +1,74 @@
+{
+ "word": "biotechnology",
+ "pos": "명사",
+ "phonetic": "[ˌbaɪoʊtekˈnɑːlədʒi]",
+ "meaning": "생명 공학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "bio-",
+   "meaning": "생명 (life)",
+   "note": "그리스어 bios(생명)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "techn",
+   "meaning": "기술, 솜씨 (art, skill)",
+   "note": "그리스어 tekhnē(기술, 솜씨)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ology",
+   "meaning": "학문, ~학 (study)",
+   "note": "그리스어 logos에서 온 '~학'이라는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>bio-</strong> (생명) + <strong>techn</strong> (기술) + <strong>-ology</strong> (학문) = '생명을 다루는 기술의 학문', 즉 <strong>'생명 공학'</strong>이에요.",
+ "historyTitle": "돼지 농장에서 태어난 단어",
+ "historyBody": "biotechnology라는 말은 1919년 헝가리의 농업 공학자 카로이 에레키(Károly Ereky)가 처음 쓴 것으로 알려져 있어요. 그는 생물을 이용해 원료를 유용한 제품으로 바꾸는 일을 이렇게 불렀어요. 오늘날에는 유전자 조작, 백신 개발 등 넓은 분야를 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "technology",
+   "pos": "명사",
+   "meaning": "기술, 과학 기술",
+   "en": "New technology makes our daily lives more convenient.",
+   "ko": "새로운 기술은 우리 일상을 더 편리하게 해요."
+  },
+  {
+   "word": "technique",
+   "pos": "명사",
+   "meaning": "기법, 기술",
+   "en": "The coach taught us a new swimming technique.",
+   "ko": "코치님이 우리에게 새로운 수영 기법을 가르쳐 주셨어."
+  },
+  {
+   "word": "technical",
+   "pos": "형용사",
+   "meaning": "기술적인, 전문적인",
+   "en": "We had a technical problem with the projector.",
+   "ko": "프로젝터에 기술적인 문제가 생겼어."
+  },
+  {
+   "word": "technician",
+   "pos": "명사",
+   "meaning": "기술자",
+   "en": "A technician came to fix our broken air conditioner.",
+   "ko": "고장 난 에어컨을 고치러 기술자가 왔어."
+  },
+  {
+   "word": "biology",
+   "pos": "명사",
+   "meaning": "생물학",
+   "en": "Biology is my favorite subject in high school.",
+   "ko": "생물은 고등학교에서 내가 제일 좋아하는 과목이야."
+  }
+ ],
+ "imageSense": "대표 의미: 실험실에서 유전자를 연구해 새로운 약을 만드는 장면",
+ "imageCaption": "흰 가운을 입은 연구원이 시험관 속 세포를 다루는 모습을 떠올려 보세요. 생명(bio)에 기술(techn)을 더하는 분야예요.",
+ "movieLineEn": "With biotechnology, we can grow food in the desert.",
+ "movieLineKo": "생명 공학이 있으면 사막에서도 식량을 키울 수 있어.",
+ "storyTitle": "슈퍼 토마토의 비밀",
+ "story": "과학자 박사님은 biotechnology(생명 공학)로 수박만 한 토마토를 만들었어요. 최신 technology(기술)와 특별한 technique(기법)을 썼죠. 그런데 너무 커서 technician(기술자) 다섯 명이 들어도 꿈쩍하지 않았어요. 결국 그 토마토는 마을 놀이터 미끄럼틀이 되었답니다."
+}

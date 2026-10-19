@@ -1,0 +1,74 @@
+{
+ "word": "composition",
+ "pos": "명사",
+ "phonetic": "[ˌkɑːmpəˈzɪʃn]",
+ "meaning": "구성, 작곡, 작문, 성분",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pos",
+   "meaning": "놓다 (put, place)",
+   "note": "라틴어 ponere(놓다)의 과거분사 positus에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ition",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 행동이나 결과를 나타내는 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>pos</strong> (놓다) + <strong>-ition</strong> (것) = '여러 요소를 함께 놓아 짜 맞춤'이라는 데서 <strong>'구성, 작곡, 작문'</strong>이 되었습니다.",
+ "historyTitle": "음표와 단어를 함께 놓다",
+ "historyBody": "라틴어 componere는 '함께 놓다, 짜 맞추다'라는 뜻이고, compositio는 그 결과물이에요. 음표를 함께 놓으면 '작곡', 단어를 함께 놓으면 '작문', 물질을 함께 놓으면 '성분'이 되죠. 14세기 영어에 들어와 지금처럼 다양하게 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "compose",
+   "pos": "동사",
+   "meaning": "구성하다, 작곡하다",
+   "en": "Mozart composed his first piece at age five.",
+   "ko": "모차르트는 다섯 살에 첫 곡을 작곡했어요."
+  },
+  {
+   "word": "component",
+   "pos": "명사",
+   "meaning": "구성 요소, 부품",
+   "en": "Trust is a key component of friendship.",
+   "ko": "신뢰는 우정의 핵심 구성 요소예요."
+  },
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 자리, 입장",
+   "en": "Please stay in your position until the music stops.",
+   "ko": "음악이 멈출 때까지 자리에 있어 주세요."
+  },
+  {
+   "word": "opposite",
+   "pos": "형용사/명사",
+   "meaning": "반대의 / 반대",
+   "en": "They live on the opposite side of the river.",
+   "ko": "그들은 강 건너편에 살아요."
+  },
+  {
+   "word": "deposit",
+   "pos": "동사/명사",
+   "meaning": "예금하다, 두다 / 예금, 보증금",
+   "en": "I deposited my allowance in the bank.",
+   "ko": "나는 용돈을 은행에 예금했어."
+  }
+ ],
+ "imageSense": "대표 의미: 작곡가가 오선지 위에 음표를 하나씩 놓아 곡을 만드는 장면",
+ "imageCaption": "여러 조각을 함께(com-) 제자리에 놓아(pos) 하나를 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "This composition will make the whole world cry.",
+ "movieLineKo": "이 곡은 온 세상을 울릴 거야.",
+ "storyTitle": "고양이 작곡가",
+ "story": "음대생 민지는 composition(작곡) 과제를 compose(작곡하다)하지 못해 괴로웠어요. 그때 고양이가 피아노 건반 위를 걸었죠. 음표의 position(위치)은 엉망이었지만, 교수님은 \"opposite(반대의) 화음이 천재적이야!\"라며 A+를 주셨어요. 고양이가 장학금을 받았답니다."
+}

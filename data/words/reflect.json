@@ -1,0 +1,68 @@
+{
+ "word": "reflect",
+ "pos": "동사",
+ "phonetic": "[rɪˈflekt]",
+ "meaning": "반영하다, 반사하다, 숙고하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back)",
+   "note": "원래 방향으로 되돌아간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "flect",
+   "meaning": "구부리다 (bend)",
+   "note": "라틴어 flectere(구부리다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>flect</strong> (구부리다) = 빛이 뒤로 꺾여 돌아오다 → <strong>'반사하다, 반영하다, 되돌아보며 생각하다'</strong>예요.",
+ "historyTitle": "빛을 뒤로 꺾는 거울",
+ "historyBody": "라틴어 reflectere는 '뒤로 구부리다, 돌리다'라는 뜻이었어요. 빛이 거울에 부딪혀 꺾여 돌아오는 모습에서 '반사하다'가 되었고, 생각을 자기 쪽으로 되돌린다는 뜻에서 '숙고하다'로도 쓰이게 되었어요. 거울 앞에서 나를 돌아보는 모습을 떠올리면 딱이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reflection",
+   "pos": "명사",
+   "meaning": "반사, 반영, 성찰",
+   "en": "I saw my reflection in the lake.",
+   "ko": "나는 호수에 비친 내 모습을 보았어요."
+  },
+  {
+   "word": "flexible",
+   "pos": "형용사",
+   "meaning": "유연한, 융통성 있는",
+   "en": "Yoga can make your body more flexible.",
+   "ko": "요가는 몸을 더 유연하게 만들어 줄 수 있어요."
+  },
+  {
+   "word": "reflex",
+   "pos": "명사",
+   "meaning": "반사 작용, 반사 신경",
+   "en": "Good reflexes help goalkeepers stop the ball.",
+   "ko": "좋은 반사 신경은 골키퍼가 공을 막는 데 도움이 돼요."
+  },
+  {
+   "word": "flexibility",
+   "pos": "명사",
+   "meaning": "유연성, 융통성",
+   "en": "Working from home gives people more flexibility.",
+   "ko": "재택근무는 사람들에게 더 많은 융통성을 줘요."
+  },
+  {
+   "word": "deflect",
+   "pos": "동사",
+   "meaning": "(방향을) 빗나가게 하다, 피하다",
+   "en": "He tried to deflect the question with a joke.",
+   "ko": "그는 농담으로 질문을 피하려 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 잔잔한 호수에 산과 하늘이 그대로 비치는 풍경",
+ "imageCaption": "맑은 호수 위에 산이 거꾸로 비친 장면을 그려 보세요. 빛이 뒤로 꺾여 돌아와 모습이 비치는 것이 reflect예요.",
+ "movieLineEn": "Take a moment to reflect on what you've done.",
+ "movieLineKo": "네가 한 일을 잠깐 되돌아봐.",
+ "storyTitle": "거울 속의 범인",
+ "story": "누나가 내 푸딩을 먹었다고 의심했어요. 누나는 flexible(융통성 있는) 말솜씨로 질문을 deflect(피하다)했죠. 그때 창문에 누나 입가의 푸딩이 reflect(비치다)되었어요! 나는 그 reflection(반사된 모습)을 증거로 내밀었죠. 그런데 거울을 다시 보니 내 입가에도 똑같은 푸딩이 묻어 있었답니다."
+}

@@ -1,0 +1,81 @@
+{
+ "word": "evaluate",
+ "pos": "동사",
+ "phonetic": "[ɪˈvæljueɪt]",
+ "meaning": "평가하다, 감정하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "ex-가 e-로 줄어든 형태예요. 속에 있는 것을 밖으로 끌어낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "valu",
+   "meaning": "가치 (value, worth)",
+   "note": "라틴어 valere(힘이 있다, 가치가 있다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사형)",
+   "note": "동사를 만드는 어미예요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>valu</strong> (가치) + <strong>-ate</strong> (동사) = '가치를 밖으로 끌어내 따져 보다'에서 <strong>'평가하다'</strong>가 되었어요.",
+ "historyTitle": "evaluation에서 거꾸로 태어난 동사",
+ "historyBody": "evaluate는 1842년경 명사 evaluation에서 거꾸로 만들어진 동사예요. evaluation은 프랑스어 'évaluation'에서 왔고, 이는 é-(밖으로)와 value(가치)가 합쳐진 말이에요. value의 뿌리인 라틴어 valere는 '튼튼하다, 가치가 있다'라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "value",
+   "pos": "명사 / 동사",
+   "meaning": "가치 / 소중히 여기다",
+   "en": "I value my friends more than money.",
+   "ko": "나는 돈보다 친구들을 더 소중히 여겨요."
+  },
+  {
+   "word": "valuable",
+   "pos": "형용사",
+   "meaning": "귀중한, 값비싼",
+   "en": "This old map is very valuable to historians.",
+   "ko": "이 오래된 지도는 역사가들에게 매우 귀중해요."
+  },
+  {
+   "word": "evaluation",
+   "pos": "명사",
+   "meaning": "평가",
+   "en": "Teachers write an evaluation of each student.",
+   "ko": "선생님들은 학생마다 평가서를 써요."
+  },
+  {
+   "word": "valid",
+   "pos": "형용사",
+   "meaning": "유효한, 타당한",
+   "en": "Your ticket is valid for one month.",
+   "ko": "당신의 표는 한 달 동안 유효해요."
+  },
+  {
+   "word": "available",
+   "pos": "형용사",
+   "meaning": "이용 가능한, 시간이 있는",
+   "en": "Is this seat available?",
+   "ko": "이 자리 비어 있나요?"
+  },
+  {
+   "word": "invaluable",
+   "pos": "형용사",
+   "meaning": "매우 귀중한",
+   "en": "Your advice was invaluable to me.",
+   "ko": "당신의 조언은 저에게 정말 귀중했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 심사위원들이 점수판을 들고 요리를 평가하는 장면",
+ "imageCaption": "요리 대회에서 심사위원이 맛을 보고 점수를 매기는 모습을 떠올려 보세요.",
+ "movieLineEn": "The judges will evaluate every move you make.",
+ "movieLineKo": "심사위원들이 네 모든 동작을 평가할 거야.",
+ "storyTitle": "할머니의 감정 쇼",
+ "story": "TV 감정 쇼에서 전문가가 할머니의 낡은 그릇을 evaluate(평가하다)했어요. '이건 invaluable(매우 귀중한) 보물입니다!' 할머니는 그 value(가치)가 1억이라는 evaluation(평가)에 깜짝 놀랐죠. 그런데 할머니 왈, '그거 우리 집 강아지 밥그릇인데?'"
+}

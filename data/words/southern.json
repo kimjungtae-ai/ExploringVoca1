@@ -1,0 +1,61 @@
+{
+ "word": "southern",
+ "pos": "형용사",
+ "phonetic": "[ˈsʌðərn]",
+ "meaning": "남쪽의, 남부의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "south",
+   "meaning": "남쪽 (south)",
+   "note": "고대 영어 sūþ에서 온 게르만계 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ern",
+   "meaning": "~쪽의 (방향 형용사)",
+   "note": "northern, eastern, western처럼 방향을 나타내요."
+  }
+ ],
+ "summary": "<strong>south</strong> (남쪽) + <strong>-ern</strong> (~쪽의) = <strong>'남쪽의, 남부의'</strong>입니다.",
+ "historyTitle": "해가 비추는 쪽, south?",
+ "historyBody": "south는 고대 영어 sūþ, 그리고 고대 영어 sūþerne(남쪽의)에서 왔어요. 게르만 조어 *sunþ-가 sun(해)과 관련 있다는 설이 있는데, 북반구에서 해가 남쪽 하늘에 뜨기 때문이라고 해요. 다만 이 연결은 학자들 사이에서 확실하지 않다고 봐요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "south",
+   "pos": "명사",
+   "meaning": "남쪽",
+   "en": "Birds fly south when winter comes.",
+   "ko": "겨울이 오면 새들은 남쪽으로 날아가요."
+  },
+  {
+   "word": "southerner",
+   "pos": "명사",
+   "meaning": "남부 사람",
+   "en": "As a southerner, he was not used to heavy snow.",
+   "ko": "남부 사람인 그는 폭설에 익숙하지 않았어요."
+  },
+  {
+   "word": "southward",
+   "pos": "부사",
+   "meaning": "남쪽으로",
+   "en": "The ship sailed southward along the coast.",
+   "ko": "배는 해안을 따라 남쪽으로 항해했어요."
+  },
+  {
+   "word": "southeast",
+   "pos": "명사",
+   "meaning": "남동쪽",
+   "en": "The storm is moving toward the southeast.",
+   "ko": "폭풍이 남동쪽으로 이동하고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도에서 아래쪽, 따뜻한 남쪽 바닷가 마을을 가리키는 장면",
+ "imageCaption": "겨울에 따뜻한 남쪽 지방으로 날아가는 철새들을 떠올려 보세요.",
+ "movieLineEn": "Winter is coming, so we march to the southern lands!",
+ "movieLineKo": "겨울이 오고 있으니 남쪽 땅으로 진군한다!",
+ "storyTitle": "길치 펭귄의 남행",
+ "story": "펭귄 뽀는 따뜻한 곳을 찾아 southern(남쪽의) 나라로 가기로 했어요. 친구들이 \"south(남쪽)로 쭉 가!\"라고 알려 줬죠. 뽀는 열심히 southward(남쪽으로) 헤엄쳤어요. 길에서 만난 southerner(남부 사람) 거북이가 물었어요. \"어디 가니?\" \"따뜻한 곳!\" \"얘야, 넌 남극에서 왔잖아. 더 남쪽은 없어!\""
+}

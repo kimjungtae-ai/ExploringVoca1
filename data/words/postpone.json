@@ -1,0 +1,68 @@
+{
+ "word": "postpone",
+ "pos": "동사",
+ "phonetic": "[poʊstˈpoʊn]",
+ "meaning": "미루다, 연기하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "post-",
+   "meaning": "뒤에, 후에 (after)",
+   "note": "라틴어 post(뒤에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pone",
+   "meaning": "놓다, 두다 (put)",
+   "note": "라틴어 ponere(놓다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>post-</strong> (뒤에) + <strong>pone</strong> (놓다) = 뒤로 놓다, 곧 <strong>'미루다, 연기하다'</strong>예요.",
+ "historyTitle": "일정을 뒤에 놓던 로마인들",
+ "historyBody": "postpone은 라틴어 postponere(뒤에 놓다, 덜 중요하게 여기다)에서 1500년대 영어에 들어왔어요. post(뒤에)와 ponere(놓다)가 합쳐진 말이에요. ponere는 영어에 아주 많은 자손을 남겨서 position, component, opponent 등에 그 흔적이 남아 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 자리, 입장",
+   "en": "Please tell me your position on this issue.",
+   "ko": "이 문제에 대한 너의 입장을 말해 줘."
+  },
+  {
+   "word": "component",
+   "pos": "명사",
+   "meaning": "구성 요소, 부품",
+   "en": "Trust is an important component of friendship.",
+   "ko": "신뢰는 우정의 중요한 구성 요소예요."
+  },
+  {
+   "word": "opponent",
+   "pos": "명사",
+   "meaning": "상대, 적수",
+   "en": "She shook hands with her opponent after the match.",
+   "ko": "그녀는 경기 후 상대 선수와 악수했어요."
+  },
+  {
+   "word": "deposit",
+   "pos": "동사/명사",
+   "meaning": "맡기다, 예금하다 / 예금, 보증금",
+   "en": "I deposited my allowance in the bank.",
+   "ko": "나는 용돈을 은행에 예금했어요."
+  },
+  {
+   "word": "postwar",
+   "pos": "형용사",
+   "meaning": "전후의",
+   "en": "Many families moved to cities in the postwar period.",
+   "ko": "전후 시기에 많은 가족이 도시로 이사했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력에 적힌 약속을 지우고 다음 주로 옮기는 모습",
+ "imageCaption": "달력의 약속에 줄을 긋고 화살표로 다음 주에 옮겨 적는 장면을 떠올려 보세요.",
+ "movieLineEn": "Let's postpone the wedding. The groom is stuck in a tree.",
+ "movieLineKo": "결혼식을 미루자. 신랑이 나무에 걸렸어.",
+ "storyTitle": "미루기 대장",
+ "story": "미루기 대장 준이는 숙제를 늘 postpone(미루다)해요. 이유는 다양했죠. \"내 position(위치)이 침대라서요.\" \"숙제의 component(구성 요소)가 너무 많아요.\" 결국 엄마가 opponent(상대)가 되어 잔소리 대결! 준이는 처음으로 졌어요. 그런데 숙제를 다 하고 보니 내일이 방학이었대요."
+}

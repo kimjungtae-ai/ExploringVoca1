@@ -1,0 +1,48 @@
+{
+ "word": "horn",
+ "pos": "명사",
+ "phonetic": "[hɔːrn]",
+ "meaning": "뿔, 경적, 호른 (악기)",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "horn (古 horn)",
+   "meaning": "뿔 (horn)",
+   "note": "고대 영어 horn에서 온 게르만계 단어예요. 라틴어 cornu(뿔)와 먼 친척이에요."
+  }
+ ],
+ "summary": "<strong>horn</strong>은 고대 영어 horn(<strong>뿔</strong>)에서 와서, 뿔로 만든 악기와 <strong>'경적'</strong>까지 뜻하게 되었어요.",
+ "historyTitle": "동물 뿔에서 자동차 경적까지",
+ "historyBody": "horn은 고대 영어부터 '동물의 뿔'을 뜻했고, 옛사람들이 뿔로 나팔을 만들어 불었기 때문에 '나팔, 경적'이라는 뜻도 생겼어요. '머리, 뿔'을 뜻하는 인도유럽 조어 *ker-에서 왔고, 라틴어 cornu(뿔)와 친척이라 unicorn, corner와도 먼 사촌이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "unicorn",
+   "pos": "명사",
+   "meaning": "유니콘, 일각수",
+   "en": "The little girl drew a unicorn with a rainbow tail.",
+   "ko": "그 어린 소녀는 무지개 꼬리를 가진 유니콘을 그렸어."
+  },
+  {
+   "word": "corner",
+   "pos": "명사",
+   "meaning": "모퉁이, 구석",
+   "en": "There is a bakery on the corner of the street.",
+   "ko": "그 거리 모퉁이에 빵집이 있어."
+  },
+  {
+   "word": "hornet",
+   "pos": "명사",
+   "meaning": "말벌",
+   "en": "A hornet flew into the classroom and everyone screamed.",
+   "ko": "말벌 한 마리가 교실로 날아들어 모두가 비명을 질렀어."
+  }
+ ],
+ "imageSense": "대표 의미: 뿔 달린 소와, 빵빵 울리는 자동차 경적",
+ "imageCaption": "황소 머리의 뾰족한 뿔과, 뿔 모양 나팔에서 '뿌우' 소리가 나는 모습을 떠올려 보세요.",
+ "movieLineEn": "Blow the horn! Let them know we're here!",
+ "movieLineKo": "뿔나팔을 불어! 우리가 여기 있다는 걸 알려!",
+ "storyTitle": "뿔 없는 유니콘",
+ "story": "유니콘은 자기 horn(뿔)이 너무 작아 고민이었어요. corner(구석)에 숨어 울고 있는데 hornet(말벌)이 다가와 말했죠. '내가 쏘면 이마가 부어서 뿔처럼 보일 거야!' 유니콘은 고민 끝에 거절했어요. 대신 자동차 horn(경적)을 이마에 달았더니, 숲에서 제일 시끄러운 unicorn(유니콘)이 되었대요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "setting",
+ "pos": "명사",
+ "phonetic": "[ˈsetɪŋ]",
+ "meaning": "배경, 환경, 설정, (해가) 짐",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "set",
+   "meaning": "놓다, 설정하다 (set)",
+   "note": "고대 영어 'settan(앉히다, 놓다)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작이나 그 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>set</strong> (놓다) + <strong>-ing</strong> (~하는 것) = 무언가가 놓여 있는 곳이나 정해 둔 상태, 즉 <strong>'배경, 설정'</strong>이에요.",
+ "historyTitle": "보석을 박아 넣는 자리에서 이야기의 배경으로",
+ "historyBody": "setting은 원래 '놓는 일'이었고, 반지에 보석을 박아 넣는 받침도 setting이라 불렀어요. 여기서 '이야기나 사건이 놓인 장소와 시간', 즉 '배경'이라는 뜻이 생겼어요. 요즘은 휴대폰의 '설정'도 setting이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "set",
+   "pos": "동사",
+   "meaning": "놓다, 설정하다",
+   "en": "I set my alarm for seven o'clock.",
+   "ko": "나는 알람을 7시로 맞춰 두었어요."
+  },
+  {
+   "word": "settle",
+   "pos": "동사",
+   "meaning": "정착하다, 해결하다",
+   "en": "Many immigrants settled in this city.",
+   "ko": "많은 이민자들이 이 도시에 정착했어요."
+  },
+  {
+   "word": "upset",
+   "pos": "형용사",
+   "meaning": "속상한",
+   "en": "He looked upset after the game.",
+   "ko": "그는 경기 후 속상해 보였어요."
+  },
+  {
+   "word": "outset",
+   "pos": "명사",
+   "meaning": "시작, 처음",
+   "en": "I told you the rules at the outset.",
+   "ko": "나는 처음부터 너에게 규칙을 말했어."
+  },
+  {
+   "word": "sunset",
+   "pos": "명사",
+   "meaning": "일몰",
+   "en": "The sky turned orange at sunset.",
+   "ko": "해 질 녘에 하늘이 주황색으로 변했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 연극 무대 위에 숲과 성이 배경으로 꾸며진 장면",
+ "imageCaption": "이야기가 펼쳐지는 무대, 즉 언제 어디서 일어나는지를 떠올려 보세요.",
+ "movieLineEn": "Change the setting to night mode. My eyes hurt!",
+ "movieLineKo": "설정을 야간 모드로 바꿔. 눈 아파!",
+ "storyTitle": "소설 배경의 반전",
+ "story": "국어 시간에 소설의 setting(배경)을 쓰라고 하셨어요. 나는 sunset(일몰)이 아름다운 무인도로 set(정하다)했죠. 주인공이 섬에 settle(정착하다)하는 감동 이야기였는데, 선생님은 upset(속상한) 얼굴로 말씀하셨어요. \"영어 과제랑 바뀌었잖니.\""
+}

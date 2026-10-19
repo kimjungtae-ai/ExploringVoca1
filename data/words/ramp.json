@@ -1,0 +1,41 @@
+{
+ "word": "ramp",
+ "pos": "명사",
+ "phonetic": "[ræmp]",
+ "meaning": "경사로, 비탈길, (고속도로) 진입로",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ramp (← 프랑스어 rampe)",
+   "meaning": "기어오르는 곳, 경사 (slope)",
+   "note": "프랑스어 ramper(기어오르다)에서 왔고, 그 뿌리는 게르만 계열(프랑크어)로 추정돼요."
+  }
+ ],
+ "summary": "<strong>ramp</strong>는 프랑스어 <strong>ramper</strong> (기어오르다)에서 와서 '기어오르는 길'이라는 뜻의 <strong>'경사로'</strong>가 되었어요.",
+ "historyTitle": "기어오르는 길",
+ "historyBody": "ramp는 18세기에 프랑스어 rampe(경사로)에서 영어로 들어왔어요. rampe는 '기어오르다'라는 뜻의 동사 ramper에서 나왔고, 이 동사는 프랑크어에서 왔다고 추정돼요. 기원이 완전히 확실하지는 않아서 주의가 필요해요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "rampant",
+   "pos": "형용사",
+   "meaning": "만연한, 걷잡을 수 없는",
+   "en": "Fake news is rampant on social media.",
+   "ko": "소셜 미디어에는 가짜 뉴스가 만연해요."
+  },
+  {
+   "word": "rampage",
+   "pos": "명사",
+   "meaning": "광란, 난동",
+   "en": "The angry elephant went on a rampage in the village.",
+   "ko": "화난 코끼리가 마을에서 난동을 부렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 휠체어가 건물 입구의 완만한 경사로를 오르는 장면",
+ "imageCaption": "계단 대신 비스듬히 올라가는 매끄러운 길을 떠올려 보세요.",
+ "movieLineEn": "Take the ramp! We'll lose them on the highway!",
+ "movieLineKo": "진입로로 들어가! 고속도로에서 따돌릴 거야!",
+ "storyTitle": "스케이트보드 고양이",
+ "story": "공원에 새 ramp(경사로)가 생겼어요. 동네 고양이가 그곳에서 스케이트보드를 타자 소문이 rampant(만연한) 상태가 되었죠. 구경꾼들이 몰려와 거의 rampage(광란) 수준이었어요. 그런데 알고 보니 고양이는 보드 위에서 낮잠 nap(낮잠)을 자다 미끄러진 거였답니다!"
+}

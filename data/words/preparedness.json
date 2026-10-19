@@ -1,0 +1,80 @@
+{
+ "word": "preparedness",
+ "pos": "명사",
+ "phonetic": "[prɪˈperdnəs]",
+ "meaning": "대비, 준비가 되어 있음",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "미리 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "par",
+   "meaning": "갖추다, 준비하다 (make ready)",
+   "note": "라틴어 parare(준비하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "prepared(준비된)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~한 상태 (명사)",
+   "note": "형용사를 상태 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>prepared</strong> (준비된) + <strong>-ness</strong> (상태) = 준비가 되어 있는 상태, 곧 <strong>'대비'</strong>예요.",
+ "historyTitle": "라틴어 뿌리에 영어 꼬리를 달다",
+ "historyBody": "prepare는 라틴어 praeparare(미리 갖추다)에서 프랑스어를 거쳐 1400년대 영어에 들어왔어요. preparedness는 여기에 순수 영어 꼬리 -ness를 붙여 1500년대 말에 만들어졌어요. 오늘날에는 disaster preparedness(재난 대비)처럼 위기에 대비한 상태를 말할 때 자주 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "We prepared a surprise party for our teacher.",
+   "ko": "우리는 선생님을 위해 깜짝 파티를 준비했어요."
+  },
+  {
+   "word": "prepared",
+   "pos": "형용사",
+   "meaning": "준비된",
+   "en": "Are you prepared for tomorrow's test?",
+   "ko": "내일 시험 준비는 됐니?"
+  },
+  {
+   "word": "preparation",
+   "pos": "명사",
+   "meaning": "준비",
+   "en": "The trip needs a lot of preparation.",
+   "ko": "그 여행은 준비할 게 많아요."
+  },
+  {
+   "word": "repair",
+   "pos": "동사/명사",
+   "meaning": "수리하다 / 수리",
+   "en": "My dad repaired my broken bike.",
+   "ko": "아빠가 고장 난 내 자전거를 고쳐 주셨어요."
+  },
+  {
+   "word": "separate",
+   "pos": "동사/형용사",
+   "meaning": "분리하다 / 분리된",
+   "en": "Please separate plastic from paper.",
+   "ko": "플라스틱과 종이를 분리해 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 비상 가방에 손전등, 물, 구급약을 챙겨 둔 모습",
+ "imageCaption": "지진 대비용 비상 가방이 현관 옆에 준비되어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Earthquake preparedness saves lives. Pack your bag now.",
+ "movieLineKo": "지진 대비는 생명을 살려. 지금 가방을 싸.",
+ "storyTitle": "대비왕 삼촌",
+ "story": "삼촌은 preparedness(대비)의 왕이에요. 지진에 대비해 비상 가방을 prepare(준비하다)하고, 정전에 대비해 손전등도 여러 개 준비했죠. 언제나 prepared(준비된) 상태였어요. 그런데 진짜 위기는 엉뚱한 데서 왔어요. 비상 가방이 너무 많아 현관문이 안 열린 거예요! 결국 문부터 repair(수리하다)했대요."
+}

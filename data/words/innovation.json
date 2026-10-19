@@ -1,0 +1,74 @@
+{
+ "word": "innovation",
+ "pos": "명사",
+ "phonetic": "[ˌɪnəˈveɪʃən]",
+ "meaning": "혁신, 새로운 방법(제품)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안쪽에 새것을 들인다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nov",
+   "meaning": "새로운 (new)",
+   "note": "라틴어 novus(새로운)에서 왔어요. 영어 new와 먼 친척이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>nov</strong> (새로운) + <strong>-ation</strong> (~것) = '안에 새로움을 들이는 것'이라는 뜻에서 <strong>'혁신'</strong>이 되었습니다.",
+ "historyTitle": "한때는 나쁜 말이었던 혁신",
+ "historyBody": "라틴어 'innovare'는 '새롭게 하다'라는 뜻이에요. 그런데 16~17세기 영국에서는 innovation이 전통을 어지럽히는 위험한 변화라는 부정적인 뜻으로 많이 쓰였어요. 근대 이후 과학과 산업이 발전하면서 지금처럼 긍정적인 '혁신'의 의미가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "novel",
+   "pos": "명사 / 형용사",
+   "meaning": "소설 / 새로운, 참신한",
+   "en": "She wrote a novel about time travel.",
+   "ko": "그녀는 시간 여행에 관한 소설을 썼어요."
+  },
+  {
+   "word": "novelty",
+   "pos": "명사",
+   "meaning": "새로움, 참신함",
+   "en": "The novelty of the new phone soon wore off.",
+   "ko": "새 휴대폰의 신선함은 곧 사라졌어요."
+  },
+  {
+   "word": "novice",
+   "pos": "명사",
+   "meaning": "초보자",
+   "en": "I'm a novice at playing the guitar.",
+   "ko": "나는 기타 초보자예요."
+  },
+  {
+   "word": "renovate",
+   "pos": "동사",
+   "meaning": "보수하다, 새롭게 하다",
+   "en": "They renovated the old house.",
+   "ko": "그들은 낡은 집을 보수했어요."
+  },
+  {
+   "word": "innovative",
+   "pos": "형용사",
+   "meaning": "혁신적인",
+   "en": "The company is known for its innovative products.",
+   "ko": "그 회사는 혁신적인 제품으로 유명해요."
+  }
+ ],
+ "imageSense": "대표 의미: 낡은 전화기가 번쩍 빛나며 스마트폰으로 바뀌는 장면",
+ "imageCaption": "오래된 방식 안에 완전히 새로운 아이디어를 쏙 넣는 모습을 떠올려 보세요. 그게 innovation이에요.",
+ "movieLineEn": "This isn't just a machine. It's an innovation!",
+ "movieLineKo": "이건 그냥 기계가 아니야. 혁신이라고!",
+ "storyTitle": "할머니의 혁신 발명품",
+ "story": "발명 novice(초보자)인 할머니가 innovative(혁신적인) 발명품을 만들었어요. 바로 자동으로 배추를 절이는 기계! 사람들은 그 novelty(새로움)에 놀라며 최고의 innovation(혁신)이라고 칭찬했죠. 그런데 작동해 보니 배추 대신 할아버지가 소금물에 빠졌대요."
+}

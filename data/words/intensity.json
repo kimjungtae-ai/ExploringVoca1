@@ -1,0 +1,81 @@
+{
+ "word": "intensity",
+ "pos": "명사",
+ "phonetic": "[ɪnˈtensəti]",
+ "meaning": "강도, 강렬함, 세기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~쪽으로 (toward)",
+   "note": "한쪽을 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tens",
+   "meaning": "팽팽하게 당긴 (stretched)",
+   "note": "라틴어 tendere(당기다)의 과거분사 tensus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 상태 (명사)",
+   "note": "형용사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~쪽으로) + <strong>tens</strong> (팽팽한) + <strong>-ity</strong> (상태) = '팽팽하게 당겨진 정도'라는 뜻에서 <strong>'강도, 세기'</strong>가 되었습니다.",
+ "historyTitle": "얼마나 팽팽한가를 재는 말",
+ "historyBody": "intense에 상태를 나타내는 -ity가 붙은 말로, 17세기 무렵부터 쓰였어요. 과학에서는 빛, 소리, 지진의 세기를 나타내는 용어로 자주 등장하죠. 수능 지문에서도 운동 강도나 감정의 세기를 말할 때 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "intense",
+   "pos": "형용사",
+   "meaning": "강렬한, 극심한",
+   "en": "The heat was intense in July.",
+   "ko": "7월의 더위는 극심했어요."
+  },
+  {
+   "word": "intensive",
+   "pos": "형용사",
+   "meaning": "집중적인, 집약적인",
+   "en": "She took an intensive English course.",
+   "ko": "그녀는 집중 영어 강좌를 들었어요."
+  },
+  {
+   "word": "intensify",
+   "pos": "동사",
+   "meaning": "강화하다, 심해지다",
+   "en": "The storm intensified during the night.",
+   "ko": "폭풍이 밤사이 더 심해졌어요."
+  },
+  {
+   "word": "intend",
+   "pos": "동사",
+   "meaning": "의도하다",
+   "en": "I intend to study abroad next year.",
+   "ko": "나는 내년에 유학 갈 작정이에요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장",
+   "en": "The tension in the room was high.",
+   "ko": "방 안의 긴장감이 높았어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 늘이다",
+   "en": "Can you extend your stay for a day?",
+   "ko": "하루 더 머무를 수 있나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 러닝머신 속도를 최고로 올리고 땀 흘리는 사람",
+ "imageCaption": "고무줄을 얼마나 세게 당겼는지 눈금으로 재는 모습을 떠올려 보세요. 그 정도가 intensity예요.",
+ "movieLineEn": "Feel the intensity of this moment!",
+ "movieLineKo": "이 순간의 강렬함을 느껴 봐!",
+ "storyTitle": "운동 강도의 비밀",
+ "story": "체육 선생님은 운동 intensity(강도)를 높이겠다고 하셨어요. 학생들은 intense(강렬한) 훈련을 예상하며 tension(긴장)했죠. 이 intensive(집중적인) 수업의 첫 동작은… 눈 깜빡이기 100번! 모두 웃었지만 다음 날 눈이 아파 칠판을 못 봤대요."
+}

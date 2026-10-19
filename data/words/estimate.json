@@ -1,0 +1,68 @@
+{
+ "word": "estimate",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈestɪmeɪt] / [ˈestɪmət]",
+ "meaning": "추정하다, 평가하다 / 추정(치), 견적",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "estim",
+   "meaning": "가치를 매기다 (value)",
+   "note": "라틴어 aestimare(값을 매기다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사형)",
+   "note": "라틴어 동사에서 온 영어 동사 어미예요."
+  }
+ ],
+ "summary": "<strong>estim</strong> (가치를 매기다) + <strong>-ate</strong> (동사) = '값이나 양을 어림잡아 매기다'에서 <strong>'추정하다, 평가하다'</strong>가 되었어요.",
+ "historyTitle": "값을 매기던 로마의 말",
+ "historyBody": "estimate는 라틴어 'aestimare(값을 매기다, 평가하다)'에서 왔어요. 이 라틴어의 더 깊은 기원은 확실히 밝혀지지 않았어요. 같은 말이 고대 프랑스어를 거치며 esteem(존경하다)과 aim(겨누다)으로도 변했다는 점이 재미있어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "estimation",
+   "pos": "명사",
+   "meaning": "평가, 판단, 추정",
+   "en": "In my estimation, the trip will take five hours.",
+   "ko": "내 판단으로는 그 여행은 다섯 시간이 걸릴 거예요."
+  },
+  {
+   "word": "overestimate",
+   "pos": "동사",
+   "meaning": "과대평가하다",
+   "en": "Don't overestimate how much time you have.",
+   "ko": "네가 가진 시간을 과대평가하지 마."
+  },
+  {
+   "word": "underestimate",
+   "pos": "동사",
+   "meaning": "과소평가하다",
+   "en": "Never underestimate the power of a good habit.",
+   "ko": "좋은 습관의 힘을 절대 과소평가하지 마세요."
+  },
+  {
+   "word": "esteem",
+   "pos": "명사 / 동사",
+   "meaning": "존경, 자부심 / 존경하다",
+   "en": "Good grades can boost a student's self-esteem.",
+   "ko": "좋은 성적은 학생의 자존감을 높여 줄 수 있어요."
+  },
+  {
+   "word": "aim",
+   "pos": "명사 / 동사",
+   "meaning": "목표 / 겨누다, 목표로 하다",
+   "en": "Our aim is to finish the project by Friday.",
+   "ko": "우리 목표는 금요일까지 프로젝트를 끝내는 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 병 속 사탕이 몇 개인지 눈으로 어림잡는 장면",
+ "imageCaption": "유리병 속 사탕을 하나하나 세지 않고 '대략 200개쯤?' 하고 짐작하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I estimate we have ten minutes before they find us.",
+ "movieLineKo": "그들이 우리를 찾아내기까지 대략 10분 남은 것 같아.",
+ "storyTitle": "사탕 개수 맞히기 대회",
+ "story": "사탕 병 속 개수를 맞히는 대회! 도윤이는 300개라고 estimate(추정하다)했어요. 친구들은 그를 underestimate(과소평가하다)했지만 aim(목표)은 우승이었죠. 결과는 정확히 300개! 모두의 esteem(존경)을 받던 순간, 도윤이가 고백했어요. '사실 어제 내가 채웠어.'"
+}

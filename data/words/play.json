@@ -1,0 +1,62 @@
+{
+ "word": "play",
+ "pos": "동사 / 명사",
+ "phonetic": "[pleɪ]",
+ "meaning": "놀다, (경기를) 하다, 연주하다, 연기하다 / 연극, 놀이",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "play",
+   "meaning": "놀다, 움직이다 (play)",
+   "note": "고대 영어 plegan(재빨리 움직이다, 운동하다)에서 왔고 그 이전 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>play</strong> (활발히 움직이다) = 몸을 즐겁게 움직이는 것, 곧 <strong>'놀다, 경기하다, 연주하다, 연극'</strong>이에요.",
+ "historyTitle": "고대 영어의 '활발한 움직임'",
+ "historyBody": "play는 고대 영어 plegan, plegian(운동하다, 재빨리 움직이다)에서 왔어요. 다른 게르만어에는 비슷한 짝이 거의 없어서 더 오래된 기원은 확실하지 않아요. '움직임'이라는 뜻에서 놀이, 경기, 악기 연주, 무대 연기까지 뜻이 넓어졌답니다. display는 철자가 비슷하지만 전혀 다른 뿌리(접다)라서 친척이 아니에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "player",
+   "pos": "명사",
+   "meaning": "선수, 연주자",
+   "en": "He is the best player on our soccer team.",
+   "ko": "그는 우리 축구팀 최고의 선수예요."
+  },
+  {
+   "word": "playful",
+   "pos": "형용사",
+   "meaning": "장난기 많은, 놀기 좋아하는",
+   "en": "The playful puppy chased its own tail.",
+   "ko": "장난기 많은 강아지가 자기 꼬리를 쫓아다녔어요."
+  },
+  {
+   "word": "playground",
+   "pos": "명사",
+   "meaning": "놀이터, 운동장",
+   "en": "Children were laughing in the playground.",
+   "ko": "아이들이 놀이터에서 웃고 있었어요."
+  },
+  {
+   "word": "playwright",
+   "pos": "명사",
+   "meaning": "극작가",
+   "en": "Shakespeare was a famous English playwright.",
+   "ko": "셰익스피어는 유명한 영국 극작가였어요."
+  },
+  {
+   "word": "replay",
+   "pos": "동사/명사",
+   "meaning": "재생하다 / 재방송, 다시 보기",
+   "en": "They watched the replay of the final goal.",
+   "ko": "그들은 결승골 다시 보기를 봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 놀이터에서 신나게 뛰노는 아이들",
+ "imageCaption": "놀이터에서 웃으며 뛰어노는 아이들, 무대 위 배우, 기타를 치는 사람을 한꺼번에 떠올려 보세요.",
+ "movieLineEn": "Let's play a game. If you lose, you wash the dishes.",
+ "movieLineKo": "게임 하나 하자. 지는 사람이 설거지하는 거야.",
+ "storyTitle": "극작가의 아들",
+ "story": "유명한 playwright(극작가) 아빠는 아들에게 play(연극) 대본을 쓰게 했어요. 하지만 playful(장난기 많은) 아들은 playground(놀이터)에서 놀기만 했죠. 마감 날 아들이 낸 대본은 '아빠가 놀이터에서 노는 이야기'. 공연은 대성공이었고, 아빠는 그날 처음으로 player(배우)로 무대에 섰대요."
+}

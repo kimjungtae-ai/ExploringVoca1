@@ -1,0 +1,68 @@
+{
+ "word": "habitat",
+ "pos": "명사",
+ "phonetic": "[ˈhæbɪtæt]",
+ "meaning": "서식지, 거주지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "habit (← habitare)",
+   "meaning": "살다, 거주하다 (dwell)",
+   "note": "라틴어 habitare(살다)에서 왔고, 이 말은 habere(가지다, 머무르다)에서 나왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-at",
+   "meaning": "(라틴어) ~이 산다",
+   "note": "라틴어로 '그것이 산다'라는 3인칭 동사 끝이에요."
+  }
+ ],
+ "summary": "<strong>habit</strong> (살다) + <strong>-at</strong> (그것이 ~하다) = '그것이 사는 곳'이라는 뜻에서 <strong>'서식지'</strong>가 되었어요.",
+ "historyTitle": "옛날 식물도감의 한 마디",
+ "historyBody": "habitat은 라틴어로 '그것이 산다(it dwells)'라는 뜻의 동사형이에요. 옛 라틴어 동식물 책에서 각 생물 설명마다 'habitat ~(이 생물은 ~에 산다)'라고 적던 것이 명사로 굳어졌어요. 뿌리 habere(가지다, 머무르다)에서는 habit, inhabit, exhibit도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inhabit",
+   "pos": "동사",
+   "meaning": "~에 살다, 거주하다",
+   "en": "Many rare birds inhabit this island.",
+   "ko": "많은 희귀 새들이 이 섬에 살아."
+  },
+  {
+   "word": "inhabitant",
+   "pos": "명사",
+   "meaning": "주민, 거주자",
+   "en": "The village has fewer than 200 inhabitants.",
+   "ko": "그 마을의 주민은 200명도 안 돼."
+  },
+  {
+   "word": "habit",
+   "pos": "명사",
+   "meaning": "습관",
+   "en": "Reading before bed is a good habit.",
+   "ko": "자기 전에 책을 읽는 건 좋은 습관이야."
+  },
+  {
+   "word": "exhibit",
+   "pos": "동사 / 명사",
+   "meaning": "전시하다 / 전시품",
+   "en": "The museum will exhibit paintings by young artists.",
+   "ko": "그 박물관은 젊은 화가들의 그림을 전시할 거야."
+  },
+  {
+   "word": "prohibit",
+   "pos": "동사",
+   "meaning": "금지하다",
+   "en": "Smoking is prohibited in all public buildings.",
+   "ko": "모든 공공건물에서 흡연은 금지되어 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 북극곰이 얼음 위에서, 물고기가 산호초에서 살아가는 장면",
+ "imageCaption": "각 동물이 '여기가 내 집이야!' 하고 사는 자연 속 보금자리를 떠올려 보세요.",
+ "movieLineEn": "If we destroy their habitat, they'll have nowhere to go.",
+ "movieLineKo": "우리가 그들의 서식지를 파괴하면 그들은 갈 곳이 없어.",
+ "storyTitle": "이사 가고 싶은 펭귄",
+ "story": "남극의 펭귄은 추운 habitat(서식지)이 지겨웠어요. 따뜻한 섬의 inhabitant(주민)가 되고 싶었죠. 하지만 '펭귄 입국 prohibit(금지하다)!' 표지판이 있었어요. 할 수 없이 동물원에서 exhibit(전시하다)되는 쪽을 택했어요. 그런데 배정된 방은 에어컨이 빵빵한 '남극관'이었답니다!"
+}

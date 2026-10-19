@@ -1,0 +1,62 @@
+{
+ "word": "guard",
+ "pos": "명사 / 동사",
+ "phonetic": "[ɡɑːrd]",
+ "meaning": "경비원, 보호 / 지키다, 보호하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "guard (← garder)",
+   "meaning": "지켜보다, 지키다 (watch, protect)",
+   "note": "프랑크어 *wardon이 고대 프랑스어 garder가 되었어요. ward와 쌍둥이 단어예요."
+  }
+ ],
+ "summary": "<strong>guard</strong>는 고대 프랑스어 garder(<strong>지켜보다</strong>)에서 와서 <strong>'지키다, 경비원'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "ward와 guard, 같은 뿌리의 두 얼굴",
+ "historyBody": "guard는 고대 프랑스어 garder(지켜보다, 지키다)에서 왔고, 그 뿌리는 게르만계 프랑크어 *wardon이에요. 영어에는 같은 뿌리가 직접 들어온 ward(병동, 보호)도 있어요. 프랑스어에서 w가 gu로 바뀌는 바람에 guard와 ward라는 쌍둥이가 생긴 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "guardian",
+   "pos": "명사",
+   "meaning": "보호자, 수호자",
+   "en": "Please get your guardian to sign this form.",
+   "ko": "보호자에게 이 양식에 서명을 받아 오세요."
+  },
+  {
+   "word": "safeguard",
+   "pos": "동사 / 명사",
+   "meaning": "보호하다 / 안전장치",
+   "en": "We must safeguard our personal information online.",
+   "ko": "우리는 온라인에서 개인 정보를 보호해야 해."
+  },
+  {
+   "word": "regard",
+   "pos": "동사 / 명사",
+   "meaning": "~으로 여기다 / 존경, 관심",
+   "en": "Many people regard him as a great leader.",
+   "ko": "많은 사람들이 그를 훌륭한 지도자로 여겨."
+  },
+  {
+   "word": "reward",
+   "pos": "명사 / 동사",
+   "meaning": "보상 / 보상하다",
+   "en": "The reward for hard work is often success.",
+   "ko": "노력에 대한 보상은 흔히 성공이야."
+  },
+  {
+   "word": "ward",
+   "pos": "명사",
+   "meaning": "병동, 구(區)",
+   "en": "My grandmother is staying in the children's ward as a volunteer.",
+   "ko": "할머니는 소아 병동에서 자원봉사를 하고 계셔."
+  }
+ ],
+ "imageSense": "대표 의미: 궁궐 문 앞에서 경비병이 꼼짝 않고 지키는 장면",
+ "imageCaption": "창을 들고 눈을 부릅뜬 채 성문을 지키는 경비병을 떠올려 보세요.",
+ "movieLineEn": "Stay on guard. They could be anywhere.",
+ "movieLineKo": "경계를 늦추지 마. 그들이 어디에든 있을 수 있어.",
+ "storyTitle": "보물을 지킨 경비견",
+ "story": "경비견 바둑이는 가족의 보물을 guard(지키다)했어요. 주인을 guardian(보호자)처럼 여기며 집을 safeguard(보호하다)했죠. 사람들은 바둑이를 영웅으로 regard(여기다)했어요. reward(보상)로 받은 뼈다귀를 보물 상자에 넣으려던 순간, 상자 안에 이미 뼈다귀가 가득! 그 보물은 바둑이 거였대요."
+}

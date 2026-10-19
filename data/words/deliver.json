@@ -1,0 +1,61 @@
+{
+ "word": "deliver",
+ "pos": "동사",
+ "phonetic": "[dɪˈlɪvər]",
+ "meaning": "배달하다, 전달하다, (연설을) 하다, 출산하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져, 벗어나 (away, off)",
+   "note": "무언가에서 떼어 낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "liver",
+   "meaning": "자유롭게 하다 (free)",
+   "note": "라틴어 liberare(풀어 주다)로, liber(자유로운)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (벗어나) + <strong>liver</strong> (자유롭게 하다) = '손에서 풀어 넘겨주다'에서 <strong>'배달하다, 전달하다'</strong>가 되었어요.",
+ "historyTitle": "'풀어 주다'에서 '넘겨주다'로",
+ "historyBody": "deliver는 고대 프랑스어 delivrer를 거쳐 후기 라틴어 deliberare(풀어 주다, 해방하다)에서 왔어요. 처음엔 '구해 내다, 해방하다'라는 뜻이었고, 내 손에서 놓아 다른 사람에게 넘겨준다는 의미에서 '배달하다'가 되었어요. 간(liver)과는 관계없어요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "delivery",
+   "pos": "명사",
+   "meaning": "배달, 전달",
+   "en": "The pizza delivery took only twenty minutes.",
+   "ko": "피자 배달은 20분밖에 안 걸렸어요."
+  },
+  {
+   "word": "liberty",
+   "pos": "명사",
+   "meaning": "자유",
+   "en": "People fought hard for their liberty.",
+   "ko": "사람들은 자유를 위해 치열하게 싸웠어요."
+  },
+  {
+   "word": "liberate",
+   "pos": "동사",
+   "meaning": "해방하다",
+   "en": "The soldiers liberated the city from the enemy.",
+   "ko": "군인들이 적으로부터 그 도시를 해방했어요."
+  },
+  {
+   "word": "liberal",
+   "pos": "형용사",
+   "meaning": "자유주의의, 너그러운",
+   "en": "My parents are quite liberal about my hairstyle.",
+   "ko": "부모님은 내 머리 스타일에 꽤 너그러우셔."
+  }
+ ],
+ "imageSense": "대표 의미: 택배 기사님이 문 앞에 상자를 놓고 가는 장면",
+ "imageCaption": "초인종이 울리고 문 앞에 소포가 도착하는 순간을 떠올려 보세요.",
+ "movieLineEn": "I always deliver what I promise.",
+ "movieLineKo": "난 약속한 건 언제나 해내.",
+ "storyTitle": "자유를 배달하는 집배원",
+ "story": "집배원 펭귄은 편지를 deliver(배달하다)하는 게 일이었어요. 어느 날 '나를 liberate(해방하다)해 줘'라는 편지를 받았죠. 펭귄은 liberty(자유)를 주려고 상자를 열었는데, 그 안엔 배달 상자 안에 갇힌 고양이가! 오늘의 delivery(배달) 대성공!"
+}

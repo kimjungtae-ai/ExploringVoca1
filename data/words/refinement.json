@@ -1,0 +1,81 @@
+{
+ "word": "refinement",
+ "pos": "명사",
+ "phonetic": "[rɪˈfaɪnmənt]",
+ "meaning": "개선, 정제, 세련됨",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 손본다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fine",
+   "meaning": "순수한, 고운 (pure, fine)",
+   "note": "fine은 라틴어 finis(끝)에서 온 '끝까지 다듬은, 최고의'라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것, 결과 (명사)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>fine</strong> (곱게 다듬다) + <strong>-ment</strong> (명사) = 다시 곱게 다듬는 것, 즉 <strong>'개선, 정제, 세련됨'</strong>이에요.",
+ "historyTitle": "끝(finis)까지 다듬은 최고의 상태",
+ "historyBody": "fine은 라틴어 finis(끝, 한계)에서 와서 '끝까지 완성된, 순수한'이라는 뜻을 갖게 되었어요. 16세기쯤 refine은 금속이나 설탕을 '다시 걸러 순수하게 만들다'라는 뜻으로 쓰였어요. 이것이 생각이나 태도를 '세련되게 다듬다'로 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refine",
+   "pos": "동사",
+   "meaning": "정제하다, 다듬다",
+   "en": "She refined her essay several times before sending it.",
+   "ko": "그녀는 에세이를 보내기 전에 여러 번 다듬었어요."
+  },
+  {
+   "word": "fine",
+   "pos": "형용사",
+   "meaning": "좋은, 고운, 미세한",
+   "en": "Fine dust can be harmful to your lungs.",
+   "ko": "미세먼지는 폐에 해로울 수 있어요."
+  },
+  {
+   "word": "final",
+   "pos": "형용사",
+   "meaning": "마지막의, 최종의",
+   "en": "The final exam is next Monday.",
+   "ko": "기말고사는 다음 주 월요일이에요."
+  },
+  {
+   "word": "finish",
+   "pos": "동사",
+   "meaning": "끝내다",
+   "en": "I finished my homework before dinner.",
+   "ko": "나는 저녁 전에 숙제를 끝냈어요."
+  },
+  {
+   "word": "define",
+   "pos": "동사",
+   "meaning": "정의하다",
+   "en": "It is hard to define happiness in one word.",
+   "ko": "행복을 한 단어로 정의하기는 어려워요."
+  },
+  {
+   "word": "infinite",
+   "pos": "형용사",
+   "meaning": "무한한",
+   "en": "The universe seems almost infinite.",
+   "ko": "우주는 거의 무한해 보여요."
+  }
+ ],
+ "imageSense": "대표 의미: 거친 원석을 갈고 닦아 반짝이는 보석으로 만드는 장인",
+ "imageCaption": "울퉁불퉁한 돌을 장인이 몇 번이고 다시 갈아 빛나게 만드는 장면을 떠올려 보세요. 다시 다듬는 과정이 refinement예요.",
+ "movieLineEn": "With a little refinement, this plan could be perfect.",
+ "movieLineKo": "조금만 다듬으면 이 계획은 완벽해질 수 있어.",
+ "storyTitle": "라면 장인의 탄생",
+ "story": "형은 라면 레시피를 refine(다듬다)하기로 했어요. 물 양을 define(정의하다)하고 불 세기까지 재며 refinement(개선)를 거듭했죠. 드디어 final(최종의) 버전이 finish(완성되다)된 날, 온 가족이 맛을 봤어요. 결론은 하나였어요. '봉지 뒤에 적힌 대로 끓인 맛이네.'"
+}

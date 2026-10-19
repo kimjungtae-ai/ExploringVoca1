@@ -1,0 +1,87 @@
+{
+ "word": "accidentally",
+ "pos": "부사",
+ "phonetic": "[ˌæksɪˈdentəli]",
+ "meaning": "우연히, 실수로, 뜻하지 않게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~쪽으로, ~위에 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cid",
+   "meaning": "떨어지다 (fall)",
+   "note": "라틴어 cadere(떨어지다)의 변형이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 (것)",
+   "note": "동사를 명사나 형용사로 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al + -ly",
+   "meaning": "~의 / ~하게 (부사)",
+   "note": "형용사 accidental에 -ly가 붙어 부사가 되었어요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~위에) + <strong>cid</strong> (떨어지다) + <strong>-ent</strong> + <strong>-ally</strong> = '갑자기 위로 떨어져 일어난 일처럼'에서 <strong>'우연히, 실수로'</strong>가 되었어요.",
+ "historyTitle": "하늘에서 '뚝 떨어진' 일",
+ "historyBody": "라틴어 accidere는 ad(~에)와 cadere(떨어지다)가 합쳐져 '(일이) 닥치다, 일어나다'라는 뜻이었어요. 그 현재분사 accidens에서 accident(우연한 일, 사고)가 나왔고, 계획하지 않았는데 떨어지듯 생긴 일이라는 느낌이 지금도 남아 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accident",
+   "pos": "명사",
+   "meaning": "사고, 우연",
+   "en": "He broke his leg in a car accident.",
+   "ko": "그는 교통사고로 다리가 부러졌어요."
+  },
+  {
+   "word": "accidental",
+   "pos": "형용사",
+   "meaning": "우연한, 뜻하지 않은",
+   "en": "The discovery of the medicine was accidental.",
+   "ko": "그 약의 발견은 우연이었어요."
+  },
+  {
+   "word": "incident",
+   "pos": "명사",
+   "meaning": "사건, 일",
+   "en": "The police are looking into the incident.",
+   "ko": "경찰이 그 사건을 조사하고 있어요."
+  },
+  {
+   "word": "coincidence",
+   "pos": "명사",
+   "meaning": "우연의 일치",
+   "en": "What a coincidence to meet you here!",
+   "ko": "여기서 너를 만나다니 정말 우연이다!"
+  },
+  {
+   "word": "occasion",
+   "pos": "명사",
+   "meaning": "경우, 때, 행사",
+   "en": "A birthday is a special occasion for the family.",
+   "ko": "생일은 가족에게 특별한 날이에요."
+  },
+  {
+   "word": "decay",
+   "pos": "동사/명사",
+   "meaning": "썩다 / 부패",
+   "en": "Sugar can make your teeth decay.",
+   "ko": "설탕은 이를 썩게 할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 실수로 팔꿈치로 컵을 쳐서 우유를 쏟는 장면",
+ "imageCaption": "일부러 그런 게 아닌데 '툭' 떨어져 버린 컵을 떠올려 보세요. 그게 바로 accidentally예요.",
+ "movieLineEn": "Oops, I accidentally deleted the whole file!",
+ "movieLineKo": "이런, 실수로 파일 전체를 지워 버렸어!",
+ "storyTitle": "우연히 생긴 대발명",
+ "story": "박사는 accidentally(실수로) 케이크 반죽에 접착제를 쏟았어요. 정말 큰 accident(사고)였죠. 그런데 이 incident(사건) 덕분에 절대 부서지지 않는 케이크가 탄생! 같은 날 옆 연구소에서도 똑같은 실수가 일어났대요. 엄청난 coincidence(우연의 일치)였죠. 문제는, 아무도 그 케이크를 먹을 수 없었다는 거예요."
+}

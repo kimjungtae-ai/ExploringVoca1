@@ -1,0 +1,41 @@
+{
+ "word": "geek",
+ "pos": "명사",
+ "phonetic": "[ɡiːk]",
+ "meaning": "괴짜, (특정 분야의) 열성 팬, 마니아",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "geek",
+   "meaning": "바보 (fool)",
+   "note": "방언 geck(바보)에서 왔고, 저지 독일어·네덜란드어 gek(어리석은)과 관련 있어요."
+  }
+ ],
+ "summary": "<strong>geek</strong> (방언 geck, 바보) = '이상한 사람'이라는 뜻에서 출발해 <strong>'괴짜, 마니아'</strong>가 되었습니다.",
+ "historyTitle": "놀림말에서 자랑스러운 별명으로",
+ "historyBody": "geek은 '바보, 얼간이'를 뜻하던 영어 방언 geck에서 왔고, 네덜란드어 gek(어리석은)과 관련이 있어요. 20세기 초 미국에서는 서커스의 기괴한 공연자를 가리키기도 했어요. 지금은 컴퓨터나 과학 같은 분야에 푹 빠진 '마니아'라는 긍정적인 뜻으로도 많이 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "geeky",
+   "pos": "형용사",
+   "meaning": "괴짜 같은, 마니아스러운",
+   "en": "He wears geeky glasses, but he looks cool.",
+   "ko": "그는 괴짜 같은 안경을 쓰지만 멋져 보여요."
+  },
+  {
+   "word": "geekiness",
+   "pos": "명사",
+   "meaning": "괴짜다움",
+   "en": "Her geekiness about space made her a great science teacher.",
+   "ko": "우주에 대한 그녀의 열정 덕분에 그녀는 훌륭한 과학 선생님이 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 컴퓨터 부품에 둘러싸여 눈을 반짝이는 마니아",
+ "imageCaption": "방 안 가득 로봇 부품을 늘어놓고 밤새 조립하며 신나 하는 친구를 떠올려 보세요.",
+ "movieLineEn": "I'm not a nerd. I'm a computer geek, and proud of it!",
+ "movieLineKo": "난 범생이가 아니야. 난 컴퓨터 마니아고, 그게 자랑스러워!",
+ "storyTitle": "괴짜 친구의 반전",
+ "story": "반에서 geek(괴짜)라고 불리는 준수는 늘 geeky(마니아스러운) 로봇 이야기만 했어요. 친구들은 그의 geekiness(괴짜다움)를 놀렸죠. 그런데 축제 날 무대 조명이 고장 났어요! 준수가 순식간에 fix(고치다)했고, 공연은 대성공이었죠. 다음 날부터 반 친구들 모두 준수에게 로봇 수업을 offer(부탁하다)했대요."
+}

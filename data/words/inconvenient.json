@@ -1,0 +1,87 @@
+{
+ "word": "inconvenient",
+ "pos": "형용사",
+ "phonetic": "[ˌɪnkənˈviːniənt]",
+ "meaning": "불편한, 곤란한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "함께 모인다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ven",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ient",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>con-</strong> (함께) + <strong>ven</strong> (오다) + <strong>-ient</strong> = '나에게 딱 맞게 오지 않는'이라는 뜻에서 <strong>'불편한'</strong>이 되었습니다.",
+ "historyTitle": "때와 장소가 맞지 않을 때",
+ "historyBody": "라틴어 'convenire(함께 오다, 잘 맞다)'에서 convenient(편리한)가 나왔어요. 14세기 말 영어에 들어온 inconvenient는 처음엔 '어울리지 않는, 부적절한'이라는 뜻이었고, 나중에 '불편한'이라는 뜻이 중심이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inconvenience",
+   "pos": "명사",
+   "meaning": "불편",
+   "en": "Sorry for the inconvenience.",
+   "ko": "불편을 드려 죄송해요."
+  },
+  {
+   "word": "convenient",
+   "pos": "형용사",
+   "meaning": "편리한",
+   "en": "Online shopping is very convenient.",
+   "ko": "온라인 쇼핑은 아주 편리해요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회 (함께 모임)",
+   "en": "Shaking hands is a social convention.",
+   "ko": "악수는 사회적 관습이에요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "사건, 행사 (밖으로 나온 일)",
+   "en": "The festival is the biggest event of the year.",
+   "ko": "그 축제는 한 해의 가장 큰 행사예요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다 (먼저 와서 막다)",
+   "en": "Washing hands helps prevent colds.",
+   "ko": "손을 씻으면 감기 예방에 도움이 돼요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다, 끼어들다",
+   "en": "The teacher intervened to stop the fight.",
+   "ko": "선생님이 싸움을 말리려고 개입하셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한밤중 잠옷 차림에 울리는 택배 초인종",
+ "imageCaption": "가장 바쁠 때 또는 가장 쉬고 싶을 때 딱 맞지 않게 일이 생기는 장면을 떠올려 보세요. 그 타이밍이 inconvenient예요.",
+ "movieLineEn": "Is this an inconvenient time to talk?",
+ "movieLineKo": "지금 얘기하기 불편한 때니?",
+ "storyTitle": "가장 불편한 순간의 전화",
+ "story": "시험 공부 중인 나에게 친구가 하필 inconvenient(불편한)한 시간에 전화했어요. '지금은 convenient(편리한)하지 않아!' 했지만 친구는 대단한 event(행사) 소식이라며 intervene(끼어들다)했죠. 들어 보니 '오늘 시험 아니고 내일이래!' 이번엔 고마운 불편이었어요."
+}

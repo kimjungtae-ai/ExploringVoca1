@@ -1,0 +1,81 @@
+{
+ "word": "accurate",
+ "pos": "형용사",
+ "phonetic": "[ˈækjərət]",
+ "meaning": "정확한, 정밀한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~에 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cur",
+   "meaning": "주의, 돌봄 (care)",
+   "note": "라틴어 cura(관심, 주의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사)",
+   "note": "과거분사에서 온 형용사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~에) + <strong>cur</strong> (주의, 돌봄) + <strong>-ate</strong> = '주의를 기울여 공들인'에서 <strong>'정확한'</strong>이 되었어요.",
+ "historyTitle": "정성껏 '돌보아' 만든 것은 정확하다",
+ "historyBody": "라틴어 accurare는 '주의를 기울이다, 정성껏 하다'라는 뜻이었고, 그 과거분사 accuratus는 '공들여 만든'이라는 뜻이었어요. 정성을 쏟으면 실수가 없으니 '정확한'이라는 뜻이 되었답니다. 참고로 영어 care는 게르만어 출신이라 cura와는 다른 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accuracy",
+   "pos": "명사",
+   "meaning": "정확성",
+   "en": "The accuracy of the weather report has improved.",
+   "ko": "일기 예보의 정확도가 높아졌어요."
+  },
+  {
+   "word": "inaccurate",
+   "pos": "형용사",
+   "meaning": "부정확한",
+   "en": "The map was old and inaccurate.",
+   "ko": "그 지도는 오래되고 부정확했어요."
+  },
+  {
+   "word": "cure",
+   "pos": "동사/명사",
+   "meaning": "치료하다 / 치료법",
+   "en": "Scientists are looking for a cure for the disease.",
+   "ko": "과학자들은 그 병의 치료법을 찾고 있어요."
+  },
+  {
+   "word": "curious",
+   "pos": "형용사",
+   "meaning": "호기심 많은",
+   "en": "Children are curious about everything around them.",
+   "ko": "아이들은 주변의 모든 것에 호기심이 많아요."
+  },
+  {
+   "word": "secure",
+   "pos": "형용사",
+   "meaning": "안전한, 안정된",
+   "en": "Keep your password in a secure place.",
+   "ko": "비밀번호를 안전한 곳에 보관하세요."
+  },
+  {
+   "word": "curator",
+   "pos": "명사",
+   "meaning": "큐레이터, 전시 기획자",
+   "en": "The curator explained the history of each painting.",
+   "ko": "큐레이터가 각 그림의 역사를 설명해 주었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 화살이 과녁 한가운데에 정확히 꽂힌 장면",
+ "imageCaption": "정성껏 조준해서 한가운데를 맞힌 화살을 떠올려 보세요. 주의(cura)를 기울이면 정확해져요.",
+ "movieLineEn": "My calculations are always accurate, captain.",
+ "movieLineKo": "제 계산은 언제나 정확합니다, 선장님.",
+ "storyTitle": "정확한 로봇 요리사",
+ "story": "새로 산 로봇 요리사는 정말 accurate(정확한)했어요. 소금 0.001g까지 accuracy(정확성)를 자랑했죠. curious(호기심 많은) 동생이 '맛은 어때?'라고 묻자 로봇은 1시간 동안 분석만 했어요. 결국 배고픈 가족은 라면을 끓였고, 로봇의 inaccurate(부정확한) 유일한 기록은 '저녁 시간'이었대요."
+}

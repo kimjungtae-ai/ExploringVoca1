@@ -1,0 +1,54 @@
+{
+ "word": "chopstick",
+ "pos": "명사",
+ "phonetic": "[ˈtʃɑːpstɪk]",
+ "meaning": "젓가락",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "chop",
+   "meaning": "빠른 (quick) — 피진 영어",
+   "note": "중국 해안의 피진 영어 chop(빠른)에서 왔고, 광둥어 '급(빨리)'과 관련 있다고 보는 설이 있어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stick",
+   "meaning": "막대기 (stick)",
+   "note": "고대 영어 sticca(막대기)에서 온 바탕 단어예요."
+  }
+ ],
+ "summary": "<strong>chop</strong> (빠른) + <strong>stick</strong> (막대기) = '빠르게 집는 막대기'에서 <strong>'젓가락'</strong>이 되었습니다.",
+ "historyTitle": "뱃사람들이 만든 단어",
+ "historyBody": "17세기 말 중국 남부 항구를 오가던 영국 선원들은 중국 상인들과 피진 영어로 대화했어요. 그 말에서 chop은 '빠른'을 뜻했고, 광둥어의 '빨리'를 가리키는 말에서 왔다는 설이 있지만 확실하지는 않아요. 젓가락의 중국어 이름(쾌자, 筷子)도 '빠른 것'과 발음이 통한다는 점이 흥미로워요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "stick",
+   "pos": "명사/동사",
+   "meaning": "막대기 / 붙이다, 찌르다",
+   "en": "He picked up a stick and drew a map in the sand.",
+   "ko": "그는 막대기를 집어 모래 위에 지도를 그렸어요."
+  },
+  {
+   "word": "sticky",
+   "pos": "형용사",
+   "meaning": "끈적끈적한",
+   "en": "My hands were sticky after eating the cotton candy.",
+   "ko": "솜사탕을 먹고 나니 손이 끈적끈적했어."
+  },
+  {
+   "word": "sticker",
+   "pos": "명사",
+   "meaning": "스티커",
+   "en": "She put a star sticker on her notebook.",
+   "ko": "그녀는 공책에 별 스티커를 붙였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 젓가락으로 콩자반 한 알을 쏙 집어 올리는 장면",
+ "imageCaption": "빠르게(chop) 움직이는 두 막대기(stick)가 음식을 집는 모습을 떠올려 보세요.",
+ "movieLineEn": "Can you teach me how to use chopsticks?",
+ "movieLineKo": "젓가락 쓰는 법 좀 가르쳐 줄래?",
+ "storyTitle": "젓가락 달인의 비밀",
+ "story": "외국인 친구 톰은 chopstick(젓가락) 달인이 되고 싶었어요. 매일 stick(막대기)으로 연습했죠. 그런데 떡을 집자 sticky(끈적끈적한) 떡이 젓가락에 딱 붙어 버렸어요! 톰은 당황하지 않고 sticker(스티커)처럼 붙은 떡을 그대로 먹었어요. \"이게 진짜 fast(빠른) 식사지!\""
+}

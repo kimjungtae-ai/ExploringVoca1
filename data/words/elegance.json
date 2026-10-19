@@ -1,0 +1,67 @@
+{
+ "word": "elegance",
+ "pos": "명사",
+ "phonetic": "[ˈelɪɡəns]",
+ "meaning": "우아함, 고상함, 품위",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex(밖으로)가 짧아진 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "leg (legere)",
+   "meaning": "고르다 (choose)",
+   "note": "라틴어 legere(고르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~함, 상태 (명사형)",
+   "note": "성질이나 상태를 나타내는 명사 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>leg</strong> (고르다) + <strong>-ance</strong> (~함) = '잘 골라낸 듯 세련됨'이라는 뜻에서 <strong>'우아함'</strong>이 되었어요.",
+ "historyTitle": "까다롭게 고른 것이 우아함으로",
+ "historyBody": "라틴어 elegans(세련된, 취향이 고상한)는 eligere(골라내다)와 관련된 말이에요. 옛 로마에서는 '지나치게 까다로운'이라는 부정적인 뜻으로도 쓰였지만, 점차 '품위 있는'이라는 칭찬이 되었답니다. 이 말이 프랑스어를 거쳐 영어 elegant, elegance가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "elegant",
+   "pos": "형용사",
+   "meaning": "우아한, 품위 있는",
+   "en": "She wore an elegant black dress to the party.",
+   "ko": "그녀는 파티에 우아한 검은 드레스를 입고 왔어요."
+  },
+  {
+   "word": "elect",
+   "pos": "동사",
+   "meaning": "선출하다",
+   "en": "The club will elect a new leader next week.",
+   "ko": "동아리는 다음 주에 새 회장을 뽑을 거예요."
+  },
+  {
+   "word": "select",
+   "pos": "동사",
+   "meaning": "고르다, 선택하다",
+   "en": "Select the best photo for the poster.",
+   "ko": "포스터에 쓸 가장 좋은 사진을 고르세요."
+  },
+  {
+   "word": "election",
+   "pos": "명사",
+   "meaning": "선거",
+   "en": "The election results were announced at night.",
+   "ko": "선거 결과는 밤에 발표되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 백조가 호수 위를 미끄러지듯 헤엄치는 모습",
+ "imageCaption": "목을 곧게 세우고 물결 하나 없이 나아가는 하얀 백조를 떠올려 보세요.",
+ "movieLineEn": "She walked into the ballroom with perfect elegance.",
+ "movieLineKo": "그녀는 완벽한 우아함을 뽐내며 무도회장에 들어섰다.",
+ "storyTitle": "백조의 비밀",
+ "story": "호수의 백조는 elegance(우아함)의 상징이에요. 모두가 그 elegant(우아한) 모습에 감탄하죠. 그래서 동물들은 백조를 숲의 대표로 elect(선출하다)했어요. 그런데 물속을 들여다본 개구리가 깜짝 놀랐어요. 백조의 발이 미친 듯이 버둥거리고 있었거든요! 우아함은 보이지 않는 노력으로 select(골라내다)된 결과였답니다."
+}

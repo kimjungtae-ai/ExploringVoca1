@@ -1,0 +1,68 @@
+{
+ "word": "auditorium",
+ "pos": "명사",
+ "phonetic": "[ˌɔːdɪˈtɔːriəm]",
+ "meaning": "강당, 객석, 공연장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "audit (audire)",
+   "meaning": "듣다 (hear)",
+   "note": "라틴어 audire(듣다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-orium",
+   "meaning": "~하는 장소 (place for)",
+   "note": "무언가를 하는 장소를 나타내요."
+  }
+ ],
+ "summary": "<strong>audit</strong> (듣다) + <strong>-orium</strong> (장소) = '사람들이 모여 듣는 곳'에서 <strong>'강당, 객석'</strong>이 되었어요.",
+ "historyTitle": "듣기 위해 지은 방",
+ "historyBody": "라틴어 'auditorium'은 '강의나 낭독을 듣는 장소'라는 뜻이었어요. 고대 로마에서는 시인이나 학자가 작품을 낭독하는 홀을 이렇게 불렀죠. 영어에서는 17세기부터 쓰였고, 지금은 학교 강당이나 공연장의 객석을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "audience",
+   "pos": "명사",
+   "meaning": "청중, 관객",
+   "en": "The audience laughed at the funny scene.",
+   "ko": "관객들은 그 웃긴 장면에서 웃었어요."
+  },
+  {
+   "word": "audio",
+   "pos": "명사/형용사",
+   "meaning": "음성, 오디오(의)",
+   "en": "Turn up the audio so everyone can hear.",
+   "ko": "모두 들을 수 있게 음량을 높여 주세요."
+  },
+  {
+   "word": "audition",
+   "pos": "명사/동사",
+   "meaning": "오디션 / 오디션을 보다",
+   "en": "She passed the audition for the school musical.",
+   "ko": "그녀는 학교 뮤지컬 오디션에 합격했어요."
+  },
+  {
+   "word": "audible",
+   "pos": "형용사",
+   "meaning": "들리는, 들을 수 있는",
+   "en": "His voice was barely audible in the noisy room.",
+   "ko": "시끄러운 방에서 그의 목소리는 거의 들리지 않았어요."
+  },
+  {
+   "word": "audit",
+   "pos": "명사/동사",
+   "meaning": "회계 감사 / 감사하다",
+   "en": "The company has an audit every year.",
+   "ko": "그 회사는 매년 회계 감사를 받아요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대와 수백 개의 객석이 있는 학교 강당",
+ "imageCaption": "무대를 향해 의자가 계단처럼 줄지어 놓인 큰 강당을 떠올려 보세요. 모여서 듣는 장소가 auditorium이에요.",
+ "movieLineEn": "Everyone, please make your way to the auditorium. Now!",
+ "movieLineKo": "여러분, 모두 강당으로 이동해 주세요. 지금 당장!",
+ "storyTitle": "강당의 메아리",
+ "story": "교장 선생님은 auditorium(강당)의 새 audio(음향) 장비를 자랑하고 싶었어요. 조회 시간, 마이크에 대고 '안녕하세요!'라고 외쳤죠. 소리가 너무 audible(잘 들리는)해서 audience(청중)인 학생들이 모두 귀를 막았어요. 그날 교장 선생님 인사는 옆 학교까지 들렸답니다."
+}

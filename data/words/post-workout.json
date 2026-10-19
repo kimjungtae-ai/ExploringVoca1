@@ -1,0 +1,74 @@
+{
+ "word": "post-workout",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˌpoʊst ˈwɜːrkaʊt]",
+ "meaning": "운동 후의 / 운동 후 (시간, 보충식)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "post-",
+   "meaning": "뒤에, 후에 (after)",
+   "note": "라틴어 post(뒤에)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "work",
+   "meaning": "일, 운동하다 (work)",
+   "note": "고대 영어 weorc(일, 행위)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "work out은 '힘들여 해내다, 운동하다'라는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>post-</strong> (후에) + <strong>workout</strong> (운동) = <strong>'운동 후의'</strong>라는 뜻이에요.",
+ "historyTitle": "라틴어 접두사와 영어 단어의 만남",
+ "historyBody": "post-는 라틴어 post(뒤에, 후에)에서 온 접두사로 postwar(전후의), postpone(미루다)에도 들어 있어요. workout은 1800년대 말 동사구 work out(애써 해내다)에서 명사가 되었고, 1900년대에 '운동'이라는 뜻으로 굳어졌어요. 라틴어 접두사가 순수 영어 단어와 합쳐진 현대식 합성어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "postwar",
+   "pos": "형용사",
+   "meaning": "전후의",
+   "en": "The country grew quickly in the postwar years.",
+   "ko": "그 나라는 전후 몇 년 동안 빠르게 성장했어요."
+  },
+  {
+   "word": "postpone",
+   "pos": "동사",
+   "meaning": "미루다, 연기하다",
+   "en": "The game was postponed because of heavy rain.",
+   "ko": "폭우 때문에 경기가 연기되었어요."
+  },
+  {
+   "word": "postscript",
+   "pos": "명사",
+   "meaning": "추신 (P.S.)",
+   "en": "She added a funny postscript to her letter.",
+   "ko": "그녀는 편지에 재미있는 추신을 덧붙였어요."
+  },
+  {
+   "word": "postgraduate",
+   "pos": "형용사/명사",
+   "meaning": "대학원의 / 대학원생",
+   "en": "My cousin is doing postgraduate research in biology.",
+   "ko": "사촌은 대학원에서 생물학 연구를 하고 있어요."
+  },
+  {
+   "word": "workout",
+   "pos": "명사",
+   "meaning": "운동",
+   "en": "A short workout every morning gives me energy.",
+   "ko": "아침마다 짧게 운동하면 힘이 나요."
+  }
+ ],
+ "imageSense": "대표 의미: 운동을 마치고 땀을 닦으며 단백질 음료를 마시는 모습",
+ "imageCaption": "헬스장에서 운동을 막 끝내고 수건으로 땀을 닦는 장면을 떠올려 보세요.",
+ "movieLineEn": "My post-workout snack is bigger than my workout.",
+ "movieLineKo": "내 운동 후 간식이 운동보다 더 커.",
+ "storyTitle": "운동보다 긴 간식 시간",
+ "story": "삼촌은 workout(운동)을 10분 하고 post-workout(운동 후) 간식을 한 시간 먹어요. 다이어트는 늘 postpone(미루다)하죠. 편지 끝 postscript(추신)에도 '내일부터 진짜 시작'이라고 써요. 그런데 오늘 삼촌이 헬스장 1등을 했대요. 종목은 '간식 빨리 먹기'였다나요!"
+}

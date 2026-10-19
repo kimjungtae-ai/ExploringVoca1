@@ -1,0 +1,75 @@
+{
+ "word": "relieve",
+ "pos": "동사",
+ "phonetic": "[rɪˈliːv]",
+ "meaning": "(고통·부담을) 덜어 주다, 완화하다, 안심시키다, 교대하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 위로 올린다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lieve (← 라틴어 levare)",
+   "meaning": "들어 올리다, 가볍게 하다 (lift, lighten)",
+   "note": "라틴어 levis(가벼운)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>lieve</strong> (들어 올리다) = 짐을 들어 올려 가볍게 해 주다, 즉 <strong>'덜어 주다, 완화하다'</strong>예요.",
+ "historyTitle": "무거운 짐을 '들어 올려' 주는 손",
+ "historyBody": "relief와 relieve는 고대 프랑스어 relever(다시 들어 올리다)를 거쳐 왔고, 그 뿌리는 라틴어 relevare예요. re-(다시) + levare(들어 올리다, 가볍게 하다)이고, levare는 levis(가벼운)에서 왔어요. 무거운 짐을 들어 올려 가볍게 해 주니 마음이 '안도'되는 거죠. 경비병의 짐을 덜어 주던 것에서 '교대하다'라는 뜻도 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relief",
+   "pos": "명사",
+   "meaning": "안도, 완화, 구호",
+   "en": "The rain brought relief from the heat.",
+   "ko": "비가 더위를 식혀 주었어요."
+  },
+  {
+   "word": "relieved",
+   "pos": "형용사",
+   "meaning": "안도하는",
+   "en": "She felt relieved when the test was over.",
+   "ko": "시험이 끝나자 그녀는 마음이 놓였어요."
+  },
+  {
+   "word": "elevate",
+   "pos": "동사",
+   "meaning": "들어 올리다, 높이다",
+   "en": "Music can elevate your mood.",
+   "ko": "음악은 기분을 좋게 해 줄 수 있어요."
+  },
+  {
+   "word": "elevator",
+   "pos": "명사",
+   "meaning": "엘리베이터",
+   "en": "Let's take the elevator to the tenth floor.",
+   "ko": "10층까지 엘리베이터를 타자."
+  },
+  {
+   "word": "relevant",
+   "pos": "형용사",
+   "meaning": "관련 있는, 적절한",
+   "en": "Please include only relevant information in your report.",
+   "ko": "보고서에는 관련 있는 정보만 넣어 주세요."
+  },
+  {
+   "word": "lever",
+   "pos": "명사",
+   "meaning": "지렛대, 레버",
+   "en": "Pull the lever to open the gate.",
+   "ko": "문을 열려면 레버를 당기세요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구의 무거운 가방을 대신 들어 주는 모습",
+ "imageCaption": "끙끙대는 친구의 짐을 번쩍 들어 줘서 어깨가 가벼워지는 장면을 그려 보세요. 부담을 덜어 주는 것이 relieve예요.",
+ "movieLineEn": "Don't worry, I'll relieve you at midnight.",
+ "movieLineKo": "걱정 마, 자정에 내가 교대해 줄게.",
+ "storyTitle": "스트레스 해소법",
+ "story": "시험 스트레스를 relieve(덜어 주다)하려고 우리는 노래방에 갔어요. 신나는 노래가 기분을 elevate(높이다)해 주었죠. 모두 relieved(안도하는) 얼굴로 소리를 질렀어요. 진짜 relief(안도)는 집에 와서야 왔어요. 시험 범위가 relevant(관련 있는) 단원 하나뿐이었다는 공지를 봤거든요."
+}

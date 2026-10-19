@@ -1,0 +1,82 @@
+{
+ "word": "maintain",
+ "pos": "동사",
+ "phonetic": "[meɪnˈteɪn]",
+ "meaning": "유지하다, 주장하다, 부양하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "main",
+   "meaning": "손 (hand)",
+   "note": "라틴어 manus(손)가 프랑스어 main으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tain",
+   "meaning": "잡다, 쥐다 (hold)",
+   "note": "라틴어 tenere(잡다, 유지하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>main</strong> (손) + <strong>tain</strong> (잡다) = '손으로 꽉 붙잡고 있다'라는 뜻에서 <strong>'유지하다, 주장하다'</strong>가 되었습니다.",
+ "historyTitle": "손에 꼭 쥐고 지키다",
+ "historyBody": "maintain은 고대 프랑스어 maintenir에서 왔고, 그 뿌리는 라틴어 manu tenere(손으로 붙잡다)예요. 손에서 놓지 않고 계속 붙잡는다는 데서 '유지하다'가 되었고, 자기 의견을 굽히지 않고 붙잡는다는 데서 '주장하다'라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "maintenance",
+   "pos": "명사",
+   "meaning": "유지, 보수 관리",
+   "en": "The elevator is closed for maintenance today.",
+   "ko": "오늘 엘리베이터는 점검 때문에 운행하지 않아요."
+  },
+  {
+   "word": "manual",
+   "pos": "형용사/명사",
+   "meaning": "손으로 하는 / 설명서",
+   "en": "Read the manual before using the machine.",
+   "ko": "기계를 사용하기 전에 설명서를 읽으세요."
+  },
+  {
+   "word": "manufacture",
+   "pos": "동사",
+   "meaning": "제조하다",
+   "en": "This factory manufactures electric cars.",
+   "ko": "이 공장은 전기차를 제조해요."
+  },
+  {
+   "word": "manuscript",
+   "pos": "명사",
+   "meaning": "원고, 손으로 쓴 글",
+   "en": "The writer's old manuscript was found in a box.",
+   "ko": "그 작가의 옛 원고가 상자 속에서 발견되었어요."
+  },
+  {
+   "word": "contain",
+   "pos": "동사",
+   "meaning": "포함하다, 담다",
+   "en": "This box contains old photos.",
+   "ko": "이 상자에는 옛날 사진들이 들어 있어요."
+  },
+  {
+   "word": "obtain",
+   "pos": "동사",
+   "meaning": "얻다, 획득하다",
+   "en": "You need to obtain permission first.",
+   "ko": "먼저 허락을 받아야 해요."
+  },
+  {
+   "word": "retain",
+   "pos": "동사",
+   "meaning": "유지하다, 보유하다",
+   "en": "Sleep helps your brain retain new information.",
+   "ko": "잠은 뇌가 새로운 정보를 기억하도록 도와줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 자전거 체인에 기름을 칠하며 정성껏 관리하는 손",
+ "imageCaption": "소중한 물건을 손에서 놓지 않고 꼭 쥐고 지키는 모습을 떠올려 보세요. 그게 maintain이에요.",
+ "movieLineEn": "Maintain your speed. We're almost there!",
+ "movieLineKo": "속도 유지해. 거의 다 왔어!",
+ "storyTitle": "식물 집사의 고백",
+ "story": "나래는 화분을 건강하게 maintain(유지하다)하려고 manual(설명서)까지 읽었어요. 매일 maintenance(관리) 일지도 썼죠. 비료 성분을 obtain(얻다)하려고 공부했고, 화분이 물을 retain(보유하다)하는지도 확인했어요. 한 달 뒤 친구가 말했어요. \"그거 조화야.\""
+}

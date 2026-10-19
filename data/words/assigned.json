@@ -1,0 +1,74 @@
+{
+ "word": "assigned",
+ "pos": "형용사 / 동사(과거·과거분사)",
+ "phonetic": "[əˈsaɪnd]",
+ "meaning": "배정된, 할당된, 지정된 / assign의 과거형",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "as- (ad-)",
+   "meaning": "~에게 (to)",
+   "note": "ad-가 s 앞에서 as-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sign (signare)",
+   "meaning": "표시하다 (mark)",
+   "note": "라틴어 signum(표시)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사)",
+   "note": "'이미 맡겨진'이라는 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>as-</strong> (~에게) + <strong>sign</strong> (표시하다) + <strong>-ed</strong> (~된) = '누구의 몫으로 표시된'에서 <strong>'배정된, 지정된'</strong>이 되었어요.",
+ "historyTitle": "표시가 끝난 자리",
+ "historyBody": "assigned는 assign의 과거분사로, 라틴어 'assignare(표시해서 나눠 주다)'에서 왔어요. 이미 누구의 몫인지 정해졌다는 뜻이라 assigned seat(지정석), assigned reading(지정 도서)처럼 형용사로 많이 써요. 수능 실용문(안내문)에서도 자주 보이는 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "assign",
+   "pos": "동사",
+   "meaning": "맡기다, 배정하다",
+   "en": "The coach assigned each player a position.",
+   "ko": "코치님은 선수마다 포지션을 배정했어요."
+  },
+  {
+   "word": "assignment",
+   "pos": "명사",
+   "meaning": "과제, 임무",
+   "en": "The assignment is due on Friday.",
+   "ko": "그 과제는 금요일까지예요."
+  },
+  {
+   "word": "sign",
+   "pos": "명사/동사",
+   "meaning": "표지판, 징후 / 서명하다",
+   "en": "Please sign your name at the bottom.",
+   "ko": "맨 아래에 이름을 서명해 주세요."
+  },
+  {
+   "word": "signal",
+   "pos": "명사/동사",
+   "meaning": "신호 / 신호를 보내다",
+   "en": "Wait for the green signal before you cross.",
+   "ko": "길을 건너기 전에 초록 신호를 기다리세요."
+  },
+  {
+   "word": "signature",
+   "pos": "명사",
+   "meaning": "서명",
+   "en": "I need your signature on this form.",
+   "ko": "이 양식에 당신의 서명이 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 이름표가 붙은 지정석에 앉는 시험 응시생",
+ "imageCaption": "시험장 책상마다 이름표가 붙어 있고 내 이름이 적힌 자리를 찾는 장면을 떠올려 보세요. 이미 정해진 내 몫이 assigned예요.",
+ "movieLineEn": "Go to your assigned positions. Nobody moves until I say so.",
+ "movieLineKo": "각자 지정된 위치로 가. 내가 말하기 전까진 아무도 움직이지 마.",
+ "storyTitle": "지정석의 주인",
+ "story": "수학여행 버스에서 나는 assigned(지정된) 자리를 찾았어요. 그런데 내 자리에 커다란 곰 인형이 앉아 있었죠. 인형의 목에는 선생님의 signature(서명)가 있는 sign(표지판)이 걸려 있었어요. '이 자리는 오늘 assignment(임무)를 안 낸 학생의 자리입니다.' 나는 조용히 맨 뒷자리로 갔답니다."
+}

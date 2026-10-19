@@ -1,0 +1,74 @@
+{
+ "word": "landscaping",
+ "pos": "명사",
+ "phonetic": "[ˈlændskeɪpɪŋ]",
+ "meaning": "조경, 정원 꾸미기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "land",
+   "meaning": "땅 (land)",
+   "note": "고대 영어 land(땅)에서 온 기본 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-scape",
+   "meaning": "~의 모습, 상태 (shape, condition)",
+   "note": "네덜란드어 -schap에서 왔고, 영어 -ship과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 일 (act of)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>land</strong> (땅) + <strong>-scape</strong> (모습) + <strong>-ing</strong> (~하는 일) = '땅의 모습을 꾸미는 일'이라서 <strong>'조경'</strong>이에요.",
+ "historyTitle": "네덜란드 풍경화에서 온 말",
+ "historyBody": "landscape는 17세기에 네덜란드어 landschap에서 들어왔는데, 원래 '풍경을 그린 그림'을 뜻하는 화가들의 용어였어요. 당시 네덜란드는 풍경화로 유명했거든요. 이후 실제 '풍경'을 뜻하게 되었고, 정원이나 땅의 모습을 아름답게 꾸미는 일을 landscaping이라고 부르게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "landscape",
+   "pos": "명사",
+   "meaning": "풍경, 경치",
+   "en": "The painter loved the peaceful landscape of the countryside.",
+   "ko": "그 화가는 시골의 평화로운 풍경을 사랑했어요."
+  },
+  {
+   "word": "landmark",
+   "pos": "명사",
+   "meaning": "랜드마크, 획기적 사건",
+   "en": "The discovery was a landmark in medical history.",
+   "ko": "그 발견은 의학 역사에서 획기적인 사건이었어요."
+  },
+  {
+   "word": "landlord",
+   "pos": "명사",
+   "meaning": "집주인, 건물주",
+   "en": "Our landlord fixed the broken window quickly.",
+   "ko": "우리 집주인은 깨진 창문을 빨리 고쳐 주었어요."
+  },
+  {
+   "word": "landfill",
+   "pos": "명사",
+   "meaning": "쓰레기 매립지",
+   "en": "Recycling helps reduce waste sent to landfills.",
+   "ko": "재활용은 매립지로 가는 쓰레기를 줄이는 데 도움이 돼요."
+  },
+  {
+   "word": "seascape",
+   "pos": "명사",
+   "meaning": "바다 풍경(화)",
+   "en": "The museum has a beautiful seascape by a local artist.",
+   "ko": "그 박물관에는 지역 화가의 아름다운 바다 풍경화가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 정원사가 나무를 심고 잔디를 다듬어 멋진 정원을 만드는 장면",
+ "imageCaption": "황량한 마당이 꽃과 나무, 돌길로 그림처럼 바뀌는 모습을 떠올려 보세요.",
+ "movieLineEn": "With a little landscaping, this yard could look like a park.",
+ "movieLineKo": "조경을 조금만 하면 이 마당이 공원처럼 보일 거야.",
+ "storyTitle": "두더지의 조경 사업",
+ "story": "두더지가 landscaping(조경) 회사를 차렸어요. 마당을 멋진 landscape(풍경)로 바꿔 동네 landmark(랜드마크)로 만들겠다고 했죠. landlord(집주인) 토끼는 신이 나서 계약했어요. 다음 날 마당엔 구멍만 100개! 두더지는 말했어요. '이게 바로 지하 정원입니다.'"
+}

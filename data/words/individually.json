@@ -1,0 +1,80 @@
+{
+ "word": "individually",
+ "pos": "부사",
+ "phonetic": "[ˌɪndɪˈvɪdʒuəli]",
+ "meaning": "개별적으로, 각각 따로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "divid",
+   "meaning": "나누다 (divide)",
+   "note": "라틴어 dividere(나누다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ual",
+   "meaning": "~의 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "부사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>divid</strong> (나누다) + <strong>-ual</strong> + <strong>-ly</strong> = '더 이상 나눌 수 없는 하나하나로'라는 뜻에서 <strong>'개별적으로'</strong>가 되었습니다.",
+ "historyTitle": "더 쪼갤 수 없는 한 사람",
+ "historyBody": "라틴어 'individuus'는 '나눌 수 없는'이라는 뜻이었어요. 더는 쪼갤 수 없는 가장 작은 단위가 바로 한 사람, 개인(individual)이 된 거죠. 여기에 -ly가 붙어 '하나하나 따로'라는 뜻의 부사가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "individual",
+   "pos": "명사 / 형용사",
+   "meaning": "개인 / 개인의, 각각의",
+   "en": "Each individual has different talents.",
+   "ko": "각 개인은 서로 다른 재능을 가지고 있어요."
+  },
+  {
+   "word": "divide",
+   "pos": "동사",
+   "meaning": "나누다",
+   "en": "Divide the cake into eight pieces.",
+   "ko": "케이크를 여덟 조각으로 나누세요."
+  },
+  {
+   "word": "division",
+   "pos": "명사",
+   "meaning": "분할, 나눗셈, 부서",
+   "en": "He works in the sales division.",
+   "ko": "그는 영업 부서에서 일해요."
+  },
+  {
+   "word": "individuality",
+   "pos": "명사",
+   "meaning": "개성",
+   "en": "Her clothes show her individuality.",
+   "ko": "그녀의 옷은 그녀의 개성을 보여 줘요."
+  },
+  {
+   "word": "devise",
+   "pos": "동사",
+   "meaning": "고안하다 (나누어 계획하다)",
+   "en": "They devised a new way to save energy.",
+   "ko": "그들은 에너지를 절약하는 새로운 방법을 고안했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 학생 한 명 한 명과 따로 면담하는 장면",
+ "imageCaption": "큰 덩어리가 아니라 한 사람씩 따로 다루는 모습을 떠올려 보세요. 그게 individually예요.",
+ "movieLineEn": "I'll talk to each of you individually.",
+ "movieLineKo": "너희 한 명 한 명과 따로 얘기할게.",
+ "storyTitle": "따로따로 포장된 과자",
+ "story": "엄마는 과자를 individually(개별적으로) 포장해서 각 individual(개인)에게 주었어요. 싸우지 말라고 똑같이 divide(나누다)한 거죠. 형제들은 자기 individuality(개성)를 살려 포장지에 이름을 썼어요. 그런데 열어 보니 모두 비어 있었어요. 범인은 이미 다 먹은 아빠였답니다."
+}

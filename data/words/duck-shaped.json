@@ -1,0 +1,67 @@
+{
+ "word": "duck-shaped",
+ "pos": "형용사",
+ "phonetic": "[ˈdʌk ʃeɪpt]",
+ "meaning": "오리 모양의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "duck",
+   "meaning": "오리 (duck)",
+   "note": "고대 영어 duce에서 왔고, '물속으로 잠수하는 새'라는 뜻으로 여겨져요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shape",
+   "meaning": "모양 (shape)",
+   "note": "고대 영어 gesceap(형태, 창조물)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~의 모양을 가진",
+   "note": "명사 뒤에 붙어 '~을 가진'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>duck</strong> (오리) + <strong>shape</strong> (모양) + <strong>-ed</strong> (~을 가진) = <strong>'오리 모양의'</strong>라는 뜻이에요.",
+ "historyTitle": "잠수하는 새, duck",
+ "historyBody": "duck은 고대 영어 duce에서 왔고, '물속으로 몸을 숙여 잠수하다'라는 동사 duck과 같은 뿌리로 여겨져요. 그 전에는 오리를 ened라고 불렀답니다. shape는 고대 영어 gesceap(형태)에서 왔어요. '명사-shaped'는 heart-shaped처럼 모양을 표현할 때 아주 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "duck",
+   "pos": "동사",
+   "meaning": "몸을 휙 숙이다",
+   "en": "He ducked to avoid the flying ball.",
+   "ko": "그는 날아오는 공을 피하려고 몸을 숙였어요."
+  },
+  {
+   "word": "shape",
+   "pos": "명사/동사",
+   "meaning": "모양 / 형성하다",
+   "en": "Our childhood experiences shape who we are.",
+   "ko": "어린 시절 경험이 우리를 만들어요."
+  },
+  {
+   "word": "heart-shaped",
+   "pos": "형용사",
+   "meaning": "하트 모양의",
+   "en": "She gave me a heart-shaped cookie.",
+   "ko": "그녀가 내게 하트 모양 쿠키를 줬어요."
+  },
+  {
+   "word": "reshape",
+   "pos": "동사",
+   "meaning": "모양을 고치다, 재편하다",
+   "en": "Technology has reshaped the way we learn.",
+   "ko": "기술은 우리가 배우는 방식을 바꿔 놓았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 욕조에 둥둥 떠 있는 오리 모양의 노란 장난감",
+ "imageCaption": "목욕할 때 물 위에 떠 있는 노란 오리 인형을 떠올려 보세요.",
+ "movieLineEn": "Is that... a duck-shaped spaceship?",
+ "movieLineKo": "저거… 오리 모양 우주선이야?",
+ "storyTitle": "오리 모양 풍선의 비행",
+ "story": "축제에서 duck-shaped(오리 모양의) 풍선을 샀어요. 그런데 바람이 불자 풍선이 날아가 버렸죠. 사람들이 \"duck(숙여)!\"이라고 외치며 몸을 숙였어요. 풍선은 하늘에서 heart-shaped(하트 모양의) 풍선과 만났어요. 두 풍선이 나란히 날아가며 새로운 shape(모양)을 만들었답니다. 축제 최고의 커플은 풍선이었어요!"
+}

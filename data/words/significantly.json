@@ -1,0 +1,87 @@
+{
+ "word": "significantly",
+ "pos": "부사",
+ "phonetic": "[sɪɡˈnɪfɪkəntli]",
+ "meaning": "상당히, 크게, 의미 있게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sign",
+   "meaning": "표시 (mark, sign)",
+   "note": "라틴어 'signum(표시)'에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fic",
+   "meaning": "만들다 (make)",
+   "note": "라틴어 'facere(만들다)'에서 온 형태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ant",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만드는 어미예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>sign</strong> (표시) + <strong>fic</strong> (만들다) + <strong>-ant</strong> + <strong>-ly</strong> = 표시가 날 만큼, 즉 <strong>'상당히, 크게'</strong>예요.",
+ "historyTitle": "표시가 날 만큼 크게",
+ "historyBody": "라틴어 'significare(표시로 나타내다)'에서 온 significant는 원래 '의미가 있는'이라는 뜻이었어요. 의미가 있을 만큼 차이가 크다는 데서 '상당한'이라는 뜻이 생겼죠. 수능의 도표·실험 지문에서 'increased significantly(크게 증가했다)'처럼 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "significant",
+   "pos": "형용사",
+   "meaning": "중요한, 상당한",
+   "en": "Exercise has a significant effect on mood.",
+   "ko": "운동은 기분에 상당한 영향을 미쳐요."
+  },
+  {
+   "word": "significance",
+   "pos": "명사",
+   "meaning": "중요성, 의미",
+   "en": "Few people understood the significance of his discovery.",
+   "ko": "그의 발견이 지닌 중요성을 이해한 사람은 거의 없었어요."
+  },
+  {
+   "word": "sign",
+   "pos": "명사 / 동사",
+   "meaning": "표시, 징후 / 서명하다",
+   "en": "There are no signs of rain today.",
+   "ko": "오늘은 비가 올 징후가 없어요."
+  },
+  {
+   "word": "signal",
+   "pos": "명사",
+   "meaning": "신호",
+   "en": "Wait for the green signal before crossing.",
+   "ko": "건너기 전에 초록 신호를 기다리세요."
+  },
+  {
+   "word": "signature",
+   "pos": "명사",
+   "meaning": "서명",
+   "en": "Please put your signature at the bottom.",
+   "ko": "맨 아래에 서명해 주세요."
+  },
+  {
+   "word": "design",
+   "pos": "동사 / 명사",
+   "meaning": "설계하다 / 디자인",
+   "en": "She designed her own dress for the party.",
+   "ko": "그녀는 파티를 위해 직접 드레스를 디자인했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 그래프의 막대가 쑥 올라간 장면",
+ "imageCaption": "작년보다 키가 훌쩍 커서 문틀 표시를 훨씬 넘은 모습을 떠올려 보세요.",
+ "movieLineEn": "Things have changed significantly since you left.",
+ "movieLineKo": "네가 떠난 뒤로 상황이 크게 달라졌어.",
+ "storyTitle": "다이어트 그래프의 진실",
+ "story": "형이 다이어트를 시작하고 몸무게가 significantly(크게) 변했어요. 그래프는 분명 성공의 sign(징후)이었죠. 형은 기록표에 자랑스럽게 signature(서명)까지 했어요. 그런데 이 significant(상당한) 변화는 위쪽 방향이었어요. 야식의 significance(중요성)를 몰랐던 거죠."
+}

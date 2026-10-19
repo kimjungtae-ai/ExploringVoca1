@@ -1,0 +1,41 @@
+{
+ "word": "leak",
+ "pos": "동사 / 명사",
+ "phonetic": "[liːk]",
+ "meaning": "새다, 누설하다 / 누출, 새는 곳",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "leak",
+   "meaning": "새다, 물이 스며들다 (drip)",
+   "note": "중세 네덜란드어 leken 또는 고대 노르드어 leka(새다)에서 온 것으로 보여요."
+  }
+ ],
+ "summary": "중세 네덜란드어 <strong>leken</strong> / 고대 노르드어 <strong>leka</strong> (물이 새다) = 틈으로 흘러나오는 뜻에서 <strong>'새다, 누설하다'</strong>가 되었어요.",
+ "historyTitle": "뱃사람의 말에서 온 '새다'",
+ "historyBody": "leak은 15세기쯤 영어에 나타났는데, 중세 네덜란드어 leken이나 고대 노르드어 leka('물이 새다')에서 들어온 것으로 보여요. 정확히 어느 쪽에서 왔는지는 확실하지 않아요. 배에 물이 새는 일은 뱃사람들에게 큰 걱정이었기에 바닷가 말로 퍼졌다고 해요. 오늘날은 '비밀을 누설하다'라는 뜻으로도 많이 쓰여요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "leakage",
+   "pos": "명사",
+   "meaning": "누출, 새어 나옴",
+   "en": "The workers checked the pipe for gas leakage.",
+   "ko": "작업자들은 가스 누출이 있는지 파이프를 점검했어요."
+  },
+  {
+   "word": "leaky",
+   "pos": "형용사",
+   "meaning": "새는, 구멍 난",
+   "en": "We put a bucket under the leaky roof.",
+   "ko": "우리는 새는 지붕 아래에 양동이를 놓았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 천장에서 물이 똑똑 떨어져 양동이에 고이는 장면",
+ "imageCaption": "작은 틈으로 물이나 비밀이 조금씩 새어 나가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Someone leaked our plan. There's a traitor among us.",
+ "movieLineKo": "누군가 우리 계획을 누설했어. 우리 중에 배신자가 있어.",
+ "storyTitle": "비밀이 새는 교실",
+ "story": "우리 반 깜짝 파티 계획이 leak(누설되다)되었어요. 범인을 찾던 중 교실 천장도 leaky(새는) 상태였죠. 물이 똑똑 떨어지는 leakage(누출) 자리 밑에서 반장이 작은 녹음기를 발견했어요. 알고 보니 선생님이 담임 선물 아이디어를 엿들으려고 숨겨 둔 거였답니다!"
+}

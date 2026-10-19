@@ -1,0 +1,88 @@
+{
+ "word": "maintenance",
+ "pos": "명사",
+ "phonetic": "[ˈmeɪntənəns]",
+ "meaning": "유지, 보수 관리, 정비, 부양(비)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "main",
+   "meaning": "손 (hand)",
+   "note": "라틴어 manus(손)에서 온 부분이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ten",
+   "meaning": "잡다 (hold)",
+   "note": "라틴어 tenere(잡다)에서 왔어요. maintain의 tain과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꾸는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>main</strong> (손) + <strong>ten</strong> (잡다) + <strong>-ance</strong> (~하는 것) = '손으로 붙잡고 지키는 일'이라는 뜻에서 <strong>'유지, 관리'</strong>가 되었습니다.",
+ "historyTitle": "철자가 바뀌는 함정 단어",
+ "historyBody": "maintenance는 고대 프랑스어 maintenance에서 그대로 들어온 말로, maintenir(유지하다)의 명사형이에요. 동사는 maintain인데 명사는 'mainten-'으로 철자가 바뀌니 꼭 주의하세요. 오늘날에는 기계나 건물을 '정비, 보수'하는 일을 가리킬 때 가장 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "maintain",
+   "pos": "동사",
+   "meaning": "유지하다, 주장하다",
+   "en": "It's important to maintain a healthy diet.",
+   "ko": "건강한 식단을 유지하는 것이 중요해요."
+  },
+  {
+   "word": "manual",
+   "pos": "형용사/명사",
+   "meaning": "손으로 하는 / 설명서",
+   "en": "Read the manual before using the machine.",
+   "ko": "기계를 사용하기 전에 설명서를 읽으세요."
+  },
+  {
+   "word": "manufacture",
+   "pos": "동사",
+   "meaning": "제조하다",
+   "en": "This factory manufactures electric cars.",
+   "ko": "이 공장은 전기차를 제조해요."
+  },
+  {
+   "word": "manuscript",
+   "pos": "명사",
+   "meaning": "원고, 손으로 쓴 글",
+   "en": "The writer's old manuscript was found in a box.",
+   "ko": "그 작가의 옛 원고가 상자 속에서 발견되었어요."
+  },
+  {
+   "word": "contain",
+   "pos": "동사",
+   "meaning": "포함하다, 담다",
+   "en": "This box contains old photos.",
+   "ko": "이 상자에는 옛날 사진들이 들어 있어요."
+  },
+  {
+   "word": "obtain",
+   "pos": "동사",
+   "meaning": "얻다, 획득하다",
+   "en": "You need to obtain permission first.",
+   "ko": "먼저 허락을 받아야 해요."
+  },
+  {
+   "word": "retain",
+   "pos": "동사",
+   "meaning": "유지하다, 보유하다",
+   "en": "Sleep helps your brain retain new information.",
+   "ko": "잠은 뇌가 새로운 정보를 기억하도록 도와줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 작업복 입은 정비사가 비행기 엔진을 점검하는 장면",
+ "imageCaption": "고장 나기 전에 미리 손으로 조이고 닦아 주는 모습을 떠올려 보세요. 그 '지키는 손길'이 maintenance예요.",
+ "movieLineEn": "The ride is closed for maintenance. Sorry, kids!",
+ "movieLineKo": "그 놀이기구는 정비 중이라 운행 안 해. 미안, 얘들아!",
+ "storyTitle": "놀이공원의 정비 데이",
+ "story": "준서는 놀이공원에 갔지만 롤러코스터는 maintenance(정비) 중이었어요. 직원은 안전을 maintain(유지하다)하기 위해서라며 manual(설명서)을 보여 줬죠. 준서는 실망했지만, 대신 공원 기념품을 manufacture(제조하다)하는 체험에 참여했어요. 결국 자기 얼굴이 박힌 머그컵만 열 개 들고 집에 왔답니다."
+}

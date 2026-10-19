@@ -1,0 +1,41 @@
+{
+ "word": "shelter",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈʃeltər]",
+ "meaning": "피난처, 대피소, 보호소 / 보호하다, 피하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "shelter",
+   "meaning": "피난처 (shelter)",
+   "note": "16세기에 처음 기록된 말로, 정확한 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>shelter</strong> (피난처) = 비바람이나 위험을 피해 들어가는 곳, 즉 <strong>'대피소, 보호소'</strong>예요.",
+ "historyTitle": "기원이 확실하지 않은 피난처",
+ "historyBody": "shelter는 1580년대 무렵 영어에 처음 나타난 말이에요. 고대 영어 'scieldtruma(방패로 만든 대열)'에서 왔을 수 있다는 설이 있지만, 학자들 사이에서도 확실하지 않아요. 그래서 이 단어는 쪼개지 말고 '나를 지켜 주는 곳'으로 통째로 외우는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "sheltered",
+   "pos": "형용사",
+   "meaning": "보호받는, 바람이 막힌",
+   "en": "The boat stayed in a sheltered bay during the storm.",
+   "ko": "배는 폭풍 동안 바람이 막힌 만에 머물렀어요."
+  },
+  {
+   "word": "shield",
+   "pos": "명사 / 동사",
+   "meaning": "방패 / 보호하다 (어원 연결 가능성만 있는 단어)",
+   "en": "Sunglasses shield your eyes from strong light.",
+   "ko": "선글라스는 강한 빛으로부터 눈을 보호해 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 폭우 속에서 사람들이 버스 정류장 지붕 아래로 피하는 장면",
+ "imageCaption": "갑자기 쏟아지는 비를 피해 작은 지붕 아래 옹기종기 모인 모습을 떠올려 보세요.",
+ "movieLineEn": "We need to find shelter before the storm hits!",
+ "movieLineKo": "폭풍이 오기 전에 피할 곳을 찾아야 해!",
+ "storyTitle": "유기견 보호소의 반전",
+ "story": "비 오는 날, 나는 동물 shelter(보호소)에서 강아지를 입양하러 갔어요. 우산이 shield(방패)처럼 나를 막아 줬죠. 그런데 sheltered(보호받는) 강아지들이 모두 나를 향해 달려왔어요! 결국 나는 강아지 셋과 함께 shelter(피난처)인 우리 집으로 돌아왔답니다."
+}

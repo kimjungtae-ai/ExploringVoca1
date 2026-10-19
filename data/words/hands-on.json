@@ -1,0 +1,61 @@
+{
+ "word": "hands-on",
+ "pos": "형용사",
+ "phonetic": "[ˌhændzˈɑːn]",
+ "meaning": "직접 해 보는, 실습의, 체험의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hands",
+   "meaning": "손들 (hands)",
+   "note": "hand의 복수형이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "on",
+   "meaning": "~위에, 닿아 (on)",
+   "note": "손을 직접 대고 있다는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>hands</strong> (손) + <strong>on</strong> (닿아) = 손을 직접 대고 해 보는이라는 뜻에서 <strong>'직접 체험하는, 실습의'</strong>가 되었어요.",
+ "historyTitle": "컴퓨터 시대가 만든 단어",
+ "historyBody": "hands-on은 1960년대 후반에 퍼진 표현으로, 처음엔 컴퓨터나 기계를 직접 손으로 조작해 보는 것을 말했어요. 지금은 교육과 체험 활동에서 많이 써서, '직접 해 보는 학습(hands-on learning)'이 수능 지문에도 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "handy",
+   "pos": "형용사",
+   "meaning": "편리한, 손재주 있는",
+   "en": "My dad is very handy with tools.",
+   "ko": "우리 아빠는 연장을 아주 잘 다루셔."
+  },
+  {
+   "word": "handle",
+   "pos": "동사",
+   "meaning": "다루다, 처리하다",
+   "en": "He knows how to handle difficult customers.",
+   "ko": "그는 까다로운 손님을 다루는 법을 알아."
+  },
+  {
+   "word": "handful",
+   "pos": "명사",
+   "meaning": "한 줌, 소수",
+   "en": "Only a handful of people knew the secret.",
+   "ko": "소수의 사람들만 그 비밀을 알았어."
+  },
+  {
+   "word": "handmade",
+   "pos": "형용사",
+   "meaning": "손으로 만든, 수제의",
+   "en": "She gave me a handmade scarf for my birthday.",
+   "ko": "그녀는 내 생일에 손으로 짠 목도리를 줬어."
+  }
+ ],
+ "imageSense": "대표 의미: 과학관에서 학생들이 직접 실험 도구를 만져 보는 장면",
+ "imageCaption": "교과서만 보는 게 아니라 직접 손으로 만들고 만져 보며 배우는 체험 수업을 떠올려 보세요.",
+ "movieLineEn": "Forget the books. Today we learn hands-on!",
+ "movieLineKo": "책은 잊어. 오늘은 직접 해 보면서 배운다!",
+ "storyTitle": "직접 체험 요리 교실",
+ "story": "요리 교실은 hands-on(직접 해 보는) 수업이었어요. handy(손재주 있는) 민호는 handmade(수제의) 피자를 만들겠다며 반죽을 handle(다루다)했죠. 하지만 밀가루를 handful(한 줌)씩 던지다 교실이 하얘졌어요. 선생님이 웃으며 말했어요. '오늘의 체험 주제는 눈사람 만들기였니?'"
+}

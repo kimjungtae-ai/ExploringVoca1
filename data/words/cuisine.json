@@ -1,0 +1,55 @@
+{
+ "word": "cuisine",
+ "pos": "명사",
+ "phonetic": "[kwɪˈziːn]",
+ "meaning": "요리(법), (특정 지역의) 음식",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "coquina (라틴어)",
+   "meaning": "부엌 (kitchen)",
+   "note": "라틴어 coquere(요리하다)에서 나온 coquina가 프랑스어 cuisine이 되었어요."
+  }
+ ],
+ "summary": "라틴어 <strong>coquina</strong> (부엌)가 프랑스어 cuisine(부엌, 요리)이 되어 영어로 들어오면서 <strong>'요리, (지역) 음식'</strong>이 되었어요.",
+ "historyTitle": "프랑스 부엌에서 온 단어",
+ "historyBody": "cuisine은 프랑스어로 '부엌, 요리'라는 뜻이고, 라틴어 coquina(부엌)에서 왔어요. 그 뿌리 coquere(요리하다)는 영어 cook과 kitchen에도 이어져 있어요. 18세기 영어에 들어와 '특정 나라나 지역의 요리 방식'을 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cook",
+   "pos": "동사/명사",
+   "meaning": "요리하다 / 요리사",
+   "en": "My dad cooks pasta every Sunday.",
+   "ko": "우리 아빠는 일요일마다 파스타를 요리하세요."
+  },
+  {
+   "word": "kitchen",
+   "pos": "명사",
+   "meaning": "부엌",
+   "en": "The kitchen smelled like fresh bread.",
+   "ko": "부엌에서 갓 구운 빵 냄새가 났어요."
+  },
+  {
+   "word": "cooker",
+   "pos": "명사",
+   "meaning": "조리 기구, 밥솥",
+   "en": "We bought a new rice cooker.",
+   "ko": "우리는 새 밥솥을 샀어요."
+  },
+  {
+   "word": "biscuit",
+   "pos": "명사",
+   "meaning": "비스킷",
+   "en": "She dipped a biscuit into her tea.",
+   "ko": "그녀는 비스킷을 차에 살짝 담갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 세계 각국 요리가 차려진 뷔페 식탁",
+ "imageCaption": "김치, 파스타, 스시, 타코가 한 상에 차려진 모습을 떠올려 보세요. 나라마다 다른 요리 방식이 cuisine이에요.",
+ "movieLineEn": "Tonight, I'll show you the finest French cuisine in town.",
+ "movieLineKo": "오늘 밤, 이 도시 최고의 프랑스 요리를 보여 주지.",
+ "storyTitle": "고양이 셰프의 신메뉴",
+ "story": "고양이 셰프는 세계 최고의 cuisine(요리)을 꿈꿨어요. kitchen(부엌)에서 밤새 cook(요리하다)했죠. 새 cooker(조리 기구)로 생선 biscuit(비스킷)까지 만들었어요. 손님들은 감탄했지만 아무도 먹지 않았어요. 알고 보니 그 식당은 손님이 전부 강아지였대요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "closet",
+ "pos": "명사",
+ "phonetic": "[ˈklɑːzɪt]",
+ "meaning": "벽장, 옷장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "clos",
+   "meaning": "닫힌 곳 (closed place)",
+   "note": "라틴어 claudere(닫다)에서 나온 고대 프랑스어 clos(울타리 친 곳)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-et",
+   "meaning": "작은 (small)",
+   "note": "'작은 것'을 나타내는 프랑스어 지소 접미사예요."
+  }
+ ],
+ "summary": "<strong>clos</strong> (닫힌 곳) + <strong>-et</strong> (작은) = '작게 닫힌 공간'이라는 데서 <strong>'벽장, 옷장'</strong>이 되었습니다.",
+ "historyTitle": "비밀스러운 작은 방",
+ "historyBody": "closet은 고대 프랑스어 clos(닫힌 곳)에 '작은'을 뜻하는 -et가 붙은 말로, 라틴어 claudere(닫다)까지 거슬러 올라가요. 중세 영어에서는 기도하거나 혼자 공부하는 작은 개인 방을 뜻했어요. 나중에 물건이나 옷을 넣어 두는 벽장이라는 뜻으로 바뀌었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "close",
+   "pos": "동사/형용사",
+   "meaning": "닫다 / 가까운",
+   "en": "Please close the door quietly.",
+   "ko": "문을 조용히 닫아 주세요."
+  },
+  {
+   "word": "enclose",
+   "pos": "동사",
+   "meaning": "둘러싸다, 동봉하다",
+   "en": "I enclosed a photo with my letter.",
+   "ko": "편지에 사진 한 장을 동봉했어요."
+  },
+  {
+   "word": "include",
+   "pos": "동사",
+   "meaning": "포함하다",
+   "en": "The price includes breakfast.",
+   "ko": "그 가격에는 아침 식사가 포함돼 있어요."
+  },
+  {
+   "word": "conclude",
+   "pos": "동사",
+   "meaning": "결론을 내리다, 끝내다",
+   "en": "The scientist concluded that the plan would work.",
+   "ko": "과학자는 그 계획이 효과가 있을 거라고 결론 내렸어요."
+  },
+  {
+   "word": "exclude",
+   "pos": "동사",
+   "meaning": "제외하다",
+   "en": "Nobody should be excluded from the game.",
+   "ko": "아무도 그 게임에서 제외되어서는 안 돼."
+  }
+ ],
+ "imageSense": "대표 의미: 문을 닫으면 쏙 숨을 수 있는 작은 옷장",
+ "imageCaption": "문이 닫히는(clos) 작은(-et) 공간을 떠올려 보세요.",
+ "movieLineEn": "There's something moving in the closet!",
+ "movieLineKo": "옷장 안에서 뭔가 움직이고 있어!",
+ "storyTitle": "옷장 속 괴물의 정체",
+ "story": "밤마다 closet(옷장)에서 소리가 났어요. 나는 문을 꽉 close(닫다)하고 괴물이 있다고 conclude(결론 내리다)했죠. 용기를 내어 열어 보니, 괴물은 없고 고양이가 양말을 산더미처럼 enclose(둘러싸다)한 채 자고 있었어요. 범인은 바로 양말 도둑이었답니다!"
+}

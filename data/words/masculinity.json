@@ -1,0 +1,53 @@
+{
+ "word": "masculinity",
+ "pos": "명사",
+ "phonetic": "[ˌmæskjəˈlɪnəti]",
+ "meaning": "남성성, 남자다움",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mascul",
+   "meaning": "남성 (male)",
+   "note": "라틴어 masculus(남자의, 수컷의)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ine",
+   "meaning": "~의, ~에 속하는 (형용사)",
+   "note": "masculine(남성의)을 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~성, ~한 성질 (명사)",
+   "note": "형용사를 추상명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>mascul</strong> (남성) + <strong>-ine</strong> (~의) + <strong>-ity</strong> (~성) = '남성의 성질'이라는 뜻에서 <strong>'남성성, 남자다움'</strong>이 되었습니다.",
+ "historyTitle": "male과 같은 뿌리",
+ "historyBody": "라틴어 masculus는 mas(남자, 수컷)에 '작은'을 뜻하는 꼬리가 붙은 말이에요. 이 masculus가 고대 프랑스어 masle를 거쳐 영어 male(남성)이 되었답니다. 오늘날 사회학 지문에서는 masculinity가 사회가 기대하는 '남성다움'을 뜻하는 경우가 많아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "masculine",
+   "pos": "형용사",
+   "meaning": "남성의, 남자다운",
+   "en": "The actor has a deep, masculine voice.",
+   "ko": "그 배우는 낮고 남성적인 목소리를 가지고 있어요."
+  },
+  {
+   "word": "male",
+   "pos": "형용사/명사",
+   "meaning": "남성의, 수컷의 / 남성",
+   "en": "Male peacocks have colorful tails.",
+   "ko": "수컷 공작은 화려한 꼬리를 가지고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 다양한 모습의 남자들이 저마다의 '남자다움'을 보여 주는 포스터",
+ "imageCaption": "근육질 영웅부터 다정하게 아기를 안은 아빠까지 떠올려 보세요. 그 모든 '남성다움'의 모습이 masculinity예요.",
+ "movieLineEn": "Crying doesn't hurt your masculinity, son.",
+ "movieLineKo": "아들아, 운다고 해서 남자다움이 사라지지 않아.",
+ "storyTitle": "남자다움 대회의 우승자",
+ "story": "학교에서 masculinity(남자다움) 대회가 열렸어요. 태민이는 male(남성) 참가자들 사이에서 masculine(남자다운) 근육을 뽐냈죠. 하지만 우승자는 대회장에서 우는 아기를 다정한 손길로 재운 지호였어요. 심사위원들의 기준은 '책임감'이었거든요!"
+}

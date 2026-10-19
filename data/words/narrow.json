@@ -1,0 +1,48 @@
+{
+ "word": "narrow",
+ "pos": "형용사 / 동사",
+ "phonetic": "[ˈnæroʊ]",
+ "meaning": "좁은, 아슬아슬한 / 좁히다, 좁아지다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "narrow",
+   "meaning": "좁은 (narrow)",
+   "note": "고대 영어 nearu(좁은, 답답한)에서 온 게르만어 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>narrow</strong>는 고대 영어 nearu에서 왔고, 폭이 작아 <strong>'좁은'</strong>, 차이가 작아 <strong>'아슬아슬한'</strong>이라는 뜻으로 쓰여요.",
+ "historyTitle": "답답함을 뜻하던 고대 영어",
+ "historyBody": "고대 영어 nearu는 '좁은'뿐 아니라 '답답한, 곤란한'이라는 뜻도 있었어요. 그래서 지금도 'a narrow escape(구사일생)'처럼 아슬아슬한 상황에 쓰여요. 이 단어의 더 오래된 기원은 확실하게 밝혀지지 않았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "narrowly",
+   "pos": "부사",
+   "meaning": "간신히, 좁게",
+   "en": "The bus narrowly missed the falling tree.",
+   "ko": "버스는 쓰러지는 나무를 간신히 피했어요."
+  },
+  {
+   "word": "narrowness",
+   "pos": "명사",
+   "meaning": "좁음, 편협함",
+   "en": "The narrowness of the street made parking difficult.",
+   "ko": "길이 좁아서 주차하기가 어려웠어요."
+  },
+  {
+   "word": "narrow-minded",
+   "pos": "형용사",
+   "meaning": "편협한, 속 좁은",
+   "en": "Don't be narrow-minded about other cultures.",
+   "ko": "다른 문화에 대해 편협하게 굴지 마."
+  }
+ ],
+ "imageSense": "대표 의미: 두 벽 사이로 겨우 한 사람이 지나가는 좁은 골목",
+ "imageCaption": "어깨를 옆으로 돌려야 겨우 지나갈 수 있는 좁은 골목길을 떠올려 보세요.",
+ "movieLineEn": "That was a narrow escape. We almost didn't make it.",
+ "movieLineKo": "정말 아슬아슬하게 탈출했어. 하마터면 못 빠져나올 뻔했어.",
+ "storyTitle": "좁은 문의 비밀",
+ "story": "뚱냥이 치즈는 narrow(좁은) 담장 틈을 지나가려다 끼어 버렸어요. 겨우 narrowly(간신히) 빠져나온 치즈는 다이어트를 결심했죠. 친구들이 \"너무 narrow-minded(속 좁은) 담장이네\"라며 위로했어요. 다음 날 치즈는 담장 대신 대문으로 당당히 들어갔답니다."
+}

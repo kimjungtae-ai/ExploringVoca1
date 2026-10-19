@@ -1,0 +1,47 @@
+{
+ "word": "cylinder-shaped",
+ "pos": "형용사",
+ "phonetic": "[ˈsɪlɪndər ʃeɪpt]",
+ "meaning": "원통 모양의, 원기둥 모양의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "cylinder",
+   "meaning": "원통, 원기둥 (cylinder)",
+   "note": "그리스어 kylindros(굴림대)에서 왔고, 뿌리는 kylindein(굴리다)이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shaped",
+   "meaning": "~ 모양의 (shaped)",
+   "note": "shape(모양)에 -ed가 붙어 '~ 모양을 한'이라는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>cylinder</strong> (원통) + <strong>shaped</strong> (~ 모양의) = <strong>'원통 모양의'</strong>라는 뜻이에요.",
+ "historyTitle": "그리스어 kylindein, '데굴데굴 굴리다'",
+ "historyBody": "cylinder는 그리스어 kylindros(굴림대, 롤러)에서 라틴어 cylindrus를 거쳐 영어에 들어왔어요. 뿌리 kylindein은 '굴리다'라는 뜻이에요. 옛날 사람들은 무거운 돌을 옮길 때 둥근 통나무를 밑에 깔고 굴렸는데, 그런 '굴러가는 모양'이 바로 원통이었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cylinder",
+   "pos": "명사",
+   "meaning": "원통, 원기둥, (엔진의) 실린더",
+   "en": "The tower is shaped like a tall cylinder.",
+   "ko": "그 탑은 높은 원기둥처럼 생겼어요."
+  },
+  {
+   "word": "cylindrical",
+   "pos": "형용사",
+   "meaning": "원통형의",
+   "en": "Most cans are cylindrical.",
+   "ko": "대부분의 캔은 원통형이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 데굴데굴 굴러가는 음료수 캔",
+ "imageCaption": "책상에서 떨어져 바닥을 데굴데굴 굴러가는 캔을 떠올려 보세요. 굴러가기 좋은 둥근 기둥 모양이 cylinder-shaped예요.",
+ "movieLineEn": "The key is hidden inside a cylinder-shaped box.",
+ "movieLineKo": "열쇠는 원통 모양 상자 안에 숨겨져 있어.",
+ "storyTitle": "굴러가는 필통",
+ "story": "나의 새 필통은 cylinder-shaped(원통 모양의)였어요. 진짜 cylinder(원통)처럼 멋졌죠. 그런데 cylindrical(원통형의) 모양이라 책상에서 자꾸 굴러떨어졌어요. 그래서 cylinder(원통)에 지우개를 붙였더니, 이번엔 바닥에서 데굴데굴 교실 끝까지 굴러가 선생님 발 앞에 멈췄대요!"
+}

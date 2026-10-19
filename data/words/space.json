@@ -1,0 +1,55 @@
+{
+ "word": "space",
+ "pos": "명사 / 동사",
+ "phonetic": "[speɪs]",
+ "meaning": "공간, 우주, 여백 / 간격을 두다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "space (spatium)",
+   "meaning": "공간, 넓이, 거리 (room, distance)",
+   "note": "라틴어 spatium(공간, 시간의 간격)에서 고대 프랑스어 espace를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>space</strong> (라틴어 spatium: 공간, 간격) = 무언가가 들어갈 수 있는 빈 넓이에서 <strong>'공간, 우주, 간격'</strong>이 되었습니다.",
+ "historyTitle": "경주로의 거리에서 우주까지",
+ "historyBody": "라틴어 spatium은 '넓은 곳, 거리, 시간의 간격'을 뜻했고, 원래 경주로의 한 바퀴 거리를 가리키기도 했어요. 고대 프랑스어 espace를 거쳐 영어 space가 되었고, 17세기에는 '지구 밖의 우주'라는 뜻까지 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "spacious",
+   "pos": "형용사",
+   "meaning": "넓은, 널찍한",
+   "en": "Our new classroom is bright and spacious.",
+   "ko": "우리 새 교실은 밝고 널찍해요."
+  },
+  {
+   "word": "spatial",
+   "pos": "형용사",
+   "meaning": "공간의, 공간적인",
+   "en": "Playing with blocks helps children develop spatial skills.",
+   "ko": "블록 놀이는 아이들의 공간 능력 발달에 도움이 돼요."
+  },
+  {
+   "word": "spacecraft",
+   "pos": "명사",
+   "meaning": "우주선",
+   "en": "The spacecraft landed safely on the moon.",
+   "ko": "우주선이 달에 안전하게 착륙했어요."
+  },
+  {
+   "word": "spacing",
+   "pos": "명사",
+   "meaning": "간격, 띄어쓰기",
+   "en": "Check the spacing between the words in your essay.",
+   "ko": "에세이에서 단어 사이의 띄어쓰기를 확인하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없이 펼쳐진 별빛 우주와 텅 빈 방의 넓은 공간",
+ "imageCaption": "빈 방 한가운데 서서 팔을 활짝 벌려도 닿지 않는 넓이를 느껴 보세요.",
+ "movieLineEn": "I just need some space to think.",
+ "movieLineKo": "난 그냥 생각할 공간이 좀 필요해.",
+ "storyTitle": "우주로 간 햄스터",
+ "story": "햄스터 콩이는 좁은 우리가 답답해서 space(우주)로 가기로 했어요. 직접 만든 spacecraft(우주선)를 타고 날아갔죠. 우주는 정말 spacious(널찍한) 곳이었어요. 콩이는 spatial(공간의) 감각을 뽐내며 별 사이를 누볐어요. 그런데 한참 달리다 보니 익숙한 소리가 났어요. 알고 보니 우주선은 그냥 쳇바퀴였답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "bookcase",
+ "pos": "명사",
+ "phonetic": "[ˈbʊkkeɪs]",
+ "meaning": "책장, 책꽂이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "book",
+   "meaning": "책",
+   "note": "고대 영어 bōc에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "case",
+   "meaning": "상자, 통 (box)",
+   "note": "라틴어 capsa(상자)가 고대 북부 프랑스어 casse를 거쳐 온 말이에요."
+  }
+ ],
+ "summary": "<strong>book</strong> (책) + <strong>case</strong> (상자) = '책을 넣어 두는 상자', 즉 <strong>'책장'</strong>이에요.",
+ "historyTitle": "로마의 상자 capsa",
+ "historyBody": "'상자'를 뜻하는 case는 라틴어 capsa에서 왔어요. capsa는 '잡다, 담다'를 뜻하는 capere와 관련 있다고 보는 견해가 일반적이에요. 같은 capsa에서 capsule(캡슐)이 나왔고, 프랑스어 caisse(돈 상자)를 거쳐 cash(현금)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "book",
+   "pos": "명사",
+   "meaning": "책",
+   "en": "This book changed the way I think.",
+   "ko": "이 책은 내 생각하는 방식을 바꿔 놓았어."
+  },
+  {
+   "word": "suitcase",
+   "pos": "명사",
+   "meaning": "여행 가방",
+   "en": "My suitcase was too heavy to carry upstairs.",
+   "ko": "내 여행 가방은 너무 무거워서 위층으로 들 수 없었어."
+  },
+  {
+   "word": "briefcase",
+   "pos": "명사",
+   "meaning": "서류 가방",
+   "en": "Dad always carries a black briefcase to work.",
+   "ko": "아빠는 항상 검은 서류 가방을 들고 출근하셔."
+  },
+  {
+   "word": "capsule",
+   "pos": "명사",
+   "meaning": "캡슐, 작은 용기",
+   "en": "We buried a time capsule in the school garden.",
+   "ko": "우리는 학교 정원에 타임캡슐을 묻었어."
+  },
+  {
+   "word": "cash",
+   "pos": "명사",
+   "meaning": "현금",
+   "en": "This small shop only accepts cash.",
+   "ko": "이 작은 가게는 현금만 받아요."
+  }
+ ],
+ "imageSense": "대표 의미: 벽 한 면을 가득 채운 나무 책장",
+ "imageCaption": "색색의 책이 줄 맞춰 꽂힌 커다란 나무 책장을 떠올려 보세요. 책(book)을 담는 상자(case)예요.",
+ "movieLineEn": "Behind this bookcase is a secret door!",
+ "movieLineKo": "이 책장 뒤에 비밀의 문이 있어!",
+ "storyTitle": "책장 뒤의 비밀",
+ "story": "도윤이는 할아버지 집 bookcase(책장)에서 이상한 book(책)을 당겼어요. 그러자 책장이 스르륵 열리고 낡은 suitcase(여행 가방)가 나타났죠! 보물인 줄 알았는데 안에는 할아버지가 어릴 때 묻으려던 time capsule(캡슐)과 옛날 동전 cash(현금) 몇 개뿐이었어요. 그래도 둘은 한참 웃었답니다."
+}

@@ -1,0 +1,41 @@
+{
+ "word": "jersey",
+ "pos": "명사",
+ "phonetic": "[ˈdʒɜːrzi]",
+ "meaning": "(운동선수의) 유니폼 상의, 저지(니트 상의)",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "Jersey",
+   "meaning": "저지 섬 (영국해협의 섬)",
+   "note": "니트 옷감으로 유명했던 섬 이름이 옷 이름이 됐어요."
+  }
+ ],
+ "summary": "영국해협의 <strong>Jersey</strong> (저지 섬)에서 짜던 니트 옷감 이름이 <strong>'운동복 상의, 저지'</strong>가 되었어요.",
+ "historyTitle": "섬 이름이 옷 이름이 된 사연",
+ "historyBody": "jersey는 영국해협에 있는 저지(Jersey) 섬의 이름에서 왔어요. 이 섬은 16세기부터 털실로 짠 니트 옷으로 유명해서, 그 옷감과 옷을 jersey라고 부르게 되었죠. 섬 이름 자체는 고대 노르드어 -ey('섬')가 붙은 말로 보지만, 앞부분의 정확한 뜻은 확실하지 않아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "Jersey",
+   "pos": "명사",
+   "meaning": "저지 섬",
+   "en": "Jersey is a small island between England and France.",
+   "ko": "저지는 영국과 프랑스 사이에 있는 작은 섬이에요."
+  },
+  {
+   "word": "New Jersey",
+   "pos": "명사",
+   "meaning": "뉴저지 (미국의 주)",
+   "en": "New Jersey was named after the island of Jersey.",
+   "ko": "뉴저지는 저지 섬의 이름을 따서 지어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 등번호 10번이 적힌 축구 유니폼 상의",
+ "imageCaption": "좋아하는 선수의 이름과 등번호가 크게 새겨진 유니폼을 입고 응원하는 모습을 떠올려 보세요.",
+ "movieLineEn": "He signed my jersey and said, 'Never give up, kid.'",
+ "movieLineKo": "그는 내 유니폼에 사인해 주며 말했어. '포기하지 마, 꼬마야.'",
+ "storyTitle": "강아지의 유니폼",
+ "story": "축구팬 강아지가 좋아하는 선수의 jersey(유니폼 상의)를 샀어요. 그 옷이 Jersey(저지 섬)에서 온 이름이라는 걸 알고, 휴가로 New Jersey(뉴저지)에 가기로 했죠. 그런데 도착해 보니 거긴 섬이 아니라 미국이었어요. 강아지는 jersey(유니폼)만 입고 바다를 찾아 헤맸답니다."
+}

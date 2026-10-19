@@ -1,0 +1,67 @@
+{
+ "word": "indoors",
+ "pos": "부사",
+ "phonetic": "[ˌɪnˈdɔːrz]",
+ "meaning": "실내에서, 실내로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에 (in)",
+   "note": "영어 전치사 in이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "door",
+   "meaning": "문 (door)",
+   "note": "고대 영어 duru에서 온, 게르만어 계열의 아주 오래된 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "부사를 만드는 꼬리",
+   "note": "always, besides처럼 부사를 만드는 옛 꼬리 -s예요."
+  }
+ ],
+ "summary": "<strong>in</strong> (안에) + <strong>door</strong> (문) + <strong>-s</strong> = '문 안쪽에서'라는 뜻에서 <strong>'실내에서'</strong>가 되었습니다.",
+ "historyTitle": "문 안쪽이라는 소박한 표현",
+ "historyBody": "18세기 무렵 'within doors(문 안에서)'라는 표현이 줄어서 indoors가 되었어요. door는 고대 영어 duru에서 온 게르만어 단어로, 라틴어 foris(문)와 먼 친척이에요. 반대말 outdoors도 같은 방식으로 만들어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "indoor",
+   "pos": "형용사",
+   "meaning": "실내의",
+   "en": "We played indoor games on the rainy day.",
+   "ko": "비 오는 날 우리는 실내 게임을 했어요."
+  },
+  {
+   "word": "outdoors",
+   "pos": "부사",
+   "meaning": "야외에서",
+   "en": "Children should play outdoors more often.",
+   "ko": "아이들은 더 자주 밖에서 놀아야 해요."
+  },
+  {
+   "word": "outdoor",
+   "pos": "형용사",
+   "meaning": "야외의",
+   "en": "The school has an outdoor swimming pool.",
+   "ko": "그 학교에는 야외 수영장이 있어요."
+  },
+  {
+   "word": "doorway",
+   "pos": "명사",
+   "meaning": "출입구",
+   "en": "A cat was sleeping in the doorway.",
+   "ko": "고양이 한 마리가 출입구에서 자고 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 창밖엔 폭우, 집 안에선 담요 덮고 코코아 마시는 장면",
+ "imageCaption": "문을 닫고 안쪽에 머무는 아늑한 모습을 떠올려 보세요. 문 안쪽, 그게 indoors예요.",
+ "movieLineEn": "Stay indoors tonight. Something's out there.",
+ "movieLineKo": "오늘 밤은 실내에 있어. 밖에 뭔가 있어.",
+ "storyTitle": "실내파 고양이의 탈출",
+ "story": "고양이 나비는 평생 indoors(실내에서)만 살았어요. 어느 날 doorway(출입구)가 열리자 outdoors(야외에서)의 세상으로 뛰어나갔죠. 1분 뒤, 비가 오자 바로 돌아와 indoor(실내의) 소파에 누웠어요. 나비의 첫 모험은 그렇게 60초 만에 끝났답니다."
+}

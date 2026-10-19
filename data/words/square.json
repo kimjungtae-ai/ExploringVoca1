@@ -1,0 +1,61 @@
+{
+ "word": "square",
+ "pos": "명사 / 형용사",
+ "phonetic": "[skwer]",
+ "meaning": "정사각형, 광장, 제곱 / 정사각형의, 공정한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "s- (ex-)",
+   "meaning": "밖으로, 완전히 (out, thoroughly)",
+   "note": "라틴어 ex-가 줄어서 앞의 s-만 남았어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "quare (quadrare)",
+   "meaning": "네모나게 만들다 (make square)",
+   "note": "라틴어 quattuor(넷)에서 온 quadrare예요."
+  }
+ ],
+ "summary": "<strong>s- (ex-)</strong> (완전히) + <strong>quare</strong> (네모나게 하다) = '네 변을 딱 맞춰 네모나게 만든 것'에서 <strong>'정사각형, 광장'</strong>이 되었습니다.",
+ "historyTitle": "숫자 4에서 태어난 네모",
+ "historyBody": "라틴어 quattuor(넷)에서 quadrare(네모나게 만들다)가 나왔고, 속라틴어 *exquadra를 거쳐 고대 프랑스어 esquare가 되었어요. 이것이 영어 square로 들어왔죠. 도시의 네모난 넓은 터는 광장(square)이 되었고, 같은 숫자 4에서 quarter와 squad도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "quarter",
+   "pos": "명사",
+   "meaning": "4분의 1, 15분",
+   "en": "I'll meet you at a quarter past three.",
+   "ko": "3시 15분에 만나자."
+  },
+  {
+   "word": "quartet",
+   "pos": "명사",
+   "meaning": "4중주, 4인조",
+   "en": "A string quartet played at the wedding.",
+   "ko": "결혼식에서 현악 4중주단이 연주했어요."
+  },
+  {
+   "word": "squad",
+   "pos": "명사",
+   "meaning": "분대, 팀",
+   "en": "The rescue squad arrived within minutes.",
+   "ko": "구조대가 몇 분 만에 도착했어요."
+  },
+  {
+   "word": "quadruple",
+   "pos": "동사",
+   "meaning": "4배가 되다",
+   "en": "The number of visitors quadrupled last year.",
+   "ko": "작년에 방문객 수가 4배로 늘었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 네모 반듯한 타일과 사람들이 모인 도시 광장",
+ "imageCaption": "네 변의 길이가 똑같은 네모, 그리고 그런 모양의 넓은 광장을 떠올려 보세요.",
+ "movieLineEn": "Meet me in the town square at midnight. Come alone.",
+ "movieLineKo": "자정에 마을 광장에서 만나. 혼자 와.",
+ "storyTitle": "네모를 사랑한 로봇",
+ "story": "로봇 큐브는 모든 걸 square(정사각형)로 만들었어요. 피자도 네모, 수박도 네모였죠. 큐브는 친구 셋과 quartet(4인조)를 만들어 광장에서 공연했어요. 사람들은 quarter(15분)마다 박수를 쳤죠. 인기가 quadruple(4배가 되다)하자 큐브는 팬을 위한 squad(팀)를 꾸렸어요. 그런데 팬들이 준 선물은 동그란 도넛이라 큐브는 고장 나 버렸대요!"
+}

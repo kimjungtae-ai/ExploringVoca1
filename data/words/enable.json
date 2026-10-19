@@ -1,0 +1,68 @@
+{
+ "word": "enable",
+ "pos": "동사",
+ "phonetic": "[ɪˈneɪbl]",
+ "meaning": "~할 수 있게 하다, 가능하게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~하게 만들다 (make)",
+   "note": "형용사나 명사 앞에 붙어 '~하게 만들다'라는 동사를 만들어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "able",
+   "meaning": "~할 수 있는 (able)",
+   "note": "라틴어 habilis(다루기 쉬운)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (~하게 만들다) + <strong>able</strong> (~할 수 있는) = '할 수 있게 만들다'라는 뜻에서 <strong>'가능하게 하다'</strong>가 되었어요.",
+ "historyTitle": "다루기 쉬운 손잡이에서 온 able",
+ "historyBody": "able은 라틴어 habilis(쉽게 다룰 수 있는, 알맞은)에서 고대 프랑스어를 거쳐 들어왔어요. habilis는 habere(가지다, 잡다)에서 왔답니다. enable은 15세기 무렵 en-(만들다)을 붙여 '할 수 있게 하다'라는 동사로 만들어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "able",
+   "pos": "형용사",
+   "meaning": "~할 수 있는, 유능한",
+   "en": "She was able to finish the race.",
+   "ko": "그녀는 경주를 끝까지 완주할 수 있었어요."
+  },
+  {
+   "word": "ability",
+   "pos": "명사",
+   "meaning": "능력",
+   "en": "He has the ability to speak three languages.",
+   "ko": "그는 세 개의 언어를 말하는 능력이 있어요."
+  },
+  {
+   "word": "unable",
+   "pos": "형용사",
+   "meaning": "~할 수 없는",
+   "en": "I was unable to sleep because of the noise.",
+   "ko": "소음 때문에 잠을 잘 수 없었어요."
+  },
+  {
+   "word": "disable",
+   "pos": "동사",
+   "meaning": "무능력하게 하다, (기능을) 끄다",
+   "en": "You can disable this function in the settings.",
+   "ko": "설정에서 이 기능을 끌 수 있어요."
+  },
+  {
+   "word": "inability",
+   "pos": "명사",
+   "meaning": "무능, ~할 수 없음",
+   "en": "His inability to swim made him nervous at the beach.",
+   "ko": "수영을 못해서 그는 해변에서 긴장했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 안경을 쓰자 흐릿한 세상이 선명하게 보이는 장면",
+ "imageCaption": "안경 하나가 칠판 글씨를 볼 수 있게 해 주는 순간을 떠올려 보세요. '~할 수 있게 해 주는 것'이 enable이에요.",
+ "movieLineEn": "This ring will enable you to see the invisible.",
+ "movieLineKo": "이 반지는 네가 보이지 않는 것을 볼 수 있게 해 줄 거야.",
+ "storyTitle": "마법의 운동화",
+ "story": "할아버지가 선물해 주신 운동화는 나를 빨리 달릴 수 있게 enable(가능하게 하다)해 줬어요. 원래 나는 달리기에 ability(능력)가 없었죠. 체육대회 날 나는 1등을 할 수 있었어요. 그런데 할아버지가 웃으며 말씀하셨어요. \"그냥 평범한 운동화야.\" 나를 able(할 수 있는)하게 만든 건 운동화가 아니라 자신감이었답니다. 이제 unable(할 수 없는)은 없어요!"
+}

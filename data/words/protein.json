@@ -1,0 +1,54 @@
+{
+ "word": "protein",
+ "pos": "명사",
+ "phonetic": "[ˈproʊtiːn]",
+ "meaning": "단백질",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "prote",
+   "meaning": "첫째의, 가장 중요한 (first)",
+   "note": "그리스어 protos(첫째)에서 온 proteios(으뜸의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-in",
+   "meaning": "화학 물질 이름 꼬리",
+   "note": "화학에서 물질 이름을 만들 때 붙이는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>prote</strong> (으뜸의) + <strong>-in</strong> (물질) = '생명에 가장 중요한 물질'이라는 뜻에서 <strong>'단백질'</strong>이 되었어요.",
+ "historyTitle": "1838년에 새로 지은 과학 단어",
+ "historyBody": "protein은 1838년 네덜란드 화학자 물더르가 처음 쓴 말로, 스웨덴 화학자 베르셀리우스가 이름을 제안했어요. 그리스어 proteios(으뜸가는)를 바탕으로, 생명에 가장 기본이 되는 물질이라고 여겨 붙인 이름이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prototype",
+   "pos": "명사",
+   "meaning": "원형, 시제품",
+   "en": "The engineers tested the first prototype of the car.",
+   "ko": "엔지니어들은 그 자동차의 첫 시제품을 시험했어요."
+  },
+  {
+   "word": "protagonist",
+   "pos": "명사",
+   "meaning": "주인공",
+   "en": "The protagonist of the novel is a brave girl.",
+   "ko": "그 소설의 주인공은 용감한 소녀예요."
+  },
+  {
+   "word": "protocol",
+   "pos": "명사",
+   "meaning": "규약, 의례, 절차",
+   "en": "Doctors must follow strict safety protocols.",
+   "ko": "의사들은 엄격한 안전 규약을 따라야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 달걀, 닭가슴살, 콩이 접시에 가득 담긴 장면",
+ "imageCaption": "근육을 만드는 '으뜸 재료' 음식들을 떠올려 보세요.",
+ "movieLineEn": "You need more protein if you want to get stronger.",
+ "movieLineKo": "더 강해지고 싶으면 단백질을 더 먹어야 해.",
+ "storyTitle": "단백질 주인공",
+ "story": "헬스장의 protagonist(주인공) 철수는 하루에 달걀 스무 개를 먹었어요. protein(단백질)이 최고라며 '근육 prototype(시제품)'이 되겠다고 했죠. 자기만의 식사 protocol(절차)도 만들었어요. 그런데 한 달 뒤 늘어난 건 근육이 아니라 집 냉장고의 달걀판이었답니다!"
+}

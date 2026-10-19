@@ -1,0 +1,75 @@
+{
+ "word": "reject",
+ "pos": "동사",
+ "phonetic": "[rɪˈdʒekt]",
+ "meaning": "거절하다, 거부하다, 불합격시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back)",
+   "note": "받지 않고 뒤로 되돌린다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ject",
+   "meaning": "던지다 (throw)",
+   "note": "라틴어 iacere(던지다)의 과거분사 iactus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>ject</strong> (던지다) = 받은 것을 뒤로 던져 버리다, 즉 <strong>'거절하다, 거부하다'</strong>예요.",
+ "historyTitle": "받기 싫으면 뒤로 '던진다'",
+ "historyBody": "라틴어 reicere(뒤로 던지다)의 과거분사 reiectus에서 reject가 나왔어요. 원치 않는 것을 휙 뒤로 던져 버리는 모습이 '거절하다'가 된 거죠. ject 가족은 project, inject, object처럼 수능 필수 단어가 정말 많아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rejection",
+   "pos": "명사",
+   "meaning": "거절, 거부",
+   "en": "She did not give up after the first rejection.",
+   "ko": "그녀는 첫 거절 후에도 포기하지 않았어요."
+  },
+  {
+   "word": "project",
+   "pos": "명사 / 동사",
+   "meaning": "프로젝트, 계획 / 투사하다, 예상하다",
+   "en": "Our group project is about climate change.",
+   "ko": "우리 조별 과제는 기후 변화에 관한 거예요."
+  },
+  {
+   "word": "inject",
+   "pos": "동사",
+   "meaning": "주사하다, 주입하다",
+   "en": "The nurse injected the medicine into his arm.",
+   "ko": "간호사가 그의 팔에 약을 주사했어요."
+  },
+  {
+   "word": "object",
+   "pos": "명사 / 동사",
+   "meaning": "물체, 대상 / 반대하다",
+   "en": "Many parents objected to the new rule.",
+   "ko": "많은 학부모가 새 규칙에 반대했어요."
+  },
+  {
+   "word": "subject",
+   "pos": "명사",
+   "meaning": "주제, 과목",
+   "en": "Math is my favorite subject.",
+   "ko": "수학은 내가 제일 좋아하는 과목이에요."
+  },
+  {
+   "word": "eject",
+   "pos": "동사",
+   "meaning": "내쫓다, 꺼내다",
+   "en": "Press this button to eject the disc.",
+   "ko": "디스크를 꺼내려면 이 버튼을 누르세요."
+  }
+ ],
+ "imageSense": "대표 의미: 선물 상자를 '됐어요!' 하며 손으로 밀어내는 모습",
+ "imageCaption": "받기 싫은 제안을 두 손으로 휙 밀어 던지는 장면을 떠올려 보세요. 뒤로 던져 버리는 것이 reject예요.",
+ "movieLineEn": "You can't reject me. I'm your destiny!",
+ "movieLineKo": "넌 날 거절할 수 없어. 난 너의 운명이야!",
+ "storyTitle": "고백 대작전",
+ "story": "민호는 좋아하는 친구에게 고백하는 project(계획)를 세웠어요. 영상까지 project(투사하다)했지만, 친구는 바로 reject(거절하다)했죠. 충격의 rejection(거절) 뒤 민호는 이유를 물었어요. 친구가 답했어요. '너 말고, 네가 고른 subject(주제)가 별로야. 고백 영상이 왜 수학 문제 풀이야?'"
+}

@@ -1,0 +1,55 @@
+{
+ "word": "phishing",
+ "pos": "명사",
+ "phonetic": "[ˈfɪʃɪŋ]",
+ "meaning": "피싱(개인 정보를 빼내는 온라인 사기)",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "phishing",
+   "meaning": "낚시 (fishing)를 변형한 말",
+   "note": "1990년대 해커들이 fishing의 f를 ph로 바꿔 만든 신조어예요."
+  }
+ ],
+ "summary": "<strong>fishing</strong> (낚시)의 철자를 바꾼 <strong>phishing</strong> = 미끼 메일로 정보를 낚는 <strong>'피싱 사기'</strong>예요.",
+ "historyTitle": "해커들의 장난스러운 철자",
+ "historyBody": "phishing은 1990년대 중반 인터넷 사기꾼들이 가짜 메일이라는 미끼로 비밀번호를 '낚는' 행위를 부르던 말이에요. f 대신 ph를 쓴 것은 전화망을 해킹하던 'phreaking'의 영향으로 보는 것이 일반적이지만, 정확한 경위는 확실하지 않아요. 그래서 단어를 쪼개기보다 fishing의 변형으로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "fishing",
+   "pos": "명사",
+   "meaning": "낚시",
+   "en": "My uncle goes fishing at the lake every weekend.",
+   "ko": "삼촌은 주말마다 호수로 낚시하러 가세요."
+  },
+  {
+   "word": "fish",
+   "pos": "명사/동사",
+   "meaning": "물고기 / 낚시하다",
+   "en": "We watched colorful fish swimming in the tank.",
+   "ko": "우리는 수조 속을 헤엄치는 알록달록한 물고기를 구경했어요."
+  },
+  {
+   "word": "fisherman",
+   "pos": "명사",
+   "meaning": "어부, 낚시꾼",
+   "en": "The old fisherman repaired his net by the sea.",
+   "ko": "늙은 어부가 바닷가에서 그물을 고쳤어요."
+  },
+  {
+   "word": "phish",
+   "pos": "동사",
+   "meaning": "피싱하다, 정보를 낚다",
+   "en": "Scammers tried to phish my password with a fake email.",
+   "ko": "사기꾼들이 가짜 메일로 내 비밀번호를 빼내려 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 이메일 화면에서 낚싯바늘이 비밀번호를 걸어 올리는 장면",
+ "imageCaption": "모니터 속에서 낚싯바늘이 내 비밀번호를 쏙 걸어 올리는 모습을 그려 보세요.",
+ "movieLineEn": "Don't click that link. It's a phishing scam!",
+ "movieLineKo": "그 링크 누르지 마. 피싱 사기야!",
+ "storyTitle": "낚시왕 할아버지",
+ "story": "fisherman(어부) 할아버지가 '당첨! 링크를 누르세요'라는 메일을 받았어요. 손자가 외쳤죠. \"phishing(피싱)이에요!\" 할아버지는 웃었어요. \"평생 fish(물고기)를 낚았는데 내가 낚일 줄 아니?\" 그러고는 사기꾼에게 '당신 계좌번호부터 보내요'라고 답장했대요. fishing(낚시) 고수는 역시 달라요!"
+}

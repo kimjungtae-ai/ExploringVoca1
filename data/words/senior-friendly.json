@@ -1,0 +1,74 @@
+{
+ "word": "senior-friendly",
+ "pos": "형용사",
+ "phonetic": "[ˌsiːniər ˈfrendli]",
+ "meaning": "노인 친화적인, 어르신이 이용하기 편한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "senior",
+   "meaning": "노인, 연장자 (older person)",
+   "note": "라틴어 'senior(더 나이 든)'에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "friend",
+   "meaning": "친구 (friend)",
+   "note": "고대 영어 'frēond'에서 왔고 '사랑하다'와 관련된 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~한 (형용사)",
+   "note": "명사에 붙어 '~다운'이란 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>senior</strong> (노인) + <strong>friendly</strong> (친화적인) = 어르신에게 친절하고 편한, 즉 <strong>'노인 친화적인'</strong>이에요.",
+ "historyTitle": "'친구'가 '친화적인'이 되기까지",
+ "historyBody": "friend는 고대 영어 'frēond'에서 왔는데, 원래 '사랑하는 사람'이라는 뜻이었어요. 여기에 -ly가 붙은 friendly는 '다정한'이었고, 20세기 후반부터 user-friendly처럼 '~가 쓰기 편한'이란 뜻으로도 쓰였어요. senior-friendly는 고령화 사회에서 자주 쓰이는 새 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "senior",
+   "pos": "명사",
+   "meaning": "노인, 연장자",
+   "en": "The library offers free computer classes for seniors.",
+   "ko": "그 도서관은 어르신들을 위한 무료 컴퓨터 수업을 열어요."
+  },
+  {
+   "word": "friendly",
+   "pos": "형용사",
+   "meaning": "친절한, 다정한",
+   "en": "The staff at the hotel were very friendly.",
+   "ko": "호텔 직원들은 아주 친절했어요."
+  },
+  {
+   "word": "user-friendly",
+   "pos": "형용사",
+   "meaning": "사용하기 쉬운",
+   "en": "This app has a simple, user-friendly design.",
+   "ko": "이 앱은 간단하고 사용하기 쉬운 디자인이에요."
+  },
+  {
+   "word": "eco-friendly",
+   "pos": "형용사",
+   "meaning": "친환경적인",
+   "en": "We use eco-friendly bags instead of plastic ones.",
+   "ko": "우리는 비닐봉지 대신 친환경 가방을 써요."
+  },
+  {
+   "word": "friendship",
+   "pos": "명사",
+   "meaning": "우정",
+   "en": "Their friendship lasted for more than fifty years.",
+   "ko": "그들의 우정은 50년 넘게 이어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 큰 글씨 메뉴판과 손잡이가 있는 노인 친화적 카페",
+ "imageCaption": "글씨가 크고 계단 대신 경사로가 있는 가게에 할머니가 웃으며 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "We made this phone senior-friendly. Big buttons, loud sound!",
+ "movieLineKo": "우리는 이 폰을 어르신 친화적으로 만들었어요. 큰 버튼, 큰 소리!",
+ "storyTitle": "할머니의 키오스크 대결",
+ "story": "동네 카페에 senior-friendly(노인 친화적인) 키오스크가 생겼어요. 글씨도 크고 정말 user-friendly(사용하기 쉬운)했죠. 그런데 할머니는 기계 대신 friendly(친절한) 사장님과 수다만 30분! 사장님 왈, \"이게 진짜 friendship(우정) 서비스죠.\""
+}

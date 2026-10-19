@@ -1,0 +1,75 @@
+{
+ "word": "majestic",
+ "pos": "형용사",
+ "phonetic": "[məˈdʒestɪk]",
+ "meaning": "장엄한, 위엄 있는, 웅장한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "majest",
+   "meaning": "위대함, 위엄 (greatness)",
+   "note": "라틴어 maiestas(위대함)에서 왔고, maior(더 큰)와 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의, ~적인 (형용사)",
+   "note": "명사에 붙어 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>majest(y)</strong> (위엄) + <strong>-ic</strong> (~적인) = '위엄이 넘치는'이라는 뜻에서 <strong>'장엄한, 웅장한'</strong>이 되었습니다.",
+ "historyTitle": "왕을 부르던 말 '마제스티'",
+ "historyBody": "라틴어 maiestas는 '위대함, 위엄'을 뜻하며 magnus(큰)의 비교급 maior와 관련 있어요. 영어 majesty는 왕이나 여왕을 높여 부르는 'Your Majesty(폐하)'로도 쓰였죠. 17세기에 여기서 '위엄 있는, 장엄한'이라는 형용사 majestic이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "majesty",
+   "pos": "명사",
+   "meaning": "위엄, 장엄함, 폐하",
+   "en": "We were amazed by the majesty of the mountains.",
+   "ko": "우리는 산의 장엄함에 감탄했어요."
+  },
+  {
+   "word": "major",
+   "pos": "형용사",
+   "meaning": "주요한, 중대한",
+   "en": "Climate change is a major problem today.",
+   "ko": "기후 변화는 오늘날 중대한 문제예요."
+  },
+  {
+   "word": "majority",
+   "pos": "명사",
+   "meaning": "대다수, 과반수",
+   "en": "The majority of students voted for the plan.",
+   "ko": "대다수의 학생들이 그 계획에 찬성표를 던졌어요."
+  },
+  {
+   "word": "mayor",
+   "pos": "명사",
+   "meaning": "시장",
+   "en": "The mayor opened the new library.",
+   "ko": "시장이 새 도서관을 개관했어요."
+  },
+  {
+   "word": "magnify",
+   "pos": "동사",
+   "meaning": "확대하다",
+   "en": "A microscope can magnify tiny cells.",
+   "ko": "현미경은 아주 작은 세포를 확대할 수 있어요."
+  },
+  {
+   "word": "magnitude",
+   "pos": "명사",
+   "meaning": "규모, 크기, 중요성",
+   "en": "No one expected an earthquake of that magnitude.",
+   "ko": "아무도 그런 규모의 지진을 예상하지 못했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈 덮인 히말라야 봉우리가 구름 위로 우뚝 솟은 장면",
+ "imageCaption": "왕관을 쓴 왕처럼 당당하고 거대한 산을 떠올려 보세요. 그 위엄이 majestic이에요.",
+ "movieLineEn": "Look at that majestic eagle. It rules the sky.",
+ "movieLineKo": "저 위엄 있는 독수리를 봐. 하늘의 왕이야.",
+ "storyTitle": "위엄 있는 고양이 폐하",
+ "story": "우리 집 고양이는 소파 위에 majestic(위엄 있는) 자세로 앉아 있어요. 가족들은 그를 'Your majesty(폐하)'라고 불러요. 집안의 majority(대다수) 결정도 그가 내리죠. 그런데 오이 하나를 magnify(확대하다)한 사진을 보여주자, 폐하는 비명을 지르며 커튼 위로 도망쳤답니다."
+}

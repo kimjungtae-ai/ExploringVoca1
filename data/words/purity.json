@@ -1,0 +1,61 @@
+{
+ "word": "purity",
+ "pos": "명사",
+ "phonetic": "[ˈpjʊrəti]",
+ "meaning": "순수성, 순도, 깨끗함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pure",
+   "meaning": "순수한, 깨끗한 (pure, clean)",
+   "note": "라틴어 purus(깨끗한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~함, ~성 (명사)",
+   "note": "형용사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>pure</strong> (깨끗한) + <strong>-ity</strong> (~성) = '깨끗한 상태'라는 뜻에서 <strong>'순수성, 순도'</strong>가 되었어요.",
+ "historyTitle": "섞이지 않은 깨끗함",
+ "historyBody": "라틴어 purus는 '깨끗한, 섞이지 않은'이라는 뜻이에요. 라틴어 puritas가 고대 프랑스어를 거쳐 13세기 영어에 들어왔어요. 금의 '순도'나 물의 '깨끗함'을 말할 때 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pure",
+   "pos": "형용사",
+   "meaning": "순수한, 깨끗한",
+   "en": "The air in the mountains is pure and fresh.",
+   "ko": "산속 공기는 깨끗하고 상쾌해요."
+  },
+  {
+   "word": "purify",
+   "pos": "동사",
+   "meaning": "정화하다",
+   "en": "This filter purifies drinking water.",
+   "ko": "이 필터는 식수를 정화해요."
+  },
+  {
+   "word": "purely",
+   "pos": "부사",
+   "meaning": "순전히, 완전히",
+   "en": "It was purely an accident.",
+   "ko": "그건 순전히 사고였어요."
+  },
+  {
+   "word": "impure",
+   "pos": "형용사",
+   "meaning": "불순한, 더러운",
+   "en": "Impure water can make people sick.",
+   "ko": "더러운 물은 사람들을 아프게 할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 투명하게 반짝이는 맑은 샘물",
+ "imageCaption": "아무것도 섞이지 않아 바닥까지 훤히 보이는 물을 떠올려 보세요.",
+ "movieLineEn": "This diamond is of the highest purity.",
+ "movieLineKo": "이 다이아몬드는 최고 순도야.",
+ "storyTitle": "깨끗함의 집착",
+ "story": "삼촌은 물의 purity(순도)에 집착해요. pure(순수한) 물만 마신다며 정수기 세 대로 물을 purify(정화하다)하죠. impure(불순한) 것은 한 방울도 안 된대요. 그런데 오늘 마신 물은 purely(순전히) 실수로 어항 물이었어요. 삼촌은 '맛이 더 깊다'며 좋아했답니다!"
+}

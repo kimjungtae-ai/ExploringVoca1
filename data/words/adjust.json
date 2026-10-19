@@ -1,0 +1,54 @@
+{
+ "word": "adjust",
+ "pos": "동사",
+ "phonetic": "[əˈdʒʌst]",
+ "meaning": "조정하다, 맞추다, 적응하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~에, ~가까이 (to)",
+   "note": "가까이 붙인다는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "just",
+   "meaning": "곁에, 가까이 (near) / 옳은 (right)",
+   "note": "라틴어 iuxta(곁에)에서 왔는데, 나중에 iustus(옳은)와 연결되어 이해되었어요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~에) + <strong>just</strong> (가까이 / 옳은) = '알맞게 붙여 바로 맞추다'에서 <strong>'조정하다, 적응하다'</strong>가 되었어요.",
+ "historyTitle": "두 뿌리가 섞여 버린 단어",
+ "historyBody": "사전에 따르면 adjust는 고대 프랑스어 ajoster(붙이다, 합치다)에서 왔고, 이것은 후기 라틴어 adiuxtare(가까이 대다, iuxta '곁에')가 뿌리예요. 그런데 사람들이 이것을 '옳은'을 뜻하는 juste와 같은 말로 여기면서 철자와 뜻이 '바르게 맞추다'로 바뀌었어요. 그래서 just(옳은)와 연결하는 해석은 엄밀한 어원이라기보다 역사 속 오해에서 생긴 거라 주의가 필요해요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "adjustment",
+   "pos": "명사",
+   "meaning": "조정, 적응",
+   "en": "It took me a week to make the adjustment to my new school.",
+   "ko": "새 학교에 적응하는 데 일주일이 걸렸어요."
+  },
+  {
+   "word": "adjustable",
+   "pos": "형용사",
+   "meaning": "조절할 수 있는",
+   "en": "This desk has an adjustable height.",
+   "ko": "이 책상은 높이를 조절할 수 있어요."
+  },
+  {
+   "word": "readjust",
+   "pos": "동사",
+   "meaning": "재조정하다, 다시 적응하다",
+   "en": "After the trip, I had to readjust to the time difference.",
+   "ko": "여행 후에 나는 시차에 다시 적응해야 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 자전거 안장 높이를 내 키에 맞게 조절하는 장면",
+ "imageCaption": "조금씩 돌려 가며 '딱 맞게' 맞추는 손을 떠올려 보세요.",
+ "movieLineEn": "Adjust your mirror before we start the race.",
+ "movieLineKo": "레이스 시작 전에 거울을 조정해.",
+ "storyTitle": "키가 자라는 의자",
+ "story": "민수는 adjustable(조절할 수 있는) 의자를 샀어요. 매일 높이를 adjust(조정하다)했죠. 그런데 의자가 고장 나서 혼자 계속 올라갔어요! 민수는 천장 높이에 adjustment(적응)해야 했어요. 결국 천장에서 공부하는 습관이 생겼고, 내려와서 다시 readjust(다시 적응하다)하는 데 한 달이 걸렸대요."
+}

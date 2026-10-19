@@ -1,0 +1,68 @@
+{
+ "word": "issue",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪʃuː]",
+ "meaning": "문제, 쟁점, (잡지의) 호 / 발행하다, 발표하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex-가 프랑스어를 거치며 is-처럼 변했어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ire",
+   "meaning": "가다 (go)",
+   "note": "라틴어 ire(가다)에서 온 뿌리예요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>ire</strong> (가다) = '밖으로 나가는 것'에서 <strong>'나오는 것 → 발행, 결과로 나온 문제'</strong>가 되었어요.",
+ "historyTitle": "출구에서 시작된 단어",
+ "historyBody": "issue는 고대 프랑스어 issue('출구, 나가는 길')에서 왔고, 이는 라틴어 exire('밖으로 나가다')에서 나온 말이에요. '밖으로 나오는 것'에서 책이 세상에 나오는 '발행', 논의 끝에 나오는 '쟁점, 문제'라는 뜻이 생겼답니다. exit(출구)도 같은 exire에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "exit",
+   "pos": "명사 / 동사",
+   "meaning": "출구 / 나가다",
+   "en": "Please use the emergency exit in case of fire.",
+   "ko": "화재 시에는 비상구를 이용해 주세요."
+  },
+  {
+   "word": "transit",
+   "pos": "명사",
+   "meaning": "통과, 운송, 대중교통",
+   "en": "My bag was lost in transit at the airport.",
+   "ko": "내 가방은 공항에서 운송 중에 분실됐어요."
+  },
+  {
+   "word": "initial",
+   "pos": "형용사",
+   "meaning": "처음의, 초기의",
+   "en": "My initial plan was to study abroad.",
+   "ko": "내 처음 계획은 유학을 가는 것이었어요."
+  },
+  {
+   "word": "initiate",
+   "pos": "동사",
+   "meaning": "시작하다, 착수하다",
+   "en": "The school initiated a new recycling program.",
+   "ko": "학교는 새로운 재활용 프로그램을 시작했어요."
+  },
+  {
+   "word": "ambition",
+   "pos": "명사",
+   "meaning": "야망, 포부",
+   "en": "Her ambition is to become a famous scientist.",
+   "ko": "그녀의 꿈은 유명한 과학자가 되는 것이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의실 칠판에 '오늘의 쟁점'이라고 크게 써 놓고 토론하는 장면",
+ "imageCaption": "문 밖으로 쑥 나온 것처럼, 사람들 앞에 '튀어나온' 문제를 떠올려 보세요.",
+ "movieLineEn": "That's not the real issue here, and you know it.",
+ "movieLineKo": "그게 진짜 문제가 아니라는 거, 너도 알잖아.",
+ "storyTitle": "출구 앞의 대소동",
+ "story": "학교 축제에서 가장 큰 issue(문제)는 exit(출구)가 하나뿐이라는 거였어요. 학생회장은 initial(처음의) 계획을 바꾸고 새 출구 공사를 initiate(시작하다)했죠. 그런데 다 만들고 보니 새 출구는 교장실로 바로 연결됐어요. 그날 아무도 나가지 못했답니다."
+}

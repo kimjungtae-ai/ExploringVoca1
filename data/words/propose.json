@@ -1,0 +1,68 @@
+{
+ "word": "propose",
+ "pos": "동사",
+ "phonetic": "[prəˈpoʊz]",
+ "meaning": "제안하다, 청혼하다, 계획하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "사람들 앞에 내놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pose",
+   "meaning": "두다, 놓다 (put)",
+   "note": "고대 프랑스어 poser(놓다)에서 왔고, 라틴어 ponere(놓다)와 뜻이 겹쳐졌어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>pose</strong> (놓다) = '생각을 앞에 내놓다'라는 뜻에서 <strong>'제안하다'</strong>가 되었어요.",
+ "historyTitle": "생각을 테이블 앞에 내놓기",
+ "historyBody": "propose는 고대 프랑스어 proposer에서 14세기에 영어로 들어왔어요. 이 말은 라틴어 proponere(앞에 놓다)를 본뜬 것이에요. '결혼을 제안하다', 즉 청혼한다는 뜻은 18세기부터 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "proposal",
+   "pos": "명사",
+   "meaning": "제안, 청혼",
+   "en": "The committee accepted our proposal.",
+   "ko": "위원회가 우리의 제안을 받아들였어요."
+  },
+  {
+   "word": "purpose",
+   "pos": "명사",
+   "meaning": "목적",
+   "en": "What is the purpose of your visit?",
+   "ko": "방문 목적이 무엇인가요?"
+  },
+  {
+   "word": "oppose",
+   "pos": "동사",
+   "meaning": "반대하다",
+   "en": "Many residents oppose the new airport.",
+   "ko": "많은 주민이 새 공항에 반대해요."
+  },
+  {
+   "word": "expose",
+   "pos": "동사",
+   "meaning": "노출시키다, 드러내다",
+   "en": "Don't expose your skin to strong sunlight.",
+   "ko": "강한 햇빛에 피부를 노출시키지 마세요."
+  },
+  {
+   "word": "suppose",
+   "pos": "동사",
+   "meaning": "가정하다, 생각하다",
+   "en": "I suppose you are right.",
+   "ko": "네 말이 맞는 것 같아."
+  }
+ ],
+ "imageSense": "대표 의미: 회의 탁자 위에 기획안을 내미는 장면",
+ "imageCaption": "생각을 종이에 담아 상대 앞에 '툭' 놓는 모습을 떠올려 보세요.",
+ "movieLineEn": "I propose a toast to our new friend!",
+ "movieLineKo": "우리의 새 친구를 위해 건배를 제안합니다!",
+ "storyTitle": "엉뚱한 제안",
+ "story": "수학여행 회의에서 나는 놀이공원에 가자고 propose(제안하다)했어요. 친구들은 그 proposal(제안)에 박수를 쳤죠. 선생님만 oppose(반대하다)하셨어요. 여행의 purpose(목적)는 '역사 공부'라고요. 결국 우리는 놀이공원에 갔어요. 이름이 '조선 왕조 랜드'였거든요!"
+}

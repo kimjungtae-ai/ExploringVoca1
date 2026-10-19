@@ -1,0 +1,68 @@
+{
+ "word": "double",
+ "pos": "형용사 / 동사 / 명사",
+ "phonetic": "[ˈdʌbl]",
+ "meaning": "두 배의, 이중의, 2인용의 / 두 배로 되다(하다) / 두 배",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dou- (duo)",
+   "meaning": "둘 (two)",
+   "note": "라틴어 duo(둘)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "-ble (-plus)",
+   "meaning": "~겹의 (fold)",
+   "note": "라틴어 -plus는 '~겹'이라는 뜻으로, triple(세 겹)에도 들어 있어요."
+  }
+ ],
+ "summary": "<strong>du-</strong> (둘) + <strong>-plus</strong> (겹) = '두 겹의'라는 뜻의 라틴어 duplus에서 <strong>'두 배의, 이중의'</strong>가 되었어요.",
+ "historyTitle": "라틴어 duplus가 프랑스를 거쳐 오다",
+ "historyBody": "라틴어 duplus(두 겹의)가 고대 프랑스어에서 doble, double로 변했고, 13세기쯤 영어에 들어왔어요. 같은 라틴어에서 직접 빌려 온 말이 duplicate(복제하다)예요. 그래서 double과 duplicate는 사실 같은 뿌리를 가진 사촌이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dual",
+   "pos": "형용사",
+   "meaning": "이중의, 두 부분으로 된",
+   "en": "This car has a dual system for safety.",
+   "ko": "이 차는 안전을 위해 이중 시스템을 갖추고 있어요."
+  },
+  {
+   "word": "duplicate",
+   "pos": "동사/명사",
+   "meaning": "복제하다 / 사본",
+   "en": "Please duplicate this key for me.",
+   "ko": "이 열쇠 하나 복사해 주세요."
+  },
+  {
+   "word": "duet",
+   "pos": "명사",
+   "meaning": "이중창, 2중주",
+   "en": "They sang a lovely duet at the festival.",
+   "ko": "그들은 축제에서 멋진 이중창을 불렀어요."
+  },
+  {
+   "word": "dozen",
+   "pos": "명사",
+   "meaning": "12개, 다스 (2+10)",
+   "en": "Mom bought a dozen eggs at the market.",
+   "ko": "엄마는 시장에서 달걀 열두 개를 사셨어요."
+  },
+  {
+   "word": "doubt",
+   "pos": "동사/명사",
+   "meaning": "의심하다 (두 마음 사이에서 흔들리다)",
+   "en": "I doubt that he will come on time.",
+   "ko": "그가 제시간에 올지 의심스러워요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이스크림 두 덩이가 겹쳐 쌓인 더블 콘",
+ "imageCaption": "콘 위에 아이스크림이 한 덩이 더 올라가 두 배가 된 모습을 떠올려 보세요.",
+ "movieLineEn": "If you do it right, I'll double your reward.",
+ "movieLineKo": "제대로 해내면, 보상을 두 배로 주지.",
+ "storyTitle": "더블 콘의 비극",
+ "story": "지민이는 아이스크림을 double(두 배의)로 주문했어요. 친구와 duet(이중창)까지 부르며 신이 났죠. 친구가 \"나도 하나 duplicate(복제하다)해 줘!\"라고 하자 지민이는 반을 나눠 주려 했어요. 그런데 dual(이중의) 콘이 너무 무거워서 바닥에 떨어졌지 뭐예요. 이제 남은 건 콘 과자뿐, 행복은 반이 아니라 0이 되었답니다."
+}

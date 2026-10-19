@@ -1,0 +1,68 @@
+{
+ "word": "handy",
+ "pos": "형용사",
+ "phonetic": "[ˈhændi]",
+ "meaning": "편리한, 유용한, 가까이 있는, 손재주 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hand",
+   "meaning": "손 (hand)",
+   "note": "고대 영어 hand에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~한 성질의",
+   "note": "명사에 붙어 형용사를 만드는 어미예요."
+  }
+ ],
+ "summary": "<strong>hand</strong> (손) + <strong>-y</strong> (~한) = 손에 딱 맞고 가까이 있다는 뜻에서 <strong>'편리한, 손재주 있는'</strong>이 되었어요.",
+ "historyTitle": "손 닿는 곳에 있어 편리한",
+ "historyBody": "handy는 14세기쯤 hand에 -y가 붙어 생긴 말이에요. 처음엔 '손으로 하는, 손재주 있는'이라는 뜻이었어요. 그 뒤 '손 닿는 곳에 있는', '쓰기 편리한'이라는 뜻이 생겨 지금 가장 많이 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hand",
+   "pos": "명사 / 동사",
+   "meaning": "손 / 건네다",
+   "en": "Raise your hand if you have a question.",
+   "ko": "질문이 있으면 손을 들어."
+  },
+  {
+   "word": "handle",
+   "pos": "동사 / 명사",
+   "meaning": "다루다 / 손잡이",
+   "en": "The cup's handle broke off.",
+   "ko": "컵 손잡이가 떨어져 나갔어."
+  },
+  {
+   "word": "handful",
+   "pos": "명사",
+   "meaning": "한 줌, 소수",
+   "en": "A handful of fans waited outside.",
+   "ko": "소수의 팬들이 밖에서 기다렸어."
+  },
+  {
+   "word": "handout",
+   "pos": "명사",
+   "meaning": "유인물",
+   "en": "Please pass the handouts to the back.",
+   "ko": "유인물을 뒤로 넘겨 주세요."
+  },
+  {
+   "word": "handmade",
+   "pos": "형용사",
+   "meaning": "수제의",
+   "en": "These handmade cookies taste amazing.",
+   "ko": "이 수제 쿠키는 정말 맛있어."
+  }
+ ],
+ "imageSense": "대표 의미: 주머니 속 작은 칼이나 손전등을 꺼내 바로 쓰는 장면",
+ "imageCaption": "필요할 때 손만 뻗으면 바로 쓸 수 있는 편리한 도구를 떠올려 보세요.",
+ "movieLineEn": "This little gadget might come in handy.",
+ "movieLineKo": "이 작은 도구가 쓸모 있을지도 몰라.",
+ "storyTitle": "만능 주머니 할머니",
+ "story": "할머니 주머니엔 handy(편리한) 물건이 가득했어요. 손잡이가 빠지면 handle(손잡이)을 고치고, 간식은 handful(한 줌)씩 꺼내 주셨죠. 숙제 handout(유인물)을 잃어버렸을 때도 할머니가 꺼내 hand(건네다)해 주셨어요. 알고 보니 할머니 주머니는 제 방 서랍보다 정리가 잘 돼 있었답니다."
+}

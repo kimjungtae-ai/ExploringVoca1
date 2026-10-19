@@ -1,0 +1,60 @@
+{
+ "word": "delivery",
+ "pos": "명사",
+ "phonetic": "[dɪˈlɪvəri]",
+ "meaning": "배달, 전달, 출산, 말투",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져, 벗어나 (away, off)",
+   "note": "무언가에서 떼어 낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "liver",
+   "meaning": "자유롭게 하다 (free)",
+   "note": "라틴어 liberare(풀어 주다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~하는 일 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (벗어나) + <strong>liver</strong> (풀어 주다) + <strong>-y</strong> (명사) = '손에서 풀어 넘겨줌'에서 <strong>'배달, 전달'</strong>이 되었어요.",
+ "historyTitle": "해방에서 택배까지",
+ "historyBody": "delivery는 deliver(넘겨주다)에 명사 꼬리가 붙은 말이에요. deliver는 후기 라틴어 deliberare(풀어 주다)에서 왔죠. 그래서 '배달'뿐 아니라 아기를 세상에 내보내는 '출산', 생각을 전하는 '말투'라는 뜻도 갖게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "deliver",
+   "pos": "동사",
+   "meaning": "배달하다, 전달하다",
+   "en": "They deliver fresh vegetables every morning.",
+   "ko": "그들은 매일 아침 신선한 채소를 배달해요."
+  },
+  {
+   "word": "liberty",
+   "pos": "명사",
+   "meaning": "자유",
+   "en": "The Statue of Liberty is in New York.",
+   "ko": "자유의 여신상은 뉴욕에 있어요."
+  },
+  {
+   "word": "liberate",
+   "pos": "동사",
+   "meaning": "해방하다",
+   "en": "Reading can liberate your imagination.",
+   "ko": "독서는 여러분의 상상력을 해방시켜 줄 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 오토바이를 탄 배달원이 음식을 들고 달려오는 장면",
+ "imageCaption": "주문 버튼을 누르고 기다리면 문 앞에 도착하는 음식을 떠올려 보세요.",
+ "movieLineEn": "Special delivery for the birthday girl!",
+ "movieLineKo": "생일 주인공에게 특급 배달 왔습니다!",
+ "storyTitle": "새벽 배달의 비밀",
+ "story": "새벽 delivery(배달)로 치킨이 왔어요. 배달 기사님이 '오늘은 liberty(자유)를 deliver(전달하다)했어요'라며 윙크했죠. 무슨 뜻인지 몰라 상자를 열자 쪽지가! '시험 끝! 너를 liberate(해방하다)할 치킨.' 엄마의 깜짝 선물이었어요."
+}

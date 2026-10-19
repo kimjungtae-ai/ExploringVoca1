@@ -1,0 +1,74 @@
+{
+ "word": "apology",
+ "pos": "명사",
+ "phonetic": "[əˈpɑːlədʒi]",
+ "meaning": "사과, 변명, 변론",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "apo-",
+   "meaning": "~에서 떨어져 (away, off)",
+   "note": "그리스어 접두사로 '벗어나다'라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "log",
+   "meaning": "말, 이야기 (speech)",
+   "note": "그리스어 logos(말)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>apo-</strong> (~에서 벗어나) + <strong>log</strong> (말) + <strong>-y</strong> = '혐의에서 벗어나기 위한 말'에서 <strong>'사과, 변론'</strong>이 되었어요.",
+ "historyTitle": "소크라테스의 '변론'에서 '사과'로",
+ "historyBody": "그리스어 apologia는 apo-(~에서 떨어져)와 logos(말)가 합쳐져 '(혐의를) 벗어나기 위한 말', 즉 '변론'이었어요. 철학자 소크라테스가 재판에서 한 변론을 플라톤이 기록한 책 제목도 '소크라테스의 변론(Apology)'이에요. 영어에서는 16세기 말쯤부터 '잘못을 인정하는 사과'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apologize",
+   "pos": "동사",
+   "meaning": "사과하다",
+   "en": "He apologized to his sister for breaking her phone.",
+   "ko": "그는 여동생의 휴대폰을 망가뜨린 것을 사과했어요."
+  },
+  {
+   "word": "logic",
+   "pos": "명사",
+   "meaning": "논리",
+   "en": "Math teaches us to use logic.",
+   "ko": "수학은 우리에게 논리를 사용하는 법을 가르쳐요."
+  },
+  {
+   "word": "dialogue",
+   "pos": "명사",
+   "meaning": "대화",
+   "en": "Open dialogue can solve many problems.",
+   "ko": "열린 대화는 많은 문제를 해결할 수 있어요."
+  },
+  {
+   "word": "biology",
+   "pos": "명사",
+   "meaning": "생물학",
+   "en": "I learned about cells in biology class.",
+   "ko": "나는 생물 시간에 세포에 대해 배웠어요."
+  },
+  {
+   "word": "psychology",
+   "pos": "명사",
+   "meaning": "심리학",
+   "en": "Psychology helps us understand human behavior.",
+   "ko": "심리학은 인간 행동을 이해하는 데 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃다발과 함께 '미안해'라고 쓴 쪽지를 건네는 장면",
+ "imageCaption": "잘못을 덜어 내려는 진심 어린 '말'을 떠올려 보세요.",
+ "movieLineEn": "I owe you an apology. I was wrong.",
+ "movieLineKo": "너한테 사과할 게 있어. 내가 틀렸어.",
+ "storyTitle": "가장 긴 사과문",
+ "story": "형은 내 아이스크림을 먹고 apology(사과)를 써야 했어요. 형은 logic(논리)적으로 설명하려고 10장을 썼죠. biology(생물학)까지 동원해서 '더운 날 몸이 원했다'고 했어요. 결국 형은 진심으로 apologize(사과하다)했고, 나는 용서했어요. 형이 새 아이스크림을 세 개나 사 왔거든요!"
+}

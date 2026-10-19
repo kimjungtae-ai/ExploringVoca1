@@ -1,0 +1,54 @@
+{
+ "word": "delighted",
+ "pos": "형용사",
+ "phonetic": "[dɪˈlaɪtɪd]",
+ "meaning": "아주 기뻐하는, 즐거워하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "delight",
+   "meaning": "큰 기쁨 / 기쁘게 하다 (delight)",
+   "note": "라틴어 delectare(매혹하다, 기쁘게 하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~한 상태의 (형용사)",
+   "note": "'기쁘게 된' 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>delight</strong> (큰 기쁨) + <strong>-ed</strong> (~된) = '큰 기쁨을 느끼게 된'에서 <strong>'아주 기뻐하는'</strong>이 되었어요.",
+ "historyTitle": "light(빛)와는 상관없는 철자의 비밀",
+ "historyBody": "delight는 고대 프랑스어 delitier를 거쳐 라틴어 delectare(매혹하다)에서 왔어요. 원래 철자는 delite였는데, 16세기에 light(빛)와 비슷해 보이도록 -gh-가 잘못 끼어들었답니다. 그러니 '빛'과는 어원상 관계가 없어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "delight",
+   "pos": "명사 / 동사",
+   "meaning": "큰 기쁨 / 기쁘게 하다",
+   "en": "The children shouted with delight when it snowed.",
+   "ko": "눈이 오자 아이들은 기뻐서 소리를 질렀어요."
+  },
+  {
+   "word": "delightful",
+   "pos": "형용사",
+   "meaning": "매우 기쁜, 즐거운",
+   "en": "We had a delightful time at the beach.",
+   "ko": "우리는 해변에서 아주 즐거운 시간을 보냈어요."
+  },
+  {
+   "word": "delicious",
+   "pos": "형용사",
+   "meaning": "아주 맛있는",
+   "en": "Grandma makes the most delicious kimchi stew.",
+   "ko": "할머니는 세상에서 제일 맛있는 김치찌개를 만드세요."
+  }
+ ],
+ "imageSense": "대표 의미: 생일 선물을 열고 두 손을 번쩍 들며 환하게 웃는 장면",
+ "imageCaption": "선물 상자를 연 순간 얼굴이 활짝 피는 아이를 떠올려 보세요.",
+ "movieLineEn": "I'm absolutely delighted to see you again!",
+ "movieLineKo": "다시 만나게 되어 정말 기뻐요!",
+ "storyTitle": "케이크의 정체",
+ "story": "엄마가 만든 delicious(아주 맛있는) 케이크에 동생은 delighted(아주 기뻐하는) 표정이었어요. delightful(즐거운) 파티 분위기에 모두가 delight(큰 기쁨)를 느꼈죠. 그런데 한 입 먹은 아빠의 한마디. \"이거… 두부잖아?\" 엄마의 건강 작전 대성공!"
+}

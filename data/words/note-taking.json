@@ -1,0 +1,74 @@
+{
+ "word": "note-taking",
+ "pos": "명사",
+ "phonetic": "[ˈnoʊt teɪkɪŋ]",
+ "meaning": "필기, 메모하기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "note",
+   "meaning": "메모, 표시 (mark)",
+   "note": "라틴어 nota(표시, 기호)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "take",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "고대 노르드어 taka(잡다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>note</strong> (메모) + <strong>take</strong> (하다) + <strong>-ing</strong> = 메모를 하는 것이라서 <strong>'필기'</strong>가 되었어요.",
+ "historyTitle": "로마의 속기 기호",
+ "historyBody": "라틴어 nota는 '표시, 기호'라는 뜻이었어요. 고대 로마에는 연설을 빠르게 받아 적는 'notae Tironianae'라는 속기법도 있었답니다. 영어에서는 'take notes(필기하다)'라는 표현에서 note-taking이라는 명사가 만들어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "note",
+   "pos": "명사 / 동사",
+   "meaning": "메모, 주석 / 주목하다",
+   "en": "I left a note on your desk.",
+   "ko": "네 책상 위에 메모를 남겨 뒀어."
+  },
+  {
+   "word": "notebook",
+   "pos": "명사",
+   "meaning": "공책, 노트북",
+   "en": "I write new words in my notebook every day.",
+   "ko": "나는 매일 공책에 새 단어를 적어요."
+  },
+  {
+   "word": "notable",
+   "pos": "형용사",
+   "meaning": "주목할 만한, 유명한",
+   "en": "The town is notable for its beautiful old bridge.",
+   "ko": "그 마을은 아름다운 옛 다리로 유명해요."
+  },
+  {
+   "word": "notation",
+   "pos": "명사",
+   "meaning": "표기법, 기호",
+   "en": "Musical notation helps us read songs.",
+   "ko": "악보 표기법은 우리가 노래를 읽도록 도와줘요."
+  },
+  {
+   "word": "take",
+   "pos": "동사",
+   "meaning": "가져가다, 취하다",
+   "en": "Don't forget to take your umbrella.",
+   "ko": "우산 챙기는 거 잊지 마."
+  }
+ ],
+ "imageSense": "대표 의미: 수업 중 형광펜과 볼펜으로 공책을 정리하는 모습",
+ "imageCaption": "선생님 말씀을 들으며 중요한 부분에 별표를 치고 밑줄을 긋는 학생을 떠올려 보세요.",
+ "movieLineEn": "Good note-taking is the secret weapon of top students.",
+ "movieLineKo": "좋은 필기는 최상위 학생들의 비밀 무기야.",
+ "storyTitle": "필기왕의 비밀",
+ "story": "반에서 note-taking(필기)을 제일 잘하는 지아의 notebook(공책)은 늘 인기 만점이에요. 시험 전날 친구들이 빌려 가려고 줄을 섰죠. 그런데 공책을 펼치니 notable(주목할 만한) 내용은 전부 아이돌 그림과 note(메모)뿐! 진짜 필기는 지아의 머릿속에 있었답니다."
+}

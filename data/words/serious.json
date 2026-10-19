@@ -1,0 +1,47 @@
+{
+ "word": "serious",
+ "pos": "형용사",
+ "phonetic": "[ˈsɪriəs]",
+ "meaning": "심각한, 진지한, 중대한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "seri",
+   "meaning": "무거운, 진지한 (grave, weighty)",
+   "note": "라틴어 'serius'에서 왔지만 그 이전 기원은 불확실해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ous",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "'~가 가득한, ~한'이란 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>seri</strong> (무거운, 진지한) + <strong>-ous</strong> (~한) = 무게감 있는, 즉 <strong>'진지한, 심각한'</strong>이에요.",
+ "historyTitle": "기원이 수수께끼인 '무거운' 말",
+ "historyBody": "라틴어 'serius'는 '무거운, 진지한'을 뜻했고, 후기 라틴어 'seriosus'와 고대 프랑스어를 거쳐 영어로 들어왔어요. 다만 serius 자체가 어디서 왔는지는 학자들 사이에서도 확실하지 않아요. 그래서 이 단어는 뿌리를 더 쪼개기보다 '진지한'이라는 덩어리로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "seriously",
+   "pos": "부사",
+   "meaning": "진지하게, 심각하게",
+   "en": "You should take your health seriously.",
+   "ko": "건강을 진지하게 생각해야 해요."
+  },
+  {
+   "word": "seriousness",
+   "pos": "명사",
+   "meaning": "진지함, 심각성",
+   "en": "Nobody understood the seriousness of the problem at first.",
+   "ko": "처음엔 아무도 그 문제의 심각성을 이해하지 못했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 의사가 굳은 얼굴로 검사 결과를 설명하는 장면",
+ "imageCaption": "웃음기 하나 없이 눈썹을 찌푸리고 무거운 표정을 짓는 사람을 떠올려 보세요.",
+ "movieLineEn": "Are you serious? You ate my whole birthday cake?",
+ "movieLineKo": "진심이야? 내 생일 케이크를 통째로 먹었다고?",
+ "storyTitle": "심각한 회의의 안건",
+ "story": "반 회의 분위기가 너무 serious(심각한)했어요. 반장은 seriously(진지하게) 말했죠. \"이 문제의 seriousness(심각성)를 다들 알아야 해.\" 모두 serious(진지한) 표정으로 침을 꿀꺽. 안건은 '급식 디저트로 푸딩이냐 젤리냐'였어요."
+}

@@ -1,0 +1,55 @@
+{
+ "word": "cheer",
+ "pos": "동사 / 명사",
+ "phonetic": "[tʃɪr]",
+ "meaning": "응원하다, 격려하다, 기운을 북돋우다 / 환호, 쾌활함",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cheer",
+   "meaning": "얼굴, 표정 (face)",
+   "note": "고대 프랑스어 chiere(얼굴)에서 왔고, 그 뿌리는 그리스어 kara(머리)예요."
+  }
+ ],
+ "summary": "<strong>cheer</strong> (얼굴, 표정) = '밝은 표정'을 짓게 해 준다는 데서 <strong>'응원하다, 환호'</strong>가 되었습니다.",
+ "historyTitle": "얼굴에서 기분으로",
+ "historyBody": "cheer는 고대 프랑스어 chiere(얼굴)에서 왔고, 후기 라틴어 cara(얼굴)를 거쳐 그리스어 kara(머리)까지 거슬러 올라가요. 중세 영어에서는 '얼굴 표정'을 뜻했는데, 'good cheer(밝은 얼굴)'처럼 쓰이면서 '기분, 쾌활함'으로 뜻이 바뀌었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cheerful",
+   "pos": "형용사",
+   "meaning": "쾌활한, 발랄한",
+   "en": "Our new teacher is always cheerful in the morning.",
+   "ko": "우리 새 선생님은 아침마다 늘 쾌활하셔."
+  },
+  {
+   "word": "cheerleader",
+   "pos": "명사",
+   "meaning": "치어리더, 응원단원",
+   "en": "The cheerleaders danced during the halftime show.",
+   "ko": "치어리더들이 하프타임 쇼에서 춤을 췄어요."
+  },
+  {
+   "word": "cheery",
+   "pos": "형용사",
+   "meaning": "명랑한, 기분 좋은",
+   "en": "She gave me a cheery wave from across the street.",
+   "ko": "그녀는 길 건너편에서 나에게 명랑하게 손을 흔들었어."
+  },
+  {
+   "word": "cheerfully",
+   "pos": "부사",
+   "meaning": "기분 좋게, 쾌활하게",
+   "en": "He cheerfully agreed to help us move the desks.",
+   "ko": "그는 기분 좋게 책상 옮기는 걸 도와주겠다고 했어."
+  }
+ ],
+ "imageSense": "대표 의미: 관중석에서 친구를 향해 큰 소리로 응원하는 장면",
+ "imageCaption": "원래 '얼굴'이라는 뜻이었어요. 친구 얼굴을 환하게 밝혀 주는 응원 소리를 떠올려 보세요.",
+ "movieLineEn": "Come on, everyone, let's cheer for our team!",
+ "movieLineKo": "자, 다들 우리 팀을 응원하자!",
+ "storyTitle": "응원단장의 목소리 실종 사건",
+ "story": "cheerful(쾌활한) 지민이는 학교 cheerleader(응원단원)예요. 결승전 날, 그녀는 너무 cheerfully(신나게) cheer(응원하다)하다가 목소리를 잃어버렸죠. 그래도 cheery(명랑한) 얼굴로 손팻말을 들었어요. 그런데 팻말에 상대 팀 이름을 써 왔지 뭐예요!"
+}

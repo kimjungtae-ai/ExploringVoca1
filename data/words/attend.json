@@ -1,0 +1,82 @@
+{
+ "word": "attend",
+ "pos": "동사",
+ "phonetic": "[əˈtend]",
+ "meaning": "참석하다, (학교 등에) 다니다, 주의를 기울이다, 돌보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "at- (ad-)",
+   "meaning": "~쪽으로 (to)",
+   "note": "ad-가 t 앞에서 at-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tend (tendere)",
+   "meaning": "뻗다, 늘이다 (stretch)",
+   "note": "마음이나 몸을 어떤 쪽으로 쭉 뻗는다는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>at-</strong> (~쪽으로) + <strong>tend</strong> (뻗다) = '마음과 몸을 그쪽으로 뻗다'에서 <strong>'참석하다, 주의를 기울이다'</strong>가 되었어요.",
+ "historyTitle": "마음을 쭉 뻗는 일",
+ "historyBody": "라틴어 'attendere'는 ad-(~쪽으로)와 'tendere(뻗다)'가 합쳐져 '마음을 ~쪽으로 뻗다', 즉 '주의를 기울이다'라는 뜻이었어요. 고대 프랑스어 'atendre'를 거쳐 영어에 들어온 뒤 '그 자리에 가서 함께하다(참석하다)'라는 뜻이 생겼죠. 그래서 attention(주의)과 attendance(출석)가 한 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "attendee",
+   "pos": "명사",
+   "meaning": "참석자",
+   "en": "Each attendee received a free notebook.",
+   "ko": "참석자마다 무료 공책을 받았어요."
+  },
+  {
+   "word": "attention",
+   "pos": "명사",
+   "meaning": "주의, 관심",
+   "en": "Please pay attention to the instructions.",
+   "ko": "설명에 주의를 기울여 주세요."
+  },
+  {
+   "word": "attendance",
+   "pos": "명사",
+   "meaning": "출석, 참석",
+   "en": "Attendance is checked every morning.",
+   "ko": "출석은 매일 아침 확인해요."
+  },
+  {
+   "word": "tend",
+   "pos": "동사",
+   "meaning": "~하는 경향이 있다, 돌보다",
+   "en": "I tend to get sleepy after lunch.",
+   "ko": "나는 점심을 먹고 나면 졸린 경향이 있어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 늘이다",
+   "en": "The library extended its hours during exams.",
+   "ko": "도서관은 시험 기간 동안 운영 시간을 연장했어요."
+  },
+  {
+   "word": "intend",
+   "pos": "동사",
+   "meaning": "의도하다, ~할 작정이다",
+   "en": "I didn't intend to hurt your feelings.",
+   "ko": "네 기분을 상하게 할 의도는 없었어."
+  },
+  {
+   "word": "pretend",
+   "pos": "동사",
+   "meaning": "~인 척하다",
+   "en": "He pretended to be asleep.",
+   "ko": "그는 자는 척했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강당에 모인 학생들이 졸업식에 참석한 모습",
+ "imageCaption": "강당 의자에 앉아 무대 쪽으로 몸과 마음을 쭉 기울인 사람들을 떠올려 보세요. 그 자리에 가서 함께하는 것이 attend예요.",
+ "movieLineEn": "Will you attend the royal ball tonight, my lady?",
+ "movieLineKo": "아가씨, 오늘 밤 왕실 무도회에 참석하시겠습니까?",
+ "storyTitle": "출석왕의 비밀",
+ "story": "지훈이는 3년 동안 수업에 빠짐없이 attend(참석하다)한 출석왕이에요. attendance(출석) 상을 받는 날, 모두가 attention(관심)을 보냈죠. 선생님이 비결을 묻자 지훈이는 수줍게 말했어요. '사실 수업 내내 듣는 pretend(척하다)만 하고 잤어요. 학교 의자가 우리 집 침대보다 편하거든요.'"
+}

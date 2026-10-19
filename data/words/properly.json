@@ -1,0 +1,54 @@
+{
+ "word": "properly",
+ "pos": "부사",
+ "phonetic": "[ˈprɑːpərli]",
+ "meaning": "제대로, 적절하게, 올바르게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "proper",
+   "meaning": "적절한, 고유의 (one's own)",
+   "note": "라틴어 proprius(자기 자신의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>proper</strong> (자기에게 맞는) + <strong>-ly</strong> (~하게) = '꼭 맞게'라는 뜻에서 <strong>'제대로, 적절하게'</strong>가 되었어요.",
+ "historyTitle": "'자기 것'에서 '알맞은'으로",
+ "historyBody": "라틴어 proprius는 '자기 자신의, 고유한'이라는 뜻이었어요. 고대 프랑스어 propre를 거쳐 영어 proper가 되었고, '그것에 딱 맞는'이라는 의미가 생겼어요. 같은 뿌리에서 '소유물'을 뜻하는 property가 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "proper",
+   "pos": "형용사",
+   "meaning": "적절한, 올바른",
+   "en": "Wear proper shoes for hiking.",
+   "ko": "등산할 때는 알맞은 신발을 신으세요."
+  },
+  {
+   "word": "property",
+   "pos": "명사",
+   "meaning": "재산, 부동산, 특성",
+   "en": "This land is private property.",
+   "ko": "이 땅은 사유 재산이에요."
+  },
+  {
+   "word": "appropriate",
+   "pos": "형용사",
+   "meaning": "적절한",
+   "en": "Jeans are not appropriate for the wedding.",
+   "ko": "청바지는 결혼식에 적절하지 않아요."
+  }
+ ],
+ "imageSense": "대표 의미: 단추를 하나도 빠짐없이 바르게 채운 셔츠",
+ "imageCaption": "모든 것이 '제자리에 꼭 맞게' 놓인 정돈된 책상을 떠올려 보세요.",
+ "movieLineEn": "If you're going to do it, do it properly.",
+ "movieLineKo": "할 거면 제대로 해.",
+ "storyTitle": "제대로 된 양치",
+ "story": "치과 선생님이 이를 properly(제대로) 닦으라고 하셨어요. 지민이는 proper(올바른) 방법을 배우려고 영상을 찾아봤죠. 3분 양치가 appropriate(적절한) 시간이라고 해서 타이머까지 맞췄어요. 완벽하게 닦고 뿌듯해서 거울을 봤더니, 쓴 건 아빠의 면도 크림이었답니다!"
+}

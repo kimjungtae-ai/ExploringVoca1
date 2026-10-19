@@ -1,0 +1,73 @@
+{
+ "word": "professional",
+ "pos": "형용사 / 명사",
+ "phonetic": "[prəˈfeʃənəl]",
+ "meaning": "전문적인, 직업의, 프로의 / 전문가",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞에서, 공개적으로 (forth, publicly)",
+   "note": "사람들 앞에서 드러낸다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fess",
+   "meaning": "인정하다, 말하다 (acknowledge)",
+   "note": "라틴어 fateri(인정하다)의 과거분사 fessus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~함 (명사)",
+   "note": "행위를 명사로 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (공개적으로) + <strong>fess</strong> (말하다) + <strong>-ion</strong> + <strong>-al</strong> = '공개적으로 선언한 일의'라는 뜻에서 <strong>'전문적인, 직업의'</strong>가 되었어요.",
+ "historyTitle": "수도사의 서약에서 시작된 직업",
+ "historyBody": "profession은 원래 수도사가 되겠다고 공개적으로 하는 '서약'을 뜻했어요. 그 뒤 신학, 법학, 의학처럼 배움이 필요한 직업을 가리키게 되었지요. professional이 '돈을 받고 하는 프로'라는 뜻으로 쓰인 것은 19세기부터랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "profession",
+   "pos": "명사",
+   "meaning": "(전문) 직업",
+   "en": "Teaching is a respected profession.",
+   "ko": "교직은 존경받는 직업이에요."
+  },
+  {
+   "word": "professor",
+   "pos": "명사",
+   "meaning": "교수",
+   "en": "My uncle is a professor of history.",
+   "ko": "우리 삼촌은 역사학 교수예요."
+  },
+  {
+   "word": "profess",
+   "pos": "동사",
+   "meaning": "공언하다, 주장하다",
+   "en": "He professed his love for music.",
+   "ko": "그는 음악에 대한 사랑을 공언했어요."
+  },
+  {
+   "word": "confess",
+   "pos": "동사",
+   "meaning": "고백하다, 자백하다",
+   "en": "She confessed that she broke the window.",
+   "ko": "그녀는 창문을 깼다고 고백했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 정장을 입고 자신 있게 발표하는 전문가",
+ "imageCaption": "자기 일을 사람들 앞에서 당당히 '선언'하는 프로의 모습을 떠올려 보세요.",
+ "movieLineEn": "Relax. I'm a professional.",
+ "movieLineKo": "진정해. 난 전문가라고.",
+ "storyTitle": "프로 낮잠러",
+ "story": "삼촌은 자신의 profession(직업)이 '낮잠 연구'라고 profess(공언하다)했어요. 대학 professor(교수)처럼 안경을 쓰고 아주 professional(전문적인) 표정으로 소파에 누웠죠. 그런데 숙모가 다가오자 삼촌은 confess(고백하다)했어요. '사실 그냥 졸린 거야.' 그리고 3초 만에 잠들었답니다!"
+}

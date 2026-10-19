@@ -1,0 +1,41 @@
+{
+ "word": "bother",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈbɑːðər]",
+ "meaning": "귀찮게 하다, 신경 쓰이게 하다, 일부러 ~하다 / 성가심",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bother",
+   "meaning": "귀찮게 하다 (annoy)",
+   "note": "1700년대 초 아일랜드 출신 작가들의 글에서 처음 보이는 말로, 기원이 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>bother</strong>는 기원이 확실하지 않은 단어로, 처음부터 <strong>'귀찮게 하다, 성가시게 하다'</strong>라는 뜻으로 쓰였어요.",
+ "historyTitle": "아일랜드에서 왔을지도 모르는 단어",
+ "historyBody": "bother는 1700년대 초 스위프트 같은 아일랜드 출신 작가들의 글에서 처음 나타나요. 그래서 아일랜드어 bodhar(귀먹은, 성가신)에서 왔다는 설이 있지만 확실하지는 않아요. 쪼개서 외우기보다 '귀찮게 굴다'라는 장면으로 기억해 두세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "bothersome",
+   "pos": "형용사",
+   "meaning": "성가신, 귀찮은",
+   "en": "The bothersome noise from upstairs kept me awake.",
+   "ko": "위층에서 나는 성가신 소음 때문에 잠을 못 잤어."
+  },
+  {
+   "word": "bothered",
+   "pos": "형용사",
+   "meaning": "신경 쓰이는, 귀찮아하는",
+   "en": "I'm not bothered by the rain at all.",
+   "ko": "나는 비가 와도 전혀 신경 안 써."
+  }
+ ],
+ "imageSense": "대표 의미: 공부하는 형 옆에서 동생이 계속 말을 거는 장면",
+ "imageCaption": "책상에 앉아 집중하려는데 옆에서 자꾸 툭툭 치는 동생을 떠올려 보세요. 그게 bother예요.",
+ "movieLineEn": "Don't bother me now. I'm saving the world!",
+ "movieLineKo": "지금 귀찮게 하지 마. 난 세상을 구하는 중이라고!",
+ "storyTitle": "귀찮은 손님",
+ "story": "시험공부 중인 태오를 모기 한 마리가 계속 bother(귀찮게 하다)했어요. 너무 bothersome(성가신)해서 집중이 안 됐죠. 태오는 '이제 안 bothered(신경 쓰이는)할 거야'라며 이어폰을 꼈어요. 그런데 다음 날 시험 문제에 'bother(귀찮게 하다)'가 나왔고, 모기 덕분에 정답을 맞혔답니다."
+}

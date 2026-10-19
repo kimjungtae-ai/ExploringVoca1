@@ -1,0 +1,69 @@
+{
+ "word": "move",
+ "pos": "동사 / 명사",
+ "phonetic": "[muːv]",
+ "meaning": "움직이다, 이사하다, 감동시키다 / 움직임, 조치",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "move",
+   "meaning": "움직이다 (move)",
+   "note": "라틴어 movere(움직이다)가 고대 프랑스어 movoir를 거쳐 들어왔어요."
+  }
+ ],
+ "summary": "<strong>move</strong>는 라틴어 movere(<strong>움직이다</strong>)에서 왔어요. 몸을 움직이면 <strong>'이동하다'</strong>, 마음을 움직이면 <strong>'감동시키다'</strong>가 돼요.",
+ "historyTitle": "로마에서 온 '움직임'의 왕",
+ "historyBody": "move는 13세기 무렵 고대 프랑스어를 거쳐 라틴어 movere에서 들어왔어요. 이 movere는 motion, emotion, mobile, promote 등 수많은 영어 단어를 낳았죠. '감동시키다'라는 뜻도 '마음을 움직이다'라는 비유에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "movement",
+   "pos": "명사",
+   "meaning": "움직임, (사회) 운동",
+   "en": "The civil rights movement changed American history.",
+   "ko": "민권 운동은 미국 역사를 바꿨어요."
+  },
+  {
+   "word": "remove",
+   "pos": "동사",
+   "meaning": "제거하다, 치우다",
+   "en": "Please remove your shoes before entering the room.",
+   "ko": "방에 들어가기 전에 신발을 벗어 주세요."
+  },
+  {
+   "word": "moving",
+   "pos": "형용사",
+   "meaning": "감동적인, 움직이는",
+   "en": "The ending of the movie was very moving.",
+   "ko": "그 영화의 결말은 정말 감동적이었어요."
+  },
+  {
+   "word": "mobile",
+   "pos": "형용사",
+   "meaning": "이동하는, 휴대할 수 있는",
+   "en": "Mobile phones changed the way we communicate.",
+   "ko": "휴대 전화는 우리가 소통하는 방식을 바꿨어요."
+  },
+  {
+   "word": "emotion",
+   "pos": "명사",
+   "meaning": "감정",
+   "en": "He tried to hide his emotions during the speech.",
+   "ko": "그는 연설하는 동안 감정을 숨기려고 했어요."
+  },
+  {
+   "word": "promote",
+   "pos": "동사",
+   "meaning": "촉진하다, 홍보하다",
+   "en": "The school promotes reading through a book club.",
+   "ko": "학교는 독서 동아리를 통해 독서를 장려해요."
+  }
+ ],
+ "imageSense": "대표 의미: 이삿짐 상자를 들고 새집으로 옮기는 모습",
+ "imageCaption": "커다란 상자를 든 가족이 트럭에서 새집으로 짐을 옮기는 장면을 떠올려 보세요.",
+ "movieLineEn": "Don't move! Nobody move!",
+ "movieLineKo": "움직이지 마! 아무도 움직이지 마!",
+ "storyTitle": "꼼짝 마 게임",
+ "story": "동생과 '먼저 move(움직이다)하면 지는' 게임을 했어요. 아무런 movement(움직임)도 없이 30분이 흘렀죠. 엄마가 와서 \"과자 remove(치우다)한다?\"라고 하자 동생이 번개처럼 뛰쳐나갔어요. 그 장면은 정말 moving(감동적인) 우애의 끝이었답니다."
+}

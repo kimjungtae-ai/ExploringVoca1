@@ -1,0 +1,81 @@
+{
+ "word": "contribution",
+ "pos": "명사",
+ "phonetic": "[ˌkɑːntrɪˈbjuːʃən]",
+ "meaning": "기여, 공헌, 기부(금), 기고",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "여럿이 같이한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tribut",
+   "meaning": "나누어 주다 (assign, give)",
+   "note": "라틴어 tribuere(나누어 주다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>tribut</strong> (나누어 주다) + <strong>-ion</strong> (~것) = '함께 몫을 내놓는 것'에서 <strong>'기여, 기부'</strong>가 되었어요.",
+ "historyTitle": "로마 부족들이 함께 낸 몫",
+ "historyBody": "라틴어 tribuere는 '나누어 주다, 할당하다'라는 뜻이었고, 로마 시민을 나눈 단위인 tribus(부족)와 관련이 있다고 여겨져요. 각 부족이 공동의 일에 몫을 함께 내던 모습이 contribuere(함께 내다)에 담겨 있어요. 같은 어근이 distribute, attribute, tribute에도 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "contribute",
+   "pos": "동사",
+   "meaning": "기여하다, 기부하다",
+   "en": "Exercise contributes to good health.",
+   "ko": "운동은 건강에 기여해요."
+  },
+  {
+   "word": "distribute",
+   "pos": "동사",
+   "meaning": "나누어 주다, 분배하다",
+   "en": "Volunteers distributed food to the people in need.",
+   "ko": "자원봉사자들이 어려운 사람들에게 음식을 나눠 주었어요."
+  },
+  {
+   "word": "distribution",
+   "pos": "명사",
+   "meaning": "분배, 유통",
+   "en": "The distribution of wealth is not equal in many countries.",
+   "ko": "많은 나라에서 부의 분배는 고르지 않아요."
+  },
+  {
+   "word": "attribute",
+   "pos": "동사",
+   "meaning": "(~의) 탓으로 돌리다",
+   "en": "He attributes his success to hard work.",
+   "ko": "그는 자신의 성공을 노력 덕분으로 돌려요."
+  },
+  {
+   "word": "tribute",
+   "pos": "명사",
+   "meaning": "헌사, 찬사",
+   "en": "The concert was a tribute to the famous singer.",
+   "ko": "그 콘서트는 유명 가수에게 바치는 헌정 공연이었어요."
+  },
+  {
+   "word": "contributor",
+   "pos": "명사",
+   "meaning": "기여자, 기고가",
+   "en": "She is a regular contributor to the school newspaper.",
+   "ko": "그녀는 학교 신문의 고정 기고가예요."
+  }
+ ],
+ "imageSense": "대표 의미: 팀 프로젝트에서 각자 맡은 조각을 퍼즐처럼 맞추는 장면",
+ "imageCaption": "여러 사람이 퍼즐 조각을 하나씩 끼워 완성하는 모습을 떠올려 보세요. 각자의 몫이 contribution이에요.",
+ "movieLineEn": "Your contribution saved this whole city.",
+ "movieLineKo": "네 공헌이 이 도시 전체를 구했어.",
+ "storyTitle": "벌들의 꿀 저금통",
+ "story": "꿀벌들은 겨울을 위해 꿀 contribution(기부)을 모았어요. 모두 열심히 contribute(기여하다)했죠. 여왕벌은 꿀을 공평하게 distribute(분배하다)하겠다고 약속했어요. 최고의 contributor(기여자)는 막내 벌이었는데, 알고 보니 옆집 곰의 꿀단지에서 퍼 왔대요!"
+}

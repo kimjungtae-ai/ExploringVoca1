@@ -1,0 +1,74 @@
+{
+ "word": "overconsume",
+ "pos": "동사",
+ "phonetic": "[ˌoʊvərkənˈsuːm]",
+ "meaning": "과소비하다, 지나치게 소비하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con- (com-)",
+   "meaning": "완전히 (강조)",
+   "note": "'함께' 또는 '완전히'라는 강조의 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sume",
+   "meaning": "취하다 (take)",
+   "note": "라틴어 sumere(취하다, 가지다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>over-</strong> (지나치게) + <strong>con-</strong> (완전히) + <strong>sume</strong> (취하다) = '지나치게 다 써 버리다'라는 뜻에서 <strong>'과소비하다'</strong>가 되었어요.",
+ "historyTitle": "다 먹어 치우는 라틴어 동사",
+ "historyBody": "consume은 라틴어 consumere(다 써 버리다, 먹어 치우다)에서 왔고, com-(완전히)과 sumere(취하다)가 합쳐진 말이에요. 여기에 영어 접두사 over-(지나치게)가 붙어 overconsume이 되었어요. 환경 문제를 다루는 수능 지문에서 자주 볼 수 있는 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "consume",
+   "pos": "동사",
+   "meaning": "소비하다, 먹다",
+   "en": "Old cars consume more fuel than new ones.",
+   "ko": "오래된 차는 새 차보다 연료를 더 많이 소비해요."
+  },
+  {
+   "word": "consumer",
+   "pos": "명사",
+   "meaning": "소비자",
+   "en": "Consumers are becoming more interested in eco-friendly products.",
+   "ko": "소비자들은 친환경 제품에 점점 더 관심을 가지고 있어요."
+  },
+  {
+   "word": "consumption",
+   "pos": "명사",
+   "meaning": "소비",
+   "en": "We should reduce our energy consumption at home.",
+   "ko": "우리는 집에서 에너지 소비를 줄여야 해요."
+  },
+  {
+   "word": "assume",
+   "pos": "동사",
+   "meaning": "가정하다, 맡다",
+   "en": "Don't assume that everyone agrees with you.",
+   "ko": "모두가 네 생각에 동의한다고 가정하지 마."
+  },
+  {
+   "word": "resume",
+   "pos": "동사",
+   "meaning": "재개하다",
+   "en": "The class will resume after a short break.",
+   "ko": "수업은 짧은 휴식 후에 다시 시작될 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 쇼핑 카트에 필요 없는 물건이 산더미처럼 쌓인 장면",
+ "imageCaption": "넘쳐흐르는 쇼핑 카트와 금방 쓰레기통으로 가는 물건들을 떠올려 보세요. 필요 이상으로 쓰는 것이 overconsume이에요.",
+ "movieLineEn": "If we keep overconsuming like this, there'll be nothing left for our kids.",
+ "movieLineKo": "이렇게 계속 과소비하면 우리 아이들에겐 아무것도 남지 않을 거야.",
+ "storyTitle": "과소비 다람쥐",
+ "story": "다람쥐 똘이는 도토리를 overconsume(과소비하다)하는 버릇이 있어요. 겨울을 대비해 consumption(소비)을 줄이라는 엄마 말에도 똑똑한 consumer(소비자)라며 우겼죠. 똘이는 봄이 오면 다시 resume(재개하다)하면 된다고 assume(가정하다)했어요. 그런데 숨겨 둔 도토리가 봄에 모두 나무가 되어 있었답니다!"
+}

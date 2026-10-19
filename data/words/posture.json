@@ -1,0 +1,68 @@
+{
+ "word": "posture",
+ "pos": "명사",
+ "phonetic": "[ˈpɑːstʃər]",
+ "meaning": "자세, 태도, 입장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "post",
+   "meaning": "놓인, 위치한 (placed)",
+   "note": "라틴어 ponere(놓다)의 과거분사 positus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 상태 (명사)",
+   "note": "동작의 결과나 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>post</strong> (놓인) + <strong>-ure</strong> (상태) = 몸이 놓인 상태, 곧 <strong>'자세, 태도'</strong>예요.",
+ "historyTitle": "몸을 어떻게 '놓느냐'의 문제",
+ "historyBody": "posture는 1600년대 프랑스어 posture에서 들어왔고, 이탈리아어 postura, 라틴어 positura(위치, 배치)로 이어져요. 뿌리는 ponere(놓다)의 과거분사 positus예요. 몸을 어떻게 놓아두느냐가 곧 '자세'이고, 여기서 생각의 '입장, 태도'라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 자리, 입장",
+   "en": "Please tell me your position on this issue.",
+   "ko": "이 문제에 대한 너의 입장을 말해 줘."
+  },
+  {
+   "word": "positive",
+   "pos": "형용사",
+   "meaning": "긍정적인, 확신하는",
+   "en": "Try to keep a positive attitude.",
+   "ko": "긍정적인 태도를 유지하도록 노력해 봐요."
+  },
+  {
+   "word": "deposit",
+   "pos": "동사/명사",
+   "meaning": "맡기다, 예금하다 / 예금, 보증금",
+   "en": "I deposited my allowance in the bank.",
+   "ko": "나는 용돈을 은행에 예금했어요."
+  },
+  {
+   "word": "opposite",
+   "pos": "형용사/명사",
+   "meaning": "반대의 / 반대",
+   "en": "My best friend and I have opposite tastes in music.",
+   "ko": "나와 단짝은 음악 취향이 정반대예요."
+  },
+  {
+   "word": "component",
+   "pos": "명사",
+   "meaning": "구성 요소, 부품",
+   "en": "Trust is an important component of friendship.",
+   "ko": "신뢰는 우정의 중요한 구성 요소예요."
+  }
+ ],
+ "imageSense": "대표 의미: 의자에 허리를 곧게 펴고 앉은 학생",
+ "imageCaption": "책상 앞에서 구부정하던 등을 쭉 펴고 바르게 앉는 모습을 떠올려 보세요.",
+ "movieLineEn": "Sit up straight! Good posture makes you look confident.",
+ "movieLineKo": "똑바로 앉아! 바른 자세는 자신감 있어 보이게 해.",
+ "storyTitle": "거북목 탈출 작전",
+ "story": "공부하다 거북목이 된 수진이는 posture(자세)를 고치기로 했어요. 머리 위에 책을 올리고 바른 position(위치)을 연습했죠. positive(긍정적인) 마음으로 일주일을 버텼더니 키가 2센티 컸어요! 그런데 알고 보니 매일 머리 위에 올린 책이 opposite(반대) 방향으로 눌러서 머리카락이 서 있었던 거래요."
+}

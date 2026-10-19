@@ -1,0 +1,68 @@
+{
+ "word": "pioneer",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˌpaɪəˈnɪr]",
+ "meaning": "개척자, 선구자 / 개척하다, 선도하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pion",
+   "meaning": "보병, 걸어 다니는 병사 (foot soldier)",
+   "note": "고대 프랑스어 peon에서 왔고, 라틴어 pes, pedis(발)까지 거슬러 올라가요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-eer",
+   "meaning": "~하는 사람",
+   "note": "engineer, volunteer처럼 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>pion</strong> (발로 걷는 병사) + <strong>-eer</strong> (사람) = 군대보다 먼저 걸어가 길을 닦던 병사, 곧 <strong>'개척자, 선구자'</strong>예요.",
+ "historyTitle": "길을 먼저 닦던 걸어 다니는 병사",
+ "historyBody": "pioneer는 고대 프랑스어 peonier(보병)에서 왔고, 그 뿌리는 라틴어 pes, pedis(발)예요. 중세 군대에서 pioneer는 본대보다 앞서 걸어가 길을 내고 참호를 파던 병사였어요. 1600년대부터 '새 분야를 처음 여는 사람'이라는 뜻으로 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pedestrian",
+   "pos": "명사",
+   "meaning": "보행자",
+   "en": "Drivers must stop for pedestrians at the crosswalk.",
+   "ko": "운전자는 횡단보도에서 보행자를 위해 멈춰야 해요."
+  },
+  {
+   "word": "pedal",
+   "pos": "명사/동사",
+   "meaning": "페달 / 페달을 밟다",
+   "en": "He pedaled his bike up the steep hill.",
+   "ko": "그는 가파른 언덕을 자전거 페달을 밟아 올라갔어요."
+  },
+  {
+   "word": "expedition",
+   "pos": "명사",
+   "meaning": "탐험, 원정",
+   "en": "The team went on an expedition to the South Pole.",
+   "ko": "그 팀은 남극으로 탐험을 떠났어요."
+  },
+  {
+   "word": "centipede",
+   "pos": "명사",
+   "meaning": "지네",
+   "en": "A centipede does not really have a hundred legs.",
+   "ko": "지네가 정말 다리가 백 개인 건 아니에요."
+  },
+  {
+   "word": "impede",
+   "pos": "동사",
+   "meaning": "방해하다",
+   "en": "Heavy snow impeded the rescue team.",
+   "ko": "폭설이 구조대를 방해했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아무도 가지 않은 숲에 처음으로 길을 내는 사람",
+ "imageCaption": "울창한 숲을 헤치며 맨 앞에서 걸어가는 사람을 떠올려 보세요. 그 뒤로 길이 생겨요.",
+ "movieLineEn": "Every pioneer is called crazy at first.",
+ "movieLineKo": "모든 개척자는 처음엔 미쳤다는 소리를 들어.",
+ "storyTitle": "달팽이 개척자",
+ "story": "달팽이 한 마리가 pioneer(개척자)가 되겠다며 expedition(탐험)을 떠났어요. pedestrian(보행자) 개미들이 비웃었죠. 비가 와도 무엇도 그를 impede(방해하다)하지 못했어요. 3년 뒤 드디어 새 땅에 도착! 그런데 그곳은 출발한 화분의 반대편이었대요. 그래도 그는 최초로 그 길을 남긴 개척자였어요."
+}

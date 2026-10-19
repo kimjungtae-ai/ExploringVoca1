@@ -1,0 +1,68 @@
+{
+ "word": "seating",
+ "pos": "명사",
+ "phonetic": "[ˈsiːtɪŋ]",
+ "meaning": "좌석, 좌석 배치, 앉을 자리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "seat",
+   "meaning": "자리, 앉히다 (seat)",
+   "note": "고대 노르드어 'sæti(자리)'에서 왔고, sit과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것, ~하는 방식",
+   "note": "동작이나 그 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>seat</strong> (자리, 앉히다) + <strong>-ing</strong> (~하는 것) = 사람을 앉히는 방식, 즉 <strong>'좌석 (배치)'</strong>이에요.",
+ "historyTitle": "바이킹이 남긴 '자리'라는 말",
+ "historyBody": "seat은 바이킹의 언어인 고대 노르드어 'sæti'에서 중세 영어로 들어왔어요. 이 말은 영어 sit(앉다)과 같은 게르만 뿌리를 가지고 있어요. seating은 '앉히는 일, 좌석 배치'를 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "seat",
+   "pos": "명사 / 동사",
+   "meaning": "좌석 / 앉히다",
+   "en": "Please take a seat and wait for your name to be called.",
+   "ko": "자리에 앉아서 이름이 불릴 때까지 기다려 주세요."
+  },
+  {
+   "word": "seatbelt",
+   "pos": "명사",
+   "meaning": "안전벨트",
+   "en": "Always fasten your seatbelt before the car starts.",
+   "ko": "차가 출발하기 전에 항상 안전벨트를 매세요."
+  },
+  {
+   "word": "seatmate",
+   "pos": "명사",
+   "meaning": "옆자리 사람, 짝",
+   "en": "My seatmate helped me solve the difficult math problem.",
+   "ko": "내 짝이 어려운 수학 문제 푸는 걸 도와줬어요."
+  },
+  {
+   "word": "sit",
+   "pos": "동사",
+   "meaning": "앉다",
+   "en": "Let's sit under the tree and eat our lunch.",
+   "ko": "나무 아래 앉아서 점심을 먹자."
+  },
+  {
+   "word": "settle",
+   "pos": "동사",
+   "meaning": "정착하다, 해결하다",
+   "en": "His family settled in a small village near the river.",
+   "ko": "그의 가족은 강 근처 작은 마을에 정착했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공연장 의자들이 줄지어 배치된 장면",
+ "imageCaption": "콘서트장에 의자가 줄줄이 놓여 있고 사람들이 자기 자리를 찾는 모습을 떠올려 보세요.",
+ "movieLineEn": "The seating is full. You'll have to stand in the back.",
+ "movieLineKo": "좌석이 꽉 찼어. 너는 뒤에 서 있어야 할 거야.",
+ "storyTitle": "결혼식 좌석표 대소동",
+ "story": "결혼식 seating(좌석 배치)을 맡은 삼촌이 이름표를 섞어 버렸어요. 신랑 아버지의 seat(좌석)에 강아지가 앉았고, 내 seatmate(옆자리 사람)는 처음 보는 할머니였죠. 다들 sit(앉다) 하자 할머니가 웃으며 말했어요. \"난 옆 결혼식 하객이란다!\""
+}

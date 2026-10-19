@@ -1,0 +1,54 @@
+{
+ "word": "excel",
+ "pos": "동사",
+ "phonetic": "[ɪkˈsel]",
+ "meaning": "뛰어나다, 능가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 위로 (out, beyond)",
+   "note": "남들보다 밖으로, 위로 솟아오른다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cel",
+   "meaning": "높이 솟다 (rise high)",
+   "note": "라틴어 -cellere(솟아오르다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (위로, 밖으로) + <strong>cel</strong> (솟다) = '남들보다 높이 솟아오르다'에서 <strong>'뛰어나다'</strong>가 되었어요.",
+ "historyTitle": "무리 위로 우뚝 솟다",
+ "historyBody": "excel은 15세기 무렵 라틴어 'excellere(솟아오르다, 뛰어나다)'에서 왔어요. -cellere는 '높은'을 뜻하는 라틴어 celsus와 관련된 말이에요. 무리 속에서 머리 하나만큼 더 높이 솟은 모습이 '뛰어남'이 된 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "excellent",
+   "pos": "형용사",
+   "meaning": "훌륭한, 탁월한",
+   "en": "Your English pronunciation is excellent.",
+   "ko": "네 영어 발음은 정말 훌륭해."
+  },
+  {
+   "word": "excellence",
+   "pos": "명사",
+   "meaning": "뛰어남, 탁월함",
+   "en": "The school is known for its excellence in science.",
+   "ko": "그 학교는 과학 분야에서 탁월하기로 유명해요."
+  },
+  {
+   "word": "excellency",
+   "pos": "명사",
+   "meaning": "각하 (높은 사람에 대한 경칭)",
+   "en": "His Excellency the ambassador will arrive soon.",
+   "ko": "대사 각하께서 곧 도착하실 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 시상대 가장 높은 곳에 선 선수",
+ "imageCaption": "여러 선수 중 혼자 가장 높은 단상 위로 '쑥' 올라선 모습을 떠올려 보세요.",
+ "movieLineEn": "You don't just play the piano. You excel at it.",
+ "movieLineKo": "너는 그냥 피아노를 치는 게 아니야. 정말 뛰어나게 치지.",
+ "storyTitle": "수학 천재의 약점",
+ "story": "서준이는 수학에 excel(뛰어나다)한 학생이었어요. 선생님은 그의 excellent(훌륭한) 실력을 칭찬했죠. 학교는 그에게 excellence(탁월함) 상을 줬어요. 교장 선생님은 'Your Excellency(각하)'라고 농담까지 했죠. 그런데 시상식에서 상금을 세던 서준이가 외쳤어요. '어? 손가락이 모자라요!' 암산은 약했나 봐요."
+}

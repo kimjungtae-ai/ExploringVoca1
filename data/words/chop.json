@@ -1,0 +1,41 @@
+{
+ "word": "chop",
+ "pos": "동사 / 명사",
+ "phonetic": "[tʃɑːp]",
+ "meaning": "잘게 썰다, 자르다, 패다 / 토막",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "chop",
+   "meaning": "찍다, 쪼개다 (cut) — 어원 불확실",
+   "note": "중세 영어 chappen(쪼개다)의 변형으로, 소리를 흉내 낸 말일 가능성이 있어요."
+  }
+ ],
+ "summary": "<strong>chop</strong> (찍다, 쪼개다) = 칼이나 도끼로 탁탁 내리친다는 데서 <strong>'잘게 썰다, 패다'</strong>가 되었습니다.",
+ "historyTitle": "탁탁 소리가 나는 단어",
+ "historyBody": "chop은 14세기 중세 영어 chappen(쪼개다, 갈라지다)의 변형으로 보여요. 정확한 뿌리는 확실하지 않고, 칼로 내리치는 소리를 흉내 낸 말일 수 있다고 해요. 참고로 chopstick의 chop은 '빠른'이라는 뜻의 다른 말이라서 이 chop과는 관련이 없어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "chopper",
+   "pos": "명사",
+   "meaning": "다지는 기구, 큰 칼, 헬리콥터(구어)",
+   "en": "Use the vegetable chopper to cut the onions.",
+   "ko": "양파는 채소 다지기로 썰어."
+  },
+  {
+   "word": "chopping",
+   "pos": "명사/형용사",
+   "meaning": "썰기 / 써는",
+   "en": "Put the carrots on the chopping board.",
+   "ko": "당근을 도마 위에 올려놔."
+  }
+ ],
+ "imageSense": "대표 의미: 도마 위에서 칼로 양파를 탁탁 잘게 써는 장면",
+ "imageCaption": "탁! 탁! 칼이 도마에 닿는 소리를 떠올려 보세요. 그 소리가 바로 chop이에요.",
+ "movieLineEn": "Chop the wood, or we'll freeze tonight!",
+ "movieLineKo": "장작을 패, 안 그러면 오늘 밤 얼어 죽을 거야!",
+ "storyTitle": "요리 왕의 눈물",
+ "story": "요리 대회에서 준호는 멋지게 양파를 chop(잘게 썰다)했어요. chopping(써는) board(도마) 위에서 칼이 번쩍였죠. 그런데 눈물이 줄줄! 심사위원이 감동의 눈물로 오해해 점수를 줬어요. 사실 준호는 집에 chopper(다지기)를 두고 와서 울고 있었대요."
+}

@@ -1,0 +1,60 @@
+{
+ "word": "annoying",
+ "pos": "형용사",
+ "phonetic": "[əˈnɔɪɪŋ]",
+ "meaning": "짜증 나게 하는, 성가신",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "an- (← in)",
+   "meaning": "~안에 (in)",
+   "note": "라틴어 표현 in odio(미움 속에)의 in이 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "noy (← odium)",
+   "meaning": "미움 (hatred)",
+   "note": "라틴어 odium(미움)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사)",
+   "note": "'짜증 나게 하는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>an-</strong> (~안에) + <strong>noy</strong> (미움) + <strong>-ing</strong> = '미움 속에 빠뜨리는'에서 <strong>'짜증 나게 하는, 성가신'</strong>이 되었어요.",
+ "historyTitle": "'미움 속에' 있다는 라틴어 표현",
+ "historyBody": "라틴어 표현 'mihi in odio est(나에게 미움 속에 있다)'에서 후기 라틴어 inodiare(싫게 만들다)가 생겼어요. 이것이 고대 프랑스어 anoier를 거쳐 영어 annoy가 되었어요. 원래는 꽤 강한 '괴롭히다'였는데, 지금은 '짜증 나게 하다' 정도로 약해졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "annoy",
+   "pos": "동사",
+   "meaning": "짜증 나게 하다",
+   "en": "The loud music next door annoyed me.",
+   "ko": "옆집의 시끄러운 음악이 나를 짜증 나게 했어요."
+  },
+  {
+   "word": "annoyed",
+   "pos": "형용사",
+   "meaning": "짜증이 난",
+   "en": "She was annoyed because the bus was late.",
+   "ko": "그녀는 버스가 늦어서 짜증이 났어요."
+  },
+  {
+   "word": "annoyance",
+   "pos": "명사",
+   "meaning": "짜증, 성가심",
+   "en": "He couldn't hide his annoyance at the noise.",
+   "ko": "그는 소음에 대한 짜증을 숨길 수 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 자려는데 귓가에서 윙윙거리는 모기",
+ "imageCaption": "한밤중 모기 소리처럼 '미움'이 저절로 생기는 순간을 떠올려 보세요.",
+ "movieLineEn": "Stop that annoying noise right now!",
+ "movieLineKo": "그 짜증 나는 소리 당장 멈춰!",
+ "storyTitle": "짜증 나는 알람 시계",
+ "story": "형은 알람 소리가 너무 annoying(짜증 나게 하는)해서 시계를 숨겼어요. 그런데 어디 숨겼는지 잊어버렸죠. 매일 새벽 5시, 어디선가 알람이 울려 온 가족이 annoyed(짜증이 난) 상태가 되었어요. 알람은 우리를 계속 annoy(짜증 나게 하다)했죠. 일주일 뒤 그 annoyance(짜증)의 정체가 밝혀졌어요. 형의 베개 속이었대요!"
+}

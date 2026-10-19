@@ -1,0 +1,67 @@
+{
+ "word": "low-impact",
+ "pos": "형용사",
+ "phonetic": "[ˌloʊˈɪmpækt]",
+ "meaning": "(몸·환경에) 부담이 적은, 영향이 적은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "low",
+   "meaning": "낮은 (low)",
+   "note": "고대 노르드어 lágr(낮은)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "im-",
+   "meaning": "안으로 (into)",
+   "note": "in-이 p 앞에서 im-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pact",
+   "meaning": "박다, 밀어 넣다 (drive, fasten)",
+   "note": "라틴어 pangere(박다, 고정하다)의 과거분사 pactus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>low</strong> (낮은) + <strong>im-</strong> (안으로) + <strong>pact</strong> (박다) = '세게 부딪치는 충격이 낮은'이라는 뜻에서 <strong>'부담이 적은'</strong>이 되었습니다.",
+ "historyTitle": "몸과 지구를 아끼는 단어",
+ "historyBody": "impact는 라틴어 impingere(밀어붙이다, 박다)의 과거분사 impactus에서 왔어요. 20세기 후반 운동 분야에서 '관절에 충격이 적은 운동'을 low-impact exercise라고 부르기 시작했고, 이후 '환경에 영향이 적은'이라는 뜻으로도 널리 쓰이게 되었어요. low는 바이킹의 말인 고대 노르드어에서 들어왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "impact",
+   "pos": "명사/동사",
+   "meaning": "영향, 충격 / 영향을 주다",
+   "en": "Social media has a huge impact on teenagers.",
+   "ko": "소셜 미디어는 십 대들에게 큰 영향을 미쳐요."
+  },
+  {
+   "word": "impactful",
+   "pos": "형용사",
+   "meaning": "영향력이 큰",
+   "en": "Her speech was short but impactful.",
+   "ko": "그녀의 연설은 짧았지만 강한 인상을 남겼어요."
+  },
+  {
+   "word": "compact",
+   "pos": "형용사",
+   "meaning": "소형의, 촘촘한",
+   "en": "This compact camera fits in my pocket.",
+   "ko": "이 소형 카메라는 내 주머니에 쏙 들어가요."
+  },
+  {
+   "word": "lower",
+   "pos": "동사/형용사",
+   "meaning": "낮추다 / 더 낮은",
+   "en": "Exercise can help lower your stress.",
+   "ko": "운동은 스트레스를 낮추는 데 도움이 될 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무릎에 부담 없이 수영장에서 천천히 걷는 할머니들",
+ "imageCaption": "쿵쿵 뛰는 대신 물속에서 사뿐사뿐 움직이는 모습을 떠올려 보세요. 충격이 낮은 것이 low-impact예요.",
+ "movieLineEn": "Let's try a low-impact workout today. My knees hurt.",
+ "movieLineKo": "오늘은 부담 적은 운동 해 보자. 무릎이 아파.",
+ "storyTitle": "아빠의 저충격 운동",
+ "story": "아빠는 무릎을 위해 low-impact(부담이 적은) 운동을 시작했어요. 의사 선생님이 체중을 lower(낮추다)하면 큰 impact(영향)가 있을 거라고 했거든요. 아빠는 compact(소형의) 실내 자전거를 샀어요. 한 달 뒤, 자전거는 아빠의 가장 impactful(영향력 있는) 빨래 건조대가 되었답니다."
+}

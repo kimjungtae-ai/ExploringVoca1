@@ -1,0 +1,87 @@
+{
+ "word": "recreational",
+ "pos": "형용사",
+ "phonetic": "[ˌrekriˈeɪʃənl]",
+ "meaning": "오락의, 레크리에이션의, 휴양의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "무언가를 새로 다시 한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "creat",
+   "meaning": "만들다, 창조하다 (create)",
+   "note": "라틴어 creare(만들어 내다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작을 명사로 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~와 관련된 (형용사)",
+   "note": "명사를 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>create</strong> (만들다) + <strong>-ion</strong> + <strong>-al</strong> = 지친 몸과 마음을 다시 새로 만드는 활동과 관련된, 즉 <strong>'오락의, 휴양의'</strong>예요.",
+ "historyTitle": "몸과 마음을 '다시 창조하는' 시간",
+ "historyBody": "라틴어 recreare는 '다시 만들다, 기운을 되살리다'라는 뜻이었어요. 이 말이 중세 영어 recreation이 되면서 '지친 사람을 새롭게 하는 휴식이나 놀이'를 가리키게 되었답니다. 놀이를 통해 내가 새로 태어난다고 생각하면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "create",
+   "pos": "동사",
+   "meaning": "창조하다, 만들어 내다",
+   "en": "The students created a short film about their school.",
+   "ko": "학생들은 학교에 관한 짧은 영화를 만들었어요."
+  },
+  {
+   "word": "creative",
+   "pos": "형용사",
+   "meaning": "창의적인",
+   "en": "Creative thinking helps us solve everyday problems.",
+   "ko": "창의적인 사고는 일상의 문제를 해결하는 데 도움이 돼요."
+  },
+  {
+   "word": "creation",
+   "pos": "명사",
+   "meaning": "창조, 창작물",
+   "en": "This painting is the artist's most famous creation.",
+   "ko": "이 그림은 그 화가의 가장 유명한 작품이에요."
+  },
+  {
+   "word": "creature",
+   "pos": "명사",
+   "meaning": "생물, 피조물",
+   "en": "Many strange creatures live deep in the ocean.",
+   "ko": "깊은 바다에는 이상한 생물이 많이 살아요."
+  },
+  {
+   "word": "recreation",
+   "pos": "명사",
+   "meaning": "휴양, 오락, 레크리에이션",
+   "en": "The park offers space for recreation and sports.",
+   "ko": "그 공원은 휴양과 운동을 위한 공간을 제공해요."
+  },
+  {
+   "word": "creator",
+   "pos": "명사",
+   "meaning": "창작자, 창조자",
+   "en": "The creator of the game was only nineteen years old.",
+   "ko": "그 게임의 제작자는 겨우 열아홉 살이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 주말에 공원에서 자전거 타고 캠핑을 즐기는 가족",
+ "imageCaption": "공부를 잠시 내려놓고 캠핑장에서 웃고 노는 모습을 그려 보세요. 놀면서 기운이 '다시 만들어지는' 활동이 recreational activity예요.",
+ "movieLineEn": "This isn't work, it's purely recreational!",
+ "movieLineKo": "이건 일이 아니야, 순전히 취미 활동이라고!",
+ "storyTitle": "선생님의 진짜 취미",
+ "story": "담임 선생님의 recreational(오락의) 활동은 레고 만들기였어요. creative(창의적인) 선생님은 주말마다 거대한 creation(창작물)을 create(만들다)했죠. 반 친구들은 공룡 creature(생물)를 보고 감탄했어요. 그런데 자세히 보니 그 공룡 이빨은 우리가 압수당한 게임기 버튼이었답니다!"
+}

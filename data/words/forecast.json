@@ -1,0 +1,61 @@
+{
+ "word": "forecast",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈfɔːrkæst]",
+ "meaning": "예보, 예측 / 예보하다, 예측하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "fore-",
+   "meaning": "미리, 앞에 (before)",
+   "note": "고대 영어 fore(앞에)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "cast",
+   "meaning": "던지다 (throw)",
+   "note": "고대 노르드어 kasta(던지다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>fore-</strong> (미리) + <strong>cast</strong> (던지다) = '생각을 앞으로 미리 던지다'에서 <strong>'예보하다, 예측하다'</strong>가 되었습니다.",
+ "historyTitle": "바이킹의 '던지다'와 영어의 '미리'",
+ "historyBody": "cast는 바이킹의 언어인 고대 노르드어 kasta(던지다)에서 왔어요. 14세기 무렵 forecast는 '미리 계획하다, 궁리하다'라는 뜻이었고, 19세기에 영국 기상청이 날씨 '예보'에 이 단어를 쓰면서 지금의 뜻이 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cast",
+   "pos": "동사 / 명사",
+   "meaning": "던지다, 배역을 정하다 / 출연진",
+   "en": "The fisherman cast his net into the sea.",
+   "ko": "어부는 바다에 그물을 던졌어요."
+  },
+  {
+   "word": "broadcast",
+   "pos": "동사 / 명사",
+   "meaning": "방송하다 / 방송",
+   "en": "The concert will be broadcast live on TV.",
+   "ko": "그 콘서트는 TV로 생중계될 거예요."
+  },
+  {
+   "word": "overcast",
+   "pos": "형용사",
+   "meaning": "구름이 잔뜩 낀, 흐린",
+   "en": "The sky was overcast all day.",
+   "ko": "하루 종일 하늘이 잔뜩 흐렸어요."
+  },
+  {
+   "word": "foresee",
+   "pos": "동사",
+   "meaning": "예견하다",
+   "en": "Nobody could foresee the result of the game.",
+   "ko": "아무도 그 경기 결과를 예견할 수 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뉴스에서 기상 캐스터가 날씨 지도를 가리키는 장면",
+ "imageCaption": "TV 속 기상 캐스터가 지도 위 구름과 해 그림을 가리키며 내일 날씨를 알려 주는 모습이에요.",
+ "movieLineEn": "The forecast says rain, but I feel lucky today.",
+ "movieLineKo": "예보는 비라는데, 오늘은 운이 좋을 것 같아.",
+ "storyTitle": "빗나간 일기 예보",
+ "story": "기상 캐스터 김 씨의 forecast(예보)는 늘 빗나갔어요. \"내일은 맑음!\"이라고 broadcast(방송하다)하면 하늘은 overcast(흐린)였죠. 아무도 날씨를 foresee(예견하다)할 수 없다며 사람들은 웃었어요. 그런데 김 씨는 반대로 말하는 앵무새를 키웠고, 앵무새 예보는 100% 맞았대요!"
+}

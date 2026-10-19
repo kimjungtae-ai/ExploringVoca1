@@ -1,0 +1,87 @@
+{
+ "word": "revolutionize",
+ "pos": "동사",
+ "phonetic": "[ˌrevəˈluːʃənaɪz]",
+ "meaning": "혁명을 일으키다, 완전히 바꾸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "되돌아 굴러간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "volu",
+   "meaning": "구르다, 돌다 (roll) ← volvere",
+   "note": "라틴어 volvere(굴리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tion",
+   "meaning": "~하는 것 (명사)",
+   "note": "revolution을 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하게 만들다 (동사)",
+   "note": "명사를 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>volu</strong> (구르다) + <strong>-tion</strong> + <strong>-ize</strong> (만들다) = '세상을 한 바퀴 뒤집어 굴리다'에서 <strong>'혁명을 일으키다, 완전히 바꾸다'</strong>가 되었어요.",
+ "historyTitle": "별의 회전에서 정치 혁명으로",
+ "historyBody": "revolution은 라틴어 revolvere(되굴리다)에서 왔고, 처음엔 행성이 궤도를 '한 바퀴 도는 것(공전)'을 뜻했어요. 17세기 영국에서 정권이 뒤바뀌는 사건을 가리키며 '혁명'이라는 뜻이 생겼죠. revolutionize는 18세기 말 프랑스 혁명 무렵부터 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "revolution",
+   "pos": "명사",
+   "meaning": "혁명, 공전",
+   "en": "The Industrial Revolution changed how people worked.",
+   "ko": "산업 혁명은 사람들이 일하는 방식을 바꿨어요."
+  },
+  {
+   "word": "revolve",
+   "pos": "동사",
+   "meaning": "돌다, 회전하다",
+   "en": "The Earth revolves around the Sun.",
+   "ko": "지구는 태양 주위를 돌아요."
+  },
+  {
+   "word": "evolve",
+   "pos": "동사",
+   "meaning": "진화하다, 발전하다",
+   "en": "Languages evolve over time.",
+   "ko": "언어는 시간이 지나며 발전해요."
+  },
+  {
+   "word": "evolution",
+   "pos": "명사",
+   "meaning": "진화, 발전",
+   "en": "Darwin studied the evolution of animals.",
+   "ko": "다윈은 동물의 진화를 연구했어요."
+  },
+  {
+   "word": "involve",
+   "pos": "동사",
+   "meaning": "포함하다, 관련시키다",
+   "en": "The job involves a lot of travel.",
+   "ko": "그 일은 출장이 많아요."
+  },
+  {
+   "word": "volume",
+   "pos": "명사",
+   "meaning": "부피, 음량, 책(권)",
+   "en": "Please turn down the volume.",
+   "ko": "볼륨 좀 줄여 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 스마트폰 하나로 세상이 통째로 뒤바뀌는 장면",
+ "imageCaption": "전화기, 카메라, 지도가 손바닥 위 화면 하나로 합쳐지는 순간을 떠올려 보세요.",
+ "movieLineEn": "This tiny chip will revolutionize the world.",
+ "movieLineKo": "이 작은 칩이 세상을 완전히 바꿀 거야.",
+ "storyTitle": "혁명적인 발명",
+ "story": "발명가 할머니는 세상을 revolutionize(완전히 바꾸다)할 기계를 만들었어요. 버튼을 누르면 의자가 revolve(회전하다)하며 숙제를 하고, 기계는 매일 evolve(발전하다)했죠. 사람들은 revolution(혁명)이라 외쳤어요. 그런데 기계가 너무 똑똑해져서 할머니 숙제만 해 줬대요!"
+}

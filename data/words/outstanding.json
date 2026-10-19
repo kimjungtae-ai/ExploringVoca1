@@ -1,0 +1,74 @@
+{
+ "word": "outstanding",
+ "pos": "형용사",
+ "phonetic": "[aʊtˈstændɪŋ]",
+ "meaning": "뛰어난, 두드러진, 미해결의, 미지불의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "밖으로 (out)",
+   "note": "무리 밖으로 튀어나온다는 느낌이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stand",
+   "meaning": "서다 (stand)",
+   "note": "고대 영어 standan(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (형용사)",
+   "note": "'~하고 있는'이라는 뜻의 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>out</strong> (밖으로) + <strong>stand</strong> (서다) + <strong>-ing</strong> = '무리에서 밖으로 튀어나와 서 있는'이라는 뜻에서 <strong>'뛰어난, 두드러진'</strong>이 되었어요.",
+ "historyTitle": "툭 튀어나와 눈에 띄다",
+ "historyBody": "stand out(튀어나오다, 눈에 띄다)이라는 표현에서 outstanding이 나왔어요. 16세기엔 말 그대로 '튀어나온'이라는 뜻이었고, 19세기에 '뛰어난'이라는 뜻이 자리 잡았어요. '아직 밖에 남아 있는'이라는 느낌에서 '미해결의, 미지불의'라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stand",
+   "pos": "동사",
+   "meaning": "서다, 참다",
+   "en": "I can't stand the noise from the construction site.",
+   "ko": "공사장 소음을 참을 수가 없어요."
+  },
+  {
+   "word": "understand",
+   "pos": "동사",
+   "meaning": "이해하다",
+   "en": "I finally understand how this math formula works.",
+   "ko": "드디어 이 수학 공식이 어떻게 작동하는지 이해했어요."
+  },
+  {
+   "word": "withstand",
+   "pos": "동사",
+   "meaning": "견디다",
+   "en": "These walls can withstand strong earthquakes.",
+   "ko": "이 벽들은 강한 지진을 견딜 수 있어요."
+  },
+  {
+   "word": "bystander",
+   "pos": "명사",
+   "meaning": "구경꾼, 방관자",
+   "en": "A bystander called the police after the accident.",
+   "ko": "사고 후 한 구경꾼이 경찰에 신고했어요."
+  },
+  {
+   "word": "standpoint",
+   "pos": "명사",
+   "meaning": "관점, 입장",
+   "en": "From an economic standpoint, the plan makes sense.",
+   "ko": "경제적 관점에서 보면 그 계획은 타당해요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄지어 선 사람들 중 한 명만 키가 훌쩍 커서 눈에 띄는 장면",
+ "imageCaption": "해바라기 밭에서 유난히 높이 솟은 해바라기 한 송이를 떠올려 보세요. 툭 튀어나와 눈에 띄는 게 outstanding이에요.",
+ "movieLineEn": "That was an outstanding performance, soldier. Well done.",
+ "movieLineKo": "정말 뛰어난 활약이었네, 병사. 잘했어.",
+ "storyTitle": "가장 뛰어난 학생",
+ "story": "선생님은 outstanding(뛰어난) 학생에게 상을 주겠다고 하셨어요. 모두 열심히 했지만 아무도 이유를 understand(이해하다)하지 못한 채 서윤이가 뽑혔죠. 서윤이는 긴 수업을 끝까지 서서 withstand(견디다)했거든요. 사실 의자가 고장 나서 stand(서다)할 수밖에 없었답니다."
+}

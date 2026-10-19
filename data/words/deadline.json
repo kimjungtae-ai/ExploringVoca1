@@ -1,0 +1,68 @@
+{
+ "word": "deadline",
+ "pos": "명사",
+ "phonetic": "[ˈdedlaɪn]",
+ "meaning": "마감 기한, 마감 시간",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "dead",
+   "meaning": "죽은, 넘으면 끝인 (dead)",
+   "note": "넘어서면 '끝장'이라는 무시무시한 느낌을 줘요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "line",
+   "meaning": "선, 경계선 (line)",
+   "note": "넘으면 안 되는 경계를 나타내요."
+  }
+ ],
+ "summary": "<strong>dead</strong> (죽은) + <strong>line</strong> (선) = '넘으면 끝장나는 선'에서 <strong>'마감 기한'</strong>이 되었어요.",
+ "historyTitle": "포로수용소의 '넘으면 안 되는 선'",
+ "historyBody": "deadline은 19세기 미국 남북전쟁 때 포로수용소에서 '넘어가면 총에 맞는 경계선'을 가리키던 말로 기록되어 있어요. 20세기 초 인쇄·신문 업계에서 쓰이다가 '반드시 지켜야 하는 마감 시간'이라는 뜻으로 자리 잡았답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dead",
+   "pos": "형용사",
+   "meaning": "죽은, 작동하지 않는",
+   "en": "My phone is dead, so I can't call you.",
+   "ko": "내 휴대폰 배터리가 다 나가서 너한테 전화를 못 해."
+  },
+  {
+   "word": "death",
+   "pos": "명사",
+   "meaning": "죽음",
+   "en": "The death of his dog made him very sad.",
+   "ko": "그는 강아지의 죽음 때문에 무척 슬펐어요."
+  },
+  {
+   "word": "line",
+   "pos": "명사",
+   "meaning": "선, 줄",
+   "en": "Please wait behind the yellow line.",
+   "ko": "노란 선 뒤에서 기다려 주세요."
+  },
+  {
+   "word": "headline",
+   "pos": "명사",
+   "meaning": "(신문 기사의) 표제",
+   "en": "The headline was about the new school rules.",
+   "ko": "그 기사 제목은 새 학교 규칙에 관한 것이었어요."
+  },
+  {
+   "word": "outline",
+   "pos": "명사 / 동사",
+   "meaning": "윤곽, 개요 / 개요를 서술하다",
+   "en": "First, make an outline of your essay.",
+   "ko": "먼저 에세이의 개요를 짜 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 시계 바늘이 자정을 가리키기 직전, 과제를 서둘러 제출하는 장면",
+ "imageCaption": "달력에 빨간 동그라미가 쳐진 날짜와 째깍거리는 시계를 떠올려 보세요. 그 선을 넘으면 끝이에요!",
+ "movieLineEn": "The deadline is midnight. Not one second later!",
+ "movieLineKo": "마감은 자정이야. 1초도 늦으면 안 돼!",
+ "storyTitle": "마감 5분 전의 기적",
+ "story": "민수는 deadline(마감 기한) 5분 전까지 outline(개요)만 써 놨어요. 휴대폰은 dead(배터리가 나간) 상태였죠. 미친 듯이 타자를 쳐서 제출하고 line(줄) 맨 뒤에 서서 숨을 돌렸는데, 선생님 왈 \"마감은 다음 주란다.\" 오늘 신문 headline(표제)감이에요!"
+}

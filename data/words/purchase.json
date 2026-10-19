@@ -1,0 +1,54 @@
+{
+ "word": "purchase",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈpɜːrtʃəs]",
+ "meaning": "구입하다, 사다 / 구입, 구매품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pur-",
+   "meaning": "앞으로, ~을 위해 (forth, for)",
+   "note": "라틴어 pro-가 고대 프랑스어에서 pur-로 바뀐 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "chase",
+   "meaning": "쫓다 (chase, hunt)",
+   "note": "고대 프랑스어 chacier(쫓다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pur-</strong> (앞으로) + <strong>chase</strong> (쫓다) = '쫓아가서 얻어 내다'라는 뜻에서 <strong>'구입하다'</strong>가 되었어요.",
+ "historyTitle": "사냥하듯 얻어 내던 시절",
+ "historyBody": "고대 프랑스어 porchacier는 '애써 구하다, 쫓아가 얻다'라는 뜻이었어요. 13세기 영어에 들어와 처음에는 '손에 넣다'라는 넓은 뜻이었고, 나중에 '돈을 주고 사다'라는 뜻으로 좁혀졌어요. chase는 라틴어 captare(잡으려 하다)에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "chase",
+   "pos": "동사 / 명사",
+   "meaning": "쫓다 / 추격",
+   "en": "The cat chased the mouse around the kitchen.",
+   "ko": "고양이가 부엌에서 쥐를 쫓아다녔어요."
+  },
+  {
+   "word": "catch",
+   "pos": "동사",
+   "meaning": "잡다",
+   "en": "He ran fast to catch the bus.",
+   "ko": "그는 버스를 잡으려고 빨리 뛰었어요."
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "포착하다, 붙잡다",
+   "en": "The photo captures the beauty of the sunset.",
+   "ko": "그 사진은 노을의 아름다움을 담아내요."
+  }
+ ],
+ "imageSense": "대표 의미: 계산대에서 카드를 내밀어 물건을 사는 장면",
+ "imageCaption": "갖고 싶은 물건을 '쫓아가서' 결국 내 것으로 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Thank you for your purchase. Have a nice day!",
+ "movieLineKo": "구매해 주셔서 감사합니다. 좋은 하루 되세요!",
+ "storyTitle": "한정판 운동화 추격전",
+ "story": "준서는 한정판 운동화를 purchase(구입하다)하려고 새벽부터 줄을 섰어요. 문이 열리자 사람들이 서로 chase(쫓다)하며 달렸죠. 준서는 마지막 한 켤레를 catch(잡다)했어요! 그 순간을 사진으로 capture(포착하다)했는데, 집에 와서 보니 두 짝 모두 왼발이었답니다!"
+}

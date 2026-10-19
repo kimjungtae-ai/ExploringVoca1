@@ -1,0 +1,68 @@
+{
+ "word": "passion",
+ "pos": "명사",
+ "phonetic": "[ˈpæʃn]",
+ "meaning": "열정, 격정, 열중",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pass (pati)",
+   "meaning": "견디다, 고통받다 (suffer)",
+   "note": "라틴어 pati(견디다)의 과거분사 passus에서 왔어요. '지나가다'의 pass와는 다른 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>pass</strong> (견디다, 고통받다) + <strong>-ion</strong> (~하는 것) = '견디는 고통'이라는 뜻에서 '강렬한 감정', 다시 <strong>'열정'</strong>이 되었어요.",
+ "historyTitle": "고통에서 열정으로",
+ "historyBody": "라틴어 passio는 pati(견디다, 고통받다)에서 나와 원래 '고통'이라는 뜻이었어요. 중세 영어에서는 주로 예수의 수난을 가리켰고, 점차 마음을 휘어잡는 '강렬한 감정'이라는 뜻으로 넓어졌어요. 무언가를 위해 고통도 견딜 만큼 좋아하는 마음, 그게 오늘날의 passion이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "passionate",
+   "pos": "형용사",
+   "meaning": "열정적인",
+   "en": "He is passionate about protecting the environment.",
+   "ko": "그는 환경 보호에 열정적이에요."
+  },
+  {
+   "word": "passive",
+   "pos": "형용사",
+   "meaning": "수동적인, 소극적인",
+   "en": "Don't be passive; share your ideas in class.",
+   "ko": "소극적으로 있지 말고 수업 시간에 네 생각을 말해 봐."
+  },
+  {
+   "word": "compassion",
+   "pos": "명사",
+   "meaning": "연민, 동정심",
+   "en": "The nurse treated every patient with compassion.",
+   "ko": "그 간호사는 모든 환자를 연민의 마음으로 돌보았어요."
+  },
+  {
+   "word": "patient",
+   "pos": "형용사 / 명사",
+   "meaning": "참을성 있는 / 환자",
+   "en": "Be patient; the bus will come soon.",
+   "ko": "조금만 참아. 버스가 곧 올 거야."
+  },
+  {
+   "word": "patience",
+   "pos": "명사",
+   "meaning": "인내심",
+   "en": "Learning a new language takes a lot of patience.",
+   "ko": "새로운 언어를 배우는 데는 많은 인내심이 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 땀을 뻘뻘 흘리면서도 눈을 반짝이며 춤 연습을 하는 장면",
+ "imageCaption": "힘들어도 멈추지 않고 연습하는 댄서를 떠올려 보세요. 고통도 견디게 하는 뜨거운 마음, 그게 passion이에요.",
+ "movieLineEn": "Talent is nothing without passion. Show me your fire!",
+ "movieLineKo": "열정 없는 재능은 아무것도 아니야. 네 불꽃을 보여 줘!",
+ "storyTitle": "열정 가득 요리사",
+ "story": "요리사 지호는 passion(열정)이 넘쳐요. passionate(열정적인) 손길로 매운 떡볶이를 만들었죠. 손님들은 매워서 고통스러웠지만 patient(참을성 있는)하게 다 먹었어요. 지호는 손님들에게 compassion(연민)을 느껴 우유를 공짜로 줬어요. 알고 보니 그게 그 가게의 대표 메뉴 '우유 세트'의 시작이었답니다."
+}

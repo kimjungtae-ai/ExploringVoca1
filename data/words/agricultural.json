@@ -1,0 +1,73 @@
+{
+ "word": "agricultural",
+ "pos": "형용사",
+ "phonetic": "[ˌæɡrɪˈkʌltʃərəl]",
+ "meaning": "농업의, 농사의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "agri",
+   "meaning": "밭, 들판 (field)",
+   "note": "라틴어 ager(밭)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cult",
+   "meaning": "갈다, 가꾸다 (till)",
+   "note": "라틴어 colere(경작하다)의 과거분사 cultus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "명사를 형용사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>agri</strong> (밭) + <strong>cult</strong> (가꾸다) + <strong>-ure</strong> + <strong>-al</strong> = '밭을 가꾸는 일의'에서 <strong>'농업의'</strong>가 되었어요.",
+ "historyTitle": "밭을 가는 것과 문화를 가꾸는 것",
+ "historyBody": "라틴어 agricultura는 ager(밭)와 cultura(경작, 가꾸기)가 합쳐진 말이에요. cultura는 colere(땅을 갈다, 돌보다)에서 왔는데, 여기서 '마음을 가꾸는 것', 즉 culture(문화)라는 뜻도 생겼어요. 농사와 문화는 같은 뿌리를 가진 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "agriculture",
+   "pos": "명사",
+   "meaning": "농업",
+   "en": "Agriculture is still important in many countries.",
+   "ko": "많은 나라에서 농업은 여전히 중요해요."
+  },
+  {
+   "word": "culture",
+   "pos": "명사",
+   "meaning": "문화",
+   "en": "K-pop is a big part of Korean culture.",
+   "ko": "케이팝은 한국 문화의 큰 부분이에요."
+  },
+  {
+   "word": "cultivate",
+   "pos": "동사",
+   "meaning": "경작하다, 기르다",
+   "en": "Farmers cultivate rice in this area.",
+   "ko": "이 지역 농부들은 쌀을 재배해요."
+  },
+  {
+   "word": "colony",
+   "pos": "명사",
+   "meaning": "식민지, 군집",
+   "en": "Ants live in large colonies.",
+   "ko": "개미는 큰 군집을 이루어 살아요."
+  }
+ ],
+ "imageSense": "대표 의미: 넓은 논에서 트랙터가 땅을 가는 장면",
+ "imageCaption": "황금빛 들판과 땅을 가꾸는 농부의 손을 떠올려 보세요.",
+ "movieLineEn": "This village is famous for its agricultural festival.",
+ "movieLineKo": "이 마을은 농업 축제로 유명해.",
+ "storyTitle": "농업 박람회의 슈퍼 호박",
+ "story": "할아버지는 agricultural(농업의) 박람회에 호박을 출품했어요. 매일 노래를 불러 주며 cultivate(기르다)했죠. 할아버지의 culture(문화)는 agriculture(농업)에서도 '사랑으로 키우기'였어요. 결과는 1등! 그런데 호박이 너무 커서 트럭이 못 실었고, 결국 박람회가 할아버지네 밭으로 옮겨 왔대요."
+}

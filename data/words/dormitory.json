@@ -1,0 +1,54 @@
+{
+ "word": "dormitory",
+ "pos": "명사",
+ "phonetic": "[ˈdɔːrmətɔːri]",
+ "meaning": "기숙사, 공동 침실",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dormit",
+   "meaning": "잠자다 (sleep)",
+   "note": "라틴어 dormire(자다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ory",
+   "meaning": "~하는 장소 (place)",
+   "note": "라틴어 -orium에서 온 '장소'를 뜻하는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>dormit</strong> (잠자다) + <strong>-ory</strong> (장소) = '잠자는 곳'이라는 뜻에서 <strong>'기숙사, 공동 침실'</strong>이 되었어요.",
+ "historyTitle": "수도사들이 함께 잠들던 방",
+ "historyBody": "라틴어 dormitorium은 '잠자는 곳'이라는 뜻이었어요. 중세 수도원에서는 수도사들이 한 방에서 함께 잤는데, 그 방을 이렇게 불렀답니다. 이후 학교 기숙사를 가리키게 되었고, 줄여서 dorm이라고도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dorm",
+   "pos": "명사",
+   "meaning": "기숙사 (줄임말)",
+   "en": "My older brother lives in a dorm near his university.",
+   "ko": "우리 형은 대학 근처 기숙사에 살아요."
+  },
+  {
+   "word": "dormant",
+   "pos": "형용사",
+   "meaning": "잠자는 듯한, 휴면 중인",
+   "en": "The volcano has been dormant for 200 years.",
+   "ko": "그 화산은 200년 동안 휴면 상태예요."
+  },
+  {
+   "word": "dormancy",
+   "pos": "명사",
+   "meaning": "휴면 (상태)",
+   "en": "Some seeds stay in dormancy until spring comes.",
+   "ko": "어떤 씨앗들은 봄이 올 때까지 휴면 상태로 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 개의 침대가 나란히 놓인 학교 기숙사 방",
+ "imageCaption": "침대들이 줄지어 있고 친구들이 잠옷 차림으로 수다를 떠는 방을 떠올려 보세요. '잠자는 곳'이 바로 dormitory예요.",
+ "movieLineEn": "Lights out! Everyone back to the dormitory, now!",
+ "movieLineKo": "소등이다! 모두 지금 당장 기숙사로 돌아가!",
+ "storyTitle": "잠들지 않는 기숙사",
+ "story": "dormitory(기숙사)는 원래 '잠자는 곳'이라는 뜻이에요. 하지만 우리 dorm(기숙사) 친구들은 밤마다 라면 파티를 해요. 사감 선생님이 오면 모두 dormant(휴면 중인) 화산처럼 조용히 누워 있죠. 그런데 오늘은 사감 선생님이 라면을 들고 오셨어요. \"나도 dormancy(휴면) 끝났다, 한 젓가락만!\""
+}

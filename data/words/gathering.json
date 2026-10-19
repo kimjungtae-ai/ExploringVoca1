@@ -1,0 +1,54 @@
+{
+ "word": "gathering",
+ "pos": "명사",
+ "phonetic": "[ˈɡæðərɪŋ]",
+ "meaning": "모임, 집회, 수집",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "gather",
+   "meaning": "모으다, 모이다 (gather)",
+   "note": "고대 영어 gaderian에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 '행위나 그 결과'를 뜻하는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>gather</strong> (모이다) + <strong>-ing</strong> (~하는 것) = '모이는 것'이라는 뜻에서 <strong>'모임, 수집'</strong>이 되었습니다.",
+ "historyTitle": "고대 영어부터 있던 '모임'",
+ "historyBody": "gathering은 고대 영어 gaderung(모임, 집회)에서 이어진 아주 오래된 단어예요. gather는 together와 같은 게르만어 뿌리를 가지고 있어요. 수능 지문에서는 'information gathering(정보 수집)', 'social gathering(사교 모임)'으로 자주 등장한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gather",
+   "pos": "동사",
+   "meaning": "모으다, 모이다",
+   "en": "Fans gathered outside the stadium before the game.",
+   "ko": "경기 전에 팬들이 경기장 밖에 모였어요."
+  },
+  {
+   "word": "together",
+   "pos": "부사",
+   "meaning": "함께",
+   "en": "We cooked dinner together last night.",
+   "ko": "우리는 어젯밤 함께 저녁을 요리했어요."
+  },
+  {
+   "word": "gatherer",
+   "pos": "명사",
+   "meaning": "채집하는 사람, 수집가",
+   "en": "She is a careful gatherer of old photos.",
+   "ko": "그녀는 오래된 사진을 꼼꼼하게 모으는 수집가예요."
+  }
+ ],
+ "imageSense": "대표 의미: 명절에 온 가족이 둘러앉은 큰 상",
+ "imageCaption": "명절에 친척들이 커다란 상 주위로 모여 웃으며 이야기하는 모습을 떠올려 보세요.",
+ "movieLineEn": "This is not a party. It's a secret gathering of wizards.",
+ "movieLineKo": "이건 파티가 아니야. 마법사들의 비밀 모임이지.",
+ "storyTitle": "비밀 모임의 정체",
+ "story": "옆집 아저씨는 매주 밤 수상한 gathering(모임)에 나갔어요. 사람들이 together(함께) gather(모이다)해서 무언가를 속삭였죠. 정보 gatherer(수집가)인 나는 몰래 따라가 봤어요. 문틈으로 보니… 다 큰 어른들이 모여 뜨개질을 하고 있었어요! 아저씨가 웃으며 말했죠. \"너도 목도리 하나 떠 줄까?\""
+}

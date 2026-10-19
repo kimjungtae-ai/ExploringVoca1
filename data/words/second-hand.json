@@ -1,0 +1,68 @@
+{
+ "word": "second-hand",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ˌsekəndˈhænd]",
+ "meaning": "중고의, 간접적인 / 중고로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "second",
+   "meaning": "두 번째의 (second)",
+   "note": "라틴어 'secundus(뒤따르는)'에서 왔고, 'sequi(따르다)'와 같은 뿌리예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hand",
+   "meaning": "손 (hand)",
+   "note": "고대 영어 'hand'에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>second</strong> (두 번째) + <strong>hand</strong> (손) = 두 번째 손을 거친, 즉 <strong>'중고의, 간접적인'</strong>이란 뜻이에요.",
+ "historyTitle": "'뒤따르는 것'이 두 번째가 되다",
+ "historyBody": "second는 라틴어 'secundus(뒤따르는)'에서 왔는데, 이는 'sequi(따르다)'에서 나온 말이에요. 첫 번째를 뒤따르니까 '두 번째'가 된 거죠. second-hand는 '두 번째 주인의 손에 들어간'이라는 뜻에서 '중고의'가 되었고, '남을 거쳐 들은(간접적인)'이란 뜻도 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "second",
+   "pos": "형용사 / 명사",
+   "meaning": "두 번째의 / 초",
+   "en": "She won second prize in the singing contest.",
+   "ko": "그녀는 노래 대회에서 2등상을 받았어요."
+  },
+  {
+   "word": "secondary",
+   "pos": "형용사",
+   "meaning": "부차적인, 중등의",
+   "en": "Money is secondary to happiness for many people.",
+   "ko": "많은 사람들에게 돈은 행복보다 부차적인 것이에요."
+  },
+  {
+   "word": "sequence",
+   "pos": "명사",
+   "meaning": "순서, 연속",
+   "en": "Put the pictures in the correct sequence to tell the story.",
+   "ko": "이야기를 전하도록 그림들을 올바른 순서로 놓으세요."
+  },
+  {
+   "word": "consequence",
+   "pos": "명사",
+   "meaning": "결과",
+   "en": "Every choice we make has a consequence.",
+   "ko": "우리가 하는 모든 선택에는 결과가 따라요."
+  },
+  {
+   "word": "handy",
+   "pos": "형용사",
+   "meaning": "편리한, 손재주 있는",
+   "en": "A small flashlight is handy when camping.",
+   "ko": "캠핑할 때는 작은 손전등이 편리해요."
+  }
+ ],
+ "imageSense": "대표 의미: 중고 가게에서 누군가 쓰던 자전거를 사는 장면",
+ "imageCaption": "전 주인의 손에서 내 손으로 넘어오는 낡은 자전거를 떠올려 보세요.",
+ "movieLineEn": "It's second-hand, but it still works like new!",
+ "movieLineKo": "중고지만 아직도 새것처럼 잘 돼!",
+ "storyTitle": "중고 기타의 비밀",
+ "story": "second-hand(중고의) 기타를 샀는데, 줄을 튕기면 이상한 sequence(순서)로 음이 나왔어요. 처음엔 secondary(부차적인) 문제라 생각했죠. 그런데 그 consequence(결과)로 엄청난 신곡이 탄생! 알고 보니 전 주인이 유명 작곡가였대요."
+}

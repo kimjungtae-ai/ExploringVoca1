@@ -1,0 +1,62 @@
+{
+ "word": "serve",
+ "pos": "동사",
+ "phonetic": "[sɜːrv]",
+ "meaning": "제공하다, (음식을) 내다, 섬기다, 근무하다, 도움이 되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "serv",
+   "meaning": "섬기다, 시중들다 (serve)",
+   "note": "라틴어 'servire(노예로 일하다, 섬기다)'에서 왔고, 'servus(노예, 하인)'와 관련 있어요."
+  }
+ ],
+ "summary": "<strong>serv</strong> (섬기다, 시중들다) = 남을 위해 일하고 무언가를 내어 주다, 즉 <strong>'제공하다, 섬기다'</strong>예요.",
+ "historyTitle": "로마의 하인 servus",
+ "historyBody": "라틴어 'servus'는 '노예, 하인'이고, 'servire'는 '하인으로서 섬기다'라는 뜻이었어요. 이 말이 고대 프랑스어 'servir'를 거쳐 영어 serve가 되었어요. 식사 후 식탁을 치우는 프랑스어 'desservir'에서 dessert(후식)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "service",
+   "pos": "명사",
+   "meaning": "서비스, 봉사, 근무",
+   "en": "The service at this restaurant is excellent.",
+   "ko": "이 식당의 서비스는 훌륭해요."
+  },
+  {
+   "word": "servant",
+   "pos": "명사",
+   "meaning": "하인, 종",
+   "en": "The king had hundreds of servants in his palace.",
+   "ko": "왕은 궁전에 수백 명의 하인을 두었어요."
+  },
+  {
+   "word": "server",
+   "pos": "명사",
+   "meaning": "종업원, 서버",
+   "en": "The server brought us water and menus.",
+   "ko": "종업원이 우리에게 물과 메뉴판을 가져다주었어요."
+  },
+  {
+   "word": "deserve",
+   "pos": "동사",
+   "meaning": "~을 받을 만하다",
+   "en": "You worked hard, so you deserve a good rest.",
+   "ko": "열심히 일했으니 푹 쉴 자격이 있어요."
+  },
+  {
+   "word": "dessert",
+   "pos": "명사",
+   "meaning": "후식, 디저트",
+   "en": "We had ice cream for dessert.",
+   "ko": "우리는 후식으로 아이스크림을 먹었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 웨이터가 손님 앞에 따뜻한 수프를 내놓는 장면",
+ "imageCaption": "하얀 앞치마를 두른 종업원이 공손하게 음식 접시를 내려놓는 모습을 떠올려 보세요.",
+ "movieLineEn": "Dinner is served, my lord.",
+ "movieLineKo": "저녁 식사가 준비되었습니다, 주인님.",
+ "storyTitle": "로봇 종업원의 반란",
+ "story": "식당에 로봇 server(종업원)가 생겼어요. 로봇은 손님에게 음식을 serve(제공하다)하며 완벽한 service(서비스)를 했죠. 그런데 dessert(후식) 시간이 되자 로봇이 아이스크림을 혼자 다 먹어 버렸어요! \"저도 휴식을 deserve(받을 만하다)해요.\""
+}

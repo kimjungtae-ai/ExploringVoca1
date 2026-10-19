@@ -1,0 +1,81 @@
+{
+ "word": "regulation",
+ "pos": "명사",
+ "phonetic": "[ˌreɡjuˈleɪʃən]",
+ "meaning": "규정, 규제, 조절",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "regul",
+   "meaning": "자, 규칙 (rule)",
+   "note": "라틴어 regula(곧은 자, 규칙)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "regulate(규제하다)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>regul</strong> (규칙) + <strong>-ate</strong> (~하게 하다) + <strong>-ion</strong> (명사) = 규칙에 맞게 다스리는 것, 즉 <strong>'규정, 규제, 조절'</strong>이에요.",
+ "historyTitle": "규칙을 문서로 만든 것",
+ "historyBody": "regulation은 regulate에 명사형 -ion이 붙은 말로, 17세기쯤부터 쓰였어요. 뿌리인 라틴어 regula는 원래 선을 긋는 '자'였어요. 반듯한 자가 규칙이 되고, 규칙이 모여 공식 '규정'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regulate",
+   "pos": "동사",
+   "meaning": "규제하다, 조절하다",
+   "en": "Laws regulate how much noise factories can make.",
+   "ko": "법은 공장이 낼 수 있는 소음의 양을 규제해요."
+  },
+  {
+   "word": "regular",
+   "pos": "형용사",
+   "meaning": "규칙적인",
+   "en": "Keep a regular sleep schedule during exam season.",
+   "ko": "시험 기간에도 규칙적인 수면 일정을 지키세요."
+  },
+  {
+   "word": "regularly",
+   "pos": "부사",
+   "meaning": "규칙적으로",
+   "en": "The bus runs regularly every ten minutes.",
+   "ko": "그 버스는 10분마다 규칙적으로 운행해요."
+  },
+  {
+   "word": "deregulation",
+   "pos": "명사",
+   "meaning": "규제 완화",
+   "en": "Some experts say deregulation helped the industry grow.",
+   "ko": "일부 전문가들은 규제 완화가 그 산업의 성장에 도움이 됐다고 말해요."
+  },
+  {
+   "word": "rule",
+   "pos": "명사",
+   "meaning": "규칙",
+   "en": "Breaking the rules has consequences.",
+   "ko": "규칙을 어기면 결과가 따라요."
+  },
+  {
+   "word": "region",
+   "pos": "명사",
+   "meaning": "지역",
+   "en": "Rain is expected in the southern region.",
+   "ko": "남부 지역에 비가 예상돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 수영장 벽에 붙은 '안전 규정' 안내판",
+ "imageCaption": "수영장 입구에 '뛰지 마시오, 수영모 착용' 같은 규칙이 적힌 판을 떠올려 보세요. 공식적으로 정한 규칙이 regulation이에요.",
+ "movieLineEn": "Sorry, sir. Regulations are regulations.",
+ "movieLineKo": "죄송합니다, 손님. 규정은 규정이에요.",
+ "storyTitle": "규정 집착 로봇",
+ "story": "학교에 새로 온 안내 로봇은 모든 regulation(규정)을 외우고 있었어요. 복도에서 뛰는 학생을 보면 rule(규칙)을 읊으며 속도를 regulate(조절하다)하라고 했죠. 학생들은 regularly(규칙적으로) 로봇을 피해 다녔어요. 그런데 어느 날 로봇이 혼자 신나게 복도를 질주했어요. 배터리 '절약 규정'을 지키려고 충전기로 달려간 거였답니다."
+}

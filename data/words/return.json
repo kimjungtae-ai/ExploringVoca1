@@ -1,0 +1,68 @@
+{
+ "word": "return",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈtɜːrn]",
+ "meaning": "돌아오다, 돌려주다 / 귀환, 반납, 수익",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "원래 자리로 되돌아간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "turn",
+   "meaning": "돌다, 돌리다 (turn) ← tornare",
+   "note": "라틴어 tornare(선반으로 돌려 깎다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>turn</strong> (돌다) = '몸을 돌려 되돌아가다'에서 <strong>'돌아오다, 돌려주다'</strong>가 되었어요.",
+ "historyTitle": "물레처럼 돌아오는 말",
+ "historyBody": "turn은 라틴어 tornare(선반에 돌려 깎다)에서 왔고, 이는 그리스어 tornos(선반, 원을 그리는 도구)에서 나왔어요. 고대 프랑스어 retorner가 14세기쯤 영어 return이 되었답니다. 여행을 뜻하는 tour도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "turn",
+   "pos": "동사 / 명사",
+   "meaning": "돌다, 바뀌다 / 차례",
+   "en": "Turn left at the next corner.",
+   "ko": "다음 모퉁이에서 왼쪽으로 도세요."
+  },
+  {
+   "word": "tour",
+   "pos": "명사 / 동사",
+   "meaning": "여행, 견학 / 순회하다",
+   "en": "We took a tour of the old castle.",
+   "ko": "우리는 오래된 성을 둘러보는 견학을 했어요."
+  },
+  {
+   "word": "tourist",
+   "pos": "명사",
+   "meaning": "관광객",
+   "en": "The beach was full of tourists in July.",
+   "ko": "7월에 해변은 관광객으로 가득했어요."
+  },
+  {
+   "word": "detour",
+   "pos": "명사",
+   "meaning": "우회로",
+   "en": "We took a detour because of the road work.",
+   "ko": "도로 공사 때문에 우리는 우회로로 갔어요."
+  },
+  {
+   "word": "turnover",
+   "pos": "명사",
+   "meaning": "이직률, 매출액",
+   "en": "The company has a high staff turnover.",
+   "ko": "그 회사는 직원 이직률이 높아요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행을 마치고 집으로 돌아와 문을 여는 장면",
+ "imageCaption": "긴 여행을 끝내고 빙 돌아 다시 우리 집 문 앞에 선 모습을 떠올려 보세요.",
+ "movieLineEn": "I'll return. And when I do, bring snacks.",
+ "movieLineKo": "난 돌아올 거야. 돌아올 땐 간식 챙겨 둬.",
+ "storyTitle": "돌아온 책",
+ "story": "도서관 사서는 20년 전 빌려 간 책이 return(반납)되자 깜짝 놀랐어요. 책은 세계 tour(여행)를 한 듯 스티커투성이였죠. 빌린 사람은 tourist(관광객)였는데 매번 detour(우회로)로 가다 길을 잃었대요. 그가 말했어요. \"이제 turn(차례)이 왔네요. 연체료는 엽서로 낼게요!\""
+}

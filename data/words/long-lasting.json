@@ -1,0 +1,74 @@
+{
+ "word": "long-lasting",
+ "pos": "형용사",
+ "phonetic": "[ˌlɔːŋˈlæstɪŋ]",
+ "meaning": "오래 지속되는, 오래가는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "long",
+   "meaning": "긴, 오래 (long)",
+   "note": "고대 영어 lang(긴)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "last",
+   "meaning": "지속되다 (continue)",
+   "note": "고대 영어 lǣstan(따르다, 계속하다)에서 온 동사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (현재분사형 형용사)",
+   "note": "'계속 이어지는' 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>long</strong> (오래) + <strong>last</strong> (지속되다) + <strong>-ing</strong> (~하는) = '오래 지속되는'이라는 뜻에서 <strong>'오래가는'</strong>이 되었습니다.",
+ "historyTitle": "발자국을 따라가는 '지속'",
+ "historyBody": "동사 last는 고대 영어 lǣstan에서 왔는데, 원래는 '(발자국을) 따라가다, 해내다'라는 뜻이었어요. '발자국, 자취'를 뜻하던 옛말과 연결되어 '계속 이어지다'라는 뜻이 생겼답니다. 여기에 long이 붙어 '오래 지속되는'이라는 합성 형용사가 된 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "last",
+   "pos": "동사",
+   "meaning": "지속되다, 계속되다",
+   "en": "The meeting lasted for three hours.",
+   "ko": "회의는 세 시간 동안 계속되었어요."
+  },
+  {
+   "word": "lasting",
+   "pos": "형용사",
+   "meaning": "지속적인, 영속적인",
+   "en": "Good teachers leave a lasting impression on students.",
+   "ko": "좋은 선생님은 학생들에게 오래 남는 인상을 남겨요."
+  },
+  {
+   "word": "everlasting",
+   "pos": "형용사",
+   "meaning": "영원한, 끝없는",
+   "en": "They promised each other everlasting friendship.",
+   "ko": "그들은 서로에게 영원한 우정을 약속했어요."
+  },
+  {
+   "word": "length",
+   "pos": "명사",
+   "meaning": "길이",
+   "en": "The length of the bridge is about one kilometer.",
+   "ko": "그 다리의 길이는 약 1킬로미터예요."
+  },
+  {
+   "word": "lengthen",
+   "pos": "동사",
+   "meaning": "길게 하다, 늘이다",
+   "en": "The days lengthen as summer comes.",
+   "ko": "여름이 다가오면 낮이 길어져요."
+  }
+ ],
+ "imageSense": "대표 의미: 며칠이 지나도 꺼지지 않는 튼튼한 손전등 배터리",
+ "imageCaption": "한 번 충전하면 일주일 내내 쌩쌩한 배터리를 떠올려 보세요. 오래오래 버티는 것이 long-lasting이에요.",
+ "movieLineEn": "Real friendship is long-lasting, like a good song.",
+ "movieLineKo": "진짜 우정은 좋은 노래처럼 오래가.",
+ "storyTitle": "오래가는 립밤의 비밀",
+ "story": "지아는 광고에서 long-lasting(오래가는) 립밤을 샀어요. \"하루 종일 last(지속되다)!\"라는 문구가 lasting(오래 남는) 인상을 줬거든요. 정말 효과가 everlasting(영원한)처럼 느껴졌죠. 그런데 일주일 뒤 알았어요. 사실 뚜껑을 한 번도 안 열고 그냥 들고만 다녔다는 걸요!"
+}

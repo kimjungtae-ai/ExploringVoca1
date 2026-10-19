@@ -1,0 +1,48 @@
+{
+ "word": "gather",
+ "pos": "동사",
+ "phonetic": "[ˈɡæðər]",
+ "meaning": "모으다, 모이다, (정보를) 수집하다, (속도 등을) 더하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "gather",
+   "meaning": "함께 모으다 (bring together)",
+   "note": "고대 영어 gaderian에서 왔고, together(함께)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>gather</strong> (고대 영어 gaderian, 한데 모으다) = together(함께)와 같은 뿌리에서 <strong>'모으다, 모이다'</strong>가 되었습니다.",
+ "historyTitle": "together와 형제인 단어",
+ "historyBody": "gather는 고대 영어 gaderian(모으다)에서 왔어요. together의 고대 영어형 togædere도 같은 게르만어 뿌리 *gad-(함께, 모이다)를 가지고 있어요. 옛날 '수렵·채집인(hunter-gatherers)'처럼 열매를 모으던 모습을 떠올리면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gathering",
+   "pos": "명사",
+   "meaning": "모임, 수집",
+   "en": "There was a big family gathering on Chuseok.",
+   "ko": "추석에 큰 가족 모임이 있었어요."
+  },
+  {
+   "word": "together",
+   "pos": "부사",
+   "meaning": "함께",
+   "en": "Let's study together for the final exam.",
+   "ko": "기말고사 공부를 함께 하자."
+  },
+  {
+   "word": "gatherer",
+   "pos": "명사",
+   "meaning": "채집하는 사람, 수집가",
+   "en": "Early humans lived as hunters and gatherers.",
+   "ko": "초기 인류는 수렵·채집인으로 살았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 캠프파이어 주위로 사람들이 모여드는 장면",
+ "imageCaption": "밤에 모닥불을 피우자 친구들이 하나둘 주위로 모여드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Gather everyone in the hall. I know who did it.",
+ "movieLineKo": "모두 홀에 모이게 해. 범인이 누군지 알아냈어.",
+ "storyTitle": "도토리 수집가 다람쥐",
+ "story": "다람쥐는 겨울을 위해 도토리를 gather(모으다)했어요. 최고의 gatherer(채집가)였죠. 숲속 동물들이 together(함께) 모인 gathering(모임)에서 다람쥐는 도토리 천 개를 자랑했어요. 그런데 어디에 숨겼는지 기억이 안 났대요. 그래서 봄이 되자 숲에 참나무 천 그루가 자랐답니다!"
+}

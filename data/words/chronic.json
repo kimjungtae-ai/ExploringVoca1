@@ -1,0 +1,61 @@
+{
+ "word": "chronic",
+ "pos": "형용사",
+ "phonetic": "[ˈkrɑːnɪk]",
+ "meaning": "만성적인, 고질적인, 장기간의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "chron",
+   "meaning": "시간 (time)",
+   "note": "그리스어 khronos(시간)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의, ~와 관련된 (형용사형)",
+   "note": "명사를 '~에 관한'이라는 형용사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>chron</strong> (시간) + <strong>-ic</strong> (~의) = '오랜 시간에 걸친'이라는 데서 <strong>'만성적인'</strong>이 되었습니다.",
+ "historyTitle": "시간의 신 크로노스",
+ "historyBody": "그리스어 khronos는 '시간'을 뜻하고, khronikos는 '시간에 관한'이라는 뜻이었어요. 15세기 영어에서 이 말은 오래 지속되는 병을 가리키는 의학 용어로 먼저 쓰였어요. 지금은 '고질적인 문제'처럼 오래 계속되는 나쁜 상황에 널리 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "chronicle",
+   "pos": "명사/동사",
+   "meaning": "연대기 / 연대순으로 기록하다",
+   "en": "The book is a chronicle of the war years.",
+   "ko": "그 책은 전쟁 시기의 연대기예요."
+  },
+  {
+   "word": "chronological",
+   "pos": "형용사",
+   "meaning": "연대순의, 시간 순서대로의",
+   "en": "List the events in chronological order.",
+   "ko": "사건들을 시간 순서대로 나열하세요."
+  },
+  {
+   "word": "synchronize",
+   "pos": "동사",
+   "meaning": "동시에 일어나게 하다, 맞추다",
+   "en": "The dancers synchronized their moves perfectly.",
+   "ko": "무용수들은 동작을 완벽하게 맞췄어요."
+  },
+  {
+   "word": "chronically",
+   "pos": "부사",
+   "meaning": "만성적으로",
+   "en": "Many students are chronically tired during exam season.",
+   "ko": "많은 학생들이 시험 기간에 만성적으로 피곤해요."
+  }
+ ],
+ "imageSense": "대표 의미: 시계가 수없이 돌아가는 동안 계속 아픈 허리를 붙잡은 모습",
+ "imageCaption": "시간(chron)이 아무리 흘러도 사라지지 않는 문제를 떠올려 보세요.",
+ "movieLineEn": "I'm not lazy. I just have chronic Monday syndrome!",
+ "movieLineKo": "난 게으른 게 아니야. 그냥 만성 월요병이 있을 뿐이야!",
+ "storyTitle": "만성 지각생의 변명",
+ "story": "민호는 chronic(만성적인) 지각생이에요. 선생님은 그의 지각을 chronological(시간 순서대로의) 표로 정리해 chronicle(연대기)을 만드셨죠. 민호는 시계와 알람을 synchronize(맞추다)했지만 여전히 chronically(만성적으로) 늦었어요. 알고 보니 시계를 전부 10분 늦게 맞춰 놨대요!"
+}

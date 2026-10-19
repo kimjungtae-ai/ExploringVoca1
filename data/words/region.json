@@ -1,0 +1,75 @@
+{
+ "word": "region",
+ "pos": "명사",
+ "phonetic": "[ˈriːdʒən]",
+ "meaning": "지역, 지방, 영역, 부위",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "reg",
+   "meaning": "다스리다, 곧게 이끌다 (rule, direct)",
+   "note": "라틴어 regere(다스리다, 방향을 잡다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것, 범위 (명사)",
+   "note": "동작이나 결과를 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>reg</strong> (다스리다, 경계를 정하다) + <strong>-ion</strong> (명사) = 한 사람이 다스리는 경계 안의 땅, 즉 <strong>'지역, 영역'</strong>이에요.",
+ "historyTitle": "선을 곧게 그어 나눈 땅",
+ "historyBody": "라틴어 regio는 원래 '방향, 경계선'을 뜻했고, regere(곧게 이끌다, 다스리다)에서 왔어요. 경계선을 그어 나눈 땅이 곧 '지역'이 된 거예요. 같은 뿌리에서 regular(규칙적인), regulate(규제하다)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regional",
+   "pos": "형용사",
+   "meaning": "지역의, 지방의",
+   "en": "Each country has its own regional dishes.",
+   "ko": "각 나라에는 고유한 지역 음식이 있어요."
+  },
+  {
+   "word": "regulate",
+   "pos": "동사",
+   "meaning": "규제하다, 조절하다",
+   "en": "Sweating helps regulate body temperature.",
+   "ko": "땀은 체온 조절을 도와줘요."
+  },
+  {
+   "word": "regular",
+   "pos": "형용사",
+   "meaning": "규칙적인, 정기적인",
+   "en": "Regular exercise keeps your heart healthy.",
+   "ko": "규칙적인 운동은 심장을 건강하게 지켜 줘요."
+  },
+  {
+   "word": "reign",
+   "pos": "명사 / 동사",
+   "meaning": "통치 (기간) / 통치하다",
+   "en": "The king's reign lasted for forty years.",
+   "ko": "그 왕의 통치는 40년 동안 이어졌어요."
+  },
+  {
+   "word": "regime",
+   "pos": "명사",
+   "meaning": "정권, 체제",
+   "en": "The old regime collapsed after the protests.",
+   "ko": "시위 이후 옛 정권은 무너졌어요."
+  },
+  {
+   "word": "correct",
+   "pos": "형용사 / 동사",
+   "meaning": "올바른 / 바로잡다",
+   "en": "Choose the correct answer from the options below.",
+   "ko": "아래 선택지에서 올바른 답을 고르세요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위에 색깔로 구분된 여러 지역",
+ "imageCaption": "사회과부도를 펼치면 나라가 여러 색깔의 구역으로 나뉘어 있죠. 그 경계선 안의 한 구역이 region이에요.",
+ "movieLineEn": "This region is dangerous at night. Stay close.",
+ "movieLineKo": "이 지역은 밤에 위험해. 가까이 붙어 있어.",
+ "storyTitle": "전국 떡볶이 대회",
+ "story": "각 region(지역)의 대표들이 떡볶이 대회에 모였어요. regional(지역의) 특색을 살린 소스가 끝없이 나왔죠. 심사위원은 맵기를 regulate(조절하다)하지 않으면 감점이라고 했어요. 결국 우승은 '대회 regular(단골) 손님' 할머니였어요. 그분은 참가자가 아니라 구경 왔다가 남은 떡볶이를 다 섞은 거였답니다."
+}

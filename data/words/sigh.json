@@ -1,0 +1,41 @@
+{
+ "word": "sigh",
+ "pos": "동사 / 명사",
+ "phonetic": "[saɪ]",
+ "meaning": "한숨 쉬다 / 한숨",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sigh",
+   "meaning": "한숨 (sigh)",
+   "note": "고대 영어 'sīcan(한숨 쉬다)'에서 온 말로, 숨소리를 흉내 낸 의성어로 보여요. 더 쪼개지 않아요."
+  }
+ ],
+ "summary": "<strong>sigh</strong> (휴~ 하는 소리) = 숨을 길게 내쉬다, 즉 <strong>'한숨 쉬다'</strong>예요.",
+ "historyTitle": "숨소리를 닮은 단어",
+ "historyBody": "sigh는 고대 영어 'sīcan'에서 왔고, 숨을 내쉬는 소리를 흉내 낸 말로 여겨져요. 중세 영어에서 과거형 'sighte'가 다시 현재형처럼 쓰이면서 지금의 sigh가 되었다고 해요. 한숨은 슬플 때도 쉬지만 'a sigh of relief(안도의 한숨)'처럼 안심할 때도 쉬어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sigh",
+   "pos": "명사",
+   "meaning": "한숨",
+   "en": "She let out a sigh of relief after the exam.",
+   "ko": "그녀는 시험이 끝난 뒤 안도의 한숨을 쉬었어요."
+  },
+  {
+   "word": "sighing",
+   "pos": "명사",
+   "meaning": "한숨 쉬기",
+   "en": "His constant sighing made everyone tired.",
+   "ko": "그의 끊임없는 한숨은 모두를 지치게 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 성적표를 보고 \"휴~\" 하며 어깨가 축 처진 학생",
+ "imageCaption": "어깨를 축 늘어뜨리고 길게 숨을 내쉬는 모습을 떠올려 보세요.",
+ "movieLineEn": "She sighed and said, \"Fine. You win.\"",
+ "movieLineKo": "그녀는 한숨을 쉬며 말했다. \"좋아. 네가 이겼어.\"",
+ "storyTitle": "한숨 대회",
+ "story": "아빠는 월급날마다 sigh(한숨 쉬다)하세요. 엄마의 sighing(한숨 쉬기)도 만만치 않죠. 어느 날 두 분이 동시에 sigh(한숨)를 쉬자, 그 바람에 생일 케이크 촛불이 꺼졌어요. 다 같이 웃고 나니 이번엔 relief(안도) 한숨이 나왔대요."
+}

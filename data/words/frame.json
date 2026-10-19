@@ -1,0 +1,48 @@
+{
+ "word": "frame",
+ "pos": "명사 / 동사",
+ "phonetic": "[freɪm]",
+ "meaning": "틀, 액자, 뼈대, 체격 / 틀에 넣다, (생각을) 구성하다, 누명을 씌우다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "frame",
+   "meaning": "유익하게 하다, 앞으로 나아가다 (profit, forward)",
+   "note": "고대 영어 framian(도움이 되다)에서 왔고, fram(앞으로)과 관련 있어요."
+  }
+ ],
+ "summary": "<strong>frame</strong> (고대 영어 framian, 쓸모 있게 만들다) = 나무를 다듬어 짜 맞추는 일에서 <strong>'틀, 뼈대, 액자'</strong>가 되었습니다.",
+ "historyTitle": "'앞으로 나아가다'에서 '틀'까지",
+ "historyBody": "frame은 고대 영어 framian(도움이 되다, 나아가다)에서 왔고, fram(앞으로)과 관련된 말이에요. 중세에는 '목재를 다듬어 집을 짓다'라는 뜻으로 쓰이다가, 거기서 '뼈대, 틀'이라는 명사 뜻이 나왔어요. '누명을 씌우다'는 '거짓 이야기를 짜 맞추다'에서 20세기에 생긴 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "framework",
+   "pos": "명사",
+   "meaning": "뼈대, 틀, 체제",
+   "en": "The report gives a framework for solving the problem.",
+   "ko": "그 보고서는 문제 해결을 위한 틀을 제시해요."
+  },
+  {
+   "word": "framed",
+   "pos": "형용사",
+   "meaning": "액자에 넣은, 누명을 쓴",
+   "en": "A framed photo of my family hangs on the wall.",
+   "ko": "가족사진 액자가 벽에 걸려 있어요."
+  },
+  {
+   "word": "reframe",
+   "pos": "동사",
+   "meaning": "다시 구성하다, 다른 관점으로 보다",
+   "en": "Try to reframe your mistake as a chance to learn.",
+   "ko": "실수를 배울 기회로 다시 생각해 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 벽에 걸린 나무 액자 속 사진",
+ "imageCaption": "거실 벽에 걸린 나무 액자, 또는 집을 짓기 전 세워 둔 나무 뼈대를 떠올려 보세요.",
+ "movieLineEn": "I didn't do it! Someone framed me!",
+ "movieLineKo": "내가 안 했어! 누가 나한테 누명을 씌웠다고!",
+ "storyTitle": "액자 속 범인",
+ "story": "미술관의 그림이 사라졌어요! 경비원은 framed(액자에 넣은) 사진 속 고양이를 범인으로 frame(누명을 씌우다)했죠. 탐정은 사건의 framework(틀)를 다시 세우고 reframe(다른 관점으로 보다)해 봤어요. 진짜 범인은 바로 미술관 관장! 그림이 마음에 안 들어서 frame(액자)만 남기고 자기 집에 숨겼대요."
+}

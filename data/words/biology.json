@@ -1,0 +1,75 @@
+{
+ "word": "biology",
+ "pos": "명사",
+ "phonetic": "[baɪˈɑːlədʒi]",
+ "meaning": "생물학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bio",
+   "meaning": "생명, 삶 (life)",
+   "note": "그리스어 bios(생명)에서 왔어요. 생명과 관련된 단어 앞에 자주 붙어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-logy",
+   "meaning": "학문, ~에 대한 연구 (study)",
+   "note": "그리스어 logos(말, 이치)에서 온 말로 '~학'을 만들어요."
+  }
+ ],
+ "summary": "<strong>bio</strong> (생명) + <strong>-logy</strong> (학문) = '생명을 연구하는 학문', 즉 <strong>'생물학'</strong>이에요.",
+ "historyTitle": "1800년 무렵 새로 만들어진 학문 이름",
+ "historyBody": "biology라는 말은 1800년 무렵 독일과 프랑스의 학자들(트레비라누스, 라마르크 등)이 그리스어 bios와 logos를 합쳐 만든 학술어예요. 이전에는 생물을 '자연사(natural history)'라는 이름으로 함께 다뤘어요. 이 말이 영어로 들어와 오늘날의 생물학이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "biologist",
+   "pos": "명사",
+   "meaning": "생물학자",
+   "en": "The biologist studied how frogs survive cold winters.",
+   "ko": "그 생물학자는 개구리가 추운 겨울을 어떻게 견디는지 연구했어."
+  },
+  {
+   "word": "biography",
+   "pos": "명사",
+   "meaning": "전기, 일대기",
+   "en": "I read a biography of Steve Jobs last summer.",
+   "ko": "나는 지난여름에 스티브 잡스 전기를 읽었어."
+  },
+  {
+   "word": "biodiversity",
+   "pos": "명사",
+   "meaning": "생물 다양성",
+   "en": "Rainforests have the richest biodiversity on Earth.",
+   "ko": "열대우림은 지구에서 가장 풍부한 생물 다양성을 지니고 있어요."
+  },
+  {
+   "word": "antibiotic",
+   "pos": "명사",
+   "meaning": "항생제",
+   "en": "The doctor gave me antibiotics for my throat infection.",
+   "ko": "의사 선생님이 목 감염 때문에 항생제를 주셨어."
+  },
+  {
+   "word": "psychology",
+   "pos": "명사",
+   "meaning": "심리학",
+   "en": "She wants to study psychology to understand people better.",
+   "ko": "그녀는 사람을 더 잘 이해하려고 심리학을 공부하고 싶어 해."
+  },
+  {
+   "word": "ecology",
+   "pos": "명사",
+   "meaning": "생태학, 생태계",
+   "en": "Plastic waste is damaging the ecology of the ocean.",
+   "ko": "플라스틱 쓰레기가 바다 생태계를 해치고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 현미경으로 세포를 들여다보며 생명을 연구하는 장면",
+ "imageCaption": "실험실에서 현미경 속 작은 세포가 꿈틀대는 모습을 떠올려 보세요. '생명(bio)을 연구(-logy)'하는 학문이 생물학이에요.",
+ "movieLineEn": "Biology class just got a lot more interesting!",
+ "movieLineKo": "생물 수업이 갑자기 훨씬 흥미로워졌는데!",
+ "storyTitle": "개구리 해부 대작전",
+ "story": "biology(생물학) 시간, 지호는 개구리 해부가 무서웠어요. 꿈이 biologist(생물학자)인 친구는 신나서 biodiversity(생물 다양성) 이야기를 늘어놓았죠. 그런데 상자를 열자 개구리가 폴짝 도망쳤어요! 다음 날 지호는 개구리의 biography(전기)를 써서 칭찬을 받았답니다."
+}

@@ -1,0 +1,54 @@
+{
+ "word": "plogging",
+ "pos": "명사",
+ "phonetic": "[ˈplɑːɡɪŋ]",
+ "meaning": "플로깅(조깅하며 쓰레기 줍기)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "plo-",
+   "meaning": "줍다 (pick up)",
+   "note": "스웨덴어 plocka upp(줍다)에서 앞부분을 따왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "-gging",
+   "meaning": "조깅 (jogging)",
+   "note": "영어 jogging의 뒷부분을 붙였어요."
+  }
+ ],
+ "summary": "<strong>plocka upp</strong> (줍다) + <strong>jogging</strong> (조깅) = 달리면서 쓰레기를 줍는 <strong>'플로깅'</strong>이에요.",
+ "historyTitle": "스웨덴에서 시작된 환경 운동",
+ "historyBody": "plogging은 2016년 무렵 스웨덴에서 에릭 알스트룀이 시작한 활동으로 알려져 있어요. 스웨덴어 plocka upp(줍다)와 영어 jogging을 합친 혼성어예요. 조깅하며 쓰레기를 줍는 이 운동은 SNS를 타고 세계로 퍼졌고, 한국에서도 '줍깅'이라는 말이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "jogging",
+   "pos": "명사",
+   "meaning": "조깅",
+   "en": "Jogging in the morning helps me feel awake.",
+   "ko": "아침 조깅을 하면 정신이 맑아져요."
+  },
+  {
+   "word": "jog",
+   "pos": "동사",
+   "meaning": "천천히 달리다, 조깅하다",
+   "en": "My dad jogs along the river every evening.",
+   "ko": "아빠는 매일 저녁 강변을 따라 조깅하세요."
+  },
+  {
+   "word": "jogger",
+   "pos": "명사",
+   "meaning": "조깅하는 사람",
+   "en": "A jogger stopped to help the lost child.",
+   "ko": "조깅하던 사람이 길 잃은 아이를 도우려고 멈췄어요."
+  }
+ ],
+ "imageSense": "대표 의미: 집게와 봉투를 들고 달리며 쓰레기를 줍는 사람",
+ "imageCaption": "공원을 달리다 멈춰서 빈 캔을 봉투에 쏙 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "Plogging: save the planet and get in shape at the same time!",
+ "movieLineKo": "플로깅: 지구도 지키고 몸매도 가꾸고!",
+ "storyTitle": "운동광 할아버지의 착각",
+ "story": "할아버지는 매일 jog(조깅하다)하는 jogger(조깅하는 사람)였어요. 손녀가 plogging(플로깅)을 알려 주자 신이 나셨죠. 다음 날 할아버지의 봉투는 꽉 찼어요. 그런데 안에는 남들이 잠깐 내려놓은 물병과 운동화까지! jogging(조깅)보다 해명하느라 더 오래 뛰셨대요."
+}

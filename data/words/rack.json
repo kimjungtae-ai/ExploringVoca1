@@ -1,0 +1,48 @@
+{
+ "word": "rack",
+ "pos": "명사 / 동사",
+ "phonetic": "[ræk]",
+ "meaning": "선반, 걸이, 받침대 / 괴롭히다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rack (← 중세 네덜란드어 rek)",
+   "meaning": "틀, 뼈대 (framework)",
+   "note": "물건을 걸거나 올려놓는 틀을 뜻하는 네덜란드어에서 왔을 것으로 봐요."
+  }
+ ],
+ "summary": "<strong>rack</strong>은 아마도 중세 네덜란드어 <strong>rek</strong> (틀, 뼈대)에서 와서 물건을 거는 <strong>'선반, 걸이'</strong>가 되었어요.",
+ "historyTitle": "물건을 거는 틀",
+ "historyBody": "rack은 14세기 영어에 나타난 말로, 중세 네덜란드어나 저지 독일어의 rek(틀, 선반)에서 왔다고 보는 견해가 많아요. 하지만 정확한 경로는 확실하지 않아요. 몸을 잡아 늘이던 옛 고문 기구도 rack이라 불러서, 'rack one's brain(머리를 쥐어짜다)' 같은 표현이 생겼어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "shoe rack",
+   "pos": "명사",
+   "meaning": "신발장, 신발 걸이",
+   "en": "Please put your sneakers on the shoe rack.",
+   "ko": "운동화는 신발장에 올려 주세요."
+  },
+  {
+   "word": "bike rack",
+   "pos": "명사",
+   "meaning": "자전거 거치대",
+   "en": "I locked my bicycle to the bike rack.",
+   "ko": "나는 자전거를 자전거 거치대에 묶어 두었어요."
+  },
+  {
+   "word": "roof rack",
+   "pos": "명사",
+   "meaning": "(자동차) 루프랙, 지붕 짐받이",
+   "en": "We tied our tent to the roof rack of the car.",
+   "ko": "우리는 텐트를 자동차 지붕 짐받이에 묶었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 옷걸이 봉에 셔츠가 나란히 걸린 장면",
+ "imageCaption": "물건을 차곡차곡 올려 두는 철제 틀을 떠올려 보세요.",
+ "movieLineEn": "Grab your coat from the rack. We're leaving.",
+ "movieLineKo": "걸이에서 코트 챙겨. 우리 간다.",
+ "storyTitle": "선반 정리 대회",
+ "story": "아빠는 현관에 새 shoe rack(신발장)을 만들었어요. 내친김에 마당에 bike rack(자전거 거치대)도, 차에는 roof rack(지붕 짐받이)도 달았죠. 집 안 모든 곳에 rack(선반)이 생겼어요. 그런데 엄마가 물었어요. '그래서 당신 공구는 어디 뒀어?' 아빠는 머리를 쥐어짰답니다!"
+}

@@ -1,0 +1,55 @@
+{
+ "word": "bill",
+ "pos": "명사 / 동사",
+ "phonetic": "[bɪl]",
+ "meaning": "청구서, 계산서, 지폐, 법안 / 청구하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bill (← bulla)",
+   "meaning": "봉인된 문서 (sealed document)",
+   "note": "라틴어 bulla(물방울, 둥근 봉인)가 '도장 찍힌 문서'를 거쳐 bill이 되었어요."
+  }
+ ],
+ "summary": "<strong>bill</strong>은 중세 라틴어 <strong>billa</strong>(← bulla, 봉인된 문서)에서 와서 <strong>'청구서, 지폐, 법안'</strong>처럼 '적어 놓은 공식 문서'를 뜻하게 되었어요.",
+ "historyTitle": "둥근 봉인에서 시작된 종이 한 장",
+ "historyBody": "라틴어 bulla는 원래 '물방울, 둥근 혹'이었는데, 문서에 찍는 둥근 봉인(도장)을 가리키게 되었어요. 중세 라틴어에서 billa로 바뀌며 '공식 문서'가 되었고, 영어에서 청구서·지폐·법안으로 뜻이 넓어졌어요. 참고로 새의 부리를 뜻하는 bill은 고대 영어 bile에서 온 전혀 다른 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "billboard",
+   "pos": "명사",
+   "meaning": "옥외 광고판",
+   "en": "A huge billboard on the highway showed a new smartphone.",
+   "ko": "고속도로의 거대한 광고판에 새 스마트폰이 나와 있었어."
+  },
+  {
+   "word": "bulletin",
+   "pos": "명사",
+   "meaning": "게시, 공고, 짧은 뉴스",
+   "en": "Check the school bulletin board for the club schedule.",
+   "ko": "동아리 일정은 학교 게시판에서 확인해."
+  },
+  {
+   "word": "bullet",
+   "pos": "명사",
+   "meaning": "총알",
+   "en": "The bullet hit the old tree, but nobody was hurt.",
+   "ko": "총알이 오래된 나무에 맞았지만 아무도 다치지 않았어."
+  },
+  {
+   "word": "boil",
+   "pos": "동사",
+   "meaning": "끓다, 끓이다",
+   "en": "Boil the water before you add the noodles.",
+   "ko": "면을 넣기 전에 물을 끓여."
+  }
+ ],
+ "imageSense": "대표 의미: 식당에서 식사 후 받은 계산서를 들여다보는 장면",
+ "imageCaption": "식사를 마친 뒤 테이블 위에 놓인 종이 계산서를 떠올려 보세요. '돈 내라고 적어 준 공식 문서'가 바로 bill이에요.",
+ "movieLineEn": "Don't worry, the bill is on me tonight!",
+ "movieLineKo": "걱정 마, 오늘 밤 계산은 내가 할게!",
+ "storyTitle": "계산서의 반전",
+ "story": "용돈이 바닥난 민수는 식당 bill(계산서)을 보고 얼어붙었어요. 벽의 billboard(광고판)엔 '오늘 생일이면 공짜!'라는 bulletin(공고)이 붙어 있었죠. 총알 bullet(총알)처럼 달려가 신분증을 냈는데… 오늘은 동생 생일이었어요. 화가 boil(끓다)한 민수는 결국 동생에게 밥을 얻어먹었답니다."
+}

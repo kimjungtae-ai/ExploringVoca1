@@ -1,0 +1,74 @@
+{
+ "word": "especially",
+ "pos": "부사",
+ "phonetic": "[ɪˈspeʃəli]",
+ "meaning": "특히, 특별히",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "spec",
+   "meaning": "보다, 모습 (look, kind)",
+   "note": "라틴어 specere(보다)와 species(모습, 종류)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의, ~한 (형용사형)",
+   "note": "'특별한(especial)'이라는 형용사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사형)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>(e)spec</strong> (모습, 종류) + <strong>-ial</strong> (형용사) + <strong>-ly</strong> (부사) = '특정한 종류에 해당하게'에서 <strong>'특히'</strong>가 되었어요.",
+ "historyTitle": "special 앞에 붙은 e의 비밀",
+ "historyBody": "especially는 고대 프랑스어 'especial'에서 온 especial에 -ly가 붙은 말이에요. 라틴어 'specialis(특정한 종류의)'가 프랑스어로 넘어갈 때 sp- 앞에 발음을 돕는 e가 붙었어요. 그래서 special과 especial은 사실 같은 단어의 두 형태랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "special",
+   "pos": "형용사",
+   "meaning": "특별한",
+   "en": "Today is a special day for my grandmother.",
+   "ko": "오늘은 우리 할머니에게 특별한 날이에요."
+  },
+  {
+   "word": "specialize",
+   "pos": "동사",
+   "meaning": "전문으로 하다",
+   "en": "This hospital specializes in children's health.",
+   "ko": "이 병원은 어린이 건강을 전문으로 해요."
+  },
+  {
+   "word": "species",
+   "pos": "명사",
+   "meaning": "(생물의) 종",
+   "en": "Many species of birds live in this forest.",
+   "ko": "많은 종의 새들이 이 숲에 살아요."
+  },
+  {
+   "word": "specific",
+   "pos": "형용사",
+   "meaning": "구체적인, 특정한",
+   "en": "Can you give me a specific example?",
+   "ko": "구체적인 예를 하나 들어 줄 수 있니?"
+  },
+  {
+   "word": "specimen",
+   "pos": "명사",
+   "meaning": "표본, 견본",
+   "en": "The scientist collected a specimen of the rare plant.",
+   "ko": "그 과학자는 희귀 식물의 표본을 채집했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 과일 중 딸기에만 스포트라이트가 비치는 장면",
+ "imageCaption": "많은 것 중에서 하나만 '콕' 집어 강조하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I made this cake especially for you.",
+ "movieLineKo": "이 케이크는 특별히 너를 위해 만들었어.",
+ "storyTitle": "특별한 손님",
+ "story": "할머니는 especially(특히) 손자를 위해 special(특별한) 반찬을 준비하셨어요. 손자는 고기만 좋아하는 specific(특정한) 입맛을 가졌거든요. 그런데 식탁에 오른 건 희귀한 species(종)의 버섯 요리! 알고 보니 할머니는 버섯 specialize(전문으로 하다)하는 요리사셨답니다."
+}

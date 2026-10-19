@@ -1,0 +1,60 @@
+{
+ "word": "double-decker",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˌdʌblˈdekər]",
+ "meaning": "2층 버스, 2층으로 된 것 / 2층의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "double",
+   "meaning": "두 배의, 두 겹의 (double)",
+   "note": "라틴어 duplus(두 겹)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "deck",
+   "meaning": "갑판, 층 (deck)",
+   "note": "중세 네덜란드어 dec(덮개, 지붕)에서 온 말로, 배의 갑판을 뜻해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~한 것 (thing)",
+   "note": "'~을 가진 것'이라는 명사를 만드는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>double</strong> (두 겹) + <strong>deck</strong> (층, 갑판) + <strong>-er</strong> (것) = '층이 두 개인 것'이라는 뜻에서 <strong>'2층 버스'</strong>가 되었어요.",
+ "historyTitle": "배에서 런던 버스로",
+ "historyBody": "deck은 중세 네덜란드어 dec(덮개)에서 와서 배의 '갑판'을 뜻하게 되었어요. 18세기에는 갑판이 두 층인 군함을 double-decker라고 불렀답니다. 나중에는 2층 전차와 버스, 2단 샌드위치까지 이렇게 부르게 되었고, 빨간 2층 버스는 런던의 상징이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "double",
+   "pos": "형용사",
+   "meaning": "두 배의, 이중의",
+   "en": "We booked a double room for two nights.",
+   "ko": "우리는 이틀 밤 동안 2인실을 예약했어요."
+  },
+  {
+   "word": "deck",
+   "pos": "명사",
+   "meaning": "갑판, (건물의) 층",
+   "en": "We watched the sunset from the deck of the ship.",
+   "ko": "우리는 배 갑판에서 노을을 봤어요."
+  },
+  {
+   "word": "double-check",
+   "pos": "동사",
+   "meaning": "재확인하다",
+   "en": "Always double-check your answers before you submit.",
+   "ko": "제출하기 전에 항상 답을 다시 확인하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 런던 거리를 달리는 빨간 2층 버스",
+ "imageCaption": "2층 맨 앞자리에 앉아 도시를 내려다보는 장면을 떠올려 보세요.",
+ "movieLineEn": "Quick, jump on the double-decker before it leaves!",
+ "movieLineKo": "빨리, 떠나기 전에 저 2층 버스에 올라타!",
+ "storyTitle": "2층 버스의 명당자리",
+ "story": "런던 여행 첫날, 하은이는 double-decker(2층 버스)의 2층 맨 앞 deck(층)에 앉았어요. 경치가 두 배로 좋아 double(두 배의) 행복이었죠. 정류장을 double-check(재확인하다)하려고 지도를 보다가 깨달았어요. 버스가 반대 방향으로 달리고 있다는 걸요! 덕분에 런던을 두 바퀴나 구경했답니다."
+}

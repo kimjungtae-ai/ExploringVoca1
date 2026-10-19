@@ -1,0 +1,81 @@
+{
+ "word": "ingredient",
+ "pos": "명사",
+ "phonetic": "[ɪnˈɡriːdiənt]",
+ "meaning": "재료, 성분, 구성 요소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안으로 들어간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gred",
+   "meaning": "걷다, 걸음 (step, walk)",
+   "note": "라틴어 gradi(걷다)가 모양이 바뀐 거예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 것",
+   "note": "명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>gred</strong> (걸어가다) + <strong>-ent</strong> (~것) = '요리 안으로 걸어 들어가는 것'이라는 뜻에서 <strong>'재료, 성분'</strong>이 되었습니다.",
+ "historyTitle": "약 처방전에서 시작된 말",
+ "historyBody": "라틴어 'ingredi'는 '안으로 들어가다'라는 뜻이었어요. 15세기에는 주로 약을 만들 때 안에 들어가는 성분을 가리켰고, 나중에 요리 재료나 성공의 요소까지 뜻하게 되었죠. grade(단계), progress(진보)도 '걸음' 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "grade",
+   "pos": "명사",
+   "meaning": "학년, 등급, 성적 (한 걸음)",
+   "en": "She got a good grade on the test.",
+   "ko": "그녀는 시험에서 좋은 성적을 받았어요."
+  },
+  {
+   "word": "gradual",
+   "pos": "형용사",
+   "meaning": "점진적인 (한 걸음씩)",
+   "en": "There was a gradual change in the weather.",
+   "ko": "날씨가 점차 변했어요."
+  },
+  {
+   "word": "progress",
+   "pos": "명사 / 동사",
+   "meaning": "진보, 진행 / 나아가다",
+   "en": "You've made great progress in English.",
+   "ko": "너는 영어에서 큰 발전을 이뤘어."
+  },
+  {
+   "word": "aggressive",
+   "pos": "형용사",
+   "meaning": "공격적인 (~에게 다가가는)",
+   "en": "That dog can be aggressive to strangers.",
+   "ko": "그 개는 낯선 사람에게 공격적일 수 있어요."
+  },
+  {
+   "word": "graduate",
+   "pos": "동사 / 명사",
+   "meaning": "졸업하다 / 졸업생",
+   "en": "My brother will graduate next year.",
+   "ko": "우리 형은 내년에 졸업해요."
+  },
+  {
+   "word": "degree",
+   "pos": "명사",
+   "meaning": "정도, 학위, (온도) 도",
+   "en": "It's 30 degrees outside today.",
+   "ko": "오늘 바깥 기온은 30도예요."
+  }
+ ],
+ "imageSense": "대표 의미: 냄비 속으로 당근, 감자, 양파가 줄지어 들어가는 장면",
+ "imageCaption": "재료들이 한 걸음씩 냄비 안으로 걸어 들어가는 모습을 떠올려 보세요. 그게 ingredient예요.",
+ "movieLineEn": "The secret ingredient is love. And a little butter.",
+ "movieLineKo": "비밀 재료는 사랑이야. 그리고 버터 조금.",
+ "storyTitle": "비밀 재료의 진실",
+ "story": "요리 대회에서 셰프는 단계별로 gradual(점진적인) 맛을 내는 비밀 ingredient(재료)가 있다고 했어요. 심사위원은 최고 grade(등급)를 줬죠. 요리 실력에 큰 progress(발전)가 있다며 칭찬받은 그는 소감을 말했어요. '비밀 재료는… 편의점 라면 스프입니다.'"
+}

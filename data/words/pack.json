@@ -1,0 +1,62 @@
+{
+ "word": "pack",
+ "pos": "동사 / 명사",
+ "phonetic": "[pæk]",
+ "meaning": "(짐을) 싸다, 채워 넣다 / 꾸러미, 묶음, 무리",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pack (← pak)",
+   "meaning": "꾸러미 (bundle)",
+   "note": "중세 네덜란드어나 저지 독일어 pak에서 왔고, 더 이상 쪼개기 어려운 짧은 말이에요."
+  }
+ ],
+ "summary": "<strong>pack</strong>은 쪼갤 수 없는 하나의 말로, '꾸러미'라는 뜻에서 <strong>'짐을 싸다, 묶음, 무리'</strong>가 되었어요.",
+ "historyTitle": "양모 상인들이 들여온 꾸러미",
+ "historyBody": "pack은 13세기 무렵 중세 네덜란드어나 저지 독일어 pak(꾸러미)에서 영어로 들어왔는데, 그보다 더 오래된 기원은 확실하지 않아요. 플랑드르(지금의 벨기에 일대) 양모 무역을 통해 들어온 것으로 보여요. '짐 꾸러미'에서 '함께 다니는 무리(a pack of wolves)'라는 뜻으로도 넓어졌어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "package",
+   "pos": "명사",
+   "meaning": "소포, 포장물, 일괄",
+   "en": "A package arrived for you this morning.",
+   "ko": "오늘 아침에 너한테 소포가 왔어."
+  },
+  {
+   "word": "packet",
+   "pos": "명사",
+   "meaning": "(작은) 봉지, 갑",
+   "en": "He opened a packet of seeds and planted them.",
+   "ko": "그는 씨앗 한 봉지를 뜯어서 심었어요."
+  },
+  {
+   "word": "unpack",
+   "pos": "동사",
+   "meaning": "(짐을) 풀다",
+   "en": "I was too tired to unpack after the trip.",
+   "ko": "여행 후에 너무 피곤해서 짐을 풀 수가 없었어요."
+  },
+  {
+   "word": "backpack",
+   "pos": "명사",
+   "meaning": "배낭",
+   "en": "She carries a heavy backpack to school every day.",
+   "ko": "그녀는 매일 무거운 배낭을 메고 학교에 가요."
+  },
+  {
+   "word": "packaging",
+   "pos": "명사",
+   "meaning": "포장, 포장재",
+   "en": "Eco-friendly packaging helps reduce waste.",
+   "ko": "친환경 포장은 쓰레기를 줄이는 데 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행 가방에 옷을 꾹꾹 눌러 담는 장면",
+ "imageCaption": "여행 전날 밤, 가방 위에 올라앉아 지퍼를 닫으려 애쓰는 모습을 떠올려 보세요. 그게 pack이에요.",
+ "movieLineEn": "Pack your things. We leave at dawn.",
+ "movieLineKo": "짐 싸. 우리는 새벽에 떠난다.",
+ "storyTitle": "짐 싸기의 달인",
+ "story": "캠핑 전날, 동생이 backpack(배낭)에 짐을 pack(싸다)했어요. 과자 packet(봉지)과 장난감 package(꾸러미)까지 꽉꽉 채웠죠. 다음 날 캠핑장에서 unpack(풀다)해 보니 텐트가 없었어요. 대신 아빠 가방에서 텐트 세 개가 나왔답니다."
+}

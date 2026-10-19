@@ -1,0 +1,75 @@
+{
+ "word": "politics",
+ "pos": "명사",
+ "phonetic": "[ˈpɑːlətɪks]",
+ "meaning": "정치, 정치학, 정치적 견해",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "polit",
+   "meaning": "시민, 도시 (citizen, city)",
+   "note": "그리스어 polites(시민), polis(도시)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ics",
+   "meaning": "~학, ~에 관한 일",
+   "note": "physics, economics처럼 학문이나 활동을 나타내요."
+  }
+ ],
+ "summary": "<strong>polit</strong> (도시, 시민) + <strong>-ics</strong> (~학) = 도시 국가의 일을 다루는 것, 곧 <strong>'정치'</strong>예요.",
+ "historyTitle": "아리스토텔레스의 『정치학』",
+ "historyBody": "politics는 그리스어 ta politika(도시 국가에 관한 일)에서 왔어요. 아리스토텔레스의 책 『Politika(정치학)』가 유명하죠. 영어에서는 1520년대부터 '나라를 다스리는 기술과 학문'이라는 뜻으로 쓰였어요. 아테네 시민들이 광장에 모여 polis의 일을 함께 결정하던 전통이 이 단어에 담겨 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "police",
+   "pos": "명사",
+   "meaning": "경찰",
+   "en": "The police found the missing boy in the park.",
+   "ko": "경찰은 실종된 소년을 공원에서 찾았어요."
+  },
+  {
+   "word": "political",
+   "pos": "형용사",
+   "meaning": "정치의, 정치적인",
+   "en": "The country faced a serious political problem.",
+   "ko": "그 나라는 심각한 정치 문제에 부딪혔어요."
+  },
+  {
+   "word": "politician",
+   "pos": "명사",
+   "meaning": "정치인",
+   "en": "The politician promised to build a new library.",
+   "ko": "그 정치인은 새 도서관을 짓겠다고 약속했어요."
+  },
+  {
+   "word": "metropolis",
+   "pos": "명사",
+   "meaning": "대도시",
+   "en": "Seoul is a busy metropolis with millions of people.",
+   "ko": "서울은 수백만 명이 사는 분주한 대도시예요."
+  },
+  {
+   "word": "cosmopolitan",
+   "pos": "형용사",
+   "meaning": "세계적인, 국제적인",
+   "en": "London is a cosmopolitan city full of different cultures.",
+   "ko": "런던은 다양한 문화가 가득한 국제적인 도시예요."
+  },
+  {
+   "word": "policy",
+   "pos": "명사",
+   "meaning": "정책",
+   "en": "The new policy helps families with young children.",
+   "ko": "새 정책은 어린 자녀가 있는 가정을 도와줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 국회에서 의원들이 토론하는 모습",
+ "imageCaption": "의원들이 마이크 앞에서 열띠게 토론하는 국회 장면을 떠올려 보세요.",
+ "movieLineEn": "I don't care about politics. I care about pizza.",
+ "movieLineKo": "난 정치엔 관심 없어. 피자에 관심 있지.",
+ "storyTitle": "반장 선거의 정치",
+ "story": "반장 선거에 나선 준호는 politics(정치)를 배우겠다며 유명한 politician(정치인)의 연설을 따라 했어요. political(정치적인) 공약은 '숙제 없는 금요일'. 친구들은 열광했지만 담임 선생님의 policy(정책)는 단호했죠. 결국 준호는 당선! 첫 번째 일은 금요일 숙제 걷기였대요."
+}

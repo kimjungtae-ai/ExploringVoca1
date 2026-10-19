@@ -1,0 +1,68 @@
+{
+ "word": "fulfill",
+ "pos": "동사",
+ "phonetic": "[fʊlˈfɪl]",
+ "meaning": "(약속·의무를) 이행하다, (꿈을) 실현하다, (조건을) 충족시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "full",
+   "meaning": "가득한 (full)",
+   "note": "고대 영어 full에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fill",
+   "meaning": "채우다 (fill)",
+   "note": "고대 영어 fyllan에서 왔어요. full의 동사형이에요."
+  }
+ ],
+ "summary": "<strong>full</strong> (가득한) + <strong>fill</strong> (채우다) = '가득 채우다'라는 뜻에서 <strong>'이행하다, 실현하다'</strong>가 되었습니다.",
+ "historyTitle": "'가득'을 두 번 강조한 단어",
+ "historyBody": "fulfill은 고대 영어 fullfyllan에서 왔고, full(가득한)과 fill(채우다)을 합친 말이에요. '가득'을 두 번이나 넣어 '완전히 채우다'라는 뜻을 강조했죠. 꿈이나 약속을 빈틈없이 다 채운다는 느낌으로 기억하면 돼요. 영국에서는 fulfil로 쓴답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fulfillment",
+   "pos": "명사",
+   "meaning": "이행, 실현, 성취감",
+   "en": "Helping others gives me a sense of fulfillment.",
+   "ko": "다른 사람을 돕는 것은 나에게 성취감을 줘요."
+  },
+  {
+   "word": "full",
+   "pos": "형용사",
+   "meaning": "가득한",
+   "en": "Her room is full of books and plants.",
+   "ko": "그녀의 방은 책과 식물로 가득해요."
+  },
+  {
+   "word": "fill",
+   "pos": "동사",
+   "meaning": "채우다",
+   "en": "Fill in the blanks with the correct words.",
+   "ko": "알맞은 단어로 빈칸을 채우세요."
+  },
+  {
+   "word": "fully",
+   "pos": "부사",
+   "meaning": "완전히, 충분히",
+   "en": "The hotel was fully booked for the holiday.",
+   "ko": "그 호텔은 연휴 동안 예약이 꽉 찼어요."
+  },
+  {
+   "word": "refill",
+   "pos": "동사",
+   "meaning": "다시 채우다",
+   "en": "The waiter refilled our glasses with water.",
+   "ko": "웨이터가 우리 잔에 물을 다시 채워 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꿈을 이루고 무대 위에서 트로피를 드는 장면",
+ "imageCaption": "오랜 노력 끝에 꿈을 이루고 무대에서 트로피를 번쩍 드는 모습을 떠올리면 fulfill이 생각나요.",
+ "movieLineEn": "I made a promise, and I will fulfill it.",
+ "movieLineKo": "난 약속을 했고, 그걸 지킬 거야.",
+ "storyTitle": "할아버지의 약속",
+ "story": "할아버지는 손자와의 약속을 fulfill(이행하다)하려고 놀이공원에 갔어요. 손자의 소원 목록은 full(가득한)했죠. 할아버지는 하나하나 fully(완전히) 들어주며 fulfillment(성취감)를 느꼈어요. 그런데 마지막 롤러코스터에서 할아버지만 신나서 다섯 번 refill(다시 타다)했대요. 손자는 벤치에서 잠들었고요!"
+}

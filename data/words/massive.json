@@ -1,0 +1,54 @@
+{
+ "word": "massive",
+ "pos": "형용사",
+ "phonetic": "[ˈmæsɪv]",
+ "meaning": "거대한, 엄청난, 대규모의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mass",
+   "meaning": "덩어리 (lump)",
+   "note": "라틴어 massa(반죽 덩어리)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "active, creative처럼 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>mass</strong> (덩어리) + <strong>-ive</strong> (~한 성질의) = '큰 덩어리 같은'이라는 뜻에서 <strong>'거대한, 엄청난'</strong>이 되었습니다.",
+ "historyTitle": "빵 반죽에서 온 '거대함'",
+ "historyBody": "mass는 라틴어 massa(반죽, 덩어리)에서 왔고, 이는 그리스어 maza(보리 반죽 빵)와 관련 있어요. 반죽처럼 뭉쳐진 큰 덩어리라는 뜻에서 '대량, 대중'이라는 의미가 생겼죠. 여기에 -ive가 붙어 '덩어리가 큰, 거대한'이라는 massive가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mass",
+   "pos": "명사/형용사",
+   "meaning": "덩어리, 대량 / 대중의",
+   "en": "A mass of people gathered in the square.",
+   "ko": "많은 사람들이 광장에 모였어요."
+  },
+  {
+   "word": "massively",
+   "pos": "부사",
+   "meaning": "엄청나게, 대규모로",
+   "en": "The game became massively popular overnight.",
+   "ko": "그 게임은 하룻밤 사이에 엄청난 인기를 끌었어요."
+  },
+  {
+   "word": "amass",
+   "pos": "동사",
+   "meaning": "모으다, 축적하다",
+   "en": "He amassed a large collection of comic books.",
+   "ko": "그는 만화책을 엄청나게 모았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 배 옆을 지나가는 거대한 고래",
+ "imageCaption": "커다란 반죽 덩어리가 산처럼 쌓인 모습을 떠올려 보세요. 그렇게 크고 묵직한 것이 massive예요.",
+ "movieLineEn": "That's a massive ship. How does it even float?",
+ "movieLineKo": "저거 엄청 거대한 배다. 대체 어떻게 뜨는 거야?",
+ "storyTitle": "거대한 케이크 소동",
+ "story": "제빵사 삼촌은 생일 파티를 위해 massive(거대한) 케이크를 만들었어요. 반죽 mass(덩어리)만 50킬로그램이었죠. 소문이 massively(엄청나게) 퍼져 손님이 몰려왔어요. 삼촌은 칭찬을 amass(모으다)했지만, 문제가 생겼어요. 케이크가 너무 커서 문밖으로 나가지 않았던 거예요!"
+}

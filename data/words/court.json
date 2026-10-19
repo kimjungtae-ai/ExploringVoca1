@@ -1,0 +1,55 @@
+{
+ "word": "court",
+ "pos": "명사 / 동사",
+ "phonetic": "[kɔːrt]",
+ "meaning": "법정, 법원, (테니스 등의) 코트, 궁정, 안뜰 / 구애하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cohors (라틴어)",
+   "meaning": "울타리 친 마당 (enclosed yard)",
+   "note": "라틴어 cohortem이 고대 프랑스어 cort를 거쳐 court가 되었어요."
+  }
+ ],
+ "summary": "라틴어 <strong>cohors</strong> (울타리 친 마당)에서 '왕궁 안뜰', '왕이 재판하던 곳'을 거쳐 <strong>'법정, 궁정, 경기장'</strong>이 되었어요.",
+ "historyTitle": "울타리 친 마당에서 법정까지",
+ "historyBody": "court는 라틴어 cohors(울타리 친 마당, 무리)에서 고대 프랑스어 cort를 거쳐 영어에 들어왔어요. 왕이 사는 궁정의 '안뜰'에서 왕이 재판을 하곤 했기 때문에 '법정'이라는 뜻이 생겼어요. 테니스 코트도 '울타리 안의 마당'이라는 뜻에서 나온 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "courtesy",
+   "pos": "명사",
+   "meaning": "예의, 공손함",
+   "en": "He showed great courtesy to the visitors.",
+   "ko": "그는 방문객들에게 깍듯이 예의를 갖췄어요."
+  },
+  {
+   "word": "courteous",
+   "pos": "형용사",
+   "meaning": "예의 바른, 정중한",
+   "en": "The hotel staff were courteous and helpful.",
+   "ko": "호텔 직원들은 정중하고 친절했어요."
+  },
+  {
+   "word": "courtyard",
+   "pos": "명사",
+   "meaning": "안뜰, 마당",
+   "en": "Children were playing in the courtyard.",
+   "ko": "아이들이 안뜰에서 놀고 있었어요."
+  },
+  {
+   "word": "courtroom",
+   "pos": "명사",
+   "meaning": "법정",
+   "en": "The courtroom was silent when the judge spoke.",
+   "ko": "판사가 말하자 법정은 조용해졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 판사가 망치를 두드리는 법정 장면",
+ "imageCaption": "'탕탕탕!' 소리와 함께 판결을 내리는 판사를 떠올려 보세요. 공정하게 판단하는 장소가 court예요.",
+ "movieLineEn": "I'll see you in court!",
+ "movieLineKo": "법정에서 보자고!",
+ "storyTitle": "궁정 고양이의 재판",
+ "story": "옛날 궁정 court(궁정)에 사는 고양이가 생선을 훔쳐 courtroom(법정)에 섰어요. 고양이는 아주 courteous(예의 바른) 태도로 인사했죠. 그 courtesy(예의)에 감동한 왕은 벌 대신 courtyard(안뜰) 청소를 시켰어요. 그런데 청소하다 보니 생선 뼈가 산더미처럼 나왔대요!"
+}

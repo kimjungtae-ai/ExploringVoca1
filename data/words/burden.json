@@ -1,0 +1,68 @@
+{
+ "word": "burden",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈbɜːrdn]",
+ "meaning": "짐, 부담 / 부담을 지우다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bur (← beran)",
+   "meaning": "나르다, 지다 (bear, carry)",
+   "note": "고대 영어 beran(지다, 나르다)에서 왔어요. bear(견디다)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-den (← -þen)",
+   "meaning": "~하는 것 (명사형)",
+   "note": "고대 영어에서 동사를 명사로 만들던 꼬리예요."
+  }
+ ],
+ "summary": "<strong>bur</strong> (지다, 나르다) + <strong>-den</strong> (~하는 것) = '등에 지고 나르는 것', 즉 <strong>'짐, 부담'</strong>이에요.",
+ "historyTitle": "등에 지는 것에서 마음의 짐으로",
+ "historyBody": "burden은 고대 영어 byrþen(짐)에서 왔고, beran(지다, 나르다)에서 만들어진 말이에요. 원래는 등에 지는 실제 짐이었지만, 점차 걱정이나 책임 같은 '마음의 짐'도 뜻하게 되었어요. 같은 뿌리에서 bear(견디다, 낳다)와 birth(탄생)가 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bear",
+   "pos": "동사",
+   "meaning": "견디다, 참다, (아이를) 낳다",
+   "en": "I can't bear this hot weather anymore.",
+   "ko": "이 더운 날씨를 더는 못 참겠어."
+  },
+  {
+   "word": "burdensome",
+   "pos": "형용사",
+   "meaning": "부담스러운, 힘든",
+   "en": "The heavy homework felt burdensome during exam week.",
+   "ko": "시험 주간에 많은 숙제가 부담스러웠어."
+  },
+  {
+   "word": "unburden",
+   "pos": "동사",
+   "meaning": "(짐·걱정을) 덜다, 털어놓다",
+   "en": "She unburdened herself by talking to her best friend.",
+   "ko": "그녀는 가장 친한 친구와 이야기하며 마음의 짐을 덜었어."
+  },
+  {
+   "word": "birth",
+   "pos": "명사",
+   "meaning": "탄생, 출생",
+   "en": "The birth of her baby brother made her very happy.",
+   "ko": "남동생이 태어나서 그녀는 아주 행복했어."
+  },
+  {
+   "word": "bearer",
+   "pos": "명사",
+   "meaning": "운반인, 전달자",
+   "en": "I'm sorry to be the bearer of bad news.",
+   "ko": "나쁜 소식을 전하게 되어 미안해."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 짐 보따리를 등에 지고 언덕을 오르는 사람",
+ "imageCaption": "무거운 배낭을 메고 땀을 뻘뻘 흘리며 언덕을 오르는 모습을 떠올려 보세요. 마음의 짐도 이렇게 무거워요.",
+ "movieLineEn": "You don't have to carry this burden alone.",
+ "movieLineKo": "이 짐을 너 혼자 짊어질 필요는 없어.",
+ "storyTitle": "무거운 가방의 진실",
+ "story": "수험생 하린이는 매일 burden(짐) 같은 가방을 메고 다녔어요. 너무 burdensome(부담스러운)해서 더는 bear(견디다)할 수 없었죠. 친구에게 마음을 unburden(털어놓다)하며 가방을 열어 보니… 3년 동안 안 꺼낸 교과서와 간식 봉지가 가득! 가방을 정리하자 몸도 마음도 가벼워졌답니다."
+}

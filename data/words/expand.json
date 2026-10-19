@@ -1,0 +1,54 @@
+{
+ "word": "expand",
+ "pos": "동사",
+ "phonetic": "[ɪkˈspænd]",
+ "meaning": "확장하다, 넓히다, 팽창하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "안에서 바깥쪽으로 퍼져 나가는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pand",
+   "meaning": "펼치다 (spread)",
+   "note": "라틴어 pandere(펼치다, 펴다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>pand</strong> (펼치다) = '밖으로 쫙 펼치다'에서 <strong>'확장하다, 팽창하다'</strong>가 되었어요.",
+ "historyTitle": "날개를 쫙 펼치듯",
+ "historyBody": "expand는 15세기 라틴어 'expandere(펼쳐 내다, 펴다)'에서 왔어요. pandere는 원래 천이나 날개 등을 '쫙 펼치다'라는 뜻이었어요. 그래서 크기, 범위, 사업 등이 바깥으로 넓어지는 모든 상황에 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expansion",
+   "pos": "명사",
+   "meaning": "확장, 팽창",
+   "en": "The city plans an expansion of the subway system.",
+   "ko": "그 도시는 지하철망 확장을 계획하고 있어요."
+  },
+  {
+   "word": "expansive",
+   "pos": "형용사",
+   "meaning": "광대한, 포괄적인",
+   "en": "We enjoyed the expansive view of the ocean.",
+   "ko": "우리는 탁 트인 바다 경치를 즐겼어요."
+  },
+  {
+   "word": "expanse",
+   "pos": "명사",
+   "meaning": "넓게 트인 공간",
+   "en": "A vast expanse of desert lay before them.",
+   "ko": "그들 앞에 광활한 사막이 펼쳐져 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 풍선에 바람을 넣자 점점 커지는 장면",
+ "imageCaption": "작던 풍선이 바깥쪽으로 쭉쭉 부풀어 오르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Our little kingdom will expand beyond these mountains.",
+ "movieLineKo": "우리의 작은 왕국은 이 산들 너머로 확장될 거야.",
+ "storyTitle": "끝없이 커지는 빵",
+ "story": "제빵사는 빵 반죽이 expand(팽창하다)하도록 효모를 넣었어요. 그런데 양을 잘못 넣어 expansion(팽창)이 멈추지 않았죠! 반죽은 부엌을 넘어 마당의 넓은 expanse(넓게 트인 공간)까지 퍼졌어요. 그 expansive(광대한) 빵 덕분에 마을 사람들은 일주일 내내 공짜로 빵을 먹었대요."
+}

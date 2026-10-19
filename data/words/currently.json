@@ -1,0 +1,82 @@
+{
+ "word": "currently",
+ "pos": "부사",
+ "phonetic": "[ˈkɜːrəntli]",
+ "meaning": "현재, 지금, 요즘",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "current",
+   "meaning": "현재의 (curr 달리다 + -ent)",
+   "note": "지금 흐르고 있다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "부사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>current</strong> (현재의) + <strong>-ly</strong> (~하게) = '지금 흐르고 있는 시점에'에서 <strong>'현재, 지금'</strong>이 되었어요.",
+ "historyTitle": "라틴어 currere, '달리다'",
+ "historyBody": "current는 라틴어 currere(달리다)의 현재분사 currens에서 고대 프랑스어 corant(달리는, 흐르는)를 거쳐 왔어요. 물이나 전기가 '달려 흐르는 것'이 해류·전류가 되었고, 지금 흘러가고 있는 시간이라는 뜻에서 '현재의'가 되었어요. 같은 어근이 currency(통화), occur, course에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "current",
+   "pos": "형용사/명사",
+   "meaning": "현재의 / 흐름, 해류",
+   "en": "The current situation is getting better.",
+   "ko": "현재 상황은 나아지고 있어요."
+  },
+  {
+   "word": "currency",
+   "pos": "명사",
+   "meaning": "통화, 화폐",
+   "en": "The euro is the currency of many European countries.",
+   "ko": "유로는 많은 유럽 국가의 통화예요."
+  },
+  {
+   "word": "occur",
+   "pos": "동사",
+   "meaning": "일어나다, 발생하다",
+   "en": "The accident occurred late at night.",
+   "ko": "그 사고는 밤늦게 일어났어요."
+  },
+  {
+   "word": "recur",
+   "pos": "동사",
+   "meaning": "되풀이되다, 재발하다",
+   "en": "If the problem recurs, call me again.",
+   "ko": "문제가 다시 생기면 또 전화 주세요."
+  },
+  {
+   "word": "course",
+   "pos": "명사",
+   "meaning": "과정, 강좌, 진로",
+   "en": "I'm taking an online cooking course.",
+   "ko": "나는 온라인 요리 강좌를 듣고 있어요."
+  },
+  {
+   "word": "curriculum",
+   "pos": "명사",
+   "meaning": "교육 과정",
+   "en": "The school added coding to its curriculum.",
+   "ko": "그 학교는 교육 과정에 코딩을 추가했어요."
+  },
+  {
+   "word": "excursion",
+   "pos": "명사",
+   "meaning": "소풍, 짧은 여행",
+   "en": "Our class went on an excursion to the museum.",
+   "ko": "우리 반은 박물관으로 견학을 갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: '현재 위치' 표시가 깜빡이는 지도 앱",
+ "imageCaption": "지도 앱에서 파란 점이 '지금 여기'를 깜빡이며 보여 주는 장면을 떠올려 보세요. 바로 지금이 currently예요.",
+ "movieLineEn": "I'm currently busy saving the world. Call me later.",
+ "movieLineKo": "지금 세상 구하느라 바빠. 나중에 전화해.",
+ "storyTitle": "현재 상태: 바쁨",
+ "story": "내 메신저 상태는 currently(현재) '공부 중'이에요. 수능 curriculum(교육 과정)을 다 끝내겠다는 결심이 occur(일어나다)했거든요. 영어 course(강좌)도 신청했죠. 그런데 엄마가 방에 들어오셨을 때, 나는 current(현재의) 인기 웹툰을 보고 있었대요. 상태 메시지는 거짓말이었어요!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "fishbowl",
+ "pos": "명사",
+ "phonetic": "[ˈfɪʃboʊl]",
+ "meaning": "어항, (남들이 다 지켜보는) 공개된 곳",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fish",
+   "meaning": "물고기 (fish)",
+   "note": "고대 영어 fisc에서 온 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bowl",
+   "meaning": "둥근 그릇 (bowl)",
+   "note": "고대 영어 bolla(둥근 그릇)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>fish</strong> (물고기) + <strong>bowl</strong> (둥근 그릇) = '물고기를 넣는 둥근 그릇'이라는 뜻에서 <strong>'어항'</strong>이 되었습니다.",
+ "historyTitle": "모두가 들여다보는 유리 그릇",
+ "historyBody": "fish와 bowl은 둘 다 고대 영어에서 온 토박이 단어예요. 둥근 유리 어항은 사방에서 다 들여다보이기 때문에, 'live in a fishbowl'은 '사생활 없이 남들의 시선을 받으며 살다'라는 비유로도 쓰여요. 유명인의 삶을 묘사할 때 자주 나오는 표현이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "goldfish",
+   "pos": "명사",
+   "meaning": "금붕어",
+   "en": "My goldfish swims in circles all day.",
+   "ko": "내 금붕어는 하루 종일 빙빙 돌며 헤엄쳐요."
+  },
+  {
+   "word": "fisherman",
+   "pos": "명사",
+   "meaning": "어부",
+   "en": "The fisherman returned with a boat full of fish.",
+   "ko": "어부는 물고기를 가득 실은 배를 타고 돌아왔어요."
+  },
+  {
+   "word": "shellfish",
+   "pos": "명사",
+   "meaning": "조개류, 갑각류",
+   "en": "Some people are allergic to shellfish.",
+   "ko": "어떤 사람들은 조개류에 알레르기가 있어요."
+  },
+  {
+   "word": "fishing",
+   "pos": "명사",
+   "meaning": "낚시",
+   "en": "My dad and I go fishing every summer.",
+   "ko": "아빠와 나는 매년 여름 낚시를 가요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위 동그란 유리 어항 속 금붕어",
+ "imageCaption": "동그란 유리 어항 속에서 금붕어가 바깥을 빤히 쳐다보는 장면을 떠올려 보세요.",
+ "movieLineEn": "Living with a famous mom is like living in a fishbowl.",
+ "movieLineKo": "유명한 엄마와 사는 건 어항 속에서 사는 것 같아.",
+ "storyTitle": "금붕어의 관찰 일기",
+ "story": "fishbowl(어항) 속 goldfish(금붕어)는 매일 사람들을 관찰했어요. 아빠는 fishing(낚시) 영상을 보고, 동생은 shellfish(조개류) 요리를 먹었죠. 금붕어는 생각했어요. '저 사람들, 하루 종일 네모난 어항(집) 안에 갇혀 사네. 불쌍해라.' 그날 밤 금붕어 일기 제목은 '인간 관찰 report(보고서)'였대요."
+}

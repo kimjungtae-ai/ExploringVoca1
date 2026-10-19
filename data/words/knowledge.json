@@ -1,0 +1,68 @@
+{
+ "word": "knowledge",
+ "pos": "명사",
+ "phonetic": "[ˈnɑːlɪdʒ]",
+ "meaning": "지식, 알고 있음, 인식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "know",
+   "meaning": "알다 (know)",
+   "note": "고대 영어 cnawan(알다, 알아보다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ledge",
+   "meaning": "~하는 상태나 행위 (state, action)",
+   "note": "중세 영어 -leche에서 온 꼬리인데, 정확한 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>know</strong> (알다) + <strong>-ledge</strong> (상태) = '알고 있는 상태'라서 <strong>'지식'</strong>이에요.",
+ "historyTitle": "정체가 아리송한 꼬리 -ledge",
+ "historyBody": "knowledge는 중세 영어 knouleche에서 왔고, know는 고대 영어 cnawan('알다')에서 왔어요. 뒤의 -ledge는 고대 영어 lac('행위, 놀이')과 관련 있다는 설이 있지만 사전들도 확실하다고 하진 않아요. 그러니 know + -ledge는 기억을 돕는 정도로 알아 두면 좋아요. 참고로 know의 k는 옛날엔 발음했답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "know",
+   "pos": "동사",
+   "meaning": "알다",
+   "en": "Do you know the way to the station?",
+   "ko": "역으로 가는 길을 아세요?"
+  },
+  {
+   "word": "acknowledge",
+   "pos": "동사",
+   "meaning": "인정하다, 감사를 표하다",
+   "en": "He finally acknowledged his mistake.",
+   "ko": "그는 마침내 자신의 실수를 인정했어요."
+  },
+  {
+   "word": "knowledgeable",
+   "pos": "형용사",
+   "meaning": "박식한, 잘 아는",
+   "en": "Our guide was very knowledgeable about local history.",
+   "ko": "우리 가이드는 지역 역사에 대해 아주 잘 알았어요."
+  },
+  {
+   "word": "unknown",
+   "pos": "형용사",
+   "meaning": "알려지지 않은",
+   "en": "The cause of the fire is still unknown.",
+   "ko": "화재의 원인은 아직 알려지지 않았어요."
+  },
+  {
+   "word": "known",
+   "pos": "형용사",
+   "meaning": "알려진, 유명한",
+   "en": "This town is known for its delicious apples.",
+   "ko": "이 마을은 맛있는 사과로 유명해요."
+  }
+ ],
+ "imageSense": "대표 의미: 책을 쌓아 놓고 읽으며 머릿속에 지식을 차곡차곡 채우는 학생",
+ "imageCaption": "머릿속 서랍에 '아는 것'이 하나씩 정리되어 쌓여 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Knowledge is power, but only if you use it.",
+ "movieLineKo": "아는 것이 힘이야. 하지만 써먹을 때만 그렇지.",
+ "storyTitle": "척척박사 앵무새",
+ "story": "앵무새는 모든 걸 know(알다)한다고 자랑했어요. 사람들은 그 knowledge(지식)에 놀라 '정말 knowledgeable(박식한) 새야!'라고 했죠. 어느 날 unknown(알려지지 않은) 문제가 나오자 앵무새는 당황했어요. 결국 '사실 주인님 말 따라 한 거예요'라고 acknowledge(인정하다)했답니다."
+}

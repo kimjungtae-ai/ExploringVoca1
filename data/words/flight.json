@@ -1,0 +1,61 @@
+{
+ "word": "flight",
+ "pos": "명사",
+ "phonetic": "[flaɪt]",
+ "meaning": "비행, 항공편, 계단 한 층, 도주",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fly",
+   "meaning": "날다 (fly)",
+   "note": "고대 영어 fleogan(날다)과 같은 게르만어 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-t",
+   "meaning": "~하는 것 (명사)",
+   "note": "옛 게르만어 명사 꼬리로, 동사를 명사로 바꿨어요."
+  }
+ ],
+ "summary": "<strong>fly</strong> (날다) + <strong>-t</strong> (명사 꼬리) = '나는 것'이라는 뜻에서 <strong>'비행, 항공편'</strong>이 되었습니다.",
+ "historyTitle": "새의 날갯짓에서 비행기 표까지",
+ "historyBody": "flight는 고대 영어 flyht(날기, 비행)에서 왔고, fly(날다)와 같은 뿌리예요. 원래는 새나 화살이 나는 것을 뜻했고, 20세기에 비행기가 생기면서 '항공편'이라는 뜻이 더해졌어요. '도주'를 뜻하는 flight는 flee(달아나다)와 관련된 다른 단어가 모양이 합쳐진 거랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fly",
+   "pos": "동사",
+   "meaning": "날다, 비행기로 가다",
+   "en": "We will fly to Jeju Island next week.",
+   "ko": "우리는 다음 주에 비행기로 제주도에 갈 거예요."
+  },
+  {
+   "word": "flyer",
+   "pos": "명사",
+   "meaning": "전단지, 비행사",
+   "en": "She handed out flyers for the charity concert.",
+   "ko": "그녀는 자선 콘서트 전단지를 나눠 줬어요."
+  },
+  {
+   "word": "firefly",
+   "pos": "명사",
+   "meaning": "반딧불이",
+   "en": "We saw fireflies glowing near the river.",
+   "ko": "우리는 강가에서 반짝이는 반딧불이를 봤어요."
+  },
+  {
+   "word": "butterfly",
+   "pos": "명사",
+   "meaning": "나비",
+   "en": "The butterfly flew from flower to flower.",
+   "ko": "나비가 이 꽃에서 저 꽃으로 날아다녔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 활주로를 박차고 하늘로 오르는 비행기",
+ "imageCaption": "공항 창밖으로 비행기가 하늘로 솟아오르는 장면을 떠올리면 flight가 생각나요.",
+ "movieLineEn": "Our flight leaves in ten minutes. Run!",
+ "movieLineKo": "우리 비행기 10분 뒤에 떠나. 뛰어!",
+ "storyTitle": "비행기를 놓친 나비",
+ "story": "butterfly(나비)는 처음으로 비행기를 타고 fly(날다)하고 싶었어요. 공항에서 flight(항공편) 시간을 확인하고, firefly(반딧불이) 친구와 flyer(전단지)를 보며 여행 계획도 세웠죠. 그런데 탑승구에서 직원이 말했어요. \"승객님, 날개가 있으시면 그냥 날아가셔도 됩니다.\" 나비는 표값만 날렸대요!"
+}

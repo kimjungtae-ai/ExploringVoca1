@@ -1,0 +1,69 @@
+{
+ "word": "count",
+ "pos": "동사 / 명사",
+ "phonetic": "[kaʊnt]",
+ "meaning": "세다, 계산하다, 중요하다, 믿다(on) / 셈, 계산",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "computare (라틴어)",
+   "meaning": "함께 계산하다 (reckon together)",
+   "note": "com-(함께) + putare(계산하다, 생각하다)가 프랑스어 conter를 거쳐 count가 되었어요."
+  }
+ ],
+ "summary": "라틴어 <strong>computare</strong> (함께 계산하다)가 고대 프랑스어 conter로 줄어들면서 <strong>'세다, 계산하다'</strong>가 되었어요.",
+ "historyTitle": "computer와 형제인 단어",
+ "historyBody": "count는 고대 프랑스어 conter를 거쳐 라틴어 computare(계산하다)에서 왔어요. 놀랍게도 computer(컴퓨터)와 같은 뿌리예요. 한편 귀족 '백작'을 뜻하는 count는 라틴어 comes(동행자)에서 온 전혀 다른 단어라서 헷갈리지 않게 조심하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "account",
+   "pos": "명사/동사",
+   "meaning": "계좌, 설명 / 설명하다(for)",
+   "en": "I opened a bank account with my first paycheck.",
+   "ko": "나는 첫 월급으로 은행 계좌를 만들었어요."
+  },
+  {
+   "word": "discount",
+   "pos": "명사",
+   "meaning": "할인",
+   "en": "Students can get a ten percent discount.",
+   "ko": "학생은 10퍼센트 할인을 받을 수 있어요."
+  },
+  {
+   "word": "countless",
+   "pos": "형용사",
+   "meaning": "셀 수 없이 많은",
+   "en": "There are countless stars in the sky.",
+   "ko": "하늘에는 셀 수 없이 많은 별이 있어요."
+  },
+  {
+   "word": "counter",
+   "pos": "명사",
+   "meaning": "계산대, 카운터",
+   "en": "Please pay at the counter.",
+   "ko": "계산대에서 결제해 주세요."
+  },
+  {
+   "word": "compute",
+   "pos": "동사",
+   "meaning": "계산하다",
+   "en": "The program computes the results in seconds.",
+   "ko": "그 프로그램은 몇 초 만에 결과를 계산해요."
+  },
+  {
+   "word": "computer",
+   "pos": "명사",
+   "meaning": "컴퓨터",
+   "en": "I use my computer to do homework.",
+   "ko": "나는 숙제를 하려고 컴퓨터를 사용해요."
+  }
+ ],
+ "imageSense": "대표 의미: 손가락을 하나씩 접으며 숫자를 세는 아이",
+ "imageCaption": "'하나, 둘, 셋!' 하며 손가락을 접는 꼬마를 떠올려 보세요. 하나하나 세는 것이 count예요.",
+ "movieLineEn": "You can always count on me, partner.",
+ "movieLineKo": "언제든 날 믿어도 돼, 파트너.",
+ "storyTitle": "양을 세는 양",
+ "story": "잠이 안 오는 양 메에는 양을 count(세다)하기 시작했어요. countless(셀 수 없이 많은) 양이 떠올랐죠. 결국 computer(컴퓨터)로 compute(계산하다)했어요. 정확히 1,000마리! 기뻐서 친구들에게 전화했는데, 너무 신나서 한숨도 못 잤대요."
+}

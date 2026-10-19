@@ -1,0 +1,61 @@
+{
+ "word": "handle",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈhændl]",
+ "meaning": "다루다, 처리하다, 손대다 / 손잡이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hand",
+   "meaning": "손 (hand)",
+   "note": "고대 영어 hand에서 온 게르만계 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-le",
+   "meaning": "반복적인 동작",
+   "note": "손으로 자꾸 만진다는 느낌을 주는 동사 어미예요."
+  }
+ ],
+ "summary": "<strong>hand</strong> (손) + <strong>-le</strong> (반복 동작) = 손으로 자꾸 만지작거리다라는 뜻에서 <strong>'다루다, 처리하다'</strong>가 되었어요.",
+ "historyTitle": "손으로 만지던 것에서 일을 처리하기까지",
+ "historyBody": "handle은 고대 영어 handlian(손으로 만지다)에서 왔어요. hand에 반복·동작을 나타내는 -le이 붙은 말이에요. 처음엔 물건을 손으로 만지는 뜻이었다가, 점차 '문제나 상황을 다루다'라는 뜻으로 넓어졌어요. 명사 '손잡이'도 고대 영어 때부터 있었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hand",
+   "pos": "명사 / 동사",
+   "meaning": "손 / 건네주다",
+   "en": "Please hand me that book.",
+   "ko": "그 책 좀 건네줄래?"
+  },
+  {
+   "word": "handy",
+   "pos": "형용사",
+   "meaning": "편리한, 손재주 있는",
+   "en": "A small flashlight is handy when camping.",
+   "ko": "작은 손전등은 캠핑할 때 편리해."
+  },
+  {
+   "word": "handful",
+   "pos": "명사",
+   "meaning": "한 줌, 소수",
+   "en": "Only a handful of students came to the meeting.",
+   "ko": "소수의 학생들만 회의에 왔어."
+  },
+  {
+   "word": "handout",
+   "pos": "명사",
+   "meaning": "유인물, 배포 자료",
+   "en": "The teacher gave us a handout about the test.",
+   "ko": "선생님은 시험에 관한 유인물을 나눠 주셨어."
+  }
+ ],
+ "imageSense": "대표 의미: 문 손잡이를 잡거나 어려운 문제를 침착하게 처리하는 장면",
+ "imageCaption": "손으로 물건을 조심조심 다루듯, 골치 아픈 일도 차분하게 처리하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry. I can handle this.",
+ "movieLineKo": "걱정 마. 내가 처리할 수 있어.",
+ "storyTitle": "손잡이 없는 냄비",
+ "story": "요리 초보 아빠가 '이 정도는 handle(처리하다)할 수 있지!'라며 라면을 끓였어요. handy(편리한) 냄비라더니 handle(손잡이)이 없었죠. 장갑을 찾느라 hand(손)만 허둥지둥! 결국 면은 handful(한 줌)만 남고 다 불어 버렸어요. 그런데 가족들은 그 불어 터진 라면이 제일 맛있대요."
+}

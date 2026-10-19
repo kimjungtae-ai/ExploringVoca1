@@ -1,0 +1,61 @@
+{
+ "word": "prohibit",
+ "pos": "동사",
+ "phonetic": "[proʊˈhɪbɪt]",
+ "meaning": "금지하다, 막다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞에서, 막아서 (before, away)",
+   "note": "앞을 가로막는다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hibit",
+   "meaning": "잡다, 가지다 (hold)",
+   "note": "라틴어 habere(가지다, 잡다)가 변한 모양이에요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞에서) + <strong>hibit</strong> (붙잡다) = '앞에서 붙잡아 못 가게 하다'라는 뜻에서 <strong>'금지하다'</strong>가 되었어요.",
+ "historyTitle": "앞을 가로막는 손",
+ "historyBody": "라틴어 prohibere는 '앞에서 붙잡다, 막다'라는 뜻이에요. 15세기 영어에 들어왔지요. 미국에서 1920년대에 술을 금지했던 시기를 'Prohibition(금주법 시대)'이라고 부르는 것도 이 단어에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prohibition",
+   "pos": "명사",
+   "meaning": "금지",
+   "en": "There is a prohibition on smoking in this building.",
+   "ko": "이 건물에서는 흡연이 금지되어 있어요."
+  },
+  {
+   "word": "exhibit",
+   "pos": "동사 / 명사",
+   "meaning": "전시하다 / 전시품",
+   "en": "The museum exhibits paintings by young artists.",
+   "ko": "그 박물관은 젊은 화가들의 그림을 전시해요."
+  },
+  {
+   "word": "inhibit",
+   "pos": "동사",
+   "meaning": "억제하다, 방해하다",
+   "en": "Fear can inhibit your ability to learn.",
+   "ko": "두려움은 배우는 능력을 방해할 수 있어요."
+  },
+  {
+   "word": "habit",
+   "pos": "명사",
+   "meaning": "습관",
+   "en": "Reading before bed is a good habit.",
+   "ko": "자기 전 독서는 좋은 습관이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 빨간 원에 사선이 그어진 금지 표지판",
+ "imageCaption": "누군가 앞에서 손을 뻗어 '멈춰!' 하고 붙잡는 모습을 떠올려 보세요.",
+ "movieLineEn": "Running in the hallway is strictly prohibited!",
+ "movieLineKo": "복도에서 뛰는 건 엄격히 금지되어 있어!",
+ "storyTitle": "금지 표지판 박물관",
+ "story": "시장님은 공원에서 모든 것을 prohibit(금지하다)했어요. 공 차기도, 노래도 prohibition(금지) 목록에 올랐죠. 결국 공원은 금지 표지판만 exhibit(전시하다)하는 곳이 되었어요. 시민들의 새 habit(습관)은 표지판 구경이었는데, 그게 인기 관광지가 되어 버렸답니다!"
+}

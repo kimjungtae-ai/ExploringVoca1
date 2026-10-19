@@ -1,0 +1,68 @@
+{
+ "word": "grateful",
+ "pos": "형용사",
+ "phonetic": "[ˈɡreɪtfəl]",
+ "meaning": "감사하는, 고맙게 여기는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "grate (← gratus)",
+   "meaning": "기쁜, 고마운 (pleasing, thankful)",
+   "note": "라틴어 gratus에서 온 옛 영어 형용사 grate(기분 좋은)예요. '갈다'라는 grate와는 다른 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ful",
+   "meaning": "~으로 가득한 (full of)",
+   "note": "마음이 그 감정으로 꽉 찼다는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>grate</strong> (고마운) + <strong>-ful</strong> (가득한) = 고마움이 가득한 마음이라서 <strong>'감사하는'</strong>이 되었어요.",
+ "historyTitle": "라틴어 '은혜(gratia)'의 후손",
+ "historyBody": "grateful은 16세기에 생긴 말로, 지금은 쓰이지 않는 형용사 grate(기분 좋은, 감사하는)에 -ful을 붙여 만들었어요. 이 grate는 라틴어 gratus(기쁜, 고마운)에서 왔어요. 라틴어 gratia(은혜, 호의)에서 나온 grace, gratitude도 모두 같은 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gratitude",
+   "pos": "명사",
+   "meaning": "감사, 고마움",
+   "en": "She wrote a letter to express her gratitude to her teacher.",
+   "ko": "그녀는 선생님께 감사를 표현하려고 편지를 썼어."
+  },
+  {
+   "word": "congratulate",
+   "pos": "동사",
+   "meaning": "축하하다",
+   "en": "Everyone congratulated him on winning the contest.",
+   "ko": "모두가 그의 대회 우승을 축하했어."
+  },
+  {
+   "word": "grace",
+   "pos": "명사",
+   "meaning": "우아함, 은혜, 품위",
+   "en": "The dancer moved across the stage with grace.",
+   "ko": "무용수는 우아하게 무대를 가로질렀어."
+  },
+  {
+   "word": "gracious",
+   "pos": "형용사",
+   "meaning": "친절한, 품위 있는",
+   "en": "Our host was gracious and made us feel at home.",
+   "ko": "주인은 친절해서 우리를 편안하게 해 주었어."
+  },
+  {
+   "word": "ungrateful",
+   "pos": "형용사",
+   "meaning": "감사할 줄 모르는",
+   "en": "Don't be ungrateful for the help you receive.",
+   "ko": "네가 받은 도움을 고마워할 줄 모르면 안 돼."
+  }
+ ],
+ "imageSense": "대표 의미: 도움을 받고 두 손을 모아 고맙다고 인사하는 장면",
+ "imageCaption": "길을 잃었을 때 누군가 친절하게 알려 준 순간, 가슴이 따뜻해지는 그 느낌이 grateful이에요.",
+ "movieLineEn": "I'm so grateful you came back for me.",
+ "movieLineKo": "날 위해 돌아와 줘서 정말 고마워.",
+ "storyTitle": "고양이의 감사 편지",
+ "story": "고양이는 밥을 준 할머니께 grateful(감사하는) 마음이 가득했어요. gratitude(감사)를 표현하려고 매일 아침 선물을 놓았죠. 할머니는 gracious(친절한) 미소로 고양이를 congratulate(축하하다)했어요. 하지만 선물이 매번 쥐였다는 건 할머니만 아는 grace(품위) 있는 비밀이었답니다."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "fertility",
+ "pos": "명사",
+ "phonetic": "[fərˈtɪləti]",
+ "meaning": "비옥함, 생식력, 출산율",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "낳다, 나르다 (bear, carry)",
+   "note": "라틴어 ferre(나르다, 열매를 맺다)에서 온 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tile",
+   "meaning": "~할 수 있는 (형용사)",
+   "note": "라틴어 -ilis에서 왔어요. fertile = '많이 낳을 수 있는'."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질 (명사)",
+   "note": "형용사를 '상태, 성질' 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>fer</strong> (낳다) + <strong>-tile</strong> (~할 수 있는) + <strong>-ity</strong> (성질) = '열매를 많이 맺을 수 있는 성질'에서 <strong>'비옥함, 생식력, 출산율'</strong>이 되었습니다.",
+ "historyTitle": "열매를 '나르는' 땅",
+ "historyBody": "라틴어 fertilis는 '열매를 풍성하게 맺는'이라는 뜻으로, ferre(나르다, 열매 맺다)에서 왔어요. 땅이 곡식을 '품어 내놓는' 모습을 떠올리면 쉬워요. 오늘날 수능 지문에서는 'fertility rate(출산율)'라는 표현으로 자주 등장한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fertile",
+   "pos": "형용사",
+   "meaning": "비옥한, 생식력 있는",
+   "en": "The fertile soil near the river produced plenty of rice.",
+   "ko": "강 근처의 비옥한 흙에서 쌀이 많이 났어요."
+  },
+  {
+   "word": "fertilizer",
+   "pos": "명사",
+   "meaning": "비료",
+   "en": "The farmer used natural fertilizer made from fallen leaves.",
+   "ko": "농부는 낙엽으로 만든 천연 비료를 사용했어요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사",
+   "meaning": "옮기다, 전학하다",
+   "en": "She transferred to a new school in the middle of the year.",
+   "ko": "그녀는 학기 중간에 새 학교로 전학했어요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사",
+   "meaning": "제공하다",
+   "en": "The library offers free English classes on weekends.",
+   "ko": "그 도서관은 주말에 무료 영어 수업을 제공해요."
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참조하다",
+   "en": "Please refer to the chart on page ten.",
+   "ko": "10쪽에 있는 도표를 참조하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 황금빛 곡식이 가득 자라는 비옥한 들판",
+ "imageCaption": "검고 촉촉한 흙에서 곡식이 쑥쑥 자라는 들판을 떠올리면 fertility가 생각날 거예요.",
+ "movieLineEn": "The fertility of this land is our kingdom's greatest treasure.",
+ "movieLineKo": "이 땅의 비옥함이 우리 왕국의 가장 큰 보물이다.",
+ "storyTitle": "비료 박사의 대실수",
+ "story": "비료 박사는 땅의 fertility(비옥함)를 높이는 특별한 fertilizer(비료)를 만들었어요. 그걸 뿌리자 밭이 너무 fertile(비옥한)해져서 호박이 집채만큼 자랐죠. 박사는 이웃들에게 호박을 offer(제공하다)하려 했지만, 너무 커서 transfer(옮기다)할 수가 없었어요. 결국 박사는 호박 안으로 이사했대요!"
+}

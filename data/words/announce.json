@@ -1,0 +1,68 @@
+{
+ "word": "announce",
+ "pos": "동사",
+ "phonetic": "[əˈnaʊns]",
+ "meaning": "발표하다, 알리다, 공고하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "an-",
+   "meaning": "~에게 (to)",
+   "note": "ad-가 n 앞에서 an-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nounce",
+   "meaning": "알리다, 전하다 (report)",
+   "note": "라틴어 nuntiare(알리다)에서 왔어요. nuntius는 '전령'이에요."
+  }
+ ],
+ "summary": "<strong>an-</strong> (~에게) + <strong>nounce</strong> (알리다) = '사람들에게 소식을 전하다'에서 <strong>'발표하다'</strong>가 되었어요.",
+ "historyTitle": "소식을 들고 달리던 로마의 전령",
+ "historyBody": "라틴어 nuntius는 '소식을 전하는 사람, 전령'이었고, nuntiare는 '알리다'였어요. 여기에 ad(~에게)가 붙은 annuntiare가 고대 프랑스어 anoncier를 거쳐 영어 announce가 되었어요. 같은 뿌리의 pronounce는 '앞으로(pro) 소리 내어 알리다', 즉 발음하다예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "announcement",
+   "pos": "명사",
+   "meaning": "발표, 공지",
+   "en": "The principal made an important announcement.",
+   "ko": "교장 선생님께서 중요한 발표를 하셨어요."
+  },
+  {
+   "word": "announcer",
+   "pos": "명사",
+   "meaning": "아나운서, 안내 방송하는 사람",
+   "en": "The announcer read the news clearly.",
+   "ko": "아나운서가 뉴스를 또박또박 읽었어요."
+  },
+  {
+   "word": "pronounce",
+   "pos": "동사",
+   "meaning": "발음하다",
+   "en": "How do you pronounce this word?",
+   "ko": "이 단어는 어떻게 발음하나요?"
+  },
+  {
+   "word": "pronunciation",
+   "pos": "명사",
+   "meaning": "발음",
+   "en": "Her English pronunciation is very natural.",
+   "ko": "그녀의 영어 발음은 아주 자연스러워요."
+  },
+  {
+   "word": "denounce",
+   "pos": "동사",
+   "meaning": "비난하다, 고발하다",
+   "en": "Many people denounced the violent attack.",
+   "ko": "많은 사람이 그 폭력적인 공격을 비난했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마이크 앞에서 대회 우승자를 발표하는 사회자",
+ "imageCaption": "많은 사람 앞에서 소식을 큰 소리로 '전하는' 순간을 떠올려 보세요.",
+ "movieLineEn": "I'm proud to announce the winner of this year's contest!",
+ "movieLineKo": "올해 대회 우승자를 발표하게 되어 자랑스럽습니다!",
+ "storyTitle": "발음이 너무 좋은 아나운서",
+ "story": "학교 announcer(아나운서) 수진이는 매일 아침 공지를 announce(발표하다)했어요. 발음은 완벽했지만 너무 빨랐죠. 오늘의 announcement(공지)는 '오늘 급식은 피자!'였는데, 학생들은 '오늘 급식은 비자!'로 들었어요. 모두 여권을 들고 왔대요. 수진이는 pronounce(발음하다) 연습 대신 천천히 말하기 연습을 시작했어요."
+}

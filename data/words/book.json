@@ -1,0 +1,69 @@
+{
+ "word": "book",
+ "pos": "명사 / 동사",
+ "phonetic": "[bʊk]",
+ "meaning": "책 / 예약하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "book (← bōc)",
+   "meaning": "글이 적힌 판, 문서 (written document)",
+   "note": "고대 영어 bōc는 '글을 적은 것, 문서, 책'을 뜻했어요."
+  }
+ ],
+ "summary": "<strong>book</strong>은 고대 영어 <strong>bōc</strong>(문서, 책)에서 왔고, 장부에 이름을 적어 두는 데서 <strong>'예약하다'</strong>라는 뜻도 생겼어요.",
+ "historyTitle": "너도밤나무와 책, 정말 관계가 있을까?",
+ "historyBody": "book은 고대 영어 bōc에서 온 게르만어로, 독일어 Buch와 친척이에요. 너도밤나무(beech) 판에 룬 문자를 새겼기 때문이라는 설이 널리 알려져 있지만, 확실히 증명된 것은 아니어서 학자들 사이에 의견이 갈려요. '예약하다'라는 뜻은 장부(book)에 이름을 적어 두던 데서 나왔어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "bookcase",
+   "pos": "명사",
+   "meaning": "책장",
+   "en": "The bookcase in my room is full of comics.",
+   "ko": "내 방 책장은 만화책으로 가득해."
+  },
+  {
+   "word": "booklet",
+   "pos": "명사",
+   "meaning": "소책자",
+   "en": "The museum gave us a free booklet about its history.",
+   "ko": "박물관에서 역사에 관한 무료 소책자를 줬어."
+  },
+  {
+   "word": "bookstore",
+   "pos": "명사",
+   "meaning": "서점",
+   "en": "Let's meet at the bookstore near the station.",
+   "ko": "역 근처 서점에서 만나자."
+  },
+  {
+   "word": "notebook",
+   "pos": "명사",
+   "meaning": "공책, 노트북",
+   "en": "I write new words in my notebook every day.",
+   "ko": "나는 매일 새 단어를 공책에 적어."
+  },
+  {
+   "word": "bookmark",
+   "pos": "명사",
+   "meaning": "책갈피, 즐겨찾기",
+   "en": "She used a leaf as a bookmark.",
+   "ko": "그녀는 나뭇잎을 책갈피로 썼어."
+  },
+  {
+   "word": "booking",
+   "pos": "명사",
+   "meaning": "예약",
+   "en": "We made a booking for dinner at seven.",
+   "ko": "우리는 7시 저녁 식사를 예약했어."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 책상 위에 펼쳐진 두꺼운 책",
+ "imageCaption": "책장 넘기는 소리가 들리는 조용한 도서관을 떠올려 보세요. 동시에 장부에 이름을 적는 '예약'도 함께 기억해요.",
+ "movieLineEn": "I've already booked the tickets. Now read this book on the way!",
+ "movieLineKo": "표는 벌써 예약했어. 이제 가는 길에 이 책 읽어!",
+ "storyTitle": "책 한 권의 예약 전쟁",
+ "story": "인기 소설 book(책)을 빌리려고 서아는 도서관에 booking(예약)을 했어요. 기다리며 notebook(공책)에 줄거리를 상상해 적었죠. 드디어 책을 받았는데 마지막 장에 누가 bookmark(책갈피) 대신 결말 스포일러 쪽지를! 화난 서아는 그 쪽지를 bookcase(책장) 맨 위에 숨겨 버렸답니다."
+}

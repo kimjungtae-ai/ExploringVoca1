@@ -1,0 +1,54 @@
+{
+ "word": "furniture",
+ "pos": "명사",
+ "phonetic": "[ˈfɜːrnɪtʃər]",
+ "meaning": "가구",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "furni",
+   "meaning": "공급하다, 갖추다 (provide)",
+   "note": "프랑스어 fournir(공급하다)에서 왔어요. 더 거슬러 올라가면 게르만어 계통이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ture",
+   "meaning": "~한 것 (명사)",
+   "note": "결과물을 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>furni</strong> (갖추다) + <strong>-ture</strong> (~한 것) = '집에 갖춰 놓은 것'이라는 뜻에서 <strong>'가구'</strong>가 되었습니다.",
+ "historyTitle": "집을 '갖추는' 물건",
+ "historyBody": "furniture는 16세기 프랑스어 fourniture(공급, 비품)에서 왔고, 동사 fournir(공급하다)가 뿌리예요. 이 동사는 '완성하다'라는 뜻의 게르만어 계통 말에서 온 것으로 보여요. 처음엔 '필요한 것을 갖춤'이라는 넓은 뜻이었다가 '집 안의 가구'로 좁아졌답니다. 셀 수 없는 명사라서 a piece of furniture라고 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "furnish",
+   "pos": "동사",
+   "meaning": "(가구를) 갖추다, 제공하다",
+   "en": "They furnished the living room with a sofa and a bookshelf.",
+   "ko": "그들은 거실에 소파와 책장을 들여놓았어요."
+  },
+  {
+   "word": "furnished",
+   "pos": "형용사",
+   "meaning": "가구가 딸린",
+   "en": "We rented a furnished apartment near the campus.",
+   "ko": "우리는 캠퍼스 근처에 가구가 딸린 아파트를 빌렸어요."
+  },
+  {
+   "word": "unfurnished",
+   "pos": "형용사",
+   "meaning": "가구가 없는",
+   "en": "The unfurnished room looked very empty.",
+   "ko": "가구 없는 방은 무척 텅 비어 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 소파, 식탁, 침대가 놓인 아늑한 방",
+ "imageCaption": "빈 방에 소파와 식탁, 침대를 하나씩 들여놓아 집을 갖추는 모습을 떠올려 보세요.",
+ "movieLineEn": "Move the furniture! There's a secret door behind the bookshelf!",
+ "movieLineKo": "가구를 옮겨! 책장 뒤에 비밀 문이 있어!",
+ "storyTitle": "고양이의 가구 사랑",
+ "story": "이사 간 집은 unfurnished(가구가 없는) 상태였어요. 가족은 집을 furnish(갖추다)하려고 비싼 furniture(가구)를 샀죠. 드디어 furnished(가구가 딸린) 멋진 집이 완성됐어요! 그런데 고양이가 가장 좋아한 건 소파도 침대도 아닌, 소파가 담겨 왔던 커다란 종이 상자였대요."
+}

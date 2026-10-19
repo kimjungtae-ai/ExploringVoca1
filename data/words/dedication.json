@@ -1,0 +1,67 @@
+{
+ "word": "dedication",
+ "pos": "명사",
+ "phonetic": "[ˌdedɪˈkeɪʃn]",
+ "meaning": "헌신, 전념, 헌정",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "완전히, 떼어서 (away, completely)",
+   "note": "온전히 따로 떼어 놓는다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "dic",
+   "meaning": "선언하다, 말하다 (proclaim, say)",
+   "note": "라틴어 dicare(엄숙히 선언하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>dic</strong> (선언하다) + <strong>-ation</strong> (명사) = '무언가에 완전히 바친다고 선언함'에서 <strong>'헌신, 전념'</strong>이 되었어요.",
+ "historyTitle": "봉헌식에서 헌신으로",
+ "historyBody": "dedication은 라틴어 dedicatio(봉헌, 바침)에서 왔어요. 원래는 신전 같은 건물을 신에게 바치는 의식을 뜻했는데, 점차 사람이 자기 시간과 마음을 일에 바치는 '헌신'이라는 뜻으로 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dedicate",
+   "pos": "동사",
+   "meaning": "바치다, 헌신하다",
+   "en": "She dedicated her life to helping poor children.",
+   "ko": "그녀는 가난한 아이들을 돕는 데 일생을 바쳤어요."
+  },
+  {
+   "word": "dedicated",
+   "pos": "형용사",
+   "meaning": "헌신적인, 전용의",
+   "en": "There is a dedicated lane for bicycles here.",
+   "ko": "여기에는 자전거 전용 차로가 있어요."
+  },
+  {
+   "word": "indicate",
+   "pos": "동사",
+   "meaning": "나타내다, 가리키다",
+   "en": "A red light indicates that the battery is low.",
+   "ko": "빨간 불은 배터리가 부족하다는 것을 나타내요."
+  },
+  {
+   "word": "dictionary",
+   "pos": "명사",
+   "meaning": "사전",
+   "en": "Look up the new words in your dictionary.",
+   "ko": "새 단어들을 사전에서 찾아보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 새벽 운동장을 달리며 땀 흘리는 선수의 모습",
+ "imageCaption": "비가 와도 눈이 와도 같은 자리에서 연습하는 선수를 떠올려 보세요. 그게 dedication이에요.",
+ "movieLineEn": "Talent is nothing without dedication.",
+ "movieLineKo": "헌신 없는 재능은 아무것도 아니야.",
+ "storyTitle": "사전 소년의 헌신",
+ "story": "태민이는 영어에 dedication(헌신)을 보였어요. 매일 dictionary(사전)를 한 장씩 외우는 데 시간을 dedicate(바치다)했죠. 친구들은 그를 dedicated(헌신적인) 공부벌레라 불렀어요. 그런데 사전이 얇아지는 건 indicate(나타내다)… 외운 장을 찢어 먹었기 때문이었대요!"
+}

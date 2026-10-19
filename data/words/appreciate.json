@@ -1,0 +1,81 @@
+{
+ "word": "appreciate",
+ "pos": "동사",
+ "phonetic": "[əˈpriːʃieɪt]",
+ "meaning": "고마워하다, 진가를 알아보다, 감상하다, 이해하다, (가치가) 오르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "어떤 대상에 무언가를 매긴다는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "preci (pretium)",
+   "meaning": "값, 가치 (price)",
+   "note": "price, precious와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사형)",
+   "note": "동사를 만들어 주는 어미예요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>preci</strong> (값) + <strong>-ate</strong> (동사) = '무언가에 값을 매기다'에서 <strong>'진가를 알아보다, 고마워하다'</strong>가 되었어요.",
+ "historyTitle": "값을 매기던 말이 '감사'가 되기까지",
+ "historyBody": "후기 라틴어 'appretiare'는 ad-(~에)와 'pretium(값)'이 합쳐진 말로 '값을 매기다'라는 뜻이었어요. 무언가의 가치를 제대로 알아보면 소중히 여기게 되고, 그 마음이 '고마워하다'로 이어졌죠. 지금도 경제 지문에서는 '가치가 오르다'라는 원래 뜻으로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appreciation",
+   "pos": "명사",
+   "meaning": "감사, 진가 인정, 감상",
+   "en": "We gave her flowers in appreciation of her help.",
+   "ko": "우리는 그녀의 도움에 감사하는 뜻으로 꽃을 드렸어요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "These old photos are precious to my grandmother.",
+   "ko": "이 오래된 사진들은 할머니께 소중해요."
+  },
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격, 대가",
+   "en": "The price of fruit goes up in winter.",
+   "ko": "겨울에는 과일 가격이 올라요."
+  },
+  {
+   "word": "prize",
+   "pos": "명사",
+   "meaning": "상, 상품",
+   "en": "She won first prize in the speech contest.",
+   "ko": "그녀는 말하기 대회에서 1등 상을 받았어요."
+  },
+  {
+   "word": "praise",
+   "pos": "동사/명사",
+   "meaning": "칭찬하다 / 칭찬",
+   "en": "The coach praised us for our teamwork.",
+   "ko": "코치님은 우리의 팀워크를 칭찬하셨어요."
+  },
+  {
+   "word": "depreciate",
+   "pos": "동사",
+   "meaning": "가치가 떨어지다",
+   "en": "A new car depreciates as soon as you drive it.",
+   "ko": "새 차는 운전하자마자 가치가 떨어져요."
+  }
+ ],
+ "imageSense": "대표 의미: 미술관에서 그림 앞에 서서 그 가치를 음미하는 사람",
+ "imageCaption": "미술관에서 한 작품 앞에 오래 머물며 '와, 정말 값진 그림이다' 하고 감탄하는 모습을 떠올려 보세요. 값어치를 알아보는 마음이 appreciate예요.",
+ "movieLineEn": "I really appreciate you saving my life back there.",
+ "movieLineKo": "아까 내 목숨을 구해 줘서 정말 고마워.",
+ "storyTitle": "할머니의 보물 상자",
+ "story": "할머니가 precious(소중한) 상자를 주셨어요. 나는 그 안에 비싼 prize(상품)가 있을 거라 기대했죠. 열어 보니 내가 다섯 살 때 그린 그림뿐이었어요. 실망하려던 순간, 할머니가 '이건 어떤 price(가격)로도 못 사지'라며 웃으셨어요. 그제야 나는 그 마음을 appreciate(고마워하다)했답니다."
+}

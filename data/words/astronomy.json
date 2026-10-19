@@ -1,0 +1,75 @@
+{
+ "word": "astronomy",
+ "pos": "명사",
+ "phonetic": "[əˈstrɑːnəmi]",
+ "meaning": "천문학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "astro (astron)",
+   "meaning": "별 (star)",
+   "note": "그리스어 astron(별)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nomy (nomos)",
+   "meaning": "법칙, 질서 (law, arrangement)",
+   "note": "economy(경제)의 -nomy와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>astro</strong> (별) + <strong>nomy</strong> (법칙) = '별들이 움직이는 법칙을 연구함'에서 <strong>'천문학'</strong>이 되었어요.",
+ "historyTitle": "별의 질서를 읽던 그리스인들",
+ "historyBody": "그리스어 'astronomia'는 'astron(별)'과 'nomos(법칙, 질서)'가 합쳐진 말로 '별의 질서'를 뜻했어요. 고대 그리스인들은 밤하늘을 관찰해 계절과 날짜를 계산했죠. 반면 별로 운명을 점치는 것은 astrology(점성술)라고 부르는데, 둘은 시험에서 헷갈리기 쉬우니 조심하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "astronomer",
+   "pos": "명사",
+   "meaning": "천문학자",
+   "en": "The astronomer discovered a new comet.",
+   "ko": "그 천문학자는 새로운 혜성을 발견했어요."
+  },
+  {
+   "word": "astronaut",
+   "pos": "명사",
+   "meaning": "우주 비행사",
+   "en": "The astronaut floated inside the space station.",
+   "ko": "우주 비행사가 우주 정거장 안에서 둥둥 떠다녔어요."
+  },
+  {
+   "word": "astrology",
+   "pos": "명사",
+   "meaning": "점성술",
+   "en": "Some people check astrology to predict their future.",
+   "ko": "어떤 사람들은 미래를 예측하려고 점성술을 봐요."
+  },
+  {
+   "word": "asteroid",
+   "pos": "명사",
+   "meaning": "소행성",
+   "en": "An asteroid passed close to Earth last year.",
+   "ko": "작년에 소행성 하나가 지구 가까이 지나갔어요."
+  },
+  {
+   "word": "disaster",
+   "pos": "명사",
+   "meaning": "재난, 참사",
+   "en": "The flood was a terrible disaster for the village.",
+   "ko": "그 홍수는 마을에 끔찍한 재난이었어요."
+  },
+  {
+   "word": "astronomical",
+   "pos": "형용사",
+   "meaning": "천문학적인, 엄청난",
+   "en": "The price of that painting is astronomical.",
+   "ko": "그 그림의 가격은 천문학적이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 망원경으로 밤하늘의 별자리를 관찰하는 사람",
+ "imageCaption": "깜깜한 언덕 위에서 망원경을 들여다보며 별의 움직임을 기록하는 모습을 떠올려 보세요. 별의 법칙을 연구하는 학문이 astronomy예요.",
+ "movieLineEn": "Astronomy taught me that we are all made of stardust.",
+ "movieLineKo": "천문학은 우리가 모두 별의 먼지로 이루어졌다는 걸 가르쳐 줬어.",
+ "storyTitle": "별을 사랑한 강아지",
+ "story": "astronomy(천문학)를 좋아하는 강아지 별이는 매일 밤 하늘을 봤어요. 꿈은 astronaut(우주 비행사)였죠. 어느 날 astronomer(천문학자) 주인이 '거대한 asteroid(소행성)가 다가온다!'고 외쳤어요. 별이는 용감하게 짖었죠. 그런데 그건 망원경 렌즈에 붙은 과자 부스러기였답니다."
+}

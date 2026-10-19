@@ -1,0 +1,48 @@
+{
+ "word": "grab",
+ "pos": "동사 / 명사",
+ "phonetic": "[ɡræb]",
+ "meaning": "붙잡다, 움켜쥐다, (재빨리) 먹다·챙기다 / 붙잡기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "grab",
+   "meaning": "움켜쥐다 (seize)",
+   "note": "16세기에 네덜란드어·저지 독일어 grabben에서 들어온 말이라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>grab</strong>은 중세 네덜란드어 grabben(<strong>움켜쥐다</strong>)에서 와서 <strong>'붙잡다, 재빨리 챙기다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "바다 건너온 '움켜쥐기' 단어",
+ "historyBody": "grab은 1580년대쯤 중세 네덜란드어나 중세 저지 독일어 grabben(움켜쥐다)에서 영어로 들어왔어요. 북해를 오가던 상인과 선원들의 교류 속에서 들어온 단어로 보여요. 요즘은 'grab a bite(간단히 먹다)'처럼 '재빨리 챙기다'라는 뜻으로도 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "grabby",
+   "pos": "형용사",
+   "meaning": "욕심 사납게 움켜쥐는",
+   "en": "The grabby kid took all the cookies at once.",
+   "ko": "욕심 많은 아이가 쿠키를 한 번에 다 가져갔어."
+  },
+  {
+   "word": "grab-and-go",
+   "pos": "형용사",
+   "meaning": "바로 집어 갈 수 있는",
+   "en": "The cafe sells grab-and-go sandwiches for busy students.",
+   "ko": "그 카페는 바쁜 학생들을 위해 바로 집어 갈 수 있는 샌드위치를 팔아."
+  },
+  {
+   "word": "grabber",
+   "pos": "명사",
+   "meaning": "잡는 사람·도구, 시선을 끄는 것",
+   "en": "That headline is a real attention grabber.",
+   "ko": "그 헤드라인은 정말 시선을 확 끄는 거야."
+  }
+ ],
+ "imageSense": "대표 의미: 지하철 문이 닫히기 직전 손잡이를 덥석 붙잡는 장면",
+ "imageCaption": "놓치기 직전에 손을 쭉 뻗어 확 움켜쥐는 동작을 떠올려 보세요.",
+ "movieLineEn": "Grab my hand and don't let go!",
+ "movieLineKo": "내 손 잡아, 절대 놓지 마!",
+ "storyTitle": "인형 뽑기의 진실",
+ "story": "민수는 인형 뽑기 기계의 grabber(집게)로 곰 인형을 grab(움켜잡다)하려 했어요. 옆의 grabby(욕심 많은) 동생이 '내 거!'라며 소리쳤죠. 결국 실패하고 grab-and-go(바로 집어 가는) 김밥만 샀어요. 그런데 동생이 grab(움켜잡다)한 김밥 포장지에 '인형 무료 증정' 쿠폰이 붙어 있었답니다!"
+}

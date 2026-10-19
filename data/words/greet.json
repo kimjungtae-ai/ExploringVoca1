@@ -1,0 +1,41 @@
+{
+ "word": "greet",
+ "pos": "동사",
+ "phonetic": "[ɡriːt]",
+ "meaning": "인사하다, 맞이하다, 환영하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "greet (古 grētan)",
+   "meaning": "다가가 부르다, 맞이하다 (approach, address)",
+   "note": "고대 영어 grētan에서 온 게르만계 단어라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>greet</strong>은 고대 영어 grētan(<strong>다가가 말을 걸다</strong>)에서 와서 <strong>'인사하다, 맞이하다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "말을 걸며 다가가던 옛 인사법",
+ "historyBody": "greet은 고대 영어 grētan에서 왔는데, '다가가다, 말을 걸다, 맞이하다'라는 뜻이었어요. 독일어 grüßen(인사하다)과 형제 단어예요. 옛날에는 '공격하러 다가가다'라는 뜻으로도 쓰였다니 재미있죠?",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "greeting",
+   "pos": "명사",
+   "meaning": "인사, 인사말",
+   "en": "She sent me a birthday greeting card.",
+   "ko": "그녀는 나에게 생일 축하 카드를 보냈어."
+  },
+  {
+   "word": "greeter",
+   "pos": "명사",
+   "meaning": "손님 맞이하는 사람",
+   "en": "The greeter at the store smiled at every customer.",
+   "ko": "가게 안내원은 모든 손님에게 미소를 지었어."
+  }
+ ],
+ "imageSense": "대표 의미: 현관문을 열고 손을 흔들며 친구를 맞이하는 장면",
+ "imageCaption": "문 앞에서 반갑게 손 흔들며 '어서 와!' 하고 맞이하는 모습을 떠올려요.",
+ "movieLineEn": "Go and greet our guests at the door.",
+ "movieLineKo": "가서 문 앞에서 손님들을 맞이하렴.",
+ "storyTitle": "인사왕 강아지",
+ "story": "강아지 콩이는 동네에서 제일가는 greeter(맞이하는 사람)였어요. 누구든 꼬리를 흔들며 greet(맞이하다)했죠. 우체부 아저씨께도 큰 greeting(인사)을 했어요. 너무 열심히 greet(맞이하다)한 나머지, 도둑까지 반갑게 맞아 집 구경을 시켜 줬답니다. 다행히 그 도둑은 콩이의 간식만 훔쳐 갔대요!"
+}

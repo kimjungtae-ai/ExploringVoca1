@@ -1,0 +1,75 @@
+{
+ "word": "solution",
+ "pos": "명사",
+ "phonetic": "[səˈluːʃn]",
+ "meaning": "해결책, 해답, 용액",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "solu",
+   "meaning": "풀다, 느슨하게 하다 (loosen)",
+   "note": "라틴어 solvere(풀다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>solu</strong> (풀다) + <strong>-tion</strong> (~하는 것) = '꼬인 것을 푸는 것', 즉 <strong>'해결책, 해답'</strong>이고, 물질을 물에 풀면 <strong>'용액'</strong>이 됩니다.",
+ "historyTitle": "매듭을 풀던 라틴어 solvere",
+ "historyBody": "라틴어 solvere는 '묶인 것을 풀다, 녹이다'라는 뜻이에요. 그래서 solution은 문제를 '풀어낸 것'이 되기도 하고, 소금을 물에 '풀어낸' 액체인 용액이 되기도 해요. 같은 뿌리에서 solve, dissolve가 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "solve",
+   "pos": "동사",
+   "meaning": "해결하다, 풀다",
+   "en": "We worked together to solve the difficult math problem.",
+   "ko": "우리는 어려운 수학 문제를 풀기 위해 함께 노력했어요."
+  },
+  {
+   "word": "dissolve",
+   "pos": "동사",
+   "meaning": "녹이다, 용해하다, 해산하다",
+   "en": "Sugar dissolves quickly in hot water.",
+   "ko": "설탕은 뜨거운 물에 빨리 녹아요."
+  },
+  {
+   "word": "soluble",
+   "pos": "형용사",
+   "meaning": "녹는, 해결할 수 있는",
+   "en": "Salt is soluble in water, but sand is not.",
+   "ko": "소금은 물에 녹지만 모래는 녹지 않아요."
+  },
+  {
+   "word": "resolve",
+   "pos": "동사",
+   "meaning": "해결하다, 결심하다",
+   "en": "The two friends resolved their conflict by talking honestly.",
+   "ko": "두 친구는 솔직하게 대화하며 갈등을 해결했어요."
+  },
+  {
+   "word": "resolution",
+   "pos": "명사",
+   "meaning": "결심, 해결",
+   "en": "My New Year's resolution is to read more books.",
+   "ko": "내 새해 결심은 책을 더 많이 읽는 거예요."
+  },
+  {
+   "word": "absolute",
+   "pos": "형용사",
+   "meaning": "절대적인, 완전한",
+   "en": "There is no absolute answer to this question.",
+   "ko": "이 질문에는 절대적인 정답이 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 엉킨 실타래를 술술 풀어내는 장면",
+ "imageCaption": "꽁꽁 묶인 매듭이 스르르 풀리는 순간을 떠올리면 '해결책'이 떠올라요.",
+ "movieLineEn": "There's always a solution. We just haven't found it yet.",
+ "movieLineKo": "해결책은 항상 있어. 아직 못 찾았을 뿐이야.",
+ "storyTitle": "마법사의 엉뚱한 해결책",
+ "story": "마을에 얼음 괴물이 나타나자 마법사가 solution(해결책)을 찾았어요. \"뜨거운 물로 괴물을 dissolve(녹이다)하면 문제를 solve(해결하다)할 수 있어!\" 괴물은 정말 soluble(녹는) 존재였어요. 그런데 다 녹고 보니 괴물은 거대한 빙수였고, 마을 사람들은 resolve(결심하다)했어요. 다음엔 녹이지 말고 먹기로요!"
+}

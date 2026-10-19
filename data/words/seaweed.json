@@ -1,0 +1,61 @@
+{
+ "word": "seaweed",
+ "pos": "명사",
+ "phonetic": "[ˈsiːwiːd]",
+ "meaning": "해초, 해조류(김·미역 등)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sea",
+   "meaning": "바다 (sea)",
+   "note": "고대 영어 'sǣ'에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "weed",
+   "meaning": "잡초 (weed)",
+   "note": "고대 영어 'wēod(풀, 잡초)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sea</strong> (바다) + <strong>weed</strong> (잡초, 풀) = 바다에서 자라는 풀, 즉 <strong>'해초'</strong>예요.",
+ "historyTitle": "바다의 '잡초'가 건강식이 되다",
+ "historyBody": "weed는 고대 영어에서 '풀, 잡초'를 뜻했어요. 서양 사람들은 바닷속 식물을 '바다의 잡초'라고 불렀지만, 한국과 일본에서는 김과 미역을 오래전부터 귀한 음식으로 먹어 왔어요. 요즘은 seaweed가 세계적인 건강식으로 인기를 얻고 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "weed",
+   "pos": "명사 / 동사",
+   "meaning": "잡초 / 잡초를 뽑다",
+   "en": "We spent Saturday morning pulling weeds in the garden.",
+   "ko": "우리는 토요일 아침 내내 정원에서 잡초를 뽑았어요."
+  },
+  {
+   "word": "seafood",
+   "pos": "명사",
+   "meaning": "해산물",
+   "en": "This restaurant is famous for its fresh seafood.",
+   "ko": "이 식당은 신선한 해산물로 유명해요."
+  },
+  {
+   "word": "seaside",
+   "pos": "명사",
+   "meaning": "해변, 바닷가",
+   "en": "My grandparents live in a small seaside village.",
+   "ko": "우리 조부모님은 작은 바닷가 마을에 사세요."
+  },
+  {
+   "word": "seashore",
+   "pos": "명사",
+   "meaning": "해안",
+   "en": "Waves washed seaweed onto the seashore.",
+   "ko": "파도가 해초를 해안으로 밀어 올렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 바닷속에서 하늘하늘 흔들리는 초록빛 해초",
+ "imageCaption": "바닷속 바위에 붙은 미역과 다시마가 물결 따라 흔들리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Look! The fish are hiding in the seaweed!",
+ "movieLineKo": "봐! 물고기들이 해초 속에 숨어 있어!",
+ "storyTitle": "할머니의 비밀 정원",
+ "story": "할머니 집 seaside(바닷가) 텃밭에서 weed(잡초)를 뽑던 날이었어요. 할머니가 바다에서도 일하자며 나를 끌고 가셨죠. 거기서 뽑은 건 seaweed(해초)! 저녁엔 seafood(해산물) 미역국이 나왔어요. 할머니 왈, \"바다 텃밭이 진짜야.\""
+}

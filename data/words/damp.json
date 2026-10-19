@@ -1,0 +1,41 @@
+{
+ "word": "damp",
+ "pos": "형용사 / 명사",
+ "phonetic": "[dæmp]",
+ "meaning": "축축한, 눅눅한 / 습기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "damp",
+   "meaning": "증기, 습기 (vapor)",
+   "note": "중세 저지 독일어·네덜란드어 damp(증기)와 관련된 게르만어 단어예요."
+  }
+ ],
+ "summary": "<strong>damp</strong>는 쪼개지지 않는 단어로, '증기, 김'이라는 옛 뜻에서 <strong>'축축한, 눅눅한'</strong>이 되었어요.",
+ "historyTitle": "광부들이 무서워한 '증기'",
+ "historyBody": "damp는 중세 저지 독일어·중세 네덜란드어 damp(증기, 김)와 같은 게르만어 계열 단어예요. 옛 영어에서는 '해로운 가스'라는 뜻으로 쓰여, 광부들이 탄광의 위험한 가스를 damp라고 불렀어요. 18세기쯤부터 '축축한, 습기 찬'이라는 뜻이 널리 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dampen",
+   "pos": "동사",
+   "meaning": "적시다, (기세를) 꺾다",
+   "en": "The rain did not dampen our excitement.",
+   "ko": "비도 우리의 신나는 마음을 꺾지 못했어요."
+  },
+  {
+   "word": "dampness",
+   "pos": "명사",
+   "meaning": "습기, 축축함",
+   "en": "The dampness in the basement caused mold.",
+   "ko": "지하실의 습기 때문에 곰팡이가 생겼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비 맞은 뒤 축축하게 젖은 운동화",
+ "imageCaption": "비를 맞고 돌아와 발가락까지 눅눅한 운동화를 떠올려 보세요. 완전히 젖진 않았지만 축축한 느낌이 damp예요.",
+ "movieLineEn": "Wipe the table with a damp cloth. No evidence!",
+ "movieLineKo": "젖은 행주로 탁자를 닦아. 증거를 남기지 마!",
+ "storyTitle": "눅눅한 과자 사건",
+ "story": "장마철, 내 과자가 damp(눅눅한) 상태가 되었어요. 방 안의 dampness(습기) 때문이었죠. 슬픈 마음이 기분을 dampen(꺾다)했어요. 그래서 과자를 전자레인지에 돌렸더니, 바삭해지긴커녕 더 damp(축축한)해져서 떡이 되었대요. 덕분에 신메뉴 '과자떡'이 탄생했답니다!"
+}

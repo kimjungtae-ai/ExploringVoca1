@@ -1,0 +1,67 @@
+{
+ "word": "navigate",
+ "pos": "동사",
+ "phonetic": "[ˈnævɪɡeɪt]",
+ "meaning": "길을 찾다, 항해하다, (어려운 상황을) 헤쳐 나가다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "nav",
+   "meaning": "배 (ship)",
+   "note": "라틴어 navis(배)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ig",
+   "meaning": "몰다, 이끌다 (drive)",
+   "note": "라틴어 agere(몰다, 움직이다)가 변한 형태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>nav</strong> (배) + <strong>ig</strong> (몰다) + <strong>-ate</strong> = 배를 몰다라서 <strong>'항해하다, 길을 찾다'</strong>가 되었어요.",
+ "historyTitle": "로마의 뱃사람들",
+ "historyBody": "라틴어 navigare는 navis(배)와 agere(몰다)가 합쳐져 '배를 몰다'라는 뜻이었어요. 지금은 배뿐 아니라 지도 앱으로 길을 찾거나 웹사이트를 돌아다닐 때도 navigate라고 해요. 자동차의 '내비게이션'도 여기서 온 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "navigation",
+   "pos": "명사",
+   "meaning": "항해, 길 찾기",
+   "en": "The car's navigation system showed a faster route.",
+   "ko": "차의 내비게이션 시스템이 더 빠른 길을 보여 줬어요."
+  },
+  {
+   "word": "navigator",
+   "pos": "명사",
+   "meaning": "항해사, 길잡이",
+   "en": "The navigator studied the stars to find the way.",
+   "ko": "항해사는 길을 찾기 위해 별을 연구했어요."
+  },
+  {
+   "word": "navy",
+   "pos": "명사",
+   "meaning": "해군",
+   "en": "My uncle served in the navy for four years.",
+   "ko": "우리 삼촌은 4년 동안 해군으로 복무했어요."
+  },
+  {
+   "word": "naval",
+   "pos": "형용사",
+   "meaning": "해군의",
+   "en": "The museum displays old naval ships.",
+   "ko": "그 박물관에는 오래된 해군 함정들이 전시되어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도와 나침반을 들고 바다 위에서 길을 찾는 선장",
+ "imageCaption": "폭풍우 치는 바다에서 선장이 나침반을 보며 키를 돌리는 장면을 떠올려 보세요.",
+ "movieLineEn": "Can you navigate us through this storm, Captain?",
+ "movieLineKo": "선장님, 이 폭풍을 뚫고 우리를 안내할 수 있겠어요?",
+ "storyTitle": "길치 선장",
+ "story": "해적 선장은 바다를 navigate(항해하다)하는 데 자신이 있었어요. 최신 navigation(내비게이션)도 무시하고 직감으로만 갔죠. 결국 배는 navy(해군) 기지 한가운데 도착했어요. naval(해군의) 장교가 웃으며 말했어요. \"자수하러 오셨군요?\""
+}

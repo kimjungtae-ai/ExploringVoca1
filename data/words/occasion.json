@@ -1,0 +1,81 @@
+{
+ "word": "occasion",
+ "pos": "명사",
+ "phonetic": "[əˈkeɪʒn]",
+ "meaning": "때, 경우, 행사, 기회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "oc-",
+   "meaning": "~ 쪽으로, 아래로 (ob-의 변형)",
+   "note": "c 앞에서 ob-가 oc-로 바뀐 형태예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cas",
+   "meaning": "떨어지다 (fall)",
+   "note": "라틴어 cadere(떨어지다)의 과거분사 casus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>oc-</strong> (~쪽으로) + <strong>cas</strong> (떨어지다) + <strong>-ion</strong> = 마침 떨어진 일, 즉 일이 생긴 때라서 <strong>'경우, 때, 행사'</strong>가 되었어요.",
+ "historyTitle": "하늘에서 '떨어진' 기회",
+ "historyBody": "라틴어 occasio는 occidere(떨어지다, 일어나다)에서 온 말로, '적절한 때, 기회'라는 뜻이었어요. 일이 마침 내 앞에 '떨어지는' 순간이 기회인 거죠. 같은 뿌리 cadere에서 accident(사고), incident(사건), case(경우)가 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "occasional",
+   "pos": "형용사",
+   "meaning": "가끔의, 때때로의",
+   "en": "We have occasional rain showers in spring.",
+   "ko": "봄에는 가끔 소나기가 와요."
+  },
+  {
+   "word": "occasionally",
+   "pos": "부사",
+   "meaning": "가끔, 때때로",
+   "en": "I occasionally eat fast food on weekends.",
+   "ko": "나는 주말에 가끔 패스트푸드를 먹어요."
+  },
+  {
+   "word": "accident",
+   "pos": "명사",
+   "meaning": "사고, 우연",
+   "en": "Nobody was hurt in the car accident.",
+   "ko": "그 교통사고에서 아무도 다치지 않았어요."
+  },
+  {
+   "word": "incident",
+   "pos": "명사",
+   "meaning": "사건",
+   "en": "The police are investigating the incident.",
+   "ko": "경찰이 그 사건을 조사하고 있어요."
+  },
+  {
+   "word": "case",
+   "pos": "명사",
+   "meaning": "경우, 사건",
+   "en": "In that case, we should leave earlier.",
+   "ko": "그런 경우라면 우리는 더 일찍 출발해야 해요."
+  },
+  {
+   "word": "decay",
+   "pos": "동사 / 명사",
+   "meaning": "썩다 / 부패",
+   "en": "Sugar can cause tooth decay.",
+   "ko": "설탕은 충치를 일으킬 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 정장을 차려입고 특별한 행사에 참석하는 모습",
+ "imageCaption": "생일 파티나 졸업식처럼 특별한 날 케이크와 풍선이 가득한 장면을 떠올려 보세요.",
+ "movieLineEn": "This calls for a celebration. It's a special occasion!",
+ "movieLineKo": "이건 축하할 일이야. 특별한 날이잖아!",
+ "storyTitle": "특별한 날의 정장",
+ "story": "아빠는 special occasion(특별한 행사)에만 입는 정장을 꺼냈어요. occasionally(가끔) 입다 보니 단추가 안 잠겼죠. 억지로 잠그다 단추가 날아가는 accident(사고)가 났어요. 그 incident(사건) 이후로, 아빠의 정장은 '특별히 운동하는 날'에만 입게 되었답니다."
+}

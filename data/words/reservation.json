@@ -1,0 +1,74 @@
+{
+ "word": "reservation",
+ "pos": "명사",
+ "phonetic": "[ˌrezərˈveɪʃn]",
+ "meaning": "예약, 보류, (원주민) 보호 구역",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back)",
+   "note": "뒤에 따로 떼어 둔다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "serv",
+   "meaning": "지키다, 보관하다 (keep)",
+   "note": "라틴어 servare(지키다, 간직하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>serv</strong> (지키다) + <strong>-ation</strong> (것) = '따로 떼어 지켜 두는 것'에서 <strong>'예약'</strong>이 되었어요.",
+ "historyTitle": "자리를 지켜 두는 일",
+ "historyBody": "라틴어 reservare는 '뒤에 남겨 두다, 지켜 두다'라는 뜻이었어요. 여기서 reserve와 reservation이 나왔고, 호텔·식당 '예약'이라는 뜻은 20세기 초 미국 영어에서 널리 쓰이게 되었어요. 같은 servare에서 preserve, conserve, observe가 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reserve",
+   "pos": "동사 / 명사",
+   "meaning": "예약하다, 남겨 두다 / 비축",
+   "en": "I reserved a table for four.",
+   "ko": "나는 4인용 테이블을 예약했어요."
+  },
+  {
+   "word": "preserve",
+   "pos": "동사",
+   "meaning": "보존하다",
+   "en": "We must preserve our forests.",
+   "ko": "우리는 숲을 보존해야 해요."
+  },
+  {
+   "word": "conserve",
+   "pos": "동사",
+   "meaning": "아끼다, 보존하다",
+   "en": "Turn off the lights to conserve energy.",
+   "ko": "에너지를 아끼려면 불을 꺼요."
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "meaning": "관찰하다, 준수하다",
+   "en": "Scientists observe the stars every night.",
+   "ko": "과학자들은 매일 밤 별을 관찰해요."
+  },
+  {
+   "word": "reservoir",
+   "pos": "명사",
+   "meaning": "저수지, 저장소",
+   "en": "The town gets water from a nearby reservoir.",
+   "ko": "그 마을은 근처 저수지에서 물을 얻어요."
+  }
+ ],
+ "imageSense": "대표 의미: 식당 테이블 위에 놓인 '예약석' 팻말",
+ "imageCaption": "'Reserved'라고 적힌 작은 팻말이 빈자리를 지켜 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "I have a reservation under the name 'Batman.'",
+ "movieLineKo": "'배트맨' 이름으로 예약했는데요.",
+ "storyTitle": "예약의 달인",
+ "story": "고양이 나비는 생선 식당에 reservation(예약)을 했어요. 창가 자리를 reserve(남겨 두다)해 달라고 했죠. 다이어트 중이라 에너지를 conserve(아끼다)하며 메뉴만 observe(관찰하다)했어요. 그런데 식당 이름이 '생선이 먹는 고양이 식당'이었어요!"
+}

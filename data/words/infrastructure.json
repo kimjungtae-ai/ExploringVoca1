@@ -1,0 +1,74 @@
+{
+ "word": "infrastructure",
+ "pos": "명사",
+ "phonetic": "[ˈɪnfrəstrʌktʃər]",
+ "meaning": "사회 기반 시설, 기반, 인프라",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "infra-",
+   "meaning": "아래에 (below)",
+   "note": "라틴어 infra(아래에)에서 왔어요. 적외선 infrared의 infra예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "struct",
+   "meaning": "쌓다, 짓다 (build)",
+   "note": "라틴어 struere(쌓다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 것 (명사)",
+   "note": "결과물을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>infra-</strong> (아래에) + <strong>struct</strong> (쌓다) + <strong>-ure</strong> (~것) = '밑바닥에 깔아 쌓은 구조'라는 뜻에서 <strong>'기반 시설'</strong>이 되었습니다.",
+ "historyTitle": "철도에서 시작된 기반이라는 말",
+ "historyBody": "infrastructure는 19세기 말 프랑스에서 철도의 선로 밑 노반을 가리키던 말이에요. 20세기에 영어로 들어와 군사 기지, 그리고 도로·전기·수도처럼 사회를 받치는 기본 시설을 뜻하게 되었죠. 눈에 잘 안 보이지만 모든 것을 아래에서 받쳐 주는 구조랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "structure",
+   "pos": "명사 / 동사",
+   "meaning": "구조, 건축물 / 구조화하다",
+   "en": "The structure of the bridge is very strong.",
+   "ko": "그 다리의 구조는 매우 튼튼해요."
+  },
+  {
+   "word": "construct",
+   "pos": "동사",
+   "meaning": "건설하다 (함께 쌓다)",
+   "en": "They plan to construct a new library.",
+   "ko": "그들은 새 도서관을 지을 계획이에요."
+  },
+  {
+   "word": "destroy",
+   "pos": "동사",
+   "meaning": "파괴하다 (쌓은 것을 허물다)",
+   "en": "The storm destroyed many houses.",
+   "ko": "폭풍이 많은 집을 파괴했어요."
+  },
+  {
+   "word": "instruct",
+   "pos": "동사",
+   "meaning": "지시하다, 가르치다",
+   "en": "The coach instructed us to run faster.",
+   "ko": "코치님이 우리에게 더 빨리 뛰라고 지시하셨어요."
+  },
+  {
+   "word": "instrument",
+   "pos": "명사",
+   "meaning": "도구, 악기",
+   "en": "Can you play a musical instrument?",
+   "ko": "악기를 연주할 줄 아세요?"
+  }
+ ],
+ "imageSense": "대표 의미: 도시 아래로 거미줄처럼 뻗은 도로, 전선, 수도관",
+ "imageCaption": "화려한 빌딩 아래 땅속에 숨은 길과 관들을 떠올려 보세요. 도시를 밑에서 받쳐 주는 것, 그게 infrastructure예요.",
+ "movieLineEn": "Without power, the city's infrastructure will collapse.",
+ "movieLineKo": "전기가 없으면 도시의 기반 시설은 무너질 거야.",
+ "storyTitle": "개미 도시의 기반 시설",
+ "story": "개미 왕국은 새 도시를 construct(건설하다)하기로 했어요. 왕은 먼저 도로와 굴 같은 infrastructure(기반 시설)를 만들라고 instruct(지시하다)했죠. 튼튼한 structure(구조)가 완성되자 모두 환호했어요. 그런데 다음 날 아이가 물뿌리개로 놀다가 모두 destroy(파괴하다)했지 뭐예요."
+}

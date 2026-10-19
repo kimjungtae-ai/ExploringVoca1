@@ -1,0 +1,68 @@
+{
+ "word": "practice",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈpræktɪs]",
+ "meaning": "연습, 실천, 관행, 개업 / 연습하다, 실천하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pract",
+   "meaning": "행하다, 하다 (do)",
+   "note": "그리스어 prassein(행하다), praktike(실천)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ice",
+   "meaning": "~하는 일 (명사)",
+   "note": "프랑스어를 거쳐 굳어진 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>pract</strong> (행하다) + <strong>-ice</strong> (일) = 실제로 반복해서 하는 일, 곧 <strong>'연습, 실천, 관행'</strong>이에요.",
+ "historyTitle": "아는 것을 '행하는' 일",
+ "historyBody": "practice는 중세 라틴어 practicare(행하다)와 고대 프랑스어 practiser를 거쳐 1400년대 영어에 들어왔어요. 뿌리는 그리스어 praktike(실천적인 지식)예요. '실제로 한다'는 뜻에서 '반복해서 연습하다', '늘 해 오는 관행', 의사나 변호사의 '개업'이라는 뜻까지 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "practical",
+   "pos": "형용사",
+   "meaning": "실용적인, 현실적인",
+   "en": "These shoes are practical for long walks.",
+   "ko": "이 신발은 오래 걷기에 실용적이에요."
+  },
+  {
+   "word": "practically",
+   "pos": "부사",
+   "meaning": "사실상, 실제로",
+   "en": "The bus was practically empty at night.",
+   "ko": "밤에는 버스가 거의 텅 비어 있었어요."
+  },
+  {
+   "word": "impractical",
+   "pos": "형용사",
+   "meaning": "비실용적인",
+   "en": "High heels are impractical for hiking.",
+   "ko": "하이힐은 등산에 비실용적이에요."
+  },
+  {
+   "word": "practitioner",
+   "pos": "명사",
+   "meaning": "(의사·변호사 등) 개업자, 실천가",
+   "en": "She visited a medical practitioner for her cough.",
+   "ko": "그녀는 기침 때문에 의사를 찾아갔어요."
+  },
+  {
+   "word": "pragmatic",
+   "pos": "형용사",
+   "meaning": "실용적인, 실리적인",
+   "en": "We need a pragmatic solution, not a perfect one.",
+   "ko": "우리에겐 완벽한 해결책보다 실용적인 해결책이 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 밤 피아노 앞에서 같은 곡을 반복하는 학생",
+ "imageCaption": "같은 악보를 몇 번이고 반복해서 치는 학생의 모습을 떠올려 보세요.",
+ "movieLineEn": "Practice makes perfect, so do it again!",
+ "movieLineKo": "연습이 완벽을 만들어. 그러니 한 번 더!",
+ "storyTitle": "연습벌레 강아지",
+ "story": "강아지 초코는 '앉아'를 매일 practice(연습하다)했어요. 주인은 practical(실용적인) 간식 보상법을 썼죠. 한 달 뒤 초코는 practically(사실상) 천재견이 됐어요. 그런데 이제는 간식만 보면 혼자 앉고, 엎드리고, 구르기까지 해요. 주인보다 초코가 더 pragmatic(실리적인) 녀석이었대요!"
+}

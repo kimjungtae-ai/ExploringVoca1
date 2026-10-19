@@ -1,0 +1,75 @@
+{
+ "word": "sensitive",
+ "pos": "형용사",
+ "phonetic": "[ˈsensətɪv]",
+ "meaning": "민감한, 예민한, 세심한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sens",
+   "meaning": "느끼다 (feel)",
+   "note": "라틴어 'sentire(느끼다)'의 과거분사 'sensus'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-itive",
+   "meaning": "~하는 성질이 있는 (형용사)",
+   "note": "'~하는 경향이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sens</strong> (느끼다) + <strong>-itive</strong> (~하는 성질의) = 잘 느끼는, 즉 <strong>'민감한, 예민한'</strong>이에요.",
+ "historyTitle": "감각의 뿌리, sentire",
+ "historyBody": "라틴어 'sentire'는 '느끼다, 지각하다'라는 뜻이에요. 여기서 sense(감각), sentiment(감정), consent(함께 느끼다→동의하다) 같은 말들이 나왔어요. sensitive는 처음엔 '감각의'라는 뜻이었다가 '쉽게 느끼는, 예민한'으로 발전했어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sense",
+   "pos": "명사 / 동사",
+   "meaning": "감각, 의미 / 감지하다",
+   "en": "Dogs have a strong sense of smell.",
+   "ko": "개는 후각이 매우 발달했어요."
+  },
+  {
+   "word": "sensible",
+   "pos": "형용사",
+   "meaning": "분별 있는, 합리적인",
+   "en": "It was sensible to bring an umbrella today.",
+   "ko": "오늘 우산을 가져온 건 현명한 일이었어요."
+  },
+  {
+   "word": "sensation",
+   "pos": "명사",
+   "meaning": "느낌, 감각, 센세이션",
+   "en": "I had a strange sensation in my fingers.",
+   "ko": "손가락에 이상한 느낌이 들었어요."
+  },
+  {
+   "word": "sentiment",
+   "pos": "명사",
+   "meaning": "감정, 정서",
+   "en": "The song expressed the sentiment of young people.",
+   "ko": "그 노래는 젊은이들의 정서를 표현했어요."
+  },
+  {
+   "word": "consent",
+   "pos": "명사 / 동사",
+   "meaning": "동의 / 동의하다",
+   "en": "You need your parents' consent to join the trip.",
+   "ko": "여행에 참가하려면 부모님의 동의가 필요해요."
+  },
+  {
+   "word": "sensor",
+   "pos": "명사",
+   "meaning": "감지기, 센서",
+   "en": "The light turns on when the sensor detects movement.",
+   "ko": "센서가 움직임을 감지하면 불이 켜져요."
+  }
+ ],
+ "imageSense": "대표 의미: 찬물을 마시자 이가 시려 깜짝 놀라는 장면",
+ "imageCaption": "작은 바람에도 파르르 떨리는 민감한 센서나, 친구의 말 한마디에 상처받는 마음을 떠올려 보세요.",
+ "movieLineEn": "Be careful what you say. He's very sensitive about his hair.",
+ "movieLineKo": "말조심해. 걔는 자기 머리 얘기에 아주 예민해.",
+ "storyTitle": "예민한 로봇 청소기",
+ "story": "우리 집 로봇 청소기는 너무 sensitive(민감한)해요. sensor(센서)가 먼지 한 톨에도 반응하죠. 내가 과자를 흘리자 큰 sensation(센세이션)을 일으키며 울었어요. sensible(분별 있는) 엄마가 달래 주자 청소기가 말했죠. \"이번 달 과자 금지에 consent(동의)해 주세요.\""
+}

@@ -1,0 +1,61 @@
+{
+ "word": "prompt",
+ "pos": "형용사 / 동사 / 명사",
+ "phonetic": "[prɑːmpt]",
+ "meaning": "즉각적인, 신속한 / 촉발하다, 유도하다 / 지시문",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forth)",
+   "note": "앞으로 끄집어낸다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "(e)mpt",
+   "meaning": "꺼내다, 잡다 (take)",
+   "note": "라틴어 emere(잡다, 사다)에서 온 부분이에요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>(e)mpt</strong> (꺼내다) = '앞으로 꺼내 놓아 바로 쓸 수 있는'이라는 뜻에서 <strong>'즉각적인, 촉발하다'</strong>가 되었어요.",
+ "historyTitle": "바로 꺼내 쓸 준비가 된 상태",
+ "historyBody": "라틴어 promptus는 promere(앞으로 꺼내다)의 과거분사로 '준비된, 바로 쓸 수 있는'이라는 뜻이었어요. 15세기에 영어에 들어왔지요. 연극에서 배우에게 대사를 '앞에서 일러 주는' 사람을 prompter라고 부르는 것도 여기서 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "promptly",
+   "pos": "부사",
+   "meaning": "즉시, 정확히 제시간에",
+   "en": "The class started promptly at nine.",
+   "ko": "수업은 정확히 9시에 시작했어요."
+  },
+  {
+   "word": "example",
+   "pos": "명사",
+   "meaning": "예, 본보기",
+   "en": "Can you give me an example?",
+   "ko": "예를 하나 들어 줄 수 있나요?"
+  },
+  {
+   "word": "exempt",
+   "pos": "형용사",
+   "meaning": "면제된",
+   "en": "Children under five are exempt from the fee.",
+   "ko": "다섯 살 미만 어린이는 요금이 면제돼요."
+  },
+  {
+   "word": "premium",
+   "pos": "명사 / 형용사",
+   "meaning": "보험료, 할증금 / 고급의",
+   "en": "This shop sells premium coffee beans.",
+   "ko": "이 가게는 고급 커피 원두를 팔아요."
+  }
+ ],
+ "imageSense": "대표 의미: 벨이 울리자마자 바로 손을 드는 학생",
+ "imageCaption": "주머니에서 바로 꺼낼 준비가 되어 있는 모습처럼 '즉각적인'을 떠올려 보세요.",
+ "movieLineEn": "Thank you for your prompt reply.",
+ "movieLineKo": "신속한 답장 고마워요.",
+ "storyTitle": "번개 같은 답장",
+ "story": "준호는 늘 prompt(즉각적인) 답장으로 유명했어요. 메시지가 오면 promptly(즉시) 답했죠. 친구들은 그를 성실함의 example(본보기)이라며 숙제 검사에서 exempt(면제된) 해 주자고 했어요. 그런데 알고 보니 모든 답장이 'ㅇㅋ' 두 글자였답니다!"
+}

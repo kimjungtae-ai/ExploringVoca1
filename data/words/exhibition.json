@@ -1,0 +1,74 @@
+{
+ "word": "exhibition",
+ "pos": "명사",
+ "phonetic": "[ˌeksɪˈbɪʃn]",
+ "meaning": "전시회, 전시, (능력의) 발휘",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "사람들 앞에 밖으로 내놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hibit",
+   "meaning": "가지다, 잡다 (hold)",
+   "note": "라틴어 habere(가지다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 행위나 행사를 나타내는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>hibit</strong> (잡다) + <strong>-ion</strong> (명사) = '가진 것을 밖으로 내보이는 일'에서 <strong>'전시회'</strong>가 되었어요.",
+ "historyTitle": "세계를 놀라게 한 박람회",
+ "historyBody": "exhibition은 고대 프랑스어를 거쳐 후기 라틴어 'exhibitio(내보임, 제시)'에서 왔어요. 1851년 런던에서 열린 '대박람회(the Great Exhibition)'는 유리로 지은 수정궁에 세계 각국의 발명품을 전시해 큰 화제가 되었어요. 이후 exhibition은 대규모 전시회를 뜻하는 대표 단어가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "exhibit",
+   "pos": "동사 / 명사",
+   "meaning": "전시하다 / 전시품",
+   "en": "The gallery exhibits works by young artists.",
+   "ko": "그 갤러리는 젊은 화가들의 작품을 전시해요."
+  },
+  {
+   "word": "exhibitor",
+   "pos": "명사",
+   "meaning": "출품자, 전시자",
+   "en": "Each exhibitor gets a small booth.",
+   "ko": "출품자마다 작은 부스를 하나씩 받아요."
+  },
+  {
+   "word": "prohibition",
+   "pos": "명사",
+   "meaning": "금지",
+   "en": "There is a prohibition on fishing in this lake.",
+   "ko": "이 호수에서는 낚시가 금지되어 있어요."
+  },
+  {
+   "word": "inhibit",
+   "pos": "동사",
+   "meaning": "억제하다",
+   "en": "Cold weather can inhibit plant growth.",
+   "ko": "추운 날씨는 식물의 성장을 억제할 수 있어요."
+  },
+  {
+   "word": "habit",
+   "pos": "명사",
+   "meaning": "습관",
+   "en": "Biting your nails is a bad habit.",
+   "ko": "손톱을 물어뜯는 건 나쁜 습관이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 넓은 전시장에 작품들이 걸려 있고 사람들이 구경하는 장면",
+ "imageCaption": "많은 작품을 밖으로 내놓아 사람들이 둘러보는 행사를 떠올려 보세요.",
+ "movieLineEn": "This exhibition will change how people see art.",
+ "movieLineKo": "이 전시회는 사람들이 예술을 보는 방식을 바꿀 거야.",
+ "storyTitle": "로봇 전시회",
+ "story": "과학 exhibition(전시회)에 로봇이 출품됐어요. exhibitor(출품자)는 로봇이 청소를 잘한다며 exhibit(전시하다)했죠. 만지는 건 prohibition(금지) 대상이었어요. 그런데 로봇이 전시장을 너무 열심히 청소한 나머지, 다른 작품들까지 쓰레기통에 넣어 버렸대요!"
+}

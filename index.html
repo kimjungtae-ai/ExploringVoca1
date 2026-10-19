@@ -118,7 +118,7 @@
         <div>
           <h1 class="text-xl sm:text-2xl font-bold text-slate-800 tracking-tight flex items-center gap-2">
             영어 어원 탐험하기
-            <span class="text-xs bg-sunny-200 text-amber-800 font-semibold px-2 py-0.5 rounded-full font-hand text-sm">중학생 맞춤</span>
+            <span class="text-xs bg-sunny-200 text-amber-800 font-semibold px-2 py-0.5 rounded-full font-hand text-sm">수능 대비</span>
           </h1>
           <p class="text-xs text-slate-500 hidden sm:block">단어의 뿌리를 찾아 떠나는 신나는 어휘 여행 🧭</p>
         </div>
@@ -421,7 +421,7 @@
                 <i data-lucide="message-square-quote" class="w-3.5 h-3.5"></i> 추천 영상 대사
               </span>
               <span id="movieLevelNote" class="text-amber-700 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
-                ⚠️ A2 수준으로 확인된 영상은 아닙니다
+                ⚠️ 수준이 확인된 영상은 아닙니다
               </span>
             </div>
             <p id="movieLineEn" class="text-base sm:text-lg font-en font-bold text-slate-900 italic">
@@ -503,9 +503,9 @@
 
   <footer class="bg-cream-200/60 border-t border-cream-300 py-6 px-4 text-center mt-12">
     <div class="max-w-4xl mx-auto space-y-2 text-xs text-slate-500">
-      <p class="font-bold text-slate-700">「영어 어원 탐험하기」 - 신나는 중학 영어 어원 나침반</p>
+      <p class="font-bold text-slate-700">「영어 어원 탐험하기」 - 수능 영어 어원 나침반</p>
       <p>단어의 뿌리를 알면 낯선 단어도 친구처럼 반가워집니다. 무리한 억지 분해 없이 정확하고 쉬운 어원 지식만을 담았습니다.</p>
-      <p class="text-[11px] text-slate-400">Powered by Gemini AI Interactive Explorer • Educational Design for Middle School Students</p>
+      <p class="text-[11px] text-slate-400">Powered by Gemini AI Interactive Explorer • Educational Design for High School (CSAT) Students</p>
     </div>
   </footer>
 
@@ -728,7 +728,7 @@
       } else {
         // Query Gemini API to dynamically generate exact, high-quality, friendly Middle-School ESL breakdown
         try {
-          currentWordData = await fetchEtymologyFromGemini(word);
+          currentWordData = (await fetchFromDictionary(word)) || (await fetchEtymologyFromGemini(word));
           renderResults(currentWordData);
           loading.classList.add("hidden");
           results.classList.remove("hidden");
@@ -744,6 +744,16 @@
             : "단어 정보를 가져오지 못했어요. 잠시 뒤에 다시 눌러 주세요.");
         }
       }
+    }
+
+    // 미리 만든 수능 단어 사전(data/words/<단어>.json). 있으면 AI를 부르지 않고 바로 보여 줌.
+    async function fetchFromDictionary(word) {
+      try {
+        const res = await fetch("data/words/" + encodeURIComponent(word) + ".json");
+        if (!res.ok) return null;
+        const data = await res.json();
+        return data && data.word && Array.isArray(data.morphemes) ? data : null;
+      } catch (e) { return null; }
     }
 
     // Gemini는 서버(api/word.js)에서만 부름. API 키는 Vercel 환경 변수에만 있고 이 파일에는 절대 넣지 않음.

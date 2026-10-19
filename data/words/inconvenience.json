@@ -1,0 +1,87 @@
+{
+ "word": "inconvenience",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˌɪnkənˈviːniəns]",
+ "meaning": "불편, 애로 / 불편을 끼치다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "여럿이 함께 모인다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ven",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ience",
+   "meaning": "~한 상태 (명사)",
+   "note": "상태를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>con-</strong> (함께) + <strong>ven</strong> (오다) + <strong>-ience</strong> = '딱 맞게 모여 오지 않는 상태'라는 뜻에서 <strong>'불편'</strong>이 되었습니다.",
+ "historyTitle": "함께 와서 딱 맞는 것",
+ "historyBody": "라틴어 'convenire'는 '함께 오다, 잘 맞다, 어울리다'라는 뜻이었어요. 그래서 convenient는 '나에게 딱 맞는, 편리한'이 되었죠. 반대로 in-이 붙은 inconvenience는 상황이 잘 맞지 않는 불편함을 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "convenient",
+   "pos": "형용사",
+   "meaning": "편리한",
+   "en": "Online shopping is very convenient.",
+   "ko": "온라인 쇼핑은 아주 편리해요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회 (함께 모임)",
+   "en": "Shaking hands is a social convention.",
+   "ko": "악수는 사회적 관습이에요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "사건, 행사 (밖으로 나온 일)",
+   "en": "The festival is the biggest event of the year.",
+   "ko": "그 축제는 한 해의 가장 큰 행사예요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다 (먼저 와서 막다)",
+   "en": "Washing hands helps prevent colds.",
+   "ko": "손을 씻으면 감기 예방에 도움이 돼요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다, 끼어들다",
+   "en": "The teacher intervened to stop the fight.",
+   "ko": "선생님이 싸움을 말리려고 개입하셨어요."
+  },
+  {
+   "word": "avenue",
+   "pos": "명사",
+   "meaning": "거리, 대로 (다가오는 길)",
+   "en": "The shop is on Fifth Avenue.",
+   "ko": "그 가게는 5번가에 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 엘리베이터 고장으로 계단을 오르며 땀 흘리는 사람들",
+ "imageCaption": "늘 타던 엘리베이터에 '점검 중' 팻말이 붙은 장면을 떠올려 보세요. 그 짜증 나는 기분이 inconvenience예요.",
+ "movieLineEn": "We apologize for any inconvenience.",
+ "movieLineKo": "불편을 끼쳐 드려 죄송합니다.",
+ "storyTitle": "엘리베이터 점검의 날",
+ "story": "아파트 엘리베이터가 점검 중이라 큰 inconvenience(불편)가 생겼어요. 늘 convenient(편리한)하던 생활이 사라졌죠. 20층 할아버지는 운동이라며 웃었고, 관리소는 사고를 prevent(예방하다)하려는 거라고 했어요. 그런데 계단을 오른 주민들이 너무 건강해져 매달 계단 오르기 event(행사)가 생겼대요."
+}

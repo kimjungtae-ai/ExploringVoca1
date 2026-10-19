@@ -1,0 +1,68 @@
+{
+ "word": "resemble",
+ "pos": "동사",
+ "phonetic": "[rɪˈzembl]",
+ "meaning": "닮다, ~와 비슷하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "강조 (intensive)",
+   "note": "뜻을 더 세게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "semble",
+   "meaning": "~와 같다, 비슷해 보이다 (be like) ← similis",
+   "note": "라틴어 similis(비슷한)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (강조) + <strong>semble</strong> (비슷하다) = '아주 비슷해 보이다'에서 <strong>'닮다'</strong>가 되었어요.",
+ "historyTitle": "similar와 형제인 단어",
+ "historyBody": "resemble은 고대 프랑스어 resembler에서 왔는데, sembler(~처럼 보이다)는 라틴어 similare, 곧 similis(비슷한)에서 나왔어요. 그래서 similar, simulate와 같은 집안이랍니다. 14세기부터 영어에서 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "resemblance",
+   "pos": "명사",
+   "meaning": "닮음, 유사성",
+   "en": "There is a strong resemblance between the two sisters.",
+   "ko": "두 자매는 아주 많이 닮았어요."
+  },
+  {
+   "word": "similar",
+   "pos": "형용사",
+   "meaning": "비슷한",
+   "en": "My bag is similar to yours.",
+   "ko": "내 가방은 네 것과 비슷해."
+  },
+  {
+   "word": "similarity",
+   "pos": "명사",
+   "meaning": "유사점",
+   "en": "We found many similarities between the two stories.",
+   "ko": "우리는 두 이야기 사이에서 많은 유사점을 찾았어요."
+  },
+  {
+   "word": "simulate",
+   "pos": "동사",
+   "meaning": "모의 실험하다, 흉내 내다",
+   "en": "The program simulates driving in the rain.",
+   "ko": "그 프로그램은 빗길 운전을 모의 실험해요."
+  },
+  {
+   "word": "assimilate",
+   "pos": "동사",
+   "meaning": "동화되다, 흡수하다",
+   "en": "Immigrants often assimilate into a new culture.",
+   "ko": "이민자들은 흔히 새로운 문화에 동화돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 아빠와 아들이 거울 앞에서 똑같은 표정을 짓는 장면",
+ "imageCaption": "거울 앞에 나란히 선 부자가 눈, 코, 입이 꼭 닮은 모습을 떠올려 보세요.",
+ "movieLineEn": "You resemble my grandmother… when she was angry.",
+ "movieLineKo": "너 우리 할머니 닮았어… 화나셨을 때 말이야.",
+ "storyTitle": "닮은꼴 대회",
+ "story": "강아지 대회에서 몽이는 주인을 쏙 resemble(닮다)해서 1등을 노렸어요. 머리 모양도 similar(비슷한)하게 하고 표정도 simulate(흉내 내다)했죠. 심사위원은 놀라운 resemblance(닮음)라며 상을 줬어요. 그런데 상은 '주인을 가장 닮은 강아지'가 아니라 '강아지를 가장 닮은 주인' 상이었대요!"
+}

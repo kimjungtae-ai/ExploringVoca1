@@ -1,0 +1,41 @@
+{
+ "word": "lack",
+ "pos": "명사 / 동사",
+ "phonetic": "[læk]",
+ "meaning": "부족, 결핍 / ~이 없다, 부족하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "lack",
+   "meaning": "부족, 결점 (deficiency)",
+   "note": "중세 네덜란드어 또는 저지 독일어 lak(결점, 부족)에서 온 것으로 보여요."
+  }
+ ],
+ "summary": "중세 네덜란드어 <strong>lak</strong> (결점, 부족) = 있어야 할 것이 빠진 상태라서 <strong>'부족, ~이 없다'</strong>예요.",
+ "historyTitle": "바다 건너 온 '부족'",
+ "historyBody": "lack은 12세기쯤 영어에 나타난 말로, 중세 네덜란드어나 저지 독일어 lak('부족, 결점')에서 온 것으로 보여요. 정확히 어느 언어에서 들어왔는지는 사전마다 조금씩 달라요. 동사 lack은 'lack of ~'처럼 전치사 없이 바로 목적어를 쓰니(lack money) 수능 어법에서 조심하세요!",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "lacking",
+   "pos": "형용사",
+   "meaning": "부족한, 없는",
+   "en": "The plan was lacking in detail.",
+   "ko": "그 계획은 세부 사항이 부족했어요."
+  },
+  {
+   "word": "lackluster",
+   "pos": "형용사",
+   "meaning": "활기 없는, 시시한",
+   "en": "The team gave a lackluster performance last night.",
+   "ko": "그 팀은 어젯밤 시시한 경기를 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 텅 빈 냉장고 앞에서 한숨 쉬는 학생",
+ "imageCaption": "있어야 할 자리에 무엇인가가 빠져서 허전한 모습을 떠올려 보세요.",
+ "movieLineEn": "You don't lack talent. You lack sleep.",
+ "movieLineKo": "넌 재능이 부족한 게 아니야. 잠이 부족한 거지.",
+ "storyTitle": "요리왕의 비밀 재료",
+ "story": "요리왕 곰은 늘 뭔가 lack(부족하다)하다고 느꼈어요. 수프는 맛이 lacking(부족한) 상태였고, 손님들 반응도 lackluster(시시한)였죠. 곰은 lack(부족)한 재료를 찾아 산을 세 번 넘었어요. 마침내 깨달았어요. 부족한 건 재료가 아니라 소금 한 꼬집이었답니다!"
+}

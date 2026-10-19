@@ -1,0 +1,48 @@
+{
+ "word": "stem",
+ "pos": "명사 / 동사",
+ "phonetic": "[stem]",
+ "meaning": "줄기, 대 / ~에서 생겨나다(from), 막다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stem (stemn)",
+   "meaning": "나무줄기, 뱃머리 (trunk)",
+   "note": "고대 영어 stemn/stefn에서 온 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>stem</strong> (고대 영어 stemn: 나무줄기) = 꽃과 잎을 받치는 줄기에서, 줄기에서 가지가 뻗어 나오듯 <strong>'~에서 생겨나다'</strong>가 되었습니다.",
+ "historyTitle": "뿌리에서 가지로 이어지는 줄기",
+ "historyBody": "stem은 고대 영어 stemn, stefn(나무줄기, 뱃머리)에서 왔고 stand와 같은 게르만 뿌리와 관련 있다고 봐요. 줄기에서 잎과 꽃이 나오듯 'stem from(~에서 비롯되다)'이라는 표현이 생겼어요. '흐름을 막다'라는 뜻의 stem은 고대 노르드어 stemma에서 온 다른 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stem from",
+   "pos": "동사구",
+   "meaning": "~에서 비롯되다",
+   "en": "Many health problems stem from a lack of sleep.",
+   "ko": "많은 건강 문제는 수면 부족에서 비롯돼요."
+  },
+  {
+   "word": "stem cell",
+   "pos": "명사",
+   "meaning": "줄기세포",
+   "en": "Scientists study stem cells to treat diseases.",
+   "ko": "과학자들은 질병을 치료하려고 줄기세포를 연구해요."
+  },
+  {
+   "word": "stemmed",
+   "pos": "형용사",
+   "meaning": "줄기가 있는, 굽이 있는",
+   "en": "She drank juice from a long-stemmed glass.",
+   "ko": "그녀는 굽이 긴 유리잔으로 주스를 마셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃송이를 받치고 곧게 뻗은 초록색 줄기",
+ "imageCaption": "장미 꽃병 속 길고 곧은 초록 줄기를 떠올려 보세요.",
+ "movieLineEn": "All of this trouble stems from one tiny lie.",
+ "movieLineKo": "이 모든 문제는 작은 거짓말 하나에서 비롯된 거야.",
+ "storyTitle": "꽃집의 수상한 장미",
+ "story": "꽃집 주인은 줄기가 너무 긴 장미를 발견했어요. 장미의 stem(줄기)은 천장까지 닿아 있었죠. 과학자가 와서 stem cell(줄기세포)을 연구하더니 말했어요. \"이 문제는 영양제에서 stem from(비롯되다)한 거예요.\" 주인은 long-stemmed(줄기가 긴) 장미를 팔기로 했어요. 그런데 손님들이 꽃은 안 사고 줄기를 타고 2층 카페로 올라갔대요!"
+}

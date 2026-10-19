@@ -1,0 +1,73 @@
+{
+ "word": "height-adjustable",
+ "pos": "형용사",
+ "phonetic": "[ˈhaɪt əˌdʒʌstəbl]",
+ "meaning": "높이 조절이 가능한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "height",
+   "meaning": "높이 (height)",
+   "note": "고대 영어 hīehþu에서 왔고, high(높은)에서 나왔어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~쪽으로 (to)",
+   "note": "라틴어 접두사로, 무언가에 맞추어 가까이 간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "just",
+   "meaning": "옳은, 맞는 (right)",
+   "note": "라틴어 iustus(옳은)와 연결해 기억하면 쉬워요. 다만 실제 어원은 조금 복잡해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는",
+   "note": "동사에 붙어 '가능'을 나타내요."
+  }
+ ],
+ "summary": "<strong>height</strong> (높이) + <strong>adjust</strong> (맞추다) + <strong>-able</strong> (할 수 있는) = 높이를 맞출 수 있는이라는 뜻에서 <strong>'높이 조절이 가능한'</strong>이 되었어요.",
+ "historyTitle": "가까이 붙이기에서 '맞추기'로",
+ "historyBody": "height는 고대 영어 hīehþu에서 왔고 high와 한 가족이에요. adjust는 고대 프랑스어 ajoster(가까이 붙이다)에서 왔는데, 이는 라틴어 ad-(~에)와 iuxta(가까이에)로 거슬러 가요. 나중에 사람들이 juste(옳은, 정확한)와 연결해 '알맞게 맞추다'라는 뜻이 강해졌어요. 그래서 just를 '옳은'으로 나누는 건 기억용으로 보는 게 정확해요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "high",
+   "pos": "형용사 / 부사",
+   "meaning": "높은 / 높이",
+   "en": "The mountain is very high.",
+   "ko": "그 산은 아주 높아."
+  },
+  {
+   "word": "adjust",
+   "pos": "동사",
+   "meaning": "조절하다, 적응하다",
+   "en": "It took me a week to adjust to the new school.",
+   "ko": "새 학교에 적응하는 데 일주일이 걸렸어."
+  },
+  {
+   "word": "adjustment",
+   "pos": "명사",
+   "meaning": "조정, 적응",
+   "en": "We made a small adjustment to the plan.",
+   "ko": "우리는 계획을 조금 조정했어."
+  },
+  {
+   "word": "adjustable",
+   "pos": "형용사",
+   "meaning": "조절 가능한",
+   "en": "This chair has an adjustable back.",
+   "ko": "이 의자는 등받이를 조절할 수 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 버튼을 누르면 책상이 위아래로 올라갔다 내려가는 장면",
+ "imageCaption": "앉아서도, 서서도 공부할 수 있게 높이가 쭉쭉 바뀌는 책상을 떠올려 보세요.",
+ "movieLineEn": "This desk is height-adjustable, so you can stand while you work.",
+ "movieLineKo": "이 책상은 높이 조절이 돼서 서서 일할 수 있어.",
+ "storyTitle": "키 큰 기린의 책상",
+ "story": "기린은 새 학교에 adjust(적응하다)하기 힘들었어요. 책상이 너무 낮았거든요. 선생님이 height-adjustable(높이 조절 가능한) 책상을 주셨지만, 최대로 high(높이) 올려도 무릎 높이였죠. 결국 큰 adjustment(조정)가 필요했어요. 다음 날, 기린은 교실 대신 운동장 나무 위에 adjustable(조절 가능한) 칠판을 걸고 공부했대요!"
+}

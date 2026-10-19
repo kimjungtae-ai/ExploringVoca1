@@ -1,0 +1,94 @@
+{
+ "word": "cooperatively",
+ "pos": "부사",
+ "phonetic": "[koʊˈɑːpərətɪvli]",
+ "meaning": "협력하여, 협동적으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "함께 (together)",
+   "note": "con-이 모음 앞에서 줄어든 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "oper",
+   "meaning": "일하다 (work)",
+   "note": "라틴어 operari(일하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ative",
+   "meaning": "~하는 성질의 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "부사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (함께) + <strong>oper</strong> (일하다) + <strong>-ative</strong> + <strong>-ly</strong> = '함께 일하는 방식으로'에서 <strong>'협력하여'</strong>가 되었어요.",
+ "historyTitle": "오페라와 같은 뿌리, '일'",
+ "historyBody": "cooperate는 라틴어 cooperari(함께 일하다)에서 왔어요. co-(함께)와 operari(일하다)가 합쳐진 말이고, operari의 뿌리 opus(일, 작품)는 opera(오페라)에도 남아 있어요. 오페라도 원래 '작품'이라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cooperate",
+   "pos": "동사",
+   "meaning": "협력하다",
+   "en": "We need to cooperate to finish on time.",
+   "ko": "제시간에 끝내려면 협력해야 해요."
+  },
+  {
+   "word": "cooperative",
+   "pos": "형용사",
+   "meaning": "협력하는",
+   "en": "The cooperative child shared toys with others.",
+   "ko": "협조적인 아이는 다른 아이들과 장난감을 나눴어요."
+  },
+  {
+   "word": "cooperation",
+   "pos": "명사",
+   "meaning": "협력",
+   "en": "International cooperation is needed to protect the ocean.",
+   "ko": "바다를 보호하려면 국제적인 협력이 필요해요."
+  },
+  {
+   "word": "operate",
+   "pos": "동사",
+   "meaning": "작동하다, 운영하다, 수술하다",
+   "en": "The doctor will operate on his knee tomorrow.",
+   "ko": "의사가 내일 그의 무릎을 수술할 거예요."
+  },
+  {
+   "word": "operation",
+   "pos": "명사",
+   "meaning": "수술, 작동, 작전",
+   "en": "The operation was successful.",
+   "ko": "수술은 성공적이었어요."
+  },
+  {
+   "word": "opera",
+   "pos": "명사",
+   "meaning": "오페라",
+   "en": "We watched a famous opera in Italy.",
+   "ko": "우리는 이탈리아에서 유명한 오페라를 봤어요."
+  },
+  {
+   "word": "operator",
+   "pos": "명사",
+   "meaning": "조작자, 교환원",
+   "en": "The operator answered my call quickly.",
+   "ko": "교환원이 내 전화를 빨리 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 모둠 친구들이 역할을 나눠 포스터를 만드는 장면",
+ "imageCaption": "한 명은 그림, 한 명은 글씨, 한 명은 색칠을 맡은 모둠을 떠올려 보세요. 함께 맞춰 일하는 방식이 cooperatively예요.",
+ "movieLineEn": "Let's work cooperatively, or this ship will sink!",
+ "movieLineKo": "협력해서 일하자, 안 그러면 이 배는 가라앉아!",
+ "storyTitle": "오리 가족의 다리 건설",
+ "story": "오리 가족은 cooperatively(협력하여) 나무다리를 지었어요. 아빠는 기계를 operate(조작하다)하고, 엄마는 cooperation(협력)을 이끌었죠. 막내도 cooperative(협조적인) 태도로 나뭇가지를 날랐어요. 다리가 완성되자 모두 기뻐했는데, 생각해 보니 오리는 헤엄을 칠 수 있었대요!"
+}

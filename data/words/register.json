@@ -1,0 +1,74 @@
+{
+ "word": "register",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈredʒɪstər]",
+ "meaning": "등록하다, 기록하다, 나타내다 / 등록부, 명부",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 뒤로 (back)",
+   "note": "다시 가져와 남겨 둔다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gest (gis)",
+   "meaning": "나르다, 가져오다 (carry)",
+   "note": "라틴어 gerere(나르다)의 과거분사 gestus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것 (명사)",
+   "note": "여기서는 기록하는 장부를 가리켜요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>gis(t)</strong> (가져오다) + <strong>-er</strong> = 일어난 일을 다시 가져와 적어 두는 장부 → <strong>'등록부, 등록하다'</strong>예요.",
+ "historyTitle": "장부에 '다시 옮겨 적은' 기록",
+ "historyBody": "register는 중세 라틴어 registrum에서 왔고, 이는 라틴어 regesta(기록된 것들)에서 나왔어요. regesta는 regerere(다시 가져오다, 기록하다)의 과거분사로, re-(다시) + gerere(나르다, 가져오다)가 합쳐진 말이에요. 중요한 일을 장부에 '다시 옮겨 적은' 것이 등록부가 된 거죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "registration",
+   "pos": "명사",
+   "meaning": "등록, 신고",
+   "en": "Online registration for the contest ends on Friday.",
+   "ko": "대회 온라인 등록은 금요일에 마감돼요."
+  },
+  {
+   "word": "gesture",
+   "pos": "명사",
+   "meaning": "몸짓, 제스처",
+   "en": "She waved her hand as a friendly gesture.",
+   "ko": "그녀는 친근한 몸짓으로 손을 흔들었어요."
+  },
+  {
+   "word": "digest",
+   "pos": "동사",
+   "meaning": "소화하다, 이해하다",
+   "en": "It takes time to digest a big meal.",
+   "ko": "많이 먹은 음식을 소화하는 데는 시간이 걸려요."
+  },
+  {
+   "word": "suggest",
+   "pos": "동사",
+   "meaning": "제안하다, 암시하다",
+   "en": "The teacher suggested reading one book a week.",
+   "ko": "선생님은 일주일에 책 한 권 읽기를 제안하셨어요."
+  },
+  {
+   "word": "congestion",
+   "pos": "명사",
+   "meaning": "혼잡, 정체",
+   "en": "Traffic congestion is worst during rush hour.",
+   "ko": "교통 체증은 출퇴근 시간에 가장 심해요."
+  }
+ ],
+ "imageSense": "대표 의미: 접수처에서 이름을 적고 참가 등록을 하는 모습",
+ "imageCaption": "대회 접수 테이블에서 명단에 이름을 또박또박 적는 장면을 떠올려 보세요. 내 이름을 공식 장부에 올리는 게 register예요.",
+ "movieLineEn": "Did you register for the dragon race?",
+ "movieLineKo": "드래곤 경주에 등록했어?",
+ "storyTitle": "마라톤 등록 사건",
+ "story": "아빠는 건강을 위해 마라톤에 register(등록하다)했어요. 의사는 꾸준한 연습을 suggest(제안하다)했지만, 아빠는 '라면은 digest(소화하다)가 빨라' 하며 야식만 먹었죠. 대회 날 아빠는 결승선에서 gesture(몸짓)로 엄지를 들었어요. 알고 보니 registration(등록) 때 '5km 걷기'로 신청했더라고요."
+}

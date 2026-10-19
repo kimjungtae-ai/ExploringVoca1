@@ -1,0 +1,68 @@
+{
+ "word": "compare",
+ "pos": "동사",
+ "phonetic": "[kəmˈper]",
+ "meaning": "비교하다, 비유하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "둘 이상을 나란히 놓는다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "par",
+   "meaning": "동등한 (equal)",
+   "note": "라틴어 par(같은, 동등한)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>par</strong> (동등한) = '나란히 놓고 같은지 보다'라는 데서 <strong>'비교하다'</strong>가 되었습니다.",
+ "historyTitle": "같은 것끼리 나란히",
+ "historyBody": "라틴어 compar는 '서로 같은, 짝이 되는'이라는 뜻이었고, 여기서 comparare(나란히 놓다, 비교하다)가 나왔어요. par(동등한)는 골프의 '파(기준 타수)'와 pair(한 쌍)에도 남아 있어요. 고대 프랑스어 comparer를 거쳐 영어에 들어왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "comparison",
+   "pos": "명사",
+   "meaning": "비교",
+   "en": "In comparison with last year, prices are much higher.",
+   "ko": "작년과 비교하면 물가가 훨씬 높아요."
+  },
+  {
+   "word": "comparable",
+   "pos": "형용사",
+   "meaning": "비교할 만한, 비슷한",
+   "en": "The two phones are comparable in price.",
+   "ko": "두 휴대폰은 가격이 비슷해요."
+  },
+  {
+   "word": "comparative",
+   "pos": "형용사",
+   "meaning": "비교의, 상대적인",
+   "en": "She did a comparative study of two cultures.",
+   "ko": "그녀는 두 문화에 대한 비교 연구를 했어요."
+  },
+  {
+   "word": "pair",
+   "pos": "명사",
+   "meaning": "한 쌍, 짝",
+   "en": "I bought a new pair of sneakers.",
+   "ko": "나는 새 운동화 한 켤레를 샀어."
+  },
+  {
+   "word": "peer",
+   "pos": "명사",
+   "meaning": "또래, 동료",
+   "en": "Teenagers often care about what their peers think.",
+   "ko": "십대들은 종종 또래들이 어떻게 생각하는지 신경 써요."
+  }
+ ],
+ "imageSense": "대표 의미: 사과 두 개를 저울 양쪽에 올려놓고 무게를 재는 장면",
+ "imageCaption": "두 가지를 동등하게(par) 나란히(com-) 놓고 살펴보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Stop comparing me to my brother!",
+ "movieLineKo": "나를 형이랑 비교하지 좀 마!",
+ "storyTitle": "엄마 친구 아들",
+ "story": "엄마는 늘 나를 엄마 친구 아들과 compare(비교하다)하셨어요. 그 애와 나는 comparable(비교할 만한) 점이 하나도 없었죠. 그런데 그 애를 직접 만나 보니, 그 애도 늘 나와 comparison(비교)당한대요! 우리는 peer(또래)끼리 똑같은 피해자였어요."
+}

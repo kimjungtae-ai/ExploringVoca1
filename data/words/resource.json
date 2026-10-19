@@ -1,0 +1,61 @@
+{
+ "word": "resource",
+ "pos": "명사",
+ "phonetic": "[ˈriːsɔːrs]",
+ "meaning": "자원, 재원, 자료, 수단",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 일어난다는 뜻을 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "source",
+   "meaning": "솟아오르다 (rise) ← surgere",
+   "note": "라틴어 surgere(솟아오르다)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>source</strong> (솟아오르다) = '다시 솟아나게 해 주는 것'에서 <strong>'자원, 수단'</strong>이 되었어요.",
+ "historyTitle": "다시 솟아나는 샘물",
+ "historyBody": "resource는 프랑스어 ressource에서 왔는데, 이는 고대 프랑스어 resourdre(다시 일어나다)에서, 다시 라틴어 resurgere(다시 솟아오르다)에서 나왔어요. 처음엔 '곤경에서 벗어날 방법'이라는 뜻이었다가 '쓸 수 있는 자원'으로 넓어졌어요. source(근원, 샘)도 같은 surgere에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "source",
+   "pos": "명사",
+   "meaning": "근원, 출처, 원천",
+   "en": "The river is a major source of water for the city.",
+   "ko": "그 강은 도시의 주요 수원이에요."
+  },
+  {
+   "word": "resourceful",
+   "pos": "형용사",
+   "meaning": "수완 좋은, 지략 있는",
+   "en": "She is resourceful and always finds a solution.",
+   "ko": "그녀는 수완이 좋아서 항상 해결책을 찾아요."
+  },
+  {
+   "word": "surge",
+   "pos": "명사 / 동사",
+   "meaning": "급증 / 밀려들다",
+   "en": "There was a surge in online shopping last year.",
+   "ko": "작년에 온라인 쇼핑이 급증했어요."
+  },
+  {
+   "word": "resurgence",
+   "pos": "명사",
+   "meaning": "부활, 재기",
+   "en": "The town saw a resurgence of tourism.",
+   "ko": "그 마을은 관광업이 다시 살아났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 땅속에서 퐁퐁 솟아나는 샘물과 석유",
+ "imageCaption": "땅에서 계속 솟아나 우리를 도와주는 물, 석유, 나무를 떠올려 보세요.",
+ "movieLineEn": "Our greatest resource is not gold. It's each other.",
+ "movieLineKo": "우리의 가장 큰 자원은 금이 아니야. 바로 서로야.",
+ "storyTitle": "무인도의 자원왕",
+ "story": "무인도에 떨어진 준호는 resourceful(수완 좋은)한 소년이었어요. 코코넛을 resource(자원)로 쓰고, 샘물을 source(원천)로 삼았죠. 갑자기 파도가 surge(밀려들다)해 오자 뗏목을 만들었어요. 그런데 섬 반대편에 편의점이 있었어요!"
+}

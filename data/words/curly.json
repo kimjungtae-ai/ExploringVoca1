@@ -1,0 +1,47 @@
+{
+ "word": "curly",
+ "pos": "형용사",
+ "phonetic": "[ˈkɜːrli]",
+ "meaning": "곱슬곱슬한, 동그랗게 말린",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "curl",
+   "meaning": "곱슬머리, 말다 (curl)",
+   "note": "중세 영어 crulle(곱슬한)에서 왔고, 중세 네덜란드어 krul과 관련이 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~한, ~이 많은 (형용사)",
+   "note": "명사를 형용사로 바꿔 주는 접미사예요."
+  }
+ ],
+ "summary": "<strong>curl</strong> (말다, 곱슬) + <strong>-y</strong> (~한) = '동그랗게 말린'에서 <strong>'곱슬곱슬한'</strong>이 되었어요.",
+ "historyTitle": "글자 순서가 바뀐 단어",
+ "historyBody": "curl은 중세 영어 crulle(곱슬한)에서 왔고, 중세 네덜란드어 krul과 같은 계열의 게르만어예요. 원래 'crul'이었는데 r과 u의 순서가 바뀌어 curl이 되었어요. 여기에 형용사 접미사 -y가 붙어 curly가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "curl",
+   "pos": "명사/동사",
+   "meaning": "곱슬머리 / 동그랗게 말다",
+   "en": "The cat curled up on the sofa.",
+   "ko": "고양이가 소파 위에서 몸을 동그랗게 말았어요."
+  },
+  {
+   "word": "curler",
+   "pos": "명사",
+   "meaning": "헤어 롤, 고데기",
+   "en": "My mom uses curlers to make her hair wavy.",
+   "ko": "엄마는 머리를 웨이브 지게 하려고 헤어 롤을 쓰세요."
+  }
+ ],
+ "imageSense": "대표 의미: 스프링처럼 통통 튀는 곱슬머리",
+ "imageCaption": "손가락으로 당겼다 놓으면 '띠용' 하고 돌아오는 곱슬머리를 떠올려 보세요. 동그랗게 말린 모양이 curly예요.",
+ "movieLineEn": "The guy with the curly hair is the thief. Follow him!",
+ "movieLineKo": "곱슬머리 남자가 도둑이야. 따라가!",
+ "storyTitle": "곱슬머리 양의 고민",
+ "story": "양 뽀글이는 너무 curly(곱슬곱슬한) 털이 고민이었어요. 매일 아침 털이 curl(말리다)되어 빗질이 안 됐죠. 그래서 curler(고데기)로 쭉 펴 봤어요. 거울을 보니 완벽한 직모! 그런데 비가 오자 다시 두 배로 curly(곱슬곱슬한)해져서 구름처럼 둥둥 떠다녔대요."
+}

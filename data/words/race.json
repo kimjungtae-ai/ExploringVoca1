@@ -1,0 +1,48 @@
+{
+ "word": "race",
+ "pos": "명사 / 동사",
+ "phonetic": "[reɪs]",
+ "meaning": "경주, 경쟁, 인종, 민족 / 경주하다, 질주하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "race (← 고대 노르드어 rás)",
+   "meaning": "달리기, 돌진 (running, rush)",
+   "note": "'경주'의 race는 고대 노르드어에서 왔어요. '인종'의 race는 이탈리아어 razza에서 온 전혀 다른 단어예요."
+  }
+ ],
+ "summary": "'경주'의 <strong>race</strong>는 노르드어 <strong>rás</strong> (돌진)에서, '인종'의 <strong>race</strong>는 이탈리아어 <strong>razza</strong>에서 와서 철자만 같은 <strong>'경주 / 인종'</strong>이 되었어요.",
+ "historyTitle": "철자는 같지만 다른 두 단어",
+ "historyBody": "'경주'를 뜻하는 race는 바이킹의 언어인 고대 노르드어 rás(달리기, 돌진)에서 왔어요. '인종, 민족'을 뜻하는 race는 16세기에 프랑스어를 거쳐 이탈리아어 razza에서 들어왔는데, razza의 기원은 아직 확실하지 않아요. 그래서 두 뜻은 우연히 철자가 같아진 셈이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "racer",
+   "pos": "명사",
+   "meaning": "경주 선수, 경주용 차",
+   "en": "The young racer won his first competition.",
+   "ko": "그 젊은 레이서는 첫 대회에서 우승했어요."
+  },
+  {
+   "word": "racing",
+   "pos": "명사 / 형용사",
+   "meaning": "경주 / 경주용의",
+   "en": "Car racing is popular in Europe.",
+   "ko": "자동차 경주는 유럽에서 인기가 많아요."
+  },
+  {
+   "word": "racetrack",
+   "pos": "명사",
+   "meaning": "경주로",
+   "en": "The horses ran around the racetrack.",
+   "ko": "말들이 경주로를 따라 달렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 출발 신호와 함께 결승선을 향해 달리는 선수들",
+ "imageCaption": "바이킹이 바다를 향해 '돌진'하듯 달려 나가는 장면을 떠올려 보세요.",
+ "movieLineEn": "This isn't over. The race has just begun.",
+ "movieLineKo": "아직 안 끝났어. 경주는 이제 막 시작됐다고.",
+ "storyTitle": "느림보 레이서",
+ "story": "달팽이는 동물 race(경주)에 나간 유일한 racer(경주 선수)였어요. 다른 동물들은 모두 racing(경주) 연습이 귀찮다며 기권했거든요. 달팽이는 racetrack(경주로)을 사흘 동안 기어갔어요. 마침내 결승선에 도착하자 관중은 아무도 없었지만, gold medal(금메달)은 확실히 달팽이 차지였답니다!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "germ-free",
+ "pos": "형용사",
+ "phonetic": "[ˌdʒɜːrmˈfriː]",
+ "meaning": "무균의, 세균이 없는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "germ",
+   "meaning": "세균, 싹 (germ)",
+   "note": "라틴어 germen(싹)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-free",
+   "meaning": "~이 없는",
+   "note": "명사 뒤에 붙어 '그것이 없는'이라는 뜻을 만들어요. sugar-free처럼요."
+  }
+ ],
+ "summary": "<strong>germ</strong> (세균) + <strong>-free</strong> (~이 없는) = '세균이 없는'이라는 뜻에서 <strong>'무균의'</strong>가 되었습니다.",
+ "historyTitle": "'자유로운'이 '~이 없는'으로",
+ "historyBody": "germ은 라틴어 germen(싹)에서 왔고, 19세기 후반 '병균'이라는 뜻이 퍼졌어요. free는 원래 '자유로운'이지만, 명사 뒤에 붙으면 '~에서 벗어난, ~이 없는'이라는 뜻이 돼요. 그래서 germ-free는 '세균에서 자유로운', 즉 '무균의'가 된답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "germ",
+   "pos": "명사",
+   "meaning": "세균, 병균",
+   "en": "Soap removes germs from your hands.",
+   "ko": "비누는 손에서 세균을 없애 줘요."
+  },
+  {
+   "word": "sugar-free",
+   "pos": "형용사",
+   "meaning": "무설탕의",
+   "en": "My dad drinks sugar-free soda.",
+   "ko": "아빠는 무설탕 탄산음료를 드세요."
+  },
+  {
+   "word": "duty-free",
+   "pos": "형용사",
+   "meaning": "면세의",
+   "en": "We bought chocolate at a duty-free shop.",
+   "ko": "우리는 면세점에서 초콜릿을 샀어요."
+  },
+  {
+   "word": "carefree",
+   "pos": "형용사",
+   "meaning": "근심 걱정 없는",
+   "en": "Children seem so carefree when they play.",
+   "ko": "아이들은 놀 때 정말 걱정이 없어 보여요."
+  }
+ ],
+ "imageSense": "대표 의미: 하얀 방호복을 입은 연구원이 무균실에서 실험하는 장면",
+ "imageCaption": "모든 것이 반짝반짝 하얗고 깨끗한 실험실, 그곳이 바로 germ-free 공간이에요.",
+ "movieLineEn": "This room is totally germ-free. Don't touch anything!",
+ "movieLineKo": "이 방은 완전 무균 상태야. 아무것도 만지지 마!",
+ "storyTitle": "무균 소년의 하루",
+ "story": "수현이는 germ-free(무균의) 생활을 꿈꿨어요. germ(세균)이 무서워 sugar-free(무설탕의) 사탕만 먹고 매일 손을 씻었죠. 공항 duty-free(면세) 상점에서도 마스크를 세 겹이나 썼어요. 그러다 강아지가 얼굴을 핥아 버렸어요! 수현이는 비명을 지르다가, 결국 carefree(걱정 없는)하게 웃어 버렸대요."
+}

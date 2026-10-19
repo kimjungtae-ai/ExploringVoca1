@@ -1,0 +1,67 @@
+{
+ "word": "director",
+ "pos": "명사",
+ "phonetic": "[dəˈrektər]",
+ "meaning": "감독, 책임자, 관리자, 이사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "di-",
+   "meaning": "떨어져, 따로 (apart) — dis-",
+   "note": "라틴어 dirigere의 di-예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "rect",
+   "meaning": "곧게 이끌다 (guide, straighten)",
+   "note": "라틴어 regere(이끌다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-or",
+   "meaning": "~하는 사람 (명사)",
+   "note": "행동하는 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>di-</strong> + <strong>rect</strong> (곧게 이끌다) + <strong>-or</strong> (사람) = '바른 방향으로 이끄는 사람'에서 <strong>'감독, 책임자'</strong>가 되었어요.",
+ "historyTitle": "방향을 잡아 주는 사람",
+ "historyBody": "director는 라틴어 dirigere(방향을 잡다, 이끌다)에서 나온 말로, 원래 '안내자, 지도자'를 뜻했어요. 영화나 연극에서 배우와 스태프의 방향을 잡아 주는 '감독'이라는 뜻은 20세기 초부터 널리 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "direct",
+   "pos": "동사",
+   "meaning": "감독하다, 지시하다",
+   "en": "She directed her first movie at age 25.",
+   "ko": "그녀는 25살에 첫 영화를 감독했어요."
+  },
+  {
+   "word": "direction",
+   "pos": "명사",
+   "meaning": "방향, 지시",
+   "en": "Follow the directions on the box.",
+   "ko": "상자에 적힌 설명을 따르세요."
+  },
+  {
+   "word": "directly",
+   "pos": "부사",
+   "meaning": "직접, 곧장",
+   "en": "You can buy tickets directly from the theater.",
+   "ko": "극장에서 직접 표를 살 수 있어요."
+  },
+  {
+   "word": "correct",
+   "pos": "동사",
+   "meaning": "바로잡다",
+   "en": "The coach corrected my running form.",
+   "ko": "코치님이 내 달리기 자세를 바로잡아 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 의자에 앉아 확성기를 들고 '액션!'을 외치는 영화감독",
+ "imageCaption": "촬영장에서 모두의 방향을 정해 주는 감독의 모습을 떠올려 보세요.",
+ "movieLineEn": "Cut! The director wants one more take.",
+ "movieLineKo": "컷! 감독님이 한 번 더 찍재.",
+ "storyTitle": "꼬마 감독의 데뷔작",
+ "story": "다섯 살 동생이 director(감독)가 되어 가족 영화를 direct(감독하다)했어요. 아빠에게 direction(지시)을 내리며 \"더 슬프게!\"라고 외쳤죠. 아빠 연기를 계속 correct(바로잡다)하던 동생의 마지막 지시는 \"이제 directly(곧장) 아이스크림 사 와!\"였어요."
+}

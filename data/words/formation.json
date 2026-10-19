@@ -1,0 +1,68 @@
+{
+ "word": "formation",
+ "pos": "명사",
+ "phonetic": "[fɔːrˈmeɪʃən]",
+ "meaning": "형성, 구성, 대형, 생성물",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "form",
+   "meaning": "모양, 형태 (shape)",
+   "note": "라틴어 forma(모양)와 formare(모양을 만들다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것, 과정 (명사)",
+   "note": "동사를 '과정, 결과'를 뜻하는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>form</strong> (모양을 만들다) + <strong>-ation</strong> (과정) = '모양을 만들어 가는 과정'에서 <strong>'형성, 대형'</strong>이 되었습니다.",
+ "historyTitle": "로마의 '틀'에서 군대의 대형까지",
+ "historyBody": "라틴어 forma는 '모양, 틀'이라는 뜻이고, formatio는 '모양을 만드는 것'이었어요. 영어에서는 '형성'이라는 뜻 외에 군대나 비행기, 축구팀의 '대형'이라는 뜻으로도 쓰여요. 과학 지문에서는 'rock formation(암석층)', 'cloud formation(구름 생성)'으로 자주 나온답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "form",
+   "pos": "명사 / 동사",
+   "meaning": "형태, 서식 / 형성하다",
+   "en": "Please fill out this form with your name.",
+   "ko": "이 서식에 이름을 적어 주세요."
+  },
+  {
+   "word": "inform",
+   "pos": "동사",
+   "meaning": "알리다 (모양을 갖춰 전하다)",
+   "en": "The teacher informed us about the change in schedule.",
+   "ko": "선생님이 일정 변경에 대해 알려 주셨어요."
+  },
+  {
+   "word": "transform",
+   "pos": "동사",
+   "meaning": "변형시키다, 바꾸다",
+   "en": "The volunteers transformed the empty lot into a garden.",
+   "ko": "자원봉사자들이 빈터를 정원으로 바꿔 놓았어요."
+  },
+  {
+   "word": "reform",
+   "pos": "동사 / 명사",
+   "meaning": "개혁하다 / 개혁",
+   "en": "The government plans to reform the education system.",
+   "ko": "정부는 교육 제도를 개혁할 계획이에요."
+  },
+  {
+   "word": "uniform",
+   "pos": "명사 / 형용사",
+   "meaning": "교복, 제복 / 똑같은",
+   "en": "Our school uniform is navy blue.",
+   "ko": "우리 학교 교복은 남색이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 하늘을 V자 대형으로 나는 철새 떼",
+ "imageCaption": "가을 하늘에 철새들이 V자 모양을 이루어 날아가는 모습을 떠올리면 formation이 그려져요.",
+ "movieLineEn": "Get into formation! The enemy is coming!",
+ "movieLineKo": "대형을 갖춰라! 적이 오고 있다!",
+ "storyTitle": "오리 군단의 대형",
+ "story": "오리 군단은 완벽한 V자 formation(대형)을 transform(바꾸다)하려고 회의했어요. 대장은 하트 모양 form(형태)으로 reform(개혁하다)하자고 했죠. 모두 똑같은 uniform(제복)을 입고 연습했어요. 그런데 대장이 방향을 inform(알리다)하는 걸 잊어서, 하트는 하늘에서 엉망진창 낙서가 되었대요!"
+}

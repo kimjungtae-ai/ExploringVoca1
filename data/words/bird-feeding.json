@@ -1,0 +1,74 @@
+{
+ "word": "bird-feeding",
+ "pos": "명사",
+ "phonetic": "[ˈbɜːrd fiːdɪŋ]",
+ "meaning": "새 모이 주기, 새에게 먹이 주기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bird",
+   "meaning": "새 (bird)",
+   "note": "고대 영어 bridd(새끼 새)에서 왔어요. 원래는 '어린 새'만 가리켰어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "feed",
+   "meaning": "먹이다 (feed)",
+   "note": "고대 영어 fēdan에서 왔고, food(음식)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하기, ~하는 일",
+   "note": "동사를 명사처럼 만들어 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>bird</strong> (새) + <strong>feed</strong> (먹이다) + <strong>-ing</strong> (~하기) = <strong>'새에게 모이 주기'</strong>라는 뜻이에요.",
+ "historyTitle": "새끼 새에서 모든 새로",
+ "historyBody": "고대 영어에서 새는 보통 fugol(오늘날 fowl)이라고 했고, bridd는 '새끼 새'를 뜻했어요. 중세 영어를 거치며 bird가 모든 새를 가리키게 되었죠. feed는 고대 영어 fēdan에서 왔는데, food(음식)와 같은 게르만어 뿌리에서 나온 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "feed",
+   "pos": "동사",
+   "meaning": "먹이를 주다, 먹이다",
+   "en": "Please feed the cat while I'm away.",
+   "ko": "내가 없는 동안 고양이 밥 좀 줘."
+  },
+  {
+   "word": "food",
+   "pos": "명사",
+   "meaning": "음식, 먹이",
+   "en": "We shared our food with the hungry hikers.",
+   "ko": "우리는 배고픈 등산객들과 음식을 나눴어."
+  },
+  {
+   "word": "feeder",
+   "pos": "명사",
+   "meaning": "(새) 모이통, 먹이통",
+   "en": "Grandpa hung a bird feeder outside the window.",
+   "ko": "할아버지가 창밖에 새 모이통을 매다셨어."
+  },
+  {
+   "word": "foster",
+   "pos": "동사",
+   "meaning": "기르다, 육성하다",
+   "en": "Reading books can foster creativity in children.",
+   "ko": "책 읽기는 아이들의 창의력을 길러 줄 수 있어요."
+  },
+  {
+   "word": "birdwatching",
+   "pos": "명사",
+   "meaning": "새 관찰, 탐조",
+   "en": "Birdwatching is a peaceful hobby for weekends.",
+   "ko": "새 관찰은 주말에 하기 좋은 평화로운 취미야."
+  }
+ ],
+ "imageSense": "대표 의미: 공원에서 손바닥에 모이를 올려 새에게 주는 장면",
+ "imageCaption": "겨울 공원 벤치에서 손 위의 씨앗을 참새가 콕콕 쪼아 먹는 모습을 떠올려 보세요.",
+ "movieLineEn": "Bird-feeding is allowed here, but only with seeds!",
+ "movieLineKo": "여기선 새 모이 주기가 허용돼, 하지만 씨앗만!",
+ "storyTitle": "모이통 도둑의 정체",
+ "story": "할머니는 bird-feeding(새 모이 주기)을 좋아해서 정원에 feeder(모이통)를 달았어요. 그런데 매일 아침 모이가 사라졌죠. 새에게 feed(먹이를 주다)한 건데 누가 먹은 걸까요? 몰래 지켜보니 범인은 다람쥐! 할머니는 다람쥐용 food(먹이) 그릇을 따로 만들어 주셨답니다."
+}

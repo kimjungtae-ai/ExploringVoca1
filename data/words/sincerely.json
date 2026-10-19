@@ -1,0 +1,54 @@
+{
+ "word": "sincerely",
+ "pos": "부사",
+ "phonetic": "[sɪnˈsɪrli]",
+ "meaning": "진심으로, 진정으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sincere",
+   "meaning": "진실된 (sincere)",
+   "note": "라틴어 'sincerus(순수한, 깨끗한)'에서 왔지만 그 이전 기원은 확실하지 않아요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>sincere</strong> (순수한, 진실된) + <strong>-ly</strong> (~하게) = <strong>'진심으로'</strong>예요.",
+ "historyTitle": "'밀랍 없이'는 사실이 아니에요",
+ "historyBody": "라틴어 'sincerus'는 '순수한, 섞이지 않은, 깨끗한'을 뜻했어요. 흔히 'sine cera(밀랍 없이)'에서 왔다는 이야기가 돌지만, 이건 근거 없는 민간 어원이에요. 진짜 기원은 학자들 사이에서도 확실하지 않아요. 편지 끝에 쓰는 'Sincerely yours'는 '진심을 담아'라는 뜻이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "sincere",
+   "pos": "형용사",
+   "meaning": "진실된, 진심 어린",
+   "en": "Please accept my sincere apology.",
+   "ko": "제 진심 어린 사과를 받아 주세요."
+  },
+  {
+   "word": "sincerity",
+   "pos": "명사",
+   "meaning": "진심, 성실",
+   "en": "I never doubted the sincerity of his words.",
+   "ko": "나는 그의 말의 진심을 의심한 적이 없어요."
+  },
+  {
+   "word": "insincere",
+   "pos": "형용사",
+   "meaning": "진실하지 못한",
+   "en": "Her smile seemed insincere to me.",
+   "ko": "그녀의 미소는 내게 진심이 아닌 것처럼 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손편지 마지막 줄에 \"Sincerely\"라고 꾹꾹 눌러 쓰는 장면",
+ "imageCaption": "가슴에 손을 얹고 상대의 눈을 보며 진심으로 고마움을 전하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I sincerely hope we meet again someday.",
+ "movieLineKo": "언젠가 우리가 다시 만나길 진심으로 바라.",
+ "storyTitle": "진심 어린 사과 편지",
+ "story": "동생 과자를 몰래 먹은 나는 sincere(진심 어린) 사과 편지를 썼어요. 끝에 \"Sincerely(진심을 담아)\"라고 쓰고 sincerely(진심으로) 고개를 숙였죠. 동생은 내 sincerity(진심)에 감동했어요. 그런데 편지 봉투가 바로 그 과자 봉지라서 다시 혼났어요."
+}

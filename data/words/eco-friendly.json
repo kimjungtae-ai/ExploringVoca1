@@ -1,0 +1,74 @@
+{
+ "word": "eco-friendly",
+ "pos": "형용사",
+ "phonetic": "[ˌiːkoʊˈfrendli]",
+ "meaning": "친환경적인, 환경친화적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "eco-",
+   "meaning": "생태, 환경 (ecology)",
+   "note": "ecology(생태학)의 줄임말로, 그리스어 oikos(집)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "friend",
+   "meaning": "친구 (friend)",
+   "note": "고대 영어 freond(사랑하는 사람)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~한 (형용사형)",
+   "note": "friend에 붙어 '친근한, 우호적인'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>eco-</strong> (환경) + <strong>friendly</strong> (친근한) = '환경에게 친구 같은'이라는 뜻에서 <strong>'친환경적인'</strong>이 되었어요.",
+ "historyTitle": "지구라는 집과 친구 되기",
+ "historyBody": "eco-는 그리스어 oikos(집, 살림)에서 온 ecology(생태학)를 줄인 말이에요. friend는 고대 영어 freond에서 왔는데, freon(사랑하다)의 현재분사로 '사랑하는 사람'이라는 뜻이었답니다. eco-friendly는 환경 문제가 주목받던 20세기 후반에 널리 쓰이기 시작했어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ecology",
+   "pos": "명사",
+   "meaning": "생태(학)",
+   "en": "Students learned about the ecology of the wetland.",
+   "ko": "학생들은 습지의 생태에 대해 배웠어요."
+  },
+  {
+   "word": "ecosystem",
+   "pos": "명사",
+   "meaning": "생태계",
+   "en": "Plastic waste harms the ocean ecosystem.",
+   "ko": "플라스틱 쓰레기는 해양 생태계를 해쳐요."
+  },
+  {
+   "word": "economy",
+   "pos": "명사",
+   "meaning": "경제 (집안 살림의 관리)",
+   "en": "Tourism is important to the local economy.",
+   "ko": "관광은 지역 경제에 중요해요."
+  },
+  {
+   "word": "friendly",
+   "pos": "형용사",
+   "meaning": "친절한, 우호적인",
+   "en": "The new neighbors are very friendly.",
+   "ko": "새 이웃들은 아주 친절해요."
+  },
+  {
+   "word": "user-friendly",
+   "pos": "형용사",
+   "meaning": "사용하기 쉬운",
+   "en": "This app is simple and user-friendly.",
+   "ko": "이 앱은 간단하고 사용하기 쉬워요."
+  }
+ ],
+ "imageSense": "대표 의미: 장바구니와 텀블러를 들고 장을 보는 사람",
+ "imageCaption": "비닐봉지 대신 천 가방, 일회용 컵 대신 텀블러를 쓰는 모습을 떠올려 보세요.",
+ "movieLineEn": "Even our spaceship is eco-friendly. It runs on sunlight!",
+ "movieLineKo": "우리 우주선도 친환경이야. 햇빛으로 움직이거든!",
+ "storyTitle": "친환경 소풍의 반전",
+ "story": "우리 반은 eco-friendly(친환경적인) 소풍을 가기로 했어요. ecosystem(생태계)을 지키려고 일회용품도 없앴죠. 선생님은 ecology(생태학) 수업도 해 주셨어요. 점심시간, 모두 friendly(친절한) 미소로 도시락을 열었는데… 숟가락까지 다 빼먹고 왔지 뭐예요! 결국 다 같이 나뭇가지로 김밥을 먹었답니다."
+}

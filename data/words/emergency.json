@@ -1,0 +1,74 @@
+{
+ "word": "emergency",
+ "pos": "명사",
+ "phonetic": "[iˈmɜːrdʒənsi]",
+ "meaning": "비상(사태), 긴급 상황, 응급",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex(밖으로)가 짧아진 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "merg",
+   "meaning": "잠기다, 담그다 (dip, sink)",
+   "note": "라틴어 mergere(물에 담그다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ency",
+   "meaning": "~하는 상태 (명사형)",
+   "note": "상태를 나타내는 명사 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>merg</strong> (잠기다) + <strong>-ency</strong> (상태) = '물속에서 갑자기 불쑥 떠오른 일'이라는 뜻에서 <strong>'비상사태'</strong>가 되었어요.",
+ "historyTitle": "물 위로 불쑥 떠오른 사건",
+ "historyBody": "라틴어 emergere는 '물속에서 떠오르다'라는 뜻이었어요. 그래서 emerge는 '나타나다'가 되었고, emergency는 '예상치 못하게 갑자기 나타난 일'을 뜻하게 되었어요. 17세기 무렵부터 '급히 대처해야 하는 위기'라는 오늘날의 뜻으로 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "emerge",
+   "pos": "동사",
+   "meaning": "나타나다, 드러나다",
+   "en": "The sun emerged from behind the clouds.",
+   "ko": "해가 구름 뒤에서 나타났어요."
+  },
+  {
+   "word": "emergence",
+   "pos": "명사",
+   "meaning": "출현, 등장",
+   "en": "The emergence of smartphones changed our lives.",
+   "ko": "스마트폰의 등장은 우리 삶을 바꿨어요."
+  },
+  {
+   "word": "merge",
+   "pos": "동사",
+   "meaning": "합치다, 합병하다",
+   "en": "The two companies merged last year.",
+   "ko": "두 회사는 작년에 합병했어요."
+  },
+  {
+   "word": "submerge",
+   "pos": "동사",
+   "meaning": "물속에 잠기다, 잠수하다",
+   "en": "The flood submerged the whole village.",
+   "ko": "홍수로 마을 전체가 물에 잠겼어요."
+  },
+  {
+   "word": "immerse",
+   "pos": "동사",
+   "meaning": "담그다, 몰두하게 하다",
+   "en": "She immersed herself in the novel.",
+   "ko": "그녀는 그 소설에 푹 빠졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 사이렌을 울리며 달려가는 구급차",
+ "imageCaption": "빨간 불빛이 번쩍이고 사이렌이 울리는 구급차가 도로를 가르는 장면을 떠올려 보세요.",
+ "movieLineEn": "This is an emergency! Everyone, get out now!",
+ "movieLineKo": "비상 상황이야! 모두 지금 당장 나가!",
+ "storyTitle": "한밤중의 비상사태",
+ "story": "새벽 2시, 동생이 외쳤어요. \"emergency(비상사태)야!\" 온 가족이 놀라 방에서 emerge(나타나다)했죠. 아빠는 손전등을, 엄마는 구급상자를 들고 나왔어요. 동생은 울먹이며 말했어요. \"내 젤리가 우유에 submerge(잠기다)됐어!\" 가족 모두 젤리 구조에 immerse(몰두하다)했답니다."
+}
