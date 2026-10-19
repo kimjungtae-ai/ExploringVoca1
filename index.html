@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Gowun+Dodum&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
   <!-- Lucide Icons -->
-  <script src="https://unpkg.com/lucide@latest"></script>
+  <script src="https://unpkg.com/lucide@0.460.0"></script>
 
   <script>
     tailwind.config = {
@@ -601,6 +601,11 @@
     let currentSearchedWord = "transport";
     let currentWordData = null;
 
+    // 아이콘 스크립트를 못 불러와도 단어 카드는 그대로 보이게
+    function refreshIcons() {
+      try { if (window.lucide) window.lucide.createIcons(); } catch (e) { console.warn("icons", e); }
+    }
+
     function renderSvgPlaceholder(word) {
       const spinner = document.getElementById("imageLoadingSpinner");
       const imgTag = document.getElementById("wordMainImage");
@@ -643,7 +648,7 @@
 
     // Initialize Lucide icons on load
     window.onload = function() {
-      lucide.createIcons();
+      refreshIcons();
       // Auto-load transport on initial launch for demonstration
       executeEtymologySearch("transport");
     };
@@ -722,7 +727,7 @@
           renderResults(currentWordData);
           loading.classList.add("hidden");
           results.classList.remove("hidden");
-          lucide.createIcons();
+          refreshIcons();
           generateWordIllustration(word, currentWordData.imageSense);
         }, 500);
       } else {
@@ -732,7 +737,7 @@
           renderResults(currentWordData);
           loading.classList.add("hidden");
           results.classList.remove("hidden");
-          lucide.createIcons();
+          refreshIcons();
           generateWordIllustration(word, currentWordData.imageSense);
         } catch (err) {
           // 연결 오류를 "나누기 어려운 단어"처럼 보이게 하지 않고, 사실대로 알려 줌
@@ -746,19 +751,30 @@
       }
     }
 
+    // GitHub Pages·미리보기처럼 Vercel 밖에서 열면 서버 함수(/api)가 없으므로 Vercel 주소로 보냄.
+    // Vercel 프로젝트 주소가 다르면 이 값만 바꾸면 됨.
+    const VERCEL_URL = "https://exploringvoca1.vercel.app";
+    const ON_VERCEL = /\.vercel\.app$/.test(location.hostname);
+    const API_BASE = ON_VERCEL ? "" : VERCEL_URL;
+
     // 미리 만든 수능 단어 사전(data/words/<단어>.json). 있으면 AI를 부르지 않고 바로 보여 줌.
     async function fetchFromDictionary(word) {
-      try {
-        const res = await fetch("data/words/" + encodeURIComponent(word.replace(/ /g, "_")) + ".json");  // 숙어는 빈칸을 _로 (sign up for → sign_up_for.json)
-        if (!res.ok) return null;
-        const data = await res.json();
-        return data && data.word && Array.isArray(data.morphemes) ? data : null;
-      } catch (e) { return null; }
+      const file = encodeURIComponent(word.replace(/ /g, "_")) + ".json";  // 숙어는 빈칸을 _로 (sign up for → sign_up_for.json)
+      // 같은 곳의 사전을 먼저 보고, 미리보기처럼 사전 파일이 옆에 없으면 Vercel에 있는 사전을 봄
+      for (const base of ON_VERCEL ? ["data/words/"] : ["data/words/", VERCEL_URL + "/data/words/"]) {
+        try {
+          const res = await fetch(base + file);
+          if (!res.ok) continue;
+          const data = await res.json();
+          if (data && data.word && Array.isArray(data.morphemes)) return data;
+        } catch (e) { /* 다음 곳에서 찾기 */ }
+      }
+      return null;
     }
 
     // Gemini는 서버(api/word.js)에서만 부름. API 키는 Vercel 환경 변수에만 있고 이 파일에는 절대 넣지 않음.
     async function fetchEtymologyFromGemini(word) {
-      const res = await fetch("/api/word?w=" + encodeURIComponent(word));
+      const res = await fetch(API_BASE + "/api/word?w=" + encodeURIComponent(word));
       let data = null;
       try { data = await res.json(); } catch (e) {}
       if (!res.ok) throw new Error((data && data.code) || ("api_" + res.status));
@@ -949,12 +965,35 @@
 
       // Check if we have a curated high-res photo for the word
       if (CURATED_IMAGE_RESOURCES[cleanWord]) {
+        imageRequestToken++;
         imgTag.src = CURATED_IMAGE_RESOURCES[cleanWord];
         return;
       }
 
-      // Wikipedia / Wikimedia Commons open educational images or keyword direct resolution
-      imgTag.src = `https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&auto=format&fit=crop&q=80`;
+      // 단어마다 Wikimedia Commons(자유 이용 사진)에서 찾아 보여 줌. 못 찾으면 글자 그림으로.
+      const token = ++imageRequestToken;
+      findCommonsImage(cleanWord).then(url => {
+        if (token !== imageRequestToken) return;  // 그사이 다른 단어를 찾았으면 무시
+        if (url) imgTag.src = url;
+        else renderSvgPlaceholder(cleanWord);
+      });
+    }
+
+    let imageRequestToken = 0;
+    async function findCommonsImage(query) {
+      const api = "https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*"
+        + "&generator=search&gsrnamespace=6&gsrlimit=10&gsrsearch=" + encodeURIComponent(query + " filetype:bitmap")
+        + "&prop=imageinfo&iiprop=url|mime&iiurlwidth=600";
+      try {
+        const res = await fetch(api);
+        if (!res.ok) return null;
+        const pages = Object.values(((await res.json()).query || {}).pages || {}).sort((a, b) => a.index - b.index);
+        for (const p of pages) {
+          const info = p.imageinfo && p.imageinfo[0];
+          if (info && /image\/(jpeg|png)/.test(info.mime) && info.thumburl) return info.thumburl;
+        }
+      } catch (e) {}
+      return null;
     }
   </script>
 </body>
