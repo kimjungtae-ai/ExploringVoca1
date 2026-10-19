@@ -1,0 +1,68 @@
+{
+ "word": "dust brush",
+ "pos": "명사구",
+ "phonetic": "[dʌst brʌʃ]",
+ "meaning": "먼지떨이 솔, 먼지 털이개",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "dust",
+   "meaning": "먼지 (dust)",
+   "note": "공기 중이나 물건 위에 쌓이는 아주 작은 가루예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "brush",
+   "meaning": "솔, 붓 (brush)",
+   "note": "털이 달린 도구로 쓸거나 문지를 때 써요."
+  }
+ ],
+ "summary": "<strong>dust</strong> (먼지) + <strong>brush</strong> (솔) = '먼지를 털어 내는 솔'에서 <strong>'먼지떨이 솔'</strong>",
+ "historyTitle": "덤불에서 온 brush",
+ "historyBody": "dust는 고대 영어 'dūst(먼지, 가루)'에서 온 게르만어 단어예요. brush는 고대 프랑스어 'broce(덤불, 잔가지)'에서 왔다고 보는데, 잔가지를 묶어 쓸던 데서 '솔'이라는 뜻이 생긴 것으로 여겨져요. 그래서 brush에는 지금도 '덤불'이라는 뜻이 남아 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "duster",
+   "pos": "명사",
+   "meaning": "먼지떨이, 걸레",
+   "en": "She cleaned the shelves with a duster.",
+   "ko": "그녀는 먼지떨이로 선반을 청소했어."
+  },
+  {
+   "word": "dusty",
+   "pos": "형용사",
+   "meaning": "먼지투성이의",
+   "en": "The old books were very dusty.",
+   "ko": "오래된 책들은 먼지투성이였어."
+  },
+  {
+   "word": "toothbrush",
+   "pos": "명사",
+   "meaning": "칫솔",
+   "en": "Change your toothbrush every three months.",
+   "ko": "칫솔은 석 달마다 바꿔."
+  },
+  {
+   "word": "brush off",
+   "pos": "구동사",
+   "meaning": "털어 내다, 무시하다",
+   "en": "He brushed off the snow from his coat.",
+   "ko": "그는 코트의 눈을 털어 냈어."
+  },
+  {
+   "word": "vacuum cleaner",
+   "pos": "명사구",
+   "meaning": "진공청소기",
+   "en": "Mom bought a new vacuum cleaner.",
+   "ko": "엄마가 새 진공청소기를 사셨어."
+  }
+ ],
+ "imageSense": "대표 의미: 키보드 사이의 먼지를 작은 솔로 쓸어 내는 장면",
+ "imageCaption": "책장 위 뽀얀 먼지를 부드러운 솔로 살살 털어 내는 모습을 떠올려 보세요.",
+ "movieLineEn": "Use the dust brush on the keyboard, not your breath!",
+ "movieLineKo": "키보드엔 입김 말고 먼지 솔을 써!",
+ "storyTitle": "먼지와의 전쟁",
+ "story": "대청소 날, 나는 dust brush(먼지떨이 솔)를 들고 dusty(먼지투성이의) 책장을 털었어요. 동생은 duster(먼지떨이)를 휘둘렀고, 아빠는 vacuum cleaner(진공청소기)를 돌렸죠. 먼지가 날려 모두 재채기를 했어요. 아빠가 옷의 먼지를 brush off(털어 내다)하며 말했어요. \"우리가 청소한 게 아니라 먼지를 이사시킨 것 같구나.\""
+}

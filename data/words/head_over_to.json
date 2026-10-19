@@ -1,0 +1,74 @@
+{
+ "word": "head over to",
+ "pos": "구동사",
+ "phonetic": "[hed ˈoʊvər tuː]",
+ "meaning": "~로 (건너)가다, ~로 향하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "head",
+   "meaning": "향하다, 머리 (head)",
+   "note": "머리를 어느 쪽으로 돌려 '향해 간다'는 뜻을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "over",
+   "meaning": "건너, 저쪽으로 (over)",
+   "note": "조금 떨어진 곳으로 '건너간다'는 느낌을 더해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~로 (to)",
+   "note": "도착 지점을 가리켜요."
+  }
+ ],
+ "summary": "<strong>head</strong> (머리를 향하다) + <strong>over</strong> (건너) + <strong>to</strong> (~로) = '저쪽 ~로 머리를 돌려 건너가다'에서 <strong>'~로 가다, 향하다'</strong>",
+ "historyTitle": "머리가 앞장서는 방향",
+ "historyBody": "head는 고대 영어 hēafod(머리)에서 왔어요. 몸에서 머리가 가장 앞장서듯, 19세기 무렵부터 동사 head가 '머리를 ~쪽으로 향하다', 즉 '~로 향해 가다'라는 뜻으로 널리 쓰였어요. 배나 차의 앞머리가 향하는 방향을 떠올리면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "head to",
+   "pos": "구동사",
+   "meaning": "~로 향하다",
+   "en": "Let's head to the cafeteria for lunch.",
+   "ko": "점심 먹으러 식당으로 가자."
+  },
+  {
+   "word": "head for",
+   "pos": "구동사",
+   "meaning": "~을 향해 가다",
+   "en": "The ship headed for the island.",
+   "ko": "배가 섬을 향해 나아갔어."
+  },
+  {
+   "word": "come over",
+   "pos": "구동사",
+   "meaning": "(집에) 들르다",
+   "en": "Why don't you come over for dinner?",
+   "ko": "저녁 먹으러 우리 집에 들르는 게 어때?"
+  },
+  {
+   "word": "go over to",
+   "pos": "구동사",
+   "meaning": "~로 건너가다",
+   "en": "She went over to the window to look outside.",
+   "ko": "그녀는 밖을 보려고 창가로 갔어."
+  },
+  {
+   "word": "headquarters",
+   "pos": "명사",
+   "meaning": "본부, 본사",
+   "en": "The company's headquarters are in Seoul.",
+   "ko": "그 회사의 본사는 서울에 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 길 건너편 가게로 걸어가는 장면",
+ "imageCaption": "'저쪽으로 슬쩍 건너가자!' 하며 고개를 돌리고 걸어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Grab your coat. We're heading over to Grandma's.",
+ "movieLineKo": "코트 챙겨. 할머니 댁으로 갈 거야.",
+ "storyTitle": "운동장 반전",
+ "story": "체육 시간, 선생님이 \"모두 강당으로 head over to(~로 가다)!\" 하셨어요. 친구들은 head to(~로 향하다) 강당으로 뛰었지만 민호는 매점으로 head for(~을 향해 가다) 했죠. 빵을 사 들고 go over to(~로 건너가다) 강당에 가 보니, 오늘 수업은 '매점 빵 먹기 대회'였어요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "for the sake of",
+ "pos": "전치사구",
+ "phonetic": "[fɔːr ðə seɪk əv]",
+ "meaning": "~을 위하여, ~ 때문에",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "for",
+   "meaning": "~을 위해 (for)",
+   "note": "목적이나 이익을 나타내요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "sake",
+   "meaning": "이익, 목적 (sake)",
+   "note": "옛날엔 '다툼, 소송'이라는 뜻이었다가 '~을 위한 이유'로 변했어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "누구·무엇을 위한 것인지 연결해 줘요."
+  }
+ ],
+ "summary": "<strong>for</strong> (~을 위해) + <strong>the sake</strong> (이익) + <strong>of</strong> (~의) = '~의 이익을 위해'라서 <strong>'~을 위하여'</strong>예요.",
+ "historyTitle": "재판에서 시작된 sake",
+ "historyBody": "sake는 고대 영어 sacu(다툼, 소송, 사건)에서 왔어요. '누군가의 사건을 위해 나서다'라는 쓰임에서 점차 '~을 위하여'라는 뜻으로 굳어졌어요. 지금 sake는 거의 for the sake of나 for my sake 같은 표현 안에서만 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "for one's sake",
+   "pos": "숙어",
+   "meaning": "~을 위해서",
+   "en": "Please be careful, for my sake.",
+   "ko": "나를 위해서라도 조심해 줘."
+  },
+  {
+   "word": "for the benefit of",
+   "pos": "전치사구",
+   "meaning": "~의 이익을 위해",
+   "en": "The park was built for the benefit of the community.",
+   "ko": "그 공원은 지역 사회를 위해 지어졌어요."
+  },
+  {
+   "word": "on behalf of",
+   "pos": "전치사구",
+   "meaning": "~을 대신하여, ~을 위해",
+   "en": "I'm speaking on behalf of my class.",
+   "ko": "저는 우리 반을 대표해서 말하고 있어요."
+  },
+  {
+   "word": "for goodness' sake",
+   "pos": "숙어",
+   "meaning": "제발, 맙소사",
+   "en": "For goodness' sake, turn off the TV!",
+   "ko": "제발 TV 좀 꺼!"
+  },
+  {
+   "word": "in order to",
+   "pos": "숙어",
+   "meaning": "~하기 위해",
+   "en": "She saved money in order to travel.",
+   "ko": "그녀는 여행하기 위해 돈을 모았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이를 위해 자신의 우산을 씌워 주는 부모",
+ "imageCaption": "비 오는 날 아이 쪽으로 우산을 기울이는 엄마의 모습을 떠올려 보세요.",
+ "movieLineEn": "For the sake of everyone here, please stop singing.",
+ "movieLineKo": "여기 있는 모두를 위해서, 제발 노래 좀 그만해.",
+ "storyTitle": "지구를 위한 희생",
+ "story": "아빠는 지구 for the sake of(~을 위하여) 에어컨을 끄겠다고 선언했어요. \"for one's sake(~을 위해서), 다들 참아!\" 가족 for the benefit of(~의 이익을 위해) 부채도 나눠 주셨죠. 그런데 밤에 몰래 거실에 나가 보니, 아빠가 냉장고 문을 열고 그 앞에서 자고 계셨어요. for goodness' sake(맙소사)!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "turn out",
+ "pos": "구동사",
+ "phonetic": "[tɜːrn aʊt]",
+ "meaning": "~으로 판명되다, 결국 ~이 되다, (불을) 끄다, 모이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "turn",
+   "meaning": "돌다, 변하다 (turn)",
+   "note": "방향이나 상태가 바뀌는 것을 뜻해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로 (out)",
+   "note": "숨어 있던 결과가 '밖으로' 드러나는 이미지예요."
+  }
+ ],
+ "summary": "<strong>turn</strong> (돌다) + <strong>out</strong> (밖으로) = '뒤집혀 밖으로 드러나다'에서 <strong>'~으로 판명되다, 결국 ~이 되다'</strong>",
+ "historyTitle": "결과가 '뒤집혀 나오다'",
+ "historyBody": "turn은 고대 영어 turnian에서 왔고, 라틴어 tornare(선반으로 돌려 깎다)와 관련 있어요. turn out은 원래 '밖으로 뒤집어 내놓다'라는 뜻이었는데, 감춰진 결과가 뒤집혀 드러난다는 데서 '~로 판명되다'라는 뜻이 생겼어요. 수능 지문에서 It turned out that ~ 형태로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prove",
+   "pos": "동사",
+   "meaning": "증명하다, ~으로 판명되다",
+   "en": "The rumor proved to be false.",
+   "ko": "그 소문은 거짓으로 판명됐어요."
+  },
+  {
+   "word": "end up",
+   "pos": "구동사",
+   "meaning": "결국 ~하게 되다",
+   "en": "We got lost and ended up in a small village.",
+   "ko": "우리는 길을 잃어 결국 작은 마을에 이르렀어요."
+  },
+  {
+   "word": "turnout",
+   "pos": "명사",
+   "meaning": "참가자 수, 투표율",
+   "en": "Voter turnout was higher than expected.",
+   "ko": "투표율이 예상보다 높았어요."
+  },
+  {
+   "word": "turn off",
+   "pos": "구동사",
+   "meaning": "끄다",
+   "en": "Turn off the lights when you leave.",
+   "ko": "나갈 때 불을 끄세요."
+  },
+  {
+   "word": "turn into",
+   "pos": "구동사",
+   "meaning": "~으로 변하다",
+   "en": "The caterpillar turned into a butterfly.",
+   "ko": "애벌레가 나비로 변했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 상자를 열어 보니 예상과 전혀 다른 결과가 나오는 장면",
+ "imageCaption": "뒤집힌 카드를 '짠' 하고 돌려 정체가 드러나는 순간을 떠올려 보세요.",
+ "movieLineEn": "It turned out that the butler was innocent after all.",
+ "movieLineKo": "결국 집사는 무죄인 것으로 밝혀졌어.",
+ "storyTitle": "수상한 택배",
+ "story": "현관 앞에 이름 없는 택배가 왔어요. 가족들은 폭탄일까 봐 경찰을 불렀죠. 증거로 prove(증명하다)할 게 필요했거든요. 경찰이 조심스레 열어 보니 상자가 turn out(판명되다)한 건 할머니의 김치였어요. 냄새가 온 동네로 퍼져 이웃들이 모여드는 바람에 김치 파티 turnout(참가자 수)은 50명이 됐어요. 결국 end up(결국 ~하게 되다) 동네 잔치가 됐답니다."
+}

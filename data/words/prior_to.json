@@ -1,0 +1,68 @@
+{
+ "word": "prior to",
+ "pos": "전치사구",
+ "phonetic": "[ˈpraɪər tuː]",
+ "meaning": "~ 이전에, ~에 앞서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "prior",
+   "meaning": "이전의, 우선하는 (prior)",
+   "note": "라틴어 prior(앞의, 더 먼저의)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에 (to)",
+   "note": "무엇보다 앞서는지 그 기준을 연결해요."
+  }
+ ],
+ "summary": "<strong>prior</strong> (앞선) + <strong>to</strong> (~에) = '~에 앞선'에서 <strong>'~ 이전에'</strong>",
+ "historyTitle": "라틴어 '더 앞의' prior",
+ "historyBody": "prior는 라틴어 prior(앞의, 먼저의)가 그대로 영어에 들어온 말이에요. priority(우선순위)도 같은 뿌리죠. 'prior to'는 before와 뜻이 같지만 더 격식 있는 표현이라 안내문, 공지문에서 자주 볼 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "priority",
+   "pos": "명사",
+   "meaning": "우선순위",
+   "en": "Safety is our top priority.",
+   "ko": "안전이 우리의 최우선이에요."
+  },
+  {
+   "word": "prioritize",
+   "pos": "동사",
+   "meaning": "우선순위를 매기다",
+   "en": "You should prioritize your homework over games.",
+   "ko": "게임보다 숙제를 우선해야 해요."
+  },
+  {
+   "word": "before",
+   "pos": "전치사",
+   "meaning": "~ 전에",
+   "en": "Wash your hands before eating.",
+   "ko": "먹기 전에 손을 씻으세요."
+  },
+  {
+   "word": "in advance",
+   "pos": "숙어",
+   "meaning": "미리",
+   "en": "Please book your seats in advance.",
+   "ko": "좌석은 미리 예약해 주세요."
+  },
+  {
+   "word": "previous",
+   "pos": "형용사",
+   "meaning": "이전의",
+   "en": "I met him at the previous meeting.",
+   "ko": "나는 그를 지난 회의에서 만났어요."
+  }
+ ],
+ "imageSense": "대표 의미: '출발 30분 전까지 탑승하세요'라는 공항 안내문",
+ "imageCaption": "공항 안내판에 '출발 이전에(prior to departure)'라고 적힌 문구를 떠올려 보세요.",
+ "movieLineEn": "Prior to this mission, you will forget everything.",
+ "movieLineKo": "이 임무 전에 너는 모든 것을 잊게 될 것이다.",
+ "storyTitle": "공지문을 잘 읽자",
+ "story": "수학여행 공지에 '출발 prior to(~ 이전에) 7시까지 집합'이라고 적혀 있었어요. 나는 안전을 priority(우선순위)로 생각하고 in advance(미리) 6시에 도착했죠. 그런데 버스가 안 보였어요. 알고 보니 previous(이전의) 공지였고, 여행은 다음 주였어요!"
+}

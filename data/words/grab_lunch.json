@@ -1,0 +1,68 @@
+{
+ "word": "grab lunch",
+ "pos": "동사구",
+ "phonetic": "[ɡræb lʌntʃ]",
+ "meaning": "간단히 점심을 먹다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "grab",
+   "meaning": "움켜잡다; 급히 먹다 (grab)",
+   "note": "손으로 재빨리 잡아채는 동작에서 '얼른 먹다'라는 뜻이 됐어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "lunch",
+   "meaning": "점심 (lunch)",
+   "note": "luncheon의 줄임말이에요."
+  }
+ ],
+ "summary": "<strong>grab</strong> (재빨리 잡다) + <strong>lunch</strong> (점심) = '점심을 재빨리 집어 먹다'라서 <strong>'간단히 점심을 먹다'</strong>예요.",
+ "historyTitle": "재빨리 움켜쥐는 grab",
+ "historyBody": "grab은 중세 네덜란드어나 저지 독일어 grabben(움켜잡다)에서 16세기에 들어온 말이에요. 구어에서는 '급히 무언가를 하다'라는 뜻으로 넓어져 grab a coffee, grab a bite처럼 써요. lunch는 19세기에 luncheon을 줄여 쓰면서 퍼졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "grab a bite",
+   "pos": "숙어",
+   "meaning": "간단히 먹다",
+   "en": "Let's grab a bite before the movie.",
+   "ko": "영화 보기 전에 간단히 뭐 좀 먹자."
+  },
+  {
+   "word": "grab",
+   "pos": "동사",
+   "meaning": "움켜잡다",
+   "en": "He grabbed my arm to stop me.",
+   "ko": "그는 나를 멈추려고 내 팔을 잡았어요."
+  },
+  {
+   "word": "lunch break",
+   "pos": "명사구",
+   "meaning": "점심시간",
+   "en": "I read a book during my lunch break.",
+   "ko": "나는 점심시간에 책을 읽어요."
+  },
+  {
+   "word": "eat out",
+   "pos": "구동사",
+   "meaning": "외식하다",
+   "en": "We usually eat out on Fridays.",
+   "ko": "우리는 보통 금요일에 외식해요."
+  },
+  {
+   "word": "pack a lunch",
+   "pos": "숙어",
+   "meaning": "도시락을 싸다",
+   "en": "I pack a lunch to save money.",
+   "ko": "돈을 아끼려고 도시락을 싸요."
+  }
+ ],
+ "imageSense": "대표 의미: 바쁜 직장인이 샌드위치를 들고 급히 걸어가는 장면",
+ "imageCaption": "시간이 없어 편의점에서 김밥을 '휙' 집어 드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Want to grab lunch after class? My treat.",
+ "movieLineKo": "수업 끝나고 점심 간단히 먹을래? 내가 살게.",
+ "storyTitle": "점심 약속 대작전",
+ "story": "선배가 \"grab lunch(간단히 점심을 먹다)할래?\"라고 물었어요. 나는 설레서 lunch break(점심시간)에 맞춰 뛰어갔죠. 선배는 편의점에서 삼각김밥을 grab(움켜잡다)하더니 \"grab a bite(간단히 먹다)니까 이거면 되지?\"라고 했어요. 나는 eat out(외식하다)을 기대했는데! 다음부터는 직접 pack a lunch(도시락을 싸다)하기로 했어요."
+}

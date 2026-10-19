@@ -1,0 +1,68 @@
+{
+ "word": "lawn mower",
+ "pos": "명사구",
+ "phonetic": "[ˈlɔːn moʊər]",
+ "meaning": "잔디 깎는 기계",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "lawn",
+   "meaning": "잔디밭 (lawn)",
+   "note": "무엇을 깎는지, 즉 '잔디밭'을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "mower",
+   "meaning": "풀 베는 기계 (mower)",
+   "note": "mow(풀을 베다)+-er(~하는 것)로 '베는 기계'를 뜻해요."
+  }
+ ],
+ "summary": "<strong>lawn</strong> (잔디밭) + <strong>mow</strong> (베다) + <strong>-er</strong> (~하는 것) = '잔디밭을 베는 것'에서 <strong>'잔디 깎는 기계'</strong>",
+ "historyTitle": "1830년 영국에서 발명된 기계",
+ "historyBody": "잔디 깎는 기계는 1830년 영국의 에드윈 버딩(Edwin Budding)이 처음 특허를 냈어요. 그전에는 낫으로 일일이 풀을 베었죠. mow는 고대 영어 māwan(풀을 베다)에서 왔고 meadow(목초지)와 같은 뿌리예요. lawn은 '숲속 빈터'를 뜻한 옛 프랑스어 launde에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mow",
+   "pos": "동사",
+   "meaning": "(풀을) 베다",
+   "en": "Dad mows the lawn every Sunday.",
+   "ko": "아빠는 일요일마다 잔디를 깎으셔."
+  },
+  {
+   "word": "meadow",
+   "pos": "명사",
+   "meaning": "목초지, 풀밭",
+   "en": "Cows were grazing in the meadow.",
+   "ko": "소들이 풀밭에서 풀을 뜯고 있었어."
+  },
+  {
+   "word": "lawn",
+   "pos": "명사",
+   "meaning": "잔디밭",
+   "en": "Keep off the lawn, please.",
+   "ko": "잔디밭에 들어가지 마세요."
+  },
+  {
+   "word": "trim",
+   "pos": "동사",
+   "meaning": "다듬다, 손질하다",
+   "en": "He trimmed the bushes in the garden.",
+   "ko": "그는 정원의 덤불을 다듬었어."
+  },
+  {
+   "word": "gardener",
+   "pos": "명사",
+   "meaning": "정원사",
+   "en": "The gardener planted roses by the gate.",
+   "ko": "정원사가 대문 옆에 장미를 심었어."
+  }
+ ],
+ "imageSense": "대표 의미: 윙윙 소리를 내며 잔디밭을 깎는 기계의 장면",
+ "imageCaption": "초록 잔디 위를 줄무늬를 그리며 지나가는 기계를 떠올려 보세요.",
+ "movieLineEn": "Who left the lawn mower running in the middle of the night?",
+ "movieLineKo": "누가 한밤중에 잔디 깎는 기계를 켜 둔 거야?",
+ "storyTitle": "잔디 미로",
+ "story": "아빠가 새 lawn mower(잔디 깎는 기계)를 사 오셨어요. 신나서 lawn(잔디밭)을 mow(베다) 하던 동생이 기계를 놓쳤죠. 기계는 혼자 지그재그로 달려 정원을 trim(다듬다) 해 버렸어요. 화가 난 아빠가 위에서 보니, 잔디밭에 거대한 미로가 생겨 있었어요. 다음 날 동네 아이들이 줄을 섰답니다!"
+}

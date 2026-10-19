@@ -1,0 +1,74 @@
+{
+ "word": "take part in",
+ "pos": "숙어",
+ "phonetic": "[teɪk pɑːrt ɪn]",
+ "meaning": "~에 참가하다, ~에 참여하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "take",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "무언가를 손에 쥐어 가져오는 느낌이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "part",
+   "meaning": "부분, 역할 (part)",
+   "note": "전체 중 내가 맡는 한 조각이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "활동 '안으로' 들어간다는 이미지예요."
+  }
+ ],
+ "summary": "<strong>take</strong> (취하다) + <strong>part</strong> (한 부분) + <strong>in</strong> (~ 안에서) = '~ 안에서 한 부분을 맡다'에서 <strong>'~에 참가하다'</strong>",
+ "historyTitle": "라틴어 pars(부분)",
+ "historyBody": "part는 라틴어 pars(부분, 몫)에서 왔어요. participate(참여하다)도 pars와 capere(잡다)가 합쳐진 말로, take part와 구조가 거의 같아요. take는 고대 노르드어 taka(잡다, 쥐다)에서 고대 영어 후기에 들어온 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "participate in",
+   "pos": "구동사",
+   "meaning": "~에 참여하다",
+   "en": "Over 300 students participated in the contest.",
+   "ko": "300명이 넘는 학생이 대회에 참여했어요."
+  },
+  {
+   "word": "join",
+   "pos": "동사",
+   "meaning": "가입하다, 함께하다",
+   "en": "Why don't you join our book club?",
+   "ko": "우리 독서 동아리에 들어오는 게 어때?"
+  },
+  {
+   "word": "participant",
+   "pos": "명사",
+   "meaning": "참가자",
+   "en": "Each participant received a T-shirt.",
+   "ko": "각 참가자는 티셔츠를 받았어요."
+  },
+  {
+   "word": "partner",
+   "pos": "명사",
+   "meaning": "동반자, 짝",
+   "en": "My partner and I finished the project together.",
+   "ko": "짝과 나는 함께 과제를 끝냈어요."
+  },
+  {
+   "word": "be involved in",
+   "pos": "숙어",
+   "meaning": "~에 관여하다",
+   "en": "She is involved in many school activities.",
+   "ko": "그녀는 많은 학교 활동에 참여하고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마라톤 출발선에 번호표를 달고 선 참가자들 장면",
+ "imageCaption": "큰 퍼즐에 내 조각 하나를 끼워 넣으며 전체 행사의 일부가 되는 모습을 떠올려 보세요.",
+ "movieLineEn": "I don't need to win. I just want to take part in the race.",
+ "movieLineKo": "이기지 않아도 돼. 그냥 경주에 참가하고 싶어.",
+ "storyTitle": "참가에 의의를",
+ "story": "할아버지가 동네 마라톤에 take part in(~에 참가하다)하셨어요. 300명의 participant(참가자) 중 최고령이었죠. 손자도 partner(짝)로 join(함께하다)했지만 3km에서 지쳐 버렸어요. 결국 할아버지가 손자를 업고 결승선을 통과했답니다. 기록은 꼴찌, 박수는 1등이었어요!"
+}

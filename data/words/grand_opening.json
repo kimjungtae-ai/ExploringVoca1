@@ -1,0 +1,68 @@
+{
+ "word": "grand opening",
+ "pos": "명사구",
+ "phonetic": "[ɡrænd ˈoʊpənɪŋ]",
+ "meaning": "개업, 개장, 그랜드 오픈",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "grand",
+   "meaning": "웅장한, 성대한 (grand)",
+   "note": "라틴어 grandis(큰, 웅장한)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "opening",
+   "meaning": "개장, 열기 (opening)",
+   "note": "open(열다) + -ing로 '여는 것'이에요."
+  }
+ ],
+ "summary": "<strong>grand</strong> (성대한) + <strong>opening</strong> (여는 것) = '가게나 시설을 성대하게 여는 것'이라서 <strong>'개업, 개장'</strong>이에요.",
+ "historyTitle": "크고 웅장한 grand",
+ "historyBody": "grand는 고대 프랑스어 grant, 라틴어 grandis(큰, 성장한)에서 왔어요. 그래서 grandmother(할머니)처럼 '한 세대 위'를 뜻하기도 해요. open은 고대 영어 openian에서 온 게르만어고, grand opening은 새 가게나 시설이 문을 여는 성대한 첫 행사를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "open",
+   "pos": "동사 / 형용사",
+   "meaning": "열다 / 열린",
+   "en": "The new library opens next Monday.",
+   "ko": "새 도서관은 다음 주 월요일에 문을 열어요."
+  },
+  {
+   "word": "grand",
+   "pos": "형용사",
+   "meaning": "웅장한, 성대한",
+   "en": "They live in a grand old house.",
+   "ko": "그들은 웅장하고 오래된 집에 살아요."
+  },
+  {
+   "word": "opening ceremony",
+   "pos": "명사구",
+   "meaning": "개막식",
+   "en": "The mayor gave a speech at the opening ceremony.",
+   "ko": "시장이 개막식에서 연설했어요."
+  },
+  {
+   "word": "ribbon cutting",
+   "pos": "명사구",
+   "meaning": "테이프 커팅식",
+   "en": "The ribbon cutting started at ten.",
+   "ko": "테이프 커팅식은 10시에 시작했어요."
+  },
+  {
+   "word": "grandeur",
+   "pos": "명사",
+   "meaning": "웅장함",
+   "en": "We were amazed by the grandeur of the palace.",
+   "ko": "우리는 궁전의 웅장함에 놀랐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 풍선 아치와 함께 새 가게가 문을 여는 날",
+ "imageCaption": "리본을 자르고 첫 손님들이 줄지어 들어가는 북적이는 장면을 떠올려 보세요.",
+ "movieLineEn": "Free pizza for everyone! It's our grand opening!",
+ "movieLineKo": "모두에게 피자 공짜! 오늘 그랜드 오픈이에요!",
+ "storyTitle": "첫 손님은 누구?",
+ "story": "우리 동네 빵집이 grand opening(개업)을 했어요. ribbon cutting(테이프 커팅식)에 풍선도 가득했죠. 사장님은 첫 손님에게 빵을 평생 공짜로 주겠다고 했어요. 다들 새벽부터 줄을 섰는데, 문이 open(열다)하자마자 들어간 건 동네 길고양이였어요! 사장님은 약속을 지켜, 지금 그 고양이는 grand(웅장한) 빵집의 VIP래요."
+}

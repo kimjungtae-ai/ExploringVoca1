@@ -1,0 +1,68 @@
+{
+ "word": "dispose of",
+ "pos": "구동사",
+ "phonetic": "[dɪˈspoʊz əv]",
+ "meaning": "~을 처리하다, ~을 버리다, ~을 없애다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "dispose",
+   "meaning": "배치하다, 처리하다 (dispose)",
+   "note": "dis-(따로따로)+ponere(놓다)로 '따로 떼어 놓다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~을, ~에서 떨어져 (of)",
+   "note": "처리해서 '떼어 내 버리는' 대상을 나타내요."
+  }
+ ],
+ "summary": "<strong>dispose</strong> (따로 떼어 놓다) + <strong>of</strong> (~을) = '~을 따로 떼어 치워 놓다'에서 <strong>'~을 처리하다, 버리다'</strong>",
+ "historyTitle": "'따로 놓다' disponere",
+ "historyBody": "dispose는 라틴어 'dis-(따로)'와 'ponere(놓다)'가 합쳐진 disponere(배치하다)에서 고대 프랑스어를 거쳐 왔어요. 원래 '알맞게 배치하다'라는 뜻이었다가 'dispose of'의 형태로 '처리하다, 치우다'가 되었죠. position(위치), compose(구성하다), disposable(일회용의)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "disposable",
+   "pos": "형용사",
+   "meaning": "일회용의",
+   "en": "Try not to use disposable cups.",
+   "ko": "일회용 컵을 쓰지 않도록 노력해 봐."
+  },
+  {
+   "word": "disposal",
+   "pos": "명사",
+   "meaning": "처리, 처분",
+   "en": "Waste disposal is a big problem in cities.",
+   "ko": "쓰레기 처리는 도시의 큰 문제예요."
+  },
+  {
+   "word": "throw away",
+   "pos": "구동사",
+   "meaning": "버리다",
+   "en": "Don't throw away old clothes; donate them.",
+   "ko": "헌 옷을 버리지 말고 기부해."
+  },
+  {
+   "word": "get rid of",
+   "pos": "숙어",
+   "meaning": "~을 없애다, 제거하다",
+   "en": "I want to get rid of this bad habit.",
+   "ko": "나는 이 나쁜 습관을 없애고 싶어."
+  },
+  {
+   "word": "get rid of trash",
+   "pos": "숙어",
+   "meaning": "쓰레기를 치우다",
+   "en": "We got rid of trash on the beach.",
+   "ko": "우리는 해변의 쓰레기를 치웠어."
+  }
+ ],
+ "imageSense": "대표 의미: 분리수거함에 플라스틱과 캔을 나눠 버리는 장면",
+ "imageCaption": "색깔별 분리수거함 앞에서 쓰레기를 올바르게 나누어 버리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Dispose of this box before anyone sees it.",
+ "movieLineKo": "누가 보기 전에 이 상자를 처리해.",
+ "storyTitle": "일회용 컵의 여행",
+ "story": "카페에서 disposable(일회용의) 컵을 쓴 지훈이는 그것을 올바르게 dispose of(처리하다)하기로 했어요. 그냥 throw away(버리다)하지 않고, 컵을 씻어 분리수거함에 넣었죠. 환경 선생님이 disposal(처리) 방법이 완벽하다며 칭찬하셨어요. 그런데 지훈이가 버린 컵은… 선생님의 아끼던 텀블러였어요!"
+}

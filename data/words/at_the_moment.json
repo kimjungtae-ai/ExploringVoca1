@@ -1,0 +1,68 @@
+{
+ "word": "at the moment",
+ "pos": "전치사구",
+ "phonetic": "[æt ðə ˈmoʊmənt]",
+ "meaning": "지금, 현재, 그때",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "at",
+   "meaning": "~에 (at)",
+   "note": "시간의 한 지점을 콕 찍어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "moment",
+   "meaning": "순간 (instant)",
+   "note": "라틴어 momentum(움직임, 짧은 순간)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>at</strong> (~에) + <strong>the moment</strong> (바로 그 순간) = '바로 이 순간에'라는 뜻에서 <strong>'지금, 현재'</strong>예요.",
+ "historyTitle": "저울을 움직이는 아주 작은 무게",
+ "historyBody": "moment는 라틴어 momentum에서 왔는데, movere(움직이다)와 관련 있어요. 저울을 '움직일' 만큼의 아주 작은 무게, 그리고 아주 짧은 시간을 뜻하게 되었죠. 그래서 'at the moment'는 '바로 지금'이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "for the moment",
+   "pos": "전치사구",
+   "meaning": "당분간",
+   "en": "For the moment, we will stay at my aunt's house.",
+   "ko": "당분간 우리는 이모 집에 머물 거예요."
+  },
+  {
+   "word": "at present",
+   "pos": "전치사구",
+   "meaning": "현재",
+   "en": "At present, the museum is closed for repairs.",
+   "ko": "현재 박물관은 수리 때문에 문을 닫았어요."
+  },
+  {
+   "word": "momentum",
+   "pos": "명사",
+   "meaning": "기세, 탄력",
+   "en": "The team gained momentum after the first goal.",
+   "ko": "팀은 첫 골 이후 기세를 탔어요."
+  },
+  {
+   "word": "momentary",
+   "pos": "형용사",
+   "meaning": "순간적인",
+   "en": "There was a momentary silence in the room.",
+   "ko": "방 안에 순간적인 정적이 흘렀어요."
+  },
+  {
+   "word": "in a moment",
+   "pos": "전치사구",
+   "meaning": "곧, 금세",
+   "en": "I'll be with you in a moment.",
+   "ko": "곧 갈게요."
+  }
+ ],
+ "imageSense": "대표 의미: 전화를 받으며 '지금은 좀 바빠요'라고 말하는 장면",
+ "imageCaption": "시계의 초침이 딱 멈춘 '바로 지금'을 떠올려 보세요.",
+ "movieLineEn": "I can't talk at the moment. Someone is listening.",
+ "movieLineKo": "지금은 말할 수 없어. 누가 듣고 있거든.",
+ "storyTitle": "바쁜 척의 대가",
+ "story": "친구가 전화로 '뭐 해?'라고 물었어요. 나는 'at the moment(지금) 공부 중이야, in a moment(곧) 다시 걸게'라고 했죠. 사실 for the moment(당분간) 게임만 하던 중이었는데, 친구가 내 방 문을 열며 '나 지금 너희 집이야'라고 했어요!"
+}

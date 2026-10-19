@@ -1,0 +1,68 @@
+{
+ "word": "bowling alley",
+ "pos": "명사구",
+ "phonetic": "[ˈboʊlɪŋ ˈæli]",
+ "meaning": "볼링장, 볼링 레인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "bowling",
+   "meaning": "볼링 (bowling)",
+   "note": "bowl(공을 굴리다)에 -ing가 붙었어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "alley",
+   "meaning": "좁은 길, 골목 (narrow lane)",
+   "note": "옛 프랑스어 alee(걷는 길)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>bowling</strong> (볼링) + <strong>alley</strong> (좁고 긴 길) = '공을 굴리는 좁고 긴 길'에서 <strong>'볼링장, 볼링 레인'</strong>이에요.",
+ "historyTitle": "프랑스어 aller, '가다'",
+ "historyBody": "alley는 옛 프랑스어 alee(걷는 길, 통로)에서 왔고, 동사 aller(가다)와 관련 있어요. 볼링 레인이 좁고 길쭉한 통로처럼 생겨서 bowling alley라고 불렀죠. bowl(굴리다)은 라틴어 bulla(거품, 둥근 것)에서 온 '공'이라는 뜻의 말과 관련 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "alleyway",
+   "pos": "명사",
+   "meaning": "골목길",
+   "en": "The cat ran into a dark alleyway.",
+   "ko": "고양이가 어두운 골목길로 뛰어 들어갔어요."
+  },
+  {
+   "word": "bowl",
+   "pos": "동사",
+   "meaning": "(공을) 굴리다",
+   "en": "It's your turn to bowl.",
+   "ko": "네가 공을 굴릴 차례야."
+  },
+  {
+   "word": "blind alley",
+   "pos": "명사구",
+   "meaning": "막다른 골목",
+   "en": "The plan led us into a blind alley.",
+   "ko": "그 계획은 우리를 막다른 골목으로 이끌었어요."
+  },
+  {
+   "word": "skating rink",
+   "pos": "명사구",
+   "meaning": "스케이트장",
+   "en": "We went to the skating rink on Saturday.",
+   "ko": "우리는 토요일에 스케이트장에 갔어요."
+  },
+  {
+   "word": "strike",
+   "pos": "명사",
+   "meaning": "스트라이크",
+   "en": "She got three strikes in a row.",
+   "ko": "그녀는 연속으로 스트라이크를 세 번 쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 볼링공이 길쭉한 레인을 굴러가 핀을 넘어뜨리는 장면",
+ "imageCaption": "좁고 긴 골목길 끝에 하얀 핀들이 서 있는 모습을 떠올리세요.",
+ "movieLineEn": "Meet me at the old bowling alley at midnight. Come alone.",
+ "movieLineKo": "자정에 낡은 볼링장에서 만나. 혼자 와.",
+ "storyTitle": "볼링 천재의 비밀",
+ "story": "주말에 가족과 bowling alley(볼링장)에 갔어요. 아빠는 bowl(굴리다)할 때마다 strike(스트라이크)를 외쳤지만 공은 계속 옆 도랑으로 빠졌죠. 그런데 다섯 살 동생이 두 손으로 공을 굴리자 핀이 다 쓰러졌어요. 아빠는 바닥 탓을 하셨답니다!"
+}

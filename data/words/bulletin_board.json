@@ -1,0 +1,68 @@
+{
+ "word": "bulletin board",
+ "pos": "명사구",
+ "phonetic": "[ˈbʊlətɪn bɔːrd]",
+ "meaning": "게시판",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "bulletin",
+   "meaning": "공고, 게시문 (official notice)",
+   "note": "이탈리아어 bullettino(작은 공문서)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "board",
+   "meaning": "판, 판자 (board)",
+   "note": "고대 영어 bord(널빤지)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>bulletin</strong> (공고문) + <strong>board</strong> (판) = <strong>'공고문을 붙이는 판, 게시판'</strong>이에요.",
+ "historyTitle": "교황의 도장 bulla에서 온 bulletin",
+ "historyBody": "bulletin은 프랑스어를 거쳐 이탈리아어 bullettino에서 왔고, 그 뿌리는 라틴어 bulla(둥근 도장, 봉인)예요. 중세 교황의 공문서에 찍힌 도장 bulla 때문에 공문서를 bull이라 부르기도 했죠. 그래서 bulletin은 '짧은 공식 알림'이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "notice board",
+   "pos": "명사구",
+   "meaning": "게시판(영국식)",
+   "en": "Check the notice board for the exam schedule.",
+   "ko": "시험 일정은 게시판에서 확인하세요."
+  },
+  {
+   "word": "post",
+   "pos": "동사",
+   "meaning": "게시하다",
+   "en": "The results will be posted online tomorrow.",
+   "ko": "결과는 내일 온라인에 게시될 거예요."
+  },
+  {
+   "word": "news bulletin",
+   "pos": "명사구",
+   "meaning": "뉴스 속보, 간추린 뉴스",
+   "en": "We heard the news bulletin on the radio.",
+   "ko": "우리는 라디오에서 뉴스 속보를 들었어요."
+  },
+  {
+   "word": "blackboard",
+   "pos": "명사",
+   "meaning": "칠판",
+   "en": "The teacher wrote the answer on the blackboard.",
+   "ko": "선생님은 칠판에 답을 쓰셨어요."
+  },
+  {
+   "word": "announcement",
+   "pos": "명사",
+   "meaning": "공지, 발표",
+   "en": "The principal made an announcement this morning.",
+   "ko": "교장 선생님이 오늘 아침 공지를 하셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 복도 게시판에 압정으로 공지문이 꽂혀 있는 장면",
+ "imageCaption": "학교 복도 코르크 판에 붙은 동아리 모집 포스터를 떠올려 보세요.",
+ "movieLineEn": "Check the bulletin board. Your name is on the list!",
+ "movieLineKo": "게시판 확인해 봐. 네 이름이 명단에 있어!",
+ "storyTitle": "게시판 미스터리",
+ "story": "학교 bulletin board(게시판)에 '내일 휴교'라는 announcement(공지)가 post(게시하다)되었어요. 다들 환호했죠. 그런데 다음 날 학교에 아무도 안 왔고 선생님들만 오셨어요. 알고 보니 그 공지는 작년 거였고, 교장 선생님이 notice board(게시판) 정리를 1년 동안 안 하신 거였어요!"
+}

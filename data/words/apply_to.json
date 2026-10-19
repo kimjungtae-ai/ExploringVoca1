@@ -1,0 +1,68 @@
+{
+ "word": "apply to",
+ "pos": "구동사",
+ "phonetic": "[əˈplaɪ tuː]",
+ "meaning": "~에 적용되다, ~에 지원하다(학교·기관), ~에 바르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "apply",
+   "meaning": "적용하다, 지원하다, 바르다 (put on)",
+   "note": "라틴어 applicare(~에 갖다 붙이다)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에 (to)",
+   "note": "무엇에 갖다 붙이는지 대상을 가리켜요."
+  }
+ ],
+ "summary": "<strong>apply</strong> (갖다 붙이다) + <strong>to</strong> (~에) = '~에 갖다 대다'에서 <strong>'~에 적용되다, ~에 지원하다'</strong>가 되었어요.",
+ "historyTitle": "착 갖다 붙이는 applicare",
+ "historyBody": "apply는 라틴어 applicare에서 왔는데, ad-(~에)와 plicare(접다, 겹치다)가 합쳐진 말이에요. 무언가를 다른 것에 착 붙이는 모습에서 '적용하다, 바르다, 지원하다' 같은 뜻이 나왔어요. 'The rule applies to everyone'(규칙은 모두에게 적용된다)이 대표 예문이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apply for",
+   "pos": "구동사",
+   "meaning": "~을 신청하다, 지원하다",
+   "en": "He applied for a scholarship.",
+   "ko": "그는 장학금을 신청했어요."
+  },
+  {
+   "word": "application",
+   "pos": "명사",
+   "meaning": "적용, 신청, 앱",
+   "en": "This app has many useful applications.",
+   "ko": "이 앱은 쓸모 있는 기능이 많아요."
+  },
+  {
+   "word": "applicable",
+   "pos": "형용사",
+   "meaning": "적용할 수 있는",
+   "en": "The discount is not applicable to sale items.",
+   "ko": "할인은 세일 상품에는 적용되지 않아요."
+  },
+  {
+   "word": "apply oneself to",
+   "pos": "숙어",
+   "meaning": "~에 전념하다",
+   "en": "She applied herself to her studies.",
+   "ko": "그녀는 공부에 전념했어요."
+  },
+  {
+   "word": "be true of",
+   "pos": "숙어",
+   "meaning": "~에 해당되다",
+   "en": "The same is true of many other animals.",
+   "ko": "다른 많은 동물들에게도 마찬가지예요."
+  }
+ ],
+ "imageSense": "대표 의미: '모든 학생에게 적용됨'이라는 규칙 표지판 앞의 학생들",
+ "imageCaption": "스티커를 물건에 '착' 붙이듯 규칙이 모두에게 붙는 모습을 그려 보세요.",
+ "movieLineEn": "The rules apply to everyone. Even to you, Your Majesty.",
+ "movieLineKo": "규칙은 모두에게 적용됩니다. 폐하께도요.",
+ "storyTitle": "규칙은 모두에게",
+ "story": "교장 선생님이 '휴대폰 금지 규칙은 모두에게 apply to(~에 적용되다)한다'고 하셨어요. 우리는 그 규칙이 선생님께도 applicable(적용할 수 있는)한지 물었죠. 다음 날 선생님들도 apply oneself to(~에 전념하다) 수업만 하셨는데, 교장 선생님 주머니에서 벨소리가 울렸답니다!"
+}

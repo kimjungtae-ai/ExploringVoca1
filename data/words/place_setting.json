@@ -1,0 +1,68 @@
+{
+ "word": "place setting",
+ "pos": "명사구",
+ "phonetic": "[ˈpleɪs ˌsetɪŋ]",
+ "meaning": "(식탁의) 1인분 식기 세트, 식기 배치",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "place",
+   "meaning": "자리 (place)",
+   "note": "식탁에서 한 사람이 앉는 '자리'를 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "setting",
+   "meaning": "배치, 차림 (setting)",
+   "note": "set(놓다, 차리다) + -ing로 '차려 놓은 것'이에요."
+  }
+ ],
+ "summary": "<strong>place</strong> (한 사람의 자리) + <strong>setting</strong> (차려 놓음) = '한 자리에 차려 놓은 식기'에서 <strong>'1인분 식기 세트'</strong>",
+ "historyTitle": "'넓은 길'에서 '자리'로, place",
+ "historyBody": "place는 그리스어 plateia(넓은 길)에서 라틴어 platea(광장)를 거쳐 왔어요. 넓은 공간에서 '특정한 자리'로 뜻이 좁아졌죠. set은 고대 영어 settan(놓다, 앉히다)에서 왔어요. 그래서 place setting은 한 사람 자리에 접시, 포크, 나이프, 잔을 놓아 둔 것을 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "set the table",
+   "pos": "숙어",
+   "meaning": "상을 차리다",
+   "en": "Can you help me set the table for dinner?",
+   "ko": "저녁 상 차리는 것 좀 도와줄래?"
+  },
+  {
+   "word": "setting",
+   "pos": "명사",
+   "meaning": "배경, 환경, 설정",
+   "en": "The story's setting is a small village in Italy.",
+   "ko": "이 이야기의 배경은 이탈리아의 작은 마을이에요."
+  },
+  {
+   "word": "tableware",
+   "pos": "명사",
+   "meaning": "식기류",
+   "en": "The store sells beautiful tableware.",
+   "ko": "그 가게는 예쁜 식기를 팔아요."
+  },
+  {
+   "word": "plaza",
+   "pos": "명사",
+   "meaning": "광장",
+   "en": "People gathered in the plaza for the festival.",
+   "ko": "사람들이 축제를 위해 광장에 모였어요."
+  },
+  {
+   "word": "take place",
+   "pos": "숙어",
+   "meaning": "개최되다, 일어나다",
+   "en": "The concert will take place next Friday.",
+   "ko": "콘서트는 다음 주 금요일에 열려요."
+  }
+ ],
+ "imageSense": "대표 의미: 접시와 포크, 나이프, 컵이 가지런히 놓인 식탁 한 자리",
+ "imageCaption": "식탁 한 자리에 접시를 가운데 두고 양옆에 포크와 나이프가 놓인 모습을 떠올려 보세요.",
+ "movieLineEn": "Set one more place setting. We have a guest.",
+ "movieLineKo": "식기 한 세트 더 놓아. 손님이 왔어.",
+ "storyTitle": "한 자리가 더 있었다",
+ "story": "추석 저녁, 엄마가 가족 수대로 place setting(1인분 식기 세트)을 놓으셨어요. 나는 set the table(상을 차리다)을 도우며 tableware(식기류)를 날랐죠. 그런데 식기가 하나 남았어요. 모두 누구 자리인지 궁금해하는데 강아지가 의자에 올라앉았어요. 엄마가 몰래 준비한 거였어요!"
+}

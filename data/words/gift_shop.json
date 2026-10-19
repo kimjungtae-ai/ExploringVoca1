@@ -1,0 +1,68 @@
+{
+ "word": "gift shop",
+ "pos": "명사구",
+ "phonetic": "[ˈɡɪft ʃɑːp]",
+ "meaning": "기념품 가게, 선물 가게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "gift",
+   "meaning": "선물 (gift)",
+   "note": "give(주다)와 같은 뿌리로 '주는 것'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "shop",
+   "meaning": "가게 (shop)",
+   "note": "고대 영어 sceoppa(작은 헛간, 노점)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>gift</strong> (선물) + <strong>shop</strong> (가게) = '선물할 물건을 파는 가게'라서 <strong>'기념품 가게'</strong>예요.",
+ "historyTitle": "헛간에서 가게로, shop",
+ "historyBody": "shop은 고대 영어 sceoppa(헛간, 작은 노점)에서 왔어요. 원래 물건을 두던 작은 창고나 가판대가 '가게'라는 뜻이 됐어요. gift는 give와 같은 뿌리로 '주어진 것'을 뜻하고, 박물관이나 관광지의 gift shop은 여행 기념품을 파는 곳이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "souvenir",
+   "pos": "명사",
+   "meaning": "기념품",
+   "en": "I bought a key ring as a souvenir.",
+   "ko": "나는 기념품으로 열쇠고리를 샀어요."
+  },
+  {
+   "word": "gift card",
+   "pos": "명사구",
+   "meaning": "상품권",
+   "en": "He gave his mom a gift card for her birthday.",
+   "ko": "그는 엄마 생신에 상품권을 드렸어요."
+  },
+  {
+   "word": "gift wrap",
+   "pos": "명사구",
+   "meaning": "선물 포장지",
+   "en": "Do you have any gift wrap?",
+   "ko": "선물 포장지 있으세요?"
+  },
+  {
+   "word": "window-shop",
+   "pos": "동사",
+   "meaning": "아이쇼핑하다",
+   "en": "We window-shopped downtown all afternoon.",
+   "ko": "우리는 오후 내내 시내에서 아이쇼핑을 했어요."
+  },
+  {
+   "word": "shopkeeper",
+   "pos": "명사",
+   "meaning": "가게 주인",
+   "en": "The shopkeeper greeted us with a smile.",
+   "ko": "가게 주인이 미소로 우리를 맞았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 박물관 출구 옆 열쇠고리와 엽서가 가득한 가게",
+ "imageCaption": "관람을 마치고 나오면 꼭 지나가게 되는 작은 기념품 가게를 떠올려 보세요.",
+ "movieLineEn": "Exit through the gift shop, please. It's the only way out.",
+ "movieLineKo": "기념품 가게를 통해 나가세요. 그게 유일한 출구예요.",
+ "storyTitle": "출구는 기념품 가게",
+ "story": "동물원 관람이 끝나자 출구는 gift shop(기념품 가게)을 지나야 했어요. 동생은 souvenir(기념품)를 사 달라고 졸랐죠. 아빠는 window-shop(아이쇼핑하다)만 하자고 했지만, 동생은 판다 인형을 꼭 껴안고 놓지 않았어요. 결국 shopkeeper(가게 주인)가 웃으며 말했어요. \"아이가 인형이랑 사랑에 빠졌네요.\" 아빠 지갑은 눈물을 흘렸답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "aim to do",
+ "pos": "숙어",
+ "phonetic": "[eɪm tuː duː]",
+ "meaning": "~하는 것을 목표로 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "aim",
+   "meaning": "겨누다, 목표로 하다 (target)",
+   "note": "활을 과녁에 겨누는 모습이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to do",
+   "meaning": "~하는 것 (to-infinitive)",
+   "note": "겨누는 '목표 행동'이 무엇인지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>aim</strong> (겨누다) + <strong>to do</strong> (~하는 것) = '~하는 것을 겨누다'에서 <strong>'~하는 것을 목표로 하다'</strong>예요.",
+ "historyTitle": "라틴어 aestimare, '어림잡다'",
+ "historyBody": "aim은 옛 프랑스어 esmer/aesmer(어림하다, 겨누다)를 거쳐 왔고, 더 거슬러 가면 라틴어 aestimare(평가하다, 어림잡다)와 연결돼요. 거리를 어림잡고 겨누는 모습에서 '목표로 하다'가 되었죠. estimate(추정하다)와 먼 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "aim at",
+   "pos": "구동사",
+   "meaning": "~을 겨냥하다, 대상으로 하다",
+   "en": "The campaign is aimed at teenagers.",
+   "ko": "그 캠페인은 십 대를 대상으로 해요."
+  },
+  {
+   "word": "aim for",
+   "pos": "구동사",
+   "meaning": "~을 목표로 삼다",
+   "en": "She is aiming for first place.",
+   "ko": "그녀는 1등을 목표로 하고 있어요."
+  },
+  {
+   "word": "aimless",
+   "pos": "형용사",
+   "meaning": "목적 없는",
+   "en": "He spent an aimless afternoon at home.",
+   "ko": "그는 집에서 목적 없는 오후를 보냈어요."
+  },
+  {
+   "word": "intend to do",
+   "pos": "숙어",
+   "meaning": "~할 작정이다",
+   "en": "I intend to finish this book tonight.",
+   "ko": "나는 오늘 밤 이 책을 다 읽을 작정이에요."
+  },
+  {
+   "word": "estimate",
+   "pos": "동사",
+   "meaning": "추정하다",
+   "en": "Scientists estimate the tree is 500 years old.",
+   "ko": "과학자들은 그 나무가 500년 되었다고 추정해요."
+  }
+ ],
+ "imageSense": "대표 의미: 궁수가 과녁 한가운데를 겨누는 장면",
+ "imageCaption": "화살 끝이 과녁을 향하듯, 마음이 하나의 목표를 향하는 모습을 그려 보세요.",
+ "movieLineEn": "We aim to win. Anything less is not an option.",
+ "movieLineKo": "우리의 목표는 승리야. 그보다 못한 건 선택지에 없어.",
+ "storyTitle": "목표는 높게",
+ "story": "나는 이번 시험에서 만점을 aim to do(~하는 것을 목표로 하다)했어요. 매일 1등을 aim for(목표로 삼다)하며 공부했죠. 그런데 시험 당일 aimless(목적 없는)하게 창밖 구름을 보다가 '구름 모양 맞히기'에서만 만점을 받았답니다!"
+}

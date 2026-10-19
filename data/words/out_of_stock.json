@@ -1,0 +1,68 @@
+{
+ "word": "out of stock",
+ "pos": "형용사구 / 숙어",
+ "phonetic": "[aʊt əv stɑːk]",
+ "meaning": "품절된, 재고가 없는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "out of",
+   "meaning": "~ 밖으로, ~이 없는 (out of)",
+   "note": "무언가가 '다 떨어져 없는' 상태를 나타내요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stock",
+   "meaning": "재고, 비축물 (stock)",
+   "note": "가게에 쌓아 둔 물건이에요."
+  }
+ ],
+ "summary": "<strong>out of</strong> (~이 없는) + <strong>stock</strong> (재고) = '쌓아 둔 물건이 다 떨어진'에서 <strong>'품절된'</strong>",
+ "historyTitle": "'나무 그루터기'에서 '재고'로",
+ "historyBody": "stock은 고대 영어 stocc(나무 그루터기, 줄기)에서 왔어요. 줄기에서 가지가 뻗듯 '밑천, 비축물'이라는 뜻이 생겼고, 가게가 쌓아 둔 물건(재고)이나 회사의 주식이라는 뜻으로도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in stock",
+   "pos": "숙어",
+   "meaning": "재고가 있는",
+   "en": "Do you have this shoe in stock in size 250?",
+   "ko": "이 신발 250 사이즈 재고 있나요?"
+  },
+  {
+   "word": "sold out",
+   "pos": "형용사구",
+   "meaning": "매진된",
+   "en": "The concert tickets were sold out in five minutes.",
+   "ko": "콘서트 표가 5분 만에 매진됐어요."
+  },
+  {
+   "word": "run out of",
+   "pos": "구동사",
+   "meaning": "~이 다 떨어지다",
+   "en": "We ran out of milk this morning.",
+   "ko": "오늘 아침 우유가 다 떨어졌어요."
+  },
+  {
+   "word": "restock",
+   "pos": "동사",
+   "meaning": "재고를 다시 채우다",
+   "en": "The store will restock the shelves on Monday.",
+   "ko": "가게는 월요일에 진열대를 다시 채울 거예요."
+  },
+  {
+   "word": "stock market",
+   "pos": "명사구",
+   "meaning": "주식 시장",
+   "en": "The stock market fell sharply yesterday.",
+   "ko": "어제 주식 시장이 급락했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 텅 빈 진열대에 '품절' 스티커가 붙은 장면",
+ "imageCaption": "인기 상품 자리가 텅 비고 'SOLD OUT' 종이만 붙어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Sorry, the magic potion is out of stock.",
+ "movieLineKo": "죄송해요, 마법 물약은 품절이에요.",
+ "storyTitle": "한정판 운동화 대작전",
+ "story": "한정판 운동화를 사려고 새벽부터 줄을 섰어요. 가게 문이 열리자 직원이 말했죠. \"이미 out of stock(품절된)이에요. 어제 sold out(매진된)됐어요.\" 다음 주에 restock(재고를 다시 채우다)한대요. 돌아서는데 앞에 서 있던 사람이 우리 아빠였어요!"
+}

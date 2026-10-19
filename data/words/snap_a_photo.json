@@ -1,0 +1,68 @@
+{
+ "word": "snap a photo",
+ "pos": "숙어",
+ "phonetic": "[snæp ə ˈfoʊtoʊ]",
+ "meaning": "사진을 (재빨리) 찍다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "snap",
+   "meaning": "찰칵 찍다, 탁 하고 닫다 (snap)",
+   "note": "'탁' 하는 짧은 소리를 흉내 낸 말로, 재빠른 동작을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "photo",
+   "meaning": "사진 (photo)",
+   "note": "photograph의 줄임말로 그리스어 phōs(빛)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>snap</strong> (찰칵, 재빨리) + <strong>a photo</strong> (사진 한 장) = '찰칵 하고 사진 한 장을 재빨리 찍다'라서 <strong>'사진을 찍다'</strong>예요.",
+ "historyTitle": "빛으로 그린 그림",
+ "historyBody": "snap은 중세 네덜란드어나 저지 독일어 'snappen(덥석 물다)'에서 온 말로, 짧고 빠른 소리와 동작을 나타내요. snapshot(스냅 사진)도 원래 사냥에서 '빠르게 쏘는 한 발'을 뜻했어요. photo는 photograph의 줄임말로, 그리스어 phōs(빛) + graphē(그리기), 즉 '빛으로 그린 그림'이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "take a photo",
+   "pos": "숙어",
+   "meaning": "사진을 찍다",
+   "en": "Can you take a photo of us by the river?",
+   "ko": "강가에서 저희 사진 좀 찍어 주실래요?"
+  },
+  {
+   "word": "snapshot",
+   "pos": "명사",
+   "meaning": "스냅 사진, 짧은 단면",
+   "en": "This snapshot shows our first day at school.",
+   "ko": "이 스냅 사진은 우리의 첫 등교일을 보여 줘요."
+  },
+  {
+   "word": "photographer",
+   "pos": "명사",
+   "meaning": "사진작가",
+   "en": "The photographer waited hours for the perfect light.",
+   "ko": "그 사진작가는 완벽한 빛을 위해 몇 시간을 기다렸어요."
+  },
+  {
+   "word": "photograph",
+   "pos": "명사/동사",
+   "meaning": "사진 / 촬영하다",
+   "en": "She photographed birds in the forest.",
+   "ko": "그녀는 숲에서 새들을 촬영했어요."
+  },
+  {
+   "word": "snap one's fingers",
+   "pos": "숙어",
+   "meaning": "손가락을 튕기다",
+   "en": "He snapped his fingers to get the dog's attention.",
+   "ko": "그는 개의 주의를 끌려고 손가락을 튕겼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 귀여운 고양이를 보고 휴대폰으로 '찰칵' 찍는 장면",
+ "imageCaption": "길에서 기지개 켜는 고양이를 발견하고 놓칠세라 휴대폰을 꺼내 '찰칵' 찍는 순간을 떠올려 보세요.",
+ "movieLineEn": "Quick, snap a photo before it flies away!",
+ "movieLineKo": "빨리, 날아가기 전에 사진 찍어!",
+ "storyTitle": "인생 사진",
+ "story": "여행 중 무지개가 떴어요. 나는 snap a photo(사진을 찍다)하려고 휴대폰을 꺼냈죠. 옆의 photographer(사진작가) 아저씨도 snapshot(스냅 사진)을 찍고 있었어요. 집에 와서 확인해 보니 내 사진엔 무지개 대신 내 엄지손가락만 크게 찍혀 있었어요. 그래도 손톱 모양은 무지개였답니다."
+}

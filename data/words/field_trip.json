@@ -1,0 +1,68 @@
+{
+ "word": "field trip",
+ "pos": "명사구",
+ "phonetic": "[ˈfiːld trɪp]",
+ "meaning": "현장 학습, 견학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "field",
+   "meaning": "들판; 현장 (field)",
+   "note": "교실 밖 '실제 현장'을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "trip",
+   "meaning": "여행 (trip)",
+   "note": "짧게 어딘가에 다녀오는 일이에요."
+  }
+ ],
+ "summary": "<strong>field</strong> (현장) + <strong>trip</strong> (짧은 여행) = '교실 밖 현장으로 가는 짧은 여행'이라서 <strong>'현장 학습'</strong>이에요.",
+ "historyTitle": "교실 밖 들판으로",
+ "historyBody": "field는 고대 영어 feld(평평한 땅, 들판)에서 왔어요. 여기서 '실제 일이 벌어지는 곳, 현장'이라는 뜻이 생겨 fieldwork(현장 조사) 같은 말도 만들어졌어요. trip은 중세 영어에서 '가볍게 걷다'라는 뜻에서 '짧은 여행'으로 발전했어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "school trip",
+   "pos": "명사구",
+   "meaning": "수학여행, 학교 여행",
+   "en": "Our school trip to Gyeongju was amazing.",
+   "ko": "경주로 간 우리 수학여행은 정말 멋졌어요."
+  },
+  {
+   "word": "fieldwork",
+   "pos": "명사",
+   "meaning": "현장 조사",
+   "en": "The scientists did fieldwork in the jungle.",
+   "ko": "과학자들은 정글에서 현장 조사를 했어요."
+  },
+  {
+   "word": "day trip",
+   "pos": "명사구",
+   "meaning": "당일 여행",
+   "en": "We took a day trip to the beach.",
+   "ko": "우리는 바다로 당일 여행을 다녀왔어요."
+  },
+  {
+   "word": "go on a trip",
+   "pos": "숙어",
+   "meaning": "여행을 가다",
+   "en": "My family will go on a trip this winter.",
+   "ko": "우리 가족은 이번 겨울에 여행을 갈 거예요."
+  },
+  {
+   "word": "field",
+   "pos": "명사",
+   "meaning": "분야; 들판",
+   "en": "She is an expert in the field of biology.",
+   "ko": "그녀는 생물학 분야의 전문가예요."
+  }
+ ],
+ "imageSense": "대표 의미: 노란 버스를 타고 박물관에 도착한 학생들",
+ "imageCaption": "선생님을 따라 줄지어 박물관에 들어가는 신난 학생들을 떠올려 보세요.",
+ "movieLineEn": "Stay together, everyone! This field trip is not a vacation!",
+ "movieLineKo": "다들 붙어 다녀! 이 현장 학습은 휴가가 아니야!",
+ "storyTitle": "공룡 박물관 현장 학습",
+ "story": "우리 반은 공룡 박물관으로 field trip(현장 학습)을 갔어요. day trip(당일 여행)이라 다들 신났죠. 선생님은 이건 fieldwork(현장 조사)라며 보고서를 쓰라고 하셨어요. 그런데 동수가 사라졌어요! 한참 찾다 보니 동수는 공룡 뼈 옆에서 똑같은 자세로 누워 전시물인 척하고 있었어요. 관람객들이 사진까지 찍었대요."
+}

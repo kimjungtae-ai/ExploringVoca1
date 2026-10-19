@@ -1,0 +1,68 @@
+{
+ "word": "pick up",
+ "pos": "구동사",
+ "phonetic": "[pɪk ʌp]",
+ "meaning": "줍다, 집어 들다, (차로) 데리러 가다, (기술·언어를) 익히다, 회복되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pick",
+   "meaning": "집다 (pick)",
+   "note": "손으로 콕 집는다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로 (up)",
+   "note": "바닥에서 '위로' 들어 올리는 이미지예요."
+  }
+ ],
+ "summary": "<strong>pick</strong> (집다) + <strong>up</strong> (위로) = '집어서 위로 들어 올리다'에서 <strong>'줍다'</strong>, 사람을 차에 태우면 <strong>'데리러 가다'</strong>, 지식을 주워 담으면 <strong>'익히다'</strong>",
+ "historyTitle": "줍기에서 시작된 다양한 뜻",
+ "historyBody": "pick up은 원래 땅에 떨어진 것을 '집어 올리다'라는 뜻이에요. 여기서 사람을 차에 태워 가다, 언어나 습관을 자연스럽게 익히다, 경기나 매출이 다시 올라가다 등 여러 뜻이 생겨났어요. 수능에서는 문맥에 맞는 뜻을 고르는 게 중요해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pickup",
+   "pos": "명사",
+   "meaning": "픽업, 수령, 소형 트럭",
+   "en": "The pickup time for your order is 3 p.m.",
+   "ko": "주문하신 물건 수령 시간은 오후 3시예요."
+  },
+  {
+   "word": "pick out",
+   "pos": "구동사",
+   "meaning": "고르다",
+   "en": "She picked out a red dress.",
+   "ko": "그녀는 빨간 드레스를 골랐어요."
+  },
+  {
+   "word": "drop off",
+   "pos": "구동사",
+   "meaning": "내려 주다",
+   "en": "Dad drops me off at school every morning.",
+   "ko": "아빠는 매일 아침 나를 학교에 내려 주세요."
+  },
+  {
+   "word": "give up",
+   "pos": "구동사",
+   "meaning": "포기하다",
+   "en": "Never give up on your dreams.",
+   "ko": "절대 꿈을 포기하지 마세요."
+  },
+  {
+   "word": "look up",
+   "pos": "구동사",
+   "meaning": "찾아보다",
+   "en": "Look up the word in the dictionary.",
+   "ko": "그 단어를 사전에서 찾아보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 떨어진 쓰레기를 줍거나, 학원 앞에서 아이를 차에 태우는 장면",
+ "imageCaption": "바닥의 물건을 쑥 들어 올리는 손, 그리고 친구를 태우러 온 자동차를 함께 떠올려 보세요.",
+ "movieLineEn": "I'll pick you up at eight. Don't be late.",
+ "movieLineKo": "8시에 데리러 갈게. 늦지 마.",
+ "storyTitle": "영어 천재 강아지",
+ "story": "엄마가 학원 앞에서 나를 pick up(데리러 가다)하기로 했어요. 기다리며 길에 떨어진 쓰레기를 pick up(줍다)했죠. 엄마는 날 태우고 동생은 학교에 drop off(내려 주다)했어요. 집에 오니 강아지가 영어 방송을 보며 'sit'을 pick up(익히다)했더라고요. 나보다 빨라요!"
+}

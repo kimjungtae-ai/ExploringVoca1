@@ -1,0 +1,68 @@
+{
+ "word": "communal area",
+ "pos": "명사구",
+ "phonetic": "[kəˈmjuːnl ˈeriə]",
+ "meaning": "공용 공간, 공동 구역",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "communal",
+   "meaning": "공동의, 공용의 (communal)",
+   "note": "com-(함께)+munis(의무를 나누는)에서 온 '함께 쓰는'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "area",
+   "meaning": "지역, 구역, 공간 (area)",
+   "note": "일정한 넓이를 가진 장소를 말해요."
+  }
+ ],
+ "summary": "<strong>communal</strong> (함께 쓰는) + <strong>area</strong> (공간) = '여러 사람이 함께 쓰는 공간'에서 <strong>'공용 공간'</strong>",
+ "historyTitle": "'함께 나누는' communis",
+ "historyBody": "communal은 라틴어 'communis(공통의, 함께 나누는)'에서 왔어요. common(공통의), community(공동체), communicate(소통하다)도 모두 같은 뿌리예요. area는 라틴어로 '빈 땅, 마당'을 뜻하던 말이 그대로 영어에 들어온 거예요. 기숙사나 아파트의 라운지, 주방 같은 곳을 communal area라고 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "community",
+   "pos": "명사",
+   "meaning": "공동체, 지역 사회",
+   "en": "Our community holds a festival every fall.",
+   "ko": "우리 지역 사회는 매년 가을 축제를 열어요."
+  },
+  {
+   "word": "common",
+   "pos": "형용사",
+   "meaning": "공통의, 흔한",
+   "en": "We have a common interest in music.",
+   "ko": "우리는 음악이라는 공통 관심사가 있어."
+  },
+  {
+   "word": "communicate",
+   "pos": "동사",
+   "meaning": "의사소통하다",
+   "en": "Dolphins communicate with sounds.",
+   "ko": "돌고래는 소리로 의사소통해요."
+  },
+  {
+   "word": "shared space",
+   "pos": "명사구",
+   "meaning": "공유 공간",
+   "en": "Please keep the shared space clean.",
+   "ko": "공유 공간을 깨끗하게 사용해 주세요."
+  },
+  {
+   "word": "public area",
+   "pos": "명사구",
+   "meaning": "공공장소",
+   "en": "Smoking is not allowed in public areas.",
+   "ko": "공공장소에서는 흡연이 금지돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 기숙사 학생들이 함께 쓰는 거실에서 수다 떠는 장면",
+ "imageCaption": "소파와 전자레인지가 있는 기숙사 라운지에서 여러 학생이 어울리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Please don't leave your dishes in the communal area.",
+ "movieLineKo": "공용 공간에 그릇을 두고 가지 마세요.",
+ "storyTitle": "공용 냉장고의 미스터리",
+ "story": "기숙사 communal area(공용 공간) 냉장고에서 푸딩이 사라졌어요. 학생들은 community(공동체) 회의를 열고 서로 communicate(의사소통하다)했죠. common(공통의) 의심을 받은 건 늘 배고픈 도윤이! 그런데 CCTV를 보니 범인은 사감 선생님이었어요. 선생님은 얼굴을 붉히며 다음 날 푸딩 열 개를 사 오셨답니다."
+}

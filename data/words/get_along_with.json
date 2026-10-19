@@ -1,0 +1,74 @@
+{
+ "word": "get along with",
+ "pos": "구동사",
+ "phonetic": "[ɡet əˈlɔːŋ wɪð]",
+ "meaning": "~와 잘 지내다, ~와 사이좋게 지내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "get",
+   "meaning": "~하게 되다, 가다 (get)",
+   "note": "어떤 상태로 '되어 가다'는 움직임을 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "along",
+   "meaning": "~을 따라, 함께 나아가 (along)",
+   "note": "같은 길을 나란히 따라가는 이미지예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께 (with)",
+   "note": "누구와 함께인지 대상을 연결해요."
+  }
+ ],
+ "summary": "<strong>get</strong> (가다) + <strong>along</strong> (나란히 따라) + <strong>with</strong> (~와) = '~와 나란히 같은 길을 가다'라서 <strong>'~와 잘 지내다'</strong>예요.",
+ "historyTitle": "나란히 걸어가는 두 사람",
+ "historyBody": "along은 고대 영어 andlang(~을 따라 쭉)에서 온 말이에요. get along은 원래 '앞으로 나아가다, 그럭저럭 지내다'라는 뜻이었고, with가 붙으면서 '누군가와 함께 잘 지내다'라는 의미가 되었어요. 영국에서는 get on with라고도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "get on with",
+   "pos": "구동사",
+   "meaning": "~와 잘 지내다 (영국식)",
+   "en": "She gets on well with her classmates.",
+   "ko": "그녀는 반 친구들과 잘 지내요."
+  },
+  {
+   "word": "go along with",
+   "pos": "구동사",
+   "meaning": "~에 동의하다, 따르다",
+   "en": "I'll go along with your plan.",
+   "ko": "네 계획에 따를게."
+  },
+  {
+   "word": "make friends with",
+   "pos": "숙어",
+   "meaning": "~와 친구가 되다",
+   "en": "I made friends with a girl from Japan.",
+   "ko": "나는 일본에서 온 여자아이와 친구가 됐어요."
+  },
+  {
+   "word": "be on good terms with",
+   "pos": "숙어",
+   "meaning": "~와 사이가 좋다",
+   "en": "I'm on good terms with my neighbors.",
+   "ko": "나는 이웃들과 사이가 좋아요."
+  },
+  {
+   "word": "get together",
+   "pos": "구동사",
+   "meaning": "모이다",
+   "en": "Let's get together this weekend.",
+   "ko": "이번 주말에 모이자."
+  }
+ ],
+ "imageSense": "대표 의미: 고양이와 강아지가 소파에서 사이좋게 자는 장면",
+ "imageCaption": "서로 다른 둘이 나란히 걸어가며 웃는 모습을 떠올려 보세요.",
+ "movieLineEn": "We don't have to be friends. We just have to get along.",
+ "movieLineKo": "우리가 친구일 필요는 없어. 그냥 잘 지내기만 하면 돼.",
+ "storyTitle": "앙숙의 비밀",
+ "story": "우리 집 고양이와 강아지는 서로 get along with(~와 잘 지내다)하지 못했어요. 엄마가 둘을 make friends with(~와 친구가 되다)하게 하려고 같은 방에 두었죠. 다음 날, 둘이 be on good terms with(~와 사이가 좋다)한 것처럼 꼭 붙어 있었어요. 감동했는데… 알고 보니 둘이 get together(모이다)해서 내 간식을 털고 있었어요!"
+}

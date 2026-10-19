@@ -1,0 +1,68 @@
+{
+ "word": "waste separation",
+ "pos": "명사구",
+ "phonetic": "[weɪst ˌsepəˈreɪʃn]",
+ "meaning": "분리수거, 쓰레기 분리배출",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "waste",
+   "meaning": "쓰레기, 낭비 (waste)",
+   "note": "무엇을 나누는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "separation",
+   "meaning": "분리 (separation)",
+   "note": "하나로 섞인 것을 따로 나누는 일이에요."
+  }
+ ],
+ "summary": "<strong>waste</strong> (쓰레기) + <strong>separation</strong> (분리) = '쓰레기를 종류별로 나누는 일'에서 <strong>'분리수거'</strong>",
+ "historyTitle": "'황폐한 땅'과 '따로 준비하다'",
+ "historyBody": "waste는 라틴어 vastus(텅 빈, 황폐한)에서 고대 북부 프랑스어 waster를 거쳐 왔어요. separation은 라틴어 separare에서 왔는데, se-(따로)와 parare(준비하다)가 합쳐져 '따로 떼어 놓다'라는 뜻이었어요. 영어권에서는 waste sorting이나 recycling이라는 말도 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "recycle",
+   "pos": "동사",
+   "meaning": "재활용하다",
+   "en": "We recycle plastic bottles and cans.",
+   "ko": "우리는 플라스틱 병과 캔을 재활용해요."
+  },
+  {
+   "word": "separate",
+   "pos": "동사 / 형용사",
+   "meaning": "분리하다 / 별개의",
+   "en": "Please separate paper from plastic.",
+   "ko": "종이와 플라스틱을 분리해 주세요."
+  },
+  {
+   "word": "food waste",
+   "pos": "명사구",
+   "meaning": "음식물 쓰레기",
+   "en": "Food waste is a serious problem in many cities.",
+   "ko": "음식물 쓰레기는 많은 도시에서 심각한 문제예요."
+  },
+  {
+   "word": "wasteful",
+   "pos": "형용사",
+   "meaning": "낭비하는",
+   "en": "Leaving the lights on is wasteful.",
+   "ko": "불을 켜 두는 것은 낭비예요."
+  },
+  {
+   "word": "dispose of",
+   "pos": "구동사",
+   "meaning": "~을 처리하다, 버리다",
+   "en": "Dispose of batteries in the special box.",
+   "ko": "건전지는 전용 상자에 버리세요."
+  }
+ ],
+ "imageSense": "대표 의미: 종이, 플라스틱, 캔을 색깔별 통에 나누어 버리는 장면",
+ "imageCaption": "파란 통, 노란 통, 초록 통 앞에서 쓰레기를 하나씩 골라 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "In this house, waste separation is not optional. It's the law!",
+ "movieLineKo": "이 집에서 분리수거는 선택이 아니야. 법이라고!",
+ "storyTitle": "분리수거 감독관",
+ "story": "우리 아파트에는 waste separation(분리수거) 감독관 할머니가 계세요. 누군가 플라스틱을 잘못 버리면 \"separate(분리하다)해야지!\" 하고 외치시죠. 하루는 아빠가 food waste(음식물 쓰레기)에 닭 뼈를 넣다 걸렸어요. 아빠는 그날 밤 recycle(재활용하다) 교육을 두 시간 받고 왔답니다."
+}

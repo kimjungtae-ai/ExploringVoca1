@@ -1,0 +1,74 @@
+{
+ "word": "have access to",
+ "pos": "숙어",
+ "phonetic": "[hæv ˈækses tuː]",
+ "meaning": "~에 접근할 수 있다, ~을 이용할 수 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "have",
+   "meaning": "가지다 (have)",
+   "note": "'권리나 기회를 가지고 있다'는 뜻을 맡아요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "access",
+   "meaning": "접근, 이용 (approach)",
+   "note": "다가가서 쓸 수 있는 '접근권'이라는 핵심 의미예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에, ~으로 (to)",
+   "note": "무엇에 접근하는지 방향을 가리켜요."
+  }
+ ],
+ "summary": "<strong>have</strong> (가지다) + <strong>access</strong> (접근) + <strong>to</strong> (~으로) = '~으로 다가갈 권리를 가지다'에서 <strong>'~을 이용할 수 있다'</strong>",
+ "historyTitle": "'가까이 다가감'을 뜻한 라틴어 accessus",
+ "historyBody": "access는 라틴어 accedere(다가가다)의 과거분사 accessus에서 왔어요. ad-(~로)와 cedere(가다)가 합쳐져 '~쪽으로 가다'라는 뜻이었죠. 그래서 have access to는 어떤 정보나 장소에 '다가갈 수 있는 길을 가졌다'는 의미가 된답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accessible",
+   "pos": "형용사",
+   "meaning": "접근 가능한, 이용하기 쉬운",
+   "en": "The museum is accessible to wheelchair users.",
+   "ko": "그 박물관은 휠체어 이용자도 접근할 수 있어."
+  },
+  {
+   "word": "gain access to",
+   "pos": "숙어",
+   "meaning": "~에 접근하다, ~을 얻다",
+   "en": "Students can gain access to the library online.",
+   "ko": "학생들은 온라인으로 도서관을 이용할 수 있어."
+  },
+  {
+   "word": "approach",
+   "pos": "동사/명사",
+   "meaning": "다가가다 / 접근법",
+   "en": "A cat slowly approached the bird.",
+   "ko": "고양이가 천천히 새에게 다가갔어."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 계속하다",
+   "en": "Please proceed to the next question.",
+   "ko": "다음 문제로 넘어가세요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "The cost exceeded our budget.",
+   "ko": "비용이 우리 예산을 초과했어."
+  }
+ ],
+ "imageSense": "대표 의미: 출입 카드를 대자 문이 열리는 장면",
+ "imageCaption": "카드를 찍으면 '띡' 하고 문이 열리는, 들어갈 길이 생기는 모습을 떠올려 보세요.",
+ "movieLineEn": "Only three people have access to this vault, and you're not one of them.",
+ "movieLineKo": "이 금고에 접근할 수 있는 사람은 셋뿐이고, 넌 거기 없어.",
+ "storyTitle": "와이파이 비밀번호",
+ "story": "캠핑장에서 도윤이는 인터넷을 have access to(~을 이용할 수 있다) 하고 싶었어요. 관리소에 approach(다가가다)하자 아저씨가 accessible(이용 가능한) 와이파이가 딱 하나 있다고 했죠. 비밀번호를 받고 proceed(진행하다)하려는 순간 알았어요. 비밀번호가 '스마트폰을내려놓고별을봐'였거든요!"
+}

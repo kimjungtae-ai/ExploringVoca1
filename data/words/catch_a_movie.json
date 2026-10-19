@@ -1,0 +1,68 @@
+{
+ "word": "catch a movie",
+ "pos": "숙어",
+ "phonetic": "[kætʃ ə ˈmuːvi]",
+ "meaning": "영화를 보러 가다, 영화를 보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "catch",
+   "meaning": "잡다; (늦지 않게) 보다 (catch)",
+   "note": "놓치기 전에 붙잡는다는 느낌으로, 상영 시간을 '잡아서' 본다는 뜻이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "a movie",
+   "meaning": "영화 한 편 (a movie)",
+   "note": "잡는 대상, 즉 볼 영화를 나타내요."
+  }
+ ],
+ "summary": "<strong>catch</strong> (잡다) + <strong>a movie</strong> (영화) = '상영 중인 영화를 놓치지 않고 잡다'에서 <strong>'영화를 보러 가다'</strong>",
+ "historyTitle": "사냥에서 나온 catch",
+ "historyBody": "catch는 라틴어 'captiare(붙잡으려 하다)'가 북부 고대 프랑스어 cachier를 거쳐 들어온 말로, 원래 사냥감을 쫓아 잡는다는 뜻이었어요. 그래서 버스를 '잡다(catch a bus)', 공연을 '보다(catch a show)'처럼 '시간 맞춰 놓치지 않다'라는 뜻으로 넓어졌어요. catch a movie는 일상 회화에서 아주 자주 쓰는 캐주얼한 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "catch a bus",
+   "pos": "숙어",
+   "meaning": "버스를 (제때) 타다",
+   "en": "I ran fast to catch the last bus.",
+   "ko": "나는 막차를 타려고 빨리 뛰었어."
+  },
+  {
+   "word": "catch a cold",
+   "pos": "숙어",
+   "meaning": "감기에 걸리다",
+   "en": "Wear a jacket, or you'll catch a cold.",
+   "ko": "겉옷 입어, 안 그러면 감기 걸려."
+  },
+  {
+   "word": "catch up with",
+   "pos": "구동사",
+   "meaning": "~을 따라잡다",
+   "en": "I studied hard to catch up with my classmates.",
+   "ko": "나는 반 친구들을 따라잡으려고 열심히 공부했어."
+  },
+  {
+   "word": "catch one's eye",
+   "pos": "숙어",
+   "meaning": "~의 눈길을 끌다",
+   "en": "A red bag in the window caught my eye.",
+   "ko": "진열창의 빨간 가방이 내 눈길을 끌었어."
+  },
+  {
+   "word": "go to the movies",
+   "pos": "숙어",
+   "meaning": "영화 보러 가다",
+   "en": "We go to the movies every Friday.",
+   "ko": "우리는 금요일마다 영화를 보러 가."
+  }
+ ],
+ "imageSense": "대표 의미: 친구와 팝콘을 들고 영화관 좌석에 앉는 장면",
+ "imageCaption": "팝콘을 안고 불 꺼진 극장으로 뛰어 들어가 '아슬아슬하게 영화를 잡는' 모습을 떠올려 보세요.",
+ "movieLineEn": "Want to catch a movie after school?",
+ "movieLineKo": "방과 후에 영화 보러 갈래?",
+ "storyTitle": "영화 대신 잡은 것",
+ "story": "서연이는 친구와 catch a movie(영화 보러 가다)하기로 했어요. 늦을까 봐 뛰어서 catch a bus(버스를 타다)했죠. 그런데 비를 맞아 catch a cold(감기에 걸리다)까지! 극장 앞 포스터가 catch one's eye(눈길을 끌다)했는데… 제목이 '감기 조심'이었어요. 결국 서연이는 영화 대신 감기를 잡았답니다."
+}

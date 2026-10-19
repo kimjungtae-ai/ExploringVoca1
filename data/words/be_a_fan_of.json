@@ -1,0 +1,68 @@
+{
+ "word": "be a fan of",
+ "pos": "숙어",
+ "phonetic": "[bi ə fæn əv]",
+ "meaning": "~의 팬이다, ~을 아주 좋아하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fan",
+   "meaning": "열성 팬 (enthusiast)",
+   "note": "fanatic(광신자)을 줄인 말이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "무엇을 좋아하는지 뒤에서 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be</strong> (~이다) + <strong>a fan</strong> (열성 팬) + <strong>of</strong> (~의) = <strong>'~의 팬이다, ~을 아주 좋아하다'</strong>예요.",
+ "historyTitle": "야구장에서 태어난 fan",
+ "historyBody": "fan(팬)은 19세기 말 미국 야구 관중을 부르던 말로, fanatic(광신자)을 줄인 것이라는 설명이 일반적이에요. fanatic은 라틴어 fanum(신전)에서 온 말로, '신전에 홀린 사람'이라는 뜻이었죠. 선풍기 fan과는 어원이 다른 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be fond of",
+   "pos": "숙어",
+   "meaning": "~을 좋아하다",
+   "en": "My grandpa is fond of old songs.",
+   "ko": "할아버지는 옛날 노래를 좋아하세요."
+  },
+  {
+   "word": "be crazy about",
+   "pos": "숙어",
+   "meaning": "~에 푹 빠지다",
+   "en": "My brother is crazy about dinosaurs.",
+   "ko": "내 동생은 공룡에 푹 빠져 있어요."
+  },
+  {
+   "word": "fanatic",
+   "pos": "명사",
+   "meaning": "광적인 애호가",
+   "en": "He is a soccer fanatic.",
+   "ko": "그는 축구광이에요."
+  },
+  {
+   "word": "fan club",
+   "pos": "명사구",
+   "meaning": "팬클럽",
+   "en": "She joined the singer's fan club.",
+   "ko": "그녀는 그 가수의 팬클럽에 가입했어요."
+  },
+  {
+   "word": "not a big fan of",
+   "pos": "숙어",
+   "meaning": "~을 별로 안 좋아하는",
+   "en": "I'm not a big fan of spicy food.",
+   "ko": "나는 매운 음식을 별로 안 좋아해요."
+  }
+ ],
+ "imageSense": "대표 의미: 콘서트장에서 응원봉을 흔드는 팬들",
+ "imageCaption": "좋아하는 가수 이름을 외치며 응원하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm a big fan of your work. Can I get your autograph?",
+ "movieLineKo": "당신 작품의 열렬한 팬이에요. 사인 좀 해 주실래요?",
+ "storyTitle": "진정한 팬",
+ "story": "우리 할머니는 아이돌 그룹 be a fan of(~의 팬이다)하세요. be crazy about(~에 푹 빠지다)하셔서 fan club(팬클럽)에도 가입하셨죠. 콘서트에 같이 가자고 하셔서 따라갔는데, 할머니가 나보다 노래 가사를 더 많이 외우고 계셨어요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "a bunch of",
+ "pos": "숙어",
+ "phonetic": "[ə bʌntʃ əv]",
+ "meaning": "한 묶음의, 한 다발의, 많은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "a",
+   "meaning": "하나의 (one)",
+   "note": "'한 덩어리'라는 느낌을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "bunch",
+   "meaning": "다발, 송이 (cluster)",
+   "note": "포도송이나 꽃다발처럼 여러 개가 한데 묶인 모습이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "무엇이 묶여 있는지 뒤에서 알려 줘요."
+  }
+ ],
+ "summary": "<strong>a</strong> (하나의) + <strong>bunch</strong> (다발) + <strong>of</strong> (~의) = '~의 한 다발'에서 <strong>'한 묶음의, 많은'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "포도송이에서 '많음'으로",
+ "historyBody": "bunch는 14세기 무렵부터 '혹, 덩어리'를 뜻하다가 곧 '다발, 송이'라는 뜻으로 쓰였어요. 정확한 어원은 확실하지 않다고 사전들은 말해요. 지금은 일상 회화에서 'a lot of'처럼 '많은'의 뜻으로 아주 자주 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "a lot of",
+   "pos": "숙어",
+   "meaning": "많은",
+   "en": "A lot of students take the bus to school.",
+   "ko": "많은 학생들이 버스를 타고 학교에 가요."
+  },
+  {
+   "word": "a bunch of flowers",
+   "pos": "명사구",
+   "meaning": "꽃 한 다발",
+   "en": "He brought a bunch of flowers to his grandmother.",
+   "ko": "그는 할머니께 꽃 한 다발을 가져다드렸어요."
+  },
+  {
+   "word": "a group of",
+   "pos": "숙어",
+   "meaning": "한 무리의",
+   "en": "A group of tourists gathered in front of the museum.",
+   "ko": "한 무리의 관광객이 박물관 앞에 모였어요."
+  },
+  {
+   "word": "a number of",
+   "pos": "숙어",
+   "meaning": "많은, 다수의",
+   "en": "A number of people signed up for the event.",
+   "ko": "많은 사람들이 그 행사에 등록했어요."
+  },
+  {
+   "word": "a pile of",
+   "pos": "숙어",
+   "meaning": "한 더미의, 많은",
+   "en": "There is a pile of homework on my desk.",
+   "ko": "내 책상 위에 숙제가 한 더미 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 포도 한 송이와 꽃 한 다발이 테이블 위에 놓인 장면",
+ "imageCaption": "하나로 묶인 다발을 떠올리면 '여러 개가 한꺼번에, 많이'라는 느낌이 자연스럽게 들 거예요.",
+ "movieLineEn": "I've got a bunch of questions, and you're answering all of them.",
+ "movieLineKo": "나 질문이 한 무더기야, 넌 그거 전부 대답해야 해.",
+ "storyTitle": "꽃다발 대작전",
+ "story": "민수는 고백하려고 a bunch of(한 다발의) 장미를 샀어요. 가는 길에 a group of(한 무리의) 친구들을 만나 a lot of(많은) 응원을 받았죠. 그런데 a pile of(한 더미의) 숙제를 든 선생님이 꽃을 보고 '고마워!' 하고 가져가셨어요!"
+}

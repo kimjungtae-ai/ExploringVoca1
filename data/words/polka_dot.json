@@ -1,0 +1,68 @@
+{
+ "word": "polka dot",
+ "pos": "명사구",
+ "phonetic": "[ˈpoʊlkə dɑːt]",
+ "meaning": "물방울무늬, 땡땡이 무늬",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "polka",
+   "meaning": "폴카 (polka)",
+   "note": "19세기 유럽에서 유행한 경쾌한 춤 이름이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "dot",
+   "meaning": "점 (dot)",
+   "note": "작고 동그란 점이에요."
+  }
+ ],
+ "summary": "<strong>polka</strong> (폴카 춤) + <strong>dot</strong> (점) = '폴카 춤이 유행하던 시절 인기를 끈 점무늬'에서 <strong>'물방울무늬'</strong>",
+ "historyTitle": "춤 열풍이 붙여 준 무늬 이름",
+ "historyBody": "polka는 19세기 중반 보헤미아(지금의 체코)에서 시작되어 유럽과 미국에 크게 유행한 춤이에요. 그 인기에 기대어 모자, 옷 등 여러 상품에 polka라는 이름이 붙었고, 점무늬도 polka dot이라 불리게 되었어요. 춤과 무늬 사이에 특별한 의미 관계는 없다고 봐요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dot",
+   "pos": "명사 / 동사",
+   "meaning": "점 / 점을 찍다",
+   "en": "Connect the dots to draw a star.",
+   "ko": "점들을 이어서 별을 그려 보세요."
+  },
+  {
+   "word": "dotted",
+   "pos": "형용사",
+   "meaning": "점이 찍힌, 점선의",
+   "en": "Cut along the dotted line.",
+   "ko": "점선을 따라 자르세요."
+  },
+  {
+   "word": "stripe",
+   "pos": "명사",
+   "meaning": "줄무늬",
+   "en": "He wore a shirt with blue stripes.",
+   "ko": "그는 파란 줄무늬 셔츠를 입었어요."
+  },
+  {
+   "word": "checkered",
+   "pos": "형용사",
+   "meaning": "체크무늬의",
+   "en": "She bought a checkered skirt.",
+   "ko": "그녀는 체크무늬 치마를 샀어요."
+  },
+  {
+   "word": "pattern",
+   "pos": "명사",
+   "meaning": "무늬, 패턴",
+   "en": "I love the flower pattern on this dress.",
+   "ko": "이 원피스의 꽃무늬가 너무 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 빨간 바탕에 하얀 동그라미가 콕콕 박힌 원피스",
+ "imageCaption": "빨간 바탕에 하얀 동그란 점들이 줄지어 있는 귀여운 옷을 떠올려 보세요.",
+ "movieLineEn": "Who wears polka dots to a bank robbery?",
+ "movieLineKo": "은행 털러 오면서 누가 물방울무늬 옷을 입어?",
+ "storyTitle": "점박이 패션쇼",
+ "story": "패션쇼 날, 나는 polka dot(물방울무늬) 셔츠를 입었어요. 친구는 stripe(줄무늬), 다른 친구는 checkered(체크무늬의) 바지를 입었죠. 셋이 나란히 서니 pattern(무늬) 전시회 같았어요. 그때 무대 뒤에서 달마시안 강아지가 나타나 1등을 가져갔어요!"
+}

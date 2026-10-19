@@ -1,0 +1,68 @@
+{
+ "word": "use up",
+ "pos": "구동사",
+ "phonetic": "[juːz ʌp]",
+ "meaning": "~을 다 써 버리다, 소진하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "use",
+   "meaning": "쓰다, 사용하다 (use)",
+   "note": "무언가를 사용한다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히, 끝까지 (up)",
+   "note": "남김없이 '완전히'라는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>use</strong> (쓰다) + <strong>up</strong> (완전히) = '남김없이 완전히 쓰다'에서 <strong>'다 써 버리다'</strong>",
+ "historyTitle": "완료의 up",
+ "historyBody": "use는 라틴어 usus(사용)와 uti(사용하다)에서 고대 프랑스어 user를 거쳐 들어왔어요. up은 원래 '위로'라는 뜻이지만, eat up, clean up, use up처럼 동사 뒤에 붙으면 '완전히, 끝까지'라는 완료의 느낌을 줘요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "run out of",
+   "pos": "구동사",
+   "meaning": "~이 다 떨어지다",
+   "en": "We ran out of milk this morning.",
+   "ko": "오늘 아침 우유가 다 떨어졌어요."
+  },
+  {
+   "word": "eat up",
+   "pos": "구동사",
+   "meaning": "다 먹어 치우다",
+   "en": "The kids ate up all the cookies.",
+   "ko": "아이들이 쿠키를 다 먹어 치웠어요."
+  },
+  {
+   "word": "used up",
+   "pos": "형용사구",
+   "meaning": "다 써 버린",
+   "en": "The used-up batteries should be recycled.",
+   "ko": "다 쓴 건전지는 재활용해야 해요."
+  },
+  {
+   "word": "exhaust",
+   "pos": "동사",
+   "meaning": "다 써 버리다, 지치게 하다",
+   "en": "The long walk exhausted the children.",
+   "ko": "긴 산책이 아이들을 지치게 했어요."
+  },
+  {
+   "word": "useful",
+   "pos": "형용사",
+   "meaning": "유용한",
+   "en": "This app is useful for learning words.",
+   "ko": "이 앱은 단어 공부에 유용해요."
+  }
+ ],
+ "imageSense": "대표 의미: 치약 튜브를 끝까지 꾹꾹 짜서 다 쓰는 장면",
+ "imageCaption": "마지막 한 방울까지 짜낸 납작한 치약 튜브를 떠올려 보세요.",
+ "movieLineEn": "Who used up all the hot water? I'm freezing!",
+ "movieLineKo": "누가 뜨거운 물 다 써 버렸어? 얼어 죽겠어!",
+ "storyTitle": "데이터 대참사",
+ "story": "민재는 한 달 데이터를 3일 만에 use up(다 써 버리다)했어요. 영상을 보다 eat up(다 먹어 치우다)하듯 데이터가 사라졌죠. 결국 데이터가 run out of(다 떨어지다)되자 민재는 와이파이를 찾아 동네를 헤맸어요. 그 덕분에 매일 만 보를 걸어 아주 useful(유용한) 운동이 됐답니다!"
+}

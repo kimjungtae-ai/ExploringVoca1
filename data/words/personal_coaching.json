@@ -1,0 +1,68 @@
+{
+ "word": "personal coaching",
+ "pos": "명사구",
+ "phonetic": "[ˈpɜːrsənəl ˈkoʊtʃɪŋ]",
+ "meaning": "개인 지도, 1:1 코칭",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "personal",
+   "meaning": "개인의 (personal)",
+   "note": "person(사람) + -al(~의)로 '개인의'예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "coaching",
+   "meaning": "지도, 코칭 (coaching)",
+   "note": "coach(지도하다) + -ing로 '지도하는 일'이에요."
+  }
+ ],
+ "summary": "<strong>personal</strong> (개인의) + <strong>coaching</strong> (지도) = '한 사람에게 맞춘 지도'에서 <strong>'개인 지도, 1:1 코칭'</strong>",
+ "historyTitle": "헝가리 마을의 마차에서 온 coach",
+ "historyBody": "coach는 헝가리의 마을 Kocs에서 만든 마차(kocsi)에서 유래했어요. 19세기 영국 대학에서 학생을 시험까지 '태워 데려다주는' 개인 교사를 속어로 coach라 부르다가, 운동 코치라는 뜻으로 넓어졌어요. person은 라틴어 persona(가면, 배역)에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "coach",
+   "pos": "명사 / 동사",
+   "meaning": "코치 / 지도하다",
+   "en": "Our coach made us run ten laps.",
+   "ko": "코치님이 우리에게 열 바퀴를 뛰게 했어요."
+  },
+  {
+   "word": "personal trainer",
+   "pos": "명사구",
+   "meaning": "개인 트레이너",
+   "en": "He hired a personal trainer to get in shape.",
+   "ko": "그는 몸매를 가꾸려고 개인 트레이너를 고용했어요."
+  },
+  {
+   "word": "personality",
+   "pos": "명사",
+   "meaning": "성격, 개성",
+   "en": "She has a cheerful personality.",
+   "ko": "그녀는 쾌활한 성격을 가졌어요."
+  },
+  {
+   "word": "tutor",
+   "pos": "명사 / 동사",
+   "meaning": "개인 교사 / 개인 지도하다",
+   "en": "A college student tutors me in math.",
+   "ko": "대학생 한 명이 내게 수학을 개인 지도해 줘요."
+  },
+  {
+   "word": "mentor",
+   "pos": "명사",
+   "meaning": "멘토, 조언자",
+   "en": "My mentor gave me great advice about my career.",
+   "ko": "멘토가 내 진로에 대해 좋은 조언을 해 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 코치가 한 학생 옆에서 자세를 하나하나 잡아 주는 장면",
+ "imageCaption": "단 한 사람을 위해 옆에서 자세와 습관을 꼼꼼히 고쳐 주는 코치를 떠올려 보세요.",
+ "movieLineEn": "With my personal coaching, you'll be a champion in a month.",
+ "movieLineKo": "내 개인 지도라면 한 달 안에 챔피언이 될 거야.",
+ "storyTitle": "1:1 코칭의 정체",
+ "story": "나는 수영 personal coaching(개인 지도)을 신청했어요. coach(코치)님은 엄격했지만 personality(성격)는 다정했죠. 한 달 뒤 나는 물에 뜨게 되었어요! 그런데 알고 보니 우리 코치님은 수영을 할 줄 몰라 늘 물 밖에서만 가르치셨던 거예요."
+}

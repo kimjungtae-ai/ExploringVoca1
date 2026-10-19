@@ -1,0 +1,68 @@
+{
+ "word": "at the latest",
+ "pos": "전치사구",
+ "phonetic": "[æt ðə ˈleɪtɪst]",
+ "meaning": "늦어도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "at",
+   "meaning": "~에 (at)",
+   "note": "시간의 한 지점을 콕 찍어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "latest",
+   "meaning": "가장 늦은 (latest)",
+   "note": "late(늦은)의 최상급이에요."
+  }
+ ],
+ "summary": "<strong>at</strong> (~에) + <strong>the latest</strong> (가장 늦은 때) = '가장 늦은 때에'라는 뜻에서 <strong>'늦어도'</strong>예요.",
+ "historyTitle": "최상급이 만든 '마감선'",
+ "historyBody": "late는 고대 영어 læt(느린, 늦은)에서 왔어요. 'at the latest'는 '가장 늦은 시점이 되더라도'라는 뜻으로 마감 기한을 말할 때 써요. 반대로 'at the earliest'는 '빨라도'라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "at the earliest",
+   "pos": "전치사구",
+   "meaning": "빨라도",
+   "en": "The package will arrive on Monday at the earliest.",
+   "ko": "택배는 빨라도 월요일에 도착할 거예요."
+  },
+  {
+   "word": "no later than",
+   "pos": "숙어",
+   "meaning": "늦어도 ~까지",
+   "en": "Submit your essay no later than Friday.",
+   "ko": "늦어도 금요일까지 에세이를 제출하세요."
+  },
+  {
+   "word": "at least",
+   "pos": "전치사구",
+   "meaning": "적어도",
+   "en": "Drink at least six glasses of water a day.",
+   "ko": "하루에 적어도 물 여섯 잔을 마시세요."
+  },
+  {
+   "word": "lately",
+   "pos": "부사",
+   "meaning": "최근에",
+   "en": "Have you seen any good movies lately?",
+   "ko": "최근에 좋은 영화 본 거 있어?"
+  },
+  {
+   "word": "deadline",
+   "pos": "명사",
+   "meaning": "마감 기한",
+   "en": "The deadline for the contest is next week.",
+   "ko": "대회 마감은 다음 주예요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력의 마감일에 빨간 동그라미를 친 장면",
+ "imageCaption": "'아무리 늦어도 이 날까지!'라는 빨간 선을 떠올려 보세요.",
+ "movieLineEn": "Be back by midnight at the latest. Not one minute later.",
+ "movieLineKo": "늦어도 자정까지는 돌아와. 1분도 늦으면 안 돼.",
+ "storyTitle": "자정의 약속",
+ "story": "엄마가 'at the latest(늦어도) 10시까지 와'라고 하셨어요. 나는 no later than(늦어도 ~까지) 9시 59분에 도착했죠. 그런데 엄마가 오늘은 deadline(마감 기한)이 9시였다며, 지난주 at least(적어도) 세 번 늦었던 벌이라고 하셨어요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "check out",
+ "pos": "구동사",
+ "phonetic": "[tʃek aʊt]",
+ "meaning": "확인하다, 살펴보다, (호텔에서) 체크아웃하다, (책을) 대출하다, 계산하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "check",
+   "meaning": "확인하다, 점검하다 (check)",
+   "note": "무엇이 맞는지 살펴본다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "확인을 끝까지 하거나, 확인을 마치고 밖으로 나가는 이미지예요."
+  }
+ ],
+ "summary": "<strong>check</strong> (확인하다) + <strong>out</strong> (밖으로, 끝까지) = '끝까지 확인하다 / 확인받고 나가다'에서 <strong>'살펴보다, 체크아웃하다, 대출하다'</strong>",
+ "historyTitle": "체스판에서 시작된 check",
+ "historyBody": "check는 페르시아어 'shah(왕)'에서 왔어요. 체스에서 왕을 위협할 때 외치는 'Check!'가 고대 프랑스어 eschec를 거쳐 영어로 들어왔죠. 왕을 멈춰 세우듯 '멈추고 점검하다'라는 뜻이 생겼어요. 호텔이나 도서관에서 기록을 확인받고 나가는 데서 check out이 '퇴실하다, 대출하다'가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "check in",
+   "pos": "구동사",
+   "meaning": "체크인하다, 탑승 수속하다",
+   "en": "We checked in at the hotel at 3 p.m.",
+   "ko": "우리는 오후 3시에 호텔에 체크인했어."
+  },
+  {
+   "word": "checkout",
+   "pos": "명사",
+   "meaning": "계산대, 퇴실",
+   "en": "Please pay at the checkout.",
+   "ko": "계산대에서 계산해 주세요."
+  },
+  {
+   "word": "check up on",
+   "pos": "구동사",
+   "meaning": "~을 확인하다, 살피다",
+   "en": "Mom called to check up on me.",
+   "ko": "엄마가 나를 살피려고 전화하셨어."
+  },
+  {
+   "word": "look into",
+   "pos": "구동사",
+   "meaning": "조사하다, 살펴보다",
+   "en": "The police will look into the case.",
+   "ko": "경찰이 그 사건을 조사할 거예요."
+  },
+  {
+   "word": "figure out",
+   "pos": "구동사",
+   "meaning": "알아내다, 이해하다",
+   "en": "I finally figured out the answer.",
+   "ko": "나는 마침내 답을 알아냈어."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 대출 창구에서 책을 빌리며 바코드를 찍는 장면",
+ "imageCaption": "호텔 프런트에서 열쇠를 반납하고 캐리어를 끌고 나가는 모습도 함께 떠올려 보세요.",
+ "movieLineEn": "Hey, check out this cool video!",
+ "movieLineKo": "야, 이 멋진 영상 좀 봐 봐!",
+ "storyTitle": "도서관에서 생긴 일",
+ "story": "윤아는 도서관에서 책을 check out(대출하다)하려 했어요. 사서가 \"카드부터 check in(등록하다)하세요\"라고 했죠. 윤아는 이유를 figure out(알아내다)하려고 카드를 살폈어요. 알고 보니 그건 마트 checkout(계산대) 포인트 카드였어요. 사서는 웃으며 \"마트에서 책도 파나요?\"라고 물었답니다."
+}

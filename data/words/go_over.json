@@ -1,0 +1,68 @@
+{
+ "word": "go over",
+ "pos": "구동사",
+ "phonetic": "[ɡoʊ ˈoʊvər]",
+ "meaning": "검토하다, 살펴보다; 복습하다; 건너가다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "go",
+   "meaning": "가다 (go)",
+   "note": "움직여 가는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "over",
+   "meaning": "위로 넘어, 처음부터 끝까지 (over)",
+   "note": "대상 위를 처음부터 끝까지 훑고 지나가는 이미지예요."
+  }
+ ],
+ "summary": "<strong>go</strong> (가다) + <strong>over</strong> (위를 훑으며 끝까지) = '내용 위를 처음부터 끝까지 훑고 지나가다'라서 <strong>'검토하다, 복습하다'</strong>예요.",
+ "historyTitle": "위를 훑고 지나가는 over",
+ "historyBody": "go는 고대 영어 gan에서 온 아주 오래된 게르만어예요. 과거형 went는 원래 wend(가다, 돌다)라는 다른 동사의 과거형을 빌려 온 것이랍니다. over는 고대 영어 ofer(~ 위에, 넘어서)에서 왔어요. 시선이나 손가락이 서류 '위를 쭉 지나가는' 모습에서 '검토하다, 다시 살펴보다'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "look over",
+   "pos": "구동사",
+   "meaning": "훑어보다",
+   "en": "Can you look over my essay?",
+   "ko": "내 에세이 좀 훑어봐 줄래?"
+  },
+  {
+   "word": "review",
+   "pos": "동사 / 명사",
+   "meaning": "복습하다, 검토하다 / 검토",
+   "en": "Review your notes before the exam.",
+   "ko": "시험 전에 필기를 복습하세요."
+  },
+  {
+   "word": "go through",
+   "pos": "구동사",
+   "meaning": "겪다; 살펴보다",
+   "en": "She went through all the files.",
+   "ko": "그녀는 모든 파일을 살펴봤어요."
+  },
+  {
+   "word": "check over",
+   "pos": "구동사",
+   "meaning": "꼼꼼히 확인하다",
+   "en": "Check over your answers before you hand them in.",
+   "ko": "제출하기 전에 답을 꼼꼼히 확인하세요."
+  },
+  {
+   "word": "think over",
+   "pos": "구동사",
+   "meaning": "곰곰이 생각하다",
+   "en": "Think it over before you decide.",
+   "ko": "결정하기 전에 곰곰이 생각해 봐."
+  }
+ ],
+ "imageSense": "대표 의미: 시험 전날 교과서를 처음부터 끝까지 훑어보는 학생",
+ "imageCaption": "형광펜을 들고 노트 위를 쭉 훑어 내려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let's go over the plan one more time.",
+ "movieLineKo": "계획을 한 번 더 검토해 보자.",
+ "storyTitle": "완벽한 복습",
+ "story": "시험 전날, 나는 교과서를 세 번이나 go over(복습하다)했어요. 노트도 look over(훑어보다)하고 문제집도 review(복습하다)했죠. 친구가 \"너 완벽하다!\"라고 했어요. 다음 날 시험지를 받고 check over(확인하다)해 보니… 내가 공부한 건 수학, 오늘 시험은 영어였어요! 다음엔 시간표부터 go over(검토하다)해야겠어요."
+}

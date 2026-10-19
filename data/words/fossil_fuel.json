@@ -1,0 +1,68 @@
+{
+ "word": "fossil fuel",
+ "pos": "명사구",
+ "phonetic": "[ˈfɑːsl fjuːəl]",
+ "meaning": "화석 연료",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "fossil",
+   "meaning": "화석 (fossil)",
+   "note": "라틴어 fossilis(땅에서 파낸)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fuel",
+   "meaning": "연료 (fuel)",
+   "note": "고대 프랑스어 fouaille(땔감)에서 왔고, focus(화로)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>fossil</strong> (땅에서 파낸 화석) + <strong>fuel</strong> (연료) = '오래된 생물 화석에서 나온 연료'라서 <strong>'화석 연료'</strong>예요.",
+ "historyTitle": "땅에서 파낸 연료",
+ "historyBody": "fossil은 라틴어 fodere(파다)에서 나온 fossilis(파낸)에서 왔어요. 석탄, 석유, 천연가스는 수백만 년 전 동식물이 땅속에서 변한 것이라 '파내는 연료'라는 이름이 붙었어요. fuel은 라틴어 focus(화로)에서 갈라져 나온 말로, 불을 피우는 재료를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renewable energy",
+   "pos": "명사구",
+   "meaning": "재생 에너지",
+   "en": "Solar power is a type of renewable energy.",
+   "ko": "태양열은 재생 에너지의 한 종류예요."
+  },
+  {
+   "word": "carbon emissions",
+   "pos": "명사구",
+   "meaning": "탄소 배출",
+   "en": "Cars produce a lot of carbon emissions.",
+   "ko": "자동차는 많은 탄소를 배출해요."
+  },
+  {
+   "word": "fossil",
+   "pos": "명사",
+   "meaning": "화석",
+   "en": "Scientists found a dinosaur fossil in the desert.",
+   "ko": "과학자들이 사막에서 공룡 화석을 발견했어요."
+  },
+  {
+   "word": "fuel",
+   "pos": "명사 / 동사",
+   "meaning": "연료 / 부추기다",
+   "en": "The rumor fueled her anger.",
+   "ko": "그 소문이 그녀의 화를 부추겼어요."
+  },
+  {
+   "word": "global warming",
+   "pos": "명사구",
+   "meaning": "지구 온난화",
+   "en": "Burning coal adds to global warming.",
+   "ko": "석탄을 태우면 지구 온난화가 심해져요."
+  }
+ ],
+ "imageSense": "대표 의미: 공장 굴뚝에서 연기가 나오고 땅속에서 석유를 퍼 올리는 장면",
+ "imageCaption": "수백만 년 전 공룡 시대의 생물이 지금 자동차를 움직인다고 상상해 보세요.",
+ "movieLineEn": "The age of fossil fuels is ending. The future is in the sun.",
+ "movieLineKo": "화석 연료의 시대는 끝나고 있어. 미래는 태양에 있지.",
+ "storyTitle": "공룡이 달리는 자동차",
+ "story": "꼬마 동생이 물었어요. \"fossil fuel(화석 연료)이 뭐야?\" 나는 옛날 동식물이 변한 fuel(연료)이라고 설명했어요. 동생 눈이 반짝였죠. \"그럼 우리 차는 공룡 fossil(화석)로 달리는 거네!\" 그날부터 동생은 주유소를 '공룡 식당'이라고 불러요. 그리고 renewable energy(재생 에너지)는 '공룡이 쉬는 에너지'래요."
+}

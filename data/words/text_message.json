@@ -1,0 +1,68 @@
+{
+ "word": "text message",
+ "pos": "명사구",
+ "phonetic": "[tekst ˈmesɪdʒ]",
+ "meaning": "문자 메시지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "text",
+   "meaning": "글, 문자 (text)",
+   "note": "메시지의 형태가 글자임을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "message",
+   "meaning": "전갈, 메시지 (message)",
+   "note": "누군가에게 보내는 소식이에요."
+  }
+ ],
+ "summary": "<strong>text</strong> (글자) + <strong>message</strong> (보내는 소식) = '글자로 보내는 소식'에서 <strong>'문자 메시지'</strong>",
+ "historyTitle": "'짜인 글'과 '보낸 소식'",
+ "historyBody": "text는 라틴어 textus(짜인 것)에서 왔는데, 그 뿌리 texere는 '천을 짜다'라는 뜻이에요. 단어들이 천처럼 짜인 것이 글이라는 비유예요. message는 라틴어 mittere(보내다)의 과거분사 missus에서 고대 프랑스어를 거쳐 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "text",
+   "pos": "동사",
+   "meaning": "문자를 보내다",
+   "en": "Text me when you get home.",
+   "ko": "집에 도착하면 문자 보내."
+  },
+  {
+   "word": "texting",
+   "pos": "명사",
+   "meaning": "문자 주고받기",
+   "en": "Texting while walking can be dangerous.",
+   "ko": "걸으면서 문자하는 것은 위험할 수 있어요."
+  },
+  {
+   "word": "textile",
+   "pos": "명사",
+   "meaning": "직물",
+   "en": "The town is famous for its textile industry.",
+   "ko": "그 마을은 직물 산업으로 유명해요."
+  },
+  {
+   "word": "messenger",
+   "pos": "명사",
+   "meaning": "전달자, 메신저",
+   "en": "The king sent a messenger to the village.",
+   "ko": "왕은 마을에 전령을 보냈어요."
+  },
+  {
+   "word": "mission",
+   "pos": "명사",
+   "meaning": "임무",
+   "en": "Their mission was to explore the moon.",
+   "ko": "그들의 임무는 달을 탐사하는 것이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰 화면에 말풍선 문자 메시지가 도착하는 장면",
+ "imageCaption": "'띵동!' 소리와 함께 화면에 뜨는 초록색 말풍선을 떠올려 보세요.",
+ "movieLineEn": "I sent you ten text messages! Why didn't you answer?",
+ "movieLineKo": "너한테 문자 열 개나 보냈잖아! 왜 답 안 했어?",
+ "storyTitle": "엄마의 첫 문자",
+ "story": "엄마가 처음으로 text message(문자 메시지)를 보내셨어요. \"아들 밥 먹엇니ㅋ\" 아빠도 text(문자를 보내다)하기 시작했죠. 온 가족이 texting(문자 주고받기)에 빠져 거실에 함께 앉아서도 문자로만 대화했어요. 결국 강아지가 messenger(전달자)처럼 짖어서 저녁 시간을 알려 줬답니다."
+}

@@ -1,0 +1,80 @@
+{
+ "word": "have a tough time doing",
+ "pos": "숙어",
+ "phonetic": "[hæv ə ˈtʌf taɪm ˈduːɪŋ]",
+ "meaning": "~하는 데 어려움을 겪다, ~하느라 고생하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "have",
+   "meaning": "가지다, 겪다 (have)",
+   "note": "어떤 시간을 '겪는다'는 뜻을 맡아요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "tough",
+   "meaning": "힘든, 거친 (hard)",
+   "note": "그 시간이 '힘들다'는 성격을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "time",
+   "meaning": "시간, 때 (time)",
+   "note": "겪는 대상이 '시간'이라는 걸 보여 줘요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "doing",
+   "meaning": "~하는 것 (-ing)",
+   "note": "무엇을 하느라 힘든지 동명사로 연결해요."
+  }
+ ],
+ "summary": "<strong>have</strong> (겪다) + <strong>a tough time</strong> (힘든 시간) + <strong>doing</strong> (~하면서) = '~하면서 힘든 시간을 겪다'에서 <strong>'~하는 데 어려움을 겪다'</strong>",
+ "historyTitle": "have a hard time과 같은 틀",
+ "historyBody": "이 표현은 'have a good time(즐거운 시간을 보내다)'과 같은 틀에서 형용사만 tough로 바꾼 것이에요. tough는 고대 영어 tōh(질긴, 끈적한)에서 왔고, '씹기 힘들 만큼 질긴'에서 '힘든, 어려운'이라는 뜻이 생겼어요. 뒤에는 동명사(-ing)가 오는 게 수능 어법 포인트예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "have a hard time doing",
+   "pos": "숙어",
+   "meaning": "~하는 데 애를 먹다",
+   "en": "I had a hard time finding the bus stop.",
+   "ko": "나는 버스 정류장을 찾느라 애를 먹었어."
+  },
+  {
+   "word": "have difficulty doing",
+   "pos": "숙어",
+   "meaning": "~하는 데 어려움이 있다",
+   "en": "Many students have difficulty remembering new words.",
+   "ko": "많은 학생들이 새 단어를 기억하는 데 어려움을 겪어."
+  },
+  {
+   "word": "have trouble doing",
+   "pos": "숙어",
+   "meaning": "~하는 데 곤란을 겪다",
+   "en": "He has trouble sleeping before exams.",
+   "ko": "그는 시험 전에 잠드는 데 어려움을 겪어."
+  },
+  {
+   "word": "have a good time",
+   "pos": "숙어",
+   "meaning": "즐거운 시간을 보내다",
+   "en": "We had a good time at the festival.",
+   "ko": "우리는 축제에서 즐거운 시간을 보냈어."
+  },
+  {
+   "word": "tough",
+   "pos": "형용사",
+   "meaning": "힘든, 강인한",
+   "en": "It was a tough decision for her.",
+   "ko": "그것은 그녀에게 힘든 결정이었어."
+  }
+ ],
+ "imageSense": "대표 의미: 무거운 상자를 들고 계단을 오르며 땀 흘리는 장면",
+ "imageCaption": "질긴(tough) 고기를 씹듯 끙끙대며 무언가를 해내려는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm having a tough time believing a word you say.",
+ "movieLineKo": "네가 하는 말 한마디도 믿기가 힘들어.",
+ "storyTitle": "수학 숙제와 고양이",
+ "story": "서연이는 수학 문제를 푸느라 have a tough time doing(~하느라 고생하다) 중이었어요. 고양이도 have trouble doing(~에 곤란을 겪다)하며 털실을 풀고 있었죠. 결국 서연이는 have difficulty doing(~에 어려움이 있다)을 인정하고 잤어요. 아침에 보니 고양이가 앉은 자리 문제만 정답이 지워져 있었답니다!"
+}

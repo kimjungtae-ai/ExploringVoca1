@@ -1,0 +1,68 @@
+{
+ "word": "appeal to",
+ "pos": "구동사",
+ "phonetic": "[əˈpiːl tuː]",
+ "meaning": "~의 마음을 끌다, ~에 호소하다, ~에 항소하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "appeal",
+   "meaning": "호소하다, 끌다 (call upon)",
+   "note": "라틴어 appellare(부르다, 말을 걸다)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에게 (to)",
+   "note": "누구를 향해 부르는지 방향을 가리켜요."
+  }
+ ],
+ "summary": "<strong>appeal</strong> (부르다, 호소하다) + <strong>to</strong> (~에게) = '~에게 말을 걸어 부르다'에서 <strong>'~의 마음을 끌다, ~에 호소하다'</strong>가 되었어요.",
+ "historyTitle": "로마 법정에서 '부르던' 말",
+ "historyBody": "appeal은 라틴어 appellare(말을 걸다, 부르다)에서 왔어요. 로마에서는 판결에 불만이 있으면 더 높은 관리를 '불러' 호소했는데, 이것이 '항소'라는 법률 의미로 남았죠. 지금은 '마음을 끌다'라는 뜻으로 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appealing",
+   "pos": "형용사",
+   "meaning": "매력적인",
+   "en": "The idea of a four-day school week is appealing.",
+   "ko": "주 4일 수업이라는 생각은 매력적이에요."
+  },
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다",
+   "en": "Bright colors attract bees.",
+   "ko": "밝은 색은 벌을 끌어들여요."
+  },
+  {
+   "word": "call on",
+   "pos": "구동사",
+   "meaning": "~에게 요청하다",
+   "en": "The teacher called on students to save energy.",
+   "ko": "선생님은 학생들에게 에너지를 절약하자고 요청했어요."
+  },
+  {
+   "word": "appeal for",
+   "pos": "구동사",
+   "meaning": "~을 간청하다",
+   "en": "The town appealed for help after the flood.",
+   "ko": "그 마을은 홍수 후 도움을 호소했어요."
+  },
+  {
+   "word": "appellation",
+   "pos": "명사",
+   "meaning": "명칭, 호칭",
+   "en": "The city earned the appellation 'City of Light'.",
+   "ko": "그 도시는 '빛의 도시'라는 명칭을 얻었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 광고 포스터 앞에 사람들이 멈춰 서서 바라보는 장면",
+ "imageCaption": "광고가 '이리 와 봐!' 하고 부르면 마음이 끌려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "This plan won't appeal to everyone, but it's our only hope.",
+ "movieLineKo": "이 계획이 모두의 마음에 들진 않겠지만, 우리의 유일한 희망이야.",
+ "storyTitle": "인기 메뉴의 비밀",
+ "story": "학교 매점에서 새 빵이 학생들에게 appeal to(~의 마음을 끌다)하지 않았어요. 사장님은 포장을 appealing(매력적인) 색으로 바꿔 손님을 attract(끌어당기다)하려 했죠. 소용없자 '시험 합격 빵'이라고 이름만 바꿨더니 바로 다 팔렸답니다!"
+}

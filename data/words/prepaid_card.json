@@ -1,0 +1,68 @@
+{
+ "word": "prepaid card",
+ "pos": "명사구",
+ "phonetic": "[ˌpriːˈpeɪd kɑːrd]",
+ "meaning": "선불 카드",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "prepaid",
+   "meaning": "미리 지불된 (prepaid)",
+   "note": "pre-(미리) + paid(지불된)로 '먼저 돈을 낸'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "card",
+   "meaning": "카드 (card)",
+   "note": "그리스어 khartēs(파피루스 종이)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (미리) + <strong>paid</strong> (지불된) + <strong>card</strong> (카드) = '돈을 미리 충전해 둔 카드'에서 <strong>'선불 카드'</strong>",
+ "historyTitle": "파피루스 종이에서 온 card",
+ "historyBody": "card는 그리스어 khartēs(파피루스 한 장)에서 라틴어 charta를 거쳐 프랑스어 carte로 들어왔어요. chart(도표)도 같은 뿌리예요. pre-는 라틴어 prae(앞에, 미리)에서 온 접두사로 preview, prepare 등에 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prepay",
+   "pos": "동사",
+   "meaning": "선불하다",
+   "en": "You must prepay for the tickets online.",
+   "ko": "표는 온라인에서 미리 결제해야 해요."
+  },
+  {
+   "word": "credit card",
+   "pos": "명사구",
+   "meaning": "신용 카드",
+   "en": "Can I pay with a credit card?",
+   "ko": "신용 카드로 결제해도 되나요?"
+  },
+  {
+   "word": "debit card",
+   "pos": "명사구",
+   "meaning": "체크 카드, 직불 카드",
+   "en": "My debit card takes money directly from my account.",
+   "ko": "내 체크 카드는 계좌에서 바로 돈이 빠져나가요."
+  },
+  {
+   "word": "gift card",
+   "pos": "명사구",
+   "meaning": "상품권",
+   "en": "I got a gift card for my birthday.",
+   "ko": "생일 선물로 상품권을 받았어요."
+  },
+  {
+   "word": "top up",
+   "pos": "구동사",
+   "meaning": "충전하다",
+   "en": "I need to top up my transportation card.",
+   "ko": "교통 카드를 충전해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 편의점에서 선불 카드를 충전하는 장면",
+ "imageCaption": "미리 돈을 넣어 두고, 쓸 때마다 잔액이 줄어드는 카드를 떠올려 보세요.",
+ "movieLineEn": "Use a prepaid card. They can't trace it.",
+ "movieLineKo": "선불 카드를 써. 추적할 수 없거든.",
+ "storyTitle": "용돈 관리의 달인",
+ "story": "엄마는 용돈을 prepaid card(선불 카드)로 주셨어요. credit card(신용 카드)와 달리 넣은 만큼만 쓸 수 있죠. 나는 매주 카드를 top up(충전하다)하며 아껴 썼어요. 그런데 한 달 뒤 잔액을 보니 그대로였어요. 동생이 몰래 자기 돈으로 채워 둔 거였어요!"
+}

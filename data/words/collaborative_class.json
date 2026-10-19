@@ -1,0 +1,68 @@
+{
+ "word": "collaborative class",
+ "pos": "명사구",
+ "phonetic": "[kəˈlæbərətɪv klæs]",
+ "meaning": "협동 수업, 협력 학습 수업",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "collaborative",
+   "meaning": "협력하는, 공동의 (collaborative)",
+   "note": "col-(함께)+labor(일하다)+-ative(~하는)로 '함께 일하는'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "class",
+   "meaning": "수업, 학급 (class)",
+   "note": "선생님과 학생이 모여 배우는 시간을 말해요."
+  }
+ ],
+ "summary": "<strong>collaborative</strong> (함께 일하는) + <strong>class</strong> (수업) = '학생들이 함께 협력하는 수업'에서 <strong>'협동 수업'</strong>",
+ "historyTitle": "'함께 일하다' collaborare",
+ "historyBody": "collaborate는 라틴어 'com-(함께)'와 'laborare(일하다)'가 합쳐진 collaborare에서 왔어요. labor(노동), laboratory(실험실)도 같은 뿌리예요. class는 라틴어 'classis(시민의 계층, 집단)'에서 왔는데, 사람들을 묶은 무리라는 뜻이 '학급, 수업'으로 이어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "collaborate",
+   "pos": "동사",
+   "meaning": "협력하다",
+   "en": "Students collaborated on a science project.",
+   "ko": "학생들은 과학 프로젝트에서 협력했어요."
+  },
+  {
+   "word": "collaboration",
+   "pos": "명사",
+   "meaning": "협력, 공동 작업",
+   "en": "The song is a collaboration between two singers.",
+   "ko": "그 노래는 두 가수의 공동 작업이에요."
+  },
+  {
+   "word": "laboratory",
+   "pos": "명사",
+   "meaning": "실험실",
+   "en": "We did an experiment in the laboratory.",
+   "ko": "우리는 실험실에서 실험을 했어."
+  },
+  {
+   "word": "cooperate",
+   "pos": "동사",
+   "meaning": "협동하다",
+   "en": "We must cooperate to finish on time.",
+   "ko": "제시간에 끝내려면 협동해야 해."
+  },
+  {
+   "word": "teamwork",
+   "pos": "명사",
+   "meaning": "팀워크, 협동",
+   "en": "Good teamwork made our project successful.",
+   "ko": "좋은 팀워크 덕분에 우리 프로젝트가 성공했어."
+  }
+ ],
+ "imageSense": "대표 의미: 책상을 붙인 모둠이 큰 종이에 함께 그림을 그리는 장면",
+ "imageCaption": "네 명이 책상을 모으고 서로 의견을 나누며 하나의 포스터를 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "In a collaborative class, everyone's idea matters.",
+ "movieLineKo": "협동 수업에서는 모두의 생각이 중요해.",
+ "storyTitle": "협동 수업의 기적",
+ "story": "오늘은 collaborative class(협동 수업)였어요. 우리 모둠은 laboratory(실험실)에서 화산 모형을 만들며 collaborate(협력하다)했죠. 모두가 cooperate(협동하다)한 덕에 teamwork(팀워크)가 완벽했어요. 그런데 화산이 너무 잘 터져서 선생님 얼굴까지 거품이 묻었어요. 선생님은 웃으며 말했어요. \"이건 너무 강한 협력이구나!\""
+}

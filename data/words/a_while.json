@@ -1,0 +1,68 @@
+{
+ "word": "a while",
+ "pos": "명사구",
+ "phonetic": "[ə waɪl]",
+ "meaning": "잠시, 한동안, 얼마 동안",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "a",
+   "meaning": "하나의 (one)",
+   "note": "'한 덩어리의 시간'이라는 느낌을 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "while",
+   "meaning": "(얼마 동안의) 시간 (a period of time)",
+   "note": "고대 영어 hwīl(시간, 때)에서 온 아주 오래된 단어예요."
+  }
+ ],
+ "summary": "<strong>a</strong> (하나의) + <strong>while</strong> (시간) = '한 덩어리의 시간'에서 <strong>'잠시, 한동안'</strong>이 되었어요.",
+ "historyTitle": "고대 영어 hwīl, '시간'이라는 명사",
+ "historyBody": "while은 원래 고대 영어에서 '시간, 때'를 뜻하는 명사 hwīl이었어요. 나중에 '~하는 동안'이라는 접속사로도 쓰이게 되었죠. 'a while'에는 그 옛날 명사의 뜻이 그대로 남아 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "for a while",
+   "pos": "부사구",
+   "meaning": "한동안",
+   "en": "Let's rest here for a while.",
+   "ko": "여기서 잠시 쉬자."
+  },
+  {
+   "word": "after a while",
+   "pos": "부사구",
+   "meaning": "잠시 후에",
+   "en": "After a while, the rain stopped.",
+   "ko": "잠시 후에 비가 그쳤어요."
+  },
+  {
+   "word": "once in a while",
+   "pos": "부사구",
+   "meaning": "가끔",
+   "en": "I eat fast food once in a while.",
+   "ko": "나는 가끔 패스트푸드를 먹어요."
+  },
+  {
+   "word": "worth one's while",
+   "pos": "숙어",
+   "meaning": "~할 가치가 있는",
+   "en": "It is worth your while to visit the old palace.",
+   "ko": "그 고궁은 방문할 가치가 있어요."
+  },
+  {
+   "word": "meanwhile",
+   "pos": "부사",
+   "meaning": "그동안에",
+   "en": "Meanwhile, his mom was cooking dinner.",
+   "ko": "그동안 그의 엄마는 저녁을 요리하고 계셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 벤치에 앉아 시계를 보며 잠시 쉬는 장면",
+ "imageCaption": "시계 바늘이 조금 움직이는 짧은 시간 덩어리를 떠올려 보세요.",
+ "movieLineEn": "Stay here a while. I'll be right back.",
+ "movieLineKo": "여기서 잠시만 기다려. 금방 돌아올게.",
+ "storyTitle": "잠깐만의 정체",
+ "story": "엄마가 '여기서 a while(잠시) 기다려'라고 하셨어요. 나는 for a while(한동안) 기다렸고, after a while(잠시 후에) 졸기 시작했죠. meanwhile(그동안) 엄마는 마트 세일 코너에서 세 시간이나 쇼핑하고 계셨답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "hold off",
+ "pos": "구동사",
+ "phonetic": "[hoʊld ˈɔːf]",
+ "meaning": "미루다, 연기하다, (적·비 등을) 막다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "hold",
+   "meaning": "잡다, 유지하다 (hold)",
+   "note": "무언가를 '붙잡아 두는' 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "off",
+   "meaning": "떨어져, 멀리 (off)",
+   "note": "대상을 '멀리 떨어뜨려 둔다'는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>hold</strong> (붙잡다) + <strong>off</strong> (떨어뜨려) = '어떤 일을 멀리 붙잡아 두다'에서 <strong>'미루다, 막다'</strong>",
+ "historyTitle": "고대 영어 healdan에서 온 hold",
+ "historyBody": "hold는 고대 영어 healdan(붙잡다, 지키다)에서 왔어요. off는 '떨어져'라는 뜻이라 hold off는 원래 '적을 멀리 떨어뜨려 막아 내다'였고, 거기서 '일이나 결정을 뒤로 미뤄 두다'라는 뜻이 생겼어요. 'The rain held off'는 '비가 (다행히) 오지 않고 버텼다'라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "put off",
+   "pos": "구동사",
+   "meaning": "미루다, 연기하다",
+   "en": "Don't put off your homework until tomorrow.",
+   "ko": "숙제를 내일로 미루지 마."
+  },
+  {
+   "word": "postpone",
+   "pos": "동사",
+   "meaning": "연기하다",
+   "en": "The game was postponed because of rain.",
+   "ko": "경기가 비 때문에 연기되었어."
+  },
+  {
+   "word": "hold on",
+   "pos": "구동사",
+   "meaning": "기다리다, 꽉 잡다",
+   "en": "Hold on tight to the rail.",
+   "ko": "난간을 꽉 잡아."
+  },
+  {
+   "word": "hold back",
+   "pos": "구동사",
+   "meaning": "억누르다, 참다",
+   "en": "She held back her tears.",
+   "ko": "그녀는 눈물을 참았어."
+  },
+  {
+   "word": "call off",
+   "pos": "구동사",
+   "meaning": "취소하다",
+   "en": "They called off the picnic.",
+   "ko": "그들은 소풍을 취소했어."
+  }
+ ],
+ "imageSense": "대표 의미: 손을 들어 '잠깐 멈춰!' 하며 결정을 미루는 장면",
+ "imageCaption": "두 팔로 다가오는 일을 멀찍이 밀어 붙잡아 두는 모습을 떠올려 보세요.",
+ "movieLineEn": "Hold off on the fireworks until the king arrives.",
+ "movieLineKo": "왕이 도착할 때까지 불꽃놀이는 미뤄 둬.",
+ "storyTitle": "소풍과 먹구름",
+ "story": "먹구름이 몰려와 선생님은 소풍을 hold off(미루다) 할지 고민했어요. 학생들은 call off(취소하다)만은 안 된다며 눈물을 hold back(참다) 했죠. 결국 postpone(연기하다) 없이 출발했는데 다행히 비가 hold off(오지 않고 버티다) 했어요. 대신 도시락 뚜껑을 여는 순간 소나기가 쏟아졌답니다!"
+}

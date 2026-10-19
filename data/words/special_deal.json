@@ -1,0 +1,68 @@
+{
+ "word": "special deal",
+ "pos": "명사구",
+ "phonetic": "[ˈspeʃəl diːl]",
+ "meaning": "특가, 특별 할인 (거래)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "special",
+   "meaning": "특별한 (special)",
+   "note": "라틴어 specialis(특정한 종류의)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "deal",
+   "meaning": "거래 (deal)",
+   "note": "고대 영어 dǣl(몫, 나눔)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>special</strong> (특별한) + <strong>deal</strong> (거래) = '특별히 좋은 조건의 거래'라서 <strong>'특가, 특별 할인'</strong>이에요.",
+ "historyTitle": "나눔에서 거래로",
+ "historyBody": "special은 라틴어 'specialis(특정한 종류의)'에서 왔고, 그 뿌리 'species'는 '보이는 모습, 종류'라는 뜻이에요. 그래서 special은 '여러 종류 가운데 특별히 구별되는'이라는 뜻이 되었어요. species(종), specific(구체적인)도 같은 가족이에요. deal은 고대 영어 'dǣl(몫, 부분)'과 'dǣlan(나누다)'에서 왔고, '나누어 주다'에서 '거래'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "deal",
+   "pos": "명사/동사",
+   "meaning": "거래 / 다루다(with)",
+   "en": "We need to deal with this problem now.",
+   "ko": "우리는 이 문제를 지금 처리해야 해요."
+  },
+  {
+   "word": "bargain",
+   "pos": "명사",
+   "meaning": "싼 물건, 흥정",
+   "en": "This coat was a real bargain.",
+   "ko": "이 코트는 정말 싸게 산 물건이에요."
+  },
+  {
+   "word": "special offer",
+   "pos": "명사구",
+   "meaning": "특가 판매",
+   "en": "The store has a special offer on shoes.",
+   "ko": "그 가게는 신발 특가 판매를 하고 있어요."
+  },
+  {
+   "word": "discount",
+   "pos": "명사/동사",
+   "meaning": "할인 / 할인하다",
+   "en": "Students get a 10% discount.",
+   "ko": "학생들은 10% 할인을 받아요."
+  },
+  {
+   "word": "a great deal of",
+   "pos": "숙어",
+   "meaning": "많은 양의",
+   "en": "It took a great deal of time to finish.",
+   "ko": "끝내는 데 많은 시간이 걸렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마트 진열대에 '오늘만 특가!' 빨간 스티커가 붙은 장면",
+ "imageCaption": "마트에서 '오늘만 1+1 특가!' 빨간 스티커를 발견하고 눈이 반짝이는 모습을 떠올려 보세요.",
+ "movieLineEn": "I've got a special deal for you, my friend.",
+ "movieLineKo": "친구, 자네를 위한 특별한 거래가 있어.",
+ "storyTitle": "특가의 덫",
+ "story": "엄마는 special deal(특가)이라는 말에 약해요. 마트에서 discount(할인) 스티커만 보면 카트에 담으시죠. 오늘도 bargain(싼 물건)이라며 휴지 30롤을 사 오셨어요. 그런데 집에 와 보니 지난주에 산 special offer(특가 판매) 휴지 30롤이 이미 거실을 차지하고 있었어요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "hit the road",
+ "pos": "숙어",
+ "phonetic": "[hɪt ðə roʊd]",
+ "meaning": "길을 떠나다, 출발하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "hit",
+   "meaning": "치다, 닿다 (hit)",
+   "note": "발이 길바닥에 '탁' 닿는 순간을 그려 줘요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "the road",
+   "meaning": "길 (road)",
+   "note": "떠날 '길'을 가리켜요."
+  }
+ ],
+ "summary": "<strong>hit</strong> (치다, 닿다) + <strong>the road</strong> (길) = '발로 길바닥을 탁 치며 나서다'에서 <strong>'길을 떠나다, 출발하다'</strong>",
+ "historyTitle": "미국 속어에서 온 '출발!'",
+ "historyBody": "hit the road는 19세기 미국에서 '길을 나서다'라는 뜻의 속어로 쓰이기 시작했다고 알려져 있어요. 발이나 바퀴가 길을 '때리며' 달려 나가는 장면에서 나온 것으로 보이지만 정확한 기원은 확실하지 않아요. 1961년 노래 'Hit the Road Jack'으로 더 유명해졌답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "hit the books",
+   "pos": "숙어",
+   "meaning": "열심히 공부하다",
+   "en": "I need to hit the books for the final exam.",
+   "ko": "기말고사 때문에 열심히 공부해야 해."
+  },
+  {
+   "word": "hit the sack",
+   "pos": "숙어",
+   "meaning": "잠자리에 들다",
+   "en": "I'm exhausted. I'm going to hit the sack.",
+   "ko": "너무 피곤해. 이제 자러 갈래."
+  },
+  {
+   "word": "set out",
+   "pos": "구동사",
+   "meaning": "출발하다, 착수하다",
+   "en": "We set out early in the morning.",
+   "ko": "우리는 아침 일찍 출발했어."
+  },
+  {
+   "word": "get going",
+   "pos": "숙어",
+   "meaning": "출발하다, 시작하다",
+   "en": "It's late. We'd better get going.",
+   "ko": "늦었어. 우리 출발하는 게 좋겠어."
+  },
+  {
+   "word": "on the road",
+   "pos": "숙어",
+   "meaning": "이동 중인, 여행 중인",
+   "en": "The band has been on the road for months.",
+   "ko": "그 밴드는 몇 달째 순회공연 중이야."
+  }
+ ],
+ "imageSense": "대표 의미: 짐을 싣고 자동차 시동을 걸어 떠나는 장면",
+ "imageCaption": "운동화가 아스팔트를 '탁' 치며 첫 걸음을 내딛는 모습을 떠올려 보세요.",
+ "movieLineEn": "It's getting late. Time to hit the road.",
+ "movieLineKo": "늦어지고 있어. 이제 출발할 시간이야.",
+ "storyTitle": "가족 여행의 출발",
+ "story": "아빠가 \"자, hit the road(출발하다)!\"를 외쳤어요. 형은 밤새 hit the books(열심히 공부하다) 하느라 졸려서 hit the sack(잠자리에 들다) 하고 싶어 했죠. 우여곡절 끝에 set out(출발하다) 했는데 30분 뒤 엄마가 말했어요. \"여보, 막내 두고 왔어요!\" 결국 다시 get going(출발하다)이었죠."
+}

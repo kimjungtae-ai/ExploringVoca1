@@ -1,0 +1,68 @@
+{
+ "word": "be willing to do",
+ "pos": "숙어",
+ "phonetic": "[bi ˈwɪlɪŋ tuː duː]",
+ "meaning": "기꺼이 ~하다, ~할 의향이 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "willing",
+   "meaning": "기꺼이 하는 (ready)",
+   "note": "will(의지, 바라다)에 -ing가 붙은 형용사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to do",
+   "meaning": "~하는 것 (to-infinitive)",
+   "note": "무엇을 기꺼이 할지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be willing</strong> (기꺼이 하다) + <strong>to do</strong> (~하는 것) = <strong>'기꺼이 ~하다'</strong>예요.",
+ "historyTitle": "고대 영어 willan, '바라다'",
+ "historyBody": "will은 고대 영어 willan(바라다, 원하다)에서 왔어요. 그래서 willing은 '스스로 바라는, 자발적인'이라는 뜻이죠. 반대말 'be unwilling to do'(~하기를 꺼리다)와 함께 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be unwilling to do",
+   "pos": "숙어",
+   "meaning": "~하기를 꺼리다",
+   "en": "He was unwilling to share his notes.",
+   "ko": "그는 노트를 공유하기를 꺼렸어요."
+  },
+  {
+   "word": "willingly",
+   "pos": "부사",
+   "meaning": "기꺼이",
+   "en": "She willingly helped her neighbor.",
+   "ko": "그녀는 기꺼이 이웃을 도왔어요."
+  },
+  {
+   "word": "willpower",
+   "pos": "명사",
+   "meaning": "의지력",
+   "en": "It takes willpower to wake up early.",
+   "ko": "일찍 일어나는 데는 의지력이 필요해요."
+  },
+  {
+   "word": "be ready to do",
+   "pos": "숙어",
+   "meaning": "~할 준비가 되다",
+   "en": "I'm ready to start the race.",
+   "ko": "나는 경주를 시작할 준비가 됐어요."
+  },
+  {
+   "word": "be reluctant to do",
+   "pos": "숙어",
+   "meaning": "~하기를 꺼리다",
+   "en": "Many people are reluctant to change their habits.",
+   "ko": "많은 사람들이 습관 바꾸기를 꺼려요."
+  }
+ ],
+ "imageSense": "대표 의미: 손을 번쩍 들고 '제가 할게요!'라고 외치는 학생",
+ "imageCaption": "마음이 먼저 앞으로 나서는 자발적인 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm willing to risk everything for this. Are you?",
+ "movieLineKo": "난 이걸 위해 모든 걸 걸 각오가 돼 있어. 너는?",
+ "storyTitle": "자원봉사의 함정",
+ "story": "선생님이 청소를 be willing to do(기꺼이 ~하다)할 사람을 찾으셨어요. 다들 be reluctant to do(~하기를 꺼리다)했지만 나는 willingly(기꺼이) 손을 들었죠. 그런데 선생님이 '자원자에게 피자를 준다'고 하자 반 전체가 willpower(의지력)를 발휘해 손을 들었어요!"
+}

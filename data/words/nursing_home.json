@@ -1,0 +1,68 @@
+{
+ "word": "nursing home",
+ "pos": "명사구",
+ "phonetic": "[ˈnɜːrsɪŋ hoʊm]",
+ "meaning": "요양원, 양로원",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "nursing",
+   "meaning": "간호, 돌봄 (nursing)",
+   "note": "nurse(간호하다) + -ing로 '돌보는 일'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "home",
+   "meaning": "집, 시설 (home)",
+   "note": "여기서는 '지내는 곳, 시설'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>nursing</strong> (돌봄) + <strong>home</strong> (지내는 곳) = '돌봄을 받으며 지내는 곳'에서 <strong>'요양원'</strong>",
+ "historyTitle": "'젖을 먹이다'에서 온 nurse",
+ "historyBody": "nurse는 라틴어 nutrire(영양을 주다, 기르다)에서 고대 프랑스어 nourrice(유모)를 거쳐 왔어요. 처음엔 아기에게 젖을 먹이는 유모를 뜻했다가, 아픈 사람을 돌보는 간호사로 뜻이 넓어졌어요. nutrition(영양)과 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nurse",
+   "pos": "명사 / 동사",
+   "meaning": "간호사 / 간호하다",
+   "en": "The nurse checked my temperature.",
+   "ko": "간호사가 내 체온을 쟀어요."
+  },
+  {
+   "word": "nutrition",
+   "pos": "명사",
+   "meaning": "영양",
+   "en": "Good nutrition is important for growing teens.",
+   "ko": "성장기 청소년에게는 좋은 영양이 중요해요."
+  },
+  {
+   "word": "nourish",
+   "pos": "동사",
+   "meaning": "영양분을 주다",
+   "en": "Rain nourishes the plants in the field.",
+   "ko": "비는 밭의 식물에 영양을 줘요."
+  },
+  {
+   "word": "elderly",
+   "pos": "형용사",
+   "meaning": "나이 든, 연로한",
+   "en": "We volunteer to help elderly people every Saturday.",
+   "ko": "우리는 토요일마다 어르신들을 돕는 봉사를 해요."
+  },
+  {
+   "word": "caregiver",
+   "pos": "명사",
+   "meaning": "돌보는 사람, 간병인",
+   "en": "The caregiver reads books to the patients.",
+   "ko": "간병인이 환자들에게 책을 읽어 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 학생들이 요양원 어르신들 앞에서 노래하는 봉사 활동 장면",
+ "imageCaption": "따뜻한 햇살이 드는 거실에서 어르신들이 간호사와 함께 쉬는 모습을 떠올려 보세요.",
+ "movieLineEn": "Grandpa, this nursing home is like a five-star hotel!",
+ "movieLineKo": "할아버지, 이 요양원 무슨 5성급 호텔 같아요!",
+ "storyTitle": "할머니의 반전 실력",
+ "story": "봉사 동아리가 nursing home(요양원)에 갔어요. nurse(간호사) 선생님이 elderly(연로한) 분들과 게임을 하라고 하셨죠. 우리가 봐 드린다며 바둑을 두었는데, 할머니가 5분 만에 우리 셋을 이기셨어요. 알고 보니 왕년의 바둑 챔피언이셨어요!"
+}

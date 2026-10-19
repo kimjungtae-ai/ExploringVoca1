@@ -1,0 +1,74 @@
+{
+ "word": "take turns doing",
+ "pos": "숙어",
+ "phonetic": "[teɪk tɜːrnz ˈduːɪŋ]",
+ "meaning": "번갈아 가며 ~하다, 교대로 ~하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "take",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "무언가를 손에 쥐어 가져오는 느낌이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "turns",
+   "meaning": "차례, 순번 (turns)",
+   "note": "돌아가며 오는 각자의 순서를 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "doing",
+   "meaning": "~하기 (doing)",
+   "note": "번갈아 하는 행동이 -ing 형태로 와요."
+  }
+ ],
+ "summary": "<strong>take</strong> (취하다) + <strong>turns</strong> (차례들) + <strong>doing</strong> (~하기) = '각자 차례를 잡아 ~하다'에서 <strong>'번갈아 가며 ~하다'</strong>",
+ "historyTitle": "선반 위에서 '돌던' turn",
+ "historyBody": "turn은 고대 영어 turnian에서 왔고, 라틴어 tornare(선반으로 돌려 깎다)와 그리스어 tornos(돌리는 도구)까지 거슬러 올라가요. 빙글 돌아 다시 오는 것에서 '차례, 순번'이라는 뜻이 생겼어요. take turns 뒤에는 동명사(doing)나 to부정사가 와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in turn",
+   "pos": "전치사구",
+   "meaning": "차례로, 결국",
+   "en": "The students introduced themselves in turn.",
+   "ko": "학생들은 차례로 자기소개를 했어요."
+  },
+  {
+   "word": "by turns",
+   "pos": "전치사구",
+   "meaning": "번갈아",
+   "en": "She felt happy and sad by turns.",
+   "ko": "그녀는 기쁨과 슬픔을 번갈아 느꼈어요."
+  },
+  {
+   "word": "one's turn",
+   "pos": "명사구",
+   "meaning": "~의 차례",
+   "en": "It's your turn to wash the dishes.",
+   "ko": "이번엔 네가 설거지할 차례야."
+  },
+  {
+   "word": "alternate",
+   "pos": "동사",
+   "meaning": "번갈아 하다",
+   "en": "Sunny days alternated with rainy ones.",
+   "ko": "맑은 날과 비 오는 날이 번갈아 이어졌어요."
+  },
+  {
+   "word": "turn",
+   "pos": "동사 / 명사",
+   "meaning": "돌다 / 차례",
+   "en": "Turn left at the next corner.",
+   "ko": "다음 모퉁이에서 왼쪽으로 도세요."
+  }
+ ],
+ "imageSense": "대표 의미: 형제가 하나뿐인 게임기를 번갈아 가며 하는 장면",
+ "imageCaption": "그네 앞에 줄을 서서 한 명씩 차례로 타는 아이들을 떠올려 보세요.",
+ "movieLineEn": "We only have one bike, so we'll take turns riding it.",
+ "movieLineKo": "자전거가 하나뿐이니 번갈아 가며 타자.",
+ "storyTitle": "운전 교대",
+ "story": "가족 여행에서 엄마와 아빠는 take turns doing(번갈아 ~하다)으로 운전하기로 했어요. 아빠 turn(차례)이 되자 아빠는 in turn(차례로) 졸기 시작했죠. 엄마는 다시 핸들을 잡고 아빠와 alternate(번갈아 하다)하길 포기했어요. 도착하자 아빠가 말했어요. \"내가 운전 정말 잘했지?\""
+}

@@ -1,0 +1,68 @@
+{
+ "word": "somewhere else",
+ "pos": "부사구",
+ "phonetic": "[ˈsʌmwer els]",
+ "meaning": "다른 어딘가에서, 다른 곳으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "somewhere",
+   "meaning": "어딘가에 (somewhere)",
+   "note": "some(어떤) + where(곳)으로 '어떤 곳에'예요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "else",
+   "meaning": "그 밖의, 다른 (else)",
+   "note": "앞 말 뒤에 붙어 '그 밖의 다른'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>somewhere</strong> (어딘가) + <strong>else</strong> (다른) = '다른 어딘가'라서 <strong>'다른 곳에서, 다른 곳으로'</strong>예요.",
+ "historyTitle": "오래된 짝꿍, some과 else",
+ "historyBody": "somewhere는 고대 영어 시기부터 쓰인 'some + where' 조합이에요. else는 고대 영어 'elles(달리, 그 밖에)'에서 왔어요. else는 someone, anything, nowhere 같은 말 '뒤'에 붙는다는 점이 특징이에요. 'someone else(다른 사람)', 'nothing else(다른 건 없음)'처럼 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "someone else",
+   "pos": "명사구",
+   "meaning": "다른 누군가",
+   "en": "Maybe someone else took your umbrella.",
+   "ko": "아마 다른 누군가가 네 우산을 가져갔나 봐."
+  },
+  {
+   "word": "elsewhere",
+   "pos": "부사",
+   "meaning": "다른 곳에서",
+   "en": "Let's look for a cheaper hotel elsewhere.",
+   "ko": "다른 곳에서 더 싼 호텔을 찾아보자."
+  },
+  {
+   "word": "anywhere",
+   "pos": "부사",
+   "meaning": "어디든지, 어디에도",
+   "en": "You can sit anywhere you like.",
+   "ko": "원하는 곳 어디든 앉아도 돼요."
+  },
+  {
+   "word": "or else",
+   "pos": "숙어",
+   "meaning": "그렇지 않으면",
+   "en": "Hurry up, or else you'll miss the bus.",
+   "ko": "서둘러, 그렇지 않으면 버스를 놓칠 거야."
+  },
+  {
+   "word": "nowhere",
+   "pos": "부사",
+   "meaning": "아무 데도 ~않다",
+   "en": "The key was nowhere to be found.",
+   "ko": "열쇠는 아무 데서도 찾을 수 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽉 찬 식당 앞에서 '다른 데 가자'며 발길을 돌리는 장면",
+ "imageCaption": "줄이 너무 긴 식당 앞에서 친구가 '다른 데 가자!' 하며 손을 끄는 모습을 떠올려 보세요.",
+ "movieLineEn": "This place is too crowded. Let's go somewhere else.",
+ "movieLineKo": "여긴 너무 붐벼. 다른 데로 가자.",
+ "storyTitle": "맛집 찾아 삼만리",
+ "story": "식당 줄이 너무 길어서 우리는 somewhere else(다른 곳)로 갔어요. 그곳도 꽉 차 elsewhere(다른 곳에서)를 찾았죠. 그렇게 anywhere(어디든) 좋다며 한 시간을 헤매다 결국 nowhere(아무 데도) 못 들어갔어요. 지쳐서 처음 식당으로 돌아가니 줄이 싹 사라져 있었답니다."
+}

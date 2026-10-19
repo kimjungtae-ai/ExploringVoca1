@@ -1,0 +1,74 @@
+{
+ "word": "be down to",
+ "pos": "숙어",
+ "phonetic": "[bi daʊn tuː]",
+ "meaning": "~만 남다, ~의 책임이다, ~ 때문이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "be",
+   "meaning": "~이다, 있다 (be)",
+   "note": "상태를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 줄어들어 (down)",
+   "note": "수가 점점 내려가 줄어드는 그림이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~까지 (to)",
+   "note": "어디까지 줄었는지, 누구에게 떨어지는지 가리켜요."
+  }
+ ],
+ "summary": "<strong>be down</strong> (아래로 내려가 있다) + <strong>to</strong> (~까지) = '~까지 줄어들다'에서 <strong>'~만 남다'</strong>, '~에게 떨어지다'에서 <strong>'~의 책임이다'</strong>예요.",
+ "historyTitle": "줄어드는 숫자와 떨어지는 책임",
+ "historyBody": "down은 고대 영어 ofdūne(언덕에서 아래로)이 줄어든 말이에요. 'We're down to our last dollar'처럼 양이 '~까지 내려와 남았다'는 뜻으로 쓰고, 영국 영어에서는 'It's down to you'처럼 '~에게 달려 있다, ~ 때문이다'라는 뜻으로도 써요. 문맥에 따라 뜻을 골라 주세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "come down to",
+   "pos": "구동사",
+   "meaning": "결국 ~이 되다, ~으로 요약되다",
+   "en": "It all comes down to practice.",
+   "ko": "결국 모든 건 연습에 달려 있어요."
+  },
+  {
+   "word": "be up to",
+   "pos": "숙어",
+   "meaning": "~에게 달려 있다",
+   "en": "It's up to you to decide.",
+   "ko": "결정은 너에게 달려 있어."
+  },
+  {
+   "word": "run out of",
+   "pos": "구동사",
+   "meaning": "~이 다 떨어지다",
+   "en": "We ran out of milk this morning.",
+   "ko": "오늘 아침 우유가 다 떨어졌어요."
+  },
+  {
+   "word": "narrow down",
+   "pos": "구동사",
+   "meaning": "(범위를) 좁히다",
+   "en": "I narrowed down my choices to two colleges.",
+   "ko": "나는 선택지를 두 대학으로 좁혔어요."
+  },
+  {
+   "word": "be left",
+   "pos": "숙어",
+   "meaning": "남아 있다",
+   "en": "Only two cookies were left in the jar.",
+   "ko": "통에 쿠키가 두 개만 남아 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 통장 잔액이 '1,000원'만 남은 화면을 보며 한숨 쉬는 장면",
+ "imageCaption": "숫자가 쭉쭉 내려가다 마지막 하나 남은 모습을 떠올려 보세요.",
+ "movieLineEn": "We're down to our last bullet. Make it count.",
+ "movieLineKo": "총알이 마지막 한 발만 남았어. 제대로 써.",
+ "storyTitle": "마지막 한 조각",
+ "story": "피자 파티에서 우리는 마지막 한 조각만 be down to(~만 남다)했어요. 누가 먹을지는 가위바위보로 come down to(결국 ~이 되다)했죠. narrow down(좁히다)해서 나와 형만 남았는데, 그 사이 강아지가 남은 조각을 물고 도망갔답니다. 결국 모든 건 강아지 탓이었죠!"
+}

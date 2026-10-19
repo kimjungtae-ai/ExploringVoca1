@@ -1,0 +1,68 @@
+{
+ "word": "give away",
+ "pos": "구동사",
+ "phonetic": "[ɡɪv əˈweɪ]",
+ "meaning": "나눠 주다, 거저 주다; (비밀을) 누설하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "give",
+   "meaning": "주다 (give)",
+   "note": "무언가를 다른 사람에게 건네는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "away",
+   "meaning": "멀리, 떠나서 (away)",
+   "note": "내 손을 '떠나 멀리' 가 버리는 이미지예요."
+  }
+ ],
+ "summary": "<strong>give</strong> (주다) + <strong>away</strong> (멀리 떠나) = '주어서 내게서 멀리 떠나보내다'라서 <strong>'거저 주다, 누설하다'</strong>예요.",
+ "historyTitle": "손을 떠나 멀리 가는 것",
+ "historyBody": "give는 고대 영어 giefan과 고대 노르드어 gefa의 영향을 받은 말이에요. away는 고대 영어 on weg(길 위로, 떠나서)에서 왔어요. 물건을 거저 주는 것뿐 아니라, 비밀이나 정답을 '흘려 버리는' 것도 give away라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "giveaway",
+   "pos": "명사",
+   "meaning": "경품, 무료 증정품",
+   "en": "The store had a giveaway for its first customers.",
+   "ko": "그 가게는 첫 손님들에게 경품 행사를 했어요."
+  },
+  {
+   "word": "give out",
+   "pos": "구동사",
+   "meaning": "나눠 주다; 바닥나다",
+   "en": "The teacher gave out the test papers.",
+   "ko": "선생님이 시험지를 나눠 주셨어요."
+  },
+  {
+   "word": "give up",
+   "pos": "구동사",
+   "meaning": "포기하다",
+   "en": "Never give up on your dreams.",
+   "ko": "절대 꿈을 포기하지 마세요."
+  },
+  {
+   "word": "hand out",
+   "pos": "구동사",
+   "meaning": "나눠 주다",
+   "en": "Volunteers handed out water to the runners.",
+   "ko": "자원봉사자들이 달리기 선수들에게 물을 나눠 줬어요."
+  },
+  {
+   "word": "donate",
+   "pos": "동사",
+   "meaning": "기부하다",
+   "en": "We donated old clothes to the shelter.",
+   "ko": "우리는 헌 옷을 보호소에 기부했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 길에서 사람들에게 무료 샘플을 나눠 주는 장면",
+ "imageCaption": "내 손에 있던 것이 다른 사람 손으로 훨훨 날아가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't give away the ending! I haven't seen the movie yet!",
+ "movieLineKo": "결말 말하지 마! 나 아직 그 영화 안 봤어!",
+ "storyTitle": "스포일러 장인",
+ "story": "민호는 장난감을 친구들에게 give away(나눠 주다)하는 착한 아이예요. 그런데 영화 결말도 늘 give away(누설하다)해 버려요. 친구들이 give up(포기하다)하고 민호와 영화를 안 보려 했죠. 그래서 민호는 반성하며 극장 앞에서 귀마개를 hand out(나눠 주다)했어요. 그런데 귀마개 상자에 결말이 크게 적혀 있었대요!"
+}

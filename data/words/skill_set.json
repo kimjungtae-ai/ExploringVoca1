@@ -1,0 +1,68 @@
+{
+ "word": "skill set",
+ "pos": "명사구",
+ "phonetic": "[ˈskɪl set]",
+ "meaning": "역량, 보유 기술 (전체)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "skill",
+   "meaning": "기술, 능력 (skill)",
+   "note": "고대 노르드어 skil(구별, 이해)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "set",
+   "meaning": "한 벌, 세트 (set)",
+   "note": "여러 개가 모여 이루는 '한 묶음'이에요."
+  }
+ ],
+ "summary": "<strong>skill</strong> (기술) + <strong>set</strong> (한 묶음) = '한 사람이 가진 기술들의 묶음'이라서 <strong>'역량, 보유 기술'</strong>이에요.",
+ "historyTitle": "구별하는 능력에서 온 skill",
+ "historyBody": "skill은 고대 노르드어 'skil(구별, 분별, 이해)'에서 들어온 말이에요. 바이킹의 언어가 영어에 남긴 단어 중 하나죠. 무엇이 옳고 그른지 '구별하는 능력'이 곧 기술이 된 셈이에요. skill set은 20세기 후반부터 직업 세계에서 한 사람이 가진 기술 전체를 가리키는 말로 널리 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "skilled",
+   "pos": "형용사",
+   "meaning": "숙련된",
+   "en": "She is a skilled pianist.",
+   "ko": "그녀는 숙련된 피아니스트예요."
+  },
+  {
+   "word": "skillful",
+   "pos": "형용사",
+   "meaning": "능숙한, 솜씨 좋은",
+   "en": "He is skillful at fixing machines.",
+   "ko": "그는 기계 고치는 데 능숙해요."
+  },
+  {
+   "word": "ability",
+   "pos": "명사",
+   "meaning": "능력",
+   "en": "Reading improves your ability to think.",
+   "ko": "독서는 생각하는 능력을 키워 줘요."
+  },
+  {
+   "word": "mindset",
+   "pos": "명사",
+   "meaning": "사고방식",
+   "en": "A positive mindset helps you overcome failure.",
+   "ko": "긍정적인 사고방식은 실패를 극복하는 데 도움이 돼요."
+  },
+  {
+   "word": "expertise",
+   "pos": "명사",
+   "meaning": "전문 지식, 전문 기술",
+   "en": "We need his expertise in computer science.",
+   "ko": "우리는 컴퓨터 과학에 대한 그의 전문 지식이 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 공구함 안에 여러 공구가 가지런히 들어 있는 장면",
+ "imageCaption": "망치, 드라이버, 렌치가 가득 든 공구함을 떠올려 보세요. 내가 가진 능력들이 그렇게 한 상자에 모여 있는 게 skill set이에요.",
+ "movieLineEn": "I have a very particular set of skills.",
+ "movieLineKo": "나에겐 아주 특별한 기술들이 있지.",
+ "storyTitle": "면접의 반전",
+ "story": "면접관이 내 skill set(역량)을 물었어요. 나는 skillful(능숙한) 코딩 실력과 긍정적인 mindset(사고방식)을 자랑했죠. 면접관이 고개를 끄덕이더니 '그럼 저 프린터 좀 고쳐 줄래요?' 했어요. 내 expertise(전문 지식)로도 프린터는 끝내 이길 수 없었답니다."
+}

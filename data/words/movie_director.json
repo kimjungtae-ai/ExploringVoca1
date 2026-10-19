@@ -1,0 +1,68 @@
+{
+ "word": "movie director",
+ "pos": "명사구",
+ "phonetic": "[ˈmuːvi dəˈrektər]",
+ "meaning": "영화감독",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "movie",
+   "meaning": "영화 (movie)",
+   "note": "moving picture(움직이는 그림)를 줄인 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "director",
+   "meaning": "감독, 책임자 (director)",
+   "note": "direct(지휘하다) + -or(사람)으로 '이끄는 사람'이에요."
+  }
+ ],
+ "summary": "<strong>movie</strong> (영화) + <strong>director</strong> (지휘하는 사람) = '영화 촬영을 지휘하는 사람'에서 <strong>'영화감독'</strong>",
+ "historyTitle": "'움직이는 그림'과 '곧게 이끄는 사람'",
+ "historyBody": "movie는 20세기 초 미국에서 moving picture를 줄여 부른 말이에요. director는 라틴어 dirigere(곧게 하다, 이끌다)에서 온 direct에 '사람'을 뜻하는 -or이 붙은 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "direct",
+   "pos": "동사 / 형용사",
+   "meaning": "감독하다, 지시하다 / 직접적인",
+   "en": "She directed her first film at age 25.",
+   "ko": "그녀는 25살에 첫 영화를 감독했어요."
+  },
+  {
+   "word": "direction",
+   "pos": "명사",
+   "meaning": "방향, 지시",
+   "en": "Follow the teacher's directions carefully.",
+   "ko": "선생님의 지시를 잘 따르세요."
+  },
+  {
+   "word": "film director",
+   "pos": "명사구",
+   "meaning": "영화감독",
+   "en": "The film director won an award at Cannes.",
+   "ko": "그 영화감독은 칸에서 상을 받았어요."
+  },
+  {
+   "word": "movie theater",
+   "pos": "명사구",
+   "meaning": "영화관",
+   "en": "We met in front of the movie theater.",
+   "ko": "우리는 영화관 앞에서 만났어요."
+  },
+  {
+   "word": "producer",
+   "pos": "명사",
+   "meaning": "제작자, 생산자",
+   "en": "The producer found money to make the movie.",
+   "ko": "제작자가 영화 제작 자금을 구했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 의자에 앉아 메가폰을 들고 '액션!'을 외치는 사람",
+ "imageCaption": "촬영장에서 배우들을 이끌며 '컷!'을 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "The movie director yelled, \"Cut! Do it again!\"",
+ "movieLineKo": "영화감독이 외쳤다. \"컷! 다시 해!\"",
+ "storyTitle": "감독님의 진짜 정체",
+ "story": "우리 반 영상 과제의 movie director(영화감독)는 민호였어요. 친구들에게 direction(지시)을 하며 열심히 direct(감독하다)했죠. producer(제작자)인 나는 간식을 샀어요. 그런데 완성된 영화의 주인공은 촬영 내내 따라다닌 학교 고양이였어요!"
+}

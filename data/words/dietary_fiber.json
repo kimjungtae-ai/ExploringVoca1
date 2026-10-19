@@ -1,0 +1,68 @@
+{
+ "word": "dietary fiber",
+ "pos": "명사구",
+ "phonetic": "[ˈdaɪəteri ˈfaɪbər]",
+ "meaning": "식이 섬유",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "dietary",
+   "meaning": "식사의, 식이의 (dietary)",
+   "note": "diet(식단)+-ary로 '먹는 것과 관련된'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fiber",
+   "meaning": "섬유 (fiber)",
+   "note": "가늘고 긴 실 같은 조직을 말해요."
+  }
+ ],
+ "summary": "<strong>dietary</strong> (식사의) + <strong>fiber</strong> (섬유) = '음식에 들어 있는 섬유'에서 <strong>'식이 섬유'</strong>",
+ "historyTitle": "'생활 방식'이던 diet",
+ "historyBody": "diet는 그리스어 'diaita(생활 방식)'에서 라틴어 diaeta를 거쳐 왔어요. 원래 '어떻게 사느냐'를 뜻했다가 '먹는 방식, 식단'으로 좁혀졌죠. 그래서 diet는 '살 빼기'만이 아니라 '평소 식단'도 뜻해요. fiber는 라틴어 'fibra(섬유, 실)'에서 왔고, 영국식 철자는 fibre예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "diet",
+   "pos": "명사",
+   "meaning": "식단, 식사, 다이어트",
+   "en": "A balanced diet keeps you healthy.",
+   "ko": "균형 잡힌 식단은 너를 건강하게 해 줘."
+  },
+  {
+   "word": "digestion",
+   "pos": "명사",
+   "meaning": "소화",
+   "en": "Fiber helps digestion.",
+   "ko": "섬유질은 소화를 도와요."
+  },
+  {
+   "word": "whole grain",
+   "pos": "명사구",
+   "meaning": "통곡물",
+   "en": "Whole grains are rich in fiber.",
+   "ko": "통곡물은 섬유질이 풍부해요."
+  },
+  {
+   "word": "nutrient",
+   "pos": "명사",
+   "meaning": "영양소",
+   "en": "Fruits contain many nutrients.",
+   "ko": "과일에는 많은 영양소가 들어 있어요."
+  },
+  {
+   "word": "fibrous",
+   "pos": "형용사",
+   "meaning": "섬유질의",
+   "en": "Celery is a fibrous vegetable.",
+   "ko": "셀러리는 섬유질이 많은 채소예요."
+  }
+ ],
+ "imageSense": "대표 의미: 현미, 브로콜리, 사과가 담긴 건강한 식탁",
+ "imageCaption": "아삭한 채소와 거친 현미밥처럼 씹을수록 실 같은 섬유가 느껴지는 음식을 떠올려 보세요.",
+ "movieLineEn": "Eat more vegetables. You need dietary fiber!",
+ "movieLineKo": "채소 좀 더 먹어. 식이 섬유가 필요하다고!",
+ "storyTitle": "섬유질의 역습",
+ "story": "엄마는 dietary fiber(식이 섬유)가 digestion(소화)에 좋다며 whole grain(통곡물) 밥과 fibrous(섬유질의) 셀러리를 주셨어요. 균형 잡힌 diet(식단)라나요? 나는 억지로 다 먹었죠. 다음 날, 나는 화장실에서 나오지 못했어요. 엄마가 말했어요. \"뭐든 적당히가 중요하단다.\" 그건 엄마가 했어야 할 말인데요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "be headed",
+ "pos": "숙어",
+ "phonetic": "[bi ˈhedɪd]",
+ "meaning": "(~로) 향하다, 가는 중이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "headed",
+   "meaning": "향하는 (going)",
+   "note": "head(머리)를 그쪽으로 돌려 나아가는 모습이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "for / to",
+   "meaning": "~로 (toward)",
+   "note": "보통 뒤에 for, to, toward를 붙여 목적지를 말해요."
+  }
+ ],
+ "summary": "<strong>be headed</strong> (머리를 ~으로 둔) + <strong>for/to</strong> (~로) = '머리를 그쪽으로 두다'에서 <strong>'~로 향하다'</strong>예요.",
+ "historyTitle": "머리가 가리키는 방향",
+ "historyBody": "head는 고대 영어 hēafod(머리)에서 왔어요. 사람이나 배가 머리(뱃머리)를 어느 쪽으로 두면 그쪽으로 나아가죠. 그래서 동사 head와 'be headed for'가 '~로 향하다'라는 뜻이 되었어요. 'be heading for'라고도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "head for",
+   "pos": "구동사",
+   "meaning": "~로 향하다",
+   "en": "After school, we headed for the beach.",
+   "ko": "방과 후 우리는 해변으로 향했어요."
+  },
+  {
+   "word": "be bound for",
+   "pos": "숙어",
+   "meaning": "~행이다",
+   "en": "This train is bound for Busan.",
+   "ko": "이 기차는 부산행이에요."
+  },
+  {
+   "word": "on one's way to",
+   "pos": "숙어",
+   "meaning": "~로 가는 길에",
+   "en": "I met him on my way to school.",
+   "ko": "학교 가는 길에 그를 만났어요."
+  },
+  {
+   "word": "ahead",
+   "pos": "부사",
+   "meaning": "앞에, 앞으로",
+   "en": "Look straight ahead.",
+   "ko": "앞을 똑바로 보세요."
+  },
+  {
+   "word": "headline",
+   "pos": "명사",
+   "meaning": "헤드라인, 표제",
+   "en": "The story made headlines around the world.",
+   "ko": "그 소식은 전 세계 헤드라인을 장식했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 배낭을 멘 여행자가 산 쪽으로 걸어가는 뒷모습",
+ "imageCaption": "머리가 향한 쪽으로 몸이 따라가는 모습을 떠올리세요.",
+ "movieLineEn": "Where are you headed, stranger? Nobody comes here by accident.",
+ "movieLineKo": "어디로 가는 길이오, 낯선 이여? 여기엔 아무도 우연히 오지 않소.",
+ "storyTitle": "방향 감각 제로",
+ "story": "아빠는 바다로 be headed(향하다)하고 있다고 자신 있게 말씀하셨어요. 우리는 head for(~로 향하다) 해변 하며 노래를 불렀죠. 그런데 세 시간 뒤 표지판을 보니 우리는 산 정상으로 가는 on one's way to(~로 가는 길에)에 있었어요!"
+}

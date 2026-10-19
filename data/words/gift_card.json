@@ -1,0 +1,68 @@
+{
+ "word": "gift card",
+ "pos": "명사구",
+ "phonetic": "[ˈɡɪft kɑːrd]",
+ "meaning": "상품권, 기프트 카드",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "gift",
+   "meaning": "선물 (gift)",
+   "note": "give(주다)와 같은 뿌리로 '주어진 것'이라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "card",
+   "meaning": "카드 (card)",
+   "note": "라틴어 charta(종이)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>gift</strong> (선물) + <strong>card</strong> (카드) = '선물로 주는, 돈처럼 쓸 수 있는 카드'라서 <strong>'상품권'</strong>이에요.",
+ "historyTitle": "'주어진 것', gift",
+ "historyBody": "gift는 고대 노르드어 gift와 고대 영어 gift에서 왔고, give(주다)와 같은 뿌리예요. 그래서 gift는 '주어진 것'이고, '타고난 재능'이라는 뜻도 있어요. card는 라틴어 charta(파피루스 종이)에서 왔고, chart(도표)와 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gift certificate",
+   "pos": "명사구",
+   "meaning": "상품권",
+   "en": "She gave me a gift certificate for the bookstore.",
+   "ko": "그녀는 나에게 서점 상품권을 주었어요."
+  },
+  {
+   "word": "voucher",
+   "pos": "명사",
+   "meaning": "쿠폰, 상품권",
+   "en": "You can use this voucher for a free meal.",
+   "ko": "이 쿠폰으로 식사 한 끼를 무료로 드실 수 있어요."
+  },
+  {
+   "word": "gifted",
+   "pos": "형용사",
+   "meaning": "재능 있는",
+   "en": "He is a gifted young pianist.",
+   "ko": "그는 재능 있는 젊은 피아니스트예요."
+  },
+  {
+   "word": "gift shop",
+   "pos": "명사구",
+   "meaning": "기념품 가게",
+   "en": "We bought postcards at the gift shop.",
+   "ko": "우리는 기념품 가게에서 엽서를 샀어요."
+  },
+  {
+   "word": "credit card",
+   "pos": "명사구",
+   "meaning": "신용 카드",
+   "en": "Can I pay with a credit card?",
+   "ko": "신용 카드로 계산해도 될까요?"
+  }
+ ],
+ "imageSense": "대표 의미: 생일 선물로 받은 카페 상품권",
+ "imageCaption": "봉투를 열자 반짝이는 카드가 나오는, 받는 사람이 고르는 선물을 떠올려 보세요.",
+ "movieLineEn": "I didn't know what you'd like, so here's a gift card.",
+ "movieLineKo": "네가 뭘 좋아할지 몰라서, 여기 상품권이야.",
+ "storyTitle": "돌고 도는 상품권",
+ "story": "생일에 친구가 카페 gift card(상품권)를 줬어요. 나는 커피를 안 마셔서 그걸 다른 친구에게 voucher(쿠폰)처럼 선물했죠. 그 친구는 또 다른 친구에게 줬고요. 한 달 뒤, 내 생일 파티에서 받은 선물을 열어 보니… 바로 그 gift card(상품권)였어요! 이 카드는 우리 반 전체를 한 바퀴 돈 진짜 gifted(재능 있는) 여행자였어요."
+}

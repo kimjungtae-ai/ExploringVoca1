@@ -1,0 +1,68 @@
+{
+ "word": "long for",
+ "pos": "구동사",
+ "phonetic": "[lɔːŋ fɔːr]",
+ "meaning": "~을 간절히 바라다, 그리워하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "long",
+   "meaning": "갈망하다 (yearn)",
+   "note": "무언가를 '오래도록 간절히 바란다'는 뜻을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "for",
+   "meaning": "~을 향해, ~을 위해 (for)",
+   "note": "바라는 대상을 연결해 줘요."
+  }
+ ],
+ "summary": "<strong>long</strong> (오래도록 바라다) + <strong>for</strong> (~을 향해) = '~을 향해 마음이 길게 뻗다'에서 <strong>'~을 간절히 바라다'</strong>",
+ "historyTitle": "'길어지다'에서 '그리워하다'로",
+ "historyBody": "동사 long은 고대 영어 langian(길어지다; 그리워하다)에서 왔고, 형용사 long(긴)과 같은 뿌리예요. 무언가를 기다리는 시간이 '길게 느껴지는' 데서 '갈망하다, 그리워하다'라는 뜻이 생겼다고 봐요. longing(갈망)도 같은 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "longing",
+   "pos": "명사",
+   "meaning": "갈망, 그리움",
+   "en": "She felt a deep longing for home.",
+   "ko": "그녀는 고향에 대한 깊은 그리움을 느꼈어."
+  },
+  {
+   "word": "yearn for",
+   "pos": "구동사",
+   "meaning": "~을 갈망하다",
+   "en": "He yearned for freedom.",
+   "ko": "그는 자유를 갈망했어."
+  },
+  {
+   "word": "be eager to",
+   "pos": "숙어",
+   "meaning": "~하기를 간절히 바라다",
+   "en": "I'm eager to see the results.",
+   "ko": "결과를 보고 싶어서 안달이야."
+  },
+  {
+   "word": "miss",
+   "pos": "동사",
+   "meaning": "그리워하다",
+   "en": "I miss my grandmother's cooking.",
+   "ko": "할머니 음식이 그리워."
+  },
+  {
+   "word": "crave",
+   "pos": "동사",
+   "meaning": "갈망하다",
+   "en": "I crave something sweet after dinner.",
+   "ko": "저녁 먹고 나면 단 게 몹시 당겨."
+  }
+ ],
+ "imageSense": "대표 의미: 창가에 앉아 멀리 고향 하늘을 바라보는 장면",
+ "imageCaption": "손을 길게 뻗어 닿지 않는 무언가를 그리워하는 모습을 떠올려 보세요.",
+ "movieLineEn": "All my life, I have longed for this moment.",
+ "movieLineKo": "평생 나는 이 순간을 간절히 바라 왔어.",
+ "storyTitle": "방학을 기다리는 마음",
+ "story": "고3 수진이는 방학을 long for(간절히 바라다) 했어요. 매일 밤 침대에 대한 longing(그리움)으로 가득했죠. 떡볶이도 crave(갈망하다) 했고 친구들도 miss(그리워하다) 했어요. 드디어 수능이 끝난 날! 수진이는 침대에 누운 지 3초 만에 잠들었고, 일어나 보니 방학의 절반이 지나 있었답니다."
+}

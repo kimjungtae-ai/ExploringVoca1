@@ -1,0 +1,68 @@
+{
+ "word": "career path",
+ "pos": "명사구",
+ "phonetic": "[kəˈrɪr pæθ]",
+ "meaning": "진로, 경력 경로, 직업상의 길",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "career",
+   "meaning": "직업, 경력 (career)",
+   "note": "평생 동안 쌓아 가는 일을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "path",
+   "meaning": "길, 경로 (path)",
+   "note": "걸어가는 좁은 길, 나아가는 방향을 뜻해요."
+  }
+ ],
+ "summary": "<strong>career</strong> (직업, 경력) + <strong>path</strong> (길) = '직업 인생에서 걸어가는 길'에서 <strong>'진로'</strong>",
+ "historyTitle": "수레가 달리던 길, career",
+ "historyBody": "career는 라틴어 'carrus(수레)'에서 나온 프랑스어 'carrière(경주로, 달리는 길)'에서 왔어요. path는 고대 영어 'pæþ(오솔길)'에서 온 오래된 게르만어 단어예요. 즉 career path는 '달리는 길 위의 길'처럼, 일하며 나아가는 방향을 생생하게 그린 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "career choice",
+   "pos": "명사구",
+   "meaning": "직업 선택",
+   "en": "Your hobby can affect your career choice.",
+   "ko": "취미가 직업 선택에 영향을 줄 수 있어요."
+  },
+  {
+   "word": "career goal",
+   "pos": "명사구",
+   "meaning": "직업 목표",
+   "en": "My career goal is to become a game designer.",
+   "ko": "내 직업 목표는 게임 디자이너가 되는 거야."
+  },
+  {
+   "word": "pathway",
+   "pos": "명사",
+   "meaning": "길, 경로",
+   "en": "There are many pathways to success.",
+   "ko": "성공으로 가는 길은 많아요."
+  },
+  {
+   "word": "career fair",
+   "pos": "명사구",
+   "meaning": "취업 박람회",
+   "en": "I learned about new jobs at the career fair.",
+   "ko": "취업 박람회에서 새로운 직업들에 대해 알게 됐어."
+  },
+  {
+   "word": "follow in one's footsteps",
+   "pos": "숙어",
+   "meaning": "~의 뒤를 따르다",
+   "en": "He followed in his father's footsteps and became a doctor.",
+   "ko": "그는 아버지의 뒤를 이어 의사가 됐어."
+  }
+ ],
+ "imageSense": "대표 의미: 갈림길 앞에서 여러 직업 표지판을 바라보는 학생의 모습",
+ "imageCaption": "숲속 갈림길에 '의사', '요리사', '프로게이머' 표지판이 서 있다고 상상해 보세요.",
+ "movieLineEn": "Every career path starts with a single step.",
+ "movieLineKo": "모든 진로는 한 걸음에서 시작돼.",
+ "storyTitle": "갈림길의 고양이",
+ "story": "수아는 career path(진로)를 고민했어요. career goal(직업 목표)도 정해야 했죠. 숲속 pathway(길)에 들어서자 고양이가 \"career choice(직업 선택)는 신중히!\"라고 말했어요. 깜짝 놀란 수아가 \"고양이가 말을 해?\" 하자, 고양이가 답했어요. \"난 진로 상담 고양이야. 상담료는 츄르 세 개!\""
+}

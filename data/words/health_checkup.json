@@ -1,0 +1,68 @@
+{
+ "word": "health checkup",
+ "pos": "명사구",
+ "phonetic": "[ˈhelθ ˈtʃekʌp]",
+ "meaning": "건강 검진",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "health",
+   "meaning": "건강 (health)",
+   "note": "무엇을 검사하는지, 즉 '건강'을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "checkup",
+   "meaning": "검진, 점검 (examination)",
+   "note": "check(확인하다)+up(완전히)으로 '꼼꼼한 점검'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>health</strong> (건강) + <strong>checkup</strong> (꼼꼼한 점검) = '건강을 꼼꼼히 점검함'에서 <strong>'건강 검진'</strong>",
+ "historyTitle": "체스의 '장군!'에서 온 check",
+ "historyBody": "check는 페르시아어 shāh(왕)에서 온 체스 용어 '장군(check)'에서 시작했어요. 왕을 멈춰 세우는 데서 '멈추게 하다, 확인하다'라는 뜻이 생겼죠. check up(철저히 확인하다)이 19세기 말 명사 checkup(검진)이 되었고, health(건강)는 '온전함'을 뜻한 고대 영어 hǣlþ에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "check up on",
+   "pos": "구동사",
+   "meaning": "~을 확인하다, 살피다",
+   "en": "The nurse checks up on patients every hour.",
+   "ko": "간호사는 매시간 환자들을 살펴."
+  },
+  {
+   "word": "check out",
+   "pos": "구동사",
+   "meaning": "확인하다, (책을) 빌리다",
+   "en": "I checked out three books from the library.",
+   "ko": "나는 도서관에서 책 세 권을 빌렸어."
+  },
+  {
+   "word": "medical examination",
+   "pos": "명사구",
+   "meaning": "건강 진단",
+   "en": "You need a medical examination before the trip.",
+   "ko": "여행 전에 건강 진단을 받아야 해."
+  },
+  {
+   "word": "healthy",
+   "pos": "형용사",
+   "meaning": "건강한",
+   "en": "Regular exercise keeps your heart healthy.",
+   "ko": "규칙적인 운동은 심장을 건강하게 해 줘."
+  },
+  {
+   "word": "check-in",
+   "pos": "명사",
+   "meaning": "탑승 수속, 체크인",
+   "en": "Check-in starts two hours before the flight.",
+   "ko": "탑승 수속은 비행 두 시간 전에 시작해."
+  }
+ ],
+ "imageSense": "대표 의미: 병원에서 키, 몸무게, 혈압을 재는 장면",
+ "imageCaption": "청진기를 대고 '어디 아픈 데 없나' 꼼꼼히 확인하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Relax. It's just a routine health checkup, not a spy mission.",
+ "movieLineKo": "긴장 풀어. 그냥 정기 건강 검진이지 첩보 작전이 아니야.",
+ "storyTitle": "검진 날의 진실",
+ "story": "아빠는 health checkup(건강 검진) 전날 밤 치킨을 드셨어요. 의사 선생님이 수치를 check out(확인하다)하더니 \"매우 healthy(건강한) 하시네요\"라고 했죠. 기뻐하던 아빠에게 간호사가 말했어요. \"죄송해요, 지금 보신 건 옆 방 강아지 medical examination(건강 진단) 결과예요.\""
+}

@@ -1,0 +1,68 @@
+{
+ "word": "cool down",
+ "pos": "구동사",
+ "phonetic": "[kuːl daʊn]",
+ "meaning": "식다, 식히다, 진정하다, 진정시키다, (운동 후) 정리 운동을 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "cool",
+   "meaning": "시원한; 식히다 (cool)",
+   "note": "뜨거운 것을 시원하게 만든다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 낮아지는 (down)",
+   "note": "온도나 감정이 '아래로 내려가는' 이미지예요."
+  }
+ ],
+ "summary": "<strong>cool</strong> (식히다) + <strong>down</strong> (아래로) = '온도·흥분을 아래로 낮추다'에서 <strong>'식다, 진정하다'</strong>",
+ "historyTitle": "cold와 형제인 cool",
+ "historyBody": "cool은 고대 영어 'cōl(서늘한)'에서 왔고, cold(추운)와 같은 게르만어 뿌리예요. 뜨거운 국을 식히는 것처럼 화난 감정도 '식힐' 수 있다는 데서 '진정하다'라는 뜻이 생겼어요. 운동 후 몸을 천천히 식히는 '정리 운동'도 cool-down이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "calm down",
+   "pos": "구동사",
+   "meaning": "진정하다",
+   "en": "Calm down and tell me what happened.",
+   "ko": "진정하고 무슨 일이 있었는지 말해 봐."
+  },
+  {
+   "word": "warm up",
+   "pos": "구동사",
+   "meaning": "준비 운동을 하다, 데우다",
+   "en": "Always warm up before you run.",
+   "ko": "달리기 전에는 항상 준비 운동을 해."
+  },
+  {
+   "word": "chill out",
+   "pos": "구동사",
+   "meaning": "긴장을 풀다, 쉬다",
+   "en": "Let's chill out at home this weekend.",
+   "ko": "이번 주말엔 집에서 푹 쉬자."
+  },
+  {
+   "word": "settle down",
+   "pos": "구동사",
+   "meaning": "진정하다, 정착하다",
+   "en": "The kids settled down after lunch.",
+   "ko": "아이들은 점심 먹고 나서 진정됐어."
+  },
+  {
+   "word": "cool-down",
+   "pos": "명사",
+   "meaning": "정리 운동",
+   "en": "Do a five-minute cool-down after exercise.",
+   "ko": "운동 후에 5분간 정리 운동을 해."
+  }
+ ],
+ "imageSense": "대표 의미: 뜨거운 국에 후후 불며 식히는 장면",
+ "imageCaption": "후후 불어 식히는 국과, 숨을 고르며 화를 가라앉히는 친구의 모습을 같이 떠올려 보세요.",
+ "movieLineEn": "Cool down, man. It's just a game.",
+ "movieLineKo": "진정해, 친구. 그냥 게임이잖아.",
+ "storyTitle": "진정한 승부",
+ "story": "게임에서 진 민재가 씩씩대자 친구가 \"cool down(진정하다)!\"이라고 했어요. 민재는 calm down(진정하다)하려고 아이스크림을 먹었죠. 그다음 축구를 하려고 warm up(준비 운동을 하다)하고, 경기 후엔 cool-down(정리 운동)까지 했어요. 그런데 축구도 졌어요. 민재는 아이스크림을 하나 더 먹으며 chill out(쉬다)했답니다."
+}

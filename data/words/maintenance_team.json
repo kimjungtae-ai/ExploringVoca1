@@ -1,0 +1,68 @@
+{
+ "word": "maintenance team",
+ "pos": "명사구",
+ "phonetic": "[ˈmeɪntənəns tiːm]",
+ "meaning": "시설 관리 팀, 정비 팀",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "maintenance",
+   "meaning": "유지, 보수 (maintenance)",
+   "note": "건물·기계가 계속 잘 돌아가도록 돌보는 일이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "team",
+   "meaning": "팀, 단체 (team)",
+   "note": "원래 고대 영어로 '한 줄로 묶인 소나 말 무리'를 뜻했어요."
+  }
+ ],
+ "summary": "<strong>maintenance</strong> (유지 보수) + <strong>team</strong> (팀) = '유지·보수를 맡은 사람들의 무리'에서 <strong>'시설 관리 팀, 정비 팀'</strong>",
+ "historyTitle": "함께 수레를 끌던 동물 무리, team",
+ "historyBody": "team은 고대 영어 team(한 멍에에 묶여 함께 끄는 동물 무리)에서 왔어요. 함께 힘을 합쳐 일하는 사람들이란 뜻은 여기서 발전했죠. maintenance는 라틴어 manu tenere(손으로 붙들다)에서 온 maintain의 명사형이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "maintain",
+   "pos": "동사",
+   "meaning": "유지하다",
+   "en": "The city maintains the park very well.",
+   "ko": "시는 공원을 아주 잘 관리해요."
+  },
+  {
+   "word": "maintenance office",
+   "pos": "명사구",
+   "meaning": "관리 사무소",
+   "en": "Report any problems to the maintenance office.",
+   "ko": "문제가 생기면 관리 사무소에 알리세요."
+  },
+  {
+   "word": "repair",
+   "pos": "동사 / 명사",
+   "meaning": "수리하다 / 수리",
+   "en": "The road is closed for repairs this week.",
+   "ko": "이번 주에 그 도로는 보수 공사로 통제돼요."
+  },
+  {
+   "word": "teamwork",
+   "pos": "명사",
+   "meaning": "협동, 팀워크",
+   "en": "Good teamwork helped us win the game.",
+   "ko": "좋은 팀워크 덕분에 우리가 경기에서 이겼어요."
+  },
+  {
+   "word": "cleaning crew",
+   "pos": "명사구",
+   "meaning": "청소 팀",
+   "en": "The cleaning crew arrives after the store closes.",
+   "ko": "청소 팀은 가게가 문을 닫은 뒤에 와요."
+  }
+ ],
+ "imageSense": "대표 의미: 작업복을 입은 사람들이 공구를 들고 기계를 점검하는 장면",
+ "imageCaption": "같은 작업복을 입고 사다리와 공구를 든 사람들이 함께 움직이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Get the maintenance team down here, now!",
+ "movieLineKo": "당장 정비 팀을 이리로 불러!",
+ "storyTitle": "정비 팀의 비밀 무기",
+ "story": "학교 maintenance team(시설 관리 팀)은 teamwork(팀워크)가 최고예요. 고장 난 시계를 repair(수리하다)하고 운동장을 잘 maintain(유지하다)하죠. 그런데 그들의 비밀 무기는 공구가 아니었어요. 바로 교장 선생님이 몰래 넣어 주는 간식 상자였답니다!"
+}

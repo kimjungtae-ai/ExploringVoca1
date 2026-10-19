@@ -1,0 +1,68 @@
+{
+ "word": "civil law",
+ "pos": "명사구",
+ "phonetic": "[ˈsɪvl lɔː]",
+ "meaning": "민법, 대륙법",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "civil",
+   "meaning": "시민의, 민간의 (civil)",
+   "note": "라틴어 civis(시민)에서 온 말로, 시민 사이의 일을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "law",
+   "meaning": "법, 법률 (law)",
+   "note": "사회가 정한 규칙을 말해요."
+  }
+ ],
+ "summary": "<strong>civil</strong> (시민의) + <strong>law</strong> (법) = '시민들 사이의 관계를 다루는 법'에서 <strong>'민법'</strong>",
+ "historyTitle": "로마 시민의 법, ius civile",
+ "historyBody": "civil은 라틴어 'civis(시민)'에서 온 'civilis(시민의)'에서 왔고, city, civilization도 같은 뿌리예요. 고대 로마에는 로마 시민에게 적용되는 'ius civile(시민법)'이 있었는데, 이것이 오늘날 civil law라는 말의 뿌리가 되었어요. law는 고대 노르드어 'lagu(정해 놓은 것)'에서 온 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "criminal law",
+   "pos": "명사구",
+   "meaning": "형법",
+   "en": "Criminal law deals with crimes like theft.",
+   "ko": "형법은 절도 같은 범죄를 다뤄요."
+  },
+  {
+   "word": "civilization",
+   "pos": "명사",
+   "meaning": "문명",
+   "en": "Ancient Egypt was a great civilization.",
+   "ko": "고대 이집트는 위대한 문명이었어요."
+  },
+  {
+   "word": "citizen",
+   "pos": "명사",
+   "meaning": "시민",
+   "en": "Every citizen has the right to vote.",
+   "ko": "모든 시민은 투표할 권리가 있어요."
+  },
+  {
+   "word": "civil rights",
+   "pos": "명사구",
+   "meaning": "시민권, 민권",
+   "en": "Martin Luther King Jr. fought for civil rights.",
+   "ko": "마틴 루터 킹 주니어는 민권을 위해 싸웠어요."
+  },
+  {
+   "word": "lawyer",
+   "pos": "명사",
+   "meaning": "변호사",
+   "en": "My uncle works as a lawyer in Seoul.",
+   "ko": "우리 삼촌은 서울에서 변호사로 일해."
+  }
+ ],
+ "imageSense": "대표 의미: 이웃 두 사람이 담장 문제로 법정에서 서류를 내미는 장면",
+ "imageCaption": "범죄가 아니라 '돈, 계약, 이웃 다툼'처럼 시민끼리의 문제를 판사가 정리하는 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't a crime. It's a matter of civil law.",
+ "movieLineKo": "이건 범죄가 아니야. 민법의 문제지.",
+ "storyTitle": "사과나무 재판",
+ "story": "옆집 사과가 우리 마당에 떨어졌어요. 아빠는 lawyer(변호사) 친구에게 물었죠. \"이건 criminal law(형법) 문제야?\" 친구가 답했어요. \"아니, civil law(민법) 문제야. citizen(시민)끼리의 일이거든.\" 아빠가 진지하게 고민하는 사이, 옆집 할머니가 사과 파이를 들고 오셨어요. 재판은 파이 한 조각으로 끝났답니다."
+}

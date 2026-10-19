@@ -1,0 +1,68 @@
+{
+ "word": "social studies",
+ "pos": "명사구",
+ "phonetic": "[ˈsoʊʃəl ˈstʌdiz]",
+ "meaning": "사회 (교과목), 사회과",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "social",
+   "meaning": "사회의 (social)",
+   "note": "라틴어 socius(동료)에서 온 말로 '사람들이 모인 사회의'예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "studies",
+   "meaning": "학문, 연구 (studies)",
+   "note": "study(공부)의 복수형으로 '여러 분야의 학문'이에요."
+  }
+ ],
+ "summary": "<strong>social</strong> (사회의) + <strong>studies</strong> (학문들) = '사회에 관한 여러 학문'이라서 <strong>'사회 (과목)'</strong>예요.",
+ "historyTitle": "여러 학문을 묶은 과목",
+ "historyBody": "social studies는 20세기 초 미국 학교에서 역사, 지리, 경제, 정치 등을 하나로 묶어 가르치기 위해 만든 과목 이름이에요. 그래서 복수형 studies를 쓰고, 과목명으로는 단수 취급해요. study는 라틴어 'studium(열성)', social은 'socius(동료)'에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "society",
+   "pos": "명사",
+   "meaning": "사회",
+   "en": "Technology has changed modern society.",
+   "ko": "기술은 현대 사회를 바꾸어 놓았어요."
+  },
+  {
+   "word": "social",
+   "pos": "형용사",
+   "meaning": "사회의, 사교적인",
+   "en": "Humans are social animals.",
+   "ko": "인간은 사회적 동물이에요."
+  },
+  {
+   "word": "geography",
+   "pos": "명사",
+   "meaning": "지리학",
+   "en": "We learned about maps in geography class.",
+   "ko": "지리 시간에 지도에 대해 배웠어요."
+  },
+  {
+   "word": "economics",
+   "pos": "명사",
+   "meaning": "경제학",
+   "en": "Economics explains how people use money.",
+   "ko": "경제학은 사람들이 돈을 어떻게 쓰는지 설명해요."
+  },
+  {
+   "word": "subject",
+   "pos": "명사",
+   "meaning": "과목, 주제",
+   "en": "Math is my favorite subject.",
+   "ko": "수학은 내가 가장 좋아하는 과목이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 교실에서 세계 지도와 역사 연표를 펼쳐 놓고 수업하는 장면",
+ "imageCaption": "칠판에 세계 지도와 역사 연표가 걸려 있고 선생님이 경제 그래프를 설명하는 수업을 떠올려 보세요.",
+ "movieLineEn": "I need help with my social studies homework.",
+ "movieLineKo": "사회 숙제 좀 도와줘.",
+ "storyTitle": "사회 시간의 반전",
+ "story": "social studies(사회) 시간, 선생님이 '인간은 social(사회적인) 동물'이라며 토론을 시키셨어요. 우리 모둠은 society(사회)의 문제를 열심히 이야기했죠. 그런데 한참 떠들다 보니 주제가 급식 메뉴로! 선생님은 웃으며 말씀하셨어요. '그것도 economics(경제학)지.'"
+}

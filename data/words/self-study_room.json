@@ -1,0 +1,74 @@
+{
+ "word": "self-study room",
+ "pos": "명사구",
+ "phonetic": "[ˌself ˈstʌdi ruːm]",
+ "meaning": "자습실",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "self",
+   "meaning": "스스로 (self)",
+   "note": "선생님 없이 '스스로' 한다는 뜻이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "study",
+   "meaning": "공부 (study)",
+   "note": "라틴어 studium(열성, 열심)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "room",
+   "meaning": "방 (room)",
+   "note": "원래 '공간, 자리'를 뜻하던 말이에요."
+  }
+ ],
+ "summary": "<strong>self</strong> (스스로) + <strong>study</strong> (공부) + <strong>room</strong> (방) = '스스로 공부하는 방'이라서 <strong>'자습실'</strong>이에요.",
+ "historyTitle": "열심에서 온 study",
+ "historyBody": "study는 고대 프랑스어 'estudie'를 거쳐 라틴어 'studium(열성, 몰두)'에서 왔어요. 무언가에 열심히 몰두하는 것이 곧 공부였던 셈이에요. room은 고대 영어 'rūm(공간, 여유)'에서 왔고, 그래서 지금도 'There's no room'은 '자리가 없다'라는 뜻이 돼요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "self-study",
+   "pos": "명사",
+   "meaning": "자습, 독학",
+   "en": "I spend two hours on self-study every evening.",
+   "ko": "나는 매일 저녁 두 시간씩 자습을 해요."
+  },
+  {
+   "word": "study hall",
+   "pos": "명사구",
+   "meaning": "자습 시간, 자습실",
+   "en": "We have study hall after lunch.",
+   "ko": "우리는 점심 후에 자습 시간이 있어요."
+  },
+  {
+   "word": "student",
+   "pos": "명사",
+   "meaning": "학생",
+   "en": "Every student must keep quiet in the library.",
+   "ko": "모든 학생은 도서관에서 조용히 해야 해요."
+  },
+  {
+   "word": "self-directed",
+   "pos": "형용사",
+   "meaning": "자기 주도적인",
+   "en": "Self-directed learning helps you think independently.",
+   "ko": "자기 주도 학습은 독립적으로 생각하는 데 도움이 돼요."
+  },
+  {
+   "word": "concentrate",
+   "pos": "동사",
+   "meaning": "집중하다",
+   "en": "It's hard to concentrate when it's noisy.",
+   "ko": "시끄러우면 집중하기 어려워요."
+  }
+ ],
+ "imageSense": "대표 의미: 칸막이 책상에서 학생들이 조용히 공부하는 장면",
+ "imageCaption": "칸막이 책상 사이로 사각사각 연필 소리만 들리는 조용한 방을 떠올려 보세요. 각자 스스로 공부하는 곳이에요.",
+ "movieLineEn": "Shh! This is the self-study room, not a party room.",
+ "movieLineKo": "쉿! 여긴 자습실이야, 파티룸이 아니라고.",
+ "storyTitle": "자습실의 소리",
+ "story": "시험 전날 self-study room(자습실)에 갔어요. 모두 concentrate(집중하다)하는 분위기라 나도 self-directed(자기 주도적인) 학생이 된 기분이었죠. 그런데 어디선가 '드르렁~' 소리가! 다들 범인을 찾아 두리번거렸는데, 알고 보니 내 휴대폰 알람 소리였어요. student(학생) 전원이 날 쳐다봤답니다."
+}

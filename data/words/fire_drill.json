@@ -1,0 +1,68 @@
+{
+ "word": "fire drill",
+ "pos": "명사구",
+ "phonetic": "[ˈfaɪər drɪl]",
+ "meaning": "소방 훈련, 화재 대피 훈련",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "fire",
+   "meaning": "불, 화재 (fire)",
+   "note": "무엇에 대비한 훈련인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "drill",
+   "meaning": "훈련; 드릴 (drill)",
+   "note": "같은 동작을 반복해 몸에 익히는 훈련을 뜻해요."
+  }
+ ],
+ "summary": "<strong>fire</strong> (화재) + <strong>drill</strong> (반복 훈련) = '화재에 대비한 반복 훈련'이라서 <strong>'소방 훈련'</strong>이에요.",
+ "historyTitle": "구멍 뚫기에서 반복 훈련으로",
+ "historyBody": "fire는 고대 영어 fyr에서 온 아주 오래된 게르만어로, 그리스어 pyr(불)와도 먼 친척이에요. drill은 네덜란드어 drillen(구멍을 뚫다, 빙빙 돌리다)에서 왔어요. 17세기에 군인들을 빙글빙글 돌리며 반복 훈련시키는 데 쓰이면서 '훈련'이라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fire alarm",
+   "pos": "명사구",
+   "meaning": "화재 경보",
+   "en": "When the fire alarm rings, stay calm.",
+   "ko": "화재 경보가 울리면 침착하세요."
+  },
+  {
+   "word": "evacuate",
+   "pos": "동사",
+   "meaning": "대피시키다, 대피하다",
+   "en": "Everyone evacuated the building in five minutes.",
+   "ko": "모두가 5분 만에 건물에서 대피했어요."
+  },
+  {
+   "word": "emergency exit",
+   "pos": "명사구",
+   "meaning": "비상구",
+   "en": "Use the emergency exit, not the elevator.",
+   "ko": "엘리베이터 말고 비상구를 이용하세요."
+  },
+  {
+   "word": "drill",
+   "pos": "명사 / 동사",
+   "meaning": "훈련 / 구멍을 뚫다",
+   "en": "My dad drilled a hole in the wall.",
+   "ko": "아빠가 벽에 구멍을 뚫으셨어요."
+  },
+  {
+   "word": "practice",
+   "pos": "동사 / 명사",
+   "meaning": "연습하다 / 연습",
+   "en": "Regular practice makes you calm in emergencies.",
+   "ko": "꾸준한 연습은 비상시에 침착하게 해 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 학생들이 손수건으로 입을 막고 줄지어 운동장으로 나가는 장면",
+ "imageCaption": "'이건 훈련 상황입니다' 방송과 함께 계단을 내려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "This is not a fire drill. I repeat, this is not a drill!",
+ "movieLineKo": "이건 소방 훈련이 아니다. 반복한다, 훈련이 아니다!",
+ "storyTitle": "진짜 같은 훈련",
+ "story": "오늘은 fire drill(소방 훈련) 날이에요. fire alarm(화재 경보)이 울리자 우리는 emergency exit(비상구)로 evacuate(대피하다)했어요. 다들 진지했는데, 교장 선생님만 안 나오셨어요! 걱정돼서 돌아가 보니 교장 선생님은 헤드폰을 끼고 낮잠 중이셨대요. 다음 주엔 교장 선생님만을 위한 practice(연습)가 열린대요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "go all out",
+ "pos": "숙어",
+ "phonetic": "[ɡoʊ ɔːl aʊt]",
+ "meaning": "전력을 다하다, 온 힘을 쏟다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "go",
+   "meaning": "가다 (go)",
+   "note": "어떤 방향으로 움직여 나간다는 뜻이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "all",
+   "meaning": "완전히, 전부 (all)",
+   "note": "남김없이 '전부'라는 강조예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "가진 힘을 끝까지 밖으로 다 꺼내는 이미지예요."
+  }
+ ],
+ "summary": "<strong>go</strong> (가다) + <strong>all out</strong> (완전히 끝까지) = '가진 걸 다 꺼내 끝까지 가다'라서 <strong>'전력을 다하다'</strong>예요.",
+ "historyTitle": "끝까지 남김없이",
+ "historyBody": "all out은 '완전히, 전력으로'라는 뜻으로 중세 영어부터 쓰였고, 19세기 말 스포츠와 경주에서 '전력 질주'를 뜻하며 널리 퍼졌어요. 그래서 all-out effort(총력)처럼 형용사로도 써요. 파티나 행사를 아주 화려하게 준비할 때도 go all out이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "do one's best",
+   "pos": "숙어",
+   "meaning": "최선을 다하다",
+   "en": "Just do your best on the test.",
+   "ko": "시험에서 그냥 최선을 다하면 돼요."
+  },
+  {
+   "word": "all-out",
+   "pos": "형용사",
+   "meaning": "총력의, 전면적인",
+   "en": "The team made an all-out effort to win.",
+   "ko": "그 팀은 이기기 위해 총력을 기울였어요."
+  },
+  {
+   "word": "give it one's all",
+   "pos": "숙어",
+   "meaning": "모든 것을 쏟다",
+   "en": "She gave it her all in the final race.",
+   "ko": "그녀는 마지막 경주에 모든 것을 쏟았어요."
+  },
+  {
+   "word": "make an effort",
+   "pos": "숙어",
+   "meaning": "노력하다",
+   "en": "Please make an effort to be on time.",
+   "ko": "시간을 지키려고 노력해 주세요."
+  },
+  {
+   "word": "go out of one's way",
+   "pos": "숙어",
+   "meaning": "일부러 애쓰다",
+   "en": "He went out of his way to help me.",
+   "ko": "그는 일부러 애써서 나를 도와줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 결승선을 향해 전력 질주하는 육상 선수",
+ "imageCaption": "숨이 턱까지 차도 마지막 힘을 다 짜내는 모습을 떠올려 보세요.",
+ "movieLineEn": "This is our last chance. Let's go all out!",
+ "movieLineKo": "이게 우리의 마지막 기회야. 전력을 다하자!",
+ "storyTitle": "반 대항 피구 대회",
+ "story": "체육 대회 날, 우리 반은 피구에서 go all out(전력을 다하다)하기로 했어요. 모두가 do one's best(최선을 다하다)하며 all-out(총력의) 공격을 펼쳤죠. 담임 선생님도 give it one's all(모든 것을 쏟다)하며 응원했어요. 결국 우승! 그런데 다음 날 선생님은 목이 쉬어서 수업 대신 칠판에 글씨로만 말씀하셨답니다."
+}

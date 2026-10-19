@@ -1,0 +1,68 @@
+{
+ "word": "physical therapy",
+ "pos": "명사구",
+ "phonetic": "[ˈfɪzɪkəl ˈθerəpi]",
+ "meaning": "물리 치료",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "physical",
+   "meaning": "신체의, 물리적인 (physical)",
+   "note": "그리스어 physis(자연)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "therapy",
+   "meaning": "치료, 요법 (therapy)",
+   "note": "그리스어 therapeia(돌봄, 치료)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>physical</strong> (신체의) + <strong>therapy</strong> (치료) = '몸을 움직이고 운동시켜 하는 치료'에서 <strong>'물리 치료'</strong>",
+ "historyTitle": "그리스어 '자연'과 '돌봄'",
+ "historyBody": "physical은 그리스어 physis(자연, 본성)에서 왔어요. physics(물리학)와 같은 뿌리죠. therapy는 그리스어 therapeia(돌봄, 시중, 치료)에서 왔어요. 그래서 physical therapy는 약보다 운동, 열, 마사지 같은 '물리적인 방법'으로 몸을 치료하는 것을 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "therapist",
+   "pos": "명사",
+   "meaning": "치료사",
+   "en": "The therapist showed me some stretching exercises.",
+   "ko": "치료사가 스트레칭 운동을 몇 가지 알려 줬어요."
+  },
+  {
+   "word": "physically",
+   "pos": "부사",
+   "meaning": "신체적으로",
+   "en": "Running keeps you physically healthy.",
+   "ko": "달리기는 몸을 건강하게 해 줘요."
+  },
+  {
+   "word": "physics",
+   "pos": "명사",
+   "meaning": "물리학",
+   "en": "Newton made great discoveries in physics.",
+   "ko": "뉴턴은 물리학에서 위대한 발견을 했어요."
+  },
+  {
+   "word": "physician",
+   "pos": "명사",
+   "meaning": "내과 의사, 의사",
+   "en": "The physician listened to my heartbeat.",
+   "ko": "의사가 내 심장 박동을 들었어요."
+  },
+  {
+   "word": "rehabilitation",
+   "pos": "명사",
+   "meaning": "재활",
+   "en": "After the surgery, he needed months of rehabilitation.",
+   "ko": "수술 후 그는 몇 달간 재활이 필요했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 다친 무릎을 치료사와 함께 천천히 운동하는 장면",
+ "imageCaption": "치료사 옆에서 고무 밴드를 당기며 조금씩 다리를 움직이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Three weeks of physical therapy, and you'll be dancing again.",
+ "movieLineKo": "물리 치료 3주면 다시 춤출 수 있을 거예요.",
+ "storyTitle": "재활의 기적",
+ "story": "축구하다 무릎을 다친 형은 physical therapy(물리 치료)를 받았어요. therapist(치료사) 선생님과 rehabilitation(재활) 운동을 열심히 했죠. 형은 physically(신체적으로) 점점 튼튼해졌어요. 그리고 다시 축구장에 돌아간 첫날, 이번엔 반대쪽 무릎을 다쳤어요!"
+}

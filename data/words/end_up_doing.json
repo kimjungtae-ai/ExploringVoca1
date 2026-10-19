@@ -1,0 +1,74 @@
+{
+ "word": "end up doing",
+ "pos": "숙어",
+ "phonetic": "[end ʌp ˈduːɪŋ]",
+ "meaning": "결국 ~하게 되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "end",
+   "meaning": "끝나다 (end)",
+   "note": "어떤 일의 마지막 지점에 도달한다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히, 끝까지 (up)",
+   "note": "up은 '완전히 다 ~해 버리다'라는 완료의 느낌을 더해 줘요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "doing",
+   "meaning": "~하는 것 (동명사)",
+   "note": "결국 도달한 '그 행동'을 동명사(-ing)로 나타내요."
+  }
+ ],
+ "summary": "<strong>end</strong> (끝나다) + <strong>up</strong> (완전히) + <strong>doing</strong> (~하는 것) = '끝에 가서는 ~하는 상태에 이르다'라서 <strong>'결국 ~하게 되다'</strong>예요.",
+ "historyTitle": "예상 밖의 도착점을 말하는 end up",
+ "historyBody": "end는 고대 영어 ende(끝)에서 온 아주 오래된 게르만어예요. end up은 '마지막에 어디에 이르다'라는 뜻으로 쓰이며, 흔히 계획과 다르게 흘러간 결과를 말할 때 써요. 뒤에는 -ing나 장소, 형용사가 올 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "end up in",
+   "pos": "구동사",
+   "meaning": "결국 ~에 이르다/처하다",
+   "en": "We got lost and ended up in a tiny village.",
+   "ko": "우리는 길을 잃어서 결국 작은 마을에 도착하게 됐어요."
+  },
+  {
+   "word": "wind up",
+   "pos": "구동사",
+   "meaning": "결국 ~하게 되다",
+   "en": "If you keep spending like this, you'll wind up broke.",
+   "ko": "이렇게 계속 돈을 쓰면 결국 빈털터리가 될 거예요."
+  },
+  {
+   "word": "in the end",
+   "pos": "부사구",
+   "meaning": "결국, 마침내",
+   "en": "In the end, our team won the final match.",
+   "ko": "결국 우리 팀이 결승전에서 이겼어요."
+  },
+  {
+   "word": "turn out",
+   "pos": "구동사",
+   "meaning": "~로 판명되다",
+   "en": "The rumor turned out to be false.",
+   "ko": "그 소문은 거짓으로 판명되었어요."
+  },
+  {
+   "word": "come to do",
+   "pos": "숙어",
+   "meaning": "~하게 되다",
+   "en": "Over time, she came to love her new school.",
+   "ko": "시간이 지나면서 그녀는 새 학교를 사랑하게 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 잠깐 쉬려다 결국 소파에서 잠든 학생",
+ "imageCaption": "'잠깐만'이라고 했는데 눈 떠보니 아침! 계획과 다른 결말이 바로 end up이에요.",
+ "movieLineEn": "I just wanted one cookie, and I ended up eating the whole box.",
+ "movieLineKo": "쿠키 하나만 먹으려 했는데, 결국 한 상자를 다 먹어 버렸어.",
+ "storyTitle": "딱 한 편만",
+ "story": "지수는 드라마를 딱 한 편만 보려고 했어요. 그런데 결국 밤새 보게 end up doing(결국 ~하게 되다)했죠. In the end(결국) 시험 공부는 못 했고, 성적이 걱정될 거라 생각했어요. 하지만 결과는 turn out(판명되다)! 시험 지문이 바로 그 드라마 줄거리였거든요. 결국 지수는 만점을 wind up(결국 ~하게 되다)했답니다."
+}

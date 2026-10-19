@@ -1,0 +1,68 @@
+{
+ "word": "video production",
+ "pos": "명사구",
+ "phonetic": "[ˈvɪdioʊ prəˈdʌkʃn]",
+ "meaning": "영상 제작",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "video",
+   "meaning": "영상, 비디오 (video)",
+   "note": "무엇을 만드는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "production",
+   "meaning": "제작, 생산 (production)",
+   "note": "무언가를 만들어 내는 일이에요."
+  }
+ ],
+ "summary": "<strong>video</strong> (영상) + <strong>production</strong> (제작) = '영상을 만들어 내는 일'에서 <strong>'영상 제작'</strong>",
+ "historyTitle": "'나는 본다'와 '앞으로 이끌어 내다'",
+ "historyBody": "video는 라틴어로 '나는 본다'라는 뜻의 단어(videre의 1인칭)를 20세기에 audio(나는 듣는다)에 맞춰 가져다 쓴 말이에요. production은 라틴어 producere에서 왔는데, pro-(앞으로)와 ducere(이끌다)가 합쳐져 '앞으로 이끌어 내다'라는 뜻이었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "produce",
+   "pos": "동사",
+   "meaning": "생산하다, 제작하다",
+   "en": "This farm produces fresh vegetables.",
+   "ko": "이 농장은 신선한 채소를 생산해요."
+  },
+  {
+   "word": "producer",
+   "pos": "명사",
+   "meaning": "제작자, 생산자",
+   "en": "The producer chose a new actor for the role.",
+   "ko": "제작자는 그 역할에 새 배우를 골랐어요."
+  },
+  {
+   "word": "productive",
+   "pos": "형용사",
+   "meaning": "생산적인",
+   "en": "I had a very productive day.",
+   "ko": "나는 아주 생산적인 하루를 보냈어요."
+  },
+  {
+   "word": "visual",
+   "pos": "형용사",
+   "meaning": "시각의",
+   "en": "Visual images help us remember information.",
+   "ko": "시각 이미지는 정보를 기억하는 데 도움이 돼요."
+  },
+  {
+   "word": "edit",
+   "pos": "동사",
+   "meaning": "편집하다",
+   "en": "She edited the video on her phone.",
+   "ko": "그녀는 휴대폰으로 영상을 편집했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 카메라와 조명 앞에서 촬영하고 컴퓨터로 편집하는 장면",
+ "imageCaption": "작은 방에서 삼각대와 조명을 세워 놓고 촬영 버튼을 누르는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm taking a video production class to become a YouTuber.",
+ "movieLineKo": "유튜버가 되려고 영상 제작 수업을 듣고 있어.",
+ "storyTitle": "구독자 한 명의 비밀",
+ "story": "하은이는 video production(영상 제작) 동아리에서 첫 영상을 produce(제작하다)했어요. 밤새 edit(편집하다)하고 멋진 visual(시각의) 효과도 넣었죠. 업로드 후 구독자는 딱 한 명. 하은이는 실망했지만 그 한 명이 매일 댓글을 달았어요. 정체는 바로 엄마, 최고의 producer(제작자) 팬이었답니다!"
+}

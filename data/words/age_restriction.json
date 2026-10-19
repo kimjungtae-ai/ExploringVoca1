@@ -1,0 +1,68 @@
+{
+ "word": "age restriction",
+ "pos": "명사구",
+ "phonetic": "[eɪdʒ rɪˈstrɪkʃn]",
+ "meaning": "연령 제한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "age",
+   "meaning": "나이 (age)",
+   "note": "무엇을 기준으로 제한하는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "restriction",
+   "meaning": "제한 (limit)",
+   "note": "라틴어 re-(뒤로)+stringere(꽉 묶다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>age</strong> (나이) + <strong>restriction</strong> (제한) = <strong>'나이에 따른 제한'</strong>이에요.",
+ "historyTitle": "꽉 묶어 두는 restrict",
+ "historyBody": "restriction은 라틴어 restringere에서 왔는데, re-(뒤로)와 stringere(꽉 당기다, 묶다)가 합쳐진 말이에요. 뒤로 꽉 묶어 못 나가게 하니 '제한'이 된 거죠. strict(엄격한)도 같은 뿌리에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "restrict",
+   "pos": "동사",
+   "meaning": "제한하다",
+   "en": "The park restricts the number of visitors.",
+   "ko": "그 공원은 방문객 수를 제한해요."
+  },
+  {
+   "word": "strict",
+   "pos": "형용사",
+   "meaning": "엄격한",
+   "en": "Our coach is strict about being on time.",
+   "ko": "우리 코치님은 시간 약속에 엄격해요."
+  },
+  {
+   "word": "age limit",
+   "pos": "명사구",
+   "meaning": "연령 제한",
+   "en": "There is no age limit for this contest.",
+   "ko": "이 대회에는 연령 제한이 없어요."
+  },
+  {
+   "word": "height restriction",
+   "pos": "명사구",
+   "meaning": "키 제한",
+   "en": "The roller coaster has a height restriction of 140 cm.",
+   "ko": "그 롤러코스터는 키 140cm 제한이 있어요."
+  },
+  {
+   "word": "unrestricted",
+   "pos": "형용사",
+   "meaning": "제한 없는",
+   "en": "Members have unrestricted use of the gym.",
+   "ko": "회원은 체육관을 제한 없이 이용할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 놀이기구 앞에 '12세 이상'이라고 적힌 표지판",
+ "imageCaption": "놀이기구 입구의 키 재는 막대와 나이 표지판을 떠올려 보세요.",
+ "movieLineEn": "Sorry, there's an age restriction. Come back in five years.",
+ "movieLineKo": "미안, 연령 제한이 있어. 5년 뒤에 다시 와.",
+ "storyTitle": "할아버지의 도전",
+ "story": "새 롤러코스터에 age restriction(연령 제한)이 있었어요. '65세 이하만 탑승'이라는 strict(엄격한) 규칙이었죠. 할아버지는 height restriction(키 제한)은 통과했지만 나이에 걸렸어요. 결국 할아버지는 restrict(제한하다)되지 않는 회전목마를 열 번 타셨답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "graduation ceremony",
+ "pos": "명사구",
+ "phonetic": "[ˌɡrædʒuˈeɪʃn ˈserəmoʊni]",
+ "meaning": "졸업식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "graduation",
+   "meaning": "졸업 (graduation)",
+   "note": "graduate(졸업하다) + -ion(명사)이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "ceremony",
+   "meaning": "식, 의식 (ceremony)",
+   "note": "라틴어 caerimonia(신성한 의식)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>graduation</strong> (졸업) + <strong>ceremony</strong> (의식) = '졸업을 기념하는 의식'이라서 <strong>'졸업식'</strong>이에요.",
+ "historyTitle": "한 계단 올라서는 의식",
+ "historyBody": "graduate는 중세 라틴어 graduari(학위를 받다)에서 왔고, gradus(계단, 단계)와 같은 뿌리예요. 학업의 계단을 한 단계 올라선다는 뜻이죠. grade(학년, 등급), gradual(점진적인)도 같은 집안이에요. ceremony는 라틴어 caerimonia(종교 의식, 경건함)에서 왔는데, 그 이전 기원은 확실하지 않아요. 졸업식은 학업의 한 단계를 마치고 다음 계단으로 올라서는 공식 의식이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "graduate from",
+   "pos": "구동사",
+   "meaning": "~을 졸업하다",
+   "en": "He graduated from high school in 2024.",
+   "ko": "그는 2024년에 고등학교를 졸업했어요."
+  },
+  {
+   "word": "diploma",
+   "pos": "명사",
+   "meaning": "졸업장",
+   "en": "She proudly held up her diploma.",
+   "ko": "그녀는 자랑스럽게 졸업장을 들어 올렸어요."
+  },
+  {
+   "word": "opening ceremony",
+   "pos": "명사구",
+   "meaning": "개막식, 개회식",
+   "en": "The opening ceremony of the Olympics was amazing.",
+   "ko": "올림픽 개막식은 정말 멋졌어요."
+  },
+  {
+   "word": "gradual",
+   "pos": "형용사",
+   "meaning": "점진적인",
+   "en": "There was a gradual change in the weather.",
+   "ko": "날씨가 서서히 변했어요."
+  },
+  {
+   "word": "commencement",
+   "pos": "명사",
+   "meaning": "(미국) 졸업식; 시작",
+   "en": "The commencement speech made everyone cry.",
+   "ko": "졸업식 연설은 모두를 울렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 졸업 가운을 입고 학사모를 하늘로 던지는 학생들",
+ "imageCaption": "강당에서 이름이 불리고 졸업장을 받는 뭉클한 순간을 떠올려 보세요.",
+ "movieLineEn": "I'll see you at the graduation ceremony. Don't be late this time.",
+ "movieLineKo": "졸업식에서 보자. 이번엔 늦지 마.",
+ "storyTitle": "학사모의 행방",
+ "story": "graduation ceremony(졸업식)가 끝나자 우리는 학사모를 하늘로 던졌어요. diploma(졸업장)를 들고 사진도 찍었죠. 그런데 내 학사모가 돌아오지 않았어요! 고개를 들어 보니 강당 천장 조명에 걸려 있었어요. 나는 학교를 graduate from(~을 졸업하다)했지만, 내 학사모는 아직 졸업을 못 했대요. 지금도 거기 걸려 있답니다."
+}

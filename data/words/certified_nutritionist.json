@@ -1,0 +1,68 @@
+{
+ "word": "certified nutritionist",
+ "pos": "명사구",
+ "phonetic": "[ˈsɜːrtɪfaɪd nuˈtrɪʃənɪst]",
+ "meaning": "공인 영양사, 자격증을 가진 영양 전문가",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "certified",
+   "meaning": "공인된, 자격증이 있는 (certified)",
+   "note": "라틴어 certus(확실한)에서 온 말로, '확실하다고 인정받은'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "nutritionist",
+   "meaning": "영양사 (nutritionist)",
+   "note": "nutrition(영양)+-ist(~하는 사람)로, 영양을 다루는 전문가예요."
+  }
+ ],
+ "summary": "<strong>certified</strong> (공인된) + <strong>nutritionist</strong> (영양사) = '자격을 인정받은 영양 전문가'에서 <strong>'공인 영양사'</strong>",
+ "historyTitle": "'확실하게 하다'와 '먹이다'의 만남",
+ "historyBody": "certify는 라틴어 'certus(확실한)'와 'facere(만들다)'가 합쳐진 후기 라틴어 certificare에서 왔어요. 즉 '확실하게 만들어 증명하다'라는 뜻이죠. nutrition은 라틴어 'nutrire(먹이다, 기르다)'에서 왔고, nurse(간호하다), nourish(영양분을 주다)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "certificate",
+   "pos": "명사",
+   "meaning": "증명서, 자격증",
+   "en": "She received a certificate after the course.",
+   "ko": "그녀는 그 과정을 마치고 수료증을 받았어."
+  },
+  {
+   "word": "nutrition",
+   "pos": "명사",
+   "meaning": "영양",
+   "en": "Good nutrition helps you study better.",
+   "ko": "좋은 영양은 공부에 도움이 돼요."
+  },
+  {
+   "word": "nutrient",
+   "pos": "명사",
+   "meaning": "영양소",
+   "en": "Vegetables are full of important nutrients.",
+   "ko": "채소에는 중요한 영양소가 가득해요."
+  },
+  {
+   "word": "nourish",
+   "pos": "동사",
+   "meaning": "영양분을 주다, 기르다",
+   "en": "Milk nourishes growing children.",
+   "ko": "우유는 자라는 아이들에게 영양분을 줘요."
+  },
+  {
+   "word": "certain",
+   "pos": "형용사",
+   "meaning": "확실한",
+   "en": "I'm certain that we will win.",
+   "ko": "나는 우리가 이길 거라고 확신해."
+  }
+ ],
+ "imageSense": "대표 의미: 흰 가운을 입은 영양사가 식단표를 설명하는 장면",
+ "imageCaption": "벽에 자격증이 걸린 상담실에서 영양사가 채소 그림 식단표를 가리키는 모습을 떠올려 보세요.",
+ "movieLineEn": "Ask a certified nutritionist before starting that diet.",
+ "movieLineKo": "그 다이어트를 시작하기 전에 공인 영양사에게 물어봐.",
+ "storyTitle": "영양사의 진짜 처방",
+ "story": "민호는 라면만 먹다가 certified nutritionist(공인 영양사)를 찾아갔어요. 벽엔 certificate(자격증)가 반짝였죠. 영양사는 \"nutrition(영양)이 엉망이네요. nutrient(영양소)가 필요해요!\"라고 했어요. 민호가 \"그럼 뭘 먹죠?\" 묻자 영양사가 처방했어요. \"라면에 채소를 넣으세요.\" 민호는 certain(확실한) 미소를 지었답니다."
+}

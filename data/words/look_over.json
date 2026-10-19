@@ -1,0 +1,68 @@
+{
+ "word": "look over",
+ "pos": "구동사",
+ "phonetic": "[lʊk ˈoʊvər]",
+ "meaning": "~을 훑어보다, 검토하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "look",
+   "meaning": "보다 (look)",
+   "note": "'보는' 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "over",
+   "meaning": "위로 넘어, 전체에 걸쳐 (over)",
+   "note": "처음부터 끝까지 '위를 쭉 훑는다'는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>look</strong> (보다) + <strong>over</strong> (전체에 걸쳐 위로) = '위에서 전체를 쭉 보다'에서 <strong>'훑어보다, 검토하다'</strong>",
+ "historyTitle": "위에서 쭉 훑는 시선",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 온 아주 오래된 영어 단어예요. 혼자서는 '보다'지만 뒤에 붙는 연결어에 따라 after(뒤를 봐주다), up(위로 찾아보다), over(훑어보다), forward(앞을 내다보다)처럼 뜻이 다양하게 바뀌어요. 그래서 수능 구동사의 단골이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "go over",
+   "pos": "구동사",
+   "meaning": "검토하다, 복습하다",
+   "en": "Let's go over the answers together.",
+   "ko": "답을 같이 검토해 보자."
+  },
+  {
+   "word": "look through",
+   "pos": "구동사",
+   "meaning": "~을 훑어보다, 뒤지다",
+   "en": "I looked through my notes before the test.",
+   "ko": "시험 전에 노트를 훑어봤어."
+  },
+  {
+   "word": "review",
+   "pos": "동사/명사",
+   "meaning": "검토하다, 복습하다 / 검토",
+   "en": "Review your mistakes after each test.",
+   "ko": "시험마다 틀린 문제를 복습해."
+  },
+  {
+   "word": "overlook",
+   "pos": "동사",
+   "meaning": "간과하다, 내려다보다",
+   "en": "Don't overlook small details.",
+   "ko": "작은 세부 사항을 간과하지 마."
+  },
+  {
+   "word": "examine",
+   "pos": "동사",
+   "meaning": "조사하다, 검사하다",
+   "en": "The doctor examined my throat.",
+   "ko": "의사 선생님이 내 목을 검사했어."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 제출된 보고서를 쭉 넘기며 훑어보는 장면",
+ "imageCaption": "서류 위로 시선이 위에서 아래로 쭉 미끄러지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Look over the contract carefully before you sign anything.",
+ "movieLineKo": "뭐든 서명하기 전에 계약서를 꼼꼼히 훑어봐.",
+ "storyTitle": "답안지 검토",
+ "story": "시험이 끝나기 전 선생님이 \"답안지를 look over(훑어보다) 하세요!\" 하셨어요. 나는 답을 go over(검토하다) 하며 꼼꼼히 review(검토하다) 했죠. 실수는 하나도 overlook(간과하다) 하지 않았다고 자신했어요. 그런데 답안지를 내고 나서 알았어요. 이름 칸을 비워 뒀다는 걸요!"
+}

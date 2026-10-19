@@ -1,0 +1,68 @@
+{
+ "word": "heart rate",
+ "pos": "명사구",
+ "phonetic": "[ˈhɑːrt reɪt]",
+ "meaning": "심박수, 맥박",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "heart",
+   "meaning": "심장 (heart)",
+   "note": "무엇의 속도인지, 즉 '심장'을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "rate",
+   "meaning": "비율, 속도 (rate)",
+   "note": "일정 시간 동안 몇 번인지 재는 '속도·비율'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>heart</strong> (심장) + <strong>rate</strong> (속도, 비율) = '심장이 뛰는 속도'에서 <strong>'심박수'</strong>",
+ "historyTitle": "'계산된 몫'을 뜻한 라틴어 rata",
+ "historyBody": "rate는 중세 라틴어 rata (pars)(계산된 몫)에서 왔고, 라틴어 reri(계산하다)와 관련 있어요. ratio(비율)도 같은 뿌리예요. heart는 고대 영어 heorte에서 왔으며, 1분에 심장이 몇 번 뛰는지를 heart rate라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ratio",
+   "pos": "명사",
+   "meaning": "비율",
+   "en": "The ratio of boys to girls in our class is 1 to 1.",
+   "ko": "우리 반 남녀 비율은 1대 1이야."
+  },
+  {
+   "word": "birth rate",
+   "pos": "명사구",
+   "meaning": "출생률",
+   "en": "Korea's birth rate is one of the lowest in the world.",
+   "ko": "한국의 출생률은 세계에서 가장 낮은 편이야."
+  },
+  {
+   "word": "rating",
+   "pos": "명사",
+   "meaning": "평가, 등급",
+   "en": "The movie got a high rating from critics.",
+   "ko": "그 영화는 평론가들에게 높은 평가를 받았어."
+  },
+  {
+   "word": "heartbeat",
+   "pos": "명사",
+   "meaning": "심장 박동",
+   "en": "I could hear my own heartbeat in the quiet room.",
+   "ko": "조용한 방에서 내 심장 박동이 들렸어."
+  },
+  {
+   "word": "pulse",
+   "pos": "명사",
+   "meaning": "맥박",
+   "en": "The doctor checked my pulse.",
+   "ko": "의사 선생님이 내 맥박을 쟀어."
+  }
+ ],
+ "imageSense": "대표 의미: 스마트워치에 심박수 숫자가 표시되는 장면",
+ "imageCaption": "달리기를 할수록 손목 시계 속 하트 숫자가 쿵쿵 올라가는 모습을 떠올려 보세요.",
+ "movieLineEn": "My heart rate just went through the roof when she smiled at me.",
+ "movieLineKo": "그녀가 나한테 웃어 줬을 때 심박수가 하늘을 찔렀어.",
+ "storyTitle": "스마트워치의 고백",
+ "story": "하준이의 스마트워치가 heart rate(심박수) 150을 경고했어요. 운동도 안 했는데 heartbeat(심장 박동)가 빨라진 거죠. pulse(맥박)를 재 보니 옆자리 지민이가 인사할 때마다 올라갔어요. 다음 날 시계 앱의 rating(평가)란에 이렇게 떴답니다. '사용자: 사랑에 빠짐. 운동량: 0.'"
+}

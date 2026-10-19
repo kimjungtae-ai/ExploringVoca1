@@ -1,0 +1,74 @@
+{
+ "word": "be out of",
+ "pos": "숙어",
+ "phonetic": "[bi aʊt əv]",
+ "meaning": "~이 다 떨어지다, ~이 없다, ~의 밖에 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "be",
+   "meaning": "~이다, 있다 (be)",
+   "note": "상태를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 다 써서 없어진 (out)",
+   "note": "안에 있던 것이 밖으로 나가 텅 빈 그림이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~에서 (of)",
+   "note": "무엇이 빠져나갔는지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be out</strong> (밖으로 나가 없다) + <strong>of</strong> (~에서) = '~에서 밖으로 빠져 있다'에서 <strong>'~이 다 떨어지다, ~이 없다'</strong>예요.",
+ "historyTitle": "out의 '바닥남' 이미지",
+ "historyBody": "out은 고대 영어 ūt(밖으로)에서 왔어요. 그릇 안의 물건이 모두 밖으로 나가면 텅 비게 되죠. 그래서 'be out of milk'는 '우유가 다 떨어졌다'예요. 'out of order(고장 난)', 'out of stock(품절인)'도 같은 그림이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "run out of",
+   "pos": "구동사",
+   "meaning": "~을 다 써 버리다",
+   "en": "Our car ran out of gas on the highway.",
+   "ko": "우리 차는 고속도로에서 기름이 떨어졌어요."
+  },
+  {
+   "word": "out of stock",
+   "pos": "전치사구",
+   "meaning": "품절인",
+   "en": "Sorry, that size is out of stock.",
+   "ko": "죄송해요, 그 사이즈는 품절이에요."
+  },
+  {
+   "word": "out of order",
+   "pos": "전치사구",
+   "meaning": "고장 난",
+   "en": "The elevator is out of order.",
+   "ko": "엘리베이터가 고장 났어요."
+  },
+  {
+   "word": "out of breath",
+   "pos": "전치사구",
+   "meaning": "숨이 찬",
+   "en": "I was out of breath after running upstairs.",
+   "ko": "계단을 뛰어 올라갔더니 숨이 찼어요."
+  },
+  {
+   "word": "out of date",
+   "pos": "전치사구",
+   "meaning": "구식의, 유효 기간이 지난",
+   "en": "This map is out of date.",
+   "ko": "이 지도는 오래된 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 텅 빈 냉장고 문을 열고 당황하는 장면",
+ "imageCaption": "냉장고를 열었는데 속이 텅 빈 모습을 떠올리세요.",
+ "movieLineEn": "We're out of time. It's now or never!",
+ "movieLineKo": "시간이 없어. 지금 아니면 끝이야!",
+ "storyTitle": "텅 빈 집",
+ "story": "라면을 끓이려는데 물이 be out of(~이 다 떨어지다)였어요. 편의점에 가니 생수는 out of stock(품절인)이었고 엘리베이터는 out of order(고장 난)였죠. 계단을 뛰어 out of breath(숨이 찬) 상태로 돌아와 보니, 엄마가 이미 짜장면을 시켜 놓으셨어요!"
+}

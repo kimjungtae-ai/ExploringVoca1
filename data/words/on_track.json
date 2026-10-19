@@ -1,0 +1,68 @@
+{
+ "word": "on track",
+ "pos": "숙어 / 전치사구",
+ "phonetic": "[ɑːn træk]",
+ "meaning": "제대로 진행되고 있는, 순조로운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~ 위에 (on)",
+   "note": "선로 '위에' 올라타 있다는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "track",
+   "meaning": "선로, 길, 경주로 (track)",
+   "note": "기차 선로나 정해진 길을 뜻해요."
+  }
+ ],
+ "summary": "<strong>on</strong> (~ 위에) + <strong>track</strong> (선로) = '기차가 선로 위를 제대로 달리고 있는'에서 <strong>'순조롭게 진행 중인'</strong>",
+ "historyTitle": "선로 위의 기차",
+ "historyBody": "track은 고대 프랑스어 trac(발자국, 흔적)에서 온 말로, 이후 길, 경주로, 기차 선로를 뜻하게 되었어요. 기차가 선로 위에 있으면 목적지로 잘 가고, 벗어나면(off track) 사고가 나죠. 그래서 계획이 순조로울 때 on track이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "off track",
+   "pos": "숙어",
+   "meaning": "궤도를 벗어난, 엉뚱한 방향의",
+   "en": "The discussion went off track quickly.",
+   "ko": "토론이 금세 엉뚱한 방향으로 흘렀어요."
+  },
+  {
+   "word": "keep track of",
+   "pos": "숙어",
+   "meaning": "~을 기록하다, 놓치지 않고 파악하다",
+   "en": "I use an app to keep track of my spending.",
+   "ko": "나는 앱으로 지출을 기록해요."
+  },
+  {
+   "word": "lose track of",
+   "pos": "숙어",
+   "meaning": "~을 놓치다, 잊다",
+   "en": "I lost track of time while reading.",
+   "ko": "책을 읽다가 시간 가는 줄 몰랐어요."
+  },
+  {
+   "word": "on schedule",
+   "pos": "숙어",
+   "meaning": "예정대로",
+   "en": "The bridge was finished on schedule.",
+   "ko": "다리는 예정대로 완공됐어요."
+  },
+  {
+   "word": "back on track",
+   "pos": "숙어",
+   "meaning": "다시 정상 궤도에",
+   "en": "After the break, we got back on track.",
+   "ko": "휴식 후에 우리는 다시 제 궤도로 돌아왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 기차가 선로 위를 똑바로 달리는 장면",
+ "imageCaption": "곧게 뻗은 선로 위를 흔들림 없이 달리는 기차를 떠올려 보세요.",
+ "movieLineEn": "Stay focused. We're right on track.",
+ "movieLineKo": "집중해. 우린 지금 딱 계획대로 가고 있어.",
+ "storyTitle": "수능 계획표의 비밀",
+ "story": "나는 수능 공부 계획이 on track(순조로운)이라고 자신했어요. 앱으로 공부 시간을 keep track of(기록하다)했거든요. 그런데 게임을 하다 lose track of(잊다) 시간을 해 버렸어요. 다시 back on track(정상 궤도에)하려고 앱을 보니, 기록된 건 게임 시간뿐이었어요."
+}

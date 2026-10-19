@@ -1,0 +1,68 @@
+{
+ "word": "vice principal",
+ "pos": "명사구",
+ "phonetic": "[vaɪs ˈprɪnsəpl]",
+ "meaning": "교감 (선생님)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "vice",
+   "meaning": "부(副)-, 대리의 (vice-)",
+   "note": "'~를 대신하는, 다음 자리의'라는 뜻을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "principal",
+   "meaning": "교장, 으뜸 (principal)",
+   "note": "학교의 가장 높은 책임자예요."
+  }
+ ],
+ "summary": "<strong>vice</strong> (대신하는) + <strong>principal</strong> (교장) = '교장을 대신하는 사람'에서 <strong>'교감'</strong>",
+ "historyTitle": "'첫째'를 대신하는 사람",
+ "historyBody": "vice-는 라틴어 vice(~의 자리에, 대신에)에서 왔어요. vice president(부통령, 부회장)도 같은 구조예요. principal은 라틴어 principalis(첫째의)에서 왔고, 그 뿌리 princeps는 '첫째 자리를 잡은 사람'이라는 뜻으로 prince(왕자)와도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "principal",
+   "pos": "명사 / 형용사",
+   "meaning": "교장 / 주요한",
+   "en": "The principal gave a speech at the ceremony.",
+   "ko": "교장 선생님이 식에서 연설하셨어요."
+  },
+  {
+   "word": "vice president",
+   "pos": "명사구",
+   "meaning": "부통령, 부회장",
+   "en": "She was elected vice president of the club.",
+   "ko": "그녀는 동아리 부회장으로 뽑혔어요."
+  },
+  {
+   "word": "principle",
+   "pos": "명사",
+   "meaning": "원칙",
+   "en": "Honesty is my most important principle.",
+   "ko": "정직은 나의 가장 중요한 원칙이에요."
+  },
+  {
+   "word": "prince",
+   "pos": "명사",
+   "meaning": "왕자",
+   "en": "The prince lived in a huge castle.",
+   "ko": "그 왕자는 거대한 성에 살았어요."
+  },
+  {
+   "word": "homeroom teacher",
+   "pos": "명사구",
+   "meaning": "담임 선생님",
+   "en": "My homeroom teacher always smiles.",
+   "ko": "우리 담임 선생님은 항상 웃으세요."
+  }
+ ],
+ "imageSense": "대표 의미: 아침 조회 때 교장 선생님 옆에 서서 학생들을 살피는 교감 선생님 장면",
+ "imageCaption": "교장실 옆 방에서 학교 구석구석을 챙기는 바쁜 선생님을 떠올려 보세요.",
+ "movieLineEn": "If the vice principal catches us here, we're in big trouble.",
+ "movieLineKo": "교감 선생님한테 여기서 걸리면 우리 큰일 나.",
+ "storyTitle": "지각생 탐지기",
+ "story": "우리 학교 vice principal(교감 선생님)은 매일 아침 교문에서 지각생을 잡아요. principal(교장 선생님)보다 무섭다는 소문이 돌았죠. 어느 날 내가 지각하자 교감 선생님이 다가오셨어요. 그런데 선생님도 숨을 헐떡이며 말씀하셨어요. \"homeroom teacher(담임 선생님)한테는 비밀이다. 나도 늦었어!\" 그날부터 그게 우리 둘의 principle(원칙)이 됐어요."
+}

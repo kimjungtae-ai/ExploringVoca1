@@ -1,0 +1,80 @@
+{
+ "word": "add a nice touch to",
+ "pos": "숙어",
+ "phonetic": "[æd ə naɪs tʌtʃ tuː]",
+ "meaning": "~에 멋진 느낌을 더하다, ~을 돋보이게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "add",
+   "meaning": "더하다 (add)",
+   "note": "라틴어 addere(~에 주다, 더하다)에서 왔어요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "nice",
+   "meaning": "멋진, 좋은 (nice)",
+   "note": "더해지는 것이 '좋은' 느낌임을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "touch",
+   "meaning": "손길, 마무리 손질 (touch)",
+   "note": "그림에 붓 한 번 터치하듯 작은 마무리를 뜻해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에 (to)",
+   "note": "무엇에 손길을 더하는지 가리켜요."
+  }
+ ],
+ "summary": "<strong>add</strong> (더하다) + <strong>a nice touch</strong> (멋진 손길) + <strong>to</strong> (~에) = <strong>'~에 멋진 마무리를 더하다'</strong>가 되었어요.",
+ "historyTitle": "화가의 '마지막 붓 터치'",
+ "historyBody": "touch에는 '화가가 붓으로 살짝 칠하는 한 번의 손질'이라는 뜻이 있어요. 그래서 'finishing touch'는 작품을 완성하는 마지막 손질을 말해요. 'a nice touch'도 작지만 전체를 돋보이게 하는 세심한 손길을 뜻한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "finishing touch",
+   "pos": "명사구",
+   "meaning": "마지막 손질",
+   "en": "She put the finishing touches on her painting.",
+   "ko": "그녀는 그림에 마지막 손질을 했어요."
+  },
+  {
+   "word": "add to",
+   "pos": "구동사",
+   "meaning": "~을 더하다, 늘리다",
+   "en": "The music added to the fun of the party.",
+   "ko": "음악이 파티의 재미를 더했어요."
+  },
+  {
+   "word": "addition",
+   "pos": "명사",
+   "meaning": "추가, 덧셈",
+   "en": "The new garden is a great addition to the school.",
+   "ko": "새 정원은 학교에 멋진 추가 시설이에요."
+  },
+  {
+   "word": "in touch with",
+   "pos": "숙어",
+   "meaning": "~와 연락하는",
+   "en": "I still keep in touch with my old friends.",
+   "ko": "나는 아직도 옛 친구들과 연락하고 지내요."
+  },
+  {
+   "word": "personal touch",
+   "pos": "명사구",
+   "meaning": "개인적인 정성",
+   "en": "A handwritten card gives a personal touch to a gift.",
+   "ko": "손 편지 카드는 선물에 개인적인 정성을 더해요."
+  }
+ ],
+ "imageSense": "대표 의미: 케이크 위에 딸기 하나를 올려 완성하는 장면",
+ "imageCaption": "평범한 케이크에 딸기 하나만 올려도 확 예뻐지죠? 그게 바로 'a nice touch'예요.",
+ "movieLineEn": "The candles add a nice touch to the dinner, don't you think?",
+ "movieLineKo": "촛불이 저녁 식사에 멋진 분위기를 더해 주는 것 같지 않아?",
+ "storyTitle": "마지막 한 방울",
+ "story": "엄마 생일 케이크에 리본을 달아 add a nice touch to(~에 멋진 느낌을 더하다) 했어요. 손 편지로 personal touch(개인적인 정성)도 넣었죠. 마지막으로 finishing touch(마지막 손질)로 초를 꽂았는데, 숫자 초를 거꾸로 꽂아 엄마가 '94살'이 되셨어요!"
+}

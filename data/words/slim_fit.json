@@ -1,0 +1,68 @@
+{
+ "word": "slim fit",
+ "pos": "명사구 / 형용사구",
+ "phonetic": "[slɪm fɪt]",
+ "meaning": "슬림핏, 몸에 꼭 맞게 날씬한 (옷 모양)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "slim",
+   "meaning": "날씬한 (slim)",
+   "note": "원래 네덜란드어에서 '비스듬한, 나쁜'이란 뜻이었다가 '가는, 날씬한'이 되었어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fit",
+   "meaning": "맞음, 맞다 (fit)",
+   "note": "옷이 몸에 '꼭 맞는' 상태를 말해요."
+  }
+ ],
+ "summary": "<strong>slim</strong> (날씬한) + <strong>fit</strong> (몸에 맞음) = '날씬하게 몸에 딱 맞는 모양'이라서 <strong>'슬림핏'</strong>이에요.",
+ "historyTitle": "뜻이 바뀐 slim",
+ "historyBody": "slim은 17세기에 네덜란드어나 저지 독일어 'slim(비스듬한, 나쁜, 교활한)'에서 영어로 들어왔어요. 영어에서는 '가는, 날씬한'이라는 뜻으로 자리 잡았죠. fit은 중세 영어에서 '알맞다'라는 뜻으로 쓰였지만 정확한 기원은 확실하지 않아요. slim fit은 옷 가게에서 몸에 붙게 재단한 스타일을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "loose fit",
+   "pos": "명사구",
+   "meaning": "헐렁한 핏",
+   "en": "I prefer a loose fit for comfort.",
+   "ko": "나는 편안함 때문에 헐렁한 핏을 좋아해요."
+  },
+  {
+   "word": "fit",
+   "pos": "동사",
+   "meaning": "(크기가) 맞다",
+   "en": "These shoes don't fit me anymore.",
+   "ko": "이 신발은 이제 내게 맞지 않아요."
+  },
+  {
+   "word": "try on",
+   "pos": "구동사",
+   "meaning": "입어 보다, 신어 보다",
+   "en": "Can I try on this jacket?",
+   "ko": "이 재킷 입어 봐도 되나요?"
+  },
+  {
+   "word": "slim chance",
+   "pos": "명사구",
+   "meaning": "희박한 가능성",
+   "en": "There's only a slim chance of winning.",
+   "ko": "이길 가능성은 희박해요."
+  },
+  {
+   "word": "tight",
+   "pos": "형용사",
+   "meaning": "꽉 끼는",
+   "en": "My jeans feel tight after the holidays.",
+   "ko": "연휴가 끝나니 청바지가 꽉 껴요."
+  }
+ ],
+ "imageSense": "대표 의미: 몸에 딱 붙는 정장을 입고 거울 앞에 선 장면",
+ "imageCaption": "몸 선을 따라 딱 맞게 떨어지는 셔츠를 입고 거울 앞에서 뿌듯해하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Slim fit? I'll need a size up after dinner.",
+ "movieLineKo": "슬림핏이라고? 저녁 먹고 나면 한 치수 큰 게 필요할걸.",
+ "storyTitle": "슬림핏의 배신",
+ "story": "삼촌이 slim fit(슬림핏) 셔츠를 사려고 가게에 갔어요. 거울 앞에서 try on(입어 보다)했더니 단추가 tight(꽉 끼는)해서 숨을 참았죠. '딱 fit(맞다)하네!' 자신만만하게 계산하고 나서는 순간, 단추 하나가 '팅' 하고 날아가 점원 이마에 맞았어요."
+}

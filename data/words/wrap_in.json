@@ -1,0 +1,68 @@
+{
+ "word": "wrap in",
+ "pos": "구동사",
+ "phonetic": "[ræp ɪn]",
+ "meaning": "~으로 싸다, ~에 감싸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "wrap",
+   "meaning": "싸다, 감싸다 (wrap)",
+   "note": "종이나 천으로 둘러싸는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에, ~으로 (in)",
+   "note": "무엇으로 감싸는지, 그 '안에' 넣는 이미지예요."
+  }
+ ],
+ "summary": "<strong>wrap</strong> (감싸다) + <strong>in</strong> (~ 안에) = '~ 안에 넣어 둘러싸다'에서 <strong>'~으로 싸다'</strong>",
+ "historyTitle": "기원이 불분명한 wrap",
+ "historyBody": "wrap은 14세기 중세 영어 wrappen에서 처음 보이는데, 정확한 기원은 알려져 있지 않아요. 북유럽어나 다른 게르만어와 관련이 있을 수 있다는 추측만 있으니 '둘둘 감싸다'라는 이미지로 기억하세요. wrap A in B는 'A를 B로 싸다'라는 구조로 많이 쓰여요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "wrap up",
+   "pos": "구동사",
+   "meaning": "포장하다, 마무리하다",
+   "en": "Let's wrap up the meeting with a summary.",
+   "ko": "요약으로 회의를 마무리합시다."
+  },
+  {
+   "word": "wrapping paper",
+   "pos": "명사구",
+   "meaning": "포장지",
+   "en": "She chose red wrapping paper for the gift.",
+   "ko": "그녀는 선물용으로 빨간 포장지를 골랐어요."
+  },
+  {
+   "word": "unwrap",
+   "pos": "동사",
+   "meaning": "(포장을) 풀다",
+   "en": "The kids couldn't wait to unwrap their presents.",
+   "ko": "아이들은 선물을 풀어 보고 싶어 안달이었어요."
+  },
+  {
+   "word": "cover with",
+   "pos": "구동사",
+   "meaning": "~으로 덮다",
+   "en": "Cover the bowl with a plate.",
+   "ko": "그릇을 접시로 덮으세요."
+  },
+  {
+   "word": "be wrapped up in",
+   "pos": "숙어",
+   "meaning": "~에 몰두하다",
+   "en": "He was so wrapped up in his book that he missed the bus.",
+   "ko": "그는 책에 너무 몰두해서 버스를 놓쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선물을 예쁜 포장지로 둘둘 감싸는 장면",
+ "imageCaption": "갓 태어난 아기를 부드러운 담요로 포근하게 감싸는 모습을 떠올려 보세요.",
+ "movieLineEn": "Wrap the baby in this blanket. It's freezing outside.",
+ "movieLineKo": "이 담요로 아기를 감싸. 밖이 엄청 추워.",
+ "storyTitle": "선물 포장의 달인",
+ "story": "동생은 엄마 생신 선물을 wrapping paper(포장지)로 wrap in(~으로 싸다)했어요. 너무 정성스러워서 열 겹이나 감쌌죠. 엄마는 30분 동안 unwrap(풀다)하느라 땀을 뻘뻘 흘렸어요. 마침내 나온 선물은 '안마 쿠폰'이었어요. 엄마가 웃으며 말했어요. \"지금 바로 써야겠다, 팔이 아파서.\" 이렇게 생일 파티를 wrap up(마무리하다)했답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "admission ticket",
+ "pos": "명사구",
+ "phonetic": "[ədˈmɪʃn ˈtɪkɪt]",
+ "meaning": "입장권",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "admission",
+   "meaning": "입장, 입학 (entry)",
+   "note": "admit(들여보내다)의 명사형이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "ticket",
+   "meaning": "표, 티켓 (ticket)",
+   "note": "들어갈 자격을 보여 주는 작은 종이예요."
+  }
+ ],
+ "summary": "<strong>admission</strong> (입장) + <strong>ticket</strong> (표) = <strong>'들어가게 해 주는 표, 입장권'</strong>이에요.",
+ "historyTitle": "라틴어 admittere, '안으로 보내다'",
+ "historyBody": "admission은 라틴어 admittere에서 왔는데, ad-(~으로)와 mittere(보내다)가 합쳐진 말이에요. 그래서 '안으로 들여보냄', 즉 입장이나 입학을 뜻해요. ticket은 '붙여 둔 쪽지'를 뜻한 옛 프랑스어 estiquet에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "admit",
+   "pos": "동사",
+   "meaning": "들어가게 하다, 인정하다",
+   "en": "This ticket admits one adult.",
+   "ko": "이 표로 성인 한 명이 입장할 수 있어요."
+  },
+  {
+   "word": "admission fee",
+   "pos": "명사구",
+   "meaning": "입장료",
+   "en": "The admission fee is 5,000 won per person.",
+   "ko": "입장료는 1인당 5,000원이에요."
+  },
+  {
+   "word": "free admission",
+   "pos": "명사구",
+   "meaning": "무료 입장",
+   "en": "Seniors get free admission on weekdays.",
+   "ko": "노인은 평일에 무료로 입장할 수 있어요."
+  },
+  {
+   "word": "mission",
+   "pos": "명사",
+   "meaning": "임무",
+   "en": "Their mission was to protect the forest.",
+   "ko": "그들의 임무는 숲을 지키는 것이었어요."
+  },
+  {
+   "word": "submit",
+   "pos": "동사",
+   "meaning": "제출하다",
+   "en": "Please submit your form by Friday.",
+   "ko": "금요일까지 양식을 제출해 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 놀이공원 입구에서 직원에게 입장권을 보여 주는 장면",
+ "imageCaption": "입구에서 표를 내밀면 문이 '안으로' 열리는 모습을 떠올리세요.",
+ "movieLineEn": "No admission ticket, no entry. Rules are rules.",
+ "movieLineKo": "입장권 없으면 못 들어가요. 규칙은 규칙이에요.",
+ "storyTitle": "사라진 입장권",
+ "story": "콘서트장 앞에서 admission ticket(입장권)이 없어졌어요! 직원은 표 없이는 admit(들여보내다)할 수 없다고 했죠. 결국 admission fee(입장료)를 다시 내려는 순간, 표가 내 입에 물려 있던 걸 친구가 발견했답니다. 너무 긴장했었나 봐요!"
+}

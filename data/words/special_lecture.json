@@ -1,0 +1,68 @@
+{
+ "word": "special lecture",
+ "pos": "명사구",
+ "phonetic": "[ˈspeʃəl ˈlektʃər]",
+ "meaning": "특강, 특별 강연",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "special",
+   "meaning": "특별한 (special)",
+   "note": "평소와 다른 '특별한'이라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "lecture",
+   "meaning": "강의, 강연 (lecture)",
+   "note": "라틴어 legere(읽다)에서 온 말로 '읽어 주기'예요."
+  }
+ ],
+ "summary": "<strong>special</strong> (특별한) + <strong>lecture</strong> (강의) = '평소와 다른 특별한 강의'라서 <strong>'특강'</strong>이에요.",
+ "historyTitle": "읽어 주던 중세의 강의",
+ "historyBody": "lecture는 중세 라틴어 'lectura(읽기)'에서 왔고, 뿌리는 'legere(읽다, 모으다)'예요. 책이 귀했던 중세 대학에서는 교수가 책을 소리 내어 '읽어 주는' 것이 수업이었기 때문에 lecture가 '강의'가 되었어요. special은 라틴어 'specialis(특정한 종류의)'에서 왔고, 그 뿌리 'species'는 '보이는 모습, 종류'라는 뜻이에요. 그래서 special은 '여러 종류 가운데 특별히 구별되는'이라는 뜻이 되었어요. species(종), specific(구체적인)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lecturer",
+   "pos": "명사",
+   "meaning": "강사",
+   "en": "The lecturer used funny examples to explain.",
+   "ko": "그 강사는 재미있는 예를 들어 설명했어요."
+  },
+  {
+   "word": "lecture",
+   "pos": "동사",
+   "meaning": "잔소리하다, 강의하다",
+   "en": "My dad lectured me about saving money.",
+   "ko": "아빠는 저축에 대해 내게 잔소리하셨어요."
+  },
+  {
+   "word": "seminar",
+   "pos": "명사",
+   "meaning": "세미나, 토론 수업",
+   "en": "She attended a seminar on climate change.",
+   "ko": "그녀는 기후 변화 세미나에 참석했어요."
+  },
+  {
+   "word": "guest speaker",
+   "pos": "명사구",
+   "meaning": "초청 연사",
+   "en": "The guest speaker talked about her career.",
+   "ko": "초청 연사가 자신의 진로에 대해 이야기했어요."
+  },
+  {
+   "word": "legend",
+   "pos": "명사",
+   "meaning": "전설",
+   "en": "The legend has been passed down for centuries.",
+   "ko": "그 전설은 수 세기 동안 전해져 왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강당에서 초청 강사가 무대에 서서 강연하는 장면",
+ "imageCaption": "학생들이 강당에 모여 앉고 유명한 초청 강사가 마이크를 잡는 모습을 떠올려 보세요.",
+ "movieLineEn": "Tonight's special lecture will change how you see the stars.",
+ "movieLineKo": "오늘 밤 특강은 별을 보는 여러분의 시각을 바꿔 줄 겁니다.",
+ "storyTitle": "특강의 정체",
+ "story": "학교에 유명 유튜버의 special lecture(특강)가 열린대요! 강당은 꽉 찼고 guest speaker(초청 연사)가 무대에 올랐어요. 그런데 마이크를 잡은 사람은 우리 교감 선생님! 알고 보니 교감쌤이 구독자 100만의 비밀 lecturer(강사)였어요. 주제는 '공부 잔소리'를 lecture(잔소리하다)하는 법이었답니다."
+}

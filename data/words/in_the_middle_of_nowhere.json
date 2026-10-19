@@ -1,0 +1,80 @@
+{
+ "word": "in the middle of nowhere",
+ "pos": "숙어",
+ "phonetic": "[ɪn ðə ˈmɪdl əv ˈnoʊwer]",
+ "meaning": "외딴곳에, 허허벌판 한가운데",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "'어떤 장소 안에'라는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "middle",
+   "meaning": "한가운데 (middle)",
+   "note": "'한가운데'라는 위치를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "무엇의 한가운데인지 연결해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "nowhere",
+   "meaning": "아무 데도 아닌 곳 (no place)",
+   "note": "이름조차 없는 '아무 곳도 아닌 곳'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>in the middle</strong> (한가운데) + <strong>of nowhere</strong> (아무 데도 아닌 곳의) = '아무것도 없는 곳 한복판에'에서 <strong>'외딴곳에'</strong>",
+ "historyTitle": "19세기 후반에 생긴 과장 표현",
+ "historyBody": "in the middle of nowhere는 19세기 후반부터 쓰인 표현으로, '지도에 이름조차 없는 곳'이라는 과장된 이미지를 담고 있어요. nowhere는 고대 영어 nāhwǣr(no+where)에서 왔어요. 주변에 마을도 가게도 없는 외딴 장소를 말할 때 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "remote",
+   "pos": "형용사",
+   "meaning": "외딴, 먼",
+   "en": "They live in a remote village in the mountains.",
+   "ko": "그들은 산속 외딴 마을에 살아."
+  },
+  {
+   "word": "in the middle of",
+   "pos": "전치사구",
+   "meaning": "~의 한가운데에, ~하는 도중에",
+   "en": "My phone rang in the middle of class.",
+   "ko": "수업 도중에 내 휴대폰이 울렸어."
+  },
+  {
+   "word": "nowhere",
+   "pos": "부사",
+   "meaning": "아무 데도 (~ 않다)",
+   "en": "There was nowhere to sit.",
+   "ko": "앉을 데가 아무 데도 없었어."
+  },
+  {
+   "word": "isolated",
+   "pos": "형용사",
+   "meaning": "고립된",
+   "en": "The island is isolated from the mainland.",
+   "ko": "그 섬은 본토와 고립되어 있어."
+  },
+  {
+   "word": "out of nowhere",
+   "pos": "숙어",
+   "meaning": "갑자기, 난데없이",
+   "en": "A dog appeared out of nowhere.",
+   "ko": "개 한 마리가 난데없이 나타났어."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없는 사막 한가운데 차가 멈춘 장면",
+ "imageCaption": "사방을 둘러봐도 표지판 하나 없는 들판 한가운데 서 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Great. Our car broke down in the middle of nowhere.",
+ "movieLineKo": "잘됐네. 차가 허허벌판 한가운데서 고장 났어.",
+ "storyTitle": "사막의 배달",
+ "story": "삼촌 차가 사막 in the middle of nowhere(허허벌판 한가운데)에서 멈췄어요. 너무 remote(외딴) 해서 전화도 안 터졌죠. 배가 고파 isolated(고립된) 기분으로 앉아 있는데 out of nowhere(난데없이) 오토바이가 나타났어요. \"짜장면 시키신 분?\" 알고 보니 삼촌이 아까 몰래 주문했대요!"
+}

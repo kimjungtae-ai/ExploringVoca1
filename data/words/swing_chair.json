@@ -1,0 +1,68 @@
+{
+ "word": "swing chair",
+ "pos": "명사구",
+ "phonetic": "[swɪŋ tʃer]",
+ "meaning": "흔들의자, 그네 의자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "swing",
+   "meaning": "흔들리다, 그네 (swing)",
+   "note": "앞뒤로 흔들리는 움직임을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "chair",
+   "meaning": "의자 (chair)",
+   "note": "앉는 자리를 뜻해요."
+  }
+ ],
+ "summary": "<strong>swing</strong> (흔들리다) + <strong>chair</strong> (의자) = '매달려 흔들리는 의자'에서 <strong>'그네 의자'</strong>",
+ "historyTitle": "그리스어 '앉는 자리'에서 온 chair",
+ "historyBody": "swing은 고대 영어 swingan(휘두르다, 흔들다)에서 왔어요. chair는 그리스어 kathedra(앉는 자리)가 라틴어 cathedra, 고대 프랑스어 chaiere를 거쳐 들어온 말이에요. 주교의 자리가 있는 큰 성당을 cathedral이라고 부르는 것도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rocking chair",
+   "pos": "명사구",
+   "meaning": "흔들의자",
+   "en": "Grandpa reads the newspaper in his rocking chair.",
+   "ko": "할아버지는 흔들의자에 앉아 신문을 읽으세요."
+  },
+  {
+   "word": "swing",
+   "pos": "명사 / 동사",
+   "meaning": "그네 / 흔들다",
+   "en": "The kids took turns on the swing.",
+   "ko": "아이들은 번갈아 그네를 탔어요."
+  },
+  {
+   "word": "armchair",
+   "pos": "명사",
+   "meaning": "안락의자",
+   "en": "She fell asleep in a soft armchair.",
+   "ko": "그녀는 푹신한 안락의자에서 잠이 들었어요."
+  },
+  {
+   "word": "cathedral",
+   "pos": "명사",
+   "meaning": "대성당",
+   "en": "The old cathedral attracts many tourists.",
+   "ko": "그 오래된 대성당은 많은 관광객을 끌어모아요."
+  },
+  {
+   "word": "chairperson",
+   "pos": "명사",
+   "meaning": "의장",
+   "en": "The chairperson opened the meeting.",
+   "ko": "의장이 회의를 개회했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 베란다에 매달린 그네 의자에서 흔들흔들 책을 읽는 장면",
+ "imageCaption": "천장에 매달린 둥근 의자가 바람에 살랑살랑 흔들리는 모습을 떠올려 보세요.",
+ "movieLineEn": "This swing chair is the best seat in the whole house.",
+ "movieLineKo": "이 그네 의자가 집 안에서 최고의 자리야.",
+ "storyTitle": "자리 쟁탈전",
+ "story": "새로 산 swing chair(그네 의자)에 고양이가 먼저 앉았어요. 아빠는 rocking chair(흔들의자)로, 엄마는 armchair(안락의자)로 밀려났죠. 가족회의에서 chairperson(의장)인 동생이 \"순서대로 타자!\"라고 했지만, 고양이는 투표권이 없어도 끝까지 swing(흔들다)하며 자리를 지켰답니다."
+}

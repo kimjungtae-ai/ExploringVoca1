@@ -1,0 +1,80 @@
+{
+ "word": "get stuck in traffic",
+ "pos": "숙어",
+ "phonetic": "[ɡet stʌk ɪn ˈtræfɪk]",
+ "meaning": "교통 체증에 갇히다, 차가 막혀 꼼짝 못 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "get",
+   "meaning": "~한 상태가 되다 (get)",
+   "note": "어떤 상태에 '빠지게 되다'는 변화를 나타내요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stuck",
+   "meaning": "꼼짝 못 하는 (stuck)",
+   "note": "stick(찌르다, 달라붙다)의 과거분사로 '붙어서 못 움직이는'이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "어떤 상황 '안에' 갇혀 있다는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "traffic",
+   "meaning": "교통, 차량 (traffic)",
+   "note": "도로 위를 오가는 차들의 흐름이에요."
+  }
+ ],
+ "summary": "<strong>get stuck</strong> (꼼짝 못 하게 되다) + <strong>in traffic</strong> (차량 흐름 속에) = '차들 속에 붙어 움직이지 못하게 되다'라서 <strong>'교통 체증에 갇히다'</strong>예요.",
+ "historyTitle": "찰싹 달라붙은 stuck",
+ "historyBody": "stuck은 고대 영어 stician(찌르다, 박히다)에서 온 stick의 과거분사예요. 무언가에 박혀 빠지지 않는 모습이 '꼼짝 못 하는'이라는 뜻이 됐어요. traffic은 이탈리아어 traffico(거래, 왕래)에서 왔는데, 원래는 '무역'이라는 뜻이었다가 '도로의 교통'으로 의미가 바뀌었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "traffic jam",
+   "pos": "명사구",
+   "meaning": "교통 체증",
+   "en": "There was a huge traffic jam on the bridge.",
+   "ko": "다리 위에 엄청난 교통 체증이 있었어요."
+  },
+  {
+   "word": "rush hour",
+   "pos": "명사구",
+   "meaning": "출퇴근 혼잡 시간",
+   "en": "Avoid the subway during rush hour.",
+   "ko": "출퇴근 시간에는 지하철을 피하세요."
+  },
+  {
+   "word": "be stuck",
+   "pos": "숙어",
+   "meaning": "꼼짝 못 하다, 막히다",
+   "en": "I'm stuck on this math problem.",
+   "ko": "이 수학 문제에서 막혔어요."
+  },
+  {
+   "word": "stick to",
+   "pos": "구동사",
+   "meaning": "~을 고수하다, ~에 붙다",
+   "en": "Stick to your plan and you'll succeed.",
+   "ko": "계획을 지키면 성공할 거예요."
+  },
+  {
+   "word": "heavy traffic",
+   "pos": "명사구",
+   "meaning": "교통량이 많음",
+   "en": "Heavy traffic made us late for school.",
+   "ko": "차가 많이 막혀서 우리는 학교에 늦었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없이 늘어선 자동차들 사이에서 시계를 보는 운전자",
+ "imageCaption": "빨간 브레이크등이 길게 이어진 도로에서 한숨 쉬는 모습을 그려 보세요.",
+ "movieLineEn": "Sorry I'm late. I got stuck in traffic for two hours!",
+ "movieLineKo": "늦어서 미안해. 두 시간 동안 차가 막혀서 꼼짝도 못 했어!",
+ "storyTitle": "차 안의 생일 파티",
+ "story": "아빠가 생일 케이크를 사 오다가 get stuck in traffic(교통 체증에 갇히다)했어요. rush hour(출퇴근 혼잡 시간)의 traffic jam(교통 체증)이 너무 심했죠. 결국 아빠는 차 안에서 케이크를 꺼내 옆 차 사람들과 나눠 먹었대요. 그날 heavy traffic(교통량이 많음) 속 도로 위에서 열 명이 넘는 낯선 사람들이 아빠에게 생일 축하 노래를 불러 줬답니다."
+}

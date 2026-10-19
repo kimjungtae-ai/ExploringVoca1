@@ -1,0 +1,68 @@
+{
+ "word": "made of",
+ "pos": "형용사구 / 숙어",
+ "phonetic": "[meɪd əv]",
+ "meaning": "~로 만들어진 (재료가 그대로 보일 때)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "made",
+   "meaning": "만들어진 (made)",
+   "note": "make의 과거분사로 '만들어진' 상태를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의, ~로 된 (of)",
+   "note": "재료가 그대로 남아 있는 '구성 성분'을 가리켜요."
+  }
+ ],
+ "summary": "<strong>made</strong> (만들어진) + <strong>of</strong> (~로 된) = '~를 재료로 하여 만들어진'에서 <strong>'~로 만들어진'</strong>",
+ "historyTitle": "of와 from의 차이",
+ "historyBody": "make는 고대 영어 macian에서 왔어요. 보통 'made of'는 나무 책상처럼 재료의 모양이 그대로 보일 때, 'made from'은 포도로 만든 와인처럼 재료가 변했을 때 쓴다고 배워요. 다만 원어민도 늘 엄격히 구분하지는 않아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "made from",
+   "pos": "형용사구",
+   "meaning": "~로 만들어진 (재료가 변형될 때)",
+   "en": "This paper is made from recycled bottles.",
+   "ko": "이 종이는 재활용 병으로 만들어졌어요."
+  },
+  {
+   "word": "made into",
+   "pos": "형용사구",
+   "meaning": "~로 만들어진 (결과물)",
+   "en": "The old factory was made into a library.",
+   "ko": "그 오래된 공장은 도서관으로 바뀌었어요."
+  },
+  {
+   "word": "be composed of",
+   "pos": "숙어",
+   "meaning": "~로 구성되다",
+   "en": "Water is composed of hydrogen and oxygen.",
+   "ko": "물은 수소와 산소로 구성되어 있어요."
+  },
+  {
+   "word": "consist of",
+   "pos": "구동사",
+   "meaning": "~로 이루어지다",
+   "en": "The team consists of five students.",
+   "ko": "그 팀은 학생 다섯 명으로 이루어져 있어요."
+  },
+  {
+   "word": "be made up of",
+   "pos": "숙어",
+   "meaning": "~로 구성되다",
+   "en": "The committee is made up of teachers and parents.",
+   "ko": "그 위원회는 교사와 학부모로 구성되어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 나뭇결이 그대로 보이는 나무 의자",
+ "imageCaption": "의자에 나무 무늬가 그대로 보이죠? 재료가 눈에 보이면 made of예요.",
+ "movieLineEn": "This sword is made of pure silver.",
+ "movieLineKo": "이 검은 순은으로 만들어졌다.",
+ "storyTitle": "과자로 만든 집",
+ "story": "동생이 과자로 만든 집을 자랑했어요. \"지붕은 쿠키로 made of(~로 만들어진), 벽은 consist of(~로 이루어지다) 초콜릿이야!\" 창문은 설탕을 녹여 made from(~로 만들어진) 했대요. 다음 날 아침, 집은 사라지고 동생 입가에만 초콜릿이 묻어 있었어요."
+}

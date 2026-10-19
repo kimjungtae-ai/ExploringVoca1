@@ -1,0 +1,68 @@
+{
+ "word": "selfie stick",
+ "pos": "명사구",
+ "phonetic": "[ˈselfi stɪk]",
+ "meaning": "셀카봉",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "selfie",
+   "meaning": "셀카 (selfie)",
+   "note": "self(자기 자신) + -ie(친근한 줄임 접미사)로 '자기 사진'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stick",
+   "meaning": "막대기 (stick)",
+   "note": "가늘고 긴 나뭇가지나 막대예요."
+  }
+ ],
+ "summary": "<strong>selfie</strong> (셀카) + <strong>stick</strong> (막대기) = '셀카를 찍는 막대기'라서 <strong>'셀카봉'</strong>이에요.",
+ "historyTitle": "올해의 단어가 된 selfie",
+ "historyBody": "selfie는 2002년 호주의 한 온라인 게시판에서 처음 쓰인 기록이 있고, 옥스퍼드 사전이 2013년 '올해의 단어'로 선정했어요. -ie는 호주 영어에서 친근하게 줄여 말할 때 자주 붙는 접미사예요. stick은 고대 영어 'sticca(막대, 나뭇가지)'에서 왔어요. 셀카봉은 2014년 무렵 전 세계적으로 크게 유행했어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "selfie",
+   "pos": "명사",
+   "meaning": "셀카",
+   "en": "We took a selfie in front of the tower.",
+   "ko": "우리는 탑 앞에서 셀카를 찍었어요."
+  },
+  {
+   "word": "take a picture",
+   "pos": "숙어",
+   "meaning": "사진을 찍다",
+   "en": "Could you take a picture of us?",
+   "ko": "저희 사진 좀 찍어 주실 수 있나요?"
+  },
+  {
+   "word": "tripod",
+   "pos": "명사",
+   "meaning": "삼각대",
+   "en": "He set up a tripod to film the sunset.",
+   "ko": "그는 일몰을 찍으려고 삼각대를 설치했어요."
+  },
+  {
+   "word": "walking stick",
+   "pos": "명사구",
+   "meaning": "지팡이",
+   "en": "My grandfather uses a walking stick on hikes.",
+   "ko": "할아버지는 등산할 때 지팡이를 쓰세요."
+  },
+  {
+   "word": "self-portrait",
+   "pos": "명사",
+   "meaning": "자화상",
+   "en": "Van Gogh painted many self-portraits.",
+   "ko": "반 고흐는 많은 자화상을 그렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 관광지에서 셀카봉을 길게 뻗어 단체 사진을 찍는 장면",
+ "imageCaption": "유명한 관광지 앞에서 친구들이 옹기종기 모이고 한 명이 셀카봉을 높이 뻗는 모습을 떠올려 보세요.",
+ "movieLineEn": "Hold on, let me grab my selfie stick!",
+ "movieLineKo": "잠깐, 셀카봉 좀 꺼낼게!",
+ "storyTitle": "셀카봉 할머니",
+ "story": "할머니가 처음 selfie stick(셀카봉)을 사셨어요. 가족 여행에서 selfie(셀카)를 찍겠다며 신나게 뻗으셨죠. 그런데 사진을 보니 전부 할머니 콧구멍만 크게! 결국 tripod(삼각대)로 바꿨는데, 이번엔 셀카봉을 walking stick(지팡이)처럼 짚고 다니셨답니다."
+}

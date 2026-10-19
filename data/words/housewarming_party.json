@@ -1,0 +1,74 @@
+{
+ "word": "housewarming party",
+ "pos": "명사구",
+ "phonetic": "[ˈhaʊswɔːrmɪŋ ˈpɑːrti]",
+ "meaning": "집들이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "house",
+   "meaning": "집 (house)",
+   "note": "파티를 여는 대상이 '새 집'임을 알려 줘요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "warming",
+   "meaning": "데우기 (warming)",
+   "note": "새 집을 '따뜻하게 데운다'는 의미를 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "party",
+   "meaning": "파티, 모임 (party)",
+   "note": "중심 의미인 '모임, 잔치'예요."
+  }
+ ],
+ "summary": "<strong>house</strong> (집) + <strong>warming</strong> (데우기) + <strong>party</strong> (모임) = '새 집을 따뜻하게 데우는 모임'에서 <strong>'집들이'</strong>",
+ "historyTitle": "새 집을 '데우는' 전통",
+ "historyBody": "housewarming은 16세기 무렵부터 쓰인 말이에요. 중앙난방이 없던 시절, 손님들이 땔감을 가져와 새 집의 불을 피워 주며 집을 따뜻하게 해 주던 풍습에서 나왔다고 설명돼요. 지금은 이사 후 친구를 초대하는 '집들이'를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "warm",
+   "pos": "형용사/동사",
+   "meaning": "따뜻한 / 데우다",
+   "en": "Warm your hands by the fire.",
+   "ko": "불가에서 손을 녹여."
+  },
+  {
+   "word": "global warming",
+   "pos": "명사구",
+   "meaning": "지구 온난화",
+   "en": "Global warming is melting the ice in the Arctic.",
+   "ko": "지구 온난화가 북극의 얼음을 녹이고 있어."
+  },
+  {
+   "word": "warm-up",
+   "pos": "명사",
+   "meaning": "준비 운동",
+   "en": "Always do a warm-up before running.",
+   "ko": "달리기 전에는 항상 준비 운동을 해."
+  },
+  {
+   "word": "throw a party",
+   "pos": "숙어",
+   "meaning": "파티를 열다",
+   "en": "Let's throw a party for her birthday.",
+   "ko": "그녀 생일에 파티를 열자."
+  },
+  {
+   "word": "move in",
+   "pos": "구동사",
+   "meaning": "이사 들어오다",
+   "en": "Our new neighbors moved in yesterday.",
+   "ko": "새 이웃이 어제 이사 왔어."
+  }
+ ],
+ "imageSense": "대표 의미: 새 집 거실에 친구들이 선물을 들고 모인 장면",
+ "imageCaption": "휴지와 세제를 들고 새 집 문을 두드리는 친구들의 모습을 떠올려 보세요.",
+ "movieLineEn": "You're invited to our housewarming party. Bring snacks, not your cat.",
+ "movieLineKo": "우리 집들이에 초대할게. 고양이 말고 간식을 가져와.",
+ "storyTitle": "집들이 선물",
+ "story": "이모가 move in(이사 들어오다) 한 뒤 housewarming party(집들이)를 throw a party(파티를 열다) 했어요. 다들 휴지를 들고 왔고, 삼촌은 집을 warm(데우다) 하라며 난로를 가져왔죠. 그런데 그날은 35도 폭염! global warming(지구 온난화) 시대에 가장 뜨거운 집들이가 되었답니다."
+}

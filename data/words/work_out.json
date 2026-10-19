@@ -1,0 +1,68 @@
+{
+ "word": "work out",
+ "pos": "구동사",
+ "phonetic": "[wɜːrk aʊt]",
+ "meaning": "운동하다, (문제를) 해결하다, (일이) 잘 풀리다, 계산해 내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "work",
+   "meaning": "일하다, 작동하다 (work)",
+   "note": "힘을 들여 무언가를 한다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "끝까지 해서 결과를 '밖으로' 꺼내는 이미지예요."
+  }
+ ],
+ "summary": "<strong>work</strong> (애써 하다) + <strong>out</strong> (끝까지, 밖으로) = '끝까지 애써서 결과를 끌어내다'에서 <strong>'해결하다, 잘 풀리다'</strong>, 몸을 끝까지 쓰는 <strong>'운동하다'</strong>",
+ "historyTitle": "끝까지 '애써서' 얻는 결과",
+ "historyBody": "work는 고대 영어 weorc(일, 행위)에서 왔어요. out은 '끝까지, 완전히'라는 뜻을 더해 '애써서 끝내 결과를 내다', 즉 문제를 해결하거나 답을 계산해 낸다는 뜻이 되었어요. '운동하다'라는 뜻은 20세기 미국 영어에서 스포츠 훈련을 가리키며 널리 퍼졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "workout",
+   "pos": "명사",
+   "meaning": "운동",
+   "en": "A 30-minute workout can boost your mood.",
+   "ko": "30분 운동은 기분을 좋게 만들 수 있어요."
+  },
+  {
+   "word": "figure out",
+   "pos": "구동사",
+   "meaning": "알아내다, 이해하다",
+   "en": "I can't figure out how this machine works.",
+   "ko": "이 기계가 어떻게 작동하는지 모르겠어요."
+  },
+  {
+   "word": "exercise",
+   "pos": "동사 / 명사",
+   "meaning": "운동하다 / 운동",
+   "en": "Regular exercise keeps your heart healthy.",
+   "ko": "규칙적인 운동은 심장을 건강하게 해 줘요."
+  },
+  {
+   "word": "solve",
+   "pos": "동사",
+   "meaning": "해결하다, 풀다",
+   "en": "We worked together to solve the problem.",
+   "ko": "우리는 함께 그 문제를 해결했어요."
+  },
+  {
+   "word": "pan out",
+   "pos": "구동사",
+   "meaning": "(일이) 잘 되어 가다",
+   "en": "His business plan didn't pan out.",
+   "ko": "그의 사업 계획은 잘 풀리지 않았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 헬스장에서 땀 흘리며 운동하고, 머리를 맞대 문제를 푸는 장면",
+ "imageCaption": "땀을 끝까지 쥐어짜는 운동과 복잡한 문제를 끝까지 풀어내는 모습을 함께 떠올려 보세요.",
+ "movieLineEn": "Don't worry. Everything will work out in the end.",
+ "movieLineKo": "걱정 마. 결국엔 다 잘 풀릴 거야.",
+ "storyTitle": "운동의 진짜 목적",
+ "story": "아빠는 매일 아침 헬스장에서 work out(운동하다)하세요. 엄마가 \"그렇게 workout(운동)을 해도 배가 그대로네\"라고 하자, 아빠는 답을 figure out(알아내다)하려 고민했어요. 원인은 운동 후 먹는 치킨! 아빠는 문제를 solve(해결하다)했어요. 이제 운동을 안 하고 치킨만 드세요."
+}

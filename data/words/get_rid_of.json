@@ -1,0 +1,74 @@
+{
+ "word": "get rid of",
+ "pos": "숙어",
+ "phonetic": "[ɡet rɪd əv]",
+ "meaning": "~을 없애다, ~을 제거하다, ~을 버리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "get",
+   "meaning": "~한 상태가 되다 (get)",
+   "note": "어떤 상태로 '되다'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "rid",
+   "meaning": "없앤, 벗어난 (rid)",
+   "note": "옛 동사 rid(치우다, 해방하다)의 과거분사로 '치워진'이라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~에서 (of)",
+   "note": "무엇으로부터 벗어나는지 대상을 연결해요."
+  }
+ ],
+ "summary": "<strong>get</strong> (되다) + <strong>rid</strong> (치워진) + <strong>of</strong> (~으로부터) = '~에서 치워져 벗어난 상태가 되다'라서 <strong>'~을 없애다'</strong>예요.",
+ "historyTitle": "땅을 개간하던 rid",
+ "historyBody": "rid는 고대 노르드어 ryðja(땅을 개간하다, 치우다)에서 온 말이에요. 숲의 나무를 베어 땅을 '깨끗이 치운다'는 뜻에서 '없애다, 벗어나게 하다'라는 의미가 생겼어요. 수능에서는 get rid of가 remove, eliminate와 같은 뜻으로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "remove",
+   "pos": "동사",
+   "meaning": "제거하다",
+   "en": "Remove your shoes before entering.",
+   "ko": "들어오기 전에 신발을 벗으세요."
+  },
+  {
+   "word": "eliminate",
+   "pos": "동사",
+   "meaning": "없애다, 제거하다",
+   "en": "We need to eliminate waste in the factory.",
+   "ko": "우리는 공장의 낭비를 없애야 해요."
+  },
+  {
+   "word": "throw away",
+   "pos": "구동사",
+   "meaning": "버리다",
+   "en": "I threw away my old notebooks.",
+   "ko": "나는 낡은 공책들을 버렸어요."
+  },
+  {
+   "word": "do away with",
+   "pos": "구동사",
+   "meaning": "폐지하다, 없애다",
+   "en": "The school did away with uniforms.",
+   "ko": "그 학교는 교복을 없앴어요."
+  },
+  {
+   "word": "be rid of",
+   "pos": "숙어",
+   "meaning": "~에서 벗어나다",
+   "en": "I'm glad to be rid of that cold.",
+   "ko": "그 감기에서 벗어나서 기뻐요."
+  }
+ ],
+ "imageSense": "대표 의미: 방 안의 잡동사니를 상자에 담아 내다 버리는 장면",
+ "imageCaption": "꽉 찬 방에서 필요 없는 물건을 싹 치워 개운해지는 기분을 떠올려 보세요.",
+ "movieLineEn": "We have to get rid of the evidence before morning!",
+ "movieLineKo": "아침이 오기 전에 증거를 없애야 해!",
+ "storyTitle": "딸꾹질 퇴치 작전",
+ "story": "동생이 딸꾹질을 get rid of(없애다)하려고 별짓을 다 했어요. 물구나무서기로 딸꾹질을 remove(제거하다)하려 했고, 레몬도 먹었죠. 그래도 eliminate(없애다)되지 않았어요. 그때 내가 \"네 휴대폰 엄마가 압수한대!\"라고 외쳤어요. 딸꾹질은 사라졌지만, 동생은 이제 나를 get rid of(없애다)하려고 쫓아오고 있어요!"
+}

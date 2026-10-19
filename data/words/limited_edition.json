@@ -1,0 +1,68 @@
+{
+ "word": "limited edition",
+ "pos": "명사구",
+ "phonetic": "[ˈlɪmɪtɪd ɪˈdɪʃn]",
+ "meaning": "한정판",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "limited",
+   "meaning": "제한된 (limited)",
+   "note": "수량이 '제한되어 있다'는 걸 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "edition",
+   "meaning": "판, 출간본 (edition)",
+   "note": "찍어 낸 '판'이라는 중심 뜻이에요."
+  }
+ ],
+ "summary": "<strong>limited</strong> (제한된) + <strong>edition</strong> (판) = '수량을 제한해 찍어 낸 판'에서 <strong>'한정판'</strong>",
+ "historyTitle": "'경계'와 '내어 줌'의 결합",
+ "historyBody": "limit은 라틴어 limes(경계, 경계선)에서 왔어요. 로마 제국의 국경선도 limes라고 불렸죠. edition은 라틴어 editio(출판, 내놓음)에서 왔고, e-(밖으로)+dare(주다)가 합쳐진 edere(내놓다)가 뿌리예요. editor(편집자)도 같은 계열이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "limit",
+   "pos": "명사/동사",
+   "meaning": "한계 / 제한하다",
+   "en": "There is a time limit on the test.",
+   "ko": "시험에는 시간 제한이 있어."
+  },
+  {
+   "word": "limitation",
+   "pos": "명사",
+   "meaning": "제한, 한계",
+   "en": "Every plan has its limitations.",
+   "ko": "모든 계획에는 한계가 있어."
+  },
+  {
+   "word": "editor",
+   "pos": "명사",
+   "meaning": "편집자",
+   "en": "The editor checked my article.",
+   "ko": "편집자가 내 기사를 검토했어."
+  },
+  {
+   "word": "edit",
+   "pos": "동사",
+   "meaning": "편집하다",
+   "en": "I edited the video for my channel.",
+   "ko": "나는 내 채널 영상을 편집했어."
+  },
+  {
+   "word": "exclusive",
+   "pos": "형용사",
+   "meaning": "독점적인, 한정된",
+   "en": "This is an exclusive offer for members.",
+   "ko": "이건 회원 전용 혜택이야."
+  }
+ ],
+ "imageSense": "대표 의미: 번호가 매겨진 한정판 운동화 상자를 여는 장면",
+ "imageCaption": "'전 세계 100개 한정' 스티커가 붙은 상자를 떠올려 보세요.",
+ "movieLineEn": "This is a limited edition. Only ten exist in the whole world.",
+ "movieLineKo": "이건 한정판이야. 전 세계에 딱 열 개뿐이지.",
+ "storyTitle": "한정판 운동화",
+ "story": "준서는 limited edition(한정판) 운동화를 사려고 밤새 줄을 섰어요. 1인당 한 켤레로 limit(제한하다) 되어 있었죠. 드디어 손에 넣은 exclusive(독점적인) 상자! 그런데 열어 보니 왼발만 두 짝이었어요. 직원 말이 \"그래서 한정판이에요.\" 결국 그 운동화는 유튜브 edit(편집하다) 영상으로 대박이 났답니다."
+}

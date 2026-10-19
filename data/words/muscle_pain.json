@@ -1,0 +1,68 @@
+{
+ "word": "muscle pain",
+ "pos": "명사구",
+ "phonetic": "[ˈmʌsəl peɪn]",
+ "meaning": "근육통",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "muscle",
+   "meaning": "근육 (muscle)",
+   "note": "라틴어 musculus(작은 쥐)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pain",
+   "meaning": "고통, 통증 (pain)",
+   "note": "라틴어 poena(벌, 형벌)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>muscle</strong> (근육) + <strong>pain</strong> (통증) = '근육에 생기는 통증'에서 <strong>'근육통'</strong>",
+ "historyTitle": "근육은 '작은 쥐'?",
+ "historyBody": "muscle은 라틴어 musculus(작은 쥐)에서 왔어요. 근육이 피부 아래에서 움직이는 모습이 작은 쥐가 움직이는 것 같다고 여겼기 때문이라고 해요. pain은 라틴어 poena(벌)에서 왔고 penalty(벌칙)와 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "muscular",
+   "pos": "형용사",
+   "meaning": "근육의, 근육질의",
+   "en": "The athlete has strong, muscular legs.",
+   "ko": "그 운동선수는 튼튼한 근육질 다리를 가졌어요."
+  },
+  {
+   "word": "painful",
+   "pos": "형용사",
+   "meaning": "고통스러운",
+   "en": "The injury was very painful.",
+   "ko": "그 부상은 매우 고통스러웠어요."
+  },
+  {
+   "word": "painkiller",
+   "pos": "명사",
+   "meaning": "진통제",
+   "en": "The doctor gave me a painkiller for my back.",
+   "ko": "의사가 허리 통증 진통제를 주셨어요."
+  },
+  {
+   "word": "penalty",
+   "pos": "명사",
+   "meaning": "벌칙, 처벌",
+   "en": "There is a penalty for returning books late.",
+   "ko": "책을 늦게 반납하면 벌금이 있어요."
+  },
+  {
+   "word": "sore",
+   "pos": "형용사",
+   "meaning": "아픈, 쑤시는",
+   "en": "My legs are sore after the long hike.",
+   "ko": "긴 등산 후에 다리가 쑤셔요."
+  }
+ ],
+ "imageSense": "대표 의미: 운동 다음 날 다리를 주무르며 아파하는 장면",
+ "imageCaption": "처음 헬스장에 다녀온 다음 날, 계단 앞에서 다리를 붙잡는 모습을 떠올려 보세요.",
+ "movieLineEn": "No pain, no gain. Muscle pain means you're growing!",
+ "movieLineKo": "고통 없이는 얻는 것도 없어. 근육통은 성장한다는 뜻이야!",
+ "storyTitle": "운동 첫날의 결과",
+ "story": "아빠가 muscular(근육질의) 몸을 만들겠다며 헬스장에 갔어요. 다음 날 아빠는 muscle pain(근육통)으로 계단을 못 내려왔죠. 다리가 너무 sore(쑤시는)해서 painkiller(진통제)를 찾았어요. 그런데 아빠가 한 운동은 고작 스트레칭 10분이었대요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "run out of",
+ "pos": "구동사",
+ "phonetic": "[rʌn aʊt əv]",
+ "meaning": "~을 다 써 버리다, ~이 바닥나다, 떨어지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "run",
+   "meaning": "달리다, 흘러가다 (run)",
+   "note": "물이나 시간이 '흘러가는' 이미지로도 써요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "끝까지 다 흘러 나가 바닥나는 이미지예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "무엇이 떨어졌는지 대상을 이어 주는 말이에요."
+  }
+ ],
+ "summary": "<strong>run</strong> (흘러가다) + <strong>out of</strong> (~에서 밖으로) = '~이 다 흘러 밖으로 빠져나가다'에서 <strong>'~을 다 써 버리다, 바닥나다'</strong>가 되었어요.",
+ "historyTitle": "모래시계의 모래가 다 흐르듯",
+ "historyBody": "run은 고대 영어 'rinnan/irnan(흐르다, 달리다)'과 고대 노르드어의 영향을 받은 말로, 물이 '흐르다'라는 뜻도 원래부터 있었어요. 그래서 run out은 '다 흘러 나가 버리다', 즉 '바닥나다'가 되었죠. 'Time is running out(시간이 다 되어 가)'처럼 주어가 사물일 때는 of 없이 run out을 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "run out",
+   "pos": "구동사",
+   "meaning": "다 떨어지다, 바닥나다",
+   "en": "Our time is running out.",
+   "ko": "우리 시간이 다 되어 가요."
+  },
+  {
+   "word": "run into",
+   "pos": "구동사",
+   "meaning": "우연히 마주치다",
+   "en": "I ran into my teacher at the mall.",
+   "ko": "쇼핑몰에서 선생님을 우연히 만났어요."
+  },
+  {
+   "word": "be out of",
+   "pos": "숙어",
+   "meaning": "~이 떨어지다, 없다",
+   "en": "We are out of milk again.",
+   "ko": "우리 또 우유가 떨어졌어요."
+  },
+  {
+   "word": "out of stock",
+   "pos": "숙어",
+   "meaning": "품절된, 재고가 없는",
+   "en": "The shoes I wanted were out of stock.",
+   "ko": "내가 원하던 신발이 품절이었어요."
+  },
+  {
+   "word": "use up",
+   "pos": "구동사",
+   "meaning": "다 써 버리다",
+   "en": "He used up all his pocket money in a day.",
+   "ko": "그는 하루 만에 용돈을 다 써 버렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 자동차 연료 경고등이 깜빡이며 기름이 바닥나는 장면",
+ "imageCaption": "고속도로 한가운데에서 연료 바늘이 E에 딱 붙어 있는 모습을 떠올려 보세요. 기름이 다 흘러 나가 바닥난 거예요.",
+ "movieLineEn": "We're running out of time! Move!",
+ "movieLineKo": "시간이 다 떨어져 가! 움직여!",
+ "storyTitle": "라면 위기",
+ "story": "새벽 2시, 나는 라면을 끓이려다 물이 run out of(바닥나다)한 걸 알았어요. 편의점에 갔더니 라면은 out of stock(품절된)! 용돈도 이미 use up(다 써 버리다)한 상태였죠. 터덜터덜 돌아오다 아빠를 run into(우연히 마주치다)했는데, 아빠 손에 라면 두 봉지가 들려 있었어요."
+}

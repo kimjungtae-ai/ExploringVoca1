@@ -1,0 +1,68 @@
+{
+ "word": "keep a diary",
+ "pos": "숙어",
+ "phonetic": "[kiːp ə ˈdaɪəri]",
+ "meaning": "일기를 쓰다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "keep",
+   "meaning": "유지하다, 계속하다 (keep)",
+   "note": "일기를 '꾸준히 계속 쓴다'는 뜻을 맡아요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "diary",
+   "meaning": "일기 (diary)",
+   "note": "라틴어 dies(날)에서 온 '날마다 쓰는 기록'이에요."
+  }
+ ],
+ "summary": "<strong>keep</strong> (꾸준히 유지하다) + <strong>a diary</strong> (날마다의 기록) = '날마다의 기록을 계속 이어 가다'에서 <strong>'일기를 쓰다'</strong>",
+ "historyTitle": "'하루'를 뜻한 라틴어 dies",
+ "historyBody": "diary는 라틴어 diarium(하루치 배급, 하루 기록)에서 왔고, dies(날)가 뿌리예요. daily, journal과 뜻이 통하죠. keep은 '계속 유지하다'라는 뜻이라 write보다 '꾸준히 일기를 쓴다'는 느낌을 줘요. keep a journal, keep a record도 같은 틀이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "keep a journal",
+   "pos": "숙어",
+   "meaning": "일지를 쓰다",
+   "en": "She keeps a journal of her travels.",
+   "ko": "그녀는 여행 일지를 써."
+  },
+  {
+   "word": "keep a record",
+   "pos": "숙어",
+   "meaning": "기록해 두다",
+   "en": "Keep a record of what you eat.",
+   "ko": "먹은 것을 기록해 둬."
+  },
+  {
+   "word": "daily",
+   "pos": "형용사/부사",
+   "meaning": "매일의 / 매일",
+   "en": "Reading is part of my daily routine.",
+   "ko": "독서는 내 일상의 일부야."
+  },
+  {
+   "word": "journal",
+   "pos": "명사",
+   "meaning": "일기, 학술지",
+   "en": "He published his research in a science journal.",
+   "ko": "그는 과학 학술지에 연구를 발표했어."
+  },
+  {
+   "word": "keep in touch",
+   "pos": "숙어",
+   "meaning": "연락하고 지내다",
+   "en": "Let's keep in touch after graduation.",
+   "ko": "졸업 후에도 연락하고 지내자."
+  }
+ ],
+ "imageSense": "대표 의미: 잠들기 전 책상 스탠드 아래서 일기장을 펴는 장면",
+ "imageCaption": "하루를 마치고 오늘 있었던 일을 공책에 차곡차곡 적는 모습을 떠올려 보세요.",
+ "movieLineEn": "I keep a diary. Every secret you told me is in here.",
+ "movieLineKo": "나 일기 써. 네가 말한 비밀 전부 여기 있어.",
+ "storyTitle": "강아지의 일기",
+ "story": "선생님이 매일 keep a diary(일기를 쓰다) 하라고 하셨어요. 귀찮았던 도현이는 강아지 시점으로 daily(매일의) 기록을 썼죠. '오늘 주인이 내 간식을 몰래 먹음.' 선생님은 그 journal(일지)을 보고 감동해 대회에 냈어요. 결과는 대상! 상품은 1년치 강아지 간식이었어요. 진짜 주인공에게 돌아간 셈이죠."
+}

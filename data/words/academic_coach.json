@@ -1,0 +1,68 @@
+{
+ "word": "academic coach",
+ "pos": "명사구",
+ "phonetic": "[ˌækəˈdemɪk koʊtʃ]",
+ "meaning": "학업 코치, 학습 지도 교사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "academic",
+   "meaning": "학업의, 학문의 (academic)",
+   "note": "그리스의 학교 Akademeia에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "coach",
+   "meaning": "코치, 지도자 (coach)",
+   "note": "원래는 '마차'였는데 학생을 목표까지 '데려다주는' 사람이 되었어요."
+  }
+ ],
+ "summary": "<strong>academic</strong> (학업의) + <strong>coach</strong> (지도자) = <strong>'학업을 이끌어 주는 코치'</strong>라는 뜻이에요.",
+ "historyTitle": "마차가 선생님이 된 이야기",
+ "historyBody": "coach는 헝가리 마을 Kocs에서 만든 마차(kocsi)에서 유래했어요. 19세기 영국 대학에서 학생을 시험까지 '태워 주는' 개인 교사를 속어로 coach라고 불렀고, 이것이 운동 코치로도 넓어졌답니다. academic은 플라톤이 가르친 아테네의 숲 Akademeia에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "academy",
+   "pos": "명사",
+   "meaning": "학원, 학교",
+   "en": "She attends a music academy after school.",
+   "ko": "그녀는 방과 후에 음악 학원에 다녀요."
+  },
+  {
+   "word": "academic performance",
+   "pos": "명사구",
+   "meaning": "학업 성적",
+   "en": "Sleep can affect your academic performance.",
+   "ko": "수면은 학업 성적에 영향을 줄 수 있어요."
+  },
+  {
+   "word": "coaching",
+   "pos": "명사",
+   "meaning": "지도, 코칭",
+   "en": "With good coaching, he improved quickly.",
+   "ko": "좋은 지도를 받아 그는 빠르게 실력이 늘었어요."
+  },
+  {
+   "word": "tutor",
+   "pos": "명사",
+   "meaning": "개인 교사",
+   "en": "My tutor helps me with math twice a week.",
+   "ko": "내 과외 선생님은 일주일에 두 번 수학을 도와주셔요."
+  },
+  {
+   "word": "mentor",
+   "pos": "명사",
+   "meaning": "멘토, 조언자",
+   "en": "Every new student is paired with a mentor.",
+   "ko": "모든 신입생은 멘토와 짝이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 옆에서 학생에게 공부 계획을 짜 주는 선생님",
+ "imageCaption": "운동 코치처럼 옆에서 '할 수 있어!' 하며 공부를 이끌어 주는 사람을 떠올려 보세요.",
+ "movieLineEn": "I'm not your teacher. I'm your academic coach. We win this together.",
+ "movieLineKo": "난 네 선생님이 아니야. 네 학업 코치지. 우린 함께 이길 거야.",
+ "storyTitle": "코치님의 비밀 무기",
+ "story": "우리 학교에 새 academic coach(학업 코치)가 오셨어요. 그분의 coaching(지도) 덕분에 내 academic performance(학업 성적)가 쑥쑥 올랐죠. 비결을 묻자 코치님은 사실 예전에 tutor(개인 교사)가 아니라 마라톤 코치였다며 '공부도 체력이야!'라고 하셨어요."
+}

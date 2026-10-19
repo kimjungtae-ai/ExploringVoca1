@@ -1,0 +1,68 @@
+{
+ "word": "flea market",
+ "pos": "명사구",
+ "phonetic": "[ˈfliː mɑːrkɪt]",
+ "meaning": "벼룩시장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "flea",
+   "meaning": "벼룩 (flea)",
+   "note": "작은 흡혈 곤충으로, 낡은 물건에 벼룩이 있을 법하다는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "market",
+   "meaning": "시장 (market)",
+   "note": "라틴어 mercatus(거래)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>flea</strong> (벼룩) + <strong>market</strong> (시장) = '벼룩이 있을 것 같은 낡은 물건을 파는 시장'이라서 <strong>'벼룩시장'</strong>이에요.",
+ "historyTitle": "파리의 '벼룩 시장'",
+ "historyBody": "flea market은 프랑스어 marché aux puces(벼룩들의 시장)를 번역한 말로, 19세기 파리 외곽의 중고 시장을 가리키던 이름이에요. 낡은 가구와 옷에 벼룩이 있었을 거라는 데서 왔다는 설이 널리 알려져 있지만, 정확한 유래는 확실하지 않아요. 한국어 '벼룩시장'도 이 표현을 그대로 옮긴 거예요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "secondhand",
+   "pos": "형용사",
+   "meaning": "중고의",
+   "en": "I bought a secondhand bike for 30 dollars.",
+   "ko": "나는 중고 자전거를 30달러에 샀어요."
+  },
+  {
+   "word": "garage sale",
+   "pos": "명사구",
+   "meaning": "(집 앞) 중고 물품 판매",
+   "en": "Our neighbors held a garage sale last weekend.",
+   "ko": "이웃들이 지난 주말에 중고 물품 판매를 했어요."
+  },
+  {
+   "word": "bargain",
+   "pos": "명사 / 동사",
+   "meaning": "싼 물건 / 흥정하다",
+   "en": "This jacket was a real bargain.",
+   "ko": "이 재킷은 정말 싸게 산 물건이었어요."
+  },
+  {
+   "word": "market",
+   "pos": "명사",
+   "meaning": "시장",
+   "en": "My grandma goes to the market every morning.",
+   "ko": "할머니는 매일 아침 시장에 가세요."
+  },
+  {
+   "word": "merchant",
+   "pos": "명사",
+   "meaning": "상인",
+   "en": "The merchant sold silk from China.",
+   "ko": "그 상인은 중국산 비단을 팔았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공원에 돗자리를 펴고 중고 물건을 파는 사람들",
+ "imageCaption": "오래된 장난감, 책, 옷이 늘어선 북적이는 장터를 떠올려 보세요.",
+ "movieLineEn": "I found this old treasure map at a flea market for one dollar.",
+ "movieLineKo": "이 오래된 보물 지도를 벼룩시장에서 1달러에 샀어.",
+ "storyTitle": "벼룩시장의 역습",
+ "story": "나는 flea market(벼룩시장)에 내 낡은 인형을 팔러 갔어요. secondhand(중고의) 물건들이 가득했죠. 한 할머니와 bargain(흥정하다)해서 인형을 겨우 팔았어요. 기분 좋게 market(시장)을 둘러보다가 귀여운 인형을 발견해 비싸게 샀어요. 집에 와서 보니 그건 내가 아까 판 바로 그 인형이었어요!"
+}

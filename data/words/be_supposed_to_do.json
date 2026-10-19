@@ -1,0 +1,68 @@
+{
+ "word": "be supposed to do",
+ "pos": "숙어",
+ "phonetic": "[bi səˈpoʊzd tuː duː]",
+ "meaning": "~하기로 되어 있다, ~해야 한다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "supposed",
+   "meaning": "~하기로 되어 있는 (expected)",
+   "note": "라틴어 sub-(아래)+ponere(놓다)에서 온 suppose의 과거분사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to do",
+   "meaning": "~하는 것 (to-infinitive)",
+   "note": "무엇을 하기로 되어 있는지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be supposed</strong> (~라고 여겨지다) + <strong>to do</strong> (~하는 것) = '~할 것으로 여겨지다'에서 <strong>'~하기로 되어 있다'</strong>예요.",
+ "historyTitle": "생각의 '아래에 깔아 둔' 전제",
+ "historyBody": "suppose는 옛 프랑스어 supposer를 거쳐 왔고, 라틴어 sub-(아래에)와 ponere(놓다)가 뿌리예요. 생각의 바탕에 깔아 두니 '가정하다, ~라고 여기다'가 되었죠. 'be supposed to'는 모두가 그렇게 여기는 '정해진 일, 의무'를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be expected to do",
+   "pos": "숙어",
+   "meaning": "~할 것으로 기대되다",
+   "en": "Students are expected to arrive by 8:30.",
+   "ko": "학생들은 8시 30분까지 도착해야 해요."
+  },
+  {
+   "word": "suppose",
+   "pos": "동사",
+   "meaning": "가정하다, 생각하다",
+   "en": "I suppose you're right.",
+   "ko": "네 말이 맞는 것 같아."
+  },
+  {
+   "word": "be meant to do",
+   "pos": "숙어",
+   "meaning": "~하도록 되어 있다",
+   "en": "This knife is meant to cut bread.",
+   "ko": "이 칼은 빵을 자르기 위한 거예요."
+  },
+  {
+   "word": "have to do",
+   "pos": "숙어",
+   "meaning": "~해야 한다",
+   "en": "I have to finish my homework first.",
+   "ko": "먼저 숙제를 끝내야 해요."
+  },
+  {
+   "word": "be scheduled to do",
+   "pos": "숙어",
+   "meaning": "~할 예정이다",
+   "en": "The bus is scheduled to leave at noon.",
+   "ko": "버스는 정오에 출발할 예정이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 약속 시간에 늦어 시계를 보며 뛰어가는 학생",
+ "imageCaption": "'원래 이렇게 하기로 했는데!' 하며 당황하는 순간을 떠올려 보세요.",
+ "movieLineEn": "You're not supposed to be here. Who let you in?",
+ "movieLineKo": "넌 여기 있으면 안 돼. 누가 들여보냈어?",
+ "storyTitle": "원래 계획",
+ "story": "나는 오늘 도서관에서 공부하기로 be supposed to do(~하기로 되어 있다)했어요. 시험도 내일로 be scheduled to do(~할 예정이다)였죠. 그래서 have to do(~해야 한다) 목록을 들고 갔는데 문이 닫혀 있었어요. 알고 보니 오늘은 평일이 아니라 설날이었어요!"
+}

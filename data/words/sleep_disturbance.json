@@ -1,0 +1,68 @@
+{
+ "word": "sleep disturbance",
+ "pos": "명사구",
+ "phonetic": "[sliːp dɪˈstɜːrbəns]",
+ "meaning": "수면 방해, 수면 장애",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "sleep",
+   "meaning": "잠, 수면 (sleep)",
+   "note": "무엇이 방해받는지 알려 주는 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "disturbance",
+   "meaning": "방해, 소란 (disturbance)",
+   "note": "dis-(완전히) + turbare(어지럽히다) + -ance(명사)예요."
+  }
+ ],
+ "summary": "<strong>sleep</strong> (잠) + <strong>disturbance</strong> (어지럽힘) = '잠을 어지럽히는 것'이라서 <strong>'수면 방해, 수면 장애'</strong>예요.",
+ "historyTitle": "휘저어 어지럽히다",
+ "historyBody": "disturb는 고대 프랑스어를 거쳐 라틴어 'disturbare(완전히 어지럽히다)'에서 왔어요. turba는 '소란, 군중'이라는 뜻이고, turbulence(난기류)도 같은 뿌리예요. 그래서 sleep disturbance는 소음, 빛, 스트레스 등으로 잠이 휘저어지는 상태를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "disturb",
+   "pos": "동사",
+   "meaning": "방해하다",
+   "en": "Please don't disturb me while I'm studying.",
+   "ko": "공부하는 동안 방해하지 마세요."
+  },
+  {
+   "word": "Do Not Disturb",
+   "pos": "숙어",
+   "meaning": "방해하지 마시오",
+   "en": "He hung a Do Not Disturb sign on the door.",
+   "ko": "그는 문에 '방해하지 마시오' 표지판을 걸었어요."
+  },
+  {
+   "word": "turbulence",
+   "pos": "명사",
+   "meaning": "난기류, 격동",
+   "en": "The plane shook because of turbulence.",
+   "ko": "난기류 때문에 비행기가 흔들렸어요."
+  },
+  {
+   "word": "sleep disorder",
+   "pos": "명사구",
+   "meaning": "수면 장애",
+   "en": "Sleep disorders can affect your mood.",
+   "ko": "수면 장애는 기분에 영향을 줄 수 있어요."
+  },
+  {
+   "word": "interrupt",
+   "pos": "동사",
+   "meaning": "방해하다, 중단시키다",
+   "en": "Sorry to interrupt, but I have a question.",
+   "ko": "말씀 중에 죄송하지만 질문이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한밤중 윗집 소음에 잠이 깨 베개로 귀를 막는 장면",
+ "imageCaption": "겨우 잠들었는데 '쿵쿵' 소리에 눈이 번쩍! 베개로 귀를 덮는 모습을 떠올려 보세요. 잠이 어지럽혀진 거예요.",
+ "movieLineEn": "That noise every night is causing my sleep disturbance!",
+ "movieLineKo": "매일 밤 그 소음 때문에 잠을 못 자겠어요!",
+ "storyTitle": "범인은 누구",
+ "story": "매일 밤 '쿵' 소리가 sleep disturbance(수면 방해)를 일으켰어요. 나는 문에 'Do Not Disturb(방해하지 마시오)'를 붙이고 윗집에 따지러 갔죠. 'disturb(방해하다)하지 말아 주세요!' 그런데 윗집은 비어 있었어요. 소리의 정체는 잠결에 침대에서 떨어지는 나 자신이었어요."
+}

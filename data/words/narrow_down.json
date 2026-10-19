@@ -1,0 +1,68 @@
+{
+ "word": "narrow down",
+ "pos": "구동사",
+ "phonetic": "[ˈnæroʊ daʊn]",
+ "meaning": "(범위를) 좁히다, 줄이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "narrow",
+   "meaning": "좁은, 좁히다 (narrow)",
+   "note": "고대 영어 nearu(좁은)에서 온 말이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 줄여서 (down)",
+   "note": "양이나 범위가 '줄어드는' 방향을 나타내요."
+  }
+ ],
+ "summary": "<strong>narrow</strong> (좁히다) + <strong>down</strong> (줄여서) = '범위를 점점 좁혀 줄이다'에서 <strong>'(선택지를) 좁히다'</strong>",
+ "historyTitle": "깔때기처럼 좁혀 가기",
+ "historyBody": "narrow는 고대 영어 nearu(좁은, 꽉 끼는)에서 온 오래된 게르만어 단어예요. down은 '아래로'뿐 아니라 '줄어서, 작게'라는 느낌도 있어서, cut down, slow down처럼 양을 줄일 때 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "narrow",
+   "pos": "형용사",
+   "meaning": "좁은",
+   "en": "The street is too narrow for buses.",
+   "ko": "그 길은 버스가 다니기에 너무 좁아요."
+  },
+  {
+   "word": "cut down on",
+   "pos": "구동사",
+   "meaning": "~을 줄이다",
+   "en": "I'm trying to cut down on sugar.",
+   "ko": "나는 설탕을 줄이려고 노력 중이에요."
+  },
+  {
+   "word": "slow down",
+   "pos": "구동사",
+   "meaning": "속도를 늦추다",
+   "en": "Slow down! The road is icy.",
+   "ko": "속도 줄여! 길이 얼었어."
+  },
+  {
+   "word": "narrowly",
+   "pos": "부사",
+   "meaning": "간신히, 좁게",
+   "en": "He narrowly escaped the accident.",
+   "ko": "그는 간신히 사고를 피했어요."
+  },
+  {
+   "word": "rule out",
+   "pos": "구동사",
+   "meaning": "배제하다",
+   "en": "The doctor ruled out a serious illness.",
+   "ko": "의사는 심각한 병의 가능성을 배제했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 후보 중 두 개만 남기고 나머지를 지우는 장면",
+ "imageCaption": "깔때기에 많은 선택지를 넣으면 아래로 갈수록 좁아져 몇 개만 남는 모습을 떠올려 보세요.",
+ "movieLineEn": "We've narrowed it down to three suspects.",
+ "movieLineKo": "용의자를 세 명으로 좁혔어.",
+ "storyTitle": "점심 메뉴 탐정",
+ "story": "점심 메뉴를 고르던 우리는 열 가지를 narrow down(좁히다)했어요. 매운 건 rule out(배제하다)하고, 단 것도 cut down on(줄이다)하기로 했죠. 결국 남은 건 김밥과 라면 두 개! 30분 토론 끝에 고른 건… 둘 다였어요."
+}

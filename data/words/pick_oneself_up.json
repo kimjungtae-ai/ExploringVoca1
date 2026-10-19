@@ -1,0 +1,74 @@
+{
+ "word": "pick oneself up",
+ "pos": "구동사",
+ "phonetic": "[pɪk wʌnˈself ʌp]",
+ "meaning": "(넘어진 뒤) 다시 일어서다, 기운을 차리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pick",
+   "meaning": "집다, 들어 올리다 (pick)",
+   "note": "손으로 콕 집어 든다는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "oneself",
+   "meaning": "자기 자신 (oneself)",
+   "note": "들어 올리는 대상이 바로 '나 자신'이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로 (up)",
+   "note": "바닥에서 '위로' 올라선다는 이미지예요."
+  }
+ ],
+ "summary": "<strong>pick</strong> (집어 들다) + <strong>oneself</strong> (자기 자신) + <strong>up</strong> (위로) = '넘어진 자신을 스스로 들어 올리다'에서 <strong>'다시 일어서다, 기운을 차리다'</strong>",
+ "historyTitle": "스스로 나를 일으켜 세우기",
+ "historyBody": "pick은 중세 영어 piken(쪼다, 집다)에서 온 말이에요. 'pick oneself up'은 넘어진 몸을 스스로 일으켜 세우는 모습에서 나와, 실패나 실망 후 다시 힘을 내는 것을 뜻하게 되었어요. 노래 가사 'pick yourself up, dust yourself off'로도 유명해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pick up",
+   "pos": "구동사",
+   "meaning": "줍다, 데리러 가다, 익히다",
+   "en": "Can you pick me up at the station?",
+   "ko": "역으로 나 데리러 올 수 있어?"
+  },
+  {
+   "word": "get back on one's feet",
+   "pos": "숙어",
+   "meaning": "다시 일어서다, 회복하다",
+   "en": "It took him a year to get back on his feet.",
+   "ko": "그가 다시 일어서는 데 1년이 걸렸어요."
+  },
+  {
+   "word": "bounce back",
+   "pos": "구동사",
+   "meaning": "다시 회복하다",
+   "en": "She bounced back quickly after losing the game.",
+   "ko": "그녀는 경기에서 진 뒤 빨리 회복했어요."
+  },
+  {
+   "word": "cheer up",
+   "pos": "구동사",
+   "meaning": "기운을 내다",
+   "en": "Cheer up! You'll do better next time.",
+   "ko": "힘내! 다음엔 더 잘할 거야."
+  },
+  {
+   "word": "recover",
+   "pos": "동사",
+   "meaning": "회복하다",
+   "en": "He fully recovered from the flu.",
+   "ko": "그는 독감에서 완전히 회복했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어진 아이가 무릎을 털고 스스로 일어나는 장면",
+ "imageCaption": "자전거에서 넘어진 아이가 울지 않고 툭툭 털고 다시 일어서는 모습을 떠올려 보세요.",
+ "movieLineEn": "Pick yourself up. We're not done yet.",
+ "movieLineKo": "일어나. 아직 안 끝났어.",
+ "storyTitle": "다시 일어선 스케이터",
+ "story": "피겨 대회에서 넘어진 유나는 바로 pick oneself up(다시 일어서다)했어요. 관중은 \"cheer up(기운 내)!\"을 외쳤죠. 유나는 실수에서 bounce back(다시 회복하다)해서 멋지게 연기를 마쳤어요. 심사위원 점수는 낮았지만, 관중 투표 1등 상품은 금메달 모양 초콜릿이었어요."
+}

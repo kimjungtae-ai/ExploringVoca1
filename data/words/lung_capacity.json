@@ -1,0 +1,68 @@
+{
+ "word": "lung capacity",
+ "pos": "명사구",
+ "phonetic": "[lʌŋ kəˈpæsəti]",
+ "meaning": "폐활량",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "lung",
+   "meaning": "폐 (lung)",
+   "note": "숨을 쉬는 가슴 속 기관이에요. 고대 영어 'lungen'에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "capacity",
+   "meaning": "용량, 수용력 (capacity)",
+   "note": "라틴어 capax(많이 담을 수 있는)에서 온 말로 '담을 수 있는 양'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>lung</strong> (폐) + <strong>capacity</strong> (담을 수 있는 양) = '폐가 담을 수 있는 공기의 양'에서 <strong>'폐활량'</strong>",
+ "historyTitle": "'가볍다'와 연결된 폐, '담다'에서 온 용량",
+ "historyBody": "lung은 고대 영어 lungen에서 왔고, '가벼운(light)'과 같은 뿌리로 보는 설이 널리 알려져 있어요. 동물의 폐가 물에 뜰 만큼 가볍기 때문이라는 설명이에요. capacity는 라틴어 capere(잡다, 담다)에서 나온 capacitas가 프랑스어를 거쳐 들어왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "capacity",
+   "pos": "명사",
+   "meaning": "수용력, 능력",
+   "en": "The new stadium has a capacity of 50,000 people.",
+   "ko": "새 경기장은 5만 명을 수용할 수 있어요."
+  },
+  {
+   "word": "capable",
+   "pos": "형용사",
+   "meaning": "~할 수 있는, 유능한",
+   "en": "She is capable of solving difficult problems alone.",
+   "ko": "그녀는 혼자서 어려운 문제를 풀 수 있어요."
+  },
+  {
+   "word": "lung cancer",
+   "pos": "명사구",
+   "meaning": "폐암",
+   "en": "Smoking greatly increases the risk of lung cancer.",
+   "ko": "흡연은 폐암 위험을 크게 높여요."
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "붙잡다, 포착하다",
+   "en": "The photo captured the beauty of the sunset.",
+   "ko": "그 사진은 노을의 아름다움을 포착했어요."
+  },
+  {
+   "word": "breathe",
+   "pos": "동사",
+   "meaning": "숨 쉬다",
+   "en": "Swimmers learn to breathe deeply and slowly.",
+   "ko": "수영 선수들은 깊고 천천히 숨 쉬는 법을 배워요."
+  }
+ ],
+ "imageSense": "대표 의미: 숨을 크게 들이마셔 풍선을 한 번에 부풀리는 장면",
+ "imageCaption": "폐를 커다란 풍선 주머니라고 생각해 보세요. 그 주머니에 담기는 공기의 양이 바로 lung capacity예요.",
+ "movieLineEn": "Training at high altitude will boost your lung capacity.",
+ "movieLineKo": "고지대에서 훈련하면 폐활량이 늘어날 거야.",
+ "storyTitle": "풍선 대회의 반전",
+ "story": "수영부 민수는 lung capacity(폐활량)가 대단해요. breathe(숨 쉬다) 한 번에 풍선을 터뜨릴 만큼 capable(유능한)했죠. 풍선 대회 우승을 capture(포착하다)하려고 기자가 왔는데, 민수가 숨을 들이마시는 순간 기자 모자가 빨려 들어갔어요!"
+}

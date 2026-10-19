@@ -1,0 +1,68 @@
+{
+ "word": "stretch out",
+ "pos": "구동사",
+ "phonetic": "[stretʃ aʊt]",
+ "meaning": "(팔다리를) 쭉 뻗다, 길게 눕다, 펼쳐지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stretch",
+   "meaning": "늘이다, 뻗다 (extend)",
+   "note": "팽팽하게 길게 늘린다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "몸이나 물건을 바깥쪽으로 끝까지 펼치는 이미지예요."
+  }
+ ],
+ "summary": "<strong>stretch</strong> (늘이다) + <strong>out</strong> (밖으로 끝까지) = '바깥쪽으로 끝까지 쭉 늘이다'에서 <strong>'쭉 뻗다, 펼쳐지다'</strong>",
+ "historyTitle": "고대 영어의 streccan",
+ "historyBody": "stretch는 고대 영어 streccan(뻗다, 펴다)에서 왔고, 독일어 strecken과 같은 뿌리예요. 여기에 '밖으로, 끝까지'를 뜻하는 out이 붙어 몸을 쭉 펴서 눕거나 땅이 멀리까지 펼쳐지는 모습을 나타내요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stretch",
+   "pos": "동사 / 명사",
+   "meaning": "늘이다, 스트레칭하다 / 기간, 구간",
+   "en": "Always stretch before you go running.",
+   "ko": "달리기 전에는 항상 스트레칭을 하세요."
+  },
+  {
+   "word": "stretcher",
+   "pos": "명사",
+   "meaning": "들것",
+   "en": "The injured player was carried off on a stretcher.",
+   "ko": "부상당한 선수는 들것에 실려 나갔어요."
+  },
+  {
+   "word": "spread out",
+   "pos": "구동사",
+   "meaning": "펼치다, 퍼지다",
+   "en": "The students spread out across the field.",
+   "ko": "학생들이 운동장 곳곳으로 흩어졌어요."
+  },
+  {
+   "word": "reach out",
+   "pos": "구동사",
+   "meaning": "손을 뻗다, 도움을 청하다",
+   "en": "Don't be afraid to reach out for help.",
+   "ko": "도움을 청하는 걸 두려워하지 마세요."
+  },
+  {
+   "word": "lie down",
+   "pos": "구동사",
+   "meaning": "눕다",
+   "en": "I felt dizzy, so I lay down for a while.",
+   "ko": "어지러워서 잠시 누워 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 소파 위에 팔다리를 쭉 뻗고 길게 누운 고양이 장면",
+ "imageCaption": "햇볕 아래에서 고양이가 몸을 최대한 길게 늘이며 기지개 켜는 모습을 떠올려 보세요.",
+ "movieLineEn": "After the long hike, I just want to stretch out on the grass.",
+ "movieLineKo": "긴 등산이 끝나면 그냥 잔디에 쭉 뻗고 눕고 싶어.",
+ "storyTitle": "기지개의 대가",
+ "story": "체육 시간, 선생님이 \"모두 stretch(스트레칭하다)!\"라고 하자 민지는 운동장에 stretch out(쭉 뻗다)했어요. 너무 편해서 lie down(눕다)한 채 잠들어 버렸죠. 친구들이 깜짝 놀라 stretcher(들것)를 가져왔는데, 민지는 눈을 뜨며 말했어요. \"이거 침대야? 고마워!\""
+}

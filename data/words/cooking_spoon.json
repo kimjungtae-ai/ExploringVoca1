@@ -1,0 +1,68 @@
+{
+ "word": "cooking spoon",
+ "pos": "명사구",
+ "phonetic": "[ˈkʊkɪŋ spuːn]",
+ "meaning": "요리용 숟가락, 국자, 조리 스푼",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "cooking",
+   "meaning": "요리용의, 요리 (cooking)",
+   "note": "cook(요리하다)+-ing로 '요리할 때 쓰는'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "spoon",
+   "meaning": "숟가락 (spoon)",
+   "note": "음식을 뜨는 도구예요."
+  }
+ ],
+ "summary": "<strong>cooking</strong> (요리용의) + <strong>spoon</strong> (숟가락) = '요리할 때 쓰는 숟가락'에서 <strong>'조리용 스푼'</strong>",
+ "historyTitle": "나무 조각이던 spoon",
+ "historyBody": "spoon은 고대 영어 'spōn'에서 왔는데, 원래 뜻은 '나무 조각, 얇은 나뭇조각'이었어요. 옛날 숟가락을 나무를 깎아 만들었기 때문에 그 이름이 굳은 거죠. cook은 라틴어 'coquere(요리하다, 익히다)'에서 왔고, kitchen(부엌)도 같은 뿌리에서 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ladle",
+   "pos": "명사",
+   "meaning": "국자",
+   "en": "Mom served the soup with a ladle.",
+   "ko": "엄마가 국자로 수프를 떠 주셨어."
+  },
+  {
+   "word": "spatula",
+   "pos": "명사",
+   "meaning": "뒤집개, 주걱",
+   "en": "Flip the pancake with a spatula.",
+   "ko": "뒤집개로 팬케이크를 뒤집어."
+  },
+  {
+   "word": "utensil",
+   "pos": "명사",
+   "meaning": "(주방) 도구",
+   "en": "Keep the kitchen utensils in the drawer.",
+   "ko": "주방 도구는 서랍에 보관해."
+  },
+  {
+   "word": "kitchen",
+   "pos": "명사",
+   "meaning": "부엌",
+   "en": "Dad is cooking dinner in the kitchen.",
+   "ko": "아빠가 부엌에서 저녁을 요리하고 계셔."
+  },
+  {
+   "word": "tablespoon",
+   "pos": "명사",
+   "meaning": "큰 숟가락, 한 큰술",
+   "en": "Add two tablespoons of sugar.",
+   "ko": "설탕 두 큰술을 넣으세요."
+  }
+ ],
+ "imageSense": "대표 의미: 냄비 속 카레를 긴 나무 숟가락으로 젓는 장면",
+ "imageCaption": "보글보글 끓는 냄비를 긴 나무 숟가락으로 휘휘 젓는 모습을 떠올려 보세요.",
+ "movieLineEn": "Hand me the cooking spoon before it burns!",
+ "movieLineKo": "타기 전에 요리용 숟가락 좀 줘!",
+ "storyTitle": "사라진 숟가락",
+ "story": "아빠가 kitchen(부엌)에서 카레를 만드는데 cooking spoon(요리용 숟가락)이 없어졌어요. ladle(국자)도, spatula(뒤집개)도 다 찾았지만 숟가락만 없었죠. 다른 utensil(주방 도구)로 겨우 저었어요. 저녁을 먹다 동생 입을 보니 그 커다란 숟가락으로 아이스크림을 먹고 있었어요. \"이게 제일 많이 떠져!\""
+}

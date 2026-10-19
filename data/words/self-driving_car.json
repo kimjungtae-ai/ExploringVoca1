@@ -1,0 +1,74 @@
+{
+ "word": "self-driving car",
+ "pos": "명사구",
+ "phonetic": "[ˌself ˈdraɪvɪŋ kɑːr]",
+ "meaning": "자율 주행 자동차",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "self",
+   "meaning": "스스로 (self)",
+   "note": "누가 대신하지 않고 '스스로'라는 뜻이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "driving",
+   "meaning": "운전하는 (driving)",
+   "note": "drive(운전하다) + -ing로 '운전하는'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "car",
+   "meaning": "자동차 (car)",
+   "note": "라틴어 carrus(바퀴 달린 수레)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>self</strong> (스스로) + <strong>driving</strong> (운전하는) + <strong>car</strong> (자동차) = '스스로 운전하는 차'라서 <strong>'자율 주행 자동차'</strong>예요.",
+ "historyTitle": "수레에서 스스로 달리는 차로",
+ "historyBody": "car는 앵글로-프랑스어 'carre'를 거쳐 라틴어 'carrus(네 바퀴 수레)'에서 왔고, 이 말은 켈트어(골어)에서 들어온 것으로 여겨져요. drive는 고대 영어 'drifan(몰다, 몰아가다)'에서 왔어요. self-driving car는 2010년대 들어 인공지능과 센서 기술이 발전하면서 널리 쓰이게 된 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "autonomous",
+   "pos": "형용사",
+   "meaning": "자율적인, 자주적인",
+   "en": "Autonomous robots can clean the floor by themselves.",
+   "ko": "자율 로봇은 스스로 바닥을 청소할 수 있어요."
+  },
+  {
+   "word": "driverless",
+   "pos": "형용사",
+   "meaning": "운전자 없는",
+   "en": "A driverless bus is being tested downtown.",
+   "ko": "시내에서 운전자 없는 버스가 시험 운행 중이에요."
+  },
+  {
+   "word": "self-service",
+   "pos": "명사/형용사",
+   "meaning": "셀프서비스(의)",
+   "en": "This gas station is self-service.",
+   "ko": "이 주유소는 셀프서비스예요."
+  },
+  {
+   "word": "self-esteem",
+   "pos": "명사",
+   "meaning": "자존감",
+   "en": "Praise can boost a child's self-esteem.",
+   "ko": "칭찬은 아이의 자존감을 높일 수 있어요."
+  },
+  {
+   "word": "artificial intelligence",
+   "pos": "명사구",
+   "meaning": "인공 지능",
+   "en": "Artificial intelligence is changing the way we work.",
+   "ko": "인공 지능이 우리가 일하는 방식을 바꾸고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 운전석에 아무도 없는데 차가 알아서 도로를 달리는 장면",
+ "imageCaption": "운전대가 혼자 빙글 돌고 승객은 뒷자리에서 책을 읽는 모습을 떠올려 보세요. 차가 '스스로' 운전해요.",
+ "movieLineEn": "Relax. This self-driving car knows the way better than you.",
+ "movieLineKo": "긴장 풀어. 이 자율 주행차가 너보다 길을 더 잘 알아.",
+ "storyTitle": "말 안 듣는 차",
+ "story": "삼촌이 self-driving car(자율 주행 자동차)를 샀어요. artificial intelligence(인공 지능)가 달린 autonomous(자율적인) 차라며 자랑했죠. '바다로 가자!'고 하자 차는 출발했어요. 그런데 도착한 곳은 횟집 '바다로'. 삼촌의 self-esteem(자존감)은 바닥, 하지만 회는 맛있었답니다."
+}

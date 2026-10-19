@@ -1,0 +1,68 @@
+{
+ "word": "special occasion",
+ "pos": "명사구",
+ "phonetic": "[ˈspeʃəl əˈkeɪʒən]",
+ "meaning": "특별한 날, 특별한 행사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "special",
+   "meaning": "특별한 (special)",
+   "note": "평범하지 않은 '특별한'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "occasion",
+   "meaning": "때, 경우, 행사 (occasion)",
+   "note": "라틴어 occasio(기회, 알맞은 때)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>special</strong> (특별한) + <strong>occasion</strong> (때, 행사) = '특별한 때'라서 <strong>'특별한 날, 특별한 행사'</strong>예요.",
+ "historyTitle": "딱 맞게 떨어진 때",
+ "historyBody": "occasion은 라틴어 'occasio(좋은 기회, 알맞은 때)'에서 왔고, 이 말은 'occidere(떨어지다)'와 관련돼요. ob-(~쪽으로) + cadere(떨어지다)로, 일이 딱 맞게 '떨어진 때'라는 그림이에요. 생일, 결혼기념일처럼 특별한 날을 special occasion이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "occasionally",
+   "pos": "부사",
+   "meaning": "가끔, 때때로",
+   "en": "We occasionally eat out on weekends.",
+   "ko": "우리는 주말에 가끔 외식해요."
+  },
+  {
+   "word": "on occasion",
+   "pos": "숙어",
+   "meaning": "가끔",
+   "en": "He visits his grandmother on occasion.",
+   "ko": "그는 가끔 할머니 댁에 가요."
+  },
+  {
+   "word": "anniversary",
+   "pos": "명사",
+   "meaning": "기념일",
+   "en": "My parents celebrated their 20th anniversary.",
+   "ko": "부모님은 결혼 20주년을 축하하셨어요."
+  },
+  {
+   "word": "celebrate",
+   "pos": "동사",
+   "meaning": "축하하다, 기념하다",
+   "en": "Let's celebrate your birthday with a party.",
+   "ko": "파티로 네 생일을 축하하자."
+  },
+  {
+   "word": "special",
+   "pos": "형용사",
+   "meaning": "특별한",
+   "en": "Today is a special day for our family.",
+   "ko": "오늘은 우리 가족에게 특별한 날이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 촛불이 켜진 케이크 앞에서 가족이 축하하는 장면",
+ "imageCaption": "정장을 입고 고급 식당에서 촛불 켠 케이크를 앞에 두고 축하하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I've been saving this wine for a special occasion.",
+ "movieLineKo": "이 와인은 특별한 날을 위해 아껴 뒀지.",
+ "storyTitle": "아끼다 똥 된다",
+ "story": "할머니는 예쁜 그릇을 special occasion(특별한 날)에만 쓰신다며 장에 넣어 두셨어요. 생일에도, anniversary(기념일)에도 '아직 아니야!' 하셨죠. 마침내 할머니의 팔순을 celebrate(축하하다)하는 날, 그릇을 꺼냈더니 할머니가 말씀하셨어요. '어머, 이게 언제부터 여기 있었니?'"
+}

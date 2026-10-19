@@ -1,0 +1,68 @@
+{
+ "word": "pick out",
+ "pos": "구동사",
+ "phonetic": "[pɪk aʊt]",
+ "meaning": "고르다, 선택하다, 알아보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pick",
+   "meaning": "집다, 고르다 (pick)",
+   "note": "여럿 중에서 하나를 콕 집는다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로 (out)",
+   "note": "무리 속에서 '밖으로' 꺼내 드는 이미지예요."
+  }
+ ],
+ "summary": "<strong>pick</strong> (콕 집다) + <strong>out</strong> (밖으로) = '여럿 중에서 하나를 집어 밖으로 꺼내다'에서 <strong>'고르다, 골라내다'</strong>",
+ "historyTitle": "새가 부리로 콕 집듯",
+ "historyBody": "pick은 '쪼다, 찌르다'라는 뜻의 중세 영어 piken에서 왔어요. 새가 부리로 콕 쪼아 먹이를 골라내듯, 많은 것 중에서 하나를 집어내는 것이 pick out이에요. 사람들 사이에서 누군가를 '알아보다'라는 뜻으로도 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pick",
+   "pos": "동사",
+   "meaning": "고르다, 따다",
+   "en": "We picked strawberries at the farm.",
+   "ko": "우리는 농장에서 딸기를 땄어요."
+  },
+  {
+   "word": "choose",
+   "pos": "동사",
+   "meaning": "선택하다",
+   "en": "You can choose any book you like.",
+   "ko": "마음에 드는 책 아무거나 골라도 돼요."
+  },
+  {
+   "word": "select",
+   "pos": "동사",
+   "meaning": "선발하다, 고르다",
+   "en": "She was selected for the national team.",
+   "ko": "그녀는 국가대표로 뽑혔어요."
+  },
+  {
+   "word": "single out",
+   "pos": "구동사",
+   "meaning": "(특정 사람을) 지목하다",
+   "en": "The teacher singled out Tom for praise.",
+   "ko": "선생님은 톰을 칭찬하려고 콕 집어 말했어요."
+  },
+  {
+   "word": "sort out",
+   "pos": "구동사",
+   "meaning": "분류하다, 해결하다",
+   "en": "Let's sort out these old clothes.",
+   "ko": "이 헌 옷들을 분류해 보자."
+  }
+ ],
+ "imageSense": "대표 의미: 과일 가게에서 가장 잘 익은 사과를 골라 드는 장면",
+ "imageCaption": "바구니 가득한 사과 중 제일 빨간 것 하나를 집어 드는 손을 떠올려 보세요.",
+ "movieLineEn": "Pick out any weapon you like, young warrior.",
+ "movieLineKo": "젊은 전사여, 원하는 무기를 골라라.",
+ "storyTitle": "엄마 선물 고르기",
+ "story": "엄마 생일 선물을 pick out(고르다)하려고 백화점에 갔어요. 수많은 스카프 중에 하나를 choose(선택하다)하기가 어려웠죠. 점원이 가장 비싼 걸 select(고르다)해 줬어요. 지갑을 열어 보니 내가 살 수 있는 건 결국 카드 한 장뿐이었답니다."
+}

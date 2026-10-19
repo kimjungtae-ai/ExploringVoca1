@@ -1,0 +1,68 @@
+{
+ "word": "changing season",
+ "pos": "명사구",
+ "phonetic": "[ˈtʃeɪndʒɪŋ ˈsiːzn]",
+ "meaning": "환절기, 바뀌는 계절",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "changing",
+   "meaning": "바뀌는, 변하는 (changing)",
+   "note": "change(바꾸다)+-ing로, 지금 바뀌고 있는 중이라는 느낌이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "season",
+   "meaning": "계절 (season)",
+   "note": "봄·여름·가을·겨울 같은 한 해의 구간이에요."
+  }
+ ],
+ "summary": "<strong>changing</strong> (바뀌는) + <strong>season</strong> (계절) = '계절이 바뀌는 때'에서 <strong>'환절기'</strong>",
+ "historyTitle": "'씨 뿌리는 때'에서 온 season",
+ "historyBody": "season은 라틴어 'satio(씨 뿌리기)'에서 고대 프랑스어 seison을 거쳐 왔어요. 원래 '씨 뿌리는 때'를 뜻하다가 '한 해의 시기, 계절'로 넓어졌어요. change는 라틴어 'cambiare(교환하다)'에서 왔답니다. 환절기에는 감기에 잘 걸리니 조심하라는 내용이 수능 지문에도 종종 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "seasonal",
+   "pos": "형용사",
+   "meaning": "계절의, 계절에 따른",
+   "en": "Seasonal fruits are fresh and cheap.",
+   "ko": "제철 과일은 신선하고 싸요."
+  },
+  {
+   "word": "season change",
+   "pos": "명사구",
+   "meaning": "계절 변화",
+   "en": "Many people feel tired during the season change.",
+   "ko": "많은 사람이 계절이 바뀔 때 피곤함을 느껴요."
+  },
+  {
+   "word": "exchange",
+   "pos": "동사/명사",
+   "meaning": "교환하다 / 교환",
+   "en": "We exchanged gifts at the party.",
+   "ko": "우리는 파티에서 선물을 교환했어."
+  },
+  {
+   "word": "climate change",
+   "pos": "명사구",
+   "meaning": "기후 변화",
+   "en": "Climate change is a serious global problem.",
+   "ko": "기후 변화는 심각한 세계적 문제예요."
+  },
+  {
+   "word": "in season",
+   "pos": "숙어",
+   "meaning": "제철인",
+   "en": "Strawberries are in season now.",
+   "ko": "지금 딸기가 제철이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 단풍잎과 첫눈이 함께 내리는 길에서 기침하는 사람",
+ "imageCaption": "반팔과 패딩을 동시에 입은 사람들이 거리를 지나가는 장면을 떠올려 보세요.",
+ "movieLineEn": "Take care of yourself during the changing season.",
+ "movieLineKo": "환절기에 몸 잘 챙겨.",
+ "storyTitle": "환절기의 옷장 전쟁",
+ "story": "changing season(환절기)이 오자 하린이는 아침엔 패딩, 점심엔 반팔을 입었어요. 엄마는 \"season change(계절 변화) 때 감기 조심!\"이라며 seasonal(제철의) 귤을 주셨죠. 귤이 in season(제철인) 덕에 달콤했어요. 하린이가 친구와 옷을 exchange(교환하다)하려 했더니, 친구도 패딩과 반팔을 동시에 입고 있었어요!"
+}

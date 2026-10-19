@@ -1,0 +1,68 @@
+{
+ "word": "hand wash",
+ "pos": "명사구 / 동사",
+ "phonetic": "[ˈhænd wɑːʃ]",
+ "meaning": "손 세정제, 손 씻기 / 손으로 빨다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "hand",
+   "meaning": "손 (hand)",
+   "note": "무엇으로(손으로) 또는 무엇을(손을) 씻는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "wash",
+   "meaning": "씻다, 빨다 (wash)",
+   "note": "'씻다, 세탁하다'라는 핵심 동작을 맡아요."
+  }
+ ],
+ "summary": "<strong>hand</strong> (손) + <strong>wash</strong> (씻다) = '손을 씻다 / 손으로 빨다'에서 <strong>'손 세정제, 손빨래하다'</strong>",
+ "historyTitle": "고대 영어에서 그대로 내려온 두 단어",
+ "historyBody": "hand와 wash는 둘 다 고대 영어 hand, wascan에서 온 아주 오래된 게르만어 단어예요. 옷 라벨의 'hand wash only'는 세탁기 대신 손으로 빨라는 뜻이고, 'hand wash'는 손을 씻는 세정제를 뜻하기도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wash one's hands",
+   "pos": "숙어",
+   "meaning": "손을 씻다",
+   "en": "Always wash your hands before you eat.",
+   "ko": "먹기 전에는 항상 손을 씻으세요."
+  },
+  {
+   "word": "handmade",
+   "pos": "형용사",
+   "meaning": "손으로 만든, 수제의",
+   "en": "She gave me a handmade scarf for my birthday.",
+   "ko": "그녀는 내 생일에 손으로 뜬 목도리를 주었어."
+  },
+  {
+   "word": "washing machine",
+   "pos": "명사구",
+   "meaning": "세탁기",
+   "en": "Our old washing machine makes a loud noise.",
+   "ko": "우리 집 낡은 세탁기는 소리가 시끄러워."
+  },
+  {
+   "word": "hand sanitizer",
+   "pos": "명사구",
+   "meaning": "손 소독제",
+   "en": "There is hand sanitizer at the entrance of the library.",
+   "ko": "도서관 입구에 손 소독제가 있어."
+  },
+  {
+   "word": "wash up",
+   "pos": "구동사",
+   "meaning": "씻다, 설거지하다",
+   "en": "Let's wash up before dinner.",
+   "ko": "저녁 먹기 전에 씻자."
+  }
+ ],
+ "imageSense": "대표 의미: 세면대에서 거품 낸 손 세정제로 손을 씻는 장면",
+ "imageCaption": "옷 라벨의 '손빨래' 그림과 세면대 거품을 함께 떠올려 보세요.",
+ "movieLineEn": "This sweater is hand wash only. Don't you dare put it in the machine!",
+ "movieLineKo": "이 스웨터는 손빨래만 돼. 절대 세탁기에 넣지 마!",
+ "storyTitle": "스웨터의 비밀",
+ "story": "지수는 스웨터 라벨의 hand wash(손빨래) 표시를 무시하고 washing machine(세탁기)에 넣었어요. 꺼내 보니 인형 옷만큼 줄어 있었죠. 놀라서 wash one's hands(손을 씻다)처럼 깨끗이 잊으려 했지만, 강아지가 그 옷을 입고 신나게 뛰어다녔어요. 결국 handmade(수제의) 강아지 옷이 된 셈이에요!"
+}

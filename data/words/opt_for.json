@@ -1,0 +1,68 @@
+{
+ "word": "opt for",
+ "pos": "구동사",
+ "phonetic": "[ɑːpt fɔːr]",
+ "meaning": "~을 선택하다, ~을 고르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "opt",
+   "meaning": "선택하다 (opt)",
+   "note": "라틴어 optare(고르다, 바라다)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "for",
+   "meaning": "~을 향해, ~ 쪽으로 (for)",
+   "note": "여러 선택지 중 하나 '쪽으로' 마음이 향한다는 느낌이에요."
+  }
+ ],
+ "summary": "<strong>opt</strong> (고르다) + <strong>for</strong> (~ 쪽으로) = '여러 개 중 ~ 쪽으로 고르다'에서 <strong>'~을 선택하다'</strong>",
+ "historyTitle": "'바라다, 고르다'의 라틴어 optare",
+ "historyBody": "opt는 라틴어 optare(고르다, 바라다)에서 프랑스어 opter를 거쳐 19세기에 영어로 들어왔어요. option(선택권)도 같은 뿌리이고, adopt(채택하다, 입양하다)도 ad-(~쪽으로) + optare가 합쳐진 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "option",
+   "pos": "명사",
+   "meaning": "선택권, 선택 사항",
+   "en": "You have two options: stay or leave.",
+   "ko": "너에게는 두 가지 선택이 있어. 남거나 떠나거나."
+  },
+  {
+   "word": "optional",
+   "pos": "형용사",
+   "meaning": "선택적인",
+   "en": "Wearing a uniform is optional on Fridays.",
+   "ko": "금요일에는 교복 착용이 선택이에요."
+  },
+  {
+   "word": "adopt",
+   "pos": "동사",
+   "meaning": "채택하다, 입양하다",
+   "en": "The school adopted a new dress code.",
+   "ko": "학교가 새 복장 규정을 채택했어요."
+  },
+  {
+   "word": "opt out",
+   "pos": "구동사",
+   "meaning": "빠지다, 탈퇴하다",
+   "en": "You can opt out of the program at any time.",
+   "ko": "언제든지 그 프로그램에서 빠질 수 있어요."
+  },
+  {
+   "word": "choose",
+   "pos": "동사",
+   "meaning": "선택하다",
+   "en": "She chose the blue dress for the party.",
+   "ko": "그녀는 파티에 입을 파란 드레스를 골랐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 메뉴판을 보다가 손가락으로 하나를 콕 찍는 장면",
+ "imageCaption": "여러 갈래 길 앞에서 한쪽 길을 골라 걸어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Most people opt for safety. I opt for adventure.",
+ "movieLineKo": "대부분은 안전을 택하지. 나는 모험을 택하겠어.",
+ "storyTitle": "현명한 선택?",
+ "story": "체육 시간, 달리기와 피구 중 고를 option(선택권)이 있었어요. 나는 편해 보이는 피구를 opt for(~을 선택하다)했죠. 친구는 달리기에서 opt out(빠지다)하고 피구로 왔어요. 그런데 피구 팀 상대가 체육 선생님 혼자였어요. 우리 반 전원이 3분 만에 아웃됐어요!"
+}

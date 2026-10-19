@@ -1,0 +1,68 @@
+{
+ "word": "clear up",
+ "pos": "구동사",
+ "phonetic": "[klɪr ʌp]",
+ "meaning": "(날씨가) 개다, 정리하다, 치우다, (오해·문제를) 풀다, (병이) 낫다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "clear",
+   "meaning": "맑은; 치우다 (clear)",
+   "note": "흐린 것, 막힌 것을 없애 깨끗하게 만든다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히 (up)",
+   "note": "'끝까지, 완전히'라는 느낌을 더해 깨끗이 정리됨을 강조해요."
+  }
+ ],
+ "summary": "<strong>clear</strong> (맑게 하다) + <strong>up</strong> (완전히) = '완전히 맑게 하다'에서 <strong>'(날씨가) 개다, 정리하다, (오해를) 풀다'</strong>",
+ "historyTitle": "빛나는 라틴어 clarus",
+ "historyBody": "clear는 라틴어 'clarus(밝은, 맑은, 분명한)'에서 고대 프랑스어 cler를 거쳐 왔어요. clarify(분명히 하다), clarity(명료함)도 같은 뿌리예요. 하늘의 구름이 완전히 걷히는 이미지에서 '날씨가 개다', 머릿속 엉킨 것이 풀리는 이미지에서 '오해를 풀다'라는 뜻이 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "clarify",
+   "pos": "동사",
+   "meaning": "분명히 하다, 명확히 하다",
+   "en": "Could you clarify what you mean?",
+   "ko": "무슨 뜻인지 분명히 말해 줄래?"
+  },
+  {
+   "word": "clean up",
+   "pos": "구동사",
+   "meaning": "청소하다, 치우다",
+   "en": "Let's clean up the classroom after the party.",
+   "ko": "파티 끝나고 교실을 청소하자."
+  },
+  {
+   "word": "tidy up",
+   "pos": "구동사",
+   "meaning": "깔끔하게 정리하다",
+   "en": "Please tidy up your desk before you leave.",
+   "ko": "나가기 전에 책상을 정리해 주렴."
+  },
+  {
+   "word": "make up",
+   "pos": "구동사",
+   "meaning": "화해하다, 지어내다",
+   "en": "They argued but made up quickly.",
+   "ko": "그들은 다퉜지만 금방 화해했어."
+  },
+  {
+   "word": "clarity",
+   "pos": "명사",
+   "meaning": "명료함",
+   "en": "Her speech had great clarity.",
+   "ko": "그녀의 연설은 아주 명료했어."
+  }
+ ],
+ "imageSense": "대표 의미: 먹구름이 걷히고 햇살이 비치는 하늘",
+ "imageCaption": "비가 그치고 구름이 싹 걷히며 파란 하늘이 드러나는 순간을 떠올려 보세요.",
+ "movieLineEn": "The sky will clear up by noon.",
+ "movieLineKo": "정오쯤이면 하늘이 갤 거야.",
+ "storyTitle": "오해가 풀리는 날",
+ "story": "비 오는 날, 지민이는 친구와 오해가 생겼어요. 날씨가 clear up(개다)하자 지민이는 용기를 내 상황을 clarify(분명히 하다)했죠. 둘은 바로 make up(화해하다)하고 함께 교실을 clean up(청소하다)했어요. 그런데 오해의 이유는… 친구가 지민이 간식을 먹은 게 아니라, 지민이가 자기 간식을 잊고 있었던 거였어요!"
+}

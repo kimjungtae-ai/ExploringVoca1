@@ -1,0 +1,68 @@
+{
+ "word": "shipping charge",
+ "pos": "명사구",
+ "phonetic": "[ˈʃɪpɪŋ tʃɑːrdʒ]",
+ "meaning": "배송비, 운송료",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "shipping",
+   "meaning": "배송, 운송 (shipping)",
+   "note": "ship(배)에서 온 말로, 원래 배로 실어 보내는 것이었어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "charge",
+   "meaning": "요금 (charge)",
+   "note": "라틴어 carricare(수레에 싣다)에서 온 말로 '짐 → 부담 → 요금'이 되었어요."
+  }
+ ],
+ "summary": "<strong>shipping</strong> (배송) + <strong>charge</strong> (요금) = '물건을 보내는 데 드는 요금'이라서 <strong>'배송비'</strong>예요.",
+ "historyTitle": "배와 수레에서 온 말",
+ "historyBody": "shipping은 ship(배)에서 왔어요. 옛날에는 물건을 멀리 보낼 때 주로 배를 썼기 때문에, 지금은 트럭이나 비행기로 보내도 shipping이라고 해요. charge는 고대 프랑스어 'chargier'를 거쳐 후기 라틴어 'carricare(수레에 짐을 싣다)'에서 왔어요. 짐을 '지우는 것'에서 '비용을 물리다'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "shipping fee",
+   "pos": "명사구",
+   "meaning": "배송비",
+   "en": "The shipping fee is free for orders over $50.",
+   "ko": "50달러 이상 주문 시 배송비는 무료예요."
+  },
+  {
+   "word": "delivery",
+   "pos": "명사",
+   "meaning": "배달, 배송",
+   "en": "The delivery arrived a day early.",
+   "ko": "배송이 하루 일찍 도착했어요."
+  },
+  {
+   "word": "free shipping",
+   "pos": "명사구",
+   "meaning": "무료 배송",
+   "en": "This online store offers free shipping.",
+   "ko": "이 온라인 상점은 무료 배송을 제공해요."
+  },
+  {
+   "word": "in charge of",
+   "pos": "숙어",
+   "meaning": "~을 책임지는, 담당하는",
+   "en": "Ms. Kim is in charge of the science club.",
+   "ko": "김 선생님이 과학 동아리를 담당하세요."
+  },
+  {
+   "word": "shipment",
+   "pos": "명사",
+   "meaning": "배송품, 선적",
+   "en": "The shipment will arrive next Tuesday.",
+   "ko": "배송품은 다음 주 화요일에 도착할 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 온라인 장바구니 화면에 '배송비 3,000원'이 붙는 장면",
+ "imageCaption": "장바구니에 물건을 담고 결제하려는 순간 '배송비'가 추가되어 깜짝 놀라는 모습을 떠올려 보세요.",
+ "movieLineEn": "The shipping charge costs more than the item itself!",
+ "movieLineKo": "배송비가 물건 값보다 더 비싸잖아!",
+ "storyTitle": "배송비의 마법",
+ "story": "나는 1,000원짜리 지우개를 온라인으로 주문하려다 shipping charge(배송비)가 3,000원인 걸 봤어요. free shipping(무료 배송)을 받으려고 이것저것 담다 보니 5만 원어치가 됐죠. 며칠 뒤 delivery(배송) 상자가 도착했는데, 정작 지우개만 빠져 있었어요!"
+}

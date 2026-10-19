@@ -1,0 +1,68 @@
+{
+ "word": "make it",
+ "pos": "숙어",
+ "phonetic": "[meɪk ɪt]",
+ "meaning": "성공하다, 해내다, (제시간에) 도착하다, 참석하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "make",
+   "meaning": "만들다, 해내다 (make)",
+   "note": "무언가를 이루어 낸다는 힘을 담고 있어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "it",
+   "meaning": "그것 (it)",
+   "note": "특별히 가리키는 대상 없이 '상황, 목표'를 막연히 나타내요."
+  }
+ ],
+ "summary": "<strong>make</strong> (해내다) + <strong>it</strong> (그것, 목표) = '목표하던 그것을 해내다'에서 <strong>'성공하다, 제시간에 도착하다'</strong>",
+ "historyTitle": "막연한 it이 만드는 관용 표현",
+ "historyBody": "make는 고대 영어 macian에서 온 기본 동사예요. 'make it'에서 it은 구체적인 물건이 아니라 '목표, 약속, 상황'을 막연히 가리켜서, 단어만으로는 뜻을 짐작하기 어려운 관용 표현이 되었어요. 언제부터 이런 뜻이 생겼는지 정확한 기원은 분명하지 않아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "make up for",
+   "pos": "구동사",
+   "meaning": "~을 보충하다, 만회하다",
+   "en": "I studied all weekend to make up for lost time.",
+   "ko": "잃어버린 시간을 만회하려고 주말 내내 공부했어요."
+  },
+  {
+   "word": "make sense",
+   "pos": "숙어",
+   "meaning": "말이 되다, 이해되다",
+   "en": "Your explanation makes sense to me.",
+   "ko": "네 설명은 이해가 돼요."
+  },
+  {
+   "word": "make the most of",
+   "pos": "숙어",
+   "meaning": "~을 최대한 활용하다",
+   "en": "Make the most of your summer vacation.",
+   "ko": "여름 방학을 최대한 활용하세요."
+  },
+  {
+   "word": "succeed",
+   "pos": "동사",
+   "meaning": "성공하다",
+   "en": "He succeeded in his third attempt.",
+   "ko": "그는 세 번째 시도에서 성공했어요."
+  },
+  {
+   "word": "make one's way",
+   "pos": "숙어",
+   "meaning": "나아가다, 가다",
+   "en": "We made our way through the crowd.",
+   "ko": "우리는 군중 사이를 헤치고 나아갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 문이 닫히기 직전 지하철에 간신히 올라타는 장면",
+ "imageCaption": "숨을 헐떡이며 '해냈다!' 하고 외치는 순간을 떠올려 보세요.",
+ "movieLineEn": "We made it! We're actually alive!",
+ "movieLineKo": "해냈어! 우리 진짜 살아 있어!",
+ "storyTitle": "지각 대장의 기적",
+ "story": "지각 대장 준수가 오늘은 꼭 make it(제시간에 도착하다)하겠다고 다짐했어요. 지난주 지각을 make up for(만회하다)하려고 새벽에 일어났죠. 시간을 make the most of(최대한 활용하다)하며 달려 교문에 도착! 그런데 오늘은 개교기념일이었어요."
+}

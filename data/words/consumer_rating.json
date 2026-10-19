@@ -1,0 +1,68 @@
+{
+ "word": "consumer rating",
+ "pos": "명사구",
+ "phonetic": "[kənˈsuːmər ˈreɪtɪŋ]",
+ "meaning": "소비자 평점, 소비자 평가",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "consumer",
+   "meaning": "소비자 (consumer)",
+   "note": "consume(소비하다)+-er(~하는 사람)이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "rating",
+   "meaning": "평가, 등급, 평점 (rating)",
+   "note": "rate(평가하다)+-ing로 매긴 점수를 말해요."
+  }
+ ],
+ "summary": "<strong>consumer</strong> (소비자) + <strong>rating</strong> (평점) = '소비자가 매긴 점수'에서 <strong>'소비자 평점'</strong>",
+ "historyTitle": "'다 써 버리다' consumere",
+ "historyBody": "consume은 라틴어 'con-(완전히)'와 'sumere(취하다)'가 합쳐진 consumere(다 써 버리다)에서 왔어요. rate는 중세 라틴어 'rata(정해진 몫)'에서 왔고, 라틴어 'reri(계산하다)'와 관련 있어요. 수능 도표 문제에 '소비자 평점' 같은 자료가 자주 나오니 꼭 익혀 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "consume",
+   "pos": "동사",
+   "meaning": "소비하다, 먹다",
+   "en": "Americans consume a lot of sugar.",
+   "ko": "미국인들은 설탕을 많이 소비해요."
+  },
+  {
+   "word": "consumption",
+   "pos": "명사",
+   "meaning": "소비",
+   "en": "Energy consumption rises in winter.",
+   "ko": "겨울에는 에너지 소비가 늘어요."
+  },
+  {
+   "word": "customer review",
+   "pos": "명사구",
+   "meaning": "고객 후기",
+   "en": "I always read customer reviews before buying.",
+   "ko": "나는 사기 전에 항상 고객 후기를 읽어."
+  },
+  {
+   "word": "rate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "Users rated the app five stars.",
+   "ko": "사용자들은 그 앱에 별 다섯 개를 줬어."
+  },
+  {
+   "word": "approval rating",
+   "pos": "명사구",
+   "meaning": "지지율",
+   "en": "The president's approval rating went up.",
+   "ko": "대통령의 지지율이 올랐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 쇼핑 앱 화면에 별 다섯 개와 후기가 달린 상품",
+ "imageCaption": "휴대폰 화면 속 별점 4.8과 수많은 후기를 손가락으로 넘겨 보는 장면을 떠올려 보세요.",
+ "movieLineEn": "Check the consumer ratings before you buy it.",
+ "movieLineKo": "사기 전에 소비자 평점을 확인해 봐.",
+ "storyTitle": "별점 다섯 개의 비밀",
+ "story": "나는 consumer rating(소비자 평점)이 5점인 이어폰을 샀어요. customer review(고객 후기)도 칭찬 일색이었죠. 모두가 rate(평가하다)를 최고로 했으니 믿었어요. 그런데 상자를 여니 이어폰 대신 귀마개가 들어 있었어요! 다시 후기를 자세히 보니, \"정말 조용해요, 집중이 잘 돼요\"라는 글뿐이었답니다."
+}

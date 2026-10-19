@@ -1,0 +1,68 @@
+{
+ "word": "carbon emission",
+ "pos": "명사구",
+ "phonetic": "[ˈkɑːrbən iˈmɪʃn]",
+ "meaning": "탄소 배출, 탄소 배출량",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "carbon",
+   "meaning": "탄소 (carbon)",
+   "note": "라틴어 carbo(숯)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "emission",
+   "meaning": "배출, 방출 (release)",
+   "note": "라틴어 e-(밖으로)+mittere(보내다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>carbon</strong> (탄소) + <strong>emission</strong> (밖으로 내보냄) = <strong>'탄소를 공기 중으로 내보내는 것, 탄소 배출'</strong>이에요.",
+ "historyTitle": "숯(carbo)과 밖으로 보내기(emittere)",
+ "historyBody": "carbon은 18세기 말 프랑스 화학자 라부아지에 시대에 라틴어 carbo(숯)를 바탕으로 만든 프랑스어 carbone에서 왔어요. emission은 라틴어 emittere, 즉 e-(밖으로)와 mittere(보내다)가 합쳐진 말이에요. 수능 환경 지문의 단골 표현이니 꼭 알아 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "emit",
+   "pos": "동사",
+   "meaning": "내뿜다, 배출하다",
+   "en": "Cars emit harmful gases.",
+   "ko": "자동차는 해로운 가스를 내뿜어요."
+  },
+  {
+   "word": "carbon footprint",
+   "pos": "명사구",
+   "meaning": "탄소 발자국",
+   "en": "Riding a bike reduces your carbon footprint.",
+   "ko": "자전거를 타면 탄소 발자국이 줄어요."
+  },
+  {
+   "word": "carbon dioxide",
+   "pos": "명사구",
+   "meaning": "이산화탄소",
+   "en": "Plants take in carbon dioxide.",
+   "ko": "식물은 이산화탄소를 흡수해요."
+  },
+  {
+   "word": "greenhouse gas",
+   "pos": "명사구",
+   "meaning": "온실가스",
+   "en": "Methane is a powerful greenhouse gas.",
+   "ko": "메탄은 강력한 온실가스예요."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다, 전염시키다",
+   "en": "Mosquitoes can transmit diseases.",
+   "ko": "모기는 질병을 옮길 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공장 굴뚝에서 회색 연기가 하늘로 뿜어져 나오는 장면",
+ "imageCaption": "굴뚝이나 자동차 배기구에서 연기가 '밖으로' 나가는 모습을 떠올려 보세요.",
+ "movieLineEn": "If we don't cut carbon emissions now, there won't be a later.",
+ "movieLineKo": "지금 탄소 배출을 줄이지 않으면, 나중이란 없어.",
+ "storyTitle": "환경 지킴이 가족",
+ "story": "우리 가족은 carbon emission(탄소 배출)을 줄이기로 했어요. 아빠는 차 대신 자전거로 carbon footprint(탄소 발자국)를 줄였고, 엄마는 전기를 아꼈죠. 그런데 동생이 '나는 방귀를 참겠다'고 선언했어요. 그건 greenhouse gas(온실가스)지만 emit(배출하다)을 막다간 큰일 날 것 같아요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "look forward to",
+ "pos": "구동사",
+ "phonetic": "[lʊk ˈfɔːrwərd tuː]",
+ "meaning": "~을 고대하다, 손꼽아 기다리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "look",
+   "meaning": "보다 (look)",
+   "note": "무언가를 '바라본다'는 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "forward",
+   "meaning": "앞으로 (forward)",
+   "note": "시선이 '미래 쪽 앞'을 향한다는 걸 보여 줘요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~을 향해 (to)",
+   "note": "기다리는 대상을 연결해요. 이 to는 전치사라 뒤에 명사나 -ing가 와요."
+  }
+ ],
+ "summary": "<strong>look</strong> (보다) + <strong>forward</strong> (앞으로) + <strong>to</strong> (~을 향해) = '앞날의 ~을 향해 내다보다'에서 <strong>'~을 고대하다'</strong>",
+ "historyTitle": "앞을 내다보는 기대",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 온 아주 오래된 영어 단어예요. 혼자서는 '보다'지만 뒤에 붙는 연결어에 따라 after(뒤를 봐주다), up(위로 찾아보다), over(훑어보다), forward(앞을 내다보다)처럼 뜻이 다양하게 바뀌어요. 그래서 수능 구동사의 단골이랍니다. 특히 look forward to의 to는 전치사라서 뒤에 동사원형이 아닌 명사나 동명사(-ing)가 와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "look forward to doing",
+   "pos": "숙어",
+   "meaning": "~하기를 고대하다",
+   "en": "I look forward to hearing from you.",
+   "ko": "너의 소식을 기다릴게."
+  },
+  {
+   "word": "can't wait to",
+   "pos": "숙어",
+   "meaning": "빨리 ~하고 싶다",
+   "en": "I can't wait to see the movie.",
+   "ko": "그 영화 빨리 보고 싶어."
+  },
+  {
+   "word": "anticipate",
+   "pos": "동사",
+   "meaning": "기대하다, 예상하다",
+   "en": "We anticipate a big crowd at the concert.",
+   "ko": "콘서트에 많은 관중이 올 것으로 예상해."
+  },
+  {
+   "word": "look back on",
+   "pos": "구동사",
+   "meaning": "~을 회상하다",
+   "en": "I often look back on my childhood.",
+   "ko": "나는 종종 어린 시절을 회상해."
+  },
+  {
+   "word": "forward",
+   "pos": "부사",
+   "meaning": "앞으로",
+   "en": "Please step forward.",
+   "ko": "앞으로 나와 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력에 동그라미 친 날을 손꼽아 기다리는 장면",
+ "imageCaption": "창밖을 바라보며 다가올 소풍날을 설레며 기다리는 모습을 떠올려 보세요.",
+ "movieLineEn": "I've been looking forward to this day for ten long years.",
+ "movieLineKo": "나는 이날을 10년 동안 손꼽아 기다려 왔어.",
+ "storyTitle": "기다림의 끝",
+ "story": "현우는 놀이공원 소풍을 look forward to(~을 고대하다) 했어요. 빨리 가고 can't wait to(빨리 ~하고 싶다) 해서 잠도 못 잤죠. 드디어 소풍날, 잔뜩 anticipate(기대하다) 하며 도착했는데 문에 '정기 휴일' 팻말이! 하지만 나중에 look back on(~을 회상하다) 해 보니, 친구들과 문 앞에서 먹은 김밥이 최고였대요."
+}

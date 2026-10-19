@@ -1,0 +1,68 @@
+{
+ "word": "plenty of",
+ "pos": "형용사구 / 숙어",
+ "phonetic": "[ˈplenti əv]",
+ "meaning": "많은, 충분한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "plenty",
+   "meaning": "풍부함, 많음 (plenty)",
+   "note": "라틴어 plenus(가득 찬)에서 온 말이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "무엇이 많은지 그 대상을 연결해 줘요."
+  }
+ ],
+ "summary": "<strong>plenty</strong> (가득함) + <strong>of</strong> (~의) = '~이 가득함'에서 <strong>'많은, 충분한'</strong>",
+ "historyTitle": "'가득 찬'에서 온 plenty",
+ "historyBody": "plenty는 라틴어 plenus(가득 찬)에서 나온 plenitas(충만함)가 고대 프랑스어 plente를 거쳐 들어온 말이에요. full(가득 찬)과도 먼 친척이에요. plenty of는 셀 수 있는 명사와 셀 수 없는 명사 모두에 쓸 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "plentiful",
+   "pos": "형용사",
+   "meaning": "풍부한",
+   "en": "Fish are plentiful in this lake.",
+   "ko": "이 호수에는 물고기가 풍부해요."
+  },
+  {
+   "word": "a lot of",
+   "pos": "숙어",
+   "meaning": "많은",
+   "en": "A lot of people visit Jeju in summer.",
+   "ko": "여름에 많은 사람이 제주를 찾아요."
+  },
+  {
+   "word": "enough",
+   "pos": "형용사",
+   "meaning": "충분한",
+   "en": "We have enough time to finish.",
+   "ko": "끝낼 시간이 충분해요."
+  },
+  {
+   "word": "complete",
+   "pos": "동사 / 형용사",
+   "meaning": "완성하다 / 완전한",
+   "en": "Please complete the form in pen.",
+   "ko": "양식을 펜으로 작성해 주세요."
+  },
+  {
+   "word": "supply",
+   "pos": "명사 / 동사",
+   "meaning": "공급 / 공급하다",
+   "en": "The village has a good supply of fresh water.",
+   "ko": "그 마을에는 깨끗한 물이 충분히 공급돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 냉장고 안에 음식이 가득 차 있는 장면",
+ "imageCaption": "문을 열자 과일과 음료가 꽉 찬 냉장고를 떠올려 보세요. 충분하고도 남아요!",
+ "movieLineEn": "Relax, we've got plenty of time.",
+ "movieLineKo": "진정해, 시간은 충분해.",
+ "storyTitle": "넉넉한 간식의 함정",
+ "story": "소풍날 엄마는 plenty of(많은) 김밥을 싸 주셨어요. 과일도 plentiful(풍부한)했죠. 친구들과 나눠 먹어도 enough(충분한)할 줄 알았어요. 그런데 도시락을 여는 순간 비둘기 떼가 날아왔어요. 결국 우리 반은 비둘기들과 사이좋게 나눠 먹었답니다."
+}

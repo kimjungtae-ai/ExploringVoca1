@@ -1,0 +1,68 @@
+{
+ "word": "set up",
+ "pos": "구동사",
+ "phonetic": "[set ʌp]",
+ "meaning": "설치하다, 세우다, 설립하다, 준비하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "set",
+   "meaning": "놓다, 두다 (place)",
+   "note": "무엇을 정해진 자리에 놓는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 완전히 (up)",
+   "note": "위로 세워 올리고 완전히 갖추는 이미지예요."
+  }
+ ],
+ "summary": "<strong>set</strong> (놓다) + <strong>up</strong> (위로) = '위로 세워 놓다'에서 <strong>'설치하다, 설립하다'</strong>가 되었어요.",
+ "historyTitle": "세워서 갖추는 그림",
+ "historyBody": "set은 고대 영어 'settan(놓다)'에서 왔어요. up이 붙어 '세워 올려 두다'라는 그림이 되었고, 여기서 텐트나 장비를 '설치하다', 회사나 단체를 '세우다(설립하다)'라는 뜻이 나왔어요. 명사 setup은 '설정, 구성'이라는 뜻으로 컴퓨터에서도 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "establish",
+   "pos": "동사",
+   "meaning": "설립하다, 확립하다",
+   "en": "The school was established in 1950.",
+   "ko": "그 학교는 1950년에 설립되었어요."
+  },
+  {
+   "word": "put up",
+   "pos": "구동사",
+   "meaning": "세우다, 게시하다",
+   "en": "They put up a fence around the garden.",
+   "ko": "그들은 정원 주위에 울타리를 세웠어요."
+  },
+  {
+   "word": "set aside",
+   "pos": "구동사",
+   "meaning": "따로 떼어 두다",
+   "en": "I set aside some time for reading.",
+   "ko": "나는 독서를 위해 시간을 따로 떼어 두었어요."
+  },
+  {
+   "word": "install",
+   "pos": "동사",
+   "meaning": "설치하다",
+   "en": "A technician came to install the air conditioner.",
+   "ko": "기술자가 에어컨을 설치하러 왔어요."
+  },
+  {
+   "word": "setup",
+   "pos": "명사",
+   "meaning": "설정, 구성",
+   "en": "The camera setup took only five minutes.",
+   "ko": "카메라 설정은 5분밖에 안 걸렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 캠핑장에서 텐트를 세우고 의자를 펼치는 장면",
+ "imageCaption": "캠핑장에 도착해 텐트 기둥을 세우고 의자와 테이블을 펼쳐 놓는 모습을 떠올려 보세요. 하나씩 세워서 갖추는 게 set up이에요.",
+ "movieLineEn": "Set up the camera. We go live in five minutes.",
+ "movieLineKo": "카메라 설치해. 5분 뒤 생방송이야.",
+ "storyTitle": "캠핑 대작전",
+ "story": "아빠가 캠핑장에서 텐트를 set up(설치하다)하겠다며 큰소리쳤어요. 설명서도 안 보고 기둥을 put up(세우다)했죠. 한 시간 뒤 텐트는 완성됐는데 문이 땅바닥 쪽에 있었어요. 엄마는 조용히 install(설치하다)하는 법 영상을 틀었고, 결국 아빠는 차에서 주무셨답니다."
+}

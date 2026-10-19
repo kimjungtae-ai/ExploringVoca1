@@ -1,0 +1,68 @@
+{
+ "word": "carry-on luggage",
+ "pos": "명사구",
+ "phonetic": "[ˈkæri ɑːn ˈlʌɡɪdʒ]",
+ "meaning": "기내 휴대 수하물, 기내용 짐",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "carry-on",
+   "meaning": "들고 타는, 기내 반입용의 (carry on)",
+   "note": "carry(나르다)+on(위에, 올라타서)이 합쳐져 '들고 타는'이란 뜻이 돼요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "luggage",
+   "meaning": "짐, 수하물 (luggage)",
+   "note": "여행할 때 들고 다니는 가방과 짐을 말해요."
+  }
+ ],
+ "summary": "<strong>carry-on</strong> (들고 타는) + <strong>luggage</strong> (짐) = '비행기에 직접 들고 타는 짐'에서 <strong>'기내 휴대 수하물'</strong>",
+ "historyTitle": "'끌고 다니는 짐' luggage",
+ "historyBody": "luggage는 16세기 영어에서 '질질 끌다'라는 뜻의 동사 lug에 -age가 붙어 생긴 말이에요. 무거워서 끌고 다녀야 하는 짐이라는 재미있는 느낌이 담겨 있죠. carry는 라틴어 'carrus(수레)'에서 온 앵글로-노르만 프랑스어 carier를 거쳐 들어온 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "baggage",
+   "pos": "명사",
+   "meaning": "짐, 수하물",
+   "en": "Please pick up your baggage at gate 3.",
+   "ko": "3번 게이트에서 짐을 찾아 주세요."
+  },
+  {
+   "word": "check in",
+   "pos": "구동사",
+   "meaning": "(짐을) 부치다, 탑승 수속하다",
+   "en": "We checked in our suitcases at the airport.",
+   "ko": "우리는 공항에서 여행 가방을 부쳤어."
+  },
+  {
+   "word": "carry on",
+   "pos": "구동사",
+   "meaning": "계속하다",
+   "en": "Carry on with your work; I'll wait.",
+   "ko": "하던 일 계속해, 내가 기다릴게."
+  },
+  {
+   "word": "suitcase",
+   "pos": "명사",
+   "meaning": "여행 가방",
+   "en": "My suitcase was too heavy to lift.",
+   "ko": "내 여행 가방은 너무 무거워서 들 수가 없었어."
+  },
+  {
+   "word": "baggage claim",
+   "pos": "명사구",
+   "meaning": "수하물 찾는 곳",
+   "en": "We waited at baggage claim for an hour.",
+   "ko": "우리는 수하물 찾는 곳에서 한 시간을 기다렸어."
+  }
+ ],
+ "imageSense": "대표 의미: 비행기 좌석 위 선반에 작은 캐리어를 올리는 장면",
+ "imageCaption": "좁은 비행기 통로에서 작은 바퀴 가방을 머리 위 선반에 밀어 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "Your carry-on luggage must fit under the seat.",
+ "movieLineKo": "기내 휴대 수하물은 좌석 아래에 들어가야 합니다.",
+ "storyTitle": "기내 가방 속 비밀",
+ "story": "준호는 suitcase(여행 가방)를 check in(부치다)하고, 작은 carry-on luggage(기내 휴대 수하물)만 들고 탔어요. 그런데 가방이 꿈틀거렸죠! 승무원이 열어 보니 강아지가 \"멍!\" baggage claim(수하물 찾는 곳)까지 못 기다린 강아지가 몰래 숨은 거예요. 다행히 그건 로봇 강아지였어요!"
+}

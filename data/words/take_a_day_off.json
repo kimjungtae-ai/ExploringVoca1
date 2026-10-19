@@ -1,0 +1,74 @@
+{
+ "word": "take a day off",
+ "pos": "숙어",
+ "phonetic": "[teɪk ə deɪ ɔːf]",
+ "meaning": "하루 휴가를 내다, 하루 쉬다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "take",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "무언가를 손에 쥐어 내 것으로 가져오는 느낌이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "day",
+   "meaning": "하루, 날 (day)",
+   "note": "쉬는 기간의 단위를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "off",
+   "meaning": "떨어져서, 쉬는 (off)",
+   "note": "일에서 '떨어져' 나와 있다는 이미지예요."
+  }
+ ],
+ "summary": "<strong>take</strong> (취하다) + <strong>a day</strong> (하루) + <strong>off</strong> (일에서 떨어져) = '일에서 떨어진 하루를 가지다'에서 <strong>'하루 쉬다'</strong>",
+ "historyTitle": "일에서 '떨어지는' off",
+ "historyBody": "take는 고대 노르드어 taka(잡다, 쥐다)에서 고대 영어 후기에 들어온 말이에요. off는 of와 같은 뿌리로 '~에서 떨어져'라는 뜻인데, 일이나 근무에서 떨어져 있다는 의미로 확장되었어요. 그래서 a day off는 '쉬는 날', take a day off는 '하루 휴가를 내다'가 돼요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "day off",
+   "pos": "명사구",
+   "meaning": "쉬는 날",
+   "en": "Monday is my day off.",
+   "ko": "월요일은 제가 쉬는 날이에요."
+  },
+  {
+   "word": "take time off",
+   "pos": "숙어",
+   "meaning": "휴가를 내다",
+   "en": "She took time off to travel around Europe.",
+   "ko": "그녀는 유럽을 여행하려고 휴가를 냈어요."
+  },
+  {
+   "word": "time off",
+   "pos": "명사구",
+   "meaning": "휴식 시간, 휴가",
+   "en": "Everyone needs some time off now and then.",
+   "ko": "누구나 가끔은 쉬는 시간이 필요해요."
+  },
+  {
+   "word": "call in sick",
+   "pos": "숙어",
+   "meaning": "병가를 내다",
+   "en": "He called in sick because of a fever.",
+   "ko": "그는 열이 나서 병가를 냈어요."
+  },
+  {
+   "word": "take a break",
+   "pos": "숙어",
+   "meaning": "잠깐 쉬다",
+   "en": "You look tired. Why don't you take a break?",
+   "ko": "피곤해 보여요. 잠깐 쉬는 게 어때요?"
+  }
+ ],
+ "imageSense": "대표 의미: 달력에 동그라미를 치고 하루 회사에 안 가고 쉬는 장면",
+ "imageCaption": "출근 가방을 내려놓고 하루 종일 해먹에 누워 있는 직장인을 떠올려 보세요.",
+ "movieLineEn": "You've worked so hard. Take a day off tomorrow.",
+ "movieLineKo": "정말 열심히 일했잖아. 내일은 하루 쉬어.",
+ "storyTitle": "완벽한 휴일",
+ "story": "아빠는 큰맘 먹고 take a day off(하루 휴가를 내다)했어요. 늦잠 자고 take a break(쉬다)하며 완벽한 day off(쉬는 날)를 즐기려 했죠. 그런데 아침부터 엄마가 장보기, 청소, 세차 목록을 내밀었어요. 아빠는 다음 날 회사에서 말했어요. \"time off(휴가)가 출근보다 더 힘들어요!\""
+}

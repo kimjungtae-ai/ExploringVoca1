@@ -1,0 +1,74 @@
+{
+ "word": "look to do",
+ "pos": "숙어",
+ "phonetic": "[lʊk tuː duː]",
+ "meaning": "~하려고 하다, ~하기를 기대하다(계획하다)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "look",
+   "meaning": "보다, 바라다 (look)",
+   "note": "앞일을 '바라본다'는 뜻을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~하려고 (to부정사)",
+   "note": "바라보는 목표 행동을 to부정사로 연결해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "do",
+   "meaning": "하다 (do)",
+   "note": "하려는 '행동'을 나타내요."
+  }
+ ],
+ "summary": "<strong>look</strong> (바라보다) + <strong>to do</strong> (~할 것을) = '~할 것을 바라보다'에서 <strong>'~하려고 하다, ~하기를 기대하다'</strong>",
+ "historyTitle": "'기대하다'라는 뜻의 look",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 온 아주 오래된 영어 단어예요. 혼자서는 '보다'지만 뒤에 붙는 연결어에 따라 after(뒤를 봐주다), up(위로 찾아보다), over(훑어보다), forward(앞을 내다보다)처럼 뜻이 다양하게 바뀌어요. 그래서 수능 구동사의 단골이랍니다. look to do는 'The company is looking to hire new staff.'처럼 '~할 계획이다, ~하려고 하다'라는 뜻으로 신문·비즈니스 영어에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "look to",
+   "pos": "구동사",
+   "meaning": "~에 기대다, 의지하다",
+   "en": "Many students look to their teachers for advice.",
+   "ko": "많은 학생들이 조언을 얻으려 선생님께 기대."
+  },
+  {
+   "word": "plan to do",
+   "pos": "숙어",
+   "meaning": "~할 계획이다",
+   "en": "We plan to visit Busan this summer.",
+   "ko": "우리는 이번 여름에 부산에 갈 계획이야."
+  },
+  {
+   "word": "intend to do",
+   "pos": "숙어",
+   "meaning": "~할 작정이다",
+   "en": "I intend to finish this book tonight.",
+   "ko": "나는 오늘 밤 이 책을 다 읽을 작정이야."
+  },
+  {
+   "word": "aim to do",
+   "pos": "숙어",
+   "meaning": "~하는 것을 목표로 하다",
+   "en": "The team aims to win the championship.",
+   "ko": "그 팀은 우승을 목표로 해."
+  },
+  {
+   "word": "expect to do",
+   "pos": "숙어",
+   "meaning": "~할 것으로 기대하다",
+   "en": "I expect to get good grades.",
+   "ko": "나는 좋은 성적을 받을 것으로 기대해."
+  }
+ ],
+ "imageSense": "대표 의미: 회사가 새 직원을 뽑으려고 공고를 내는 장면",
+ "imageCaption": "목표를 향해 시선을 고정하고 '이걸 해 보려고 해' 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We're looking to expand our business to the moon.",
+ "movieLineKo": "우리는 사업을 달까지 확장하려고 해요.",
+ "storyTitle": "치킨집 사장님의 꿈",
+ "story": "동네 치킨집 사장님은 우주로 가게를 넓히려고 look to do(~하려고 하다) 했어요. 내년엔 달에 지점을 낼 plan to do(~할 계획이다) 하셨죠. 모두 웃었지만 사장님은 진지하게 aim to do(~을 목표로 하다) 했어요. 1년 뒤 정말로 '달' 지점이 생겼어요. 이름이 '달님 치킨'인 동네 2호점이었지만요!"
+}

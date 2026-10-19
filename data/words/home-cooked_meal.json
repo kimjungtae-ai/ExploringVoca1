@@ -1,0 +1,74 @@
+{
+ "word": "home-cooked meal",
+ "pos": "명사구",
+ "phonetic": "[ˌhoʊm ˈkʊkt miːl]",
+ "meaning": "집밥, 집에서 만든 음식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "home",
+   "meaning": "집 (home)",
+   "note": "음식을 만든 장소가 '집'임을 알려 줘요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "cooked",
+   "meaning": "요리된 (cooked)",
+   "note": "cook의 과거분사로 '요리된'이라는 뜻을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "meal",
+   "meaning": "식사, 끼니 (meal)",
+   "note": "중심 의미인 '한 끼 식사'예요."
+  }
+ ],
+ "summary": "<strong>home</strong> (집) + <strong>cooked</strong> (요리된) + <strong>meal</strong> (식사) = '집에서 요리된 식사'에서 <strong>'집밥'</strong>",
+ "historyTitle": "'정해진 때'를 뜻한 meal",
+ "historyBody": "meal은 고대 영어 mǣl에서 왔는데, 원래 '정해진 때, 시점'이라는 뜻이었어요. '밥 먹는 정해진 때'에서 '끼니, 식사'로 바뀌었죠. piecemeal(조금씩)에 그 옛 뜻이 남아 있어요. cook은 라틴어 coquere(요리하다)에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "homemade",
+   "pos": "형용사",
+   "meaning": "집에서 만든, 수제의",
+   "en": "This homemade jam tastes amazing.",
+   "ko": "이 수제 잼은 맛이 끝내줘."
+  },
+  {
+   "word": "cook",
+   "pos": "동사/명사",
+   "meaning": "요리하다 / 요리사",
+   "en": "My dad cooks dinner on weekends.",
+   "ko": "아빠는 주말에 저녁을 요리하셔."
+  },
+  {
+   "word": "cuisine",
+   "pos": "명사",
+   "meaning": "요리(법)",
+   "en": "I love Italian cuisine.",
+   "ko": "나는 이탈리아 요리를 좋아해."
+  },
+  {
+   "word": "eat out",
+   "pos": "구동사",
+   "meaning": "외식하다",
+   "en": "We eat out once a week.",
+   "ko": "우리는 일주일에 한 번 외식해."
+  },
+  {
+   "word": "skip a meal",
+   "pos": "숙어",
+   "meaning": "끼니를 거르다",
+   "en": "Don't skip a meal before the exam.",
+   "ko": "시험 전에 끼니를 거르지 마."
+  }
+ ],
+ "imageSense": "대표 의미: 김이 모락모락 나는 엄마표 된장찌개 식탁 장면",
+ "imageCaption": "기숙사 생활 끝에 집에 와서 따뜻한 밥상 앞에 앉은 순간을 떠올려 보세요.",
+ "movieLineEn": "Nothing beats a home-cooked meal after a long journey.",
+ "movieLineKo": "긴 여행 뒤엔 집밥만 한 게 없지.",
+ "storyTitle": "기숙사생의 꿈",
+ "story": "기숙사에 사는 태현이는 매일 home-cooked meal(집밥)을 꿈꿨어요. 친구들과 eat out(외식하다) 해도 허전했죠. 주말에 집에 가자 아빠가 직접 cook(요리하다) 하셨대요. 기대에 차 homemade(집에서 만든) 찌개를 떠먹었는데… 기숙사 식당 맛이랑 똑같았어요. 알고 보니 아빠가 그 식당 요리사셨답니다!"
+}

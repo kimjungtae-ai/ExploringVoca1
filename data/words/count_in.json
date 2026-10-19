@@ -1,0 +1,68 @@
+{
+ "word": "count in",
+ "pos": "구동사",
+ "phonetic": "[kaʊnt ɪn]",
+ "meaning": "(활동·계획에) 끼워 주다, 포함하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "count",
+   "meaning": "세다, 계산에 넣다 (count)",
+   "note": "사람이나 물건의 수를 하나하나 센다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "안에 (in)",
+   "note": "세는 무리 '안으로' 넣는다는 이미지예요."
+  }
+ ],
+ "summary": "<strong>count</strong> (세다) + <strong>in</strong> (안에) = '인원수 안에 넣어 세다'에서 <strong>'끼워 주다, 포함하다'</strong>",
+ "historyTitle": "'함께 계산하다' computare",
+ "historyBody": "count는 라틴어 'computare(함께 계산하다)'에서 고대 프랑스어 conter를 거쳐 왔어요. computer와 같은 뿌리죠. 'Count me in!'은 '나도 끼워 줘!'라는 뜻으로 회화에서 자주 쓰이고, 반대로 'Count me out.'은 '나는 빼 줘.'라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "count out",
+   "pos": "구동사",
+   "meaning": "빼다, 제외하다",
+   "en": "If it rains, count me out.",
+   "ko": "비 오면 나는 빼 줘."
+  },
+  {
+   "word": "include",
+   "pos": "동사",
+   "meaning": "포함하다",
+   "en": "The price includes breakfast.",
+   "ko": "가격에 아침 식사가 포함돼 있어요."
+  },
+  {
+   "word": "join in",
+   "pos": "구동사",
+   "meaning": "(활동에) 참여하다",
+   "en": "Everyone joined in the singing.",
+   "ko": "모두가 노래에 함께했어."
+  },
+  {
+   "word": "count on",
+   "pos": "구동사",
+   "meaning": "~에 의지하다",
+   "en": "You can always count on me.",
+   "ko": "넌 언제나 나를 믿어도 돼."
+  },
+  {
+   "word": "countless",
+   "pos": "형용사",
+   "meaning": "셀 수 없이 많은",
+   "en": "There are countless stars in the sky.",
+   "ko": "하늘에는 셀 수 없이 많은 별이 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 친구들이 계획을 세울 때 손을 번쩍 들고 '나도!' 하는 장면",
+ "imageCaption": "\"바다 갈 사람?\" 하는 말에 손을 번쩍 들며 \"Count me in!\" 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "A road trip? Count me in!",
+ "movieLineKo": "자동차 여행? 나도 끼워 줘!",
+ "storyTitle": "나도 끼워 줘",
+ "story": "친구들이 피자 파티를 연다고 하자 유진이는 \"count in(끼워 주다) 나도!\"라고 외쳤어요. 동생도 join in(참여하다)하고 싶어 했죠. 그런데 파티 장소가 공포 영화관이라는 말에 유진이는 \"count out(빼다) 나는!\"이라며 도망쳤어요. 결국 countless(셀 수 없이 많은) 피자는 동생 혼자 다 먹었답니다."
+}

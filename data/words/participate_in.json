@@ -1,0 +1,68 @@
+{
+ "word": "participate in",
+ "pos": "구동사",
+ "phonetic": "[pɑːrˈtɪsɪpeɪt ɪn]",
+ "meaning": "~에 참가하다, ~에 참여하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "participate",
+   "meaning": "참여하다 (participate)",
+   "note": "라틴어 pars(부분) + capere(잡다)로 '한 부분을 맡다'예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "활동이나 행사 '안으로' 들어간다는 느낌이에요."
+  }
+ ],
+ "summary": "<strong>participate</strong> (한 부분을 맡다) + <strong>in</strong> (~ 안에서) = '어떤 활동 안에서 한몫을 맡다'에서 <strong>'~에 참가하다'</strong>",
+ "historyTitle": "'부분을 잡다'에서 온 participate",
+ "historyBody": "participate는 라틴어 participare에서 왔어요. pars(부분)와 capere(잡다, 가지다)가 합쳐져 '전체 중 내 몫을 갖다'라는 뜻이 되었죠. part(부분), particle(입자), capture(포착하다)와 뿌리가 이어져 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "participant",
+   "pos": "명사",
+   "meaning": "참가자",
+   "en": "Each participant received a free T-shirt.",
+   "ko": "참가자마다 무료 티셔츠를 받았어요."
+  },
+  {
+   "word": "participation",
+   "pos": "명사",
+   "meaning": "참여, 참가",
+   "en": "Your participation in class is important.",
+   "ko": "수업 참여는 중요해요."
+  },
+  {
+   "word": "take part in",
+   "pos": "숙어",
+   "meaning": "~에 참가하다",
+   "en": "Over 100 students took part in the contest.",
+   "ko": "100명이 넘는 학생이 대회에 참가했어요."
+  },
+  {
+   "word": "join",
+   "pos": "동사",
+   "meaning": "가입하다, 함께하다",
+   "en": "I joined the school band last year.",
+   "ko": "나는 작년에 학교 밴드에 들어갔어요."
+  },
+  {
+   "word": "particle",
+   "pos": "명사",
+   "meaning": "입자, 작은 조각",
+   "en": "Dust particles floated in the sunlight.",
+   "ko": "먼지 입자가 햇빛 속에 떠다녔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손을 번쩍 들고 행사에 참여하는 학생들",
+ "imageCaption": "운동회에서 줄다리기 줄을 함께 잡은 반 친구들을 떠올려 보세요. 모두 한 부분을 맡고 있죠.",
+ "movieLineEn": "Everyone must participate in the final battle!",
+ "movieLineKo": "모두 최후의 전투에 참가해야 한다!",
+ "storyTitle": "참가상의 주인공",
+ "story": "나는 교내 요리 대회에 participate in(~에 참가하다)했어요. 다른 participant(참가자)들은 화려한 요리를 만들었죠. 나는 라면을 끓였어요. 결과 발표에서 심사위원이 말했어요. \"가장 열정적인 participation(참여)상!\" 사실 심사위원이 배가 고파 내 라면을 다 드셨거든요."
+}

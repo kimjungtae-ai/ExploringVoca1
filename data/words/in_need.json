@@ -1,0 +1,68 @@
+{
+ "word": "in need",
+ "pos": "전치사구",
+ "phonetic": "[ɪn niːd]",
+ "meaning": "어려움에 처한, 도움이 필요한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 상태에 있는 (in)",
+   "note": "'어떤 상태 안에 있다'는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "need",
+   "meaning": "필요, 궁핍 (need)",
+   "note": "무언가가 부족하고 '필요한' 상태를 뜻해요."
+  }
+ ],
+ "summary": "<strong>in</strong> (~ 상태에) + <strong>need</strong> (필요, 궁핍) = '필요가 채워지지 않은 상태에'에서 <strong>'어려움에 처한, 도움이 필요한'</strong>",
+ "historyTitle": "고대 영어 nēd, '고난'에서",
+ "historyBody": "need는 고대 영어 nēd(필요, 고난, 압박)에서 왔어요. 옛날에는 '괴로움, 곤경'이라는 무거운 뜻이 강했죠. 그래서 in need는 단순히 '필요한'보다 '어려운 처지에 있는'이라는 뜻으로 쓰여요. 'A friend in need is a friend indeed.'라는 유명한 속담도 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "people in need",
+   "pos": "명사구",
+   "meaning": "어려운 사람들",
+   "en": "We collected clothes for people in need.",
+   "ko": "우리는 어려운 사람들을 위해 옷을 모았어."
+  },
+  {
+   "word": "in need of",
+   "pos": "숙어",
+   "meaning": "~이 필요한",
+   "en": "The old house is in need of repair.",
+   "ko": "그 낡은 집은 수리가 필요해."
+  },
+  {
+   "word": "needy",
+   "pos": "형용사",
+   "meaning": "궁핍한, 가난한",
+   "en": "The charity helps needy families.",
+   "ko": "그 자선 단체는 가난한 가정을 도와."
+  },
+  {
+   "word": "in trouble",
+   "pos": "전치사구",
+   "meaning": "곤경에 처한",
+   "en": "Call me if you're in trouble.",
+   "ko": "곤란한 일 생기면 나한테 전화해."
+  },
+  {
+   "word": "in want",
+   "pos": "숙어",
+   "meaning": "궁핍한",
+   "en": "No child should live in want.",
+   "ko": "어떤 아이도 궁핍하게 살아서는 안 돼."
+  }
+ ],
+ "imageSense": "대표 의미: 추운 겨울 이웃에게 연탄과 담요를 나눠 주는 장면",
+ "imageCaption": "도움의 손길을 기다리는 사람에게 따뜻한 손을 내미는 모습을 떠올려 보세요.",
+ "movieLineEn": "A friend in need is a friend indeed.",
+ "movieLineKo": "어려울 때 친구가 진짜 친구야.",
+ "storyTitle": "진짜 친구",
+ "story": "시험 전날 수빈이는 필기 노트가 없어 in need(곤경에 처한) 상태였어요. in need of(~이 필요한) 노트를 외치자 친구 셋이 달려왔죠. 하지만 한 명은 in trouble(곤경에 처한) 상태로 자기 노트도 없었고, 한 명은 낙서뿐이었어요. 마지막 친구가 내민 건 완벽한 노트! 바로 수빈이가 작년에 빌려준 거였어요."
+}

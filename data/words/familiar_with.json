@@ -1,0 +1,68 @@
+{
+ "word": "familiar with",
+ "pos": "형용사구",
+ "phonetic": "[fəˈmɪliər wɪð]",
+ "meaning": "~을 잘 아는, ~에 익숙한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "familiar",
+   "meaning": "친숙한, 익숙한 (familiar)",
+   "note": "family(가족)와 같은 뿌리로 '가족처럼 잘 아는'이라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께, ~에 대해 (with)",
+   "note": "무엇과 친숙한지 그 대상을 연결해 줘요."
+  }
+ ],
+ "summary": "<strong>familiar</strong> (가족처럼 친숙한) + <strong>with</strong> (~와) = '~와 가족처럼 가까운'이라서 <strong>'~을 잘 아는, ~에 익숙한'</strong>이에요.",
+ "historyTitle": "가족만큼 잘 아는 사이",
+ "historyBody": "familiar는 라틴어 familiaris(가족의, 집안의)에서 왔고, familia(가족, 식구)와 같은 뿌리예요. 그래서 '가족처럼 자주 보아 익숙한'이라는 뜻이 되었어요. 사람이 주어면 be familiar with, 사물이 주어면 be familiar to를 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "family",
+   "pos": "명사",
+   "meaning": "가족",
+   "en": "My family goes camping every summer.",
+   "ko": "우리 가족은 여름마다 캠핑을 가요."
+  },
+  {
+   "word": "familiar to",
+   "pos": "형용사구",
+   "meaning": "~에게 익숙한",
+   "en": "His face looks familiar to me.",
+   "ko": "그의 얼굴이 나에게 낯익어 보여요."
+  },
+  {
+   "word": "unfamiliar",
+   "pos": "형용사",
+   "meaning": "낯선, 익숙하지 않은",
+   "en": "I felt nervous in the unfamiliar city.",
+   "ko": "나는 낯선 도시에서 긴장했어요."
+  },
+  {
+   "word": "familiarity",
+   "pos": "명사",
+   "meaning": "친숙함, 잘 앎",
+   "en": "Familiarity with the rules helps you play better.",
+   "ko": "규칙을 잘 알면 경기를 더 잘할 수 있어요."
+  },
+  {
+   "word": "be used to",
+   "pos": "숙어",
+   "meaning": "~에 익숙하다",
+   "en": "I'm used to waking up early.",
+   "ko": "나는 일찍 일어나는 데 익숙해요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈 감고도 동네 골목을 척척 찾아가는 모습",
+ "imageCaption": "오래 살아 구석구석 다 아는 우리 동네처럼 '훤히 아는' 느낌이에요.",
+ "movieLineEn": "Are you familiar with this place? I think we're lost.",
+ "movieLineKo": "너 이곳 잘 알아? 우리 길 잃은 것 같아.",
+ "storyTitle": "익숙한 그 얼굴",
+ "story": "새 학교에서 다 unfamiliar(낯선) 얼굴뿐이었어요. 그런데 한 선생님 얼굴이 familiar to(~에게 익숙한) 느낌이었죠. \"혹시 저랑 familiar with(잘 아는) 사이인가요?\" 선생님이 웃었어요. \"나는 네 family(가족)잖아.\" 알고 보니 10년 만에 만난 삼촌이었어요! 삼촌은 내 성적도 너무 잘 알고 있었답니다."
+}

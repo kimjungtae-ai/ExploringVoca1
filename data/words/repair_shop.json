@@ -1,0 +1,68 @@
+{
+ "word": "repair shop",
+ "pos": "명사구",
+ "phonetic": "[rɪˈper ʃɑːp]",
+ "meaning": "수리점, 정비소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "repair",
+   "meaning": "수리 (repair)",
+   "note": "re-(다시) + parare(준비하다)로 '다시 쓸 수 있게 준비하다'예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "shop",
+   "meaning": "가게, 작업장 (shop)",
+   "note": "물건을 팔거나 일을 하는 곳이에요."
+  }
+ ],
+ "summary": "<strong>repair</strong> (수리) + <strong>shop</strong> (가게) = '고쳐 주는 가게'라서 <strong>'수리점, 정비소'</strong>예요.",
+ "historyTitle": "다시 준비해 주는 곳",
+ "historyBody": "repair는 고대 프랑스어 'reparer'를 거쳐 라틴어 'reparare(다시 준비하다, 복구하다)'에서 왔어요. prepare(준비하다)와 같은 뿌리예요. shop은 고대 영어 'sceoppa(작은 헛간, 창고)'에서 왔어요. 그래서 repair shop은 망가진 물건을 다시 쓸 수 있게 해 주는 작업장이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "repair",
+   "pos": "동사/명사",
+   "meaning": "수리하다 / 수리",
+   "en": "It took two days to repair my bike.",
+   "ko": "내 자전거를 수리하는 데 이틀이 걸렸어요."
+  },
+  {
+   "word": "fix",
+   "pos": "동사",
+   "meaning": "고치다",
+   "en": "Can you fix this broken chair?",
+   "ko": "이 부서진 의자를 고쳐 줄 수 있나요?"
+  },
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "We prepared snacks for the trip.",
+   "ko": "우리는 여행을 위해 간식을 준비했어요."
+  },
+  {
+   "word": "out of order",
+   "pos": "숙어",
+   "meaning": "고장 난",
+   "en": "The elevator is out of order today.",
+   "ko": "오늘 엘리베이터가 고장 났어요."
+  },
+  {
+   "word": "workshop",
+   "pos": "명사",
+   "meaning": "작업장, 연수회",
+   "en": "My grandfather builds furniture in his workshop.",
+   "ko": "할아버지는 작업장에서 가구를 만드세요."
+  }
+ ],
+ "imageSense": "대표 의미: 기름 묻은 앞치마를 두른 기술자가 고장 난 자전거를 고치는 장면",
+ "imageCaption": "공구가 벽에 가득 걸린 작은 가게에서 기술자가 자전거를 뚝딱 고치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Take it to the repair shop. It's not my problem anymore.",
+ "movieLineKo": "수리점에 가져가. 이제 내 문제 아니야.",
+ "storyTitle": "고치는 사람",
+ "story": "내 노트북이 out of order(고장 난) 상태가 돼서 repair shop(수리점)에 갔어요. 아저씨는 금방 fix(고치다)할 수 있다며 웃으셨죠. 마음의 준비를 prepare(준비하다)하고 기다렸는데, 아저씨가 콘센트를 꽂으니 바로 켜졌어요. repair(수리) 비용은 '부끄러움'으로 대신 냈답니다."
+}

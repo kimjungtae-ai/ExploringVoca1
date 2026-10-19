@@ -1,0 +1,68 @@
+{
+ "word": "flood back",
+ "pos": "구동사",
+ "phonetic": "[flʌd bæk]",
+ "meaning": "(기억·감정이) 한꺼번에 되살아나다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "flood",
+   "meaning": "홍수; 밀려들다 (flood)",
+   "note": "물이 한꺼번에 쏟아져 들어오듯 밀려드는 이미지예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "back",
+   "meaning": "다시, 되돌아 (back)",
+   "note": "예전 것이 '되돌아온다'는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>flood</strong> (홍수처럼 밀려들다) + <strong>back</strong> (되돌아) = '옛 기억이 홍수처럼 다시 밀려오다'라서 <strong>'기억이 한꺼번에 되살아나다'</strong>예요.",
+ "historyTitle": "홍수처럼 밀려드는 기억",
+ "historyBody": "flood는 고대 영어 flod(물의 흐름, 범람)에서 왔고, flow(흐르다)와 같은 뿌리예요. 영어에서는 기억이나 감정을 물에 비유해서 memories came flooding back처럼 써요. 노래, 냄새, 사진이 옛 추억을 확 불러올 때 자주 쓰는 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "come back",
+   "pos": "구동사",
+   "meaning": "돌아오다, 기억나다",
+   "en": "His name suddenly came back to me.",
+   "ko": "그의 이름이 갑자기 기억났어요."
+  },
+  {
+   "word": "bring back",
+   "pos": "구동사",
+   "meaning": "(기억을) 떠올리게 하다",
+   "en": "This song brings back happy memories.",
+   "ko": "이 노래는 행복한 기억을 떠올리게 해요."
+  },
+  {
+   "word": "flood",
+   "pos": "명사 / 동사",
+   "meaning": "홍수 / 물에 잠기게 하다",
+   "en": "Heavy rain flooded the streets.",
+   "ko": "폭우로 거리가 물에 잠겼어요."
+  },
+  {
+   "word": "overflow",
+   "pos": "동사",
+   "meaning": "넘쳐흐르다",
+   "en": "The river overflowed after the storm.",
+   "ko": "폭풍 후에 강물이 넘쳐흘렀어요."
+  },
+  {
+   "word": "look back on",
+   "pos": "구동사",
+   "meaning": "~을 회상하다",
+   "en": "I often look back on my childhood.",
+   "ko": "나는 종종 어린 시절을 회상해요."
+  }
+ ],
+ "imageSense": "대표 의미: 옛 사진을 보자 추억이 파도처럼 밀려오는 장면",
+ "imageCaption": "앨범을 펼친 순간 그때의 웃음소리와 냄새가 한꺼번에 떠오르는 모습을 그려 보세요.",
+ "movieLineEn": "When I saw your face, all the memories came flooding back.",
+ "movieLineKo": "네 얼굴을 보는 순간, 모든 기억이 한꺼번에 밀려왔어.",
+ "storyTitle": "떡볶이 냄새의 기억",
+ "story": "학교 앞 떡볶이 냄새를 맡자 초등학생 때 기억이 flood back(한꺼번에 되살아나다)했어요. 그 냄새는 친구와의 추억을 bring back(떠올리게 하다)했죠. 그 시절을 look back on(회상하다)하며 가게에 들어갔더니, 사장님이 말했어요. \"너 10년 전에 외상한 500원 아직 안 갚았지?\" 사장님 기억도 come back(돌아오다)했나 봐요!"
+}

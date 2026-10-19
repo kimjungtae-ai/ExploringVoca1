@@ -1,0 +1,68 @@
+{
+ "word": "in person",
+ "pos": "전치사구",
+ "phonetic": "[ɪn ˈpɜːrsn]",
+ "meaning": "직접, 몸소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~의 모습으로 (in)",
+   "note": "'어떤 형태로'라는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "person",
+   "meaning": "사람, 몸 (person)",
+   "note": "전화나 화면이 아닌 '실제 사람의 몸'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>in</strong> (~ 모습으로) + <strong>person</strong> (사람 몸) = '자기 몸 그대로의 모습으로'에서 <strong>'직접, 몸소'</strong>",
+ "historyTitle": "'가면'을 뜻했던 라틴어 persona",
+ "historyBody": "person은 라틴어 persona에서 왔는데, 원래 연극 배우가 쓰던 '가면'이나 '역할'을 뜻했어요. 그것이 '사람, 인격'으로 바뀌었죠. in person은 대리인이나 편지가 아닌 '자기 몸으로 직접'이라는 뜻이에요. personality(성격)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "personal",
+   "pos": "형용사",
+   "meaning": "개인의, 개인적인",
+   "en": "That's a personal question.",
+   "ko": "그건 개인적인 질문이야."
+  },
+  {
+   "word": "personality",
+   "pos": "명사",
+   "meaning": "성격, 개성",
+   "en": "She has a cheerful personality.",
+   "ko": "그녀는 쾌활한 성격이야."
+  },
+  {
+   "word": "face to face",
+   "pos": "숙어",
+   "meaning": "얼굴을 맞대고",
+   "en": "I'd like to talk to you face to face.",
+   "ko": "너랑 직접 얼굴 보고 얘기하고 싶어."
+  },
+  {
+   "word": "online",
+   "pos": "형용사/부사",
+   "meaning": "온라인의 / 온라인으로",
+   "en": "We had our meeting online.",
+   "ko": "우리는 온라인으로 회의를 했어."
+  },
+  {
+   "word": "in public",
+   "pos": "전치사구",
+   "meaning": "공개적으로, 사람들 앞에서",
+   "en": "He is shy about singing in public.",
+   "ko": "그는 사람들 앞에서 노래하는 걸 부끄러워해."
+  }
+ ],
+ "imageSense": "대표 의미: 화면으로만 보던 친구를 처음 실제로 만나는 장면",
+ "imageCaption": "영상통화로만 보던 사람과 직접 악수하는 순간을 떠올려 보세요.",
+ "movieLineEn": "I came all this way to tell you in person: you're fired.",
+ "movieLineKo": "직접 말하려고 여기까지 왔어. 넌 해고야.",
+ "storyTitle": "온라인 친구와의 만남",
+ "story": "게임에서 1년간 만난 친구를 드디어 in person(직접) 만나기로 했어요. online(온라인) 속 친구는 personality(성격)가 터프한 전사였죠. 약속 장소에서 face to face(얼굴을 맞대고) 마주한 순간 깜짝 놀랐어요. 그 전사는 바로 옆집에 사는 초등학생 꼬마였거든요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "take down",
+ "pos": "구동사",
+ "phonetic": "[teɪk daʊn]",
+ "meaning": "~을 적다, 받아 적다, (구조물을) 해체하다, 내리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "take",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "무언가를 손에 쥐어 가져오는 느낌이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 완전히 (down)",
+   "note": "위에서 아래로 내리거나 종이 위에 '내려' 적는 이미지예요."
+  }
+ ],
+ "summary": "<strong>take</strong> (잡다) + <strong>down</strong> (아래로) = '잡아서 아래로 내리다'에서 <strong>'내리다, 해체하다'</strong>, 말을 종이 위로 내려놓아 <strong>'받아 적다'</strong>",
+ "historyTitle": "말을 종이 위에 '내려놓다'",
+ "historyBody": "take는 고대 노르드어 taka(잡다, 쥐다)에서 고대 영어 후기에 들어온 말이에요. down은 고대 영어 adune(언덕에서 아래로)에서 왔어요. 높이 걸린 것을 잡아 내리는 뜻이 기본이고, 들은 말을 종이에 옮겨 내려 적는다는 뜻도 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "write down",
+   "pos": "구동사",
+   "meaning": "적다",
+   "en": "Write down your name at the top of the page.",
+   "ko": "페이지 맨 위에 이름을 적으세요."
+  },
+  {
+   "word": "note down",
+   "pos": "구동사",
+   "meaning": "메모하다",
+   "en": "I noted down the teacher's advice.",
+   "ko": "나는 선생님의 조언을 메모했어요."
+  },
+  {
+   "word": "put up",
+   "pos": "구동사",
+   "meaning": "세우다, 걸다",
+   "en": "We put up a tent near the lake.",
+   "ko": "우리는 호숫가 근처에 텐트를 쳤어요."
+  },
+  {
+   "word": "tear down",
+   "pos": "구동사",
+   "meaning": "허물다",
+   "en": "The old building was torn down last year.",
+   "ko": "그 낡은 건물은 작년에 철거됐어요."
+  },
+  {
+   "word": "take off",
+   "pos": "구동사",
+   "meaning": "벗다, 이륙하다",
+   "en": "Please take off your shoes before entering.",
+   "ko": "들어오기 전에 신발을 벗어 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 벽에 걸린 포스터를 떼어 내리고, 전화 내용을 수첩에 받아 적는 장면",
+ "imageCaption": "높은 곳의 장식을 잡아 아래로 내리는 손과, 펜으로 말을 종이 위에 내려 적는 손을 함께 떠올려 보세요.",
+ "movieLineEn": "Take down this number. You'll need it later.",
+ "movieLineKo": "이 번호 받아 적어. 나중에 필요할 거야.",
+ "storyTitle": "축제가 끝난 뒤",
+ "story": "축제가 끝나자 선생님이 \"현수막을 take down(내리다)해라\"라고 하셨어요. 민호는 지시 사항을 write down(적다)했지만, 실수로 무대까지 tear down(허물다)해 버렸죠. 다음 날 그 자리에 다시 무대를 put up(세우다)해야 했어요. 알고 보니 내일이 진짜 축제 날이었답니다!"
+}

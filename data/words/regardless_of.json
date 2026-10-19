@@ -1,0 +1,68 @@
+{
+ "word": "regardless of",
+ "pos": "전치사구",
+ "phonetic": "[rɪˈɡɑːrdləs əv]",
+ "meaning": "~에 상관없이, ~와 관계없이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "regardless",
+   "meaning": "개의치 않는 (without regard)",
+   "note": "re- + gard(지켜보다) + -less(없는)로 '신경 써서 보지 않는'이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의, ~에 대해 (of)",
+   "note": "무엇에 대해 상관없는지 대상을 이어 주는 말이에요."
+  }
+ ],
+ "summary": "<strong>regard</strong> (주의해서 보다) + <strong>-less</strong> (~없는) + <strong>of</strong> (~에 대해) = '~에 대해 신경 쓰지 않고'에서 <strong>'~에 상관없이'</strong>가 되었어요.",
+ "historyTitle": "지켜보지 않는다는 뜻",
+ "historyBody": "regard는 고대 프랑스어 'regarder(다시 보다, 지켜보다)'에서 왔어요. guard(지키다)와 같은 뿌리예요. 여기에 '없는'을 뜻하는 -less가 붙어 '눈여겨보지 않는' 즉 '개의치 않는'이 되었어요. 'regardless of age(나이에 상관없이)'처럼 수능 지문에 정말 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regard",
+   "pos": "동사/명사",
+   "meaning": "여기다, 간주하다 / 관심, 존중",
+   "en": "Many people regard him as a hero.",
+   "ko": "많은 사람들이 그를 영웅으로 여겨요."
+  },
+  {
+   "word": "with regard to",
+   "pos": "전치사구",
+   "meaning": "~에 관하여",
+   "en": "I have a question with regard to the schedule.",
+   "ko": "일정에 관해 질문이 있어요."
+  },
+  {
+   "word": "irrespective of",
+   "pos": "전치사구",
+   "meaning": "~에 관계없이",
+   "en": "The program is open to all, irrespective of age.",
+   "ko": "이 프로그램은 나이에 관계없이 모두에게 열려 있어요."
+  },
+  {
+   "word": "in spite of",
+   "pos": "전치사구",
+   "meaning": "~에도 불구하고",
+   "en": "We went out in spite of the heavy rain.",
+   "ko": "우리는 폭우에도 불구하고 외출했어요."
+  },
+  {
+   "word": "regarding",
+   "pos": "전치사",
+   "meaning": "~에 관하여",
+   "en": "Regarding your request, we will reply soon.",
+   "ko": "귀하의 요청에 관하여 곧 답변드리겠습니다."
+  }
+ ],
+ "imageSense": "대표 의미: 나이도 키도 다른 사람들이 모두 함께 달리는 마라톤 장면",
+ "imageCaption": "어린이부터 할아버지까지 모두 함께 출발선에 선 모습을 떠올려 보세요. 나이에 '상관없이' 누구나 달릴 수 있어요.",
+ "movieLineEn": "I'm going in, regardless of what you say.",
+ "movieLineKo": "네가 뭐라고 하든 상관없이 난 들어갈 거야.",
+ "storyTitle": "상관없는 고양이",
+ "story": "우리 집 고양이는 날씨와 regardless of(상관없이) 창가에서 자요. 엄마는 고양이를 가족으로 regard(여기다)하시죠. in spite of(~에도 불구하고) 내가 간식을 줘도 나는 본 척도 안 해요. 그런데 regarding(~에 관하여) 참치캔 소리만 나면 0.1초 만에 달려온답니다."
+}

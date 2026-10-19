@@ -1,0 +1,68 @@
+{
+ "word": "additional fee",
+ "pos": "명사구",
+ "phonetic": "[əˈdɪʃənl fiː]",
+ "meaning": "추가 요금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "additional",
+   "meaning": "추가의 (extra)",
+   "note": "add(더하다)에 -ition, -al이 붙은 형용사예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fee",
+   "meaning": "요금, 수수료 (charge)",
+   "note": "입장료, 수강료처럼 서비스에 내는 돈이에요."
+  }
+ ],
+ "summary": "<strong>additional</strong> (추가의) + <strong>fee</strong> (요금) = <strong>'추가로 내는 요금'</strong>이에요.",
+ "historyTitle": "중세의 '봉토'에서 온 fee",
+ "historyBody": "fee는 앵글로프랑스어 fee/fie에서 왔고, 원래 중세 봉건 제도에서 주군이 내려 준 '봉토'를 뜻했어요. 이후 서비스에 대한 '보수, 요금'이라는 뜻으로 바뀌었답니다. 수능 실용문(안내문)에 'An additional fee is required'처럼 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "entrance fee",
+   "pos": "명사구",
+   "meaning": "입장료",
+   "en": "The entrance fee is free for children under 7.",
+   "ko": "7세 미만 어린이는 입장료가 무료예요."
+  },
+  {
+   "word": "registration fee",
+   "pos": "명사구",
+   "meaning": "등록비",
+   "en": "The registration fee includes lunch and a T-shirt.",
+   "ko": "등록비에는 점심과 티셔츠가 포함돼요."
+  },
+  {
+   "word": "additionally",
+   "pos": "부사",
+   "meaning": "게다가, 추가로",
+   "en": "Additionally, you can rent a bike for free.",
+   "ko": "추가로, 자전거를 무료로 빌릴 수 있어요."
+  },
+  {
+   "word": "extra charge",
+   "pos": "명사구",
+   "meaning": "추가 요금",
+   "en": "There is no extra charge for delivery.",
+   "ko": "배송에는 추가 요금이 없어요."
+  },
+  {
+   "word": "free of charge",
+   "pos": "숙어",
+   "meaning": "무료로",
+   "en": "Parking is available free of charge.",
+   "ko": "주차는 무료로 이용할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 영수증에 '추가 요금' 줄이 하나 더 찍혀 나오는 장면",
+ "imageCaption": "계산대에서 '추가 요금 있어요'라는 말을 들었을 때의 당황한 얼굴을 떠올려 보세요.",
+ "movieLineEn": "Extra cheese? That's an additional fee, my friend.",
+ "movieLineKo": "치즈 추가요? 그건 추가 요금이에요, 손님.",
+ "storyTitle": "공짜인 줄 알았는데",
+ "story": "캠프 안내문에 registration fee(등록비)만 내면 된다고 적혀 있었어요. 그런데 카약은 additional fee(추가 요금), 간식도 extra charge(추가 요금)였죠. 화가 난 나에게 직원이 '단, 불평은 free of charge(무료로) 들어 드려요!'라고 웃으며 말했답니다."
+}

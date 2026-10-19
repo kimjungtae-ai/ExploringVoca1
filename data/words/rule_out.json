@@ -1,0 +1,68 @@
+{
+ "word": "rule out",
+ "pos": "구동사",
+ "phonetic": "[ruːl aʊt]",
+ "meaning": "배제하다, 제외하다, 가능성을 없애다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "rule",
+   "meaning": "규칙, 선을 긋다 (rule)",
+   "note": "라틴어 regula(곧은 자)에서 온 말로 '자로 선을 긋다'라는 뜻도 있어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로 (out)",
+   "note": "선을 그어 '밖으로' 빼 버리는 이미지예요."
+  }
+ ],
+ "summary": "<strong>rule</strong> (자로 선을 긋다) + <strong>out</strong> (밖으로) = '선을 그어 밖으로 빼다'에서 <strong>'배제하다, 제외하다'</strong>가 되었어요.",
+ "historyTitle": "자로 줄을 그어 지우다",
+ "historyBody": "rule은 고대 프랑스어 'riule'를 거쳐 라틴어 'regula(곧은 막대, 자)'에서 왔어요. 그래서 rule에는 '규칙'뿐 아니라 '자로 줄을 긋다'라는 뜻도 있어요. rule out은 문서에서 어떤 항목에 줄을 그어 지워 버리는 그림에서 나와 '가능성을 배제하다'라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "exclude",
+   "pos": "동사",
+   "meaning": "제외하다, 배제하다",
+   "en": "The price excludes tax.",
+   "ko": "그 가격에는 세금이 제외되어 있어요."
+  },
+  {
+   "word": "leave out",
+   "pos": "구동사",
+   "meaning": "빼다, 빠뜨리다",
+   "en": "Don't leave out any important details.",
+   "ko": "중요한 세부 사항을 빠뜨리지 마세요."
+  },
+  {
+   "word": "cross out",
+   "pos": "구동사",
+   "meaning": "줄을 그어 지우다",
+   "en": "She crossed out the wrong answer.",
+   "ko": "그녀는 틀린 답에 줄을 그어 지웠어요."
+  },
+  {
+   "word": "ruler",
+   "pos": "명사",
+   "meaning": "자, 통치자",
+   "en": "Use a ruler to draw a straight line.",
+   "ko": "자를 사용해 직선을 그으세요."
+  },
+  {
+   "word": "possibility",
+   "pos": "명사",
+   "meaning": "가능성",
+   "en": "We can't ignore the possibility of rain.",
+   "ko": "비가 올 가능성을 무시할 수 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 탐정이 용의자 명단에 줄을 그어 하나씩 지우는 장면",
+ "imageCaption": "탐정이 칠판의 용의자 사진 위에 빨간 펜으로 X를 그으며 '이 사람은 아니야'라고 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We can't rule out the possibility that he's still alive.",
+ "movieLineKo": "그가 아직 살아 있을 가능성을 배제할 수 없어.",
+ "storyTitle": "냉장고 탐정",
+ "story": "내 푸딩이 사라졌어요! 나는 탐정처럼 용의자를 rule out(배제하다)하기 시작했죠. 아빠는 단 걸 싫어하니 cross out(줄을 그어 지우다). 엄마는 다이어트 중이라 exclude(제외하다). 동생이 범인일 possibility(가능성)가 컸는데… 내 방 책상 위에 빈 푸딩 통이 있었어요. 범인은 어젯밤의 나!"
+}

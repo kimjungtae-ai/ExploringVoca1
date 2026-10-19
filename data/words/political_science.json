@@ -1,0 +1,68 @@
+{
+ "word": "political science",
+ "pos": "명사구",
+ "phonetic": "[pəˈlɪtɪkəl ˈsaɪəns]",
+ "meaning": "정치학",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "political",
+   "meaning": "정치의 (political)",
+   "note": "그리스어 polis(도시 국가)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "science",
+   "meaning": "학문, 과학 (science)",
+   "note": "라틴어 scientia(앎, 지식)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>political</strong> (정치의) + <strong>science</strong> (학문) = '정치를 연구하는 학문'에서 <strong>'정치학'</strong>",
+ "historyTitle": "그리스 도시 국가 polis",
+ "historyBody": "political은 고대 그리스의 도시 국가 polis에서 나온 politikos(시민의, 국가의)에서 왔어요. science는 라틴어 scire(알다)에서 나온 scientia(지식)에서 왔고요. 아리스토텔레스의 『정치학(Politics)』은 이 학문의 고전으로 꼽혀요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "politics",
+   "pos": "명사",
+   "meaning": "정치",
+   "en": "She became interested in politics in high school.",
+   "ko": "그녀는 고등학교 때 정치에 관심을 갖게 되었어요."
+  },
+  {
+   "word": "politician",
+   "pos": "명사",
+   "meaning": "정치인",
+   "en": "The politician promised to build a new hospital.",
+   "ko": "그 정치인은 새 병원을 짓겠다고 약속했어요."
+  },
+  {
+   "word": "policy",
+   "pos": "명사",
+   "meaning": "정책",
+   "en": "The government announced a new education policy.",
+   "ko": "정부는 새 교육 정책을 발표했어요."
+  },
+  {
+   "word": "police",
+   "pos": "명사",
+   "meaning": "경찰",
+   "en": "The police arrived within five minutes.",
+   "ko": "경찰이 5분 안에 도착했어요."
+  },
+  {
+   "word": "scientific",
+   "pos": "형용사",
+   "meaning": "과학적인",
+   "en": "We need scientific evidence to prove it.",
+   "ko": "그것을 증명하려면 과학적 증거가 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 대학 강의실에서 선거와 정부 제도를 토론하는 장면",
+ "imageCaption": "칠판에 국회, 선거, 정부 그림이 그려진 대학 강의실을 떠올려 보세요.",
+ "movieLineEn": "I studied political science. I know how power works.",
+ "movieLineKo": "난 정치학을 공부했어. 권력이 어떻게 돌아가는지 알지.",
+ "storyTitle": "반장 선거 전략가",
+ "story": "형은 대학에서 political science(정치학)를 전공해요. 그래서 내 반장 선거를 도와주겠다며 politics(정치)와 policy(정책) 강의를 해 줬죠. 형이 짜 준 공약은 완벽했어요. 그런데 투표 결과는 0표! 알고 보니 선거 공고를 못 봐 후보 등록을 안 했던 거예요."
+}

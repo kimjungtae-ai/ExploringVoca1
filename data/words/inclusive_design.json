@@ -1,0 +1,68 @@
+{
+ "word": "inclusive design",
+ "pos": "명사구",
+ "phonetic": "[ɪnˈkluːsɪv dɪˈzaɪn]",
+ "meaning": "포용적 디자인, 모두를 위한 디자인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "inclusive",
+   "meaning": "포함하는, 포용적인 (including all)",
+   "note": "in(안으로)+claudere(닫다)에서 와 '모두를 안에 들인다'는 뜻을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "design",
+   "meaning": "디자인, 설계 (design)",
+   "note": "de(아래로)+signare(표시하다)에서 와 '계획하여 그려 냄'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>inclusive</strong> (모두를 포함하는) + <strong>design</strong> (설계) = '누구도 빠지지 않게 하는 설계'에서 <strong>'포용적 디자인'</strong>",
+ "historyTitle": "'안에 가두다'에서 '포함하다'로",
+ "historyBody": "include는 라틴어 includere(안에 가두다)에서 왔어요. in-(안에)+claudere(닫다)가 합쳐진 말이죠. 원래 '가두다'였지만 '안에 넣다, 포함하다'로 바뀌었어요. inclusive design은 장애인, 노인, 어린이 등 다양한 사람이 함께 쓸 수 있도록 만드는 설계를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "include",
+   "pos": "동사",
+   "meaning": "포함하다",
+   "en": "The price includes breakfast.",
+   "ko": "가격에 아침 식사가 포함돼 있어."
+  },
+  {
+   "word": "exclude",
+   "pos": "동사",
+   "meaning": "제외하다, 배제하다",
+   "en": "No one should be excluded from the game.",
+   "ko": "누구도 게임에서 배제되어서는 안 돼."
+  },
+  {
+   "word": "conclude",
+   "pos": "동사",
+   "meaning": "결론짓다, 끝내다",
+   "en": "The scientist concluded that the theory was wrong.",
+   "ko": "그 과학자는 그 이론이 틀렸다고 결론 내렸어."
+  },
+  {
+   "word": "accessible",
+   "pos": "형용사",
+   "meaning": "접근하기 쉬운",
+   "en": "The new building is accessible to everyone.",
+   "ko": "새 건물은 누구나 이용하기 쉬워."
+  },
+  {
+   "word": "universal design",
+   "pos": "명사구",
+   "meaning": "유니버설 디자인",
+   "en": "Ramps are an example of universal design.",
+   "ko": "경사로는 유니버설 디자인의 한 예야."
+  }
+ ],
+ "imageSense": "대표 의미: 휠체어와 유모차가 함께 경사로를 오르는 장면",
+ "imageCaption": "계단 옆에 완만한 경사로가 있어 누구나 함께 들어가는 건물 입구를 떠올려 보세요.",
+ "movieLineEn": "Good design leaves no one behind. That's what inclusive design means.",
+ "movieLineKo": "좋은 디자인은 아무도 소외시키지 않아. 그게 포용적 디자인이야.",
+ "storyTitle": "모두의 놀이터",
+ "story": "공원에 inclusive design(포용적 디자인) 놀이터가 생겼어요. 휠체어도 들어갈 수 있게 accessible(접근하기 쉬운) 그네를 include(포함하다) 했죠. 아무도 exclude(배제하다) 되지 않았어요. 그런데 첫날 가장 신난 건 아이들이 아니라 할아버지들이었어요. 결론은 conclude(결론짓다) 하기 쉬웠죠. 놀이터는 나이 제한이 없다!"
+}

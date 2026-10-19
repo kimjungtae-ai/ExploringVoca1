@@ -1,0 +1,68 @@
+{
+ "word": "stick to",
+ "pos": "구동사",
+ "phonetic": "[stɪk tuː]",
+ "meaning": "~을 고수하다, ~을 지키다, ~에 달라붙다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stick",
+   "meaning": "달라붙다, 찌르다 (adhere, pierce)",
+   "note": "찰싹 붙어서 떨어지지 않는 느낌을 줘요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에, ~쪽으로 (to)",
+   "note": "붙어 있는 대상을 가리켜요."
+  }
+ ],
+ "summary": "<strong>stick</strong> (달라붙다) + <strong>to</strong> (~에) = '~에 찰싹 붙어 떨어지지 않다'에서 <strong>'~을 고수하다, 지키다'</strong>",
+ "historyTitle": "찌르던 말이 '붙는' 말로",
+ "historyBody": "stick은 고대 영어 stician(찌르다, 꽂혀 있다)에서 왔어요. 뾰족한 것에 찔려 고정되어 있는 모습에서 '들러붙다, 고정되다'라는 뜻이 생겼어요. 그래서 stick to는 계획이나 약속에 딱 붙어서 벗어나지 않는다는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stick with",
+   "pos": "구동사",
+   "meaning": "~을 계속하다, ~와 함께하다",
+   "en": "Stick with your plan even when it gets hard.",
+   "ko": "힘들어도 계획을 꾸준히 지켜 나가세요."
+  },
+  {
+   "word": "sticky",
+   "pos": "형용사",
+   "meaning": "끈적끈적한",
+   "en": "My hands were sticky after eating honey.",
+   "ko": "꿀을 먹고 나니 손이 끈적끈적했어요."
+  },
+  {
+   "word": "sticker",
+   "pos": "명사",
+   "meaning": "스티커",
+   "en": "The child put a star sticker on her notebook.",
+   "ko": "아이는 공책에 별 스티커를 붙였어요."
+  },
+  {
+   "word": "hold on to",
+   "pos": "구동사",
+   "meaning": "~을 꼭 붙잡다, 고수하다",
+   "en": "Hold on to your dreams no matter what.",
+   "ko": "무슨 일이 있어도 꿈을 꼭 붙잡으세요."
+  },
+  {
+   "word": "keep to",
+   "pos": "구동사",
+   "meaning": "~을 지키다, 고수하다",
+   "en": "Please keep to the path in the park.",
+   "ko": "공원에서는 산책로로만 다니세요."
+  }
+ ],
+ "imageSense": "대표 의미: 다이어트 계획표에 껌처럼 착 달라붙어 지키는 장면",
+ "imageCaption": "계획표에 찰싹 붙은 스티커처럼 절대 떨어지지 않는 결심을 떠올려 보세요.",
+ "movieLineEn": "We have a plan. Let's stick to it.",
+ "movieLineKo": "우리에겐 계획이 있어. 그대로 밀고 나가자.",
+ "storyTitle": "끈적한 결심",
+ "story": "준호는 새해에 \"매일 운동 계획을 stick to(고수하다)할 거야!\"라고 다짐했어요. 책상에 sticker(스티커)도 붙이고 keep to(지키다)하기로 했죠. 사흘 뒤 준호는 정말 무언가에 꼭 붙어 있었어요. 바로 sticky(끈적한) 꿀떡이 묻은 소파였답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "adapted to",
+ "pos": "형용사구",
+ "phonetic": "[əˈdæptɪd tuː]",
+ "meaning": "~에 적응한, ~에 맞게 바뀐",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "adapted",
+   "meaning": "적응한, 맞춰진 (adjusted)",
+   "note": "라틴어 ad-(~에)+aptare(맞추다)에서 온 adapt의 과거분사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에 (to)",
+   "note": "무엇에 맞춰졌는지 방향을 가리켜요."
+  }
+ ],
+ "summary": "<strong>adapted</strong> (맞춰진) + <strong>to</strong> (~에) = '~쪽에 딱 맞춰진'에서 <strong>'~에 적응한'</strong>이 되었어요.",
+ "historyTitle": "라틴어 aptus, '꼭 맞는'",
+ "historyBody": "adapt는 라틴어 adaptare에서 왔는데, ad-(~에)와 aptare(맞추다)가 합쳐진 말이에요. aptare의 뿌리 aptus는 '꼭 맞는'이라는 뜻이라 apt(적절한), aptitude(적성)와 친척이에요. 생물 지문에서 '환경에 적응한 동물'을 말할 때 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "adapt to",
+   "pos": "구동사",
+   "meaning": "~에 적응하다",
+   "en": "It took me a month to adapt to my new school.",
+   "ko": "새 학교에 적응하는 데 한 달이 걸렸어요."
+  },
+  {
+   "word": "adaptation",
+   "pos": "명사",
+   "meaning": "적응, 각색",
+   "en": "The camel's hump is an adaptation to desert life.",
+   "ko": "낙타의 혹은 사막 생활에 대한 적응이에요."
+  },
+  {
+   "word": "adjust to",
+   "pos": "구동사",
+   "meaning": "~에 적응하다",
+   "en": "My eyes slowly adjusted to the dark.",
+   "ko": "내 눈이 천천히 어둠에 적응했어요."
+  },
+  {
+   "word": "be suited to",
+   "pos": "숙어",
+   "meaning": "~에 적합하다",
+   "en": "This plant is suited to cold climates.",
+   "ko": "이 식물은 추운 기후에 적합해요."
+  },
+  {
+   "word": "aptitude",
+   "pos": "명사",
+   "meaning": "적성, 소질",
+   "en": "She has an aptitude for languages.",
+   "ko": "그녀는 언어에 소질이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두꺼운 털을 가진 북극곰이 얼음 위에서 편안히 쉬는 장면",
+ "imageCaption": "환경에 꼭 맞게 몸이 바뀐 동물을 떠올리면 'adapted to'가 쉽게 기억나요.",
+ "movieLineEn": "These creatures are perfectly adapted to the dark. We are not.",
+ "movieLineKo": "이 생물들은 어둠에 완벽하게 적응했어. 우리는 아니고.",
+ "storyTitle": "적응왕 고양이",
+ "story": "우리 고양이는 추위에 완전히 adapted to(~에 적응한) 상태예요. 이사 와서도 금방 adapt to(~에 적응하다)했죠. 수의사는 털이 겨울 adaptation(적응)이라고 했어요. 그런데 사실 비결은 보일러 위를 자기 자리로 정한 거였답니다!"
+}

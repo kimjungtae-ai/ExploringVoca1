@@ -1,0 +1,68 @@
+{
+ "word": "name plate",
+ "pos": "명사구",
+ "phonetic": "[ˈneɪm pleɪt]",
+ "meaning": "명패, 이름표, 문패",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "name",
+   "meaning": "이름 (name)",
+   "note": "고대 영어 nama에서 온 기본 단어예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "plate",
+   "meaning": "판, 접시 (plate)",
+   "note": "그리스어 platys(평평한)에서 온 '납작한 판'이에요."
+  }
+ ],
+ "summary": "<strong>name</strong> (이름) + <strong>plate</strong> (납작한 판) = '이름을 새긴 판'에서 <strong>'명패, 문패'</strong>",
+ "historyTitle": "'평평한' 판에서 온 plate",
+ "historyBody": "plate는 그리스어 platys(평평한, 넓은)가 라틴어와 고대 프랑스어를 거쳐 들어온 말이에요. 그래서 금속판, 접시, 자동차 번호판(license plate)처럼 평평한 판을 모두 plate라고 해요. 'nameplate'처럼 붙여 쓰기도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "license plate",
+   "pos": "명사구",
+   "meaning": "자동차 번호판",
+   "en": "The police wrote down the car's license plate.",
+   "ko": "경찰이 그 차의 번호판을 적었어요."
+  },
+  {
+   "word": "name tag",
+   "pos": "명사구",
+   "meaning": "이름표",
+   "en": "Please wear your name tag during the event.",
+   "ko": "행사 중에는 이름표를 착용해 주세요."
+  },
+  {
+   "word": "plate",
+   "pos": "명사",
+   "meaning": "접시, 판",
+   "en": "She put the cake on a white plate.",
+   "ko": "그녀는 케이크를 하얀 접시에 담았어요."
+  },
+  {
+   "word": "platform",
+   "pos": "명사",
+   "meaning": "승강장, 단, 플랫폼",
+   "en": "The train is arriving at platform 3.",
+   "ko": "기차가 3번 승강장에 도착하고 있어요."
+  },
+  {
+   "word": "plateau",
+   "pos": "명사",
+   "meaning": "고원, 정체기",
+   "en": "My grades reached a plateau this semester.",
+   "ko": "이번 학기 성적이 정체기에 들어섰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 놓인 금색 이름 명패",
+ "imageCaption": "선생님 책상 위에 반짝이는 이름 명패가 놓여 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Read the name plate. This is the captain's office.",
+ "movieLineKo": "명패를 읽어 봐. 여긴 선장실이야.",
+ "storyTitle": "명패의 주인",
+ "story": "새 반장이 된 나는 책상에 name plate(명패)를 놓았어요. 친구들도 name tag(이름표)를 달아 줬죠. 기분 좋게 plate(접시)에 떡을 돌렸는데, 다음 날 명패가 사라졌어요. 범인은 명패를 license plate(번호판)처럼 자전거에 단 짝꿍이었어요!"
+}

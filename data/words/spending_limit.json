@@ -1,0 +1,68 @@
+{
+ "word": "spending limit",
+ "pos": "명사구",
+ "phonetic": "[ˈspendɪŋ ˈlɪmɪt]",
+ "meaning": "지출 한도, 사용 한도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "spending",
+   "meaning": "지출, 소비 (spending)",
+   "note": "spend(쓰다) + -ing로 '돈을 씀'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "limit",
+   "meaning": "한도, 제한 (limit)",
+   "note": "라틴어 limes(경계, 국경선)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>spending</strong> (지출) + <strong>limit</strong> (한도) = '돈을 쓸 수 있는 경계선'이라서 <strong>'지출 한도'</strong>예요.",
+ "historyTitle": "로마 제국의 국경선",
+ "historyBody": "limit는 고대 프랑스어 'limite'를 거쳐 라틴어 'limes(경계, 국경선)'에서 왔어요. 로마 제국의 국경 방어선을 limes라고 불렀죠. spend는 라틴어 'expendere(달아서 내주다)'에서 온 말로, expense(비용)와 같은 뿌리예요. 그래서 spending limit는 '돈을 써도 되는 경계선'이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "spend",
+   "pos": "동사",
+   "meaning": "쓰다, 소비하다",
+   "en": "I spend too much money on snacks.",
+   "ko": "나는 간식에 돈을 너무 많이 써요."
+  },
+  {
+   "word": "expense",
+   "pos": "명사",
+   "meaning": "비용, 지출",
+   "en": "Living in the city is a big expense.",
+   "ko": "도시에 사는 건 큰 비용이 들어요."
+  },
+  {
+   "word": "budget",
+   "pos": "명사",
+   "meaning": "예산",
+   "en": "We planned the trip within our budget.",
+   "ko": "우리는 예산 안에서 여행을 계획했어요."
+  },
+  {
+   "word": "speed limit",
+   "pos": "명사구",
+   "meaning": "제한 속도",
+   "en": "The speed limit here is 50 km per hour.",
+   "ko": "여기 제한 속도는 시속 50킬로미터예요."
+  },
+  {
+   "word": "limitation",
+   "pos": "명사",
+   "meaning": "한계, 제한",
+   "en": "Everyone has their own limitations.",
+   "ko": "누구에게나 자신만의 한계가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 카드 결제 화면에 '한도 초과'가 뜨는 장면",
+ "imageCaption": "계산대에서 카드를 내밀었는데 '한도 초과' 메시지가 뜨고 얼굴이 빨개지는 순간을 떠올려 보세요.",
+ "movieLineEn": "Sorry, sir. You've reached your spending limit.",
+ "movieLineKo": "죄송합니다, 손님. 사용 한도에 도달하셨어요.",
+ "storyTitle": "한도의 교훈",
+ "story": "엄마가 내 체크카드에 spending limit(지출 한도)를 한 달 5만 원으로 정하셨어요. 나는 budget(예산)을 짜며 아껴 spend(쓰다)했죠. 그런데 10일 만에 한도 초과! 범인은 매일 사 먹은 탕후루였어요. 그 뒤로 내 expense(비용) 장부 1등은 늘 '탕후루'였답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "discount store",
+ "pos": "명사구",
+ "phonetic": "[ˈdɪskaʊnt stɔːr]",
+ "meaning": "할인점, 할인 매장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "discount",
+   "meaning": "할인 (discount)",
+   "note": "dis-(반대로, 떼어 내)+count(세다)로 '셈에서 빼다'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "store",
+   "meaning": "가게, 상점 (store)",
+   "note": "물건을 쌓아 두고 파는 곳이에요."
+  }
+ ],
+ "summary": "<strong>discount</strong> (값에서 빼 줌) + <strong>store</strong> (가게) = '값을 깎아서 파는 가게'에서 <strong>'할인점'</strong>",
+ "historyTitle": "'셈에서 빼다' discount",
+ "historyBody": "discount는 중세 라틴어 'discomputare'에서 고대 프랑스어 desconter를 거쳐 왔어요. dis-(떼어 내)와 computare(계산하다)가 합쳐져 '셈에서 빼다'라는 뜻이죠. store는 라틴어 'instaurare(갖추다, 새로 하다)'에서 온 말로, 원래 '비축품'을 뜻하다가 미국 영어에서 '물건을 쌓아 둔 가게'가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "discount",
+   "pos": "명사/동사",
+   "meaning": "할인 / 할인하다",
+   "en": "Students get a 10% discount here.",
+   "ko": "여기서 학생은 10% 할인을 받아요."
+  },
+  {
+   "word": "on sale",
+   "pos": "숙어",
+   "meaning": "할인 중인, 판매 중인",
+   "en": "These shoes are on sale this week.",
+   "ko": "이 신발은 이번 주에 할인 중이야."
+  },
+  {
+   "word": "bargain",
+   "pos": "명사",
+   "meaning": "싼 물건, 흥정",
+   "en": "This jacket was a real bargain.",
+   "ko": "이 재킷은 정말 싸게 산 거야."
+  },
+  {
+   "word": "department store",
+   "pos": "명사구",
+   "meaning": "백화점",
+   "en": "We went shopping at the department store.",
+   "ko": "우리는 백화점에 쇼핑하러 갔어."
+  },
+  {
+   "word": "storage",
+   "pos": "명사",
+   "meaning": "저장, 보관",
+   "en": "The basement is used for storage.",
+   "ko": "지하실은 보관용으로 쓰여요."
+  }
+ ],
+ "imageSense": "대표 의미: '50% OFF' 빨간 표지판이 가득한 커다란 매장",
+ "imageCaption": "카트를 밀며 노란 할인 스티커가 붙은 물건을 고르는 모습을 떠올려 보세요.",
+ "movieLineEn": "I got these sneakers at a discount store for half price.",
+ "movieLineKo": "이 운동화 할인점에서 반값에 샀어.",
+ "storyTitle": "할인의 함정",
+ "story": "엄마와 나는 discount store(할인점)에 갔어요. 모든 물건이 on sale(할인 중인)이었죠. 엄마는 bargain(싼 물건)을 찾아 카트를 가득 채웠어요. 50% discount(할인)라서 돈을 아꼈다며 기뻐하셨죠. 집에 와서 영수증을 보니 department store(백화점)에서 쓰는 돈보다 세 배나 더 썼어요. 엄마는 조용히 영수증을 숨기셨답니다."
+}

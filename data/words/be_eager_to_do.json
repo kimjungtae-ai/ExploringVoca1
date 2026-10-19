@@ -1,0 +1,68 @@
+{
+ "word": "be eager to do",
+ "pos": "숙어",
+ "phonetic": "[bi ˈiːɡər tuː duː]",
+ "meaning": "몹시 ~하고 싶어 하다, ~하기를 갈망하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "eager",
+   "meaning": "간절히 바라는 (keen)",
+   "note": "옛 프랑스어 aigre(날카로운, 시큼한)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to do",
+   "meaning": "~하는 것 (to-infinitive)",
+   "note": "무엇을 간절히 하고 싶은지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be eager</strong> (간절히 바라다) + <strong>to do</strong> (~하는 것) = <strong>'몹시 ~하고 싶어 하다'</strong>예요.",
+ "historyTitle": "시큼하고 날카로웠던 eager",
+ "historyBody": "eager는 옛 프랑스어 aigre(날카로운, 신)에서 왔고, 라틴어 acer(날카로운)가 뿌리예요. 처음엔 '맛이 시큼한, 날카로운'이었다가 '마음이 날카롭게 서 있는', 즉 '열망하는'으로 바뀌었죠. vinegar(식초)의 -egar도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be eager for",
+   "pos": "숙어",
+   "meaning": "~을 갈망하다",
+   "en": "The fans were eager for the new album.",
+   "ko": "팬들은 새 앨범을 간절히 기다렸어요."
+  },
+  {
+   "word": "eagerly",
+   "pos": "부사",
+   "meaning": "열심히, 간절히",
+   "en": "The kids eagerly opened their presents.",
+   "ko": "아이들은 선물을 신나게 열었어요."
+  },
+  {
+   "word": "be keen to do",
+   "pos": "숙어",
+   "meaning": "~하고 싶어 하다",
+   "en": "She is keen to learn Spanish.",
+   "ko": "그녀는 스페인어를 배우고 싶어 해요."
+  },
+  {
+   "word": "be anxious to do",
+   "pos": "숙어",
+   "meaning": "~하기를 몹시 바라다",
+   "en": "He was anxious to hear the results.",
+   "ko": "그는 결과를 몹시 듣고 싶어 했어요."
+  },
+  {
+   "word": "look forward to",
+   "pos": "숙어",
+   "meaning": "~을 고대하다",
+   "en": "I'm looking forward to the summer vacation.",
+   "ko": "나는 여름 방학을 고대하고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 출발선에서 신호를 기다리며 몸이 근질근질한 달리기 선수",
+ "imageCaption": "'빨리 하고 싶어!' 하고 발을 동동 구르는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm eager to see what you can do, rookie.",
+ "movieLineKo": "네가 뭘 할 수 있는지 어서 보고 싶군, 신참.",
+ "storyTitle": "기다림의 끝",
+ "story": "동생은 새 게임을 be eager to do(몹시 ~하고 싶어 하다)했어요. 택배를 eagerly(간절히) 기다리며 look forward to(~을 고대하다)했죠. 마침내 상자가 도착해 열어 보니, 엄마가 주문한 수학 문제집 열 권이 들어 있었어요!"
+}

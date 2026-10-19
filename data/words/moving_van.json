@@ -1,0 +1,68 @@
+{
+ "word": "moving van",
+ "pos": "명사구",
+ "phonetic": "[ˈmuːvɪŋ væn]",
+ "meaning": "이삿짐 트럭",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "moving",
+   "meaning": "이사하는, 움직이는 (moving)",
+   "note": "move(이사하다, 움직이다)에 -ing가 붙어 '이사용'을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "van",
+   "meaning": "밴, 화물차 (van)",
+   "note": "caravan(대상, 짐수레 행렬)을 줄인 말이에요."
+  }
+ ],
+ "summary": "<strong>moving</strong> (이사하는) + <strong>van</strong> (화물차) = '이사할 때 짐을 싣는 차'에서 <strong>'이삿짐 트럭'</strong>",
+ "historyTitle": "사막의 대상 caravan에서 온 van",
+ "historyBody": "van은 19세기에 caravan을 줄여 만든 말이에요. caravan은 페르시아어 kārvān(함께 여행하는 상인 무리)에서 왔어요. move는 라틴어 movere(움직이다)에서 왔고, 미국 영어에서 '이사하다'로 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "move",
+   "pos": "동사",
+   "meaning": "이사하다, 움직이다",
+   "en": "My family moved to Busan last year.",
+   "ko": "우리 가족은 작년에 부산으로 이사했어요."
+  },
+  {
+   "word": "move in",
+   "pos": "구동사",
+   "meaning": "이사 들어오다",
+   "en": "New neighbors moved in next door.",
+   "ko": "새 이웃이 옆집에 이사 왔어요."
+  },
+  {
+   "word": "move out",
+   "pos": "구동사",
+   "meaning": "이사 나가다",
+   "en": "We have to move out by Friday.",
+   "ko": "우리는 금요일까지 이사 나가야 해요."
+  },
+  {
+   "word": "caravan",
+   "pos": "명사",
+   "meaning": "대상, 이동식 주택",
+   "en": "A caravan of camels crossed the desert.",
+   "ko": "낙타 대상이 사막을 건넜어요."
+  },
+  {
+   "word": "motion",
+   "pos": "명사",
+   "meaning": "움직임, 동작",
+   "en": "The camera catches every motion of the dancer.",
+   "ko": "카메라는 무용수의 모든 동작을 잡아내요."
+  }
+ ],
+ "imageSense": "대표 의미: 상자와 가구를 가득 실은 이삿짐 트럭",
+ "imageCaption": "소파와 박스가 차곡차곡 실린 커다란 트럭이 새집 앞에 멈춘 모습을 떠올려 보세요.",
+ "movieLineEn": "Pack everything. The moving van comes at dawn.",
+ "movieLineKo": "다 싸 둬. 이삿짐 트럭이 새벽에 와.",
+ "storyTitle": "사라진 고양이",
+ "story": "이삿날 moving van(이삿짐 트럭)이 왔어요. 옛집에서 move out(이사 나가다)하고 새집으로 move in(이사 들어오다)하려는데 고양이가 안 보였어요! 온 동네를 찾다 지쳐 새집에서 상자를 열었더니, 고양이가 이불 박스 안에서 motion(움직임) 하나 없이 자고 있었어요."
+}

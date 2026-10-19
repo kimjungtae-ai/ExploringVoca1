@@ -1,0 +1,68 @@
+{
+ "word": "career fair",
+ "pos": "명사구",
+ "phonetic": "[kəˈrɪr fer]",
+ "meaning": "취업 박람회, 채용 박람회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "career",
+   "meaning": "직업, 경력 (career)",
+   "note": "평생 걸어갈 일의 길을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fair",
+   "meaning": "박람회, 장터 (fair)",
+   "note": "여러 부스가 모여 정보를 나누는 행사를 말해요."
+  }
+ ],
+ "summary": "<strong>career</strong> (직업, 경력) + <strong>fair</strong> (박람회) = '직업을 소개하는 장터'에서 <strong>'취업 박람회'</strong>",
+ "historyTitle": "경주로에서 직업으로, 축제일에서 박람회로",
+ "historyBody": "career는 프랑스어 'carrière(경주로)'에서 왔고, 거슬러 올라가면 라틴어 'carrus(수레)'와 관련 있어요. 수레가 달리는 길처럼 '인생에서 달려가는 길'이라는 뜻이 되었죠. fair는 라틴어 'feria(축제일, 휴일)'에서 왔는데, 축제일에 장이 크게 서던 데서 '장터, 박람회'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "job fair",
+   "pos": "명사구",
+   "meaning": "취업 박람회",
+   "en": "I got my first interview at a job fair.",
+   "ko": "나는 취업 박람회에서 첫 면접 기회를 얻었어."
+  },
+  {
+   "word": "career path",
+   "pos": "명사구",
+   "meaning": "진로, 경력의 길",
+   "en": "She chose a career path in science.",
+   "ko": "그녀는 과학 분야의 진로를 선택했어."
+  },
+  {
+   "word": "book fair",
+   "pos": "명사구",
+   "meaning": "도서 박람회",
+   "en": "Our school holds a book fair every spring.",
+   "ko": "우리 학교는 매년 봄에 도서 박람회를 열어요."
+  },
+  {
+   "word": "science fair",
+   "pos": "명사구",
+   "meaning": "과학 박람회",
+   "en": "My robot won first prize at the science fair.",
+   "ko": "내 로봇이 과학 박람회에서 1등을 했어."
+  },
+  {
+   "word": "career counselor",
+   "pos": "명사구",
+   "meaning": "진로 상담사",
+   "en": "The career counselor helped me find my strengths.",
+   "ko": "진로 상담 선생님이 내 강점을 찾도록 도와주셨어."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 회사 부스가 늘어선 넓은 강당에서 학생들이 상담받는 장면",
+ "imageCaption": "정장 입은 학생들이 회사 부스를 돌며 이력서를 건네는 모습을 그려 보세요.",
+ "movieLineEn": "I met my future boss at a career fair.",
+ "movieLineKo": "나는 취업 박람회에서 미래의 상사를 만났어.",
+ "storyTitle": "박람회의 반전 부스",
+ "story": "지호는 career fair(취업 박람회)에 갔어요. 옆 강당에선 science fair(과학 박람회)와 book fair(도서 박람회)도 열렸죠. career counselor(진로 상담사)가 \"원하는 career path(진로)가 뭐예요?\" 묻자 지호는 \"공짜 간식 주는 회사요!\"라고 답했어요. 상담사는 웃으며 자기 회사 명함을 줬어요. 그 회사는 과자 회사였답니다!"
+}

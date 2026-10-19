@@ -1,0 +1,68 @@
+{
+ "word": "stationery store",
+ "pos": "명사구",
+ "phonetic": "[ˈsteɪʃəneri stɔːr]",
+ "meaning": "문구점, 문방구",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "stationery",
+   "meaning": "문구류 (stationery)",
+   "note": "중세의 stationer(자리를 잡은 책 장수)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "store",
+   "meaning": "가게, 상점 (store)",
+   "note": "원래 '비축, 저장'이라는 뜻이었어요."
+  }
+ ],
+ "summary": "<strong>stationery</strong> (문구류) + <strong>store</strong> (가게) = '문구류를 파는 가게'라서 <strong>'문구점'</strong>이에요.",
+ "historyTitle": "한자리에 서 있던 책 장수",
+ "historyBody": "stationery는 중세 라틴어 'stationarius(한 곳에 머무는 사람)'에서 왔어요. 중세에 떠돌이 행상과 달리 대학 근처에 '고정된 가게(statio)'를 차린 책·종이 상인을 stationer라고 불렀고, 그들이 파는 물건이 stationery가 되었어요. 그래서 stationary(정지된)와 철자가 비슷하지만 -ery로 써야 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stationary",
+   "pos": "형용사",
+   "meaning": "정지된, 움직이지 않는",
+   "en": "The truck was stationary in traffic.",
+   "ko": "트럭은 교통 체증 속에 멈춰 있었어요."
+  },
+  {
+   "word": "school supplies",
+   "pos": "명사구",
+   "meaning": "학용품",
+   "en": "I bought school supplies before the new semester.",
+   "ko": "새 학기 전에 학용품을 샀어요."
+  },
+  {
+   "word": "bookstore",
+   "pos": "명사",
+   "meaning": "서점",
+   "en": "There is a small bookstore next to my school.",
+   "ko": "우리 학교 옆에 작은 서점이 있어요."
+  },
+  {
+   "word": "convenience store",
+   "pos": "명사구",
+   "meaning": "편의점",
+   "en": "I grabbed a snack at the convenience store.",
+   "ko": "편의점에서 간식을 하나 샀어요."
+  },
+  {
+   "word": "station",
+   "pos": "명사",
+   "meaning": "역, 정거장",
+   "en": "The bus stops at the station every ten minutes.",
+   "ko": "버스는 10분마다 그 정거장에 서요."
+  }
+ ],
+ "imageSense": "대표 의미: 연필, 스티커, 공책이 빼곡한 동네 문구점 장면",
+ "imageCaption": "학교 앞 작은 문구점에 형형색색 펜과 스티커, 공책이 가득 진열된 모습을 떠올려 보세요.",
+ "movieLineEn": "Meet me at the stationery store after school.",
+ "movieLineKo": "방과 후에 문구점에서 만나.",
+ "storyTitle": "문구점 단골",
+ "story": "나는 학교 앞 stationery store(문구점)의 단골이에요. 매일 school supplies(학용품)를 구경하느라 버스 station(정거장)을 지나치기 일쑤였죠. 사장님은 늘 stationary(정지된) 자세로 계산대에 앉아 계셨어요. 어느 날 다가가 보니, 사장님은 실물 크기 등신대였어요!"
+}

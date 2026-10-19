@@ -1,0 +1,68 @@
+{
+ "word": "fight off",
+ "pos": "구동사",
+ "phonetic": "[faɪt ɔːf]",
+ "meaning": "물리치다, 퇴치하다, (병 등을) 이겨 내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fight",
+   "meaning": "싸우다 (fight)",
+   "note": "상대와 맞서 싸운다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "off",
+   "meaning": "떨어져, 멀리 (off)",
+   "note": "싸워서 상대를 '멀리 떼어 내는' 이미지예요."
+  }
+ ],
+ "summary": "<strong>fight</strong> (싸우다) + <strong>off</strong> (멀리 떼어 내) = '싸워서 멀리 쫓아내다'라서 <strong>'물리치다, 이겨 내다'</strong>예요.",
+ "historyTitle": "싸워서 떼어 내는 off",
+ "historyBody": "fight는 고대 영어 feohtan에서 온 게르만어예요. off는 '붙어 있던 것이 떨어져 나감'을 나타내서, fight off는 적이나 병균, 졸음 같은 것을 싸워서 떨쳐 내는 데 써요. 수능 지문에서는 면역 체계가 병균을 fight off한다는 표현이 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ward off",
+   "pos": "구동사",
+   "meaning": "막다, 피하다",
+   "en": "People once believed garlic could ward off evil.",
+   "ko": "사람들은 한때 마늘이 악을 막아 준다고 믿었어요."
+  },
+  {
+   "word": "fight back",
+   "pos": "구동사",
+   "meaning": "반격하다",
+   "en": "The team fought back and tied the game.",
+   "ko": "그 팀은 반격해서 경기를 동점으로 만들었어요."
+  },
+  {
+   "word": "drive away",
+   "pos": "구동사",
+   "meaning": "쫓아내다",
+   "en": "The farmer used a scarecrow to drive away birds.",
+   "ko": "농부는 새를 쫓아내려고 허수아비를 썼어요."
+  },
+  {
+   "word": "fight against",
+   "pos": "구동사",
+   "meaning": "~에 맞서 싸우다",
+   "en": "Doctors are fighting against the new virus.",
+   "ko": "의사들은 새 바이러스에 맞서 싸우고 있어요."
+  },
+  {
+   "word": "immune system",
+   "pos": "명사구",
+   "meaning": "면역 체계",
+   "en": "Sleep helps your immune system fight off germs.",
+   "ko": "잠은 면역 체계가 병균을 물리치는 데 도움을 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 몸속 백혈구가 병균을 밀어내는 장면",
+ "imageCaption": "작은 병사들이 침입자 세균을 몸 밖으로 쫓아내는 모습을 그려 보세요.",
+ "movieLineEn": "I'll fight off every monster in this forest to save you.",
+ "movieLineKo": "너를 구하기 위해 이 숲의 모든 괴물을 물리칠 거야.",
+ "storyTitle": "졸음과의 전쟁",
+ "story": "시험 전날 밤, 나는 졸음을 fight off(물리치다)하려고 커피를 마셨어요. 찬물 세수로 잠을 ward off(막다)하고, 노래로 fight back(반격하다)도 했죠. 새벽 3시, 드디어 졸음을 drive away(쫓아내다)했어요! 그런데 승리의 기쁨에 잠깐 눈을 감았는데, 눈을 뜨니 시험이 이미 끝나 있었답니다."
+}

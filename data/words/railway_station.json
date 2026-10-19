@@ -1,0 +1,68 @@
+{
+ "word": "railway station",
+ "pos": "명사구",
+ "phonetic": "[ˈreɪlweɪ ˈsteɪʃən]",
+ "meaning": "기차역, 철도역",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "railway",
+   "meaning": "철도 (railway)",
+   "note": "rail(레일) + way(길)로 '레일이 깔린 길'이라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "station",
+   "meaning": "역, 정거장 (station)",
+   "note": "라틴어 stare(서 있다)에서 온 말로, 기차가 '서는 곳'이에요."
+  }
+ ],
+ "summary": "<strong>railway</strong> (철도) + <strong>station</strong> (서는 곳) = '철도 위 기차가 멈춰 서는 곳'이라서 <strong>'기차역'</strong>이에요.",
+ "historyTitle": "'서 있는 곳'에서 온 station",
+ "historyBody": "station은 라틴어 'statio(서 있음, 머무는 곳)'에서 왔고, 그 뿌리는 'stare(서다)'예요. rail은 라틴어 'regula(곧은 막대, 자)'에서 고대 프랑스어를 거쳐 들어왔어요. 19세기 영국에서 철도가 크게 퍼지면서 railway station이라는 말이 널리 쓰였고, 미국에서는 주로 train station이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "train station",
+   "pos": "명사구",
+   "meaning": "기차역 (미국식)",
+   "en": "Let's meet in front of the train station at noon.",
+   "ko": "정오에 기차역 앞에서 만나요."
+  },
+  {
+   "word": "bus station",
+   "pos": "명사구",
+   "meaning": "버스 터미널",
+   "en": "The bus station was crowded with travelers.",
+   "ko": "버스 터미널은 여행객들로 붐볐어요."
+  },
+  {
+   "word": "platform",
+   "pos": "명사",
+   "meaning": "승강장",
+   "en": "The train to Busan leaves from platform 3.",
+   "ko": "부산행 기차는 3번 승강장에서 출발해요."
+  },
+  {
+   "word": "stationary",
+   "pos": "형용사",
+   "meaning": "정지된, 움직이지 않는",
+   "en": "The car remained stationary at the red light.",
+   "ko": "차는 빨간불에 멈춰 서 있었어요."
+  },
+  {
+   "word": "subway station",
+   "pos": "명사구",
+   "meaning": "지하철역",
+   "en": "The subway station is a five-minute walk from here.",
+   "ko": "지하철역은 여기서 걸어서 5분 거리예요."
+  }
+ ],
+ "imageSense": "대표 의미: 기차가 멈춰 선 승강장에 사람들이 오가는 장면",
+ "imageCaption": "커다란 시계 아래 기차가 멈춰 서고 사람들이 짐을 들고 오르내리는 기차역을 떠올려 보세요. 기차가 '서는(stand)' 곳이라 station이에요.",
+ "movieLineEn": "Meet me at the railway station before midnight.",
+ "movieLineKo": "자정 전에 기차역에서 만나.",
+ "storyTitle": "기차역의 반전",
+ "story": "수진이는 railway station(기차역)에서 친구를 기다렸어요. platform(승강장)에 기차가 stationary(정지된) 상태로 서 있었지만 친구는 안 보였죠. 전화해 보니 친구는 bus station(버스 터미널)에서 기다리는 중! 둘 다 '터미널 앞'이라고만 말했던 거예요."
+}

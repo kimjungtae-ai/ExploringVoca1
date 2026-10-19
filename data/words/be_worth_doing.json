@@ -1,0 +1,68 @@
+{
+ "word": "be worth doing",
+ "pos": "숙어",
+ "phonetic": "[bi wɜːrθ ˈduːɪŋ]",
+ "meaning": "~할 가치가 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "worth",
+   "meaning": "가치가 있는 (of value)",
+   "note": "고대 영어 weorþ(가치 있는)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "doing",
+   "meaning": "~하는 것 (gerund)",
+   "note": "worth 뒤에는 동명사(-ing)가 와요."
+  }
+ ],
+ "summary": "<strong>be worth</strong> (가치가 있다) + <strong>doing</strong> (~하는 것) = <strong>'~할 가치가 있다'</strong>예요.",
+ "historyTitle": "고대 영어 weorþ, '값어치'",
+ "historyBody": "worth는 고대 영어 weorþ(가치 있는, 값나가는)에서 온 오래된 게르만어 단어예요. worthy(훌륭한), worthwhile(할 보람이 있는)이 같은 가족이죠. 'be worth -ing'는 문법 문제로도 자주 나오니 동명사를 꼭 기억하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "worthwhile",
+   "pos": "형용사",
+   "meaning": "할 보람이 있는",
+   "en": "Volunteering is a worthwhile experience.",
+   "ko": "봉사 활동은 보람 있는 경험이에요."
+  },
+  {
+   "word": "worthy",
+   "pos": "형용사",
+   "meaning": "~할 만한, 훌륭한",
+   "en": "Her effort is worthy of praise.",
+   "ko": "그녀의 노력은 칭찬받을 만해요."
+  },
+  {
+   "word": "worthless",
+   "pos": "형용사",
+   "meaning": "가치 없는",
+   "en": "The old coin turned out to be worthless.",
+   "ko": "그 오래된 동전은 가치가 없는 것으로 밝혀졌어요."
+  },
+  {
+   "word": "it is no use doing",
+   "pos": "숙어",
+   "meaning": "~해도 소용없다",
+   "en": "It is no use crying over spilt milk.",
+   "ko": "엎질러진 우유를 두고 울어도 소용없어요."
+  },
+  {
+   "word": "be worth it",
+   "pos": "숙어",
+   "meaning": "그만한 가치가 있다",
+   "en": "The hike was hard, but the view was worth it.",
+   "ko": "등산은 힘들었지만 경치는 그만한 가치가 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 힘들게 산 정상에 올라 멋진 풍경을 바라보는 장면",
+ "imageCaption": "땀 흘린 만큼 보상받는 순간을 떠올리면 'worth'가 기억나요.",
+ "movieLineEn": "This city is worth fighting for. I won't give up.",
+ "movieLineKo": "이 도시는 싸워서 지킬 가치가 있어. 난 포기 안 해.",
+ "storyTitle": "줄 서기의 보람",
+ "story": "유명한 빵집 앞에서 두 시간을 기다렸어요. 친구는 정말 be worth doing(~할 가치가 있다)한 일이냐고 물었죠. 마침내 빵을 먹어 보니 맛이 worthless(가치 없는)하진 않았지만 평범했어요. 그래도 기다리며 친구와 나눈 수다는 be worth it(그만한 가치가 있다)했답니다!"
+}

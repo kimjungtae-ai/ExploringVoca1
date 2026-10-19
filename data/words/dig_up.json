@@ -1,0 +1,68 @@
+{
+ "word": "dig up",
+ "pos": "구동사",
+ "phonetic": "[dɪɡ ʌp]",
+ "meaning": "파내다, 캐내다, (정보·사실을) 찾아내다, 들춰내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "dig",
+   "meaning": "파다 (dig)",
+   "note": "땅을 파는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 드러나게 (up)",
+   "note": "땅속에 있던 것을 '위로' 끌어올려 드러내는 이미지예요."
+  }
+ ],
+ "summary": "<strong>dig</strong> (파다) + <strong>up</strong> (위로) = '파서 위로 끌어올리다'에서 <strong>'파내다, (숨겨진 사실을) 찾아내다'</strong>",
+ "historyTitle": "땅속 보물부터 숨은 비밀까지",
+ "historyBody": "dig는 중세 영어 diggen에서 왔지만 정확한 기원은 확실하지 않아요. dig up은 원래 감자나 뼈처럼 땅속에 있는 것을 파서 꺼낸다는 뜻이에요. 여기서 숨겨진 정보나 과거의 비밀을 '캐내다, 들춰내다'라는 뜻으로 넓어졌어요. 고고학자들이 유물을 발굴하는 장면을 떠올리면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "excavate",
+   "pos": "동사",
+   "meaning": "발굴하다",
+   "en": "Archaeologists excavated an ancient city.",
+   "ko": "고고학자들이 고대 도시를 발굴했어요."
+  },
+  {
+   "word": "unearth",
+   "pos": "동사",
+   "meaning": "발굴하다, 밝혀내다",
+   "en": "They unearthed a dinosaur bone.",
+   "ko": "그들은 공룡 뼈를 발굴했어."
+  },
+  {
+   "word": "find out",
+   "pos": "구동사",
+   "meaning": "알아내다",
+   "en": "I found out the truth yesterday.",
+   "ko": "나는 어제 진실을 알아냈어."
+  },
+  {
+   "word": "bring up",
+   "pos": "구동사",
+   "meaning": "(화제를) 꺼내다, 기르다",
+   "en": "Don't bring up that topic again.",
+   "ko": "그 얘기 다시 꺼내지 마."
+  },
+  {
+   "word": "dig in",
+   "pos": "구동사",
+   "meaning": "먹기 시작하다, 파고들다",
+   "en": "Let's dig in before the food gets cold.",
+   "ko": "음식 식기 전에 먹자."
+  }
+ ],
+ "imageSense": "대표 의미: 삽으로 땅을 파서 오래된 상자를 꺼내는 장면",
+ "imageCaption": "정원 흙 속에서 녹슨 상자가 모습을 드러내는 순간을 떠올려 보세요.",
+ "movieLineEn": "The reporter dug up an old secret about the mayor.",
+ "movieLineKo": "그 기자는 시장에 관한 오래된 비밀을 캐냈어.",
+ "storyTitle": "타임캡슐의 정체",
+ "story": "10년 전 묻은 타임캡슐을 dig up(파내다)하는 날이었어요. 우리는 고고학자처럼 땅을 excavate(발굴하다)했죠. 마침내 상자를 unearth(발굴하다)하고 열어 보니 편지가 있었어요. 거기엔 '이걸 꺼낸 너, 아직도 키 작지?'라고 적혀 있었어요. 과거의 나에게 팩트 폭행을 당한 걸 find out(알아내다)한 순간이었죠."
+}

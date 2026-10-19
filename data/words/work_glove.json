@@ -1,0 +1,68 @@
+{
+ "word": "work glove",
+ "pos": "명사구",
+ "phonetic": "[wɜːrk ɡlʌv]",
+ "meaning": "작업용 장갑, 목장갑",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "work",
+   "meaning": "일, 작업 (work)",
+   "note": "어떤 용도의 장갑인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "glove",
+   "meaning": "장갑 (glove)",
+   "note": "손가락이 나뉜 장갑을 뜻해요."
+  }
+ ],
+ "summary": "<strong>work</strong> (작업) + <strong>glove</strong> (장갑) = '일할 때 손을 보호하는 장갑'에서 <strong>'작업용 장갑'</strong>",
+ "historyTitle": "고대 영어에서 온 두 단어",
+ "historyBody": "work는 고대 영어 weorc(일, 행위)에서, glove는 고대 영어 glof에서 왔어요. 둘 다 아주 오래된 게르만계 단어예요. 손가락이 나뉜 장갑은 glove, 엄지만 따로 있는 벙어리장갑은 mitten이라고 구분해 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "glove",
+   "pos": "명사",
+   "meaning": "장갑",
+   "en": "She wore leather gloves in winter.",
+   "ko": "그녀는 겨울에 가죽 장갑을 꼈어요."
+  },
+  {
+   "word": "mitten",
+   "pos": "명사",
+   "meaning": "벙어리장갑",
+   "en": "The child lost one of her mittens in the snow.",
+   "ko": "아이는 눈 속에서 벙어리장갑 한 짝을 잃어버렸어요."
+  },
+  {
+   "word": "rubber gloves",
+   "pos": "명사구",
+   "meaning": "고무장갑",
+   "en": "Wear rubber gloves when you wash the dishes.",
+   "ko": "설거지할 때 고무장갑을 끼세요."
+  },
+  {
+   "word": "protective",
+   "pos": "형용사",
+   "meaning": "보호하는",
+   "en": "Workers must wear protective clothing.",
+   "ko": "작업자들은 보호복을 입어야 해요."
+  },
+  {
+   "word": "workplace",
+   "pos": "명사",
+   "meaning": "직장, 작업장",
+   "en": "Safety in the workplace is very important.",
+   "ko": "작업장 안전은 매우 중요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 목장갑을 끼고 무거운 상자를 옮기는 장면",
+ "imageCaption": "흰 바탕에 빨간 고무가 묻은 목장갑으로 텃밭 흙을 파는 모습을 떠올려 보세요.",
+ "movieLineEn": "Put on your work gloves. This job is going to get messy.",
+ "movieLineKo": "작업 장갑 껴. 이 일 꽤 지저분해질 거야.",
+ "storyTitle": "장갑의 정체",
+ "story": "봉사 활동 날, 선생님이 work glove(작업용 장갑)를 나눠 주셨어요. 지우는 rubber gloves(고무장갑)가 더 protective(보호하는)하다며 집에서 가져왔죠. 그런데 그건 엄마의 김장용 고무장갑이었어요. 쓰레기를 줍는 내내 손에서 고춧가루 냄새가 나서 강아지들이 지우를 졸졸 따라왔답니다. 다음엔 mitten(벙어리장갑)을 가져온대요."
+}

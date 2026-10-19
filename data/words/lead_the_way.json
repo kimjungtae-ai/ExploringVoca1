@@ -1,0 +1,68 @@
+{
+ "word": "lead the way",
+ "pos": "숙어",
+ "phonetic": "[liːd ðə weɪ]",
+ "meaning": "앞장서다, 길을 안내하다, 선도하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "lead",
+   "meaning": "이끌다 (lead)",
+   "note": "앞에서 '이끈다'는 핵심 동작을 맡아요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "the way",
+   "meaning": "길 (way)",
+   "note": "이끄는 대상이 '길'임을 알려 줘요."
+  }
+ ],
+ "summary": "<strong>lead</strong> (이끌다) + <strong>the way</strong> (길) = '앞에서 길을 이끌다'에서 <strong>'앞장서다, 선도하다'</strong>",
+ "historyTitle": "고대 영어 lǣdan, '가게 하다'",
+ "historyBody": "lead는 고대 영어 lǣdan(데려가다, 이끌다)에서 왔는데, '가게 하다'라는 뜻으로 '여행하다'와 관련된 게르만어 뿌리에서 나왔어요. lead the way는 문자 그대로 길 안내뿐 아니라 '어떤 분야를 선도하다'라는 뜻으로도 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "leader",
+   "pos": "명사",
+   "meaning": "지도자, 리더",
+   "en": "She is a natural leader.",
+   "ko": "그녀는 타고난 리더야."
+  },
+  {
+   "word": "leadership",
+   "pos": "명사",
+   "meaning": "리더십, 지도력",
+   "en": "He showed great leadership during the crisis.",
+   "ko": "그는 위기 동안 훌륭한 리더십을 보여 줬어."
+  },
+  {
+   "word": "misleading",
+   "pos": "형용사",
+   "meaning": "오해를 불러일으키는",
+   "en": "The ad was misleading.",
+   "ko": "그 광고는 오해의 소지가 있었어."
+  },
+  {
+   "word": "lead to",
+   "pos": "구동사",
+   "meaning": "~으로 이어지다",
+   "en": "Too much stress can lead to illness.",
+   "ko": "과도한 스트레스는 병으로 이어질 수 있어."
+  },
+  {
+   "word": "show the way",
+   "pos": "숙어",
+   "meaning": "길을 보여 주다",
+   "en": "Could you show me the way to the station?",
+   "ko": "역으로 가는 길 좀 알려 주시겠어요?"
+  }
+ ],
+ "imageSense": "대표 의미: 손전등을 든 사람이 앞장서서 동굴을 걷는 장면",
+ "imageCaption": "맨 앞에서 깃발을 들고 일행을 이끄는 가이드의 모습을 떠올려 보세요.",
+ "movieLineEn": "You know this forest better than anyone. Lead the way.",
+ "movieLineKo": "이 숲은 네가 누구보다 잘 알잖아. 앞장서.",
+ "storyTitle": "길치 대장",
+ "story": "캠프에서 민규가 손을 들며 lead the way(앞장서다) 하겠다고 했어요. 모두 그의 leadership(리더십)을 믿고 따라갔죠. 하지만 민규의 길 안내는 완전히 misleading(오해를 불러일으키는) 했어요. 세 시간 헤맨 끝에 lead to(~으로 이어지다) 된 곳은 출발 지점! leader(리더)는 당당하게 말했어요. \"훈련 끝!\""
+}
