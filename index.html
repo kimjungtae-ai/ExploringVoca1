@@ -735,113 +735,24 @@
           lucide.createIcons();
           generateWordIllustration(word, currentWordData.imageSense);
         } catch (err) {
-          console.error("Gemini fetch error, using safe educational fallback:", err);
-          currentWordData = createSafeFallbackEtymology(word);
-          renderResults(currentWordData);
+          // 연결 오류를 "나누기 어려운 단어"처럼 보이게 하지 않고, 사실대로 알려 줌
+          console.error("etymology fetch error:", err);
           loading.classList.add("hidden");
-          results.classList.remove("hidden");
-          lucide.createIcons();
-          renderSvgPlaceholder(word);
+          const code = err && err.message;
+          showAlert(code === "rate_limited" ? "지금 찾는 사람이 많아요. 1분 뒤에 다시 눌러 주세요."
+            : code === "server_not_ready" ? "단어를 만드는 서버가 아직 준비되지 않았어요."
+            : "단어 정보를 가져오지 못했어요. 잠시 뒤에 다시 눌러 주세요.");
         }
       }
     }
 
+    // Gemini는 서버(api/word.js)에서만 부름. API 키는 Vercel 환경 변수에만 있고 이 파일에는 절대 넣지 않음.
     async function fetchEtymologyFromGemini(word) {
-      const apiKey = "AQ.Ab8RN6JAmF7zOB7kJqwpxYN7YDTrZu1sY36o0U-PJV8L2eYv9A";
-      const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
-
-      const systemInstruction = `
-당신은 중학교 1학년 학생에게 친절하게 영어를 가르쳐 주는 베테랑 ESL 교사이자 영어 어원 전문가입니다.
-단어의 어원을 결코 억지로 지어내지 말고, 역사적 사실에 부합하는 경우에만 접두사/어근/접미사를 명쾌하게 분석하세요.
-오늘날 영어에서 어원으로 쪼개기 어려운 단어는 "이 단어는 오늘날의 영어에서 이렇게 나누어 설명하기 어렵습니다"라고 정직하게 안내하세요.
-초등 6학년~중학교 1학년이 쉽게 이해할 수 있는 따뜻한 존댓말로 응답해야 합니다.
-파생어(family words)는 실제로 어원이 이어지는 자주 쓰이는 단어로 최대 6~8개, 각 단어마다 A2 수준의 쉬운 영어 예문과 한국어 번역을 포함하세요.
-
-[매우 중요 - 이야기 작성 규칙]:
-- 이야기(story)에는 탐험 단어 본체와 파생어를 포함하여 **최소 5개 이상의 영어 단어**가 반드시 포함되어야 합니다.
-- 각 영어 단어는 반드시 '단어(한국어 뜻)' 형식으로 적으세요 (예: transport(수송하다), portable(휴대용의)).
-- 초등 6학년도 배꼽 잡는 반전과 유머를 담아 자연스러운 한국어 문장으로 작성하세요.
-- 전체 분량은 공백 포함 250~300자 이내를 엄수하세요.
-
-반드시 아래 JSON 스키마 규격에 맞춰 JSON 문자열만 출력하세요.
-`;
-
-      const prompt = `영어 단어 "${word}"의 어원 탐험 데이터를 생성해 주세요. 반드시 이야기(story) 항목에 학습 단어(본 단어 및 파생어)가 최소 5개 이상 '단어(뜻)' 형식으로 자연스럽게 포함되도록 해주세요.`;
-
-      const payload = {
-        system_instruction: {
-          parts: [{ text: systemInstruction }]
-        },
-        contents: [
-          {
-            role: "user",
-            parts: [{ text: prompt }]
-          }
-        ],
-        generationConfig: {
-          responseMimeType: "application/json",
-          responseSchema: {
-            type: "OBJECT",
-            properties: {
-              word: { type: "STRING" },
-              pos: { type: "STRING" },
-              phonetic: { type: "STRING" },
-              meaning: { type: "STRING" },
-              isDifficultToSplit: { type: "BOOLEAN" },
-              morphemes: {
-                type: "ARRAY",
-                items: {
-                  type: "OBJECT",
-                  properties: {
-                    type: { type: "STRING" },
-                    part: { type: "STRING" },
-                    meaning: { type: "STRING" },
-                    note: { type: "STRING" }
-                  },
-                  required: ["type", "part", "meaning", "note"]
-                }
-              },
-              summary: { type: "STRING" },
-              historyTitle: { type: "STRING" },
-              historyBody: { type: "STRING" },
-              caution: { type: "BOOLEAN" },
-              familyWords: {
-                type: "ARRAY",
-                items: {
-                  type: "OBJECT",
-                  properties: {
-                    word: { type: "STRING" },
-                    pos: { type: "STRING" },
-                    meaning: { type: "STRING" },
-                    en: { type: "STRING" },
-                    ko: { type: "STRING" }
-                  },
-                  required: ["word", "pos", "meaning", "en", "ko"]
-                }
-              },
-              imageSense: { type: "STRING" },
-              imageCaption: { type: "STRING" },
-              movieLineEn: { type: "STRING" },
-              movieLineKo: { type: "STRING" },
-              storyTitle: { type: "STRING" },
-              story: { type: "STRING" }
-            },
-            required: ["word", "pos", "meaning", "morphemes", "summary", "historyTitle", "historyBody", "familyWords", "imageSense", "imageCaption", "movieLineEn", "movieLineKo", "storyTitle", "story"]
-          }
-        }
-      };
-
-      const res = await fetch(apiUrl, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload)
-      });
-
-      if (!res.ok) throw new Error("API call failed: " + res.status);
-      const json = await res.json();
-      const rawText = json.candidates?.[0]?.content?.parts?.[0]?.text;
-      if (!rawText) throw new Error("Empty candidate response");
-      return JSON.parse(rawText);
+      const res = await fetch("/api/word?w=" + encodeURIComponent(word));
+      let data = null;
+      try { data = await res.json(); } catch (e) {}
+      if (!res.ok) throw new Error((data && data.code) || ("api_" + res.status));
+      return data;
     }
 
     function createSafeFallbackEtymology(word) {
