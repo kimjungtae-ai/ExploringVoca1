@@ -1,0 +1,68 @@
+{
+ "word": "sunscreen",
+ "pos": "명사",
+ "phonetic": "[ˈsʌnskriːn]",
+ "meaning": "자외선 차단제, 선크림",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sun",
+   "meaning": "해, 햇빛 (sun)",
+   "note": "고대 영어 sunne에서 온 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "screen",
+   "meaning": "가리개, 막 (screen)",
+   "note": "무언가를 가려서 막아 주는 칸막이예요."
+  }
+ ],
+ "summary": "<strong>sun</strong> (햇빛) + <strong>screen</strong> (가리개) = '햇빛을 가려 막는 것'에서 <strong>'자외선 차단제'</strong>가 되었어요.",
+ "historyTitle": "햇빛을 막는 칸막이",
+ "historyBody": "screen은 고대 북부 프랑스어 escren(불가리개, 칸막이)에서 왔고, 그 뿌리는 게르만어로 보는 경우가 많지만 확실하진 않아요. 원래 난로 열을 막는 가리개였는데, 나중에 영화나 TV의 '화면'이라는 뜻도 생겼어요. sunscreen은 20세기 중반부터 피부를 보호하는 크림을 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "screen",
+   "pos": "명사 / 동사",
+   "meaning": "화면, 칸막이 / 가리다, 검사하다",
+   "en": "Don't look at the screen for too long.",
+   "ko": "화면을 너무 오래 보지 마세요."
+  },
+  {
+   "word": "screening",
+   "pos": "명사",
+   "meaning": "검사, 상영",
+   "en": "Regular health screening can save lives.",
+   "ko": "정기적인 건강 검진은 생명을 구할 수 있어요."
+  },
+  {
+   "word": "sunlight",
+   "pos": "명사",
+   "meaning": "햇빛",
+   "en": "The room was filled with warm sunlight.",
+   "ko": "방은 따뜻한 햇빛으로 가득 찼어요."
+  },
+  {
+   "word": "sunburn",
+   "pos": "명사",
+   "meaning": "햇볕에 탐, 화상",
+   "en": "I got a bad sunburn on my shoulders.",
+   "ko": "나는 어깨가 햇볕에 심하게 탔어요."
+  },
+  {
+   "word": "sunny",
+   "pos": "형용사",
+   "meaning": "화창한",
+   "en": "The forecast says it will be sunny tomorrow.",
+   "ko": "일기 예보에 따르면 내일은 화창할 거래요."
+  }
+ ],
+ "imageSense": "대표 의미: 해변에서 얼굴에 하얀 크림을 바르는 장면",
+ "imageCaption": "뜨거운 햇볕 아래 얼굴과 팔에 하얀 크림을 바르는 모습을 떠올려 보세요. 피부 앞에 보이지 않는 가리개를 세우는 거예요.",
+ "movieLineEn": "Put on more sunscreen, or you'll look like a lobster!",
+ "movieLineKo": "선크림 더 발라. 안 그러면 바닷가재처럼 될 거야!",
+ "storyTitle": "얼룩덜룩한 휴가",
+ "story": "sunny(화창한) 날 해변에서 나는 sunscreen(선크림)을 바르고 휴대폰 screen(화면)만 보며 누워 있었어요. 그런데 손가락 모양으로 크림이 덜 발린 거예요. 결국 sunburn(햇볕 화상) 때문에 등에 하얀 손가락 무늬가 생겼죠. 친구들은 사진을 보며 \"등에 손바닥 문신했냐\"고 놀렸답니다!"
+}

@@ -1,0 +1,75 @@
+{
+ "word": "shorten",
+ "pos": "동사",
+ "phonetic": "[ˈʃɔːrtn]",
+ "meaning": "짧게 하다, 줄이다, 단축하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "short",
+   "meaning": "짧은 (short)",
+   "note": "고대 영어 'sceort'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 만들다 (동사)",
+   "note": "형용사에 붙어 '~하게 만들다'라는 동사를 만들어요. (예: dark→darken)"
+  }
+ ],
+ "summary": "<strong>short</strong> (짧은) + <strong>-en</strong> (~하게 만들다) = <strong>'짧게 하다, 줄이다'</strong>예요.",
+ "historyTitle": "형용사를 동사로 바꾸는 -en",
+ "historyBody": "-en은 고대 영어부터 이어진 접미사로, 형용사에 붙여 '그렇게 만들다'라는 동사를 만들어요. short에 -en을 붙인 shorten은 '짧게 만들다'가 되었죠. widen(넓히다), weaken(약하게 하다)도 같은 방식이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "short",
+   "pos": "형용사",
+   "meaning": "짧은, 부족한",
+   "en": "Life is too short to waste time.",
+   "ko": "인생은 시간을 낭비하기엔 너무 짧아요."
+  },
+  {
+   "word": "shortage",
+   "pos": "명사",
+   "meaning": "부족, 결핍",
+   "en": "There is a shortage of water in summer.",
+   "ko": "여름에는 물 부족이 있어요."
+  },
+  {
+   "word": "shortly",
+   "pos": "부사",
+   "meaning": "곧, 간단히",
+   "en": "The train will arrive shortly.",
+   "ko": "기차가 곧 도착할 거예요."
+  },
+  {
+   "word": "shorts",
+   "pos": "명사",
+   "meaning": "반바지",
+   "en": "He wore shorts and sandals to the beach.",
+   "ko": "그는 해변에 반바지와 샌들을 신고 갔어요."
+  },
+  {
+   "word": "shortcut",
+   "pos": "명사",
+   "meaning": "지름길, 손쉬운 방법",
+   "en": "We took a shortcut through the park.",
+   "ko": "우리는 공원을 가로지르는 지름길로 갔어요."
+  },
+  {
+   "word": "shortcoming",
+   "pos": "명사",
+   "meaning": "결점, 단점",
+   "en": "Everyone has some shortcomings.",
+   "ko": "누구나 몇 가지 단점이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가위로 긴 바지 밑단을 싹둑 자르는 장면",
+ "imageCaption": "길게 늘어진 줄을 가위로 잘라 짧게 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Shorten your speech. We only have one minute left!",
+ "movieLineKo": "연설을 줄여. 1분밖에 안 남았어!",
+ "storyTitle": "교장 선생님의 짧은 훈화",
+ "story": "교장 선생님이 오늘 훈화를 shorten(줄이다)하겠다고 하셨어요. 우리는 shortly(곧) 끝나리라 믿었죠. 그런데 '짧게 말하는 법'에 대해 40분을 말씀하셨어요! 운동장에서 shorts(반바지)만 입은 우리는 추위에 떨었고, 선생님은 자신의 shortcoming(단점)을 깨달으셨대요."
+}

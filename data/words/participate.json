@@ -1,0 +1,81 @@
+{
+ "word": "participate",
+ "pos": "동사",
+ "phonetic": "[pɑːrˈtɪsɪpeɪt]",
+ "meaning": "참여하다, 참가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "parti- (pars)",
+   "meaning": "부분 (part)",
+   "note": "라틴어 pars, partis(부분, 몫)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cip (capere)",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "라틴어 capere(잡다)가 단어 속에서 cip으로 모양이 바뀌었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>parti</strong> (부분) + <strong>cip</strong> (취하다) + <strong>-ate</strong> (~하다) = '한 몫을 취하다'라는 뜻에서 <strong>'참여하다'</strong>가 되었어요.",
+ "historyTitle": "'몫을 나눠 갖는 사람'에서 온 말",
+ "historyBody": "라틴어 particeps는 pars(부분, 몫)와 capere(취하다)가 합쳐져 '몫을 취하는 사람'이라는 뜻이었어요. 여기서 동사 participare(참여하다)가 나왔고, 15세기 무렵 영어에 들어왔어요. 처음엔 '몫을 나눠 갖다'라는 뜻이었다가 '어떤 일에 함께하다', 즉 '참여하다'라는 뜻이 되었어요. participate in(~에 참여하다)의 형태로 꼭 기억해 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "participant",
+   "pos": "명사",
+   "meaning": "참가자",
+   "en": "Each participant received a free T-shirt.",
+   "ko": "참가자마다 무료 티셔츠를 받았어요."
+  },
+  {
+   "word": "participation",
+   "pos": "명사",
+   "meaning": "참여",
+   "en": "Active participation in class improves learning.",
+   "ko": "수업에 적극적으로 참여하면 학습 효과가 좋아져요."
+  },
+  {
+   "word": "part",
+   "pos": "명사",
+   "meaning": "부분, 역할",
+   "en": "She played an important part in the project.",
+   "ko": "그녀는 그 프로젝트에서 중요한 역할을 했어요."
+  },
+  {
+   "word": "partial",
+   "pos": "형용사",
+   "meaning": "부분적인, 편파적인",
+   "en": "The plan was only a partial success.",
+   "ko": "그 계획은 부분적으로만 성공했어요."
+  },
+  {
+   "word": "particle",
+   "pos": "명사",
+   "meaning": "입자, 작은 조각",
+   "en": "Tiny particles of dust floated in the sunlight.",
+   "ko": "작은 먼지 입자들이 햇빛 속에 떠다녔어요."
+  },
+  {
+   "word": "portion",
+   "pos": "명사",
+   "meaning": "부분, 몫, 1인분",
+   "en": "A large portion of the budget was spent on books.",
+   "ko": "예산의 큰 부분이 책 구입에 쓰였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 모둠 친구들이 각자 맡은 부분을 들고 큰 그림을 완성하는 장면",
+ "imageCaption": "퍼즐 조각을 하나씩 들고 함께 그림을 맞추는 모습을 떠올려 보세요. 내 몫을 맡아 함께하는 게 participate예요.",
+ "movieLineEn": "If you want to win, you have to participate. Sitting there won't help.",
+ "movieLineKo": "이기고 싶으면 참여해야 해. 거기 앉아만 있으면 소용없어.",
+ "storyTitle": "참여왕 할머니",
+ "story": "우리 할머니는 마을 행사마다 participate(참여하다)하세요. 줄넘기 대회 participant(참가자)로 나가 1등도 하셨죠. 할머니의 열정적인 participation(참여) 덕분에 마을이 활기차졌어요. 비결을 여쭤보니 할머니가 웃으셨어요. '상품 portion(몫)이 제일 커서 그래!'"
+}

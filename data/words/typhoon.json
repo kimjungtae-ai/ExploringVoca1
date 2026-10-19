@@ -1,0 +1,48 @@
+{
+ "word": "typhoon",
+ "pos": "명사",
+ "phonetic": "[taɪˈfuːn]",
+ "meaning": "태풍",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "typhoon",
+   "meaning": "큰 바람 (great wind)",
+   "note": "아랍어·그리스어, 그리고 중국어 '대풍(大風)'이 섞여 만들어진 말이라 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "동양의 <strong>'대풍(大風)'</strong>과 그리스 괴물 <strong>Typhon</strong>의 이름이 섞여 <strong>'태풍'</strong>이 되었어요.",
+ "historyTitle": "여러 언어가 섞여 만든 폭풍",
+ "historyBody": "typhoon의 기원은 하나로 딱 정해지지 않았어요. 16세기에는 아랍어·페르시아어를 거친 'tufan(폭풍)'이 쓰였는데, 이 말은 그리스 신화의 바람 괴물 'Typhon'과도 관련이 있다고 해요. 이후 중국어 '대풍(大風, 큰 바람)'의 발음과 섞이면서 지금의 typhoon 철자가 굳어진 것으로 사전들은 설명해요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "super typhoon",
+   "pos": "명사",
+   "meaning": "초강력 태풍",
+   "en": "The super typhoon destroyed many houses on the island.",
+   "ko": "초강력 태풍이 섬의 많은 집을 부숴 버렸어요."
+  },
+  {
+   "word": "typhoon season",
+   "pos": "명사",
+   "meaning": "태풍철",
+   "en": "Typhoon season in Korea usually comes in late summer.",
+   "ko": "한국의 태풍철은 보통 늦여름에 와요."
+  },
+  {
+   "word": "Typhon",
+   "pos": "명사",
+   "meaning": "티폰 (그리스 신화의 폭풍 괴물)",
+   "en": "In Greek myths, Typhon was a giant monster of storms.",
+   "ko": "그리스 신화에서 티폰은 폭풍을 일으키는 거대한 괴물이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거센 비바람에 야자수가 휘어지는 바닷가",
+ "imageCaption": "하늘을 빙글빙글 도는 거대한 구름 소용돌이와 휘어지는 나무들을 떠올려 보세요.",
+ "movieLineEn": "A typhoon is coming, and you want to go surfing?!",
+ "movieLineKo": "태풍이 오는데 서핑을 하러 가겠다고?!",
+ "storyTitle": "태풍과 우산",
+ "story": "typhoon season(태풍철)에 아빠가 새 우산을 사 왔어요. \"이건 super typhoon(초강력 태풍)도 견딘대!\" 다음 날 진짜 typhoon(태풍)이 왔고, 아빠는 우산을 펼쳤어요. 그러자 아빠가 우산과 함께 하늘로 둥실! 다행히 옆집 마당에 내려앉았는데, 거기서 Typhon(티폰) 괴물 인형과 눈이 마주쳤답니다."
+}

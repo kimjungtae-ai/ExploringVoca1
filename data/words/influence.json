@@ -1,0 +1,81 @@
+{
+ "word": "influence",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪnfluəns]",
+ "meaning": "영향(력) / 영향을 주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안으로 스며든다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "flu",
+   "meaning": "흐르다 (flow)",
+   "note": "라틴어 fluere(흐르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>flu</strong> (흐르다) + <strong>-ence</strong> = '안으로 흘러 들어오는 힘'이라는 뜻에서 <strong>'영향'</strong>이 되었습니다.",
+ "historyTitle": "별에서 흘러내리던 신비한 힘",
+ "historyBody": "중세 점성술에서는 별에서 신비한 액체가 흘러나와 사람의 운명과 성격에 스며든다고 믿었어요. 이것을 라틴어로 'influentia'라고 불렀죠. 독감을 뜻하는 influenza(flu)도 별의 영향으로 병이 생긴다고 여긴 이탈리아어에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "influential",
+   "pos": "형용사",
+   "meaning": "영향력 있는",
+   "en": "She is one of the most influential writers today.",
+   "ko": "그녀는 오늘날 가장 영향력 있는 작가 중 한 명이에요."
+  },
+  {
+   "word": "fluent",
+   "pos": "형용사",
+   "meaning": "유창한 (술술 흐르는)",
+   "en": "He is fluent in three languages.",
+   "ko": "그는 세 개 언어를 유창하게 해요."
+  },
+  {
+   "word": "fluid",
+   "pos": "명사 / 형용사",
+   "meaning": "액체, 유체 / 유동적인",
+   "en": "Drink plenty of fluids when you have a fever.",
+   "ko": "열이 날 때는 수분을 충분히 섭취하세요."
+  },
+  {
+   "word": "flu",
+   "pos": "명사",
+   "meaning": "독감 (influenza)",
+   "en": "I stayed home because I had the flu.",
+   "ko": "나는 독감에 걸려서 집에 있었어요."
+  },
+  {
+   "word": "fluctuate",
+   "pos": "동사",
+   "meaning": "변동하다",
+   "en": "Prices fluctuate from month to month.",
+   "ko": "가격은 달마다 변동해요."
+  },
+  {
+   "word": "affluent",
+   "pos": "형용사",
+   "meaning": "부유한 (넘쳐흐르는)",
+   "en": "They live in an affluent neighborhood.",
+   "ko": "그들은 부유한 동네에 살아요."
+  }
+ ],
+ "imageSense": "대표 의미: 한 사람의 말이 물결처럼 사람들 마음속으로 퍼져 나가는 장면",
+ "imageCaption": "잔잔한 물에 잉크 한 방울이 흘러 들어가 퍼지는 모습을 떠올려 보세요. 보이지 않게 스며드는 힘, 그게 influence예요.",
+ "movieLineEn": "Don't let fear influence your choice.",
+ "movieLineKo": "두려움이 네 선택에 영향을 주게 하지 마.",
+ "storyTitle": "영향력 있는 할머니",
+ "story": "우리 할머니는 동네에서 가장 influential(영향력 있는) 분이에요. 할머니가 'flu(독감) 조심!' 하면 온 동네가 마스크를 써요. 할머니의 influence(영향)는 정말 대단하죠. 영어도 fluent(유창한)하게 하셔서 외국인 관광객도 따라와요. 비결을 물으니 '유튜브 구독자 100만'이래요."
+}

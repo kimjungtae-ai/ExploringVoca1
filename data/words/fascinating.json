@@ -1,0 +1,60 @@
+{
+ "word": "fascinating",
+ "pos": "형용사",
+ "phonetic": "[ˈfæsɪneɪtɪŋ]",
+ "meaning": "매혹적인, 매우 흥미로운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fascin",
+   "meaning": "마법을 걸다, 홀리다 (bewitch)",
+   "note": "라틴어 fascinare(마법을 걸다), fascinus(주문, 부적)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "'그렇게 하다'라는 동사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사형)",
+   "note": "'그런 느낌을 주는'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>fascin</strong> (마법을 걸다) + <strong>-ate</strong> (~하다) + <strong>-ing</strong> (~하게 하는) = '마법에 걸린 듯 홀리게 하는'이라는 뜻에서 <strong>'매혹적인'</strong>이 되었어요.",
+ "historyTitle": "눈빛으로 홀리던 마법",
+ "historyBody": "라틴어 fascinare는 '마법을 걸다, 홀리다'라는 뜻이었고, fascinus는 주문이나 부적을 뜻했어요. 16세기 영어 fascinate는 실제로 뱀이 눈빛으로 먹잇감을 꼼짝 못 하게 하는 것처럼 '홀리다'를 뜻했죠. 지금은 '마법처럼 마음을 사로잡을 만큼 흥미로운'이라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fascinate",
+   "pos": "동사",
+   "meaning": "매혹하다, 마음을 사로잡다",
+   "en": "Stars and planets have always fascinated my brother.",
+   "ko": "별과 행성은 늘 우리 형의 마음을 사로잡았어요."
+  },
+  {
+   "word": "fascinated",
+   "pos": "형용사",
+   "meaning": "매료된",
+   "en": "The children were fascinated by the magic show.",
+   "ko": "아이들은 마술 쇼에 푹 빠졌어요."
+  },
+  {
+   "word": "fascination",
+   "pos": "명사",
+   "meaning": "매혹, 매료",
+   "en": "She has a fascination with ancient Egypt.",
+   "ko": "그녀는 고대 이집트에 매료되어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 수족관 유리 앞에서 입을 벌리고 상어를 바라보는 아이",
+ "imageCaption": "마법에 걸린 듯 눈을 떼지 못하는 아이를 떠올리세요. 그렇게 만드는 것이 fascinating이에요.",
+ "movieLineEn": "Fascinating... I've never seen a creature like this before.",
+ "movieLineKo": "흥미롭군... 이런 생물은 처음 봐.",
+ "storyTitle": "매혹적인 수업의 정체",
+ "story": "생물 선생님의 수업은 정말 fascinating(매혹적인)했어요. 학생들은 모두 fascinated(매료된) 얼굴로 칠판을 바라봤죠. 공룡 이야기는 우리를 완전히 fascinate(매혹하다)했어요. 다들 공룡에 대한 fascination(매료)으로 눈이 반짝였죠. 그런데 사실 우리가 본 건 선생님 등 뒤에 붙은 '나를 따라 하세요' 쪽지였답니다."
+}

@@ -1,0 +1,87 @@
+{
+ "word": "insufficient",
+ "pos": "형용사",
+ "phonetic": "[ˌɪnsəˈfɪʃənt]",
+ "meaning": "불충분한, 부족한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "suf-",
+   "meaning": "아래에서 (sub-, under)",
+   "note": "sub-가 f 앞에서 suf-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fic",
+   "meaning": "만들다, 하다 (make, do)",
+   "note": "라틴어 facere(만들다)가 모양이 바뀐 거예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ient",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>suf-</strong> (아래에서) + <strong>fic</strong> (만들다) + <strong>-ient</strong> = '밑에서 받쳐 채워 주지 못하는'이라는 뜻에서 <strong>'불충분한'</strong>이 되었습니다.",
+ "historyTitle": "아래부터 채워 올리기",
+ "historyBody": "라틴어 'sufficere'는 '아래에 놓다, 채워 주다, 충분하다'라는 뜻이었어요. 밑에서부터 필요한 만큼 만들어 채운다는 느낌이죠. 여기에 in-이 붙어 '충분하지 않은'이 되었고, factory(공장), effect(효과)도 같은 facere 가족이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sufficient",
+   "pos": "형용사",
+   "meaning": "충분한",
+   "en": "We have sufficient food for the trip.",
+   "ko": "우리는 여행에 충분한 음식이 있어요."
+  },
+  {
+   "word": "suffice",
+   "pos": "동사",
+   "meaning": "충분하다",
+   "en": "A short answer will suffice.",
+   "ko": "짧은 대답이면 충분할 거예요."
+  },
+  {
+   "word": "efficient",
+   "pos": "형용사",
+   "meaning": "효율적인",
+   "en": "This car is very fuel-efficient.",
+   "ko": "이 차는 연비가 아주 좋아요."
+  },
+  {
+   "word": "deficient",
+   "pos": "형용사",
+   "meaning": "부족한, 결핍된",
+   "en": "His diet is deficient in vitamins.",
+   "ko": "그의 식단은 비타민이 부족해요."
+  },
+  {
+   "word": "effect",
+   "pos": "명사",
+   "meaning": "효과, 영향",
+   "en": "The medicine had a quick effect.",
+   "ko": "그 약은 효과가 빨리 나타났어요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장",
+   "en": "My uncle works at a car factory.",
+   "ko": "우리 삼촌은 자동차 공장에서 일해요."
+  }
+ ],
+ "imageSense": "대표 의미: 컵에 물이 반도 안 차서 목마른 사람이 아쉬워하는 장면",
+ "imageCaption": "밑에서부터 채워야 할 그릇이 절반도 차지 않은 모습을 떠올려 보세요. 모자란 느낌, 그게 insufficient예요.",
+ "movieLineEn": "Your evidence is insufficient, detective.",
+ "movieLineKo": "형사님, 당신의 증거는 불충분해요.",
+ "storyTitle": "모자란 피자",
+ "story": "생일 파티에 피자가 insufficient(불충분한)했어요. 엄마는 한 판이면 sufficient(충분한)할 줄 알았거든요. 아빠는 efficient(효율적인) 방법을 생각해 냈어요. 피자를 아주 얇게 썰어 모두에게 나눠 준 거죠! 그 effect(효과)는 놀라웠어요. 다들 배가 고파 결국 치킨을 시켰대요."
+}

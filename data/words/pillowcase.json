@@ -1,0 +1,68 @@
+{
+ "word": "pillowcase",
+ "pos": "명사",
+ "phonetic": "[ˈpɪloʊkeɪs]",
+ "meaning": "베갯잇, 베개 커버",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pillow",
+   "meaning": "베개 (pillow)",
+   "note": "고대 영어 pyle에서 왔고, 라틴어 pulvinus(쿠션)를 빌린 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "case",
+   "meaning": "상자, 덮개 (box, cover)",
+   "note": "라틴어 capsa(상자)에서 고대 북부 프랑스어 casse를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>pillow</strong> (베개) + <strong>case</strong> (덮개, 상자) = 베개를 감싸는 덮개, 곧 <strong>'베갯잇'</strong>이에요.",
+ "historyTitle": "로마의 쿠션과 상자가 만나다",
+ "historyBody": "pillow는 라틴어 pulvinus(쿠션)가 아주 일찍 게르만어에 들어가 고대 영어 pyle가 된 말이에요. case(덮개, 상자)는 라틴어 capsa(상자)에서 노르만 프랑스어를 거쳐 들어왔어요. 두 단어가 합쳐진 pillowcase는 1700년대 무렵부터 쓰였답니다. 참고로 '경우'라는 뜻의 case는 라틴어 casus에서 온 다른 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pillow",
+   "pos": "명사",
+   "meaning": "베개",
+   "en": "I can't sleep well without my soft pillow.",
+   "ko": "나는 푹신한 베개 없이는 잘 못 자요."
+  },
+  {
+   "word": "suitcase",
+   "pos": "명사",
+   "meaning": "여행 가방",
+   "en": "She packed her suitcase the night before the trip.",
+   "ko": "그녀는 여행 전날 밤 여행 가방을 쌌어요."
+  },
+  {
+   "word": "briefcase",
+   "pos": "명사",
+   "meaning": "서류 가방",
+   "en": "My father carries a black briefcase to work.",
+   "ko": "아빠는 검은 서류 가방을 들고 출근하세요."
+  },
+  {
+   "word": "bookcase",
+   "pos": "명사",
+   "meaning": "책장",
+   "en": "The bookcase in my room is full of comics.",
+   "ko": "내 방 책장은 만화책으로 가득해요."
+  },
+  {
+   "word": "capsule",
+   "pos": "명사",
+   "meaning": "캡슐, 작은 용기",
+   "en": "Take one capsule after each meal.",
+   "ko": "식후마다 캡슐 하나씩 드세요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃무늬 천으로 감싼 베개",
+ "imageCaption": "베개에 꽃무늬 천 커버를 씌우는 모습을 떠올려 보세요. 베개(pillow)의 옷(case)이에요.",
+ "movieLineEn": "Who drew a mustache on my pillowcase?",
+ "movieLineKo": "누가 내 베갯잇에 콧수염을 그려 놓은 거야?",
+ "storyTitle": "여행 가방 대소동",
+ "story": "급하게 떠난 여행에서 형이 suitcase(여행 가방) 대신 pillowcase(베갯잇)에 짐을 쌌어요. 공항에서 다들 웃었죠. 옆 아저씨는 briefcase(서류 가방)에 도시락을 넣었고, 할머니는 pillow(베개)까지 안고 오셨어요. 결국 비행기에서 제일 푹 잔 사람은 할머니였답니다!"
+}

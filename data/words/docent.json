@@ -1,0 +1,61 @@
+{
+ "word": "docent",
+ "pos": "명사",
+ "phonetic": "[ˈdoʊsnt]",
+ "meaning": "(박물관·미술관의) 해설사, 도슨트",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "doc",
+   "meaning": "가르치다 (teach)",
+   "note": "라틴어 docere(가르치다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 사람 (agent)",
+   "note": "라틴어 현재분사 어미로 '~하는 사람'을 나타내요."
+  }
+ ],
+ "summary": "<strong>doc</strong> (가르치다) + <strong>-ent</strong> (~하는 사람) = '가르치는 사람'에서 <strong>'해설사, 도슨트'</strong>가 되었어요.",
+ "historyTitle": "가르치는 사람에서 박물관 해설사로",
+ "historyBody": "docent는 라틴어 docens(가르치는)에서 왔고, 동사 docere(가르치다)의 현재분사예요. 독일 대학에서는 강사를 Dozent라고 불렀어요. 20세기 미국 박물관에서 관람객에게 작품을 설명하는 안내인을 docent라 부르면서 지금의 뜻이 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "doctor",
+   "pos": "명사",
+   "meaning": "의사, 박사",
+   "en": "The doctor told me to rest for a few days.",
+   "ko": "의사 선생님이 며칠 쉬라고 말씀하셨어요."
+  },
+  {
+   "word": "document",
+   "pos": "명사",
+   "meaning": "문서, 서류",
+   "en": "Please sign this document before you leave.",
+   "ko": "떠나기 전에 이 서류에 서명해 주세요."
+  },
+  {
+   "word": "doctrine",
+   "pos": "명사",
+   "meaning": "교리, 신조",
+   "en": "The doctrine was taught in every school.",
+   "ko": "그 교리는 모든 학교에서 가르쳐졌어요."
+  },
+  {
+   "word": "docile",
+   "pos": "형용사",
+   "meaning": "유순한, 다루기 쉬운",
+   "en": "The horse was docile and easy to ride.",
+   "ko": "그 말은 순해서 타기 쉬웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 미술관에서 그림 앞에 서서 관람객들에게 설명하는 해설사",
+ "imageCaption": "그림 앞에서 '이 작품은요…' 하며 이야기를 들려주는 안내인을 떠올려 보세요. 가르쳐 주는 사람이 docent예요.",
+ "movieLineEn": "Follow me, everyone. I'm your docent for today.",
+ "movieLineKo": "여러분, 저를 따라오세요. 제가 오늘의 해설사예요.",
+ "storyTitle": "도슨트의 정체",
+ "story": "미술관 docent(해설사)는 그림 앞에서 열정적으로 설명했어요. 관람객들은 docile(유순한) 양처럼 조용히 따라다녔죠. 마지막 그림 앞에서 그녀가 말했어요. '이 그림의 작가는 사실 doctor(박사)이자 화가인 저예요!' 모두 깜짝 놀랐어요. 증거 document(문서)는 그림 뒤에 붙어 있었답니다."
+}

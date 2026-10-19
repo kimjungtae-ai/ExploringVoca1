@@ -1,0 +1,74 @@
+{
+ "word": "bone-shaped",
+ "pos": "형용사",
+ "phonetic": "[ˈboʊn ʃeɪpt]",
+ "meaning": "뼈 모양의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bone",
+   "meaning": "뼈 (bone)",
+   "note": "고대 영어 bān에서 온 오래된 게르만어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shape",
+   "meaning": "모양 (form)",
+   "note": "고대 영어 gesceap(창조물, 모양)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~한 (모양을 가진)",
+   "note": "'명사+-ed' 형태로 '~을 가진, ~모양의'라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>bone</strong> (뼈) + <strong>shape</strong> (모양) + <strong>-ed</strong> (~을 가진) = <strong>'뼈 모양의'</strong>라는 뜻이에요.",
+ "historyTitle": "'만들다'에서 나온 shape",
+ "historyBody": "bone은 고대 영어 bān에서 왔고, 독일어 Bein(다리)과 친척이에요. shape는 고대 영어 scieppan(만들다, 창조하다)과 관련된 말로, '만들어진 모습'이 곧 모양이 되었어요. friendship의 -ship도 같은 뿌리에서 나와 '상태, 모양새'를 뜻한답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bone",
+   "pos": "명사",
+   "meaning": "뼈",
+   "en": "He broke a bone in his arm while skiing.",
+   "ko": "그는 스키를 타다가 팔뼈가 부러졌어."
+  },
+  {
+   "word": "backbone",
+   "pos": "명사",
+   "meaning": "등뼈, 중추",
+   "en": "Farmers are the backbone of our country's food supply.",
+   "ko": "농부들은 우리나라 식량 공급의 중추예요."
+  },
+  {
+   "word": "shape",
+   "pos": "명사 / 동사",
+   "meaning": "모양 / 형성하다",
+   "en": "Our experiences shape who we are.",
+   "ko": "우리의 경험이 우리가 어떤 사람인지를 만들어요."
+  },
+  {
+   "word": "reshape",
+   "pos": "동사",
+   "meaning": "모양을 고치다, 재구성하다",
+   "en": "Smartphones have reshaped the way we communicate.",
+   "ko": "스마트폰은 우리가 소통하는 방식을 바꿔 놓았어요."
+  },
+  {
+   "word": "shapeless",
+   "pos": "형용사",
+   "meaning": "형태가 없는, 볼품없는",
+   "en": "The old sweater became shapeless after many washes.",
+   "ko": "그 낡은 스웨터는 여러 번 빨아서 모양이 다 망가졌어."
+  }
+ ],
+ "imageSense": "대표 의미: 강아지가 뼈 모양 간식을 물고 꼬리를 흔드는 장면",
+ "imageCaption": "만화에 나오는 양 끝이 둥근 뼈 모양 과자를 떠올려 보세요. 바로 bone-shaped예요.",
+ "movieLineEn": "Look! He made a bone-shaped cake for the dog's birthday!",
+ "movieLineKo": "봐! 강아지 생일이라고 뼈 모양 케이크를 만들었어!",
+ "storyTitle": "뼈다귀 케이크 소동",
+ "story": "누나는 강아지 생일에 bone-shaped(뼈 모양의) 케이크를 만들었어요. 진짜 bone(뼈)처럼 보이게 shape(모양)를 열심히 다듬었죠. 그런데 강아지는 케이크를 무시하고 상자를 물어뜯었어요. 상자는 shapeless(형태가 없는) 종이 뭉치가 됐고, 케이크는 결국 가족 간식이 되었답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "consider",
+ "pos": "동사",
+ "phonetic": "[kənˈsɪdər]",
+ "meaning": "고려하다, 숙고하다, ~로 여기다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께, 완전히 (together, thoroughly)",
+   "note": "뜻을 강하게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sider",
+   "meaning": "별 (star) (추정)",
+   "note": "라틴어 sidus(별)과 연결된다는 설이 있지만 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>sider</strong> (별, 추정) = '별을 함께 자세히 살피다'에서 <strong>'고려하다, 숙고하다'</strong>가 되었다는 설이 있어요.",
+ "historyTitle": "별을 보며 점치던 사람들? (확실하지 않은 설)",
+ "historyBody": "consider는 라틴어 considerare(자세히 살피다)에서 왔어요. 이 단어가 sidus(별)에서 나와 '별자리를 꼼꼼히 관찰하다'라는 뜻이었다는 설이 널리 알려져 있지만, 사전들은 이를 확실하지 않다고 봐요. 그러니 '별'은 기억을 돕는 이야기 정도로 생각해 주세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "considerate",
+   "pos": "형용사",
+   "meaning": "사려 깊은, 배려하는",
+   "en": "It was considerate of you to call me when I was sick.",
+   "ko": "내가 아플 때 전화해 주다니 넌 참 사려 깊구나."
+  },
+  {
+   "word": "consideration",
+   "pos": "명사",
+   "meaning": "고려, 숙고, 배려",
+   "en": "After careful consideration, she chose to study science.",
+   "ko": "신중히 고려한 끝에 그녀는 과학을 공부하기로 했어요."
+  },
+  {
+   "word": "considerable",
+   "pos": "형용사",
+   "meaning": "상당한, 꽤 많은",
+   "en": "The project took a considerable amount of time.",
+   "ko": "그 프로젝트는 상당한 시간이 걸렸어요."
+  },
+  {
+   "word": "considering",
+   "pos": "전치사",
+   "meaning": "~을 고려하면",
+   "en": "Considering his age, he runs very fast.",
+   "ko": "나이를 고려하면 그는 정말 빨리 달려요."
+  },
+  {
+   "word": "reconsider",
+   "pos": "동사",
+   "meaning": "재고하다, 다시 생각하다",
+   "en": "Please reconsider your decision before you quit the team.",
+   "ko": "팀을 그만두기 전에 결정을 다시 생각해 줘."
+  }
+ ],
+ "imageSense": "대표 의미: 턱을 괴고 여러 선택지를 곰곰이 따져 보는 장면",
+ "imageCaption": "밤하늘 별을 보며 깊이 생각에 잠긴 학생을 떠올려 보세요. 여러 가지를 꼼꼼히 살피는 모습이 consider예요.",
+ "movieLineEn": "Consider it a gift from an old friend.",
+ "movieLineKo": "오랜 친구가 주는 선물이라고 생각해.",
+ "storyTitle": "별을 보던 고양이의 결정",
+ "story": "고양이 나비는 생선 가게에 갈지 consider(고려하다)했어요. 주인의 기분도 consideration(고려)하고, 비가 온다는 것도 considering(고려하면) 위험했죠. 그래서 considerate(배려하는) 마음으로 포기했는데, 알고 보니 그날 가게에서 생선을 공짜로 나눠 줬대요!"
+}

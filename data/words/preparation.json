@@ -1,0 +1,74 @@
+{
+ "word": "preparation",
+ "pos": "명사",
+ "phonetic": "[ˌprepəˈreɪʃn]",
+ "meaning": "준비, 대비, (조제한) 약·음식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "미리 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "par",
+   "meaning": "갖추다, 준비하다 (make ready)",
+   "note": "라틴어 parare(준비하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (미리) + <strong>par</strong> (갖추다) + <strong>-ation</strong> (명사) = 미리 갖춰 두는 것, 곧 <strong>'준비'</strong>예요.",
+ "historyTitle": "미리 갖추는 로마의 지혜",
+ "historyBody": "preparation은 라틴어 praeparatio에서 왔고, 동사 praeparare는 prae(미리)와 parare(갖추다, 준비하다)가 합쳐진 말이에요. parare는 repair(다시 갖추다 → 고치다), separate(따로 갖추다 → 분리하다)에도 들어 있어요. 1300년대 말부터 영어에서 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "We prepared a surprise party for our teacher.",
+   "ko": "우리는 선생님을 위해 깜짝 파티를 준비했어요."
+  },
+  {
+   "word": "prepared",
+   "pos": "형용사",
+   "meaning": "준비된",
+   "en": "Are you prepared for tomorrow's test?",
+   "ko": "내일 시험 준비는 됐니?"
+  },
+  {
+   "word": "repair",
+   "pos": "동사/명사",
+   "meaning": "수리하다 / 수리",
+   "en": "My dad repaired my broken bike.",
+   "ko": "아빠가 고장 난 내 자전거를 고쳐 주셨어요."
+  },
+  {
+   "word": "separate",
+   "pos": "동사/형용사",
+   "meaning": "분리하다 / 분리된",
+   "en": "Please separate plastic from paper.",
+   "ko": "플라스틱과 종이를 분리해 주세요."
+  },
+  {
+   "word": "apparatus",
+   "pos": "명사",
+   "meaning": "기구, 장치",
+   "en": "The scientists set up their apparatus in the lab.",
+   "ko": "과학자들이 실험실에 장치를 설치했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행 전날 밤 가방을 꼼꼼히 싸는 모습",
+ "imageCaption": "여행 가방 옆에 체크리스트를 놓고 하나씩 챙기는 모습을 떠올려 보세요.",
+ "movieLineEn": "Preparation is everything. Now, where are my shoes?",
+ "movieLineKo": "준비가 전부야. 그런데 내 신발 어디 있지?",
+ "storyTitle": "완벽한 준비의 함정",
+ "story": "소풍 전날 지호는 철저한 preparation(준비)을 했어요. 김밥을 prepare(준비하다)하고, 과자와 음료를 separate(분리하다)해서 쌌죠. 고장 난 돗자리도 repair(수리하다)했어요. 완벽하게 prepared(준비된) 지호는 뿌듯하게 잠들었어요. 다음 날 아침, 늦잠을 자서 버스를 놓쳤대요!"
+}

@@ -1,0 +1,54 @@
+{
+ "word": "property",
+ "pos": "명사",
+ "phonetic": "[ˈprɑːpərti]",
+ "meaning": "재산, 소유물, 부동산, 특성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "propri",
+   "meaning": "자기 자신의 (one's own)",
+   "note": "라틴어 proprius(자기 자신의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ty",
+   "meaning": "~함, ~것 (명사)",
+   "note": "라틴어 -tas에서 온 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>propri</strong> (자기 자신의) + <strong>-ty</strong> (~것) = '자기 것'이라는 뜻에서 <strong>'재산, 소유물, 특성'</strong>이 되었어요.",
+ "historyTitle": "내 것이 곧 나의 특징",
+ "historyBody": "라틴어 proprietas는 '자기만의 것, 고유한 성질'을 뜻했어요. 그래서 영어 property에는 '재산'과 '특성'이라는 두 뜻이 함께 있어요. 과학 지문에서 '물질의 성질'이라고 나오면 바로 이 property랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "proper",
+   "pos": "형용사",
+   "meaning": "적절한, 고유의",
+   "en": "Put the books back in their proper place.",
+   "ko": "책을 원래 자리에 갖다 놓으세요."
+  },
+  {
+   "word": "properly",
+   "pos": "부사",
+   "meaning": "제대로",
+   "en": "Make sure the door is properly locked.",
+   "ko": "문이 제대로 잠겼는지 확인하세요."
+  },
+  {
+   "word": "appropriate",
+   "pos": "형용사",
+   "meaning": "적절한",
+   "en": "Choose appropriate words for a formal letter.",
+   "ko": "격식 있는 편지에는 적절한 단어를 고르세요."
+  }
+ ],
+ "imageSense": "대표 의미: 울타리 안 집과 마당에 '내 땅' 팻말이 꽂힌 장면",
+ "imageCaption": "'이건 내 거야!' 하고 이름표를 붙인 물건들을 떠올리면 property예요.",
+ "movieLineEn": "Get off my property!",
+ "movieLineKo": "내 땅에서 나가!",
+ "storyTitle": "다람쥐의 부동산",
+ "story": "다람쥐는 공원 나무 한 그루를 자기 property(재산)라고 주장했어요. proper(적절한) 서류는 없었지만 도토리로 울타리를 쳤죠. 다른 동물들에게 properly(제대로) 인사하라고 요구했어요. 그런데 다음 날 아침, appropriate(적절한) 땅 주인이 나타났어요. 바로 그 나무에 사는 딱따구리였답니다!"
+}

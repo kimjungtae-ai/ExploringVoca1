@@ -1,0 +1,68 @@
+{
+ "word": "fill out",
+ "pos": "구동사",
+ "phonetic": "[fɪl aʊt]",
+ "meaning": "(서류·양식을) 작성하다, 기입하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fill",
+   "meaning": "채우다 (fill)",
+   "note": "빈 곳을 가득 채운다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "끝까지, 완전히 (out)",
+   "note": "빈칸을 처음부터 끝까지 빠짐없이 채우는 느낌을 줘요."
+  }
+ ],
+ "summary": "<strong>fill</strong> (채우다) + <strong>out</strong> (끝까지) = '양식의 빈칸을 끝까지 채우다'라서 <strong>'서류를 작성하다'</strong>예요.",
+ "historyTitle": "빈칸을 가득 채우는 fill",
+ "historyBody": "fill은 고대 영어 fyllan에서 왔고, full(가득 찬)과 같은 뿌리예요. fill out은 미국 영어에서 '양식을 작성하다'라는 뜻으로 널리 쓰이고, 영국 영어에서는 fill in을 더 많이 써요. 수능 실용문에서 신청서 작성 안내에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fill in",
+   "pos": "구동사",
+   "meaning": "(빈칸을) 채우다; 대신하다",
+   "en": "Fill in the blanks with the correct words.",
+   "ko": "알맞은 단어로 빈칸을 채우세요."
+  },
+  {
+   "word": "fill up",
+   "pos": "구동사",
+   "meaning": "가득 채우다",
+   "en": "Let's fill up the tank before the trip.",
+   "ko": "여행 전에 기름을 가득 채우자."
+  },
+  {
+   "word": "application form",
+   "pos": "명사구",
+   "meaning": "신청서, 지원서",
+   "en": "Please send the application form by Friday.",
+   "ko": "신청서를 금요일까지 보내 주세요."
+  },
+  {
+   "word": "full",
+   "pos": "형용사",
+   "meaning": "가득 찬",
+   "en": "The bus was too full to get on.",
+   "ko": "버스가 너무 꽉 차서 탈 수 없었어요."
+  },
+  {
+   "word": "sign up for",
+   "pos": "구동사",
+   "meaning": "~에 신청하다",
+   "en": "I signed up for the swimming class.",
+   "ko": "나는 수영 수업에 신청했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 신청서의 빈칸을 펜으로 하나하나 채우는 장면",
+ "imageCaption": "이름, 주소, 전화번호 칸을 차례로 꼼꼼히 적어 나가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Just fill out this form, and the treasure map is yours.",
+ "movieLineKo": "이 양식만 작성하면 보물 지도는 네 거야.",
+ "storyTitle": "끝없는 신청서",
+ "story": "동아리에 sign up for(신청하다)하려고 application form(신청서)을 받았어요. 이름 칸을 fill out(작성하다)하고, 빈칸도 fill in(채우다)했죠. 그런데 뒷장, 또 뒷장… 무려 20장! 손이 full(가득 찬) 피곤함에 저려 왔어요. 마지막 장에 적힌 질문은 \"이 신청서 작성이 즐거웠나요?\" 알고 보니 인내심 테스트 동아리였어요!"
+}

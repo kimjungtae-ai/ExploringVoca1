@@ -1,0 +1,74 @@
+{
+ "word": "instruction",
+ "pos": "명사",
+ "phonetic": "[ɪnˈstrʌkʃən]",
+ "meaning": "설명(서), 지시, 가르침",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에, 위에 (in, on)",
+   "note": "안쪽에 쌓아 올린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "struct",
+   "meaning": "쌓다, 짓다 (build, pile up)",
+   "note": "라틴어 struere(쌓다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>struct</strong> (쌓다) + <strong>-ion</strong> (~것) = '머릿속에 지식을 차곡차곡 쌓아 주는 것'이라는 뜻에서 <strong>'가르침, 지시, 설명'</strong>이 되었습니다.",
+ "historyTitle": "지식을 벽돌처럼 쌓다",
+ "historyBody": "라틴어 'instruere'는 '쌓아 올리다, 갖추다, 가르치다'라는 뜻이었어요. 군대를 정렬해 준비시키는 데도 쓰였죠. 머릿속에 지식을 벽돌처럼 쌓아 올리는 것이 가르침이었고, 여기서 '지시, 사용 설명서'라는 뜻이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "instruct",
+   "pos": "동사",
+   "meaning": "가르치다, 지시하다",
+   "en": "The teacher instructed us to read chapter five.",
+   "ko": "선생님은 우리에게 5장을 읽으라고 지시하셨어요."
+  },
+  {
+   "word": "structure",
+   "pos": "명사",
+   "meaning": "구조, 건축물",
+   "en": "The structure of this sentence is complex.",
+   "ko": "이 문장의 구조는 복잡해요."
+  },
+  {
+   "word": "construct",
+   "pos": "동사",
+   "meaning": "건설하다, 구성하다",
+   "en": "Workers are constructing a new bridge.",
+   "ko": "인부들이 새 다리를 건설하고 있어요."
+  },
+  {
+   "word": "destruction",
+   "pos": "명사",
+   "meaning": "파괴",
+   "en": "The war caused great destruction.",
+   "ko": "전쟁은 엄청난 파괴를 일으켰어요."
+  },
+  {
+   "word": "instrument",
+   "pos": "명사",
+   "meaning": "도구, 악기",
+   "en": "The violin is a beautiful instrument.",
+   "ko": "바이올린은 아름다운 악기예요."
+  }
+ ],
+ "imageSense": "대표 의미: 조립 설명서를 보며 책상을 만드는 장면",
+ "imageCaption": "그림 설명서를 따라 부품을 하나씩 쌓아 올리는 모습을 떠올려 보세요. 그 안내가 instruction이에요.",
+ "movieLineEn": "Follow my instructions exactly, or we're all doomed.",
+ "movieLineKo": "내 지시를 정확히 따라, 아니면 우린 다 끝장이야.",
+ "storyTitle": "설명서를 안 읽은 아빠",
+ "story": "아빠는 instruction(설명서) 없이 책장을 construct(조립하다)할 수 있다고 큰소리쳤어요. 그런데 structure(구조)가 자꾸 기울었죠. 결국 책장은 destruction(파괴)되고 말았어요. 엄마가 설명서를 펼치자 첫 줄에 적힌 말. '이 제품은 의자입니다.'"
+}

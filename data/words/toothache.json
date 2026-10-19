@@ -1,0 +1,68 @@
+{
+ "word": "toothache",
+ "pos": "명사",
+ "phonetic": "[ˈtuːθeɪk]",
+ "meaning": "치통",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "tooth",
+   "meaning": "이, 치아 (tooth)",
+   "note": "고대 영어 tōþ에서 온 순수 영어 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ache",
+   "meaning": "아픔, 쑤시다 (pain)",
+   "note": "고대 영어 acan(아프다)에서 온, 오래 계속되는 통증을 뜻하는 말이에요."
+  }
+ ],
+ "summary": "<strong>tooth</strong> (이) + <strong>ache</strong> (아픔) = 이가 아픈 것, 즉 <strong>'치통'</strong>이에요.",
+ "historyTitle": "두 개의 순수 영어 단어가 만난 말",
+ "historyBody": "tooth와 ache는 모두 고대 영어에서 온 오래된 게르만어 단어예요. ache는 원래 동사 'acan(아프다)'이었는데, 명사는 '아치'처럼 발음되다가 나중에 동사와 같은 철자·발음으로 정리되었어요. 그래서 headache, stomachache처럼 신체 부위 뒤에 붙여 통증을 나타낼 수 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tooth",
+   "pos": "명사",
+   "meaning": "이, 치아 (복수 teeth)",
+   "en": "My little brother lost his first tooth yesterday.",
+   "ko": "내 남동생이 어제 첫 번째 이가 빠졌어요."
+  },
+  {
+   "word": "ache",
+   "pos": "명사 / 동사",
+   "meaning": "아픔 / 쑤시다, 아프다",
+   "en": "My legs ached after the long hike.",
+   "ko": "오래 등산을 했더니 다리가 쑤셨어요."
+  },
+  {
+   "word": "headache",
+   "pos": "명사",
+   "meaning": "두통",
+   "en": "Staring at the screen too long gave me a headache.",
+   "ko": "화면을 너무 오래 봤더니 두통이 생겼어요."
+  },
+  {
+   "word": "stomachache",
+   "pos": "명사",
+   "meaning": "복통",
+   "en": "I ate too much ice cream and got a stomachache.",
+   "ko": "아이스크림을 너무 많이 먹어서 배가 아팠어요."
+  },
+  {
+   "word": "toothbrush",
+   "pos": "명사",
+   "meaning": "칫솔",
+   "en": "Change your toothbrush every three months.",
+   "ko": "칫솔은 세 달마다 바꾸세요."
+  }
+ ],
+ "imageSense": "대표 의미: 볼을 감싸 쥐고 얼굴을 찡그린 아이",
+ "imageCaption": "사탕을 너무 먹고 볼을 감싸 쥔 채 찡그리는 모습을 떠올려 보세요. 이(tooth)가 쑤시는(ache) 그 느낌이에요.",
+ "movieLineEn": "I can't fight the dragon today. I have a toothache!",
+ "movieLineKo": "오늘은 용과 못 싸워. 이가 아프단 말이야!",
+ "storyTitle": "사탕 왕의 비밀",
+ "story": "사탕을 사랑하는 왕은 어느 날 끔찍한 toothache(치통)에 시달렸어요. headache(두통)와 stomachache(복통)까지 겹쳤죠. 신하가 황금 toothbrush(칫솔)를 바쳤지만 왕은 \"tooth(이)가 아니라 마음이 ache(아프다)해!\"라고 외쳤어요. 사실 왕은 사탕 금지령이 슬펐던 거랍니다."
+}

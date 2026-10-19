@@ -1,0 +1,80 @@
+{
+ "word": "experienced",
+ "pos": "형용사",
+ "phonetic": "[ɪkˈspɪriənst]",
+ "meaning": "경험이 많은, 숙련된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "끝까지 해 본다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "peri",
+   "meaning": "시험하다, 시도하다 (try)",
+   "note": "라틴어 experiri(시험해 보다)의 어근으로, peril(위험)과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 것 (명사형)",
+   "note": "experience(경험)라는 명사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사형)",
+   "note": "'경험을 쌓은'이라는 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (끝까지) + <strong>peri</strong> (시도하다) + <strong>-ence</strong> + <strong>-ed</strong> = '여러 번 직접 해 본'에서 <strong>'경험이 많은, 숙련된'</strong>이 되었어요.",
+ "historyTitle": "위험을 무릅쓰고 시도해 본 사람",
+ "historyBody": "experience는 라틴어 'experientia(시험, 경험으로 얻은 지식)'에서 왔고, 이는 동사 experiri(시험해 보다)에서 나왔어요. 같은 어근에서 periculum(시험, 위험)이 나와 영어 peril(위험)이 되었어요. 직접 부딪쳐 해 봐야 얻는 것이 경험이라는 생각이 담겨 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "experience",
+   "pos": "명사 / 동사",
+   "meaning": "경험 / 경험하다",
+   "en": "Traveling alone was a great experience for me.",
+   "ko": "혼자 여행한 것은 나에게 멋진 경험이었어요."
+  },
+  {
+   "word": "inexperienced",
+   "pos": "형용사",
+   "meaning": "경험이 없는, 미숙한",
+   "en": "The inexperienced driver drove very slowly.",
+   "ko": "미숙한 운전자는 아주 천천히 운전했어요."
+  },
+  {
+   "word": "experiment",
+   "pos": "명사 / 동사",
+   "meaning": "실험 / 실험하다",
+   "en": "We did an experiment with magnets in class.",
+   "ko": "우리는 수업 시간에 자석으로 실험을 했어요."
+  },
+  {
+   "word": "expert",
+   "pos": "명사 / 형용사",
+   "meaning": "전문가 / 숙련된",
+   "en": "She is an expert in Korean history.",
+   "ko": "그녀는 한국사 전문가예요."
+  },
+  {
+   "word": "peril",
+   "pos": "명사",
+   "meaning": "위험",
+   "en": "The sailors were in great peril during the storm.",
+   "ko": "폭풍 속에서 선원들은 큰 위험에 처해 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 흰머리의 선장이 거친 파도 속에서 침착하게 키를 잡는 장면",
+ "imageCaption": "수많은 폭풍을 겪어 본 노련한 선장의 여유 있는 표정을 떠올려 보세요.",
+ "movieLineEn": "Relax. I'm the most experienced pilot you'll ever meet.",
+ "movieLineKo": "진정해. 난 네가 만날 가장 노련한 조종사야.",
+ "storyTitle": "노련한 캠핑 고수",
+ "story": "삼촌은 experienced(경험이 많은) 캠핑 고수라고 자랑했어요. inexperienced(미숙한) 조카들은 감탄했죠. 삼촌은 불 피우기 experiment(실험)를 시작했어요. 그런데 텐트까지 peril(위험)에 빠졌어요! 알고 보니 삼촌의 experience(경험)는 전부 유튜브 시청이었대요."
+}

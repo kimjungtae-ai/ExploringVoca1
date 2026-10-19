@@ -1,0 +1,67 @@
+{
+ "word": "adorable",
+ "pos": "형용사",
+ "phonetic": "[əˈdɔːrəbl]",
+ "meaning": "사랑스러운, 귀여운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~에게 (to)",
+   "note": "말을 거는 대상을 향한 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "or",
+   "meaning": "말하다, 기도하다 (speak, pray)",
+   "note": "라틴어 orare(말하다, 기도하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 만한",
+   "note": "'~할 만한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~에게) + <strong>or</strong> (기도하다) + <strong>-able</strong> (~할 만한) = '숭배할 만한'에서 <strong>'사랑스러운'</strong>이 되었어요.",
+ "historyTitle": "'기도할 만큼'에서 '귀여운'으로",
+ "historyBody": "라틴어 adorare는 '~에게 말하다, 기도하다, 숭배하다'라는 뜻이었어요. 그래서 adorable도 처음엔 '숭배할 만한'이라는 무거운 뜻이었죠. 18세기 무렵부터 가볍게 '너무 사랑스러운, 귀여운'이라는 뜻으로 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "adore",
+   "pos": "동사",
+   "meaning": "아주 좋아하다, 흠모하다",
+   "en": "My little brother adores his grandmother.",
+   "ko": "내 남동생은 할머니를 무척 좋아해요."
+  },
+  {
+   "word": "adoration",
+   "pos": "명사",
+   "meaning": "흠모, 숭배",
+   "en": "The fans screamed with adoration.",
+   "ko": "팬들은 열광하며 소리를 질렀어요."
+  },
+  {
+   "word": "oral",
+   "pos": "형용사",
+   "meaning": "구두의, 입의",
+   "en": "We have an oral test in English tomorrow.",
+   "ko": "내일 영어 말하기 시험이 있어요."
+  },
+  {
+   "word": "oracle",
+   "pos": "명사",
+   "meaning": "신탁, 예언자",
+   "en": "The ancient Greeks asked the oracle about the future.",
+   "ko": "고대 그리스인들은 신탁에 미래를 물었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아기 고양이가 동그란 눈으로 올려다보는 장면",
+ "imageCaption": "너무 귀여워서 저절로 '어머~' 소리가 나오는 순간을 떠올려 보세요.",
+ "movieLineEn": "Look at his tiny shoes. He's adorable!",
+ "movieLineKo": "저 조그만 신발 좀 봐. 너무 사랑스러워!",
+ "storyTitle": "귀여움이 무기인 햄스터",
+ "story": "햄스터 콩이는 정말 adorable(사랑스러운)했어요. 모든 사람이 콩이를 adore(아주 좋아하다)했죠. 콩이는 oral(구두의) 시험도 귀여운 표정으로 통과했어요. 친구들의 adoration(흠모)을 받던 콩이의 비밀은? 사실 매일 밤 거울 앞에서 표정 연습을 3시간씩 했대요."
+}

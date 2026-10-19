@@ -1,0 +1,75 @@
+{
+ "word": "marketplace",
+ "pos": "명사",
+ "phonetic": "[ˈmɑːrkɪtpleɪs]",
+ "meaning": "시장, 장터, (경쟁의) 시장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "market",
+   "meaning": "시장 (market)",
+   "note": "라틴어 mercatus(거래, 장터)에서 온 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "place",
+   "meaning": "장소 (place)",
+   "note": "라틴어 platea(넓은 길, 광장)에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>market</strong> (시장) + <strong>place</strong> (장소) = '사고파는 넓은 장소'라는 뜻에서 <strong>'장터, 시장'</strong>이 되었습니다.",
+ "historyTitle": "광장에 선 중세의 장터",
+ "historyBody": "market은 라틴어 mercatus(거래, 장터)에서 왔고, 이는 mercari(거래하다)에서 나왔어요. place는 라틴어 platea(넓은 거리, 광장)에서 왔죠. 중세 유럽 도시에서는 넓은 광장에 장이 섰기 때문에 marketplace라는 말이 자연스럽게 생겼고, 지금은 '경쟁 시장'이라는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "market",
+   "pos": "명사",
+   "meaning": "시장",
+   "en": "We bought fresh fish at the market.",
+   "ko": "우리는 시장에서 신선한 생선을 샀어요."
+  },
+  {
+   "word": "merchant",
+   "pos": "명사",
+   "meaning": "상인",
+   "en": "The merchant sold silk from China.",
+   "ko": "그 상인은 중국산 비단을 팔았어요."
+  },
+  {
+   "word": "merchandise",
+   "pos": "명사",
+   "meaning": "상품",
+   "en": "The store has a wide range of merchandise.",
+   "ko": "그 가게에는 다양한 상품이 있어요."
+  },
+  {
+   "word": "commerce",
+   "pos": "명사",
+   "meaning": "상업, 무역",
+   "en": "Online commerce has grown very fast.",
+   "ko": "온라인 상거래는 매우 빠르게 성장했어요."
+  },
+  {
+   "word": "commercial",
+   "pos": "형용사/명사",
+   "meaning": "상업의 / 광고 방송",
+   "en": "The film was a big commercial success.",
+   "ko": "그 영화는 상업적으로 큰 성공을 거뒀어요."
+  },
+  {
+   "word": "replace",
+   "pos": "동사",
+   "meaning": "대체하다, 교체하다",
+   "en": "Robots may replace some jobs in the future.",
+   "ko": "미래에는 로봇이 일부 일자리를 대체할 수도 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 알록달록한 천막 아래 상인들이 물건을 파는 북적이는 장터",
+ "imageCaption": "광장에 천막이 줄지어 서고 사람들이 흥정하는 소리를 떠올려 보세요. 그곳이 marketplace예요.",
+ "movieLineEn": "Meet me at the marketplace at noon.",
+ "movieLineKo": "정오에 장터에서 만나자.",
+ "storyTitle": "중세 장터의 시간 여행자",
+ "story": "타임머신을 탄 은지는 중세 marketplace(장터)에 떨어졌어요. merchant(상인)들이 신기한 merchandise(상품)를 팔고 있었죠. 은지는 스마트폰을 꺼내 commerce(거래)를 해보려 했어요. 상인들은 반짝이는 화면을 보고 마법 거울이라며 비단 열 필과 replace(교체하다)해 주겠다고 했답니다. 그런데 배터리가 1%였어요!"
+}

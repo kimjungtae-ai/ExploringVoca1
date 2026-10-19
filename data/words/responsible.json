@@ -1,0 +1,74 @@
+{
+ "word": "responsible",
+ "pos": "형용사",
+ "phonetic": "[rɪˈspɑːnsəbl]",
+ "meaning": "책임이 있는, 책임감 있는, ~의 원인이 되는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "되돌려 (back)",
+   "note": "되돌려 응답한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spons",
+   "meaning": "약속하다 (pledge) ← spondere",
+   "note": "라틴어 spondere(엄숙히 약속하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는 (형용사)",
+   "note": "'~할 수 있는'이라는 성질을 나타내요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌려) + <strong>spons</strong> (약속하다) + <strong>-ible</strong> (~할 수 있는) = '약속에 응답할 수 있는'에서 <strong>'책임이 있는'</strong>이 되었어요.",
+ "historyTitle": "대답할 수 있는 사람",
+ "historyBody": "responsible은 라틴어 respondere(대답하다, 약속으로 되갚다)에서 온 프랑스어 responsable을 통해 16세기에 영어로 들어왔어요. 원래 '대답해야 하는, 해명할 의무가 있는'이라는 뜻이었죠. 수능에서는 'be responsible for(~에 책임이 있다, ~의 원인이다)'가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "responsibility",
+   "pos": "명사",
+   "meaning": "책임",
+   "en": "Taking care of a pet is a big responsibility.",
+   "ko": "반려동물을 돌보는 건 큰 책임이에요."
+  },
+  {
+   "word": "irresponsible",
+   "pos": "형용사",
+   "meaning": "무책임한",
+   "en": "It was irresponsible to leave the door open.",
+   "ko": "문을 열어 둔 건 무책임한 일이었어요."
+  },
+  {
+   "word": "respond",
+   "pos": "동사",
+   "meaning": "응답하다",
+   "en": "Please respond by Friday.",
+   "ko": "금요일까지 답해 주세요."
+  },
+  {
+   "word": "response",
+   "pos": "명사",
+   "meaning": "응답, 반응",
+   "en": "Her response was quick and clear.",
+   "ko": "그녀의 대답은 빠르고 분명했어요."
+  },
+  {
+   "word": "sponsor",
+   "pos": "명사 / 동사",
+   "meaning": "후원자 / 후원하다",
+   "en": "The company will sponsor our school team.",
+   "ko": "그 회사가 우리 학교 팀을 후원할 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 깨진 꽃병 앞에서 '제가 그랬어요'라고 손드는 아이",
+ "imageCaption": "잘못을 숨기지 않고 스스로 대답하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm responsible for this. Let me fix it.",
+ "movieLineKo": "이건 내 책임이야. 내가 해결할게.",
+ "storyTitle": "범인은 누구?",
+ "story": "거실 꽃병이 깨졌어요. 엄마의 질문에 형은 irresponsible(무책임한)하게 숨었고, 동생은 울기만 했죠. 강아지만 꼬리를 흔들며 respond(반응하다)했어요. 결국 responsible(책임 있는)한 아빠가 나섰어요. \"제가 responsibility(책임)를 질게요… 사실 제가 깼거든요.\""
+}

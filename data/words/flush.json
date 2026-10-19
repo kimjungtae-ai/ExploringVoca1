@@ -1,0 +1,41 @@
+{
+ "word": "flush",
+ "pos": "동사 / 명사 / 형용사",
+ "phonetic": "[flʌʃ]",
+ "meaning": "(물을) 내리다, (얼굴이) 붉어지다 / 홍조, 물로 씻어 내림 / 평평한",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "flush",
+   "meaning": "갑자기 날아오르다 (fly up suddenly)",
+   "note": "중세 영어 flusshen에서 왔는데, 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>flush</strong> (갑자기 확 솟구치다) = 물이나 피가 '확' 몰려드는 느낌에서 <strong>'물을 내리다, 얼굴이 붉어지다'</strong>가 되었습니다.",
+ "historyTitle": "새가 '푸드득' 날아오르던 단어",
+ "historyBody": "flush는 13세기 무렵 '새가 갑자기 날아오르다'라는 뜻으로 처음 기록되었어요. 소리를 흉내 낸 말이라는 설이 있지만 정확한 기원은 확실하지 않아요. 이후 '물이 확 쏟아지다', '피가 얼굴로 확 몰리다(붉어지다)'라는 뜻이 생긴 것으로 보여요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "flushed",
+   "pos": "형용사",
+   "meaning": "(얼굴이) 붉어진, 상기된",
+   "en": "Her face was flushed after running up the stairs.",
+   "ko": "계단을 뛰어 올라간 뒤 그녀의 얼굴이 빨개졌어요."
+  },
+  {
+   "word": "flushing",
+   "pos": "명사",
+   "meaning": "(물로) 씻어 내림, 홍조",
+   "en": "Regular flushing keeps the pipes clean.",
+   "ko": "정기적으로 물을 흘려보내면 배관이 깨끗하게 유지돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 화장실 물을 '쏴아' 내리는 장면",
+ "imageCaption": "변기 레버를 누르면 물이 '쏴아' 쏟아지는 모습, 혹은 부끄러워 얼굴이 확 붉어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't forget to flush. This is a five-star hotel!",
+ "movieLineKo": "물 내리는 거 잊지 마. 여긴 5성급 호텔이라고!",
+ "storyTitle": "고백의 순간",
+ "story": "민수는 좋아하는 친구에게 고백하려다 얼굴이 flush(붉어지다)했어요. 너무 flushed(상기된)해서 report(보고서)를 고백 편지 대신 건넸죠. 당황한 민수는 화장실로 도망쳐 물을 flush(내리다)하며 마음을 진정시켰어요. 그런데 그 친구의 답장이 왔어요. \"보고서 잘 썼더라. fit(어울리다)하는 짝꿍 할래?\""
+}

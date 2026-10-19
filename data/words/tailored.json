@@ -1,0 +1,61 @@
+{
+ "word": "tailored",
+ "pos": "형용사",
+ "phonetic": "[ˈteɪlərd]",
+ "meaning": "맞춤의, 딱 맞게 만든, 특정 목적에 맞춘",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "tailor",
+   "meaning": "재단사 (tailor)",
+   "note": "고대 프랑스어 tailleor(자르는 사람)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사형 형용사)",
+   "note": "'~하게 만들어진'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>tailor</strong> (재단사, 맞추다) + <strong>-ed</strong> (~된) = '재단사가 몸에 맞게 자른'에서 <strong>'맞춤의, 딱 맞춘'</strong>이 되었어요.",
+ "historyTitle": "천을 '자르는' 사람",
+ "historyBody": "tailor는 고대 프랑스어 tailleor(자르는 사람)에서 왔고, 그 뿌리는 후기 라틴어 taliare(자르다)예요. 재단사는 손님 몸에 맞게 천을 잘라 옷을 만들었죠. 그래서 tailored는 '개인에게 꼭 맞춘'이라는 뜻으로 교육, 서비스 등에도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tailor",
+   "pos": "명사 / 동사",
+   "meaning": "재단사 / 맞추다",
+   "en": "The tailor made a suit just for me.",
+   "ko": "재단사가 나만을 위한 정장을 만들어 주었어요."
+  },
+  {
+   "word": "detail",
+   "pos": "명사",
+   "meaning": "세부 사항",
+   "en": "Please explain the plan in detail.",
+   "ko": "그 계획을 자세히 설명해 주세요."
+  },
+  {
+   "word": "retail",
+   "pos": "명사",
+   "meaning": "소매",
+   "en": "She works in retail at a clothing store.",
+   "ko": "그녀는 옷가게에서 소매업에 종사해요."
+  },
+  {
+   "word": "retailer",
+   "pos": "명사",
+   "meaning": "소매업자, 소매점",
+   "en": "Online retailers offer free delivery.",
+   "ko": "온라인 소매점들은 무료 배송을 제공해요."
+  }
+ ],
+ "imageSense": "대표 의미: 재단사가 줄자로 치수를 재는 장면",
+ "imageCaption": "재단사가 줄자로 어깨와 팔 길이를 재고 천을 자르는 모습을 떠올려 보세요. 한 사람에게 딱 맞춘 옷이 나와요.",
+ "movieLineEn": "This program is tailored to your needs. Try it!",
+ "movieLineKo": "이 프로그램은 당신의 필요에 맞춰져 있어요. 한번 해 보세요!",
+ "storyTitle": "강아지의 맞춤 정장",
+ "story": "누나는 강아지를 위해 tailor(재단사)에게 tailored(맞춤의) 정장을 주문했어요. 재단사는 꼬리 구멍까지 detail(세부 사항)을 꼼꼼히 챙겼죠. 완성된 옷은 완벽했어요. 하지만 강아지는 입자마자 바닥을 뒹굴어 벗어 버렸어요. 결국 그 정장은 retail(소매) 가격의 두 배를 주고 산 걸레가 되었답니다!"
+}

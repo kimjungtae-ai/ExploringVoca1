@@ -1,0 +1,81 @@
+{
+ "word": "capacity",
+ "pos": "명사",
+ "phonetic": "[kəˈpæsəti]",
+ "meaning": "용량, 수용력, 능력",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cap",
+   "meaning": "잡다, 담다 (take, hold)",
+   "note": "라틴어 capere(잡다, 담다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ac (← -ax)",
+   "meaning": "~할 수 있는",
+   "note": "라틴어 capax(많이 담을 수 있는)의 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질, 상태",
+   "note": "형용사를 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>cap</strong> (담다) + <strong>-ac</strong> (~할 수 있는) + <strong>-ity</strong> (성질) = '담을 수 있는 정도', 즉 <strong>'용량, 수용력, 능력'</strong>이에요.",
+ "historyTitle": "담을 수 있는 만큼",
+ "historyBody": "capacity는 라틴어 capacitas에서 왔고, 이는 capax(많이 담을 수 있는)에서 나왔어요. capax의 뿌리 capere는 '잡다, 쥐다, 담다'라는 뜻으로 영어에 수많은 친척 단어를 남겼어요. 그릇이 담을 수 있는 양에서 사람이 해낼 수 있는 '능력'으로 뜻이 넓어졌죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "capable",
+   "pos": "형용사",
+   "meaning": "~할 수 있는, 유능한",
+   "en": "She is capable of solving hard math problems.",
+   "ko": "그녀는 어려운 수학 문제를 풀 수 있어."
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "붙잡다, 포착하다",
+   "en": "The photo captured the beauty of the sunset.",
+   "ko": "그 사진은 노을의 아름다움을 잘 담아냈어."
+  },
+  {
+   "word": "accept",
+   "pos": "동사",
+   "meaning": "받아들이다",
+   "en": "I accepted his apology with a smile.",
+   "ko": "나는 웃으며 그의 사과를 받아들였어."
+  },
+  {
+   "word": "captive",
+   "pos": "명사 / 형용사",
+   "meaning": "포로 / 사로잡힌",
+   "en": "The lion was kept captive in a small cage.",
+   "ko": "그 사자는 작은 우리에 갇혀 있었어."
+  },
+  {
+   "word": "receive",
+   "pos": "동사",
+   "meaning": "받다",
+   "en": "Did you receive my message?",
+   "ko": "내 메시지 받았어?"
+  },
+  {
+   "word": "except",
+   "pos": "전치사",
+   "meaning": "~을 제외하고",
+   "en": "Everyone came except Minji.",
+   "ko": "민지를 빼고 모두 왔어."
+  }
+ ],
+ "imageSense": "대표 의미: 꽉 찬 공연장과 '수용 인원 500명' 표지판",
+ "imageCaption": "공연장 입구의 '최대 수용 인원 500명' 표지판과 꽉 찬 객석을 떠올려 보세요. 담을 수 있는 양이 capacity예요.",
+ "movieLineEn": "The stadium is filled to capacity tonight!",
+ "movieLineKo": "오늘 밤 경기장은 정원까지 꽉 찼어!",
+ "storyTitle": "뷔페 대결",
+ "story": "먹방 유튜버 지훈이는 위의 capacity(용량)를 시험하러 뷔페에 갔어요. '나는 열 접시도 먹을 capable(할 수 있는)한 사람이야!' 카메라가 그 모습을 capture(포착하다)했죠. 그런데 다섯 접시째에 항복! 사장님이 웃으며 디저트를 주자 지훈이는 기쁘게 accept(받아들이다)했답니다. 디저트 배는 따로였거든요."
+}

@@ -1,0 +1,75 @@
+{
+ "word": "multiple",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈmʌltɪpl]",
+ "meaning": "다수의, 여러, 다양한 / 배수",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "multi-",
+   "meaning": "많은 (many)",
+   "note": "라틴어 multus(많은)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "-ple",
+   "meaning": "겹, 배 (fold)",
+   "note": "라틴어 -plus(~겹의)에서 왔어요. double, triple의 -ple과 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>multi-</strong> (많은) + <strong>-ple</strong> (겹) = 여러 겹이라서 <strong>'다수의, 여러'</strong>가 되었어요.",
+ "historyTitle": "여러 '겹'을 세던 라틴어",
+ "historyBody": "multiple은 라틴어 multiplus에서 프랑스어를 거쳐 17세기에 영어로 들어왔어요. -ple은 '겹'을 뜻해서 triple(세 겹)과 같은 원리예요. 수능 지문에서는 'multiple factors(여러 요인)'처럼 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "multiply",
+   "pos": "동사",
+   "meaning": "곱하다, 크게 늘리다",
+   "en": "If you multiply three by four, you get twelve.",
+   "ko": "3에 4를 곱하면 12가 돼요."
+  },
+  {
+   "word": "multitude",
+   "pos": "명사",
+   "meaning": "다수, 군중",
+   "en": "A multitude of stars filled the night sky.",
+   "ko": "수많은 별이 밤하늘을 가득 채웠어요."
+  },
+  {
+   "word": "multimedia",
+   "pos": "명사 / 형용사",
+   "meaning": "멀티미디어(의)",
+   "en": "The museum offers a multimedia tour with videos and music.",
+   "ko": "그 박물관은 영상과 음악이 있는 멀티미디어 투어를 제공해요."
+  },
+  {
+   "word": "multinational",
+   "pos": "형용사",
+   "meaning": "다국적의",
+   "en": "She works for a multinational company in Seoul.",
+   "ko": "그녀는 서울에 있는 다국적 기업에서 일해요."
+  },
+  {
+   "word": "multicultural",
+   "pos": "형용사",
+   "meaning": "다문화의",
+   "en": "Korea is becoming a more multicultural society.",
+   "ko": "한국은 점점 더 다문화 사회가 되고 있어요."
+  },
+  {
+   "word": "multitask",
+   "pos": "동사",
+   "meaning": "여러 일을 동시에 하다",
+   "en": "It is hard to multitask while studying math.",
+   "ko": "수학을 공부하면서 여러 일을 동시에 하기는 어려워요."
+  }
+ ],
+ "imageSense": "대표 의미: 똑같은 고양이 그림이 여러 장 겹쳐 펼쳐진 모습",
+ "imageCaption": "복사기에서 같은 그림이 여러 장 쏟아져 나오는 장면을 떠올려 보세요.",
+ "movieLineEn": "We have multiple problems, and only one hour to fix them.",
+ "movieLineKo": "문제가 여러 개인데 고칠 시간은 한 시간뿐이야.",
+ "storyTitle": "분신술 연습",
+ "story": "닌자 지망생 하루는 multiple(여러) 분신을 만드는 기술을 연습했어요. 분신이 multiply(곱하다)처럼 늘어나 multitude(군중)가 됐죠. 하루는 숙제를 분신들에게 맡기고 multitask(동시에 여러 일을 하다)하려 했어요. 그런데 분신들도 전부 하루라서 아무도 숙제를 안 했답니다."
+}

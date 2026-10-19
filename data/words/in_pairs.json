@@ -1,0 +1,68 @@
+{
+ "word": "in pairs",
+ "pos": "전치사구",
+ "phonetic": "[ɪn perz]",
+ "meaning": "둘씩 짝을 지어, 짝으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~의 형태로 (in)",
+   "note": "'어떤 묶음 형태로'라는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pairs",
+   "meaning": "짝, 쌍 (pairs)",
+   "note": "둘이 한 묶음인 '짝'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>in</strong> (~ 형태로) + <strong>pairs</strong> (짝들) = '짝을 이룬 형태로'에서 <strong>'둘씩 짝지어'</strong>",
+ "historyTitle": "'같은, 동등한'을 뜻한 라틴어 par",
+ "historyBody": "pair는 고대 프랑스어 paire를 거쳐 라틴어 paria(같은 것들)에서 왔고, par(같은, 동등한)와 관련 있어요. 그래서 '서로 같은 두 개'가 '한 쌍'이 된 거예요. compare(비교하다), peer(또래)도 같은 par에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in groups",
+   "pos": "전치사구",
+   "meaning": "무리 지어, 모둠으로",
+   "en": "Students worked in groups of four.",
+   "ko": "학생들은 네 명씩 모둠으로 활동했어."
+  },
+  {
+   "word": "a pair of",
+   "pos": "숙어",
+   "meaning": "한 쌍의",
+   "en": "I bought a pair of sneakers.",
+   "ko": "나는 운동화 한 켤레를 샀어."
+  },
+  {
+   "word": "compare",
+   "pos": "동사",
+   "meaning": "비교하다",
+   "en": "Don't compare yourself with others.",
+   "ko": "너 자신을 남과 비교하지 마."
+  },
+  {
+   "word": "peer",
+   "pos": "명사",
+   "meaning": "또래, 동료",
+   "en": "Teenagers are often influenced by their peers.",
+   "ko": "십대들은 종종 또래의 영향을 받아."
+  },
+  {
+   "word": "one by one",
+   "pos": "숙어",
+   "meaning": "하나씩",
+   "en": "The students left the room one by one.",
+   "ko": "학생들이 하나씩 교실을 나갔어."
+  }
+ ],
+ "imageSense": "대표 의미: 학생들이 두 명씩 짝을 지어 대화하는 장면",
+ "imageCaption": "선생님이 '옆 사람이랑 짝!' 하시자 둘씩 마주 앉는 교실을 떠올려 보세요.",
+ "movieLineEn": "Work in pairs, and no, you can't pair up with your phone.",
+ "movieLineKo": "짝을 지어 하세요. 그리고 아니, 휴대폰이랑 짝 하면 안 돼.",
+ "storyTitle": "짝 활동의 비밀",
+ "story": "영어 선생님이 \"in pairs(둘씩 짝지어) 대화하세요!\" 하셨어요. 반은 홀수라 한 명이 남았죠. in groups(모둠으로) 바꾸자는 의견도 있었지만, 남은 민재는 a pair of(한 쌍의) 양말 인형을 꺼냈어요. 오른손 인형과 왼손 인형이 완벽한 대화를 했고, 민재는 그날 '최고의 짝' 상을 받았답니다."
+}

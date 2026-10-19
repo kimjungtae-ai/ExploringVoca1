@@ -1,0 +1,68 @@
+{
+ "word": "crisis",
+ "pos": "명사",
+ "phonetic": "[ˈkraɪsɪs]",
+ "meaning": "위기, 결정적 시기 (복수 crises)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cri",
+   "meaning": "가르다, 판단하다 (separate, decide)",
+   "note": "그리스어 krinein(가르다, 판단하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-sis",
+   "meaning": "~하는 일, 상태 (명사)",
+   "note": "그리스어에서 온 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>cri</strong> (가르다, 판단하다) + <strong>-sis</strong> (상태) = '좋아질지 나빠질지 갈리는 순간'에서 <strong>'위기'</strong>가 되었어요.",
+ "historyTitle": "고대 그리스 의사들의 '결정적 순간'",
+ "historyBody": "crisis는 그리스어 krisis(결정, 전환점)에서 왔고, 그 뿌리는 krinein(가르다, 판단하다)이에요. 고대 그리스 의학에서는 병이 낫느냐 악화되느냐가 갈리는 '결정적 순간'을 krisis라고 불렀어요. 같은 뿌리가 critic, criterion에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "criticize",
+   "pos": "동사",
+   "meaning": "비판하다",
+   "en": "People criticized the plan for being too expensive.",
+   "ko": "사람들은 그 계획이 너무 비싸다고 비판했어요."
+  },
+  {
+   "word": "critic",
+   "pos": "명사",
+   "meaning": "비평가, 비판하는 사람",
+   "en": "The film critic gave the movie five stars.",
+   "ko": "영화 비평가는 그 영화에 별 다섯 개를 줬어요."
+  },
+  {
+   "word": "critical",
+   "pos": "형용사",
+   "meaning": "비판적인, 결정적인, 중대한",
+   "en": "Sleep is critical for good health.",
+   "ko": "잠은 건강에 매우 중요해요."
+  },
+  {
+   "word": "criticism",
+   "pos": "명사",
+   "meaning": "비판, 비평",
+   "en": "He accepted the criticism calmly.",
+   "ko": "그는 그 비판을 차분하게 받아들였어요."
+  },
+  {
+   "word": "criterion",
+   "pos": "명사",
+   "meaning": "기준 (복수 criteria)",
+   "en": "Price is an important criterion when buying a phone.",
+   "ko": "휴대폰을 살 때 가격은 중요한 기준이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 갈림길 앞에서 어느 쪽으로 갈지 고민하는 장면",
+ "imageCaption": "한쪽은 낭떠러지, 한쪽은 안전한 길인 갈림길을 떠올려 보세요. 운명이 갈리는 순간이 crisis예요.",
+ "movieLineEn": "Stay calm. This is a crisis, not the end of the world.",
+ "movieLineKo": "침착해. 이건 위기지, 세상의 끝이 아니야.",
+ "storyTitle": "급식 위기",
+ "story": "오늘 학교 급식실에 crisis(위기)가 닥쳤어요. 치킨이 다 떨어진 거예요! critical(결정적인) 순간, 급식 critic(비평가)으로 유명한 민지가 나섰죠. 맛있는 메뉴의 criterion(기준)을 발표하며 영양사님을 criticize(비판하다)하려는데, 마지막 치킨이 민지 접시에 있는 게 발견됐대요!"
+}

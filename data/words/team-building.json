@@ -1,0 +1,74 @@
+{
+ "word": "team-building",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈtiːm ˌbɪldɪŋ]",
+ "meaning": "팀워크 다지기, 팀 단합 (활동)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "team",
+   "meaning": "팀, 무리 (team)",
+   "note": "고대 영어 team(한 줄로 묶인 짐승 무리)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "build",
+   "meaning": "짓다, 쌓다 (build)",
+   "note": "고대 영어 byldan(집을 짓다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하기 (명사형)",
+   "note": "동작을 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>team</strong> (팀) + <strong>build</strong> (쌓다) + <strong>-ing</strong> (~하기) = '팀을 탄탄하게 쌓아 올리기'에서 <strong>'팀 단합 활동'</strong>이 되었어요.",
+ "historyTitle": "수레를 함께 끄는 소들",
+ "historyBody": "team은 고대 영어 team에서 왔는데, 원래 수레나 쟁기를 함께 끌도록 묶인 소나 말의 무리를 뜻했어요. 함께 힘을 합쳐 일하는 사람들의 무리라는 뜻은 16세기쯤 생겼죠. build는 고대 영어 byldan(집을 짓다)에서 왔고, team-building은 20세기 후반 회사 문화에서 널리 쓰인 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "teamwork",
+   "pos": "명사",
+   "meaning": "팀워크, 협동",
+   "en": "Good teamwork helped us win the game.",
+   "ko": "좋은 팀워크 덕분에 우리는 경기에서 이겼어요."
+  },
+  {
+   "word": "teammate",
+   "pos": "명사",
+   "meaning": "팀 동료",
+   "en": "My teammate passed me the ball.",
+   "ko": "내 팀 동료가 나에게 공을 패스했어요."
+  },
+  {
+   "word": "build",
+   "pos": "동사",
+   "meaning": "짓다, 쌓다",
+   "en": "It takes time to build trust.",
+   "ko": "신뢰를 쌓는 데는 시간이 걸려요."
+  },
+  {
+   "word": "building",
+   "pos": "명사",
+   "meaning": "건물",
+   "en": "The new library building is very modern.",
+   "ko": "새 도서관 건물은 아주 현대적이에요."
+  },
+  {
+   "word": "builder",
+   "pos": "명사",
+   "meaning": "건축업자",
+   "en": "The builder finished the house in six months.",
+   "ko": "건축업자는 여섯 달 만에 집을 완성했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 동료들이 함께 줄다리기를 하는 회사 단합 행사",
+ "imageCaption": "같은 색 티셔츠를 입은 동료들이 줄다리기를 하며 '영차!' 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "This weekend, we have a team-building trip. Attendance is mandatory!",
+ "movieLineKo": "이번 주말에 팀 단합 여행이 있어요. 참석은 필수예요!",
+ "storyTitle": "단합 대회의 진짜 승자",
+ "story": "아빠 회사가 team-building(팀 단합) 행사로 모래성 build(쌓기) 대회를 열었어요. 아빠는 teammate(팀 동료)들과 완벽한 teamwork(팀워크)로 거대한 성을 만들었죠. 그런데 심사 직전 파도가 덮쳐 모두 무너졌어요. 우승은 모래에 '우리 팀 최고'라고만 쓴 사장님 팀이 차지했답니다!"
+}

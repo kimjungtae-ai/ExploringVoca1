@@ -1,0 +1,68 @@
+{
+ "word": "user-friendly",
+ "pos": "형용사",
+ "phonetic": "[ˌjuːzər ˈfrendli]",
+ "meaning": "사용하기 쉬운, 사용자 친화적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "user",
+   "meaning": "사용자 (use + -er)",
+   "note": "라틴어 uti(사용하다)에서 온 use에 '~하는 사람' -er이 붙었어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "friendly",
+   "meaning": "친절한 (friend + -ly)",
+   "note": "고대 영어 frēond(사랑하는 사람)에서 온 friend에 '~다운' -ly가 붙었어요."
+  }
+ ],
+ "summary": "<strong>user</strong> (사용자) + <strong>friendly</strong> (친절한) = 사용자에게 친절한, 즉 <strong>'사용하기 쉬운'</strong>이 되었어요.",
+ "historyTitle": "컴퓨터 시대가 만든 단어",
+ "historyBody": "user-friendly는 1970년대 후반, 개인용 컴퓨터가 등장하던 때에 생긴 말이에요. 당시 컴퓨터는 전문가만 다룰 수 있을 만큼 어려웠는데, 누구나 쉽게 쓸 수 있는 프로그램을 가리키려고 이 표현이 만들어졌죠. 이후 eco-friendly(친환경적인), pet-friendly(반려동물 친화적인) 같은 말도 이 모양을 따라 생겨났답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "user",
+   "pos": "명사",
+   "meaning": "사용자",
+   "en": "The new app has over a million users.",
+   "ko": "그 새 앱은 사용자가 백만 명이 넘어요."
+  },
+  {
+   "word": "use",
+   "pos": "동사 / 명사",
+   "meaning": "사용하다 / 사용",
+   "en": "You can use this room for group study.",
+   "ko": "이 방은 모둠 학습에 사용해도 돼요."
+  },
+  {
+   "word": "useful",
+   "pos": "형용사",
+   "meaning": "유용한",
+   "en": "These tips are useful for your English test.",
+   "ko": "이 팁들은 영어 시험에 유용해요."
+  },
+  {
+   "word": "friendly",
+   "pos": "형용사",
+   "meaning": "친절한, 다정한",
+   "en": "The people in this village are very friendly.",
+   "ko": "이 마을 사람들은 아주 친절해요."
+  },
+  {
+   "word": "eco-friendly",
+   "pos": "형용사",
+   "meaning": "친환경적인",
+   "en": "We bought an eco-friendly water bottle.",
+   "ko": "우리는 친환경 물병을 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 할머니도 쉽게 누를 수 있는 큰 버튼의 키오스크",
+ "imageCaption": "글씨가 크고 버튼이 단순해서 할머니도 금방 주문할 수 있는 화면을 떠올려 보세요.",
+ "movieLineEn": "This spaceship is very user-friendly. Even my dog can fly it.",
+ "movieLineKo": "이 우주선은 아주 쓰기 쉬워. 우리 강아지도 몰 수 있어.",
+ "storyTitle": "할머니의 키오스크 도전",
+ "story": "할머니는 햄버거 가게 키오스크 앞에서 한참 서 계셨어요. 직원이 \"아주 user-friendly(사용하기 쉬운) 기계예요!\"라고 했죠. 할머니는 useful(유용한) 기능을 다 눌러 보셨어요. 결국 햄버거 30개 주문 완료! 직원은 friendly(친절한) 미소로 말했어요. \"할머니, 가장 열정적인 user(사용자)세요!\""
+}

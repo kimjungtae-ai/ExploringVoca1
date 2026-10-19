@@ -1,0 +1,68 @@
+{
+ "word": "broadcast",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈbrɔːdkæst]",
+ "meaning": "방송하다, 널리 알리다 / 방송",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "broad",
+   "meaning": "넓은, 널리 (wide)",
+   "note": "고대 영어 brād(넓은)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "cast",
+   "meaning": "던지다, 뿌리다 (throw)",
+   "note": "고대 노르드어 kasta(던지다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>broad</strong> (널리) + <strong>cast</strong> (뿌리다) = '씨앗을 넓게 흩뿌리다'에서 '소식을 널리 뿌리다', 즉 <strong>'방송하다'</strong>가 되었어요.",
+ "historyTitle": "밭에 씨를 뿌리던 말이 방송이 되다",
+ "historyBody": "broadcast는 1700년대에 농부가 씨앗을 줄 맞춰 심지 않고 손으로 넓게 흩뿌리는 방법을 가리키는 말이었어요. 1920년대에 라디오가 퍼지면서 '전파로 소식을 사방에 뿌리다'라는 뜻이 생겼어요. 그래서 오늘날 TV와 라디오의 '방송'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "broadcaster",
+   "pos": "명사",
+   "meaning": "방송인, 방송사",
+   "en": "She works as a sports broadcaster on TV.",
+   "ko": "그녀는 TV 스포츠 방송인으로 일해."
+  },
+  {
+   "word": "broaden",
+   "pos": "동사",
+   "meaning": "넓히다",
+   "en": "Traveling can broaden your view of the world.",
+   "ko": "여행은 세상을 보는 눈을 넓혀 줄 수 있어."
+  },
+  {
+   "word": "broadly",
+   "pos": "부사",
+   "meaning": "넓게, 대체로",
+   "en": "Broadly speaking, the plan was a success.",
+   "ko": "대체로 말하면 그 계획은 성공이었어."
+  },
+  {
+   "word": "forecast",
+   "pos": "명사 / 동사",
+   "meaning": "예보 / 예측하다",
+   "en": "The weather forecast says it will snow tomorrow.",
+   "ko": "일기 예보에 따르면 내일 눈이 온대."
+  },
+  {
+   "word": "outcast",
+   "pos": "명사",
+   "meaning": "따돌림받는 사람, 버림받은 사람",
+   "en": "He felt like an outcast at his new school.",
+   "ko": "그는 새 학교에서 따돌림받는 사람처럼 느꼈어."
+  }
+ ],
+ "imageSense": "대표 의미: 방송국 안테나에서 전파가 사방으로 퍼져 나가는 장면",
+ "imageCaption": "농부가 손으로 씨앗을 휙휙 넓게 뿌리는 모습과, 안테나에서 전파가 사방으로 퍼지는 모습을 겹쳐 떠올려 보세요.",
+ "movieLineEn": "This message will be broadcast to every TV in the city!",
+ "movieLineKo": "이 메시지는 도시의 모든 TV로 방송될 거야!",
+ "storyTitle": "씨앗 방송국",
+ "story": "농부 할아버지가 씨앗을 broadcast(널리 뿌리다)하는 모습이 라디오로 broadcast(방송하다)되었어요. 유명 broadcaster(방송인)가 '내일 forecast(예보)는 맑음!'이라고 전했죠. 그런데 다음 날 비가 쏟아졌어요. 할아버지는 웃으며 말했어요. '덕분에 씨앗에 물 줄 필요가 없네!'"
+}

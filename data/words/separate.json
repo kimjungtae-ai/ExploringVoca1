@@ -1,0 +1,74 @@
+{
+ "word": "separate",
+ "pos": "형용사 / 동사",
+ "phonetic": "[ˈsepərət] / [ˈsepəreɪt]",
+ "meaning": "분리된, 별개의 / 분리하다, 나누다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "se-",
+   "meaning": "따로, 떨어져 (apart)",
+   "note": "'떼어 놓다'라는 느낌을 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "par",
+   "meaning": "준비하다, 정리하다 (prepare)",
+   "note": "라틴어 'parare(준비하다, 마련하다)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사/형용사)",
+   "note": "동사나 형용사를 만드는 어미예요."
+  }
+ ],
+ "summary": "<strong>se-</strong> (따로) + <strong>par</strong> (정리하다) + <strong>-ate</strong> = 따로따로 정리해 놓다, 즉 <strong>'분리하다, 별개의'</strong>예요.",
+ "historyTitle": "따로 마련해 두기",
+ "historyBody": "라틴어 'separare'는 'se-(따로)'와 'parare(준비하다)'가 합쳐진 말로 '따로 떼어 정리하다'라는 뜻이었어요. 같은 parare에서 prepare(미리 준비하다)와 repair(다시 정비하다→고치다)가 나왔어요. 또 several(여러 개의)도 separate와 같은 라틴어 뿌리에서 갈라져 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "separation",
+   "pos": "명사",
+   "meaning": "분리, 이별",
+   "en": "The separation from her family made her sad.",
+   "ko": "가족과 떨어져 지내는 것이 그녀를 슬프게 했어요."
+  },
+  {
+   "word": "inseparable",
+   "pos": "형용사",
+   "meaning": "떼어 놓을 수 없는",
+   "en": "The two best friends were inseparable.",
+   "ko": "그 두 단짝은 떼려야 뗄 수 없는 사이였어요."
+  },
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "We prepared sandwiches for the picnic.",
+   "ko": "우리는 소풍을 위해 샌드위치를 준비했어요."
+  },
+  {
+   "word": "repair",
+   "pos": "동사",
+   "meaning": "수리하다",
+   "en": "My dad repaired my broken bike.",
+   "ko": "아빠가 고장 난 내 자전거를 고쳐 주셨어요."
+  },
+  {
+   "word": "several",
+   "pos": "형용사",
+   "meaning": "몇몇의, 여러",
+   "en": "I have read that book several times.",
+   "ko": "나는 그 책을 여러 번 읽었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 분리수거함에 플라스틱과 종이를 나눠 넣는 장면",
+ "imageCaption": "섞여 있던 빨간 구슬과 파란 구슬을 두 그릇에 따로 나누는 모습을 떠올려 보세요.",
+ "movieLineEn": "We have to separate now, but we'll meet again.",
+ "movieLineKo": "우린 이제 헤어져야 하지만, 다시 만날 거야.",
+ "storyTitle": "분리수거 대작전",
+ "story": "엄마가 쓰레기를 separate(분리하다)하라고 하셨어요. 나는 several(여러) 개의 상자를 prepare(준비하다)했죠. 그런데 동생과 강아지는 inseparable(떼어 놓을 수 없는) 사이라 둘이 같은 상자에 쏙! 결국 엄마가 '귀여움' 칸을 새로 만드셨어요."
+}

@@ -1,0 +1,48 @@
+{
+ "word": "shift",
+ "pos": "동사 / 명사",
+ "phonetic": "[ʃɪft]",
+ "meaning": "옮기다, 바꾸다, 이동하다 / 변화, 교대 근무",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "shift",
+   "meaning": "옮기다, 나누다 (move, arrange)",
+   "note": "고대 영어 'sciftan(나누다, 배열하다)'에서 온 게르만계 단어라 더 쪼개지 않아요."
+  }
+ ],
+ "summary": "<strong>shift</strong> (옮기다, 배열하다) = 위치나 방향을 바꾸다, 즉 <strong>'이동하다, 변화'</strong>예요.",
+ "historyTitle": "나누고 배열하던 말",
+ "historyBody": "고대 영어 'sciftan'은 '나누다, 배열하다'라는 뜻이었어요. 중세 영어 시기에 '옮기다, 바꾸다'라는 뜻이 생겼고, 일을 나눠서 하는 '교대 근무'라는 뜻도 생겼어요. 수능에서는 'a shift in attitude(태도의 변화)'처럼 '변화'의 뜻으로 많이 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "shifting",
+   "pos": "형용사",
+   "meaning": "변하는, 이동하는",
+   "en": "The desert has shifting sand dunes.",
+   "ko": "사막에는 움직이는 모래 언덕이 있어요."
+  },
+  {
+   "word": "shifty",
+   "pos": "형용사",
+   "meaning": "교활해 보이는, 수상쩍은",
+   "en": "The man had shifty eyes and looked nervous.",
+   "ko": "그 남자는 눈빛이 수상쩍고 초조해 보였어요."
+  },
+  {
+   "word": "shift work",
+   "pos": "명사",
+   "meaning": "교대 근무",
+   "en": "Nurses often do shift work at hospitals.",
+   "ko": "간호사들은 병원에서 흔히 교대 근무를 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 무거운 소파를 다른 쪽으로 옮기는 장면",
+ "imageCaption": "운전대를 돌려 차선을 바꾸거나, 생각의 방향이 휙 바뀌는 순간을 떠올려 보세요.",
+ "movieLineEn": "My shift ends at midnight. Then I'm free!",
+ "movieLineKo": "내 근무는 자정에 끝나. 그다음엔 자유야!",
+ "storyTitle": "야간 근무 경비원",
+ "story": "편의점 야간 shift(교대 근무)를 하던 삼촌은 shifty(수상쩍은) 손님을 발견했어요. 그 손님은 계속 자리를 shift(옮기다)하며 진열대를 살폈죠. shifting(움직이는) 그림자에 긴장한 삼촌이 다가가자, 손님이 외쳤어요. \"사장님, 생일 축하해요!\" 깜짝 파티였어요."
+}

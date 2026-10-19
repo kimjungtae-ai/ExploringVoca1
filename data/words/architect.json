@@ -1,0 +1,68 @@
+{
+ "word": "architect",
+ "pos": "명사",
+ "phonetic": "[ˈɑːrkɪtekt]",
+ "meaning": "건축가, 설계자, 설계한 사람",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "archi-",
+   "meaning": "우두머리, 으뜸 (chief)",
+   "note": "그리스어 arkhi-(으뜸의)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tect (tekton)",
+   "meaning": "목수, 짓는 사람 (builder)",
+   "note": "그리스어 tekton(목수, 건축하는 사람)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>archi-</strong> (우두머리) + <strong>tect</strong> (짓는 사람) = '건축하는 사람들의 우두머리'에서 <strong>'건축가, 설계자'</strong>가 되었어요.",
+ "historyTitle": "그리스의 '목수 대장'",
+ "historyBody": "고대 그리스어 'arkhitekton'은 'arkhi-(으뜸)'와 'tekton(목수, 건축가)'이 합쳐진 말로 '목수들의 우두머리'를 뜻했어요. 신전을 지을 때 일꾼들을 지휘하며 전체 설계를 맡은 사람이었죠. 이 말이 라틴어 'architectus'를 거쳐 영어가 되었고, 지금은 '어떤 계획을 짠 사람'이라는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "architecture",
+   "pos": "명사",
+   "meaning": "건축(학), 건축 양식, 구조",
+   "en": "I love the architecture of old European cities.",
+   "ko": "나는 유럽 옛 도시들의 건축 양식을 정말 좋아해요."
+  },
+  {
+   "word": "architectural",
+   "pos": "형용사",
+   "meaning": "건축의, 건축학적인",
+   "en": "The tower is an architectural wonder.",
+   "ko": "그 탑은 건축학적 경이예요."
+  },
+  {
+   "word": "archbishop",
+   "pos": "명사",
+   "meaning": "대주교",
+   "en": "The archbishop gave a speech at the ceremony.",
+   "ko": "대주교가 기념식에서 연설을 했어요."
+  },
+  {
+   "word": "monarch",
+   "pos": "명사",
+   "meaning": "군주",
+   "en": "The monarch ruled the country for fifty years.",
+   "ko": "그 군주는 50년 동안 나라를 다스렸어요."
+  },
+  {
+   "word": "technology",
+   "pos": "명사",
+   "meaning": "기술",
+   "en": "Technology has changed the way we learn.",
+   "ko": "기술은 우리가 배우는 방식을 바꿔 놓았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 설계도를 펼쳐 놓고 건물을 구상하는 건축가",
+ "imageCaption": "공사 현장에서 안전모를 쓴 사람이 설계도를 펼치고 일꾼들을 지휘하는 장면을 떠올려 보세요. 짓는 사람들의 대장이 architect예요.",
+ "movieLineEn": "I am the architect of this whole plan, and it will work.",
+ "movieLineKo": "내가 이 모든 계획의 설계자야, 그리고 이건 성공할 거야.",
+ "storyTitle": "꿈의 집 설계도",
+ "story": "꼬마 architect(건축가) 지우는 레고로 꿈의 집을 설계했어요. 최신 technology(기술)로 움직이는 미끄럼틀까지 넣었죠. 그 놀라운 architecture(건축 양식)에 반한 고양이 monarch(군주)가 집을 통째로 차지해 버렸어요. 지우는 결국 고양이 궁전의 전속 건축가가 되었답니다."
+}

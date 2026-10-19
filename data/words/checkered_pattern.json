@@ -1,0 +1,68 @@
+{
+ "word": "checkered pattern",
+ "pos": "명사구",
+ "phonetic": "[ˈtʃekərd ˈpætərn]",
+ "meaning": "체크무늬, 바둑판무늬",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "checkered",
+   "meaning": "체크무늬의 (checkered)",
+   "note": "체스판처럼 네모 칸이 번갈아 있는 모양을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pattern",
+   "meaning": "무늬, 패턴, 양식 (pattern)",
+   "note": "반복되는 모양이나 규칙을 말해요."
+  }
+ ],
+ "summary": "<strong>checkered</strong> (체스판 칸 모양의) + <strong>pattern</strong> (무늬) = '체스판처럼 네모가 번갈아 반복되는 무늬'에서 <strong>'체크무늬'</strong>",
+ "historyTitle": "체스판에서 온 무늬 이름",
+ "historyBody": "checker는 고대 프랑스어 eschequier(체스판)에서 왔고, 이는 체스의 'check(왕을 공격함)'와 같은 뿌리예요. 그래서 체스판처럼 칸이 번갈아 있는 무늬를 checkered라고 해요. pattern은 고대 프랑스어 patron(본보기, 후원자)에서 와서 '따라 만드는 본'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "striped",
+   "pos": "형용사",
+   "meaning": "줄무늬의",
+   "en": "He wore a blue striped shirt.",
+   "ko": "그는 파란 줄무늬 셔츠를 입었어."
+  },
+  {
+   "word": "polka-dot",
+   "pos": "형용사",
+   "meaning": "물방울무늬의",
+   "en": "She bought a polka-dot umbrella.",
+   "ko": "그녀는 물방울무늬 우산을 샀어."
+  },
+  {
+   "word": "plain",
+   "pos": "형용사",
+   "meaning": "무늬 없는, 평범한",
+   "en": "I prefer plain T-shirts.",
+   "ko": "나는 무늬 없는 티셔츠가 더 좋아."
+  },
+  {
+   "word": "behavior pattern",
+   "pos": "명사구",
+   "meaning": "행동 양식",
+   "en": "Scientists studied the birds' behavior patterns.",
+   "ko": "과학자들은 새들의 행동 양식을 연구했어요."
+  },
+  {
+   "word": "checkerboard",
+   "pos": "명사",
+   "meaning": "체커판, 바둑판 모양",
+   "en": "The kitchen floor looks like a checkerboard.",
+   "ko": "부엌 바닥이 체커판처럼 생겼어."
+  }
+ ],
+ "imageSense": "대표 의미: 빨강과 흰색 네모가 번갈아 있는 피크닉 돗자리",
+ "imageCaption": "공원 잔디 위에 펼쳐진 빨간 체크무늬 돗자리와 샌드위치 바구니를 떠올려 보세요.",
+ "movieLineEn": "I'll be the one wearing a checkered pattern scarf.",
+ "movieLineKo": "나는 체크무늬 목도리를 하고 있을 거야.",
+ "storyTitle": "체크무늬 소동",
+ "story": "태윤이는 checkered pattern(체크무늬) 셔츠를 입고 소풍을 갔어요. 친구는 striped(줄무늬의) 셔츠, 동생은 polka-dot(물방울무늬의) 원피스였죠. 돗자리도 checkerboard(체커판) 모양이었는데, 태윤이가 그 위에 눕자 사라져 버렸어요! 친구들이 한참 찾다가 외쳤어요. \"너 돗자리랑 똑같아서 안 보여!\""
+}

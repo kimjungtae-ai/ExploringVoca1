@@ -1,0 +1,75 @@
+{
+ "word": "manual",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈmænjuəl]",
+ "meaning": "손으로 하는, 육체노동의 / 설명서, 안내서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "manu",
+   "meaning": "손 (hand)",
+   "note": "라틴어 manus(손)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "'손에 관한'이라는 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>manu</strong> (손) + <strong>-al</strong> (~의) = '손의, 손으로 하는'이라는 뜻에서 <strong>'수동의, 설명서'</strong>가 되었습니다.",
+ "historyTitle": "손에 들고 보는 작은 책",
+ "historyBody": "라틴어 manualis는 '손의, 손에 쥘 수 있는'이라는 뜻으로 manus(손)에서 왔어요. 그래서 명사 manual은 원래 '손에 들고 다니는 작은 안내책'을 뜻했답니다. manual labor(육체노동), manual car(수동 변속 차)처럼 '손으로 하는'이라는 뜻도 꼭 기억하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "manufacture",
+   "pos": "동사",
+   "meaning": "제조하다",
+   "en": "The company manufactures toys for children.",
+   "ko": "그 회사는 어린이용 장난감을 제조해요."
+  },
+  {
+   "word": "manuscript",
+   "pos": "명사",
+   "meaning": "원고",
+   "en": "She sent her manuscript to a publisher.",
+   "ko": "그녀는 원고를 출판사에 보냈어요."
+  },
+  {
+   "word": "manipulate",
+   "pos": "동사",
+   "meaning": "조종하다, 조작하다",
+   "en": "Some ads try to manipulate our feelings.",
+   "ko": "어떤 광고들은 우리의 감정을 조종하려고 해요."
+  },
+  {
+   "word": "maintain",
+   "pos": "동사",
+   "meaning": "유지하다",
+   "en": "Try to maintain eye contact when you speak.",
+   "ko": "말할 때는 눈을 맞추도록 노력하세요."
+  },
+  {
+   "word": "manage",
+   "pos": "동사",
+   "meaning": "관리하다, 간신히 해내다",
+   "en": "She managed to finish the project on time.",
+   "ko": "그녀는 간신히 제시간에 프로젝트를 끝냈어요."
+  },
+  {
+   "word": "manually",
+   "pos": "부사",
+   "meaning": "수동으로, 손으로",
+   "en": "The workers sorted the letters manually.",
+   "ko": "직원들이 편지를 손으로 분류했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두꺼운 설명서를 펼쳐 놓고 가구를 손으로 조립하는 장면",
+ "imageCaption": "기계가 아니라 내 '손'으로 직접 하는 모습을 떠올려 보세요. 그 손을 도와주는 책이 manual이에요.",
+ "movieLineEn": "Forget the manual. We'll fix it with our hands!",
+ "movieLineKo": "설명서는 잊어. 우리 손으로 고칠 거야!",
+ "storyTitle": "조립 설명서의 함정",
+ "story": "아빠는 manual(설명서) 없이 책상을 조립하겠다고 큰소리쳤어요. 결국 나사를 manually(손으로) 하나하나 조였죠. 겨우 manage(해내다)했는데 서랍이 거꾸로였어요. 그제야 설명서를 펼쳤는데, 그건 공장에서 manufacture(제조하다)한 '의자' 설명서였답니다!"
+}

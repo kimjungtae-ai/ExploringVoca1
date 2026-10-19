@@ -1,0 +1,68 @@
+{
+ "word": "tournament",
+ "pos": "명사",
+ "phonetic": "[ˈtʊrnəmənt]",
+ "meaning": "토너먼트, 시합, 선수권 대회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tourn",
+   "meaning": "돌다, 돌리다 (turn)",
+   "note": "라틴어 tornare(선반으로 돌려 깎다)에서 온 말로, turn과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ament (-ment)",
+   "meaning": "~하는 것, 행위 (명사형)",
+   "note": "동작을 나타내는 말을 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>tourn</strong> (돌다) + <strong>-ment</strong> (~하는 것) = 말을 타고 빙빙 돌며 겨루는 것, 즉 <strong>'시합, 토너먼트'</strong>가 되었어요.",
+ "historyTitle": "중세 기사들의 마상 시합",
+ "historyBody": "tournament는 고대 프랑스어 'torneiement'에서 왔는데, 이는 'torneier(말을 돌려 겨루다)'라는 동사에서 나왔어요. 중세 기사들이 말을 몰고 방향을 바꿔 가며 창으로 겨루던 시합을 가리켰죠. 뿌리인 라틴어 'tornare'는 그리스어 'tornos(선반, 돌리는 도구)'에서 왔고, turn, tour와 같은 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "turn",
+   "pos": "동사 / 명사",
+   "meaning": "돌다, 바뀌다 / 차례",
+   "en": "It's your turn to choose the movie tonight.",
+   "ko": "오늘 밤에는 네가 영화를 고를 차례야."
+  },
+  {
+   "word": "tour",
+   "pos": "명사 / 동사",
+   "meaning": "여행, 순회 / 관광하다",
+   "en": "We took a bus tour around the old city.",
+   "ko": "우리는 버스를 타고 옛 도시를 한 바퀴 둘러봤어요."
+  },
+  {
+   "word": "tourist",
+   "pos": "명사",
+   "meaning": "관광객",
+   "en": "Many tourists visit Jeju Island every summer.",
+   "ko": "매년 여름 많은 관광객이 제주도를 찾아요."
+  },
+  {
+   "word": "return",
+   "pos": "동사 / 명사",
+   "meaning": "돌아오다, 돌려주다 / 귀환",
+   "en": "Please return the books to the library by Friday.",
+   "ko": "금요일까지 도서관에 책을 반납해 주세요."
+  },
+  {
+   "word": "detour",
+   "pos": "명사",
+   "meaning": "우회로, 돌아가는 길",
+   "en": "The road was closed, so we had to take a detour.",
+   "ko": "길이 막혀서 우리는 돌아서 가야 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 팀이 대진표를 따라 차례로 겨루는 대회",
+ "imageCaption": "대진표 위에서 팀들이 한 판씩 이기며 위로 올라가는 모습, 또는 말을 돌려 달리는 기사들을 떠올려 보세요.",
+ "movieLineEn": "We didn't come all this way to lose the tournament!",
+ "movieLineKo": "우리가 대회에서 지려고 여기까지 온 게 아니야!",
+ "storyTitle": "가위바위보 세계 대회",
+ "story": "우리 반은 가위바위보 tournament(토너먼트)에 나갔어요. 내 turn(차례)이 오자 손이 덜덜 떨렸죠. 결승 상대는 지나가던 tourist(관광객)였는데, 그는 이기자마자 tour(여행) 버스를 타러 뛰어갔어요. 결국 상품은 우리에게 return(돌아오다)했답니다. 우승이라고 해야 할까요?"
+}

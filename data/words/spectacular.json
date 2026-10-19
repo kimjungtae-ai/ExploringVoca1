@@ -1,0 +1,81 @@
+{
+ "word": "spectacular",
+ "pos": "형용사 / 명사",
+ "phonetic": "[spekˈtækjələr]",
+ "meaning": "장관을 이루는, 눈부신, 극적인 / 화려한 쇼",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "spect",
+   "meaning": "보다 (look)",
+   "note": "라틴어 spectare(바라보다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-acle",
+   "meaning": "~하는 것 (명사)",
+   "note": "spectaculum은 '볼거리, 구경거리'예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar",
+   "meaning": "~의, ~같은 (형용사)",
+   "note": "'볼거리 같은'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>spect</strong> (보다) + <strong>-acul(um)</strong> (볼거리) + <strong>-ar</strong> (~같은) = '모두가 넋을 잃고 바라볼 만한'에서 <strong>'장관을 이루는, 눈부신'</strong>이 되었습니다.",
+ "historyTitle": "로마 원형 경기장의 구경거리",
+ "historyBody": "라틴어 spectare(바라보다)에서 spectaculum(구경거리, 공연)이 나왔어요. 고대 로마에서는 원형 경기장의 화려한 경기와 공연을 이렇게 불렀죠. 영어 spectacle(광경)이 먼저 들어왔고, 17세기에 형용사 spectacular가 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "spectacle",
+   "pos": "명사",
+   "meaning": "광경, 장관",
+   "en": "The fireworks over the river were a wonderful spectacle.",
+   "ko": "강 위의 불꽃놀이는 멋진 장관이었어요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중, 구경꾼",
+   "en": "Thousands of spectators cheered at the stadium.",
+   "ko": "수천 명의 관중이 경기장에서 환호했어요."
+  },
+  {
+   "word": "respect",
+   "pos": "동사 / 명사",
+   "meaning": "존중하다 / 존경",
+   "en": "We should respect other people's opinions.",
+   "ko": "우리는 다른 사람들의 의견을 존중해야 해요."
+  },
+  {
+   "word": "perspective",
+   "pos": "명사",
+   "meaning": "관점, 시각",
+   "en": "Traveling gave me a new perspective on life.",
+   "ko": "여행은 내게 삶에 대한 새로운 관점을 주었어요."
+  },
+  {
+   "word": "prospect",
+   "pos": "명사",
+   "meaning": "전망, 가능성",
+   "en": "The prospect of a long vacation made us excited.",
+   "ko": "긴 방학이 다가온다는 생각에 우리는 들떴어요."
+  },
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "점검하다, 조사하다",
+   "en": "Workers inspect the bridge every year.",
+   "ko": "작업자들은 매년 다리를 점검해요."
+  }
+ ],
+ "imageSense": "대표 의미: 밤하늘을 수놓는 거대한 불꽃놀이를 사람들이 넋 놓고 보는 장면",
+ "imageCaption": "입이 떡 벌어질 만큼 멋진 오로라를 올려다보는 순간을 떠올려 보세요.",
+ "movieLineEn": "That was spectacular! Do it again, but without setting the kitchen on fire.",
+ "movieLineKo": "정말 굉장했어! 다시 해 봐, 이번엔 부엌에 불내지 말고.",
+ "storyTitle": "불꽃놀이 담당 용",
+ "story": "마을 축제에 spectacular(눈부신) 불꽃놀이가 필요했어요. 아기 용이 나서서 불을 뿜자 하늘에 멋진 spectacle(장관)이 펼쳐졌죠. spectator(관중)들은 용을 respect(존경하다)하며 환호했어요. 그런데 용의 perspective(관점)는 달랐어요. \"불꽃놀이라니? 난 그냥 매운 떡볶이 먹고 재채기한 건데!\""
+}

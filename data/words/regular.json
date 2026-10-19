@@ -1,0 +1,82 @@
+{
+ "word": "regular",
+ "pos": "형용사",
+ "phonetic": "[ˈreɡjələr]",
+ "meaning": "규칙적인, 정기적인, 보통의, 단골의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "regul",
+   "meaning": "자, 규칙 (rule)",
+   "note": "라틴어 regula(곧은 자, 규칙)에서 왔어요. regere(곧게 이끌다)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar",
+   "meaning": "~의, ~에 맞는 (형용사)",
+   "note": "명사를 형용사로 만들어요."
+  }
+ ],
+ "summary": "<strong>regul</strong> (자, 규칙) + <strong>-ar</strong> (~에 맞는) = 자로 잰 듯 규칙에 맞는, 즉 <strong>'규칙적인, 정기적인'</strong>이에요.",
+ "historyTitle": "곧은 자(ruler)에서 나온 규칙",
+ "historyBody": "라틴어 regula는 선을 곧게 긋는 '자'를 뜻했어요. 자처럼 반듯한 것이 곧 '규칙'이 되었고, 중세에는 수도원의 생활 규칙을 따르는 수도사를 regular라고 불렀어요. 영어 rule도 고대 프랑스어 reule를 거쳐 온 regula의 후손이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regularly",
+   "pos": "부사",
+   "meaning": "규칙적으로, 정기적으로",
+   "en": "I visit my grandparents regularly.",
+   "ko": "나는 조부모님을 정기적으로 찾아뵈어요."
+  },
+  {
+   "word": "regulate",
+   "pos": "동사",
+   "meaning": "규제하다, 조절하다",
+   "en": "The government regulates the use of plastic bags.",
+   "ko": "정부는 비닐봉지 사용을 규제해요."
+  },
+  {
+   "word": "regulation",
+   "pos": "명사",
+   "meaning": "규정, 규제",
+   "en": "New safety regulations were introduced last year.",
+   "ko": "작년에 새 안전 규정이 도입되었어요."
+  },
+  {
+   "word": "irregular",
+   "pos": "형용사",
+   "meaning": "불규칙한",
+   "en": "Irregular sleep can affect your grades.",
+   "ko": "불규칙한 수면은 성적에 영향을 줄 수 있어요."
+  },
+  {
+   "word": "rule",
+   "pos": "명사 / 동사",
+   "meaning": "규칙 / 다스리다",
+   "en": "Everyone must follow the school rules.",
+   "ko": "모든 사람은 학교 규칙을 따라야 해요."
+  },
+  {
+   "word": "region",
+   "pos": "명사",
+   "meaning": "지역",
+   "en": "This region is famous for its apples.",
+   "ko": "이 지역은 사과로 유명해요."
+  },
+  {
+   "word": "reign",
+   "pos": "명사 / 동사",
+   "meaning": "통치 / 통치하다",
+   "en": "Queen Victoria's reign lasted over sixty years.",
+   "ko": "빅토리아 여왕의 통치는 60년 넘게 이어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 같은 시간에 울리는 알람과 똑같은 간격의 시계 눈금",
+ "imageCaption": "자로 잰 듯 반듯하게 줄 선 시계 눈금처럼, 늘 일정하게 반복되는 모습을 떠올려 보세요. 그게 regular예요.",
+ "movieLineEn": "Nothing about this mission is regular, kid.",
+ "movieLineKo": "꼬마야, 이번 임무는 전혀 평범하지 않아.",
+ "storyTitle": "단골손님의 비밀",
+ "story": "빵집의 regular(단골) 손님 할아버지는 매일 regularly(규칙적으로) 오후 3시에 왔어요. 사장님은 그분만의 rule(규칙)이 궁금했죠. 어느 날 할아버지가 오지 않자 irregular(불규칙한) 하루에 모두 걱정했어요. 다음 날 할아버지가 말했어요. '어제는 옆 빵집 regular(단골)가 되어 봤는데, 여기가 낫더구먼.'"
+}

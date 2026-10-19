@@ -1,0 +1,75 @@
+{
+ "word": "interrupt",
+ "pos": "동사",
+ "phonetic": "[ˌɪntəˈrʌpt]",
+ "meaning": "방해하다, 끼어들다, 중단시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "사이에 (between)",
+   "note": "무언가의 중간에 끼어든다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "rupt",
+   "meaning": "깨다, 끊다 (break)",
+   "note": "라틴어 rumpere(깨다)의 과거분사 ruptus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (사이에) + <strong>rupt</strong> (깨다) = '이어지던 것의 사이를 뚝 끊다'라는 뜻에서 <strong>'방해하다, 끼어들다'</strong>가 되었습니다.",
+ "historyTitle": "깨뜨리는 rupt 가족",
+ "historyBody": "라틴어 'interrumpere'는 '사이를 끊다, 중간에 깨뜨리다'라는 뜻이었어요. 같은 rupt 가족인 bankrupt(파산한)는 이탈리아어 banca rotta(부서진 의자)에서 왔다고 해요. 돈을 갚지 못한 상인의 가판대를 부수던 풍습과 관련이 있다는 이야기가 전해지죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "interruption",
+   "pos": "명사",
+   "meaning": "방해, 중단",
+   "en": "I studied for two hours without interruption.",
+   "ko": "나는 두 시간 동안 방해받지 않고 공부했어요."
+  },
+  {
+   "word": "erupt",
+   "pos": "동사",
+   "meaning": "분출하다, 폭발하다 (밖으로 터지다)",
+   "en": "The volcano erupted last night.",
+   "ko": "어젯밤 화산이 분출했어요."
+  },
+  {
+   "word": "disrupt",
+   "pos": "동사",
+   "meaning": "방해하다, 혼란에 빠뜨리다",
+   "en": "The storm disrupted train services.",
+   "ko": "폭풍 때문에 열차 운행에 차질이 생겼어요."
+  },
+  {
+   "word": "corrupt",
+   "pos": "형용사 / 동사",
+   "meaning": "부패한 / 타락시키다",
+   "en": "The corrupt officials were arrested.",
+   "ko": "부패한 공무원들이 체포되었어요."
+  },
+  {
+   "word": "bankrupt",
+   "pos": "형용사",
+   "meaning": "파산한",
+   "en": "The company went bankrupt last year.",
+   "ko": "그 회사는 작년에 파산했어요."
+  },
+  {
+   "word": "abrupt",
+   "pos": "형용사",
+   "meaning": "갑작스러운 (뚝 끊어진)",
+   "en": "The car came to an abrupt stop.",
+   "ko": "차가 갑자기 멈춰 섰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 대화 중간에 불쑥 손을 들고 끼어드는 사람",
+ "imageCaption": "길게 이어진 실을 가위로 중간에 싹둑 자르는 모습을 떠올려 보세요. 그게 interrupt예요.",
+ "movieLineEn": "Sorry to interrupt, but the building is on fire.",
+ "movieLineKo": "끼어들어서 미안한데, 건물에 불이 났어.",
+ "storyTitle": "끼어들기 대장 동생",
+ "story": "형이 고백 전화를 하는데 동생이 자꾸 interrupt(끼어들다)했어요. 그 interruption(방해) 때문에 분위기가 disrupt(혼란에 빠지다)되었죠. 화가 erupt(폭발하다)할 뻔한 형에게 동생이 말했어요. '형, 그 전화 스피커 모드야.' abrupt(갑작스러운) 침묵 뒤, 수화기 너머에서 웃음이 터졌대요."
+}

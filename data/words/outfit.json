@@ -1,0 +1,61 @@
+{
+ "word": "outfit",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈaʊtfɪt]",
+ "meaning": "옷차림, 의상 한 벌, 장비 / 장비를 갖추다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "밖으로, 완전히 (out)",
+   "note": "fit out(장비를 갖추다)의 out에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fit",
+   "meaning": "맞추다, 갖추다 (fit)",
+   "note": "몸이나 용도에 딱 맞게 한다는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>out</strong> + <strong>fit</strong> (갖추다) = '(배 등을) 완전히 갖추어 꾸리다'라는 뜻에서 <strong>'장비, 옷차림'</strong>이 되었어요.",
+ "historyTitle": "배를 꾸리던 말이 패션이 되기까지",
+ "historyBody": "outfit은 18세기 중반에 fit out(배를 출항 준비시키다, 장비를 갖추다)에서 만들어진 말이에요. 처음엔 '항해 준비, 장비'를 뜻했고, 점차 여행에 필요한 물품, 그리고 '한 벌의 옷차림'으로 뜻이 넓어졌어요. 오늘날엔 주로 옷차림을 말할 때 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fit",
+   "pos": "동사 / 형용사",
+   "meaning": "맞다 / 건강한, 알맞은",
+   "en": "These shoes fit me perfectly.",
+   "ko": "이 신발은 나한테 딱 맞아요."
+  },
+  {
+   "word": "fitness",
+   "pos": "명사",
+   "meaning": "신체 단련, 건강",
+   "en": "She goes to a fitness center three times a week.",
+   "ko": "그녀는 일주일에 세 번 헬스장에 가요."
+  },
+  {
+   "word": "unfit",
+   "pos": "형용사",
+   "meaning": "부적합한, 건강하지 못한",
+   "en": "The old bridge is unfit for heavy trucks.",
+   "ko": "그 낡은 다리는 무거운 트럭이 다니기에 부적합해요."
+  },
+  {
+   "word": "fitting",
+   "pos": "형용사 / 명사",
+   "meaning": "적절한 / 옷 가봉, 맞추기",
+   "en": "Her speech was a fitting end to the ceremony.",
+   "ko": "그녀의 연설은 행사를 마무리하기에 적절했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울 앞에서 모자, 셔츠, 신발까지 한 벌을 맞춰 입어 보는 장면",
+ "imageCaption": "머리부터 발끝까지 세트로 갖춰 입은 모습을 떠올려 보세요. 그 한 벌이 outfit이에요.",
+ "movieLineEn": "Nice outfit. Are you going to a party or a battle?",
+ "movieLineKo": "멋진 옷차림인데. 파티 가는 거야, 전투 나가는 거야?",
+ "storyTitle": "완벽한 등산 옷차림",
+ "story": "아빠는 등산을 위해 최신 outfit(옷차림)을 샀어요. 몸에 딱 fit(맞다)하는 옷에, fitness(신체 단련) 시계까지 찼죠. 하지만 산 입구에서 아빠는 등산에 unfit(부적합한) 몸이라며 벤치에 앉았어요. 결국 그 옷차림은 김밥 먹기에 딱이었답니다."
+}

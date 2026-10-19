@@ -1,0 +1,48 @@
+{
+ "word": "fare",
+ "pos": "명사 / 동사",
+ "phonetic": "[fer]",
+ "meaning": "(교통) 요금, 승객 / 지내다, 해 나가다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fare (faran)",
+   "meaning": "가다, 여행하다 (go, travel)",
+   "note": "고대 영어 faran(가다)과 faru(여행)에서 온 게르만계 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>fare</strong>는 고대 영어 <strong>faran</strong>(가다, 여행하다)에서 와서, '여행하는 데 드는 돈'인 <strong>'요금'</strong>과 '살아가다'인 <strong>'지내다'</strong>가 되었어요.",
+ "historyTitle": "길을 떠나던 고대 영어 faran",
+ "historyBody": "고대 영어 faran은 '가다, 여행하다'라는 뜻이었고, faru는 '여행'이었어요. 그래서 fare는 '여행에 드는 값(요금)'이 되었고, '인생길을 어떻게 가고 있나', 즉 '지내다'라는 뜻도 생겼죠. farewell(작별 인사)은 '잘 가세요(fare well)'라는 말이 붙은 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "farewell",
+   "pos": "명사",
+   "meaning": "작별 (인사)",
+   "en": "We had a farewell party for our English teacher.",
+   "ko": "우리는 영어 선생님을 위한 송별회를 열었어요."
+  },
+  {
+   "word": "welfare",
+   "pos": "명사",
+   "meaning": "복지, 행복",
+   "en": "The government is trying to improve child welfare.",
+   "ko": "정부는 아동 복지를 개선하려고 노력하고 있어요."
+  },
+  {
+   "word": "wayfarer",
+   "pos": "명사",
+   "meaning": "(도보) 여행자, 나그네",
+   "en": "The tired wayfarer rested under a big tree.",
+   "ko": "지친 나그네는 큰 나무 아래에서 쉬었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 버스에 타서 교통카드를 찍는 장면",
+ "imageCaption": "'삑!' 하고 요금을 내고 길을 떠나는 모습을 떠올리세요. 길을 가는(fare) 값이 fare예요.",
+ "movieLineEn": "Farewell, my friend. May you fare well on your journey.",
+ "movieLineKo": "잘 가게, 친구. 여행길에서 잘 지내길 바라네.",
+ "storyTitle": "나그네의 버스 요금",
+ "story": "한 wayfarer(나그네)가 버스에 타며 말했어요. \"fare(요금)는 얼마요?\" 기사님은 \"1,500원이요.\" 나그네는 동전 대신 노래를 불렀어요. 승객들의 welfare(행복)를 위해서라나요. 노래가 너무 좋아 모두가 박수를 쳤죠. 결국 내릴 때 승객들이 farewell(작별 인사)로 요금을 대신 내 줬답니다."
+}

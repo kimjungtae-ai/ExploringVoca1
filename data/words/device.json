@@ -1,0 +1,61 @@
+{
+ "word": "device",
+ "pos": "명사",
+ "phonetic": "[dɪˈvaɪs]",
+ "meaning": "장치, 기기, 고안물, 방책",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져 (apart) — 원래 di(s)-",
+   "note": "라틴어 dividere의 di-(떨어져)에서 온 부분이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vice",
+   "meaning": "나누다 (divide)",
+   "note": "라틴어 dividere(나누다)에서 고대 프랑스어 deviser(나누다, 궁리하다)를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (떨어져) + <strong>vice</strong> (나누다) = '나누고 정리해 궁리해 낸 것'에서 <strong>'장치, 고안물'</strong>이 되었어요.",
+ "historyTitle": "나누어 궁리하다",
+ "historyBody": "device는 고대 프랑스어 devis(구분, 계획, 의도)에서 왔고, 그 동사 deviser는 라틴어 dividere(나누다)에서 나왔어요. 문제를 쪼개어 꼼꼼히 '궁리해 낸 것'이 계획이나 장치가 되었고, 지금은 주로 스마트폰 같은 '기기'를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "devise",
+   "pos": "동사",
+   "meaning": "고안하다, 궁리하다",
+   "en": "They devised a new way to save water.",
+   "ko": "그들은 물을 절약하는 새로운 방법을 고안했어요."
+  },
+  {
+   "word": "divide",
+   "pos": "동사",
+   "meaning": "나누다",
+   "en": "Divide the pizza into eight pieces.",
+   "ko": "피자를 여덟 조각으로 나누세요."
+  },
+  {
+   "word": "division",
+   "pos": "명사",
+   "meaning": "분할, 부서",
+   "en": "There is a clear division of work in our team.",
+   "ko": "우리 팀은 업무 분담이 분명해요."
+  },
+  {
+   "word": "individual",
+   "pos": "형용사 / 명사",
+   "meaning": "개인의 / 개인",
+   "en": "Each individual has different needs.",
+   "ko": "개인마다 필요한 것이 달라요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 놓인 스마트폰, 태블릿, 이어폰 같은 전자 기기들",
+ "imageCaption": "주머니 속 작은 스마트폰부터 거대한 기계까지, 사람이 궁리해 만든 장치를 떠올려 보세요.",
+ "movieLineEn": "This little device can save the whole city.",
+ "movieLineKo": "이 작은 장치가 도시 전체를 구할 수 있어.",
+ "storyTitle": "만능 장치의 정체",
+ "story": "발명왕 동수는 숙제를 대신하는 device(장치)를 devise(고안하다)했어요. 숙제를 세 부분으로 divide(나누다)해서 풀어 준대요. 반 친구 individual(개인) 모두가 줄을 섰죠. 그런데 버튼을 누르자 화면에 뜬 말, '스스로 하세요.'"
+}

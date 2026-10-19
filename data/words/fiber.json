@@ -1,0 +1,41 @@
+{
+ "word": "fiber",
+ "pos": "명사",
+ "phonetic": "[ˈfaɪbər]",
+ "meaning": "섬유, 섬유질, 섬유 조직",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fiber",
+   "meaning": "실, 가는 줄 (filament)",
+   "note": "라틴어 fibra(섬유, 가는 실)에서 프랑스어 fibre를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>fiber</strong> (라틴어 fibra, 가는 실) = 실처럼 가늘고 긴 조직이라는 뜻에서 <strong>'섬유, 섬유질'</strong>이 되었습니다.",
+ "historyTitle": "가는 실에서 시작된 단어",
+ "historyBody": "fiber는 라틴어 fibra(섬유, 가는 실, 내장의 엽)에서 프랑스어 fibre를 거쳐 영어로 들어왔어요. fibra가 어디서 왔는지는 확실히 밝혀지지 않았어요. 영국에서는 지금도 fibre라고 쓰고, 미국에서는 fiber라고 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fibrous",
+   "pos": "형용사",
+   "meaning": "섬유질의, 섬유로 된",
+   "en": "Celery is a fibrous vegetable that is good for digestion.",
+   "ko": "셀러리는 소화에 좋은 섬유질 채소예요."
+  },
+  {
+   "word": "fiberglass",
+   "pos": "명사",
+   "meaning": "유리 섬유",
+   "en": "The small boat was made of light fiberglass.",
+   "ko": "그 작은 보트는 가벼운 유리 섬유로 만들어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 현미경으로 본 실타래 같은 섬유 가닥",
+ "imageCaption": "옷감을 확대하면 보이는 가느다란 실 가닥들, 채소 속 질긴 줄기들이 모두 fiber예요.",
+ "movieLineEn": "Eat your vegetables. You need more fiber, young man!",
+ "movieLineKo": "채소 먹어라. 넌 섬유질이 더 필요해, 젊은이!",
+ "storyTitle": "섬유질 대장 브로콜리",
+ "story": "브로콜리는 자기가 fiber(섬유질) 대장이라고 자랑했어요. 셀러리도 \"나도 fibrous(섬유질의)하다고!\"라며 맞섰죠. 둘은 누가 더 건강한지 report(보고)해 달라고 영양사에게 offer(제안하다)했어요. 영양사는 둘 다 칭찬했지만, 아이들은 둘 다 접시 옆으로 transfer(옮기다)해 버렸대요. 진짜 승자는 감자튀김이었죠!"
+}

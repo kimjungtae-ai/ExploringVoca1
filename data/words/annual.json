@@ -1,0 +1,68 @@
+{
+ "word": "annual",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈænjuəl]",
+ "meaning": "매년의, 연례의, 1년의 / 연감",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ann",
+   "meaning": "해, 년 (year)",
+   "note": "라틴어 annus(해)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ual",
+   "meaning": "~의 (형용사)",
+   "note": "라틴어 -alis에서 온 형용사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ann</strong> (해) + <strong>-ual</strong> (~의) = '해마다의'에서 <strong>'매년의, 연례의'</strong>가 되었어요.",
+ "historyTitle": "해마다 돌아오는 라틴어 annus",
+ "historyBody": "라틴어 annus는 '해, 1년'이라는 뜻이었고, 후기 라틴어 annualis가 영어 annual이 되었어요. anniversary(기념일)는 '해(annus)가 돌아오는(vertere) 날'이라는 뜻이에요. 서기 연도를 나타내는 A.D.(Anno Domini)에도 이 단어가 숨어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "anniversary",
+   "pos": "명사",
+   "meaning": "기념일",
+   "en": "We celebrated the school's 50th anniversary.",
+   "ko": "우리는 개교 50주년을 기념했어요."
+  },
+  {
+   "word": "annually",
+   "pos": "부사",
+   "meaning": "매년, 해마다",
+   "en": "The festival is held annually in October.",
+   "ko": "그 축제는 매년 10월에 열려요."
+  },
+  {
+   "word": "biannual",
+   "pos": "형용사",
+   "meaning": "1년에 두 번의",
+   "en": "The club holds a biannual meeting.",
+   "ko": "그 동아리는 1년에 두 번 모임을 열어요."
+  },
+  {
+   "word": "millennium",
+   "pos": "명사",
+   "meaning": "천 년",
+   "en": "The castle was built nearly a millennium ago.",
+   "ko": "그 성은 거의 천 년 전에 지어졌어요."
+  },
+  {
+   "word": "perennial",
+   "pos": "형용사",
+   "meaning": "다년생의, 계속되는",
+   "en": "Roses are perennial plants.",
+   "ko": "장미는 여러해살이 식물이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 해마다 같은 날 열리는 마을 축제와 달력의 동그라미",
+ "imageCaption": "매년 달력에 같은 날짜로 돌아오는 행사를 떠올려 보세요.",
+ "movieLineEn": "Welcome to the annual dragon festival!",
+ "movieLineKo": "해마다 열리는 용 축제에 오신 걸 환영합니다!",
+ "storyTitle": "매년 열리는 잠자기 대회",
+ "story": "우리 동네에는 annual(매년의) 낮잠 대회가 있어요. 올해로 100번째 anniversary(기념일)였죠. annually(매년) 우승하던 할아버지는 올해도 자신 있었어요. 그런데 결과 발표 시간까지 할아버지가 안 일어났어요. 심사위원은 '진정한 perennial(계속되는) 챔피언!'이라며 트로피를 이불 위에 놓았대요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "pressing",
+ "pos": "형용사",
+ "phonetic": "[ˈpresɪŋ]",
+ "meaning": "긴급한, 절박한, 간곡한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "press",
+   "meaning": "누르다 (press)",
+   "note": "라틴어 premere(누르다)에서 온 pressare가 프랑스어를 거쳐 들어왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (형용사)",
+   "note": "'~하고 있는'이라는 성질을 나타내요."
+  }
+ ],
+ "summary": "<strong>press</strong> (누르다) + <strong>-ing</strong> (~하는) = 계속 꾹꾹 내리누르는 것이라서 <strong>'긴급한, 절박한'</strong>이 되었어요.",
+ "historyTitle": "마음을 '내리누르는' 일",
+ "historyBody": "press는 라틴어 premere(누르다)의 반복형 pressare에서 고대 프랑스어 presser를 거쳐 영어로 들어왔어요. pressing은 원래 '누르는'이라는 뜻이었는데, 16세기쯤 '마음을 짓누를 만큼 급한'이라는 뜻으로 쓰이게 되었어요. 'a pressing issue(시급한 문제)'처럼 수능 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "press",
+   "pos": "동사/명사",
+   "meaning": "누르다 / 언론",
+   "en": "Press the button to start the machine.",
+   "ko": "기계를 켜려면 버튼을 누르세요."
+  },
+  {
+   "word": "pressure",
+   "pos": "명사",
+   "meaning": "압력, 압박",
+   "en": "Students often feel pressure before exams.",
+   "ko": "학생들은 시험 전에 압박감을 자주 느껴요."
+  },
+  {
+   "word": "express",
+   "pos": "동사",
+   "meaning": "표현하다",
+   "en": "It's hard to express my feelings in words.",
+   "ko": "내 감정을 말로 표현하기가 어려워요."
+  },
+  {
+   "word": "impress",
+   "pos": "동사",
+   "meaning": "감명을 주다",
+   "en": "Her speech impressed everyone in the room.",
+   "ko": "그녀의 연설은 방 안 모든 사람에게 감명을 주었어요."
+  },
+  {
+   "word": "depress",
+   "pos": "동사",
+   "meaning": "우울하게 하다, 침체시키다",
+   "en": "Rainy days sometimes depress me.",
+   "ko": "비 오는 날은 가끔 나를 우울하게 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 마감 시계가 째깍거리며 어깨를 짓누르는 장면",
+ "imageCaption": "커다란 시계가 어깨를 꾹 누르며 '빨리빨리!'라고 재촉하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We have a more pressing problem. The ship is sinking!",
+ "movieLineKo": "더 급한 문제가 있어. 배가 가라앉고 있다고!",
+ "storyTitle": "가장 시급한 문제",
+ "story": "회의 중에 사장님이 '가장 pressing(긴급한) 문제가 뭐죠?'라고 물었어요. 직원들은 pressure(압박)를 느끼며 매출, 경쟁사 얘기를 express(표현하다)했죠. 그때 막내가 손을 들었어요. '점심시간이 5분 지났습니다.' 모두가 impress(감명을 받다)되어 회의는 즉시 끝났대요!"
+}

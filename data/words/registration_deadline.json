@@ -1,0 +1,68 @@
+{
+ "word": "registration deadline",
+ "pos": "명사구",
+ "phonetic": "[ˌredʒɪˈstreɪʃən ˈdedlaɪn]",
+ "meaning": "등록 마감일, 신청 마감 기한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "registration",
+   "meaning": "등록 (registration)",
+   "note": "register(등록하다) + -ation(명사)으로 '명단에 올림'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "deadline",
+   "meaning": "마감 기한 (deadline)",
+   "note": "dead(죽은) + line(선)으로, 넘으면 안 되는 '선'이에요."
+  }
+ ],
+ "summary": "<strong>registration</strong> (등록) + <strong>deadline</strong> (마감선) = '등록할 수 있는 마지막 선'이라서 <strong>'등록 마감일'</strong>이에요.",
+ "historyTitle": "넘으면 안 되는 선, deadline",
+ "historyBody": "register는 중세 라틴어 'registrum(기록 목록)'에서 왔어요. deadline은 미국 남북전쟁 때 포로수용소에서 '넘으면 총에 맞는 경계선'을 가리키던 말로 기록되어 있어요. 20세기 신문사에서 '기사 마감 시간'이라는 뜻으로 쓰이면서 지금의 '마감 기한'이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "register",
+   "pos": "동사",
+   "meaning": "등록하다",
+   "en": "You must register online before the class starts.",
+   "ko": "수업 시작 전에 온라인으로 등록해야 해요."
+  },
+  {
+   "word": "registration fee",
+   "pos": "명사구",
+   "meaning": "등록비",
+   "en": "The registration fee is twenty dollars per person.",
+   "ko": "등록비는 1인당 20달러예요."
+  },
+  {
+   "word": "due date",
+   "pos": "명사구",
+   "meaning": "마감일, 만기일",
+   "en": "The due date for the essay is next Monday.",
+   "ko": "에세이 마감일은 다음 주 월요일이에요."
+  },
+  {
+   "word": "meet the deadline",
+   "pos": "숙어",
+   "meaning": "마감을 지키다",
+   "en": "We worked all night to meet the deadline.",
+   "ko": "우리는 마감을 지키려고 밤을 새웠어요."
+  },
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다",
+   "en": "The school extended the deadline by one week.",
+   "ko": "학교는 마감 기한을 일주일 연장했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력의 빨간 동그라미 날짜를 보며 급히 신청서를 내는 장면",
+ "imageCaption": "달력에 빨간 펜으로 동그라미 친 날짜, 그 선을 넘으면 신청이 끝나요. 마지막 날 허겁지겁 신청 버튼을 누르는 모습을 떠올려 보세요.",
+ "movieLineEn": "The registration deadline is tonight. Hurry up!",
+ "movieLineKo": "등록 마감이 오늘 밤이야. 서둘러!",
+ "storyTitle": "마감의 기적",
+ "story": "준서는 동아리에 register(등록하다)하려다 registration deadline(등록 마감일)을 깜빡했어요. 밤 11시 59분, meet the deadline(마감을 지키다)하려고 손가락이 날아다녔죠. 겨우 성공! 그런데 다음 날 공지를 보니 지원자가 없어서 마감을 일주일 extend(연장하다)했대요."
+}

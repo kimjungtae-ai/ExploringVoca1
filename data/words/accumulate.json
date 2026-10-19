@@ -1,0 +1,60 @@
+{
+ "word": "accumulate",
+ "pos": "동사",
+ "phonetic": "[əˈkjuːmjəleɪt]",
+ "meaning": "모으다, 축적하다, 쌓이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~에 더하여 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cumul",
+   "meaning": "더미, 쌓아 올린 것 (heap)",
+   "note": "라틴어 cumulus(더미)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~에 더해) + <strong>cumul</strong> (더미) + <strong>-ate</strong> = '더미 위에 계속 더해 쌓다'에서 <strong>'축적하다, 쌓이다'</strong>가 되었어요.",
+ "historyTitle": "뭉게구름처럼 '쌓인 더미'",
+ "historyBody": "라틴어 accumulare는 '더미 위에 더 쌓다'라는 뜻이었어요. 핵심인 cumulus는 '더미'라는 뜻인데, 오늘날 뭉게구름을 부르는 기상 용어(cumulus)로도 쓰여요. 구름이 몽글몽글 쌓인 모습을 생각하면 쉽게 기억할 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accumulation",
+   "pos": "명사",
+   "meaning": "축적, 누적",
+   "en": "The accumulation of snow closed the road.",
+   "ko": "눈이 쌓여 도로가 폐쇄되었어요."
+  },
+  {
+   "word": "cumulative",
+   "pos": "형용사",
+   "meaning": "누적되는",
+   "en": "The cumulative effect of small habits can be huge.",
+   "ko": "작은 습관의 누적 효과는 엄청날 수 있어요."
+  },
+  {
+   "word": "cumulus",
+   "pos": "명사",
+   "meaning": "적운, 뭉게구름",
+   "en": "White cumulus clouds floated over the hills.",
+   "ko": "하얀 뭉게구름이 언덕 위를 떠다녔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 숙제와 책이 점점 높이 쌓여 가는 장면",
+ "imageCaption": "하루하루 조금씩 더해져 산처럼 쌓인 더미를 떠올려 보세요. 돈도, 지식도, 먼지도 accumulate해요.",
+ "movieLineEn": "Over the years, he accumulated a huge fortune.",
+ "movieLineKo": "수년 동안 그는 엄청난 재산을 모았지.",
+ "storyTitle": "방 청소를 미룬 결과",
+ "story": "지수는 방 청소를 계속 미뤘어요. 옷이 accumulate(쌓이다)해서 cumulus(뭉게구름)처럼 부풀었죠. 그 cumulative(누적되는) 효과는 놀라웠어요. 옷 더미의 accumulation(축적) 속에서 1년 전 잃어버린 고양이가 새끼 셋과 함께 나왔거든요!"
+}

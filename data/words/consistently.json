@@ -1,0 +1,68 @@
+{
+ "word": "consistently",
+ "pos": "부사",
+ "phonetic": "[kənˈsɪstəntli]",
+ "meaning": "일관되게, 꾸준히, 한결같이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "consistent",
+   "meaning": "일관된 (con- + sist 서다 + -ent)",
+   "note": "흔들림 없이 굳게 서 있다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 주는 접미사예요."
+  }
+ ],
+ "summary": "<strong>consistent</strong> (일관된) + <strong>-ly</strong> (~하게) = '흔들림 없이 한결같게'라는 뜻에서 <strong>'꾸준히, 일관되게'</strong>가 되었어요.",
+ "historyTitle": "굳게 서 있는 모습에서 온 '꾸준히'",
+ "historyBody": "consistently의 바탕인 consistent는 라틴어 consistere(함께 서다, 굳어지다)에서 왔어요. 여기에 영어 부사 접미사 -ly가 붙어 '한결같이'라는 뜻이 되었어요. 수능 지문에서는 연구 결과가 '일관되게' 나타난다고 할 때 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "consistent",
+   "pos": "형용사",
+   "meaning": "일관된, 한결같은",
+   "en": "He is consistent in his opinions.",
+   "ko": "그는 자기 의견에 일관성이 있어요."
+  },
+  {
+   "word": "consistency",
+   "pos": "명사",
+   "meaning": "일관성",
+   "en": "The coach praised the consistency of her performance.",
+   "ko": "코치는 그녀 경기력의 일관성을 칭찬했어요."
+  },
+  {
+   "word": "consist",
+   "pos": "동사",
+   "meaning": "구성되다",
+   "en": "Breakfast consists of bread, eggs, and milk.",
+   "ko": "아침 식사는 빵, 달걀, 우유로 구성돼요."
+  },
+  {
+   "word": "inconsistent",
+   "pos": "형용사",
+   "meaning": "일관성 없는",
+   "en": "His answers were inconsistent, so the teacher was confused.",
+   "ko": "그의 대답이 일관성이 없어서 선생님이 헷갈려하셨어요."
+  },
+  {
+   "word": "insist",
+   "pos": "동사",
+   "meaning": "주장하다",
+   "en": "She insisted on paying for lunch.",
+   "ko": "그녀는 점심값을 자기가 내겠다고 고집했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 아침 같은 길로 꾸준히 조깅하는 장면",
+ "imageCaption": "해가 뜨나 비가 오나 같은 시간에 달리는 사람을 떠올려 보세요. 그 꾸준함이 consistently예요.",
+ "movieLineEn": "He has consistently lied to us from the beginning.",
+ "movieLineKo": "그는 처음부터 한결같이 우리에게 거짓말을 해 왔어.",
+ "storyTitle": "알람보다 정확한 닭",
+ "story": "닭 꼬꼬는 매일 새벽 consistently(꾸준히) 울었어요. 그 consistency(일관성) 덕분에 농장 사람들은 알람이 필요 없었죠. 꼬꼬는 '내 하루는 노래와 모이로 consist(구성되다)해!'라고 자랑했어요. 그런데 서머타임이 시작되자 꼬꼬만 한 시간 inconsistent(일관성 없는) 닭이 되어 버렸대요!"
+}

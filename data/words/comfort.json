@@ -1,0 +1,68 @@
+{
+ "word": "comfort",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈkʌmfərt]",
+ "meaning": "편안함, 위로 / 위로하다, 편하게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (강조)",
+   "note": "뜻을 강하게 만들어 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fort",
+   "meaning": "강한 (strong)",
+   "note": "라틴어 fortis(강한)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>fort</strong> (강한) = '힘을 북돋아 강하게 하다'라는 데서 <strong>'위로하다, 편안함'</strong>이 되었습니다.",
+ "historyTitle": "힘을 주는 말에서 편안한 소파로",
+ "historyBody": "후기 라틴어 confortare는 '강하게 하다, 힘을 북돋우다'라는 뜻이었어요. 고대 프랑스어 conforter를 거쳐 영어에 들어왔을 때는 '용기를 주다, 위로하다'라는 뜻이 중심이었죠. 18세기 무렵부터 '몸이 편안한 상태'라는 뜻이 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "comfortable",
+   "pos": "형용사",
+   "meaning": "편안한",
+   "en": "This sofa is really comfortable.",
+   "ko": "이 소파는 정말 편안해."
+  },
+  {
+   "word": "effort",
+   "pos": "명사",
+   "meaning": "노력",
+   "en": "Learning a language takes a lot of effort.",
+   "ko": "언어를 배우는 데는 많은 노력이 필요해요."
+  },
+  {
+   "word": "fortress",
+   "pos": "명사",
+   "meaning": "요새",
+   "en": "The old fortress stands on top of the hill.",
+   "ko": "오래된 요새가 언덕 꼭대기에 서 있어요."
+  },
+  {
+   "word": "fortify",
+   "pos": "동사",
+   "meaning": "강화하다, 요새화하다",
+   "en": "The soldiers fortified the city walls.",
+   "ko": "병사들은 성벽을 강화했어요."
+  },
+  {
+   "word": "force",
+   "pos": "명사/동사",
+   "meaning": "힘 / 강요하다",
+   "en": "Nobody can force you to change your mind.",
+   "ko": "아무도 네 마음을 바꾸라고 강요할 수 없어."
+  }
+ ],
+ "imageSense": "대표 의미: 지친 친구의 어깨를 토닥이며 힘을 주는 장면",
+ "imageCaption": "힘(fort)을 꽉(com-) 채워 주는 따뜻한 위로를 떠올려 보세요.",
+ "movieLineEn": "Don't worry. I'm here to comfort you.",
+ "movieLineKo": "걱정 마. 내가 너 위로해 주러 왔어.",
+ "storyTitle": "시험 끝난 날의 위로",
+ "story": "시험을 망친 친구를 comfort(위로하다)하려고 나는 comfortable(편안한) 쿠션을 들고 갔어요. \"네 effort(노력)는 대단했어!\" 친구는 이불로 fortress(요새)를 짓고 숨어 있었죠. 그런데 성적표를 보니 친구는 전교 1등이었고, 꼴찌는 나였어요!"
+}

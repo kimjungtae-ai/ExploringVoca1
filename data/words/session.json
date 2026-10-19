@@ -1,0 +1,68 @@
+{
+ "word": "session",
+ "pos": "명사",
+ "phonetic": "[ˈseʃən]",
+ "meaning": "(활동을 위한) 시간, 회의, 수업, 개회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sess",
+   "meaning": "앉다 (sit)",
+   "note": "라틴어 'sedere(앉다)'의 과거분사 'sessus'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작이나 상태를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sess</strong> (앉다) + <strong>-ion</strong> (~하는 것) = 모두 함께 앉아 있는 시간, 즉 <strong>'회의, 수업 시간'</strong>이에요.",
+ "historyTitle": "앉아서 하는 모임",
+ "historyBody": "라틴어 'sessio'는 '앉기, 앉아 있는 모임'을 뜻했어요. 의회나 법정에서 사람들이 앉아서 회의하는 기간을 session이라 부르면서, 지금은 수업, 연습, 상담처럼 '어떤 활동을 하는 시간'에 두루 쓰여요. 영어 sit도 같은 인도유럽어 뿌리를 가진 먼 친척이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "president",
+   "pos": "명사",
+   "meaning": "대통령, 회장 (앞에 앉은 사람)",
+   "en": "The president of our club planned a fun event.",
+   "ko": "우리 동아리 회장이 재미있는 행사를 계획했어요."
+  },
+  {
+   "word": "resident",
+   "pos": "명사",
+   "meaning": "주민, 거주자",
+   "en": "Local residents complained about the noise.",
+   "ko": "지역 주민들이 소음에 대해 항의했어요."
+  },
+  {
+   "word": "assess",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "Teachers assess students' progress every month.",
+   "ko": "선생님들은 매달 학생들의 발전을 평가해요."
+  },
+  {
+   "word": "possess",
+   "pos": "동사",
+   "meaning": "소유하다",
+   "en": "He possesses a rare collection of stamps.",
+   "ko": "그는 희귀한 우표 수집품을 가지고 있어요."
+  },
+  {
+   "word": "sedentary",
+   "pos": "형용사",
+   "meaning": "주로 앉아서 하는",
+   "en": "A sedentary lifestyle can be bad for your health.",
+   "ko": "주로 앉아서 지내는 생활 방식은 건강에 해로울 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 사람들이 둘러앉아 회의나 수업을 하는 장면",
+ "imageCaption": "동그랗게 둘러앉아 함께 공부하는 스터디 시간을 떠올려 보세요.",
+ "movieLineEn": "This session is over. Everyone, go home and rest.",
+ "movieLineKo": "이번 시간은 끝났어요. 모두 집에 가서 쉬세요.",
+ "storyTitle": "끝나지 않는 상담 시간",
+ "story": "학생회 president(회장)가 고민 상담 session(시간)을 열었어요. 동네 resident(주민)인 할머니까지 오셨죠. 회장은 고민을 assess(평가하다)하며 열심히 들었어요. 그런데 할머니의 고민은 손자 자랑! sedentary(앉아서 하는) 상담은 밤 10시에야 끝났어요."
+}

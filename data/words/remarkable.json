@@ -1,0 +1,74 @@
+{
+ "word": "remarkable",
+ "pos": "형용사",
+ "phonetic": "[rɪˈmɑːrkəbl]",
+ "meaning": "놀라운, 주목할 만한, 뛰어난",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 강조 (again)",
+   "note": "한 번 더 눈여겨본다는 느낌을 줘요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mark",
+   "meaning": "표시하다, 주목하다 (mark, notice)",
+   "note": "프랑스어 marquer를 거쳐 온 말로, 뿌리는 게르만어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 만한 (형용사)",
+   "note": "'~할 가치가 있는'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>mark</strong> (주목하다) + <strong>-able</strong> (~할 만한) = 다시 눈여겨볼 만한, 즉 <strong>'놀라운, 주목할 만한'</strong>이에요.",
+ "historyTitle": "프랑스에서 건너온 '눈여겨보기'",
+ "historyBody": "remarkable은 프랑스어 remarquable(주목할 만한)에서 17세기 초에 들어왔어요. remarquer는 re- + marquer(표시하다)인데, marquer는 게르만어 계통의 '표시'라는 말에서 왔어요. 다시 표시를 해 둘 만큼 눈에 띈다는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mark",
+   "pos": "명사 / 동사",
+   "meaning": "표시, 점수 / 표시하다",
+   "en": "Mark the correct answer with a pen.",
+   "ko": "정답에 펜으로 표시하세요."
+  },
+  {
+   "word": "remark",
+   "pos": "명사 / 동사",
+   "meaning": "발언, 말 / 말하다, 언급하다",
+   "en": "His rude remark hurt her feelings.",
+   "ko": "그의 무례한 말이 그녀의 마음을 다치게 했어요."
+  },
+  {
+   "word": "marker",
+   "pos": "명사",
+   "meaning": "마커, 표지",
+   "en": "Use a marker to write your name on the box.",
+   "ko": "상자에 마커로 이름을 쓰세요."
+  },
+  {
+   "word": "trademark",
+   "pos": "명사",
+   "meaning": "상표, 트레이드마크",
+   "en": "Her big smile is her trademark.",
+   "ko": "그녀의 환한 미소는 그녀의 트레이드마크예요."
+  },
+  {
+   "word": "remarkably",
+   "pos": "부사",
+   "meaning": "놀랍게도, 현저하게",
+   "en": "The new student learned Korean remarkably fast.",
+   "ko": "새로 온 학생은 놀랍도록 빨리 한국어를 배웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 모두가 감탄하며 돌아보는 놀라운 마술 공연",
+ "imageCaption": "무대 위 마술사가 비둘기를 꺼내자 모든 관객이 '와!' 하며 눈을 떼지 못하는 장면을 떠올려 보세요. 그게 remarkable이에요.",
+ "movieLineEn": "That was a remarkable escape, my friend.",
+ "movieLineKo": "친구, 정말 놀라운 탈출이었어.",
+ "storyTitle": "놀라운 고양이",
+ "story": "옆집 고양이는 정말 remarkable(놀라운) 재주가 있었어요. 문을 혼자 여는 게 그 고양이의 trademark(트레이드마크)였죠. 모두가 remarkably(놀랍게도) 똑똑하다고 remark(말하다)했어요. 어느 날 고양이가 우리 집 문을 열고 들어와 냉장고 앞에 앉아 발로 marker(마커) 자국을 가리켰어요. 거기엔 '참치 사 오기'라는 엄마의 메모가 있었답니다."
+}

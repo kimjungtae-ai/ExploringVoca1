@@ -1,0 +1,47 @@
+{
+ "word": "exercise",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈeksərsaɪz]",
+ "meaning": "운동, 연습(문제) / 운동하다, (권리·힘을) 행사하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 떨어져 (out, off)",
+   "note": "가두어 둔 것을 밖으로 내보내는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "erc / arc",
+   "meaning": "가두다, 막다 (enclose, keep away)",
+   "note": "라틴어 arcere(가두다, 막다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>erc</strong> (가두다) = '가둔 것을 밖으로 몰고 나가 일을 시키다'에서 <strong>'훈련, 운동, 연습'</strong>이 되었다고 봐요.",
+ "historyTitle": "우리에서 끌어내 부리다?",
+ "historyBody": "exercise는 고대 프랑스어 'exercice'를 거쳐 라틴어 'exercere(바쁘게 하다, 훈련시키다)'에서 왔어요. exercere는 ex-와 arcere(가두다, 막다)로 이루어졌는데, '가축을 우리에서 몰고 나가 일을 시키다'에서 왔다는 설명은 학자들의 추정이에요. 그래서 이 그림은 확실한 사실이라기보다 기억을 돕는 이야기로 받아들이세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "coerce",
+   "pos": "동사",
+   "meaning": "강요하다",
+   "en": "Nobody can coerce you into signing the paper.",
+   "ko": "아무도 너에게 그 서류에 서명하라고 강요할 수 없어."
+  },
+  {
+   "word": "coercion",
+   "pos": "명사",
+   "meaning": "강요, 강압",
+   "en": "He said he confessed under coercion.",
+   "ko": "그는 강압에 의해 자백했다고 말했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공원에서 줄넘기하며 땀 흘리는 학생",
+ "imageCaption": "몸을 움직여 땀을 흘리는 운동 장면을 떠올려 보세요. 문제를 반복해서 푸는 '연습'도 같은 단어예요.",
+ "movieLineEn": "Exercise your mind as much as your muscles.",
+ "movieLineKo": "근육만큼이나 머리도 훈련해.",
+ "storyTitle": "운동 강요 사건",
+ "story": "헬스장 코치는 회원들에게 exercise(운동)를 coerce(강요하다)했어요. 회원들은 coercion(강압)이라며 불평했죠. 그러자 코치는 '좋아요, 대신 머리 exercise(연습문제)를 풀어요!' 하고 수학 문제지를 나눠 줬어요. 회원들은 곧장 러닝머신 위로 exercise(운동하다)하러 달려갔답니다."
+}

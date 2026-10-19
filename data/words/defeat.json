@@ -1,0 +1,61 @@
+{
+ "word": "defeat",
+ "pos": "동사 / 명사",
+ "phonetic": "[dɪˈfiːt]",
+ "meaning": "패배시키다, 이기다 / 패배",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "반대로, 풀어서 (un-, dis-)",
+   "note": "원래 dis-(반대로)에서 온 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "feat",
+   "meaning": "하다, 만들다 (do, make)",
+   "note": "라틴어 facere(하다, 만들다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (반대로) + <strong>feat</strong> (만들다) = '만든 것을 풀어 버리다, 무너뜨리다'에서 <strong>'패배시키다'</strong>가 되었어요.",
+ "historyTitle": "'만든 것을 무너뜨리다'에서 '이기다'로",
+ "historyBody": "defeat는 앵글로·프랑스어 defet(무너진)에서 왔고, 그 뿌리는 중세 라틴어 disfacere(되돌리다, 파괴하다)예요. 처음엔 '망가뜨리다, 파괴하다'를 뜻하다가 '적을 무너뜨려 이기다'라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fact",
+   "pos": "명사",
+   "meaning": "사실",
+   "en": "It is a fact that the earth goes around the sun.",
+   "ko": "지구가 태양 주위를 도는 것은 사실이에요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장",
+   "en": "My uncle works at a car factory.",
+   "ko": "우리 삼촌은 자동차 공장에서 일해요."
+  },
+  {
+   "word": "manufacture",
+   "pos": "동사",
+   "meaning": "제조하다",
+   "en": "This company manufactures shoes for kids.",
+   "ko": "이 회사는 아이들 신발을 제조해요."
+  },
+  {
+   "word": "affect",
+   "pos": "동사",
+   "meaning": "영향을 미치다",
+   "en": "Lack of sleep can affect your grades.",
+   "ko": "수면 부족은 성적에 영향을 줄 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 체스판 위에서 왕이 쓰러지며 한 팀이 지는 장면",
+ "imageCaption": "쌓아 올린 블록 성이 와르르 무너지는 모습을 떠올려 보세요.",
+ "movieLineEn": "We cannot be defeated as long as we stand together!",
+ "movieLineKo": "우리가 함께하는 한 우리는 절대 패배하지 않아!",
+ "storyTitle": "로봇 대결의 진실",
+ "story": "민재의 로봇이 결승에서 상대를 defeat(이기다)했어요. 사실 그 로봇은 장난감 factory(공장)에서 manufacture(제조하다)한 싸구려였죠. 이 fact(사실)가 결과에 affect(영향을 미치다)할까 걱정했는데, 상대 로봇도 같은 공장 제품이었대요!"
+}

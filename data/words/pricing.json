@@ -1,0 +1,61 @@
+{
+ "word": "pricing",
+ "pos": "명사",
+ "phonetic": "[ˈpraɪsɪŋ]",
+ "meaning": "가격 책정, 가격 결정",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "price",
+   "meaning": "가격; 값을 매기다 (price)",
+   "note": "라틴어 pretium(가격, 가치)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 '~하는 일'이라는 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>price</strong> (값을 매기다) + <strong>-ing</strong> (~하는 것) = 값을 매기는 일이라서 <strong>'가격 책정'</strong>이 되었어요.",
+ "historyTitle": "값을 '매기는' 기술",
+ "historyBody": "price는 라틴어 pretium(가격, 가치, 보상)에서 고대 프랑스어 pris를 거쳐 13세기 영어로 들어왔어요. precious(귀한), appreciate(진가를 알아보다), praise(칭찬하다)도 모두 pretium에서 갈라져 나온 친척이에요. price가 '값을 매기다'라는 동사로도 쓰이면서 pricing(가격 책정)이라는 명사가 생겼고, 경제·마케팅 지문에 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격, 대가",
+   "en": "The price of apples went up this year.",
+   "ko": "올해 사과 가격이 올랐어요."
+  },
+  {
+   "word": "pricey",
+   "pos": "형용사",
+   "meaning": "비싼",
+   "en": "That restaurant is good but pricey.",
+   "ko": "그 식당은 맛있지만 비싸요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "Time with family is precious.",
+   "ko": "가족과 보내는 시간은 소중해요."
+  },
+  {
+   "word": "appreciate",
+   "pos": "동사",
+   "meaning": "감사하다, 진가를 알아보다",
+   "en": "I really appreciate your help.",
+   "ko": "도와줘서 정말 고마워요."
+  }
+ ],
+ "imageSense": "대표 의미: 상인이 상품에 가격표를 붙이며 고민하는 장면",
+ "imageCaption": "가게 주인이 '얼마로 할까?' 고민하며 상품마다 가격표를 붙이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Our pricing is simple. Everything costs one dollar!",
+ "movieLineKo": "우리 가격 정책은 간단해. 전부 1달러야!",
+ "storyTitle": "떡볶이 가게의 가격 전략",
+ "story": "학교 앞 떡볶이 가게 사장님은 pricing(가격 책정) 천재예요. 시험 기간엔 price(가격)를 내리고 '합격 떡볶이'라고 이름 붙였죠. 학생들은 그 마음을 appreciate(고마워하다)하며 줄을 섰어요. 하지만 너무 pricey(비싼) 메뉴 '만점 세트'는 아무도 안 시켰대요. 이름 때문에 부담스러웠거든요!"
+}

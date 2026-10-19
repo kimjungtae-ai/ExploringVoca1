@@ -1,0 +1,68 @@
+{
+ "word": "school supplies",
+ "pos": "명사구",
+ "phonetic": "[skuːl səˈplaɪz]",
+ "meaning": "학용품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "school",
+   "meaning": "학교 (school)",
+   "note": "어떤 용도의 물건인지 알려 주는 수식어예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "supplies",
+   "meaning": "용품, 물품 (supplies)",
+   "note": "supply(공급하다)의 명사 복수형으로 '공급되는 물품'이에요."
+  }
+ ],
+ "summary": "<strong>school</strong> (학교) + <strong>supplies</strong> (공급 물품) = '학교생활에 필요한 물품'이라서 <strong>'학용품'</strong>이에요.",
+ "historyTitle": "채워 넣는다는 supply",
+ "historyBody": "supply는 고대 프랑스어를 거쳐 라틴어 'supplere(채우다, 보충하다)'에서 왔어요. sub-(아래에서) + plere(채우다)로, '모자란 것을 아래에서부터 채우다'라는 뜻이었죠. 그래서 supplies는 '채워 넣는 물품'을 뜻하고, 연필·공책 같은 학용품은 보통 복수형으로 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "supply",
+   "pos": "동사/명사",
+   "meaning": "공급하다 / 공급",
+   "en": "The farm supplies fresh eggs to local stores.",
+   "ko": "그 농장은 지역 가게에 신선한 달걀을 공급해요."
+  },
+  {
+   "word": "stationery",
+   "pos": "명사",
+   "meaning": "문구류",
+   "en": "I bought some cute stationery for my friend.",
+   "ko": "친구에게 줄 귀여운 문구류를 샀어요."
+  },
+  {
+   "word": "office supplies",
+   "pos": "명사구",
+   "meaning": "사무용품",
+   "en": "The office supplies are in the bottom drawer.",
+   "ko": "사무용품은 맨 아래 서랍에 있어요."
+  },
+  {
+   "word": "complement",
+   "pos": "동사/명사",
+   "meaning": "보완하다 / 보완물",
+   "en": "A good hat complements this outfit.",
+   "ko": "좋은 모자가 이 옷차림을 보완해 줘요."
+  },
+  {
+   "word": "supply and demand",
+   "pos": "명사구",
+   "meaning": "수요와 공급",
+   "en": "Prices change according to supply and demand.",
+   "ko": "가격은 수요와 공급에 따라 변해요."
+  }
+ ],
+ "imageSense": "대표 의미: 새 학기 전날 책상 위에 연필, 공책, 필통을 늘어놓은 장면",
+ "imageCaption": "새 학기 전날 반짝이는 새 공책과 연필을 가방에 차곡차곡 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "Did you pack all your school supplies?",
+ "movieLineKo": "학용품은 다 챙겼니?",
+ "storyTitle": "완벽한 준비",
+ "story": "새 학기 전날, 나는 school supplies(학용품)를 완벽하게 준비했어요. 형광펜 12색에 예쁜 stationery(문구류)까지! 엄마가 supply(공급하다)해 준 용돈을 다 썼죠. 다음 날 자신만만하게 등교했는데 교실이 텅 비어 있었어요. 개학은 다음 주였거든요."
+}

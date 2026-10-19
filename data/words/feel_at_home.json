@@ -1,0 +1,74 @@
+{
+ "word": "feel at home",
+ "pos": "숙어",
+ "phonetic": "[fiːl æt hoʊm]",
+ "meaning": "편안하게 느끼다, 마음이 편하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "feel",
+   "meaning": "느끼다 (feel)",
+   "note": "어떤 기분이나 상태를 느낀다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "at",
+   "meaning": "~에 (at)",
+   "note": "어느 한 지점에 있다는 것을 나타내요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "home",
+   "meaning": "집 (home)",
+   "note": "가장 편하고 안전한 곳을 상징해요."
+  }
+ ],
+ "summary": "<strong>feel</strong> (느끼다) + <strong>at home</strong> (집에 있는) = '집에 있는 것처럼 느끼다'라서 <strong>'마음이 편하다'</strong>예요.",
+ "historyTitle": "집처럼 편안한 기분",
+ "historyBody": "home은 고대 영어 ham(마을, 집)에서 온 말이에요. at home은 문자 그대로 '집에'라는 뜻이지만, '집처럼 편안한, 익숙한'이라는 비유로도 오래전부터 쓰였어요. 손님에게 Make yourself at home(편하게 계세요)이라고 하는 것도 같은 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "make yourself at home",
+   "pos": "숙어",
+   "meaning": "편히 계세요",
+   "en": "Come in and make yourself at home.",
+   "ko": "들어와서 편하게 계세요."
+  },
+  {
+   "word": "homesick",
+   "pos": "형용사",
+   "meaning": "향수병에 걸린",
+   "en": "I felt homesick during my first week abroad.",
+   "ko": "외국에서 첫 주 동안 나는 향수병을 앓았어요."
+  },
+  {
+   "word": "at ease",
+   "pos": "형용사구",
+   "meaning": "편안한",
+   "en": "Her warm smile put me at ease.",
+   "ko": "그녀의 따뜻한 미소 덕분에 마음이 편해졌어요."
+  },
+  {
+   "word": "feel free to",
+   "pos": "숙어",
+   "meaning": "마음껏 ~하다",
+   "en": "Feel free to ask me any questions.",
+   "ko": "궁금한 건 무엇이든 편하게 물어보세요."
+  },
+  {
+   "word": "homey",
+   "pos": "형용사",
+   "meaning": "집 같은, 아늑한",
+   "en": "The small cafe had a homey feeling.",
+   "ko": "그 작은 카페는 집 같은 느낌이 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구 집 소파에 편하게 누워 있는 손님",
+ "imageCaption": "처음 간 집인데도 슬리퍼 신고 소파에 기대 쉬는 편안한 모습을 떠올려 보세요.",
+ "movieLineEn": "Please, feel at home. Just don't touch my plants.",
+ "movieLineKo": "편하게 있어. 단, 내 화분은 건드리지 마.",
+ "storyTitle": "너무 편한 손님",
+ "story": "친구 집에 갔더니 친구 엄마가 \"make yourself at home(편히 계세요)!\"이라고 하셨어요. 나는 정말 feel at home(편안하게 느끼다)해서 냉장고를 열고 라면도 끓였죠. feel free to(마음껏 ~하다)라는 말에 낮잠까지 잤어요. 눈을 뜨니 저녁이었고, 친구는 이미 학원에 갔더라고요. 너무 at ease(편안한)했나 봐요!"
+}

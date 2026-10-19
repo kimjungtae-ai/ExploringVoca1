@@ -1,0 +1,68 @@
+{
+ "word": "amusement park",
+ "pos": "명사구",
+ "phonetic": "[əˈmjuːzmənt pɑːrk]",
+ "meaning": "놀이공원",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "amusement",
+   "meaning": "즐거움, 오락 (entertainment)",
+   "note": "amuse(즐겁게 하다)의 명사형이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "park",
+   "meaning": "공원 (park)",
+   "note": "울타리 친 넓은 땅에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>amusement</strong> (오락, 즐거움) + <strong>park</strong> (공원) = <strong>'즐거움을 주는 공원, 놀이공원'</strong>이에요.",
+ "historyTitle": "멍하니 '넋을 빼앗다'에서 '즐겁게 하다'로",
+ "historyBody": "amuse는 옛 프랑스어 amuser에서 왔는데, 원래 '멍하게 만들다, 정신을 딴 데로 돌리다'라는 뜻이었어요. 시간이 지나며 '즐겁게 해 주다'라는 뜻으로 바뀌었죠. 놀이기구를 타면 정말 넋이 나갈 만큼 즐거우니 잘 어울리는 이름이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "amuse",
+   "pos": "동사",
+   "meaning": "즐겁게 하다",
+   "en": "The clown amused the children with jokes.",
+   "ko": "광대는 농담으로 아이들을 즐겁게 했어요."
+  },
+  {
+   "word": "amusing",
+   "pos": "형용사",
+   "meaning": "재미있는",
+   "en": "It was an amusing story about a lazy cat.",
+   "ko": "게으른 고양이에 관한 재미있는 이야기였어요."
+  },
+  {
+   "word": "theme park",
+   "pos": "명사구",
+   "meaning": "테마파크",
+   "en": "We spent the whole day at a theme park.",
+   "ko": "우리는 하루 종일 테마파크에서 보냈어요."
+  },
+  {
+   "word": "water park",
+   "pos": "명사구",
+   "meaning": "워터파크",
+   "en": "The water park is crowded in August.",
+   "ko": "8월에는 워터파크가 붐벼요."
+  },
+  {
+   "word": "national park",
+   "pos": "명사구",
+   "meaning": "국립공원",
+   "en": "Jirisan is Korea's first national park.",
+   "ko": "지리산은 한국 최초의 국립공원이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 롤러코스터와 대관람차가 있는 놀이공원 풍경",
+ "imageCaption": "솜사탕 냄새와 비명 소리가 가득한 놀이공원을 떠올려 보세요.",
+ "movieLineEn": "Tonight, the amusement park is ours. No lines, no rules!",
+ "movieLineKo": "오늘 밤 놀이공원은 우리 거야. 줄도 없고 규칙도 없어!",
+ "storyTitle": "놀이공원의 진짜 주인공",
+ "story": "가족과 amusement park(놀이공원)에 갔어요. 롤러코스터는 무서웠지만 amusing(재미있는) 퍼레이드가 나를 amuse(즐겁게 하다)했죠. 다음엔 water park(워터파크)에 가자고 했는데, 아빠는 '오늘 제일 신난 건 벤치에서 잔 나야'라고 하셨어요!"
+}

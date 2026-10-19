@@ -1,0 +1,47 @@
+{
+ "word": "genuine",
+ "pos": "형용사",
+ "phonetic": "[ˈdʒenjuɪn]",
+ "meaning": "진짜의, 진품의, 진심 어린",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "genu",
+   "meaning": "타고난 / 무릎? (innate / knee?)",
+   "note": "라틴어 genuinus(타고난, 본래의)에서 왔어요. gignere(낳다)에서 왔다는 설과 genu(무릎)에서 왔다는 설이 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ine",
+   "meaning": "~의 성질을 가진 (형용사)",
+   "note": "라틴어 -inus에서 온 형용사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>genu</strong> (타고난) + <strong>-ine</strong> (~의) = '본래 타고난, 꾸미지 않은'이라는 뜻에서 <strong>'진짜의, 진심 어린'</strong>이 되었습니다.",
+ "historyTitle": "아버지의 무릎 위 아기?",
+ "historyBody": "genuine은 라틴어 genuinus(타고난, 본래의)에서 왔어요. 이 말이 gignere(낳다)에서 왔다는 설도 있고, 로마에서 아버지가 갓난아기를 무릎(genu)에 올려 자기 자식으로 인정했다는 풍습과 연결하는 설도 있지만, 어느 쪽인지 확실하지 않아요. '무릎 이야기'는 재미있는 기억법 정도로만 생각해 주세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "genuinely",
+   "pos": "부사",
+   "meaning": "진심으로, 진정으로",
+   "en": "I was genuinely happy to see my old friend again.",
+   "ko": "오랜 친구를 다시 만나서 정말 진심으로 기뻤어요."
+  },
+  {
+   "word": "genuineness",
+   "pos": "명사",
+   "meaning": "진짜임, 진실성",
+   "en": "Experts checked the genuineness of the painting.",
+   "ko": "전문가들이 그 그림이 진품인지 확인했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 감정사가 돋보기로 진품 보석을 확인하는 장면",
+ "imageCaption": "돋보기로 보석을 꼼꼼히 살펴본 감정사가 '진짜입니다!'라고 말하는 순간을 떠올려 보세요.",
+ "movieLineEn": "This is a genuine treasure map. Trust me.",
+ "movieLineKo": "이건 진짜 보물 지도야. 날 믿어.",
+ "storyTitle": "진짜 보물 지도",
+ "story": "할아버지의 다락방에서 genuine(진짜의) 보물 지도를 찾았어요! 전문가에게 genuineness(진품 여부)를 report(보고)해 달라고 했죠. 지도는 genuinely(정말로) 오래된 것이었어요. 신나게 지도를 따라가 땅을 팠더니 상자가 나왔어요. 그 안에는 할아버지의 genuine(진심 어린) 편지만 있었죠. \"밭 갈아 줘서 고맙다!\""
+}

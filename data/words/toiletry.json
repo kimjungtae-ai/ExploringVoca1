@@ -1,0 +1,61 @@
+{
+ "word": "toiletry",
+ "pos": "명사",
+ "phonetic": "[ˈtɔɪlətri]",
+ "meaning": "세면도구, 화장품 (주로 복수형 toiletries)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "toilet",
+   "meaning": "화장, 몸단장 (dressing)",
+   "note": "원래는 프랑스어 toilette(작은 천)에서 온 말로, 몸단장을 뜻했어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ry",
+   "meaning": "~류, ~에 쓰는 물건들",
+   "note": "여러 물건을 한데 묶어 부르는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>toilet</strong> (몸단장) + <strong>-ry</strong> (~에 쓰는 물건들) = 몸단장에 쓰는 물건들, 즉 <strong>'세면도구'</strong>가 되었어요.",
+ "historyTitle": "작은 천 조각에서 화장실까지",
+ "historyBody": "toilet은 프랑스어 'toilette'에서 왔는데, 이는 'toile(천)'에 '작은'을 뜻하는 꼬리가 붙은 말이에요. 옛날 사람들은 화장대에 작은 천을 깔고 몸단장을 했기 때문에 toilette가 '몸단장'을 뜻하게 되었고, 훗날 '화장실'이라는 뜻까지 생겼어요. toile은 라틴어 'tela(짜서 만든 천)'에서 왔고, 이 말은 text, textile과 아주 먼 조상(인도유럽어)이 같다고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "toilet",
+   "pos": "명사",
+   "meaning": "화장실, 변기",
+   "en": "Please don't forget to flush the toilet.",
+   "ko": "변기 물 내리는 것 잊지 마세요."
+  },
+  {
+   "word": "textile",
+   "pos": "명사",
+   "meaning": "직물, 섬유",
+   "en": "This town was famous for its textile factories.",
+   "ko": "이 마을은 섬유 공장으로 유명했어요."
+  },
+  {
+   "word": "texture",
+   "pos": "명사",
+   "meaning": "질감, 감촉",
+   "en": "I love the soft texture of this blanket.",
+   "ko": "나는 이 담요의 부드러운 감촉이 정말 좋아요."
+  },
+  {
+   "word": "text",
+   "pos": "명사 / 동사",
+   "meaning": "글, 본문 / 문자를 보내다",
+   "en": "Read the text carefully and answer the questions.",
+   "ko": "글을 주의 깊게 읽고 질문에 답하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행 가방 속 칫솔, 치약, 샴푸가 담긴 작은 파우치",
+ "imageCaption": "수학여행 가방에 넣는 작은 세면 파우치를 떠올려 보세요. 칫솔, 비누, 로션이 모두 toiletries예요.",
+ "movieLineEn": "Did you pack your toiletries, or are we brushing with ketchup again?",
+ "movieLineKo": "세면도구는 챙겼어? 아니면 또 케첩으로 양치할 거야?",
+ "storyTitle": "수학여행 세면도구 대소동",
+ "story": "지호는 수학여행 가방에 toiletry(세면도구)를 깜빡했어요. 친구에게 text(문자를 보내다)해서 칫솔을 빌렸는데, 부드러운 texture(감촉)가 이상했죠. 알고 보니 친구가 준 건 칫솔이 아니라 toilet(변기) 청소용 솔이었어요! 그 뒤로 지호는 세면도구부터 챙긴답니다."
+}

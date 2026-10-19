@@ -1,0 +1,54 @@
+{
+ "word": "deepen",
+ "pos": "동사",
+ "phonetic": "[ˈdiːpən]",
+ "meaning": "깊게 하다, 깊어지다, 심화되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "deep",
+   "meaning": "깊은 (deep)",
+   "note": "고대 영어 dēop에서 온 아주 오래된 우리 집 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 만들다 (make)",
+   "note": "형용사를 '~하게 하다'라는 동사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>deep</strong> (깊은) + <strong>-en</strong> (~하게 만들다) = <strong>'깊게 하다, 깊어지다'</strong>가 되었어요.",
+ "historyTitle": "게르만족의 오래된 단어 deep",
+ "historyBody": "deep은 고대 영어 dēop에서 온 게르만계 단어로, 독일어 tief와 친척이에요. 여기에 '~하게 만들다'라는 -en이 붙어 deepen이 되었는데, 같은 방식으로 widen, shorten 같은 단어도 만들어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "deep",
+   "pos": "형용사",
+   "meaning": "깊은",
+   "en": "The lake is too deep to swim in.",
+   "ko": "그 호수는 너무 깊어서 수영할 수 없어요."
+  },
+  {
+   "word": "depth",
+   "pos": "명사",
+   "meaning": "깊이",
+   "en": "Scientists measured the depth of the ocean.",
+   "ko": "과학자들이 바다의 깊이를 측정했어요."
+  },
+  {
+   "word": "deeply",
+   "pos": "부사",
+   "meaning": "깊이, 몹시",
+   "en": "I was deeply moved by the movie.",
+   "ko": "나는 그 영화에 깊이 감동받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 삽으로 구덩이를 점점 더 깊이 파 내려가는 장면",
+ "imageCaption": "땅을 파면 팔수록 구멍이 깊어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Every secret we keep only deepens the mystery.",
+ "movieLineKo": "우리가 숨기는 비밀 하나하나가 수수께끼를 더 깊게 만들 뿐이야.",
+ "storyTitle": "보물 구덩이의 반전",
+ "story": "해적 소년은 보물을 찾으려고 구덩이를 deepen(깊게 하다)했어요. depth(깊이)가 3미터가 되자 deeply(몹시) 지쳤죠. 더 deep(깊은) 곳에서 상자가 나왔는데 쪽지 한 장뿐! '고생했어. 보물은 네 체력이야.' 소년은 그 자리에서 누워 잠들었대요."
+}

@@ -1,0 +1,61 @@
+{
+ "word": "crucial",
+ "pos": "형용사",
+ "phonetic": "[ˈkruːʃəl]",
+ "meaning": "결정적인, 매우 중요한, 중대한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cruc",
+   "meaning": "십자가, 교차점 (cross)",
+   "note": "라틴어 crux(십자가)의 활용형 crucis에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의, ~와 관련된 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>cruc</strong> (십자가, 갈림길) + <strong>-ial</strong> (~의) = '길이 갈리는 교차점의'에서 <strong>'결정적인, 매우 중요한'</strong>이 되었어요.",
+ "historyTitle": "갈림길의 십자 표지판",
+ "historyBody": "crucial은 라틴어 crux(십자가)에서 왔어요. 17세기 철학자 프랜시스 베이컨이 두 이론 중 무엇이 옳은지 가려 주는 실험을 갈림길의 십자 표지판에 빗대어 instantia crucis라고 불렀어요. 여기서 '어느 쪽으로 갈지 결정하는'이라는 뜻이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cross",
+   "pos": "명사/동사",
+   "meaning": "십자가, 십자 표시 / 건너다",
+   "en": "Look both ways before you cross the street.",
+   "ko": "길을 건너기 전에 양쪽을 살펴보세요."
+  },
+  {
+   "word": "crusade",
+   "pos": "명사",
+   "meaning": "십자군, 개혁 운동",
+   "en": "She started a crusade against plastic waste.",
+   "ko": "그녀는 플라스틱 쓰레기 반대 운동을 시작했어요."
+  },
+  {
+   "word": "cruise",
+   "pos": "명사/동사",
+   "meaning": "유람선 여행 / 순항하다",
+   "en": "My grandparents went on a cruise to Japan.",
+   "ko": "조부모님은 일본으로 유람선 여행을 가셨어요."
+  },
+  {
+   "word": "excruciating",
+   "pos": "형용사",
+   "meaning": "극심한, 몹시 고통스러운",
+   "en": "He felt excruciating pain in his leg.",
+   "ko": "그는 다리에 극심한 통증을 느꼈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 축구 경기 마지막 1초의 승부차기 장면",
+ "imageCaption": "모든 게 이 한 골에 달린 승부차기 순간을 떠올려 보세요. 결과가 갈리는 결정적 순간이 crucial이에요.",
+ "movieLineEn": "The next five seconds are crucial. Don't move.",
+ "movieLineKo": "앞으로 5초가 결정적이야. 움직이지 마.",
+ "storyTitle": "시험 전날의 갈림길",
+ "story": "시험 전날 밤은 crucial(결정적인) 시간이었어요. 공부할지 게임할지 cross(교차)로에 선 기분이었죠. 나는 게임 반대 crusade(개혁 운동)를 선언하고 공부했어요! 그런데 다음 날, excruciating(몹시 고통스러운) 사실을 알았어요. 시험은 다음 주였대요. 대신 친구들과 cruise(유람선) 여행 계획을 세웠답니다."
+}

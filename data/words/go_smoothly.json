@@ -1,0 +1,68 @@
+{
+ "word": "go smoothly",
+ "pos": "동사구",
+ "phonetic": "[ɡoʊ ˈsmuːðli]",
+ "meaning": "순조롭게 진행되다, 잘 풀리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "go",
+   "meaning": "진행되다 (go)",
+   "note": "일이 '흘러가다, 진행되다'라는 뜻이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "smoothly",
+   "meaning": "매끄럽게 (smoothly)",
+   "note": "smooth(매끄러운) + -ly로 '걸림 없이'라는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>go</strong> (진행되다) + <strong>smoothly</strong> (매끄럽게) = '걸림 없이 매끄럽게 흘러가다'라서 <strong>'순조롭게 진행되다'</strong>예요.",
+ "historyTitle": "걸림 없는 매끄러움",
+ "historyBody": "go는 고대 영어 gan에서 온 아주 오래된 게르만어예요. 과거형 went는 원래 wend(가다, 돌다)라는 다른 동사의 과거형을 빌려 온 것이랍니다. smooth는 고대 영어 smoþ(매끄러운, 평평한)에서 왔어요. 울퉁불퉁한 곳 없이 미끄러지듯 나아가는 모습이 '일이 순조롭다'는 뜻으로 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "go well",
+   "pos": "동사구",
+   "meaning": "잘 되다",
+   "en": "I hope your interview goes well.",
+   "ko": "면접이 잘 되길 바라요."
+  },
+  {
+   "word": "smooth",
+   "pos": "형용사",
+   "meaning": "매끄러운, 순조로운",
+   "en": "The road was smooth and wide.",
+   "ko": "그 길은 매끄럽고 넓었어요."
+  },
+  {
+   "word": "run smoothly",
+   "pos": "동사구",
+   "meaning": "원활하게 돌아가다",
+   "en": "The new system runs smoothly.",
+   "ko": "새 시스템은 원활하게 돌아가요."
+  },
+  {
+   "word": "go wrong",
+   "pos": "동사구",
+   "meaning": "잘못되다",
+   "en": "Everything went wrong on my first day.",
+   "ko": "첫날에는 모든 게 잘못됐어요."
+  },
+  {
+   "word": "as planned",
+   "pos": "부사구",
+   "meaning": "계획대로",
+   "en": "The event went as planned.",
+   "ko": "그 행사는 계획대로 진행됐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 행사가 매끄럽게 진행되어 모두 박수 치는 장면",
+ "imageCaption": "얼음 위를 미끄러지는 스케이트처럼 막힘없이 흘러가는 일을 떠올려 보세요.",
+ "movieLineEn": "If everything goes smoothly, we'll be rich by Friday.",
+ "movieLineKo": "모든 게 순조롭게 진행되면, 금요일쯤엔 우리 부자야.",
+ "storyTitle": "완벽한 발표의 함정",
+ "story": "우리 조 발표가 go smoothly(순조롭게 진행되다)하길 빌었어요. 연습도 run smoothly(원활하게 돌아가다)했고, 모든 게 as planned(계획대로)였죠. 발표도 go well(잘 되다)해서 박수를 받았어요! 그런데 선생님이 웃으며 말씀하셨어요. \"정말 훌륭해. 근데 주제가 '바다'가 아니라 '하늘'이었단다.\" 결국 go wrong(잘못되다)이었네요."
+}

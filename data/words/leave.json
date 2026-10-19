@@ -1,0 +1,48 @@
+{
+ "word": "leave",
+ "pos": "동사 / 명사",
+ "phonetic": "[liːv]",
+ "meaning": "떠나다, 남기다, 두고 오다, ~한 상태로 두다 / 휴가, 허가",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "leave",
+   "meaning": "남겨 두다 (let remain)",
+   "note": "고대 영어 læfan(남겨 두다, 물려주다)에서 왔어요. 명사 '휴가'는 고대 영어 leaf(허락)에서 온 다른 단어예요."
+  }
+ ],
+ "summary": "고대 영어 <strong>læfan</strong> (남겨 두다) = 무언가를 두고 가는 뜻에서 <strong>'떠나다, 남기다'</strong>가 되었어요.",
+ "historyTitle": "남겨 두는 것에서 떠나는 것으로",
+ "historyBody": "동사 leave는 고대 영어 læfan('남겨 두다, 유산으로 물려주다')에서 왔어요. 무엇을 남겨 두고 간다는 뜻에서 13세기쯤 '떠나다'라는 뜻이 생겼죠. 명사 leave('허가, 휴가')는 고대 영어 leaf('허락')에서 온 다른 단어인데, '휴가'는 일을 쉬어도 된다는 '허락'이라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "left",
+   "pos": "형용사",
+   "meaning": "남은",
+   "en": "There is no milk left in the fridge.",
+   "ko": "냉장고에 우유가 하나도 안 남았어요."
+  },
+  {
+   "word": "leftover",
+   "pos": "명사 / 형용사",
+   "meaning": "남은 음식 / 남은",
+   "en": "We ate the leftovers from the party for lunch.",
+   "ko": "우리는 점심으로 파티에서 남은 음식을 먹었어요."
+  },
+  {
+   "word": "leave behind",
+   "pos": "동사",
+   "meaning": "두고 가다, 뒤에 남기다",
+   "en": "Don't leave your umbrella behind on the bus.",
+   "ko": "버스에 우산을 두고 내리지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행 가방을 들고 문을 나서며 손을 흔드는 장면",
+ "imageCaption": "집에 강아지와 쪽지를 남겨 두고 문밖으로 떠나는 모습을 떠올려 보세요.",
+ "movieLineEn": "Leave the light on. I'll be back before midnight.",
+ "movieLineKo": "불 켜 둬. 자정 전에 돌아올게.",
+ "storyTitle": "남은 피자의 행방",
+ "story": "형이 여행을 leave(떠나다)하며 냉장고에 피자를 leave(남겨 두다)했어요. '이 leftover(남은 음식)는 내 거야!'라는 쪽지도 붙였죠. 하지만 돌아왔을 때 피자는 하나도 left(남은) 상태가 아니었어요. 대신 새 쪽지가 있었어요. '형, 피자가 상할까 봐 대신 먹어 줬어. 고마워해. - 동생'"
+}

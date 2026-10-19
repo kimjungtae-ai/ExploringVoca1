@@ -1,0 +1,68 @@
+{
+ "word": "face wash",
+ "pos": "명사구",
+ "phonetic": "[feɪs wɑːʃ]",
+ "meaning": "세안제, 폼클렌징; 세수",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "face",
+   "meaning": "얼굴 (face)",
+   "note": "라틴어 facies(모습, 외형)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "wash",
+   "meaning": "씻기; 세제 (wash)",
+   "note": "여기서는 '씻는 데 쓰는 액체'라는 명사예요."
+  }
+ ],
+ "summary": "<strong>face</strong> (얼굴) + <strong>wash</strong> (씻는 것) = '얼굴을 씻는 데 쓰는 것'이라서 <strong>'세안제'</strong>예요.",
+ "historyTitle": "얼굴과 씻기의 만남",
+ "historyBody": "face는 고대 프랑스어 face, 라틴어 facies(모습)에서 왔어요. wash는 고대 영어 wascan에서 온 게르만계 단어예요. 영어에서는 mouthwash(구강 청결제), body wash(바디 워시)처럼 '부위 + wash'로 세정제 이름을 만들어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mouthwash",
+   "pos": "명사",
+   "meaning": "구강 청결제",
+   "en": "I use mouthwash after brushing my teeth.",
+   "ko": "나는 양치 후에 구강 청결제를 써요."
+  },
+  {
+   "word": "body wash",
+   "pos": "명사구",
+   "meaning": "바디 워시",
+   "en": "This body wash smells like oranges.",
+   "ko": "이 바디 워시는 오렌지 향이 나요."
+  },
+  {
+   "word": "wash up",
+   "pos": "구동사",
+   "meaning": "손과 얼굴을 씻다",
+   "en": "Go wash up before dinner.",
+   "ko": "저녁 먹기 전에 가서 손 씻고 와."
+  },
+  {
+   "word": "facial",
+   "pos": "형용사",
+   "meaning": "얼굴의",
+   "en": "Her facial expression showed surprise.",
+   "ko": "그녀의 표정에는 놀라움이 드러났어요."
+  },
+  {
+   "word": "face to face",
+   "pos": "부사구",
+   "meaning": "얼굴을 맞대고",
+   "en": "We finally met face to face.",
+   "ko": "우리는 마침내 직접 얼굴을 보고 만났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거품 낸 세안제로 얼굴을 씻는 장면",
+ "imageCaption": "아침에 거울 앞에서 몽글몽글 거품을 얼굴에 바르는 모습을 그려 보세요.",
+ "movieLineEn": "Who used all my face wash? It was brand new!",
+ "movieLineKo": "누가 내 세안제를 다 썼어? 새거였는데!",
+ "storyTitle": "치약의 반란",
+ "story": "졸린 아침, 형은 face wash(세안제)인 줄 알고 치약을 얼굴에 발랐어요. 그리고 mouthwash(구강 청결제) 대신 body wash(바디 워시)로 입을 헹궜죠! 형의 facial(얼굴의) 표정은 완전 엉망이었어요. 엄마가 wash up(씻다)하라고 다시 보냈는데, 형 얼굴은 하루 종일 박하 향으로 시원했답니다."
+}

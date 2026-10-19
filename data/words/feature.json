@@ -1,0 +1,68 @@
+{
+ "word": "feature",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈfiːtʃər]",
+ "meaning": "특징, 특색, 이목구비, (신문의) 특집 기사 / 특징으로 삼다, 주연을 맡기다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "feat",
+   "meaning": "만들다 (make)",
+   "note": "라틴어 facere(만들다)의 과거분사 factus에서 온 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 것, 결과 (명사)",
+   "note": "행동의 결과물을 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>feat</strong> (만들다) + <strong>-ure</strong> (~한 것) = '만들어진 모양새'라는 뜻에서 <strong>'특징, 이목구비'</strong>가 되었습니다.",
+ "historyTitle": "얼굴의 '생김새'에서 시작된 단어",
+ "historyBody": "라틴어 factura(만듦, 만들어진 것)가 고대 프랑스어 faiture를 거쳐 중세 영어로 들어왔어요. 처음에는 '사람의 생김새, 체형'을 뜻했고, 그래서 지금도 features가 '이목구비'를 뜻해요. 이후 '두드러진 특징', 신문의 '특집 기사'로 의미가 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fact",
+   "pos": "명사",
+   "meaning": "사실 (이미 만들어진 일)",
+   "en": "It is a well-known fact that sleep improves memory.",
+   "ko": "잠이 기억력을 높여 준다는 건 잘 알려진 사실이에요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장 (물건을 만드는 곳)",
+   "en": "My uncle works at a car factory near the port.",
+   "ko": "삼촌은 항구 근처 자동차 공장에서 일하세요."
+  },
+  {
+   "word": "manufacture",
+   "pos": "동사 / 명사",
+   "meaning": "제조하다 / 제조",
+   "en": "The company manufactures eco-friendly shoes from recycled plastic.",
+   "ko": "그 회사는 재활용 플라스틱으로 친환경 신발을 제조해요."
+  },
+  {
+   "word": "feat",
+   "pos": "명사",
+   "meaning": "위업, 업적",
+   "en": "Climbing the mountain alone was an amazing feat.",
+   "ko": "혼자 그 산을 오른 건 놀라운 업적이었어요."
+  },
+  {
+   "word": "defeat",
+   "pos": "동사 / 명사",
+   "meaning": "패배시키다 / 패배",
+   "en": "Our team defeated the champions in the final match.",
+   "ko": "우리 팀이 결승전에서 우승 후보를 꺾었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 얼굴의 눈·코·입처럼 한눈에 띄는 특징을 가리키는 장면",
+ "imageCaption": "친구 얼굴을 떠올릴 때 가장 먼저 생각나는 큰 눈이나 보조개가 바로 그 사람의 feature예요.",
+ "movieLineEn": "The best feature of this house is the secret garden.",
+ "movieLineKo": "이 집의 가장 큰 특징은 비밀 정원이야.",
+ "storyTitle": "공장에서 만든 로봇의 특별한 특징",
+ "story": "factory(공장)에서 manufacture(제조하다)된 로봇은 자기만의 feature(특징)를 찾고 싶었어요. 레이저 눈도, 로켓 팔도 없었죠. 결국 체스 대회에서 챔피언을 defeat(패배시키다)하는 feat(위업)를 이뤘는데, 알고 보니 그 비결은 '상대가 질 때까지 끝없이 사과하기' 기능이었대요!"
+}

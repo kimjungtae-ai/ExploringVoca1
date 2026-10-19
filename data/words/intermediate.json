@@ -1,0 +1,81 @@
+{
+ "word": "intermediate",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˌɪntərˈmiːdiət]",
+ "meaning": "중간의, 중급의 / 중급자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "사이에 (between)",
+   "note": "둘 사이를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "medi",
+   "meaning": "가운데 (middle)",
+   "note": "라틴어 medius(가운데의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (사이에) + <strong>medi</strong> (가운데) + <strong>-ate</strong> (~한) = '둘 사이의 한가운데에 있는'이라는 뜻에서 <strong>'중간의, 중급의'</strong>가 되었습니다.",
+ "historyTitle": "사이의 한가운데",
+ "historyBody": "중세 라틴어 'intermediatus'는 '사이에 있는'이라는 뜻이었어요. 라틴어 medius(가운데)는 medium(중간), media(매체), Mediterranean(지중해, 땅 한가운데의 바다)에도 남아 있죠. 오늘날엔 영어 학원의 '중급반'처럼 초급과 고급 사이를 말할 때 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "medium",
+   "pos": "명사 / 형용사",
+   "meaning": "매체, 수단 / 중간의",
+   "en": "I'd like a medium-sized coffee, please.",
+   "ko": "중간 크기 커피로 주세요."
+  },
+  {
+   "word": "media",
+   "pos": "명사",
+   "meaning": "대중 매체 (medium의 복수)",
+   "en": "The media reported the news quickly.",
+   "ko": "언론은 그 소식을 빠르게 보도했어요."
+  },
+  {
+   "word": "medieval",
+   "pos": "형용사",
+   "meaning": "중세의 (중간 시대)",
+   "en": "We visited a medieval castle in France.",
+   "ko": "우리는 프랑스의 중세 성을 방문했어요."
+  },
+  {
+   "word": "mediate",
+   "pos": "동사",
+   "meaning": "중재하다 (가운데 서다)",
+   "en": "The teacher mediated between the two students.",
+   "ko": "선생님이 두 학생 사이를 중재하셨어요."
+  },
+  {
+   "word": "immediate",
+   "pos": "형용사",
+   "meaning": "즉각적인 (사이에 아무것도 없는)",
+   "en": "We need an immediate answer.",
+   "ko": "우리는 즉각적인 답이 필요해요."
+  },
+  {
+   "word": "immediately",
+   "pos": "부사",
+   "meaning": "즉시",
+   "en": "Call me immediately when you arrive.",
+   "ko": "도착하면 즉시 전화해 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 초급·중급·고급 계단 중 가운데 계단에 선 학생",
+ "imageCaption": "출발선과 결승선 사이, 딱 한가운데 서 있는 모습을 떠올려 보세요. 그게 intermediate예요.",
+ "movieLineEn": "You're not a beginner anymore. You're intermediate now.",
+ "movieLineKo": "넌 이제 초보가 아니야. 이제 중급이야.",
+ "storyTitle": "중급반의 미스터리",
+ "story": "나는 영어 학원에서 intermediate(중급의) 반에 배정됐어요. 선생님은 medium(중간) 난이도의 문제를 immediately(즉시) 풀라고 하셨죠. 옆자리 친구는 medieval(중세의) 기사 이야기를 영어로 술술 썼어요. 알고 보니 그 친구는 원어민이었는데, 반을 잘못 찾아온 거였대요!"
+}

@@ -1,0 +1,80 @@
+{
+ "word": "pay close attention to",
+ "pos": "숙어",
+ "phonetic": "[peɪ kloʊs əˈtenʃən tuː]",
+ "meaning": "~에 세심한 주의를 기울이다, ~을 주의 깊게 보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pay",
+   "meaning": "지불하다, 기울이다 (pay)",
+   "note": "관심을 '값처럼 치른다'는 느낌이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "close",
+   "meaning": "가까운, 면밀한 (close)",
+   "note": "가까이 다가가 꼼꼼하게 본다는 뜻을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "attention",
+   "meaning": "주의, 관심 (attention)",
+   "note": "라틴어 ad-(~쪽으로) + tendere(뻗다)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에게, ~ 쪽으로 (to)",
+   "note": "주의를 보내는 대상을 가리켜요."
+  }
+ ],
+ "summary": "<strong>pay</strong> (치르다) + <strong>close</strong> (면밀한) + <strong>attention</strong> (주의) + <strong>to</strong> (~에) = '~에 면밀한 주의를 내어 주다'에서 <strong>'~에 세심한 주의를 기울이다'</strong>",
+ "historyTitle": "마음을 '쭉 뻗는' attention",
+ "historyBody": "attention은 라틴어 attendere(~쪽으로 마음을 뻗다)에서 왔어요. ad-(~쪽으로)와 tendere(뻗다)가 합쳐진 말이죠. '주의를 지불하다(pay attention)'라는 표현은 관심도 돈처럼 아껴 써야 하는 귀한 것이라는 생각을 보여 줘요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pay attention to",
+   "pos": "숙어",
+   "meaning": "~에 주의를 기울이다",
+   "en": "Pay attention to the teacher's explanation.",
+   "ko": "선생님의 설명에 주의를 기울이세요."
+  },
+  {
+   "word": "attend",
+   "pos": "동사",
+   "meaning": "참석하다, 주의를 기울이다",
+   "en": "Over 200 people attended the meeting.",
+   "ko": "200명이 넘는 사람이 회의에 참석했어요."
+  },
+  {
+   "word": "attentive",
+   "pos": "형용사",
+   "meaning": "주의 깊은, 세심한",
+   "en": "The attentive waiter refilled our glasses.",
+   "ko": "세심한 웨이터가 우리 잔을 다시 채워 줬어요."
+  },
+  {
+   "word": "focus on",
+   "pos": "구동사",
+   "meaning": "~에 집중하다",
+   "en": "Focus on one task at a time.",
+   "ko": "한 번에 한 가지 일에 집중하세요."
+  },
+  {
+   "word": "take note of",
+   "pos": "숙어",
+   "meaning": "~에 주목하다",
+   "en": "Take note of the key words in each paragraph.",
+   "ko": "각 문단의 핵심어에 주목하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 돋보기를 들고 작은 글씨를 꼼꼼히 들여다보는 장면",
+ "imageCaption": "돋보기를 바짝 대고 작은 단서 하나까지 살피는 탐정을 떠올려 보세요.",
+ "movieLineEn": "Pay close attention to what I'm about to say.",
+ "movieLineKo": "내가 지금부터 하는 말을 잘 들어.",
+ "storyTitle": "꼼꼼함의 승리",
+ "story": "영어 선생님이 말씀하셨어요. \"지문의 첫 문장에 pay close attention to(세심한 주의를 기울이다)하세요.\" 나는 집중해서 focus on(~에 집중하다)했고 핵심어를 take note of(주목하다)했어요. 그런데 너무 attentive(주의 깊은)한 나머지 시험지 뒷면이 있는 걸 못 봤어요!"
+}

@@ -1,0 +1,48 @@
+{
+ "word": "tip",
+ "pos": "명사 / 동사",
+ "phonetic": "[tɪp]",
+ "meaning": "팁 (봉사료), 조언, (뾰족한) 끝 / 기울이다, 팁을 주다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tip",
+   "meaning": "끝, 뾰족한 끝 (end, point)",
+   "note": "중세 영어에서 '끝부분'을 뜻하던 짧은 말이라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>tip</strong>은 원래 '뾰족한 끝'이라는 뜻의 짧은 말이고, 나중에 <strong>'팁, 조언, 기울이다'</strong> 같은 뜻이 여러 갈래로 생겼어요.",
+ "historyTitle": "끝, 기울이기, 봉사료… 정체가 여럿인 단어",
+ "historyBody": "'끝'이라는 뜻의 tip은 중세 영어에 나타났고, 게르만 계열(저지 독일어·북유럽어) 말에서 온 것으로 보여요. 하지만 '기울이다', '봉사료', '조언'이라는 뜻들이 어떻게 생겼는지는 사전들도 정확히 모른다고 말해요. 특히 'To Insure Promptness(신속을 보장하려고)'의 약자라는 이야기는 근거 없는 속설이니 믿지 마세요!",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "tiptoe",
+   "pos": "명사 / 동사",
+   "meaning": "발끝 / 발끝으로 걷다",
+   "en": "I walked on tiptoe so I wouldn't wake my baby brother.",
+   "ko": "남동생이 깨지 않도록 나는 발끝으로 걸었어요."
+  },
+  {
+   "word": "fingertip",
+   "pos": "명사",
+   "meaning": "손가락 끝",
+   "en": "She touched the cold glass with her fingertip.",
+   "ko": "그녀는 손가락 끝으로 차가운 유리를 만졌어요."
+  },
+  {
+   "word": "tipping",
+   "pos": "명사",
+   "meaning": "팁을 주는 것, 팁 문화",
+   "en": "Tipping is common in American restaurants.",
+   "ko": "미국 식당에서는 팁을 주는 것이 흔해요."
+  }
+ ],
+ "imageSense": "대표 의미: 식당에서 친절한 직원에게 감사의 팁을 건네는 장면",
+ "imageCaption": "연필의 뾰족한 끝(tip), 식탁 위의 팁(tip), 선생님의 공부 조언(tip)을 한 장면에 함께 떠올려 보세요.",
+ "movieLineEn": "Here's a tip: never trust a smiling cat.",
+ "movieLineKo": "팁 하나 줄게. 웃는 고양이는 절대 믿지 마.",
+ "storyTitle": "발끝 도둑의 실수",
+ "story": "도둑 고양이는 tiptoe(발끝으로 걷다)로 생선 가게에 몰래 들어갔어요. fingertip(손가락 끝)으로 생선을 집으려는 순간, 주인이 다가와 tip(팁)을 건넸죠. \"tipping(팁 주기)은 처음 오신 손님께 드리는 거예요!\" 알고 보니 그날은 가게의 고양이 손님 환영 행사 날이었답니다."
+}

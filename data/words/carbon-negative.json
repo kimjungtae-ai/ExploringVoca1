@@ -1,0 +1,67 @@
+{
+ "word": "carbon-negative",
+ "pos": "형용사",
+ "phonetic": "[ˌkɑːrbən ˈneɡətɪv]",
+ "meaning": "탄소 네거티브의 (배출하는 것보다 더 많은 탄소를 흡수하는)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "carbon",
+   "meaning": "탄소 (carbon)",
+   "note": "라틴어 carbo(숯)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "neg",
+   "meaning": "부정하다 (deny)",
+   "note": "라틴어 negare(아니라고 하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ative",
+   "meaning": "~하는 성질의 (형용사)",
+   "note": "'그런 경향이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>carbon</strong> (탄소) + <strong>negative</strong> (마이너스의) = '탄소 수지가 마이너스인'에서 <strong>'배출보다 흡수가 더 많은'</strong>이 되었어요.",
+ "historyTitle": "숯에서 기후 위기 해결사로",
+ "historyBody": "carbon은 라틴어 carbo(숯)에서 프랑스어 carbone을 거쳐 18세기 말에 만들어진 화학 용어예요. negative는 라틴어 negare(부정하다)에서 왔어요. carbon-negative는 21세기 기후 변화 논의 속에서 '대기 중 탄소를 오히려 줄이는'이라는 뜻으로 쓰이기 시작한 신조어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "carbon",
+   "pos": "명사",
+   "meaning": "탄소",
+   "en": "Cars release carbon into the atmosphere.",
+   "ko": "자동차는 대기 중으로 탄소를 내뿜어요."
+  },
+  {
+   "word": "carbon-neutral",
+   "pos": "형용사",
+   "meaning": "탄소 중립의",
+   "en": "The company plans to become carbon-neutral by 2040.",
+   "ko": "그 회사는 2040년까지 탄소 중립이 될 계획이에요."
+  },
+  {
+   "word": "negative",
+   "pos": "형용사",
+   "meaning": "부정적인, 음의",
+   "en": "Too much screen time can have negative effects on sleep.",
+   "ko": "너무 오랜 화면 사용은 수면에 부정적인 영향을 줄 수 있어요."
+  },
+  {
+   "word": "negate",
+   "pos": "동사",
+   "meaning": "무효화하다, 부정하다",
+   "en": "One mistake should not negate all your hard work.",
+   "ko": "한 번의 실수가 너의 모든 노력을 무효로 만들어선 안 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 나무를 잔뜩 심어 공장보다 더 많은 탄소를 흡수하는 마을",
+ "imageCaption": "굴뚝에서 나오는 연기보다 숲이 빨아들이는 탄소가 더 많은 저울을 떠올려 보세요. 마이너스 쪽으로 기울죠!",
+ "movieLineEn": "Our city won't just stop pollution. We'll be carbon-negative!",
+ "movieLineKo": "우리 도시는 오염을 멈추는 데서 끝나지 않아. 탄소 네거티브가 될 거야!",
+ "storyTitle": "나무 심는 소의 꿈",
+ "story": "목장의 소 음메는 방귀 때문에 carbon(탄소)을 내뿜는다는 negative(부정적인) 소문에 속상했어요. 그래서 매일 나무를 심어 carbon-neutral(탄소 중립의)을 넘어 carbon-negative(탄소 네거티브의) 소가 되기로 했죠. 1년 뒤 목장은 숲이 되었어요. 문제는 풀밭이 사라져 먹을 게 없다는 거였어요!"
+}

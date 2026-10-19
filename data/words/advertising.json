@@ -1,0 +1,87 @@
+{
+ "word": "advertising",
+ "pos": "명사",
+ "phonetic": "[ˈædvərtaɪzɪŋ]",
+ "meaning": "광고, 광고업",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~쪽으로 (to)",
+   "note": "주의를 끄는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vert",
+   "meaning": "돌리다 (turn)",
+   "note": "라틴어 vertere(돌리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ise",
+   "meaning": "~하다 (동사)",
+   "note": "고대 프랑스어 advertiss-에서 온 동사 형태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 일 (명사)",
+   "note": "동사를 '그 활동'이라는 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~쪽으로) + <strong>vert</strong> (돌리다) + <strong>-ise</strong> + <strong>-ing</strong> = '사람들의 주의를 ~쪽으로 돌리게 하는 일'에서 <strong>'광고'</strong>가 되었어요.",
+ "historyTitle": "고개를 '돌리게' 만드는 기술",
+ "historyBody": "라틴어 advertere는 '~쪽으로 (마음을) 돌리다, 주목하다'라는 뜻이었어요. 고대 프랑스어 advertir(알리다)를 거쳐 영어 advertise는 처음엔 '알리다'였고, 18세기쯤부터 상품을 알리는 '광고하다'라는 뜻이 중심이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "advertise",
+   "pos": "동사",
+   "meaning": "광고하다",
+   "en": "The company advertises its products on social media.",
+   "ko": "그 회사는 소셜 미디어에 제품을 광고해요."
+  },
+  {
+   "word": "advertisement",
+   "pos": "명사",
+   "meaning": "광고",
+   "en": "I saw an advertisement for a new phone.",
+   "ko": "나는 새 휴대폰 광고를 봤어요."
+  },
+  {
+   "word": "reverse",
+   "pos": "동사/형용사",
+   "meaning": "뒤집다 / 반대의",
+   "en": "The car moved in reverse.",
+   "ko": "차가 후진했어요."
+  },
+  {
+   "word": "convert",
+   "pos": "동사",
+   "meaning": "바꾸다, 전환하다",
+   "en": "They converted the old school into a library.",
+   "ko": "그들은 낡은 학교를 도서관으로 바꿨어요."
+  },
+  {
+   "word": "version",
+   "pos": "명사",
+   "meaning": "판, 버전",
+   "en": "Download the latest version of the app.",
+   "ko": "앱의 최신 버전을 내려받으세요."
+  },
+  {
+   "word": "anniversary",
+   "pos": "명사",
+   "meaning": "기념일",
+   "en": "Today is my parents' 20th wedding anniversary.",
+   "ko": "오늘은 부모님의 결혼 20주년 기념일이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 거리의 큰 전광판이 지나가는 사람들의 고개를 돌리게 하는 장면",
+ "imageCaption": "모두가 고개를 휙 '돌려' 바라보는 화려한 광고판을 떠올려 보세요.",
+ "movieLineEn": "Good advertising can sell almost anything.",
+ "movieLineKo": "좋은 광고는 거의 뭐든 팔 수 있지.",
+ "storyTitle": "너무 성공한 광고",
+ "story": "빵집 주인은 advertising(광고)을 시작했어요. 고양이가 춤추는 advertisement(광고)를 만들었죠. 영상은 대박! 그런데 사람들은 빵이 아니라 고양이만 찾았어요. 주인은 가게를 고양이 카페로 convert(바꾸다)했어요. 이제 새 version(버전)의 광고엔 빵이 춤춘대요."
+}

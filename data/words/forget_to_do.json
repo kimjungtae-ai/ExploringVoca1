@@ -1,0 +1,74 @@
+{
+ "word": "forget to do",
+ "pos": "숙어",
+ "phonetic": "[fərˈɡet tə duː]",
+ "meaning": "(앞으로) ~할 것을 잊다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "forget",
+   "meaning": "잊다 (forget)",
+   "note": "for-(멀리, 놓쳐서) + get(잡다)으로 '잡지 못하고 놓치다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~할 것 (to부정사)",
+   "note": "to부정사는 '아직 하지 않은 앞으로의 일'을 가리켜요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "do",
+   "meaning": "하다 (do)",
+   "note": "잊어버린 그 행동이 들어가는 자리예요."
+  }
+ ],
+ "summary": "<strong>forget</strong> (잊다) + <strong>to do</strong> (앞으로 할 일) = '해야 할 일을 잊다'라서 <strong>'~할 것을 잊다'</strong>예요. forget doing은 '~한 것을 잊다'예요.",
+ "historyTitle": "잡지 못하고 놓친 기억",
+ "historyBody": "forget은 고대 영어 forgietan에서 왔어요. for-는 '놓치다, 잘못'의 뜻이고 get은 '잡다, 얻다'라서, '마음에 붙잡아 두지 못하다'라는 뜻이 되었어요. 수능 어법에서는 forget to do(할 일을 잊다)와 forget doing(한 일을 잊다)의 차이가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "forget doing",
+   "pos": "숙어",
+   "meaning": "(과거에) ~한 것을 잊다",
+   "en": "I'll never forget meeting you.",
+   "ko": "너를 만났던 걸 절대 잊지 못할 거야."
+  },
+  {
+   "word": "remember to do",
+   "pos": "숙어",
+   "meaning": "~할 것을 기억하다",
+   "en": "Remember to lock the door.",
+   "ko": "문 잠그는 거 기억해."
+  },
+  {
+   "word": "remember doing",
+   "pos": "숙어",
+   "meaning": "~한 것을 기억하다",
+   "en": "I remember visiting this museum as a child.",
+   "ko": "어릴 때 이 박물관에 왔던 게 기억나요."
+  },
+  {
+   "word": "forgetful",
+   "pos": "형용사",
+   "meaning": "잘 잊어버리는",
+   "en": "My grandpa is a little forgetful these days.",
+   "ko": "할아버지는 요즘 조금 깜빡깜빡하세요."
+  },
+  {
+   "word": "unforgettable",
+   "pos": "형용사",
+   "meaning": "잊을 수 없는",
+   "en": "The concert was an unforgettable experience.",
+   "ko": "그 콘서트는 잊을 수 없는 경험이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 집을 나서자마자 우산을 안 챙긴 걸 깨닫는 학생",
+ "imageCaption": "해야 할 일을 깜빡하고 '아 맞다!' 하는 순간을 떠올려 보세요.",
+ "movieLineEn": "Don't forget to call me when you land.",
+ "movieLineKo": "도착하면 나한테 전화하는 거 잊지 마.",
+ "storyTitle": "깜빡 왕자",
+ "story": "오빠는 forgetful(잘 잊어버리는) 사람이에요. 오늘도 숙제 가져가는 걸 forget to do(~할 것을 잊다)했죠. 엄마가 \"remember to do(~할 것을 기억하다), 알았지?\" 하셨는데 또 잊었어요. 그런데 학교에 도착하니 오늘은 일요일! 오빠는 오늘이 일요일이라는 사실도 잊었던 거예요. 정말 unforgettable(잊을 수 없는) 하루였죠."
+}

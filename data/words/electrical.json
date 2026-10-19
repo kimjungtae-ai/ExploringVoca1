@@ -1,0 +1,74 @@
+{
+ "word": "electrical",
+ "pos": "형용사",
+ "phonetic": "[ɪˈlektrɪkl]",
+ "meaning": "전기의, 전기에 관한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "electr (ēlektron)",
+   "meaning": "호박 (amber)",
+   "note": "그리스어 ēlektron은 나무 진이 굳어 생긴 보석 '호박'이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의, ~에 관한",
+   "note": "형용사를 만드는 꼬리표예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~에 관한",
+   "note": "-ic 뒤에 한 번 더 붙어 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>electr</strong> (호박) + <strong>-ic</strong> + <strong>-al</strong> (~의) = '호박을 문지를 때 생기는 힘의'라는 뜻에서 <strong>'전기의'</strong>가 되었어요.",
+ "historyTitle": "호박을 문지르면 생기는 신기한 힘",
+ "historyBody": "고대 그리스 사람들은 호박(ēlektron)을 천으로 문지르면 깃털 같은 가벼운 것이 달라붙는 것을 알았어요. 1600년 영국의 과학자 윌리엄 길버트가 이 현상을 라틴어 electricus(호박 같은)라고 불렀답니다. 여기서 electric, electricity 같은 말이 생겨났어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "electric",
+   "pos": "형용사",
+   "meaning": "전기의, 전기로 움직이는",
+   "en": "My uncle drives an electric car.",
+   "ko": "우리 삼촌은 전기차를 몰아요."
+  },
+  {
+   "word": "electricity",
+   "pos": "명사",
+   "meaning": "전기",
+   "en": "The storm cut off the electricity for hours.",
+   "ko": "폭풍으로 몇 시간 동안 전기가 끊겼어요."
+  },
+  {
+   "word": "electronic",
+   "pos": "형용사",
+   "meaning": "전자의",
+   "en": "Please turn off all electronic devices.",
+   "ko": "모든 전자 기기를 꺼 주세요."
+  },
+  {
+   "word": "electron",
+   "pos": "명사",
+   "meaning": "전자",
+   "en": "An electron has a negative charge.",
+   "ko": "전자는 음전하를 띠고 있어요."
+  },
+  {
+   "word": "electrician",
+   "pos": "명사",
+   "meaning": "전기 기사",
+   "en": "The electrician fixed the broken light.",
+   "ko": "전기 기사가 고장 난 전등을 고쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 전선과 콘센트, 반짝이는 전구가 연결된 모습",
+ "imageCaption": "벽 속 전선을 따라 전기가 흘러 전구에 불이 '탁' 켜지는 장면을 떠올려 보세요.",
+ "movieLineEn": "Don't touch that wire! It's an electrical trap!",
+ "movieLineKo": "그 전선 만지지 마! 전기 함정이야!",
+ "storyTitle": "전기 기사 아빠의 실수",
+ "story": "electrician(전기 기사)인 아빠는 집 안의 electrical(전기의) 문제를 뭐든지 고치세요. 어느 날 electricity(전기)가 나가자 아빠는 자신만만하게 두꺼비집을 열었죠. 한참 뒤에야 원인을 찾았어요. 엄마의 electric(전기의) 밥솥, 내 게임기, 동생의 전기 장난감이 모두 콘센트 하나에 꽂혀 있었던 거예요!"
+}

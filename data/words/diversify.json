@@ -1,0 +1,67 @@
+{
+ "word": "diversify",
+ "pos": "동사",
+ "phonetic": "[daɪˈvɜːrsɪfaɪ]",
+ "meaning": "다양화하다, 다각화하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "di-",
+   "meaning": "따로, 떨어져 (apart)",
+   "note": "dis-의 변형이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vers",
+   "meaning": "돌리다 (turn)",
+   "note": "라틴어 vertere(돌리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ify",
+   "meaning": "~하게 만들다 (make)",
+   "note": "라틴어 facere(만들다)에서 온 동사 접미사예요."
+  }
+ ],
+ "summary": "<strong>divers(e)</strong> (다양한) + <strong>-ify</strong> (만들다) = '다양하게 만들다'에서 <strong>'다양화하다'</strong>가 되었어요.",
+ "historyTitle": "다양함을 '만드는' 동사",
+ "historyBody": "diversify는 중세 라틴어 diversificare에서 고대 프랑스어 diversifier를 거쳐 영어로 들어왔어요. diversus(서로 다른)에 facere(만들다)에서 온 -ify가 붙은 말이에요. 요즘은 경제 지문에서 '투자나 사업을 다각화하다'라는 뜻으로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "diverse",
+   "pos": "형용사",
+   "meaning": "다양한",
+   "en": "The city has a diverse population.",
+   "ko": "그 도시에는 다양한 사람들이 살아요."
+  },
+  {
+   "word": "diversity",
+   "pos": "명사",
+   "meaning": "다양성",
+   "en": "Biodiversity means the diversity of life on Earth.",
+   "ko": "생물 다양성은 지구 생명체의 다양성을 뜻해요."
+  },
+  {
+   "word": "diversion",
+   "pos": "명사",
+   "meaning": "전환, 기분 전환",
+   "en": "Reading was a pleasant diversion from studying.",
+   "ko": "독서는 공부에서 벗어난 즐거운 기분 전환이었어요."
+  },
+  {
+   "word": "divert",
+   "pos": "동사",
+   "meaning": "방향을 바꾸다, 주의를 돌리다",
+   "en": "The police diverted traffic away from the accident.",
+   "ko": "경찰은 사고 현장에서 차량 흐름을 우회시켰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한 바구니에 담았던 달걀을 여러 바구니에 나누어 담는 장면",
+ "imageCaption": "한 가지만 하던 가게가 메뉴를 여러 가지로 늘리는 모습을 떠올려 보세요. 다양하게 만드는 것이 diversify예요.",
+ "movieLineEn": "Don't put all your eggs in one basket. Diversify!",
+ "movieLineKo": "달걀을 한 바구니에 담지 마. 다양화해!",
+ "storyTitle": "떡볶이 가게의 변신",
+ "story": "떡볶이만 팔던 할머니는 메뉴를 diversify(다양화하다)했어요. 손님들의 diverse(다양한) 입맛을 위해서였죠. 피자, 파스타, 초밥까지 diversity(다양성)가 대단했어요. 그런데 손님들은 여전히 떡볶이만 시켰어요. 결국 할머니는 다른 메뉴들을 떡볶이 토핑으로 divert(방향을 바꾸다)했답니다."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "complement",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈkɑːmplɪmənt]",
+ "meaning": "보완물, 보충 / 보완하다, 보충하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ple",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 plere(채우다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "행동의 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>ple</strong> (채우다) + <strong>-ment</strong> (것) = '빈 곳을 완전히 채워 주는 것'이라는 데서 <strong>'보완물, 보완하다'</strong>가 되었습니다.",
+ "historyTitle": "complement와 compliment는 쌍둥이",
+ "historyBody": "라틴어 complementum은 '채워서 완성하는 것'을 뜻했어요. 칭찬을 뜻하는 compliment도 같은 라틴어에서 이탈리아어와 프랑스어를 거쳐 나온 쌍둥이 단어랍니다. '예의를 다 채워 주는 말'이 칭찬이 된 거죠. 철자 하나 차이니 수능에서 꼭 구별하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "complete",
+   "pos": "동사/형용사",
+   "meaning": "완성하다 / 완전한",
+   "en": "I completed the puzzle in an hour.",
+   "ko": "나는 한 시간 만에 퍼즐을 완성했어."
+  },
+  {
+   "word": "compliment",
+   "pos": "명사/동사",
+   "meaning": "칭찬 / 칭찬하다",
+   "en": "She gave me a nice compliment on my drawing.",
+   "ko": "그녀가 내 그림을 멋지게 칭찬해 줬어."
+  },
+  {
+   "word": "supplement",
+   "pos": "명사/동사",
+   "meaning": "보충(제) / 보충하다",
+   "en": "He takes a vitamin supplement every morning.",
+   "ko": "그는 매일 아침 비타민 보충제를 먹어요."
+  },
+  {
+   "word": "plenty",
+   "pos": "명사",
+   "meaning": "풍부함, 많음",
+   "en": "Drink plenty of water on hot days.",
+   "ko": "더운 날에는 물을 많이 마셔."
+  },
+  {
+   "word": "accomplish",
+   "pos": "동사",
+   "meaning": "성취하다, 이루다",
+   "en": "You can accomplish anything if you keep trying.",
+   "ko": "계속 노력하면 무엇이든 이룰 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 퍼즐의 빈칸에 마지막 조각이 딱 맞게 들어가는 장면",
+ "imageCaption": "서로의 빈자리를 채워(ple) 완전하게 만드는 짝꿍을 떠올려 보세요.",
+ "movieLineEn": "You and I complement each other perfectly.",
+ "movieLineKo": "너랑 나는 서로를 완벽하게 보완해 줘.",
+ "storyTitle": "떡볶이와 순대",
+ "story": "떡볶이와 순대는 서로를 complement(보완하다)하는 단짝이었어요. 손님들은 맛을 compliment(칭찬하다)했죠. 둘은 함께 plenty(많은) 돈을 모아 꿈을 accomplish(이루다)했어요. 바로 김밥을 supplement(보충)로 들여 분식집 3인방이 된 거예요!"
+}

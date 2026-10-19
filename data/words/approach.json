@@ -1,0 +1,61 @@
+{
+ "word": "approach",
+ "pos": "동사 / 명사",
+ "phonetic": "[əˈproʊtʃ]",
+ "meaning": "다가가다, 접근하다 / 접근(법), 처리 방식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~쪽으로 (to)",
+   "note": "목표를 향해 간다는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "proach (prope)",
+   "meaning": "가까이 (near)",
+   "note": "라틴어 prope(가까이)가 프랑스어를 거치며 모양이 바뀌었어요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~쪽으로) + <strong>proach</strong> (가까이) = '~쪽으로 가까이 가다'에서 <strong>'다가가다, 접근(법)'</strong>이 되었어요.",
+ "historyTitle": "가까이 다가가는 로마인의 말",
+ "historyBody": "후기 라틴어 'appropiare(가까이 가다)'는 ad-(~쪽으로)와 'prope(가까이)'가 합쳐진 말이에요. 이것이 고대 프랑스어 'aprochier'를 거쳐 영어 approach가 되었어요. 문제에 '다가가는 방식'이라는 뜻에서 수능에 자주 나오는 '접근법'이라는 의미도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "approximately",
+   "pos": "부사",
+   "meaning": "대략, 거의",
+   "en": "The trip takes approximately two hours.",
+   "ko": "그 여행은 대략 두 시간 걸려요."
+  },
+  {
+   "word": "proximity",
+   "pos": "명사",
+   "meaning": "가까움, 근접",
+   "en": "The school's proximity to the park is a big plus.",
+   "ko": "학교가 공원과 가깝다는 건 큰 장점이에요."
+  },
+  {
+   "word": "approximate",
+   "pos": "형용사",
+   "meaning": "대략의, 근사치의",
+   "en": "Can you give me an approximate number of guests?",
+   "ko": "손님 수를 대략 알려 줄 수 있나요?"
+  },
+  {
+   "word": "reproach",
+   "pos": "동사/명사",
+   "meaning": "비난하다, 나무라다 / 비난",
+   "en": "She reproached herself for forgetting his birthday.",
+   "ko": "그녀는 그의 생일을 잊은 것에 대해 스스로를 자책했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲속에서 사슴에게 살금살금 다가가는 사진작가",
+ "imageCaption": "카메라를 든 사람이 사슴에게 한 걸음씩 '가까이' 다가가는 장면을 떠올려 보세요. 목표를 향해 다가가는 것이 approach예요.",
+ "movieLineEn": "Do not approach the dragon until I give the signal!",
+ "movieLineKo": "내가 신호를 줄 때까지 용에게 다가가지 마!",
+ "storyTitle": "짝사랑 접근 작전",
+ "story": "준호는 좋아하는 친구에게 approach(다가가다)할 완벽한 방법을 연구했어요. 그녀와의 proximity(근접)를 위해 approximately(대략) 백 번이나 같은 복도를 지나갔죠. 마침내 용기를 냈지만 그녀가 먼저 reproach(나무라다)하듯 말했어요. '너 아까부터 왜 계속 돌아? 어지럽잖아!'"
+}

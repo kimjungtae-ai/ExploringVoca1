@@ -1,0 +1,81 @@
+{
+ "word": "executive",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ɪɡˈzekjətɪv]",
+ "meaning": "임원, 경영진 / 실행의, 행정의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "끝까지, 완전히 (out, thoroughly)",
+   "note": "처음부터 끝까지 해낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "secu / ecu",
+   "meaning": "따르다 (follow)",
+   "note": "라틴어 sequi(따르다)에서 온 어근이에요. ex-와 합쳐지며 s가 사라졌어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 (형용사·명사형)",
+   "note": "성질이나 그런 일을 하는 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (끝까지) + <strong>secu</strong> (따르다) + <strong>-ive</strong> = '계획을 끝까지 따라 실행하는 (사람)'에서 <strong>'실행의, 임원'</strong>이 되었어요.",
+ "historyTitle": "계획을 끝까지 실행하는 사람",
+ "historyBody": "라틴어 'exsequi'는 ex-(끝까지)와 sequi(따르다)가 합쳐져 '끝까지 따라가다, 수행하다'라는 뜻이었어요. 과거분사 executus에서 execute(실행하다)가 나왔고, 15세기에 executive(실행하는)가 생겼어요. 정부의 '행정부'나 회사의 '임원'처럼 결정을 실행하는 쪽을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "execute",
+   "pos": "동사",
+   "meaning": "실행하다, 처형하다",
+   "en": "The team executed the plan perfectly.",
+   "ko": "그 팀은 계획을 완벽하게 실행했어요."
+  },
+  {
+   "word": "execution",
+   "pos": "명사",
+   "meaning": "실행, 처형",
+   "en": "Good ideas mean nothing without good execution.",
+   "ko": "좋은 아이디어도 제대로 실행하지 않으면 소용없어요."
+  },
+  {
+   "word": "sequence",
+   "pos": "명사",
+   "meaning": "순서, 연속",
+   "en": "Put the pictures in the correct sequence.",
+   "ko": "그림들을 올바른 순서로 놓으세요."
+  },
+  {
+   "word": "consequence",
+   "pos": "명사",
+   "meaning": "결과, 영향",
+   "en": "Every choice has a consequence.",
+   "ko": "모든 선택에는 결과가 따라요."
+  },
+  {
+   "word": "subsequent",
+   "pos": "형용사",
+   "meaning": "그 다음의, 이후의",
+   "en": "Subsequent studies supported his theory.",
+   "ko": "이후의 연구들이 그의 이론을 뒷받침했어요."
+  },
+  {
+   "word": "sequel",
+   "pos": "명사",
+   "meaning": "속편",
+   "en": "Fans are waiting for the sequel to the movie.",
+   "ko": "팬들이 그 영화의 속편을 기다리고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 빌딩 회의실에서 정장 입은 임원들이 회의하는 장면",
+ "imageCaption": "회사의 중요한 결정을 내리고 실행하는 사람들의 회의를 떠올려 보세요.",
+ "movieLineEn": "I'm the executive here, and I make the final call.",
+ "movieLineKo": "여기 임원은 나고, 최종 결정은 내가 해.",
+ "storyTitle": "사장님의 실행력",
+ "story": "회사의 executive(임원)인 김 부장은 계획을 바로 execute(실행하다)하기로 유명했어요. 하지만 일의 sequence(순서)를 늘 거꾸로 했죠. 그 consequence(결과)는? 회의를 마친 뒤에 회의 자료를 만들었어요. 그래도 실적은 1등, 다들 이 이야기의 sequel(속편)을 기대한대요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "fantastic",
+ "pos": "형용사",
+ "phonetic": "[fænˈtæstɪk]",
+ "meaning": "환상적인, 굉장한, 기이한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fant (phant)",
+   "meaning": "보이게 하다, 나타나다 (show, appear)",
+   "note": "그리스어 phantazein(보이게 하다), phainein(보여 주다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-astic",
+   "meaning": "~의, ~같은 (형용사형)",
+   "note": "그리스어 형용사 꼬리 -tikos에서 왔어요."
+  }
+ ],
+ "summary": "<strong>fant</strong> (눈앞에 나타나다) + <strong>-astic</strong> (~같은) = '상상 속에서만 나타나는 것 같은'이라는 뜻에서 <strong>'환상적인, 굉장한'</strong>이 되었어요.",
+ "historyTitle": "상상 속에서만 '나타나는' 것",
+ "historyBody": "그리스어 phantastikos는 '상상할 수 있는, 머릿속에 떠오르는'이라는 뜻이었어요. 그래서 영어 fantastic도 처음엔 '상상 속의, 비현실적인'을 뜻했죠. 20세기에 들어서야 '정말 멋진, 굉장한'이라는 칭찬의 뜻으로 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fantasy",
+   "pos": "명사",
+   "meaning": "환상, 공상",
+   "en": "Flying cars used to be just a fantasy.",
+   "ko": "하늘을 나는 자동차는 예전엔 그저 공상이었어요."
+  },
+  {
+   "word": "fancy",
+   "pos": "형용사",
+   "meaning": "화려한, 고급의",
+   "en": "They stayed at a fancy hotel by the beach.",
+   "ko": "그들은 해변의 고급 호텔에 묵었어요."
+  },
+  {
+   "word": "phantom",
+   "pos": "명사",
+   "meaning": "유령, 환영",
+   "en": "The sailors thought they saw a phantom ship in the fog.",
+   "ko": "선원들은 안개 속에서 유령선을 봤다고 생각했어요."
+  },
+  {
+   "word": "phenomenon",
+   "pos": "명사",
+   "meaning": "현상",
+   "en": "A rainbow is a natural phenomenon caused by light.",
+   "ko": "무지개는 빛 때문에 생기는 자연 현상이에요."
+  },
+  {
+   "word": "emphasis",
+   "pos": "명사",
+   "meaning": "강조",
+   "en": "Our school puts emphasis on reading and writing.",
+   "ko": "우리 학교는 읽기와 쓰기를 강조해요."
+  }
+ ],
+ "imageSense": "대표 의미: 밤하늘에 터지는 화려한 불꽃놀이",
+ "imageCaption": "눈앞에 마법처럼 '나타나는' 불꽃을 보며 감탄하는 모습이 fantastic이에요.",
+ "movieLineEn": "You did it! That was absolutely fantastic!",
+ "movieLineKo": "해냈구나! 정말 끝내줬어!",
+ "storyTitle": "환상적인 과학 발표",
+ "story": "과학 시간에 무지개라는 phenomenon(현상)을 발표했어요. 저는 '빛의 굴절'에 emphasis(강조)를 두었죠. 마지막엔 fancy(화려한) 조명으로 fantasy(환상) 같은 무지개를 띄웠어요. 모두가 \"fantastic(환상적인)!\" 하고 외쳤죠. 그런데 선생님이 조명 스위치를 끄자 무지개는 phantom(유령)처럼 사라졌고, 점수도 같이 사라졌어요."
+}

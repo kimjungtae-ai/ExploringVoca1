@@ -1,0 +1,74 @@
+{
+ "word": "sportsmanship",
+ "pos": "명사",
+ "phonetic": "[ˈspɔːrtsmənʃɪp]",
+ "meaning": "스포츠맨 정신, 정정당당함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sport",
+   "meaning": "운동, 놀이 (sport, amusement)",
+   "note": "고대 프랑스어 desporter(즐기다, 기분 전환하다)를 줄인 disport에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "man",
+   "meaning": "사람 (person)",
+   "note": "sportsman은 '운동하는 사람, 정정당당한 사람'이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ship",
+   "meaning": "~의 자질, 상태 (명사)",
+   "note": "friendship처럼 자질이나 관계를 나타내요."
+  }
+ ],
+ "summary": "<strong>sport</strong> (운동) + <strong>-s-</strong> + <strong>man</strong> (사람) + <strong>-ship</strong> (자질) = '훌륭한 운동선수다운 자질', 즉 <strong>'스포츠맨 정신'</strong>입니다.",
+ "historyTitle": "'기분 전환'에서 시작된 sport",
+ "historyBody": "sport는 disport를 줄인 말인데, 고대 프랑스어 desporter는 des-(떨어져) + porter(나르다)로 '일에서 마음을 딴 데로 옮기다', 즉 '즐기다'라는 뜻이었어요. sportsman은 원래 사냥과 놀이를 즐기는 사람이었고, 18세기에 sportsmanship이 '정정당당한 태도'라는 뜻으로 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sport",
+   "pos": "명사",
+   "meaning": "운동, 스포츠",
+   "en": "Soccer is the most popular sport in the world.",
+   "ko": "축구는 세계에서 가장 인기 있는 스포츠예요."
+  },
+  {
+   "word": "sportsman",
+   "pos": "명사",
+   "meaning": "운동선수, 정정당당한 사람",
+   "en": "He is a true sportsman who never cheats.",
+   "ko": "그는 절대 반칙하지 않는 진정한 스포츠맨이에요."
+  },
+  {
+   "word": "sporty",
+   "pos": "형용사",
+   "meaning": "운동을 좋아하는, 스포티한",
+   "en": "My sister is sporty and plays tennis every day.",
+   "ko": "내 여동생은 운동을 좋아해서 매일 테니스를 쳐요."
+  },
+  {
+   "word": "sporting",
+   "pos": "형용사",
+   "meaning": "스포츠의",
+   "en": "The city hosts many sporting events each year.",
+   "ko": "그 도시는 매년 많은 스포츠 행사를 열어요."
+  },
+  {
+   "word": "sportswear",
+   "pos": "명사",
+   "meaning": "운동복",
+   "en": "She wore comfortable sportswear to the gym.",
+   "ko": "그녀는 편한 운동복을 입고 체육관에 갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 경기에서 진 선수가 이긴 상대에게 웃으며 악수를 청하는 장면",
+ "imageCaption": "져도 화내지 않고 상대를 축하해 주는 멋진 모습이 바로 sportsmanship이에요.",
+ "movieLineEn": "Winning is great, but sportsmanship makes you a champion.",
+ "movieLineKo": "이기는 것도 좋지만, 진정한 챔피언을 만드는 건 스포츠맨 정신이야.",
+ "storyTitle": "거북이의 진짜 스포츠맨 정신",
+ "story": "토끼와 거북이가 다시 경주했어요. sporty(운동을 좋아하는) 토끼는 이번엔 잠도 안 자고 1등을 했죠. 진정한 sportsman(스포츠맨)인 거북이는 웃으며 악수했어요. 모두 거북이의 sportsmanship(스포츠맨 정신)에 감동했어요. 그런데 sport(경기)가 끝나고 거북이가 속삭였어요. \"다음 경주는 수영이야.\""
+}

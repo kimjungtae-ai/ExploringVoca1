@@ -1,0 +1,68 @@
+{
+ "word": "miracle",
+ "pos": "명사",
+ "phonetic": "[ˈmɪrəkl]",
+ "meaning": "기적, 놀라운 일",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mira",
+   "meaning": "놀라다, 감탄하다 (wonder at)",
+   "note": "라틴어 mirari(놀라워하다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-cle",
+   "meaning": "작은 것, ~하는 것 (라틴어 -culum)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>mira</strong> (놀라워하다) + <strong>-cle</strong> (~하는 것) = 사람들이 놀라워하는 일이라서 <strong>'기적'</strong>이 되었어요.",
+ "historyTitle": "눈을 크게 뜨게 하는 일",
+ "historyBody": "라틴어 miraculum은 '놀라운 대상'을 뜻했어요. 같은 뿌리 mirari에서 거울(mirror)과 감탄하다(admire)도 나왔답니다. 거울은 원래 '놀라며 들여다보는 것'이었던 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "miraculous",
+   "pos": "형용사",
+   "meaning": "기적적인",
+   "en": "The doctors called her recovery miraculous.",
+   "ko": "의사들은 그녀의 회복을 기적적이라고 불렀어요."
+  },
+  {
+   "word": "admire",
+   "pos": "동사",
+   "meaning": "감탄하다, 존경하다",
+   "en": "I really admire people who never give up.",
+   "ko": "나는 절대 포기하지 않는 사람들을 정말 존경해."
+  },
+  {
+   "word": "admiration",
+   "pos": "명사",
+   "meaning": "감탄, 존경",
+   "en": "The audience watched the dancer with admiration.",
+   "ko": "관객들은 감탄하며 그 무용수를 지켜봤어요."
+  },
+  {
+   "word": "mirror",
+   "pos": "명사",
+   "meaning": "거울",
+   "en": "She checked her hair in the mirror before leaving.",
+   "ko": "그녀는 나가기 전에 거울로 머리를 확인했어요."
+  },
+  {
+   "word": "marvel",
+   "pos": "동사 / 명사",
+   "meaning": "경탄하다 / 놀라운 것",
+   "en": "Tourists marvel at the size of the ancient temple.",
+   "ko": "관광객들은 고대 사원의 크기에 경탄해요."
+  }
+ ],
+ "imageSense": "대표 의미: 모두가 입을 벌리고 놀라워하는 믿기 힘든 장면",
+ "imageCaption": "불가능해 보였던 공이 골대에 쏙 들어가 관중 모두가 깜짝 놀라는 순간을 떠올려 보세요.",
+ "movieLineEn": "It's a miracle! He's alive!",
+ "movieLineKo": "기적이야! 그가 살아 있어!",
+ "storyTitle": "거울 앞의 기적",
+ "story": "지수는 시험 날 아침 mirror(거울)를 보며 miracle(기적)을 빌었어요. 결과는 miraculous(기적적인) 100점! 친구들은 admiration(감탄)의 눈빛을 보냈죠. 그런데 알고 보니 선생님이 정답지를 시험지로 잘못 나눠 주신 거였답니다."
+}

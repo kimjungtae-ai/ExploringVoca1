@@ -1,0 +1,81 @@
+{
+ "word": "presence",
+ "pos": "명사",
+ "phonetic": "[ˈprezns]",
+ "meaning": "존재, 있음, 참석, 존재감",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "앞에 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sent",
+   "meaning": "있는, 존재하는 (being)",
+   "note": "라틴어 esse(있다)의 현재분사 형태 -sens, -sentis에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~함 (명사)",
+   "note": "상태를 나타내는 명사 꼬리예요. 철자가 sent+ence → sence로 합쳐졌어요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (앞에) + <strong>sent</strong> (있는) + <strong>-ence</strong> (명사) = 바로 앞에 있음, 곧 <strong>'존재, 참석'</strong>이에요.",
+ "historyTitle": "눈앞에 '있다'는 것",
+ "historyBody": "presence는 라틴어 praesentia(앞에 있음)에서 고대 프랑스어를 거쳐 1300년대 영어에 들어왔어요. 동사 praeesse는 prae(앞에)와 esse(있다)가 합쳐진 말이에요. 그 반대는 ab(떨어져) + esse인 absence(부재)이고, esse는 essence(본질)에도 남아 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "present",
+   "pos": "형용사/명사/동사",
+   "meaning": "현재의, 참석한 / 현재, 선물 / 주다, 제시하다",
+   "en": "All the students were present at the meeting.",
+   "ko": "모든 학생이 회의에 참석했어요."
+  },
+  {
+   "word": "absent",
+   "pos": "형용사",
+   "meaning": "결석한, 없는",
+   "en": "He was absent from school because of a cold.",
+   "ko": "그는 감기 때문에 학교에 결석했어요."
+  },
+  {
+   "word": "absence",
+   "pos": "명사",
+   "meaning": "결석, 부재",
+   "en": "Nobody noticed his absence from the party.",
+   "ko": "아무도 그가 파티에 없다는 걸 알아차리지 못했어요."
+  },
+  {
+   "word": "essence",
+   "pos": "명사",
+   "meaning": "본질, 핵심",
+   "en": "The essence of friendship is trust.",
+   "ko": "우정의 본질은 신뢰예요."
+  },
+  {
+   "word": "essential",
+   "pos": "형용사",
+   "meaning": "필수적인, 본질적인",
+   "en": "Water is essential for all living things.",
+   "ko": "물은 모든 생명체에게 필수적이에요."
+  },
+  {
+   "word": "presently",
+   "pos": "부사",
+   "meaning": "현재, 곧",
+   "en": "The museum is presently closed for repairs.",
+   "ko": "박물관은 현재 수리 때문에 문을 닫았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의실에 한 사람이 들어서자 모두가 돌아보는 장면",
+ "imageCaption": "누군가 방에 들어서자 공기가 달라지는 순간을 떠올려 보세요. 그 사람이 '앞에 있는' 존재감이에요.",
+ "movieLineEn": "I can feel your presence. Stop hiding behind the curtain.",
+ "movieLineKo": "네가 있는 거 다 느껴져. 커튼 뒤에 숨지 마.",
+ "storyTitle": "투명 인간의 출석",
+ "story": "투명 인간 철수는 매일 학교에 와요. 하지만 선생님은 그의 presence(존재)를 몰라서 늘 absent(결석한)으로 체크하셨죠. 철수는 \"저 present(출석한)예요!\"라고 외쳤어요. absence(결석)가 쌓이자 철수는 essential(필수적인) 해결책을 찾았어요. 바로 형광 조끼! 이제 반에서 가장 눈에 띄는 학생이래요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "upset",
+ "pos": "형용사 / 동사 / 명사",
+ "phonetic": "[ʌpˈset]",
+ "meaning": "속상한, 화가 난, (배가) 탈이 난 / 속상하게 하다, 뒤엎다 / 뜻밖의 패배, 이변",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "up-",
+   "meaning": "위로, 완전히 (up)",
+   "note": "위쪽 방향이나 '끝까지, 완전히'라는 느낌을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "set",
+   "meaning": "놓다, 두다 (put)",
+   "note": "고대 영어 settan(놓다)에서 온 순수 영어 단어예요."
+  }
+ ],
+ "summary": "<strong>up</strong> (위로) + <strong>set</strong> (놓다) = 아래 있던 것을 위로 뒤집어 놓다, 즉 <strong>'뒤엎다'</strong>에서 마음이 뒤집힌 <strong>'속상한'</strong>이 되었어요.",
+ "historyTitle": "뒤집힌 수레에서 뒤집힌 마음으로",
+ "historyBody": "upset은 중세 영어에서 원래 '세우다, 설치하다'라는 뜻이었지만, 18~19세기에 '뒤엎다, 뒤집다'라는 뜻으로 많이 쓰이게 되었어요. 수레를 뒤엎듯 마음이나 계획이 뒤집히니 '속상한, 혼란스러운'이라는 뜻이 생겼죠. 스포츠에서 약팀이 강팀을 이기는 '이변'도 upset이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "set",
+   "pos": "동사 / 명사",
+   "meaning": "놓다, 정하다 / 세트",
+   "en": "Let's set a goal for this semester.",
+   "ko": "이번 학기 목표를 정해 보자."
+  },
+  {
+   "word": "setback",
+   "pos": "명사",
+   "meaning": "차질, 좌절",
+   "en": "Losing the first game was a small setback for the team.",
+   "ko": "첫 경기에서 진 것은 팀에게 작은 차질이었어요."
+  },
+  {
+   "word": "outset",
+   "pos": "명사",
+   "meaning": "시작, 처음",
+   "en": "From the outset, we knew the project would be hard.",
+   "ko": "처음부터 우리는 그 프로젝트가 어려울 거라는 걸 알았어요."
+  },
+  {
+   "word": "sunset",
+   "pos": "명사",
+   "meaning": "해 질 녘, 일몰",
+   "en": "We watched the beautiful sunset at the beach.",
+   "ko": "우리는 해변에서 아름다운 노을을 봤어요."
+  },
+  {
+   "word": "setting",
+   "pos": "명사",
+   "meaning": "배경, 환경",
+   "en": "The setting of the story is a small village in Italy.",
+   "ko": "그 이야기의 배경은 이탈리아의 작은 마을이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이스크림을 떨어뜨리고 울상이 된 아이",
+ "imageCaption": "손에 든 아이스크림이 뒤집혀 바닥에 떨어진 순간, 마음도 함께 뒤집히는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't be upset. We'll find another way home.",
+ "movieLineKo": "속상해하지 마. 집에 가는 다른 길을 찾을 거야.",
+ "storyTitle": "꼴찌 팀의 대이변",
+ "story": "우리 반 축구팀은 늘 지는 팀이었어요. 결승 outset(시작)부터 상대 팀은 우리를 비웃었죠. 그런데 sunset(해 질 녘)이 될 무렵, 우리가 이기는 엄청난 upset(이변)이 일어났어요! 상대 팀은 너무 upset(속상한) 나머지 울었는데, 알고 보니 우리 골키퍼가 그 팀 주장의 할머니였답니다."
+}

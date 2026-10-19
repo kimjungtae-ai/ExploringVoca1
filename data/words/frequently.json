@@ -1,0 +1,67 @@
+{
+ "word": "frequently",
+ "pos": "부사",
+ "phonetic": "[ˈfriːkwəntli]",
+ "meaning": "자주, 빈번하게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "frequ",
+   "meaning": "붐비는, 가득한 (crowded)",
+   "note": "라틴어 frequens(붐비는, 자주 있는)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~한 (형용사)",
+   "note": "frequent = '자주 일어나는'."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꾸는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>frequ</strong> (붐비는) + <strong>-ent</strong> (~한) + <strong>-ly</strong> (~하게) = '사람이 붐비듯 자꾸 반복되게'에서 <strong>'자주, 빈번하게'</strong>가 되었습니다.",
+ "historyTitle": "북적이는 로마의 광장",
+ "historyBody": "라틴어 frequens는 원래 '사람이 붐비는, 가득한'이라는 뜻이었어요. 사람들이 '자주' 모이는 곳이 붐비니까 '자주 일어나는'이라는 뜻으로 넓어졌죠. frequens 자체의 기원은 확실하지 않지만, frequent와 frequency는 수능 빈출 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "frequent",
+   "pos": "형용사 / 동사",
+   "meaning": "잦은, 빈번한 / 자주 다니다",
+   "en": "Frequent breaks can help you study longer.",
+   "ko": "자주 쉬면 더 오래 공부하는 데 도움이 돼요."
+  },
+  {
+   "word": "frequency",
+   "pos": "명사",
+   "meaning": "빈도, 주파수",
+   "en": "The frequency of heavy rain has increased in summer.",
+   "ko": "여름에 폭우가 내리는 빈도가 늘었어요."
+  },
+  {
+   "word": "infrequent",
+   "pos": "형용사",
+   "meaning": "드문, 잦지 않은",
+   "en": "Snow is infrequent in this southern city.",
+   "ko": "이 남쪽 도시에서는 눈이 드물어요."
+  },
+  {
+   "word": "infrequently",
+   "pos": "부사",
+   "meaning": "드물게",
+   "en": "We see our cousins infrequently because they live abroad.",
+   "ko": "사촌들이 외국에 살아서 우리는 드물게 만나요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력에 동그라미가 빽빽하게 그려진 장면",
+ "imageCaption": "달력 거의 매일 '헬스장' 동그라미가 그려져 있다면, 그 사람은 frequently 운동하는 거예요.",
+ "movieLineEn": "He frequently visits this café. Wait here.",
+ "movieLineKo": "그는 이 카페에 자주 와. 여기서 기다려.",
+ "storyTitle": "단골손님의 정체",
+ "story": "동네 빵집에 frequently(자주) 오는 손님이 있었어요. 그의 방문 frequency(빈도)는 하루 다섯 번! frequent(잦은) 방문에 사장님은 감동해서 공짜 빵을 줬죠. 그런데 그 손님은 빵은 infrequently(드물게) 사고 늘 시식 코너에만 머물렀어요. 알고 보니 옆 빵집 사장님이었대요!"
+}

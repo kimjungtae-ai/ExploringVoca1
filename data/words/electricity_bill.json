@@ -1,0 +1,68 @@
+{
+ "word": "electricity bill",
+ "pos": "명사구",
+ "phonetic": "[ɪˌlekˈtrɪsəti bɪl]",
+ "meaning": "전기 요금 고지서, 전기 요금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "electricity",
+   "meaning": "전기 (electricity)",
+   "note": "electric(전기의)+-ity(성질, 상태)예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "bill",
+   "meaning": "청구서, 계산서 (bill)",
+   "note": "내야 할 돈을 적은 종이예요."
+  }
+ ],
+ "summary": "<strong>electricity</strong> (전기) + <strong>bill</strong> (청구서) = '쓴 전기에 대한 청구서'에서 <strong>'전기 요금 고지서'</strong>",
+ "historyTitle": "도장 찍힌 문서에서 온 bill",
+ "historyBody": "bill은 중세 라틴어 'bulla(봉인, 도장 찍힌 문서)'에서 앵글로-프랑스어를 거쳐 왔어요. 공식 문서라는 뜻에서 '청구서', '법안', 미국에서는 '지폐'라는 뜻까지 생겼죠. electricity는 그리스어 ēlektron(호박)에서 나온 말로, 문지르면 물건을 끌어당기는 호박의 성질에서 이름이 붙었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "utility bill",
+   "pos": "명사구",
+   "meaning": "공과금 고지서",
+   "en": "We pay the utility bills every month.",
+   "ko": "우리는 매달 공과금을 내요."
+  },
+  {
+   "word": "water bill",
+   "pos": "명사구",
+   "meaning": "수도 요금",
+   "en": "Our water bill went up in summer.",
+   "ko": "여름에 수도 요금이 올랐어."
+  },
+  {
+   "word": "save energy",
+   "pos": "숙어",
+   "meaning": "에너지를 절약하다",
+   "en": "Turn off the lights to save energy.",
+   "ko": "에너지를 절약하려면 불을 꺼."
+  },
+  {
+   "word": "pay the bill",
+   "pos": "숙어",
+   "meaning": "돈을 내다, 계산하다",
+   "en": "Who will pay the bill tonight?",
+   "ko": "오늘 밤 누가 계산할 거야?"
+  },
+  {
+   "word": "electric",
+   "pos": "형용사",
+   "meaning": "전기의",
+   "en": "Electric cars are becoming popular.",
+   "ko": "전기차가 인기를 얻고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여름철 에어컨 아래에서 고지서를 보고 깜짝 놀란 가족",
+ "imageCaption": "에어컨을 실컷 튼 다음 달, 우편함 속 고지서를 열고 입이 떡 벌어진 모습을 떠올려 보세요.",
+ "movieLineEn": "Who left the AC on all day? Look at this electricity bill!",
+ "movieLineKo": "누가 에어컨을 하루 종일 켜 둔 거야? 이 전기 요금 좀 봐!",
+ "storyTitle": "에어컨의 대가",
+ "story": "여름 내내 에어컨을 켰더니 electricity bill(전기 요금 고지서)이 무섭게 나왔어요. water bill(수도 요금)도 올랐죠. 아빠는 모든 utility bill(공과금 고지서)을 펼치며 \"우리 save energy(에너지를 절약하다)하자!\"고 하셨어요. 그날 밤, 온 가족이 선풍기 하나 앞에 모였어요. 그런데 아빠만 혼자 몰래 에어컨 켠 방에서 주무셨답니다."
+}

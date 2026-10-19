@@ -1,0 +1,73 @@
+{
+ "word": "approximately",
+ "pos": "부사",
+ "phonetic": "[əˈprɑːksɪmətli]",
+ "meaning": "대략, 거의, 약",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~쪽으로 (to)",
+   "note": "목표에 다가간다는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "proxim (proximus)",
+   "meaning": "가장 가까운 (nearest)",
+   "note": "prope(가까이)의 최상급이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사형)",
+   "note": "형용사를 만들어 줘요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사형)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~쪽으로) + <strong>proxim</strong> (가장 가까운) + <strong>-ate</strong> + <strong>-ly</strong> = '정답에 아주 가깝게 다가가서'에서 <strong>'대략, 거의'</strong>가 되었어요.",
+ "historyTitle": "정답에 '가장 가까이'",
+ "historyBody": "후기 라틴어 'approximare(가까이 가다)'는 ad-(~쪽으로)와 'proximus(가장 가까운)'에서 왔어요. proximus는 '가까이'라는 뜻의 prope의 최상급이라 approach와 사촌 관계예요. 정확한 숫자는 아니지만 아주 가까운 값이라는 뜻에서 '대략'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "approximate",
+   "pos": "형용사",
+   "meaning": "대략의",
+   "en": "The approximate cost of the trip is 500 dollars.",
+   "ko": "그 여행의 대략적인 비용은 500달러예요."
+  },
+  {
+   "word": "proximity",
+   "pos": "명사",
+   "meaning": "가까움, 근접",
+   "en": "Living in proximity to the sea is relaxing.",
+   "ko": "바다 가까이 사는 건 마음이 편해요."
+  },
+  {
+   "word": "approach",
+   "pos": "동사/명사",
+   "meaning": "다가가다 / 접근법",
+   "en": "As winter approaches, the days get shorter.",
+   "ko": "겨울이 다가오면서 낮이 짧아져요."
+  },
+  {
+   "word": "approximation",
+   "pos": "명사",
+   "meaning": "근사치, 어림",
+   "en": "This number is only an approximation.",
+   "ko": "이 숫자는 어림값일 뿐이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 병 속 사탕 개수를 눈대중으로 맞혀 보는 아이",
+ "imageCaption": "유리병 속 사탕을 보며 '음, 대략 백 개쯤?' 하고 어림하는 모습을 떠올려 보세요. 정답에 아주 가까운 값이 approximately예요.",
+ "movieLineEn": "We have approximately ten seconds before this place explodes!",
+ "movieLineKo": "이곳이 폭발하기까지 대략 10초 남았어!",
+ "storyTitle": "사탕 개수 맞히기 대회",
+ "story": "사탕 병 대회에서 나는 approximately(대략) 300개라고 썼어요. approximate(대략의) 숫자라도 상품을 받을 수 있었거든요. 병과의 proximity(근접)를 위해 코를 박고 셌죠. 결과 발표 날, 정답은 정확히 300개! 그런데 상품은 사탕 300개였어요. 치과 선생님이 웃으며 approach(다가오다)하셨답니다."
+}

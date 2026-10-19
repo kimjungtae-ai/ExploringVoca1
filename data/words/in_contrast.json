@@ -1,0 +1,68 @@
+{
+ "word": "in contrast",
+ "pos": "전치사구",
+ "phonetic": "[ɪn ˈkɑːntræst]",
+ "meaning": "대조적으로, 그에 반해",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 상태로 (in)",
+   "note": "'어떤 방식으로'라는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "contrast",
+   "meaning": "대조, 차이 (contrast)",
+   "note": "contra(맞서)+stare(서다)로 '맞서 세워 비교함'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>in</strong> (~ 방식으로) + <strong>contrast</strong> (맞세워 비교함) = '맞세워 놓고 보면'에서 <strong>'대조적으로, 그에 반해'</strong>",
+ "historyTitle": "'맞서 서다'라는 라틴어",
+ "historyBody": "contrast는 이탈리아어 contrasto를 거쳐 중세 라틴어 contrastare(맞서 서다)에서 왔어요. contra(반대하여)+stare(서다)가 합쳐진 말이죠. 원래 '대항하다'였다가 미술 용어로 '두 가지를 나란히 놓아 차이를 드러내다'라는 뜻이 되었어요. 수능 빈칸·연결어 문제의 단골이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "on the contrary",
+   "pos": "숙어",
+   "meaning": "그와는 반대로",
+   "en": "I'm not tired. On the contrary, I feel great.",
+   "ko": "나 안 피곤해. 오히려 기분 최고야."
+  },
+  {
+   "word": "by contrast",
+   "pos": "숙어",
+   "meaning": "대조적으로",
+   "en": "The city is noisy. By contrast, the village is calm.",
+   "ko": "도시는 시끄러워. 대조적으로 마을은 조용해."
+  },
+  {
+   "word": "in comparison",
+   "pos": "숙어",
+   "meaning": "비교해 보면",
+   "en": "In comparison, last year was much colder.",
+   "ko": "비교해 보면 작년이 훨씬 추웠어."
+  },
+  {
+   "word": "however",
+   "pos": "부사",
+   "meaning": "그러나",
+   "en": "It was raining. However, we went out.",
+   "ko": "비가 오고 있었어. 그러나 우리는 나갔어."
+  },
+  {
+   "word": "contrary",
+   "pos": "형용사",
+   "meaning": "반대의",
+   "en": "Contrary to my fears, the test was easy.",
+   "ko": "내 걱정과 반대로 시험은 쉬웠어."
+  }
+ ],
+ "imageSense": "대표 의미: 흑과 백을 나란히 놓고 차이를 비교하는 장면",
+ "imageCaption": "검은 바둑돌과 흰 바둑돌을 나란히 세워 두고 차이를 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "My brother is a genius. In contrast, I can't even boil water.",
+ "movieLineKo": "우리 형은 천재야. 그에 반해 나는 물도 못 끓여.",
+ "storyTitle": "쌍둥이 고양이",
+ "story": "쌍둥이 고양이 중 '흰둥이'는 얌전해요. in contrast(대조적으로) '검둥이'는 장난꾸러기죠. by contrast(대조적으로) 밥은 흰둥이가 두 배로 먹어요. however(그러나) 몰래 소시지를 훔쳐 먹은 건 흰둥이였어요. contrary(반대의) 소문과 달리 진짜 범인은 늘 얌전한 쪽이었던 거죠!"
+}

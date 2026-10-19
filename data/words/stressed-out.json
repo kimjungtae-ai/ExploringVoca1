@@ -1,0 +1,67 @@
+{
+ "word": "stressed-out",
+ "pos": "형용사",
+ "phonetic": "[ˌstrest ˈaʊt]",
+ "meaning": "스트레스로 지친, 몹시 스트레스를 받은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stress",
+   "meaning": "압박, 긴장 (pressure)",
+   "note": "distress(고통)의 앞부분이 줄어든 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~받은 (형용사)",
+   "note": "'스트레스를 받은' 상태를 나타내요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "완전히, 끝까지 (completely)",
+   "note": "'완전히 지쳐 버린'이라는 느낌을 더해 줘요."
+  }
+ ],
+ "summary": "<strong>stress</strong> (압박) + <strong>-ed</strong> (받은) + <strong>out</strong> (완전히) = <strong>'스트레스를 잔뜩 받아 완전히 지친'</strong>입니다.",
+ "historyTitle": "꽉 조이는 고통 distress",
+ "historyBody": "stress는 중세 영어 distress가 줄어든 말이고, 고대 프랑스어 destresse(곤경)를 거쳐 라틴어 districtus(양쪽으로 잡아당겨진, 조여진)에서 왔어요. 몸이 압박받는 '스트레스'라는 의미는 20세기에 의학에서 널리 쓰였고, stressed-out은 1980년대 무렵 유행한 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stress",
+   "pos": "명사 / 동사",
+   "meaning": "스트레스, 강조 / 강조하다",
+   "en": "Exercise is a good way to reduce stress.",
+   "ko": "운동은 스트레스를 줄이는 좋은 방법이에요."
+  },
+  {
+   "word": "stressful",
+   "pos": "형용사",
+   "meaning": "스트레스가 많은",
+   "en": "Moving to a new school can be stressful.",
+   "ko": "새 학교로 전학 가는 것은 스트레스가 많을 수 있어요."
+  },
+  {
+   "word": "distress",
+   "pos": "명사",
+   "meaning": "고통, 괴로움",
+   "en": "The lost child was in great distress.",
+   "ko": "길 잃은 아이는 몹시 괴로워했어요."
+  },
+  {
+   "word": "stressor",
+   "pos": "명사",
+   "meaning": "스트레스 요인",
+   "en": "Exams are a major stressor for students.",
+   "ko": "시험은 학생들에게 큰 스트레스 요인이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위 숙제 더미 앞에서 머리를 쥐어뜯는 학생",
+ "imageCaption": "시험 일주일 전, 할 일이 산더미라 머리가 터질 것 같은 기분을 떠올려 보세요.",
+ "movieLineEn": "I'm totally stressed-out. Can we just order pizza?",
+ "movieLineKo": "나 완전 스트레스로 지쳤어. 그냥 피자 시켜 먹으면 안 돼?",
+ "storyTitle": "스트레스 받은 판다",
+ "story": "판다는 요즘 너무 stressed-out(스트레스로 지친) 상태였어요. 관광객 사진 촬영이 가장 큰 stressor(스트레스 요인)였죠. 매일이 stressful(스트레스가 많은) 하루였어요. 사육사가 stress(스트레스)를 풀라고 휴가를 줬어요. 그런데 판다는 휴가 내내 누워서 셀카만 찍었대요. \"남이 찍는 건 싫지만 내가 찍는 건 좋아!\""
+}

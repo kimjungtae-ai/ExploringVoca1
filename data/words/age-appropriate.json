@@ -1,0 +1,80 @@
+{
+ "word": "age-appropriate",
+ "pos": "형용사",
+ "phonetic": "[ˌeɪdʒ əˈproʊpriət]",
+ "meaning": "연령에 맞는, 나이에 적합한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "age",
+   "meaning": "나이 (age)",
+   "note": "고대 프랑스어 aage에서 왔고, 라틴어 aetas(나이, 시대)가 뿌리예요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap-",
+   "meaning": "~에 (to)",
+   "note": "ad-가 p 앞에서 ap-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "propri",
+   "meaning": "자신의, 고유한 (own)",
+   "note": "라틴어 proprius(자기 자신의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 된 (형용사)",
+   "note": "형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>age</strong> (나이) + <strong>ap-</strong> (~에) + <strong>propri</strong> (자신의) + <strong>-ate</strong> = '그 나이에 딱 맞게 된'에서 <strong>'연령에 맞는'</strong>이 되었어요.",
+ "historyTitle": "'내 것으로 삼는' 라틴어 appropriare",
+ "historyBody": "appropriate는 후기 라틴어 appropriare(자기 것으로 삼다)에서 왔어요. '그 사람이나 상황에 고유하게 속한' 것이 곧 '적절한' 것이 되었죠. 여기에 age가 붙은 age-appropriate는 장난감, 책, 영화 등이 아이 나이에 알맞다는 뜻으로 현대에 널리 쓰이는 복합어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appropriate",
+   "pos": "형용사",
+   "meaning": "적절한",
+   "en": "Jeans are not appropriate for a job interview.",
+   "ko": "청바지는 취업 면접에 적절하지 않아요."
+  },
+  {
+   "word": "proper",
+   "pos": "형용사",
+   "meaning": "적절한, 올바른",
+   "en": "Make sure you get proper sleep before the exam.",
+   "ko": "시험 전에 잠을 제대로 자도록 하세요."
+  },
+  {
+   "word": "property",
+   "pos": "명사",
+   "meaning": "재산, 소유물, 특성",
+   "en": "This land is private property.",
+   "ko": "이 땅은 사유지예요."
+  },
+  {
+   "word": "aged",
+   "pos": "형용사",
+   "meaning": "~세의, 나이 든",
+   "en": "The program is for children aged 6 to 12.",
+   "ko": "그 프로그램은 6세에서 12세 아이들을 위한 거예요."
+  },
+  {
+   "word": "teenage",
+   "pos": "형용사",
+   "meaning": "10대의",
+   "en": "Many teenage students worry about their future.",
+   "ko": "많은 10대 학생들이 미래를 걱정해요."
+  }
+ ],
+ "imageSense": "대표 의미: 장난감 상자에 '5~7세용' 표시가 붙어 있는 장면",
+ "imageCaption": "아이 나이에 '딱 맞게' 골라 놓은 책과 장난감을 떠올려 보세요.",
+ "movieLineEn": "Sorry, kid. This movie isn't age-appropriate for you.",
+ "movieLineKo": "미안하다, 꼬마야. 이 영화는 네 나이에 맞지 않아.",
+ "storyTitle": "할머니의 연령 맞춤 선물",
+ "story": "할머니는 손자에게 age-appropriate(연령에 맞는) 선물을 주고 싶었어요. 하지만 손자의 나이를 깜빡했죠. 고민 끝에 appropriate(적절한) 선물로 딸랑이를 골랐어요. 고등학생 손자는 웃으며 받았어요. 그리고 그 딸랑이는 시험 기간에 졸음 깨는 proper(올바른) 도구, 즉 teenage(10대의) 필수품가 되었대요!"
+}

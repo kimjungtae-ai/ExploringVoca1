@@ -1,0 +1,60 @@
+{
+ "word": "destination",
+ "pos": "명사",
+ "phonetic": "[ˌdestɪˈneɪʃn]",
+ "meaning": "목적지, 도착지, 행선지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "완전히 (completely)",
+   "note": "의미를 단단히 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "stin",
+   "meaning": "세우다, 고정하다 (make firm, stand)",
+   "note": "라틴어 destinare(단단히 정하다)의 일부로, stare(서다)와 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>stin</strong> (세워 고정하다) + <strong>-ation</strong> = '단단히 정해 둔 곳'에서 <strong>'목적지'</strong>가 되었어요.",
+ "historyTitle": "미리 정해 둔 곳",
+ "historyBody": "destination은 라틴어 destinare(단단히 고정하다, 정하다)에서 왔어요. '정해진 곳'이 '목적지'가 되었고, 같은 동사에서 하늘이 정해 둔 길인 destiny(운명)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "destiny",
+   "pos": "명사",
+   "meaning": "운명",
+   "en": "She believes it was her destiny to become a doctor.",
+   "ko": "그녀는 의사가 되는 것이 자신의 운명이었다고 믿어요."
+  },
+  {
+   "word": "destined",
+   "pos": "형용사",
+   "meaning": "~할 운명인",
+   "en": "He was destined to be a great leader.",
+   "ko": "그는 위대한 지도자가 될 운명이었어요."
+  },
+  {
+   "word": "obstinate",
+   "pos": "형용사",
+   "meaning": "고집 센",
+   "en": "My little brother is too obstinate to say sorry.",
+   "ko": "내 남동생은 너무 고집이 세서 미안하다고 안 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위에 빨간 핀이 꽂힌 여행 목적지",
+ "imageCaption": "내비게이션 화면에 깃발이 꽂힌 도착 지점을 떠올려 보세요.",
+ "movieLineEn": "The journey matters more than the destination.",
+ "movieLineKo": "목적지보다 여정이 더 중요해.",
+ "storyTitle": "운명의 목적지",
+ "story": "obstinate(고집 센) 아빠는 내비게이션을 무시하고 destination(목적지)을 향해 달렸어요. \"이 길로 가는 게 destiny(운명)야!\" 세 시간 뒤, 우리 가족은 destined(~할 운명인)처럼 출발한 집 앞에 다시 도착했어요. 아빠 왈, \"역시 집이 최고지?\""
+}

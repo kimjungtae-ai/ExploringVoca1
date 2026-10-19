@@ -1,0 +1,68 @@
+{
+ "word": "student council",
+ "pos": "명사구",
+ "phonetic": "[ˈstuːdnt ˈkaʊnsl]",
+ "meaning": "학생회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "student",
+   "meaning": "학생 (student)",
+   "note": "어떤 모임인지 꾸며 주는 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "council",
+   "meaning": "의회, 협의회 (council)",
+   "note": "함께 모여 의논하고 결정하는 모임이에요."
+  }
+ ],
+ "summary": "<strong>student</strong> (학생) + <strong>council</strong> (협의회) = '학생들이 모여 의논하는 회의체'에서 <strong>'학생회'</strong>",
+ "historyTitle": "함께 '불러 모은' 모임",
+ "historyBody": "student는 라틴어 studere(열심히 하다, 공부하다)에서 왔어요. council은 라틴어 concilium에서 왔는데, com-(함께)과 calare(부르다)가 합쳐져 '함께 불러 모은 모임'이라는 뜻이었어요. 그래서 student council은 학생 대표들이 모여 학교 일을 의논하는 학생회를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "council",
+   "pos": "명사",
+   "meaning": "의회, 협의회",
+   "en": "The city council voted to build a new library.",
+   "ko": "시의회는 새 도서관을 짓기로 의결했어요."
+  },
+  {
+   "word": "student body",
+   "pos": "명사구",
+   "meaning": "전교생, 학생 전체",
+   "en": "The student body elected a new president.",
+   "ko": "전교생이 새 회장을 선출했어요."
+  },
+  {
+   "word": "class president",
+   "pos": "명사구",
+   "meaning": "반장",
+   "en": "Minji was chosen as class president.",
+   "ko": "민지가 반장으로 뽑혔어요."
+  },
+  {
+   "word": "study",
+   "pos": "동사 / 명사",
+   "meaning": "공부하다 / 연구",
+   "en": "Scientists study how bees communicate.",
+   "ko": "과학자들은 벌이 어떻게 소통하는지 연구해요."
+  },
+  {
+   "word": "committee",
+   "pos": "명사",
+   "meaning": "위원회",
+   "en": "The festival committee met every Friday.",
+   "ko": "축제 위원회는 매주 금요일에 모였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 학생 대표들이 회의실에 모여 축제 계획을 의논하는 장면",
+ "imageCaption": "교실 책상을 동그랗게 붙이고 학생 대표들이 손을 들어 의견을 내는 모습을 그려 보세요.",
+ "movieLineEn": "If I join the student council, I'll get us longer lunch breaks!",
+ "movieLineKo": "내가 학생회에 들어가면 점심시간을 늘려 줄게!",
+ "storyTitle": "공약의 진실",
+ "story": "class president(반장) 수아는 student council(학생회) 선거에 나가 \"매점에 아이스크림을!\"을 공약했어요. student body(전교생)가 열광했고 수아는 당선됐죠. 첫 committee(위원회) 회의에서 교장 선생님이 허락하셨어요. 단, 아이스크림 맛은 '시금치 맛' 하나뿐이었답니다."
+}

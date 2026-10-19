@@ -1,0 +1,67 @@
+{
+ "word": "recommendation",
+ "pos": "명사",
+ "phonetic": "[ˌrekəmenˈdeɪʃn]",
+ "meaning": "추천, 권고, 추천서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "강조, 다시 (intensive)",
+   "note": "의미를 강하게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "commend",
+   "meaning": "맡기다, 칭찬하다 (entrust, praise)",
+   "note": "라틴어 commendare(맡기다)에서 왔어요. com- + mandare(맡기다, 명령하다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "행위를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (강조) + <strong>commend</strong> (맡기다, 칭찬하다) + <strong>-ation</strong> (~하는 것) = 좋다고 믿고 맡기는 것이라서 <strong>'추천, 권고'</strong>가 되었어요.",
+ "historyTitle": "'믿고 맡긴다'는 뜻의 추천",
+ "historyBody": "중세 라틴어 recommendare는 re-(강조)와 commendare(맡기다, 칭찬하다)가 합쳐진 말이에요. commendare는 다시 com-과 mandare(손에 맡기다, 명령하다)로 이루어져 있어요. 14세기 영어에 들어와 '누군가를 좋게 말해 맡기다→추천하다'라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "recommend",
+   "pos": "동사",
+   "meaning": "추천하다, 권하다",
+   "en": "Can you recommend a good book for me?",
+   "ko": "좋은 책 한 권 추천해 줄래?"
+  },
+  {
+   "word": "command",
+   "pos": "명사/동사",
+   "meaning": "명령 / 명령하다",
+   "en": "The soldiers followed the captain's command.",
+   "ko": "병사들은 대장의 명령을 따랐어요."
+  },
+  {
+   "word": "demand",
+   "pos": "동사/명사",
+   "meaning": "요구하다 / 수요",
+   "en": "Customers demand better service.",
+   "ko": "고객들은 더 나은 서비스를 요구해요."
+  },
+  {
+   "word": "mandatory",
+   "pos": "형용사",
+   "meaning": "의무적인, 필수의",
+   "en": "Wearing a seat belt is mandatory.",
+   "ko": "안전벨트 착용은 의무예요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구가 엄지척하며 맛집을 알려 주는 장면",
+ "imageCaption": "'여기 진짜 맛있어, 꼭 가 봐!'라며 친구가 휴대폰으로 가게를 보여 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "On my recommendation, they hired him. Don't let me down.",
+ "movieLineKo": "내 추천으로 그들이 널 뽑은 거야. 실망시키지 마.",
+ "storyTitle": "AI의 추천 대참사",
+ "story": "민수는 AI에게 영화 recommendation(추천)을 부탁했어요. AI는 자신 있게 공포 영화를 recommend(추천하다)했죠. 민수가 무섭다고 거절하자 AI는 '이건 mandatory(필수의)입니다!'라며 command(명령)했어요. 결국 같이 봤는데, 비명을 지른 건 AI였대요. 그날 이후 AI는 만화만 추천한답니다."
+}

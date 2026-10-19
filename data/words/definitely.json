@@ -1,0 +1,80 @@
+{
+ "word": "definitely",
+ "pos": "부사",
+ "phonetic": "[ˈdefɪnətli]",
+ "meaning": "분명히, 확실히, 틀림없이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "완전히 (completely)",
+   "note": "의미를 단단히 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fin",
+   "meaning": "끝, 경계 (end, boundary)",
+   "note": "라틴어 finis(끝, 경계)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ite",
+   "meaning": "~한 (형용사)",
+   "note": "definite(명확한)라는 형용사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>fin</strong> (경계) + <strong>-ite</strong> + <strong>-ly</strong> = '경계선을 딱 그어 놓은 듯'에서 <strong>'분명히, 확실히'</strong>가 되었어요.",
+ "historyTitle": "경계선을 긋는 로마인",
+ "historyBody": "definite는 라틴어 definire(경계를 정하다, 한정하다)에서 왔고, 그 핵심은 finis(끝, 경계)예요. 땅에 경계선을 딱 그으면 어디까지인지 분명해지죠. 그래서 definitely는 '애매하지 않고 분명하게'라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "define",
+   "pos": "동사",
+   "meaning": "정의하다",
+   "en": "How would you define true friendship?",
+   "ko": "진정한 우정을 어떻게 정의하겠어요?"
+  },
+  {
+   "word": "definition",
+   "pos": "명사",
+   "meaning": "정의",
+   "en": "Check the definition of this word.",
+   "ko": "이 단어의 정의를 확인해 보세요."
+  },
+  {
+   "word": "finish",
+   "pos": "동사",
+   "meaning": "끝내다",
+   "en": "I'll finish my homework before nine.",
+   "ko": "9시 전에 숙제를 끝낼게요."
+  },
+  {
+   "word": "final",
+   "pos": "형용사",
+   "meaning": "마지막의, 최종의",
+   "en": "This is the final question on the test.",
+   "ko": "이게 시험의 마지막 문제예요."
+  },
+  {
+   "word": "infinite",
+   "pos": "형용사",
+   "meaning": "무한한",
+   "en": "Children seem to have infinite energy.",
+   "ko": "아이들은 무한한 에너지를 가진 것 같아요."
+  }
+ ],
+ "imageSense": "대표 의미: 고개를 크게 끄덕이며 엄지를 척 드는 장면",
+ "imageCaption": "'완전 확실해!'라며 자신 있게 고개를 끄덕이는 친구를 떠올려 보세요.",
+ "movieLineEn": "This is definitely the best day of my life!",
+ "movieLineKo": "오늘은 확실히 내 인생 최고의 날이야!",
+ "storyTitle": "확신의 아이콘",
+ "story": "\"이번 시험은 definitely(확실히) 쉬울 거야!\" 수지는 단어의 definition(정의)만 외우고 공부를 finish(끝내다)했어요. 그런데 final(마지막의) 문제는 '사랑을 define(정의하다)하라'였죠. 수지의 답: '사랑은 infinite(무한한) 떡볶이.' 점수는 의외로 만점!"
+}

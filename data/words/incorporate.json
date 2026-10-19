@@ -1,0 +1,67 @@
+{
+ "word": "incorporate",
+ "pos": "동사",
+ "phonetic": "[ɪnˈkɔːrpəreɪt]",
+ "meaning": "통합하다, 포함시키다, (회사를) 법인으로 만들다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에 (in, into)",
+   "note": "안으로 넣는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "corpor",
+   "meaning": "몸 (body)",
+   "note": "라틴어 corpus, corporis(몸)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "동사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>corpor</strong> (몸) + <strong>-ate</strong> (~하게 하다) = '하나의 몸 안에 넣다'라는 뜻에서 <strong>'통합하다, 포함시키다'</strong>가 되었습니다.",
+ "historyTitle": "하나의 몸으로 만들기",
+ "historyBody": "라틴어 'incorporare'는 '몸을 이루게 하다, 한 몸으로 합치다'라는 뜻이었어요. 여러 사람이 모여 법적으로 한 몸이 된 단체가 corporation(기업, 법인)이죠. 그래서 incorporate는 무언가를 전체 안에 녹여 넣는다는 뜻으로 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "corporation",
+   "pos": "명사",
+   "meaning": "기업, 법인 (한 몸이 된 단체)",
+   "en": "He works for a large corporation.",
+   "ko": "그는 대기업에서 일해요."
+  },
+  {
+   "word": "corporate",
+   "pos": "형용사",
+   "meaning": "기업의, 법인의",
+   "en": "The company changed its corporate logo.",
+   "ko": "그 회사는 기업 로고를 바꿨어요."
+  },
+  {
+   "word": "corps",
+   "pos": "명사",
+   "meaning": "군단, 단체",
+   "en": "She joined the Peace Corps after college.",
+   "ko": "그녀는 대학 졸업 후 평화봉사단에 들어갔어요."
+  },
+  {
+   "word": "corpse",
+   "pos": "명사",
+   "meaning": "시체",
+   "en": "The detective found a corpse in the old house.",
+   "ko": "형사는 낡은 집에서 시체를 발견했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 색 반죽이 섞여 한 덩어리 빵이 되는 장면",
+ "imageCaption": "따로 놀던 재료들이 하나의 몸으로 섞여 들어가는 모습을 떠올려 보세요. 그게 incorporate예요.",
+ "movieLineEn": "We'll incorporate your ideas into the final plan.",
+ "movieLineKo": "네 아이디어를 최종 계획에 포함시킬게.",
+ "storyTitle": "할아버지 회사의 신메뉴",
+ "story": "할아버지의 작은 떡집이 corporation(기업)으로 커졌어요. 손녀는 '요즘 감성을 incorporate(포함시키다)해야 해요!'라며 떡에 치즈를 넣자고 했죠. corporate(기업의) 회의 끝에 치즈떡이 나왔는데, 대박이 났어요. 할아버지는 이제 corps(단체) 견학까지 받는대요. 비법은 손녀 간식이었답니다."
+}

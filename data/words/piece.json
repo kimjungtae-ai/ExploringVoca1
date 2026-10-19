@@ -1,0 +1,48 @@
+{
+ "word": "piece",
+ "pos": "명사",
+ "phonetic": "[piːs]",
+ "meaning": "조각, 부분, 한 개, (예술) 작품",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "piece",
+   "meaning": "조각 (piece)",
+   "note": "고대 프랑스어 piece, 중세 라틴어 pecia에서 왔고 그 이전 기원은 분명하지 않아요."
+  }
+ ],
+ "summary": "<strong>piece</strong> (조각) = 전체에서 떨어진 한 부분, 곧 <strong>'조각, 한 개, 작품'</strong>이에요.",
+ "historyTitle": "켈트족에게서 왔을지도 모르는 '조각'",
+ "historyBody": "piece는 1200년대 고대 프랑스어 piece(조각, 부분)를 통해 영어에 들어왔어요. 중세 라틴어 pecia, petia로 거슬러 올라가는데, 이 말은 갈리아(켈트)어에서 왔을 것으로 추정될 뿐 확실하지 않아요. 그래서 접두사나 어근으로 쪼개지 않고 한 덩어리로 외우는 것이 정확해요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "masterpiece",
+   "pos": "명사",
+   "meaning": "걸작, 명작",
+   "en": "The Mona Lisa is a masterpiece of Renaissance art.",
+   "ko": "모나리자는 르네상스 미술의 걸작이에요."
+  },
+  {
+   "word": "apiece",
+   "pos": "부사",
+   "meaning": "하나에, 각각",
+   "en": "The cookies cost two dollars apiece.",
+   "ko": "그 쿠키는 하나에 2달러예요."
+  },
+  {
+   "word": "piecemeal",
+   "pos": "형용사/부사",
+   "meaning": "조금씩의, 단편적으로",
+   "en": "The old house was repaired piecemeal over many years.",
+   "ko": "그 낡은 집은 여러 해에 걸쳐 조금씩 수리되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 접시 위에 놓인 피자 한 조각",
+ "imageCaption": "큰 피자에서 한 조각을 쭉 떼어 내는 장면을 떠올려 보세요.",
+ "movieLineEn": "Give me just one more piece of cake, please!",
+ "movieLineKo": "케이크 딱 한 조각만 더 주세요!",
+ "storyTitle": "피자 한 조각의 비밀",
+ "story": "요리사가 piece(조각)마다 다른 맛을 낸 피자를 masterpiece(걸작)라 불렀어요. 손님들은 apiece(하나에) 만 원씩 냈죠. 그런데 piecemeal(조금씩) 맛보던 손님이 외쳤어요. \"마지막 조각은 그냥 상자 그림이잖아요!\" 요리사 왈, \"그건 piece(작품)라서 보는 용이에요.\""
+}

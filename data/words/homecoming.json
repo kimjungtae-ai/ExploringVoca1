@@ -1,0 +1,61 @@
+{
+ "word": "homecoming",
+ "pos": "명사",
+ "phonetic": "[ˈhoʊmkʌmɪŋ]",
+ "meaning": "귀향, 귀가, (학교) 동문 모임 행사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "home",
+   "meaning": "집, 고향 (home)",
+   "note": "고대 영어 hām(마을, 집)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "coming",
+   "meaning": "오는 것 (coming)",
+   "note": "come(오다)에 -ing이 붙은 말이에요."
+  }
+ ],
+ "summary": "<strong>home</strong> (집, 고향) + <strong>coming</strong> (오는 것) = 집으로 돌아오는 것이라는 뜻에서 <strong>'귀향, 귀가'</strong>가 되었어요.",
+ "historyTitle": "돌아오는 기쁨을 기념하는 날",
+ "historyBody": "homecoming은 14세기부터 쓰인 말로, 먼 곳에서 고향이나 집으로 돌아오는 것을 뜻했어요. home은 고대 영어 hām(마을, 집)에서 왔어요. 20세기 미국에서는 졸업생들이 모교로 돌아와 축제를 즐기는 'homecoming' 행사가 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "homesick",
+   "pos": "형용사",
+   "meaning": "향수병의, 집을 그리워하는",
+   "en": "She felt homesick during her first week abroad.",
+   "ko": "그녀는 해외에서의 첫 주 동안 향수병을 느꼈어."
+  },
+  {
+   "word": "hometown",
+   "pos": "명사",
+   "meaning": "고향",
+   "en": "My grandparents still live in their hometown.",
+   "ko": "조부모님은 아직 고향에 사셔."
+  },
+  {
+   "word": "homeless",
+   "pos": "형용사",
+   "meaning": "집 없는, 노숙의",
+   "en": "The group helps homeless people in winter.",
+   "ko": "그 단체는 겨울에 노숙인들을 도와."
+  },
+  {
+   "word": "income",
+   "pos": "명사",
+   "meaning": "수입, 소득",
+   "en": "His monthly income has increased.",
+   "ko": "그의 월수입이 늘었어."
+  }
+ ],
+ "imageSense": "대표 의미: 오랜만에 고향 집 문을 열고 가족과 껴안는 장면",
+ "imageCaption": "명절에 기차에서 내려 마중 나온 가족에게 달려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Welcome back! We've planned a big homecoming party for you.",
+ "movieLineKo": "돌아온 걸 환영해! 너를 위해 큰 귀향 파티를 준비했어.",
+ "storyTitle": "우주인의 귀향",
+ "story": "homesick(향수병의) 우주인은 드디어 homecoming(귀향)을 했어요. hometown(고향) 사람들은 성대한 환영 파티를 열었죠. 그는 우주에서 번 income(수입)으로 마을에 선물을 돌렸어요. 그런데 집에 가 보니 대문 비밀번호가 바뀌어 있었어요. 잠깐 homeless(집 없는) 신세가 된 그는 결국 우주선에서 하룻밤을 더 잤대요!"
+}

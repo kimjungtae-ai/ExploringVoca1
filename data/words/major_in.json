@@ -1,0 +1,68 @@
+{
+ "word": "major in",
+ "pos": "구동사",
+ "phonetic": "[ˈmeɪdʒər ɪn]",
+ "meaning": "~을 전공하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "major",
+   "meaning": "전공하다, 주요한 (major)",
+   "note": "라틴어 magnus(큰)의 비교급 maior(더 큰)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에서, ~ 분야에서 (in)",
+   "note": "어떤 분야 '안'에 깊이 들어가 공부한다는 느낌을 줘요."
+  }
+ ],
+ "summary": "<strong>major</strong> (주된 것으로 삼다) + <strong>in</strong> (~ 분야에서) = '어떤 분야를 가장 큰 공부로 삼다'에서 <strong>'~을 전공하다'</strong>",
+ "historyTitle": "'더 큰'에서 '전공'으로",
+ "historyBody": "major는 라틴어 maior(더 큰)에서 왔어요. 미국 대학에서 '가장 중심이 되는 과목'을 major subject라 부르다가, 20세기 초 무렵 '전공하다'라는 동사로도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "major",
+   "pos": "명사 / 형용사",
+   "meaning": "전공 / 주요한",
+   "en": "What is your major at university?",
+   "ko": "대학에서 전공이 뭐예요?"
+  },
+  {
+   "word": "majority",
+   "pos": "명사",
+   "meaning": "대다수, 과반수",
+   "en": "The majority of students voted for the plan.",
+   "ko": "대다수의 학생이 그 계획에 찬성했어요."
+  },
+  {
+   "word": "minor in",
+   "pos": "구동사",
+   "meaning": "~을 부전공하다",
+   "en": "She majored in biology and minored in art.",
+   "ko": "그녀는 생물학을 전공하고 미술을 부전공했어요."
+  },
+  {
+   "word": "specialize in",
+   "pos": "구동사",
+   "meaning": "~을 전문으로 하다",
+   "en": "This hospital specializes in children's health.",
+   "ko": "이 병원은 어린이 건강을 전문으로 해요."
+  },
+  {
+   "word": "mayor",
+   "pos": "명사",
+   "meaning": "시장",
+   "en": "The mayor opened the new bridge yesterday.",
+   "ko": "시장이 어제 새 다리를 개통했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 대학생이 두꺼운 전공 서적을 안고 강의실로 가는 장면",
+ "imageCaption": "대학교에서 여러 과목 중 가장 '큰' 비중으로 공부하는 분야를 고르는 모습을 떠올려 보세요.",
+ "movieLineEn": "I majored in chemistry, not magic!",
+ "movieLineKo": "난 마법이 아니라 화학을 전공했다고!",
+ "storyTitle": "전공 선택의 반전",
+ "story": "형은 컴퓨터를 major in(~을 전공하다)하고 싶었어요. 하지만 majority(대다수) 친구들이 경영학을 골랐죠. 고민하던 형은 요리를 minor in(~을 부전공하다)하기로 했어요. 결국 형은 코딩하는 로봇 셰프를 만들어 식당을 차렸답니다!"
+}

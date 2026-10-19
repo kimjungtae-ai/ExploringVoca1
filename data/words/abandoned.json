@@ -1,0 +1,74 @@
+{
+ "word": "abandoned",
+ "pos": "형용사",
+ "phonetic": "[əˈbændənd]",
+ "meaning": "버려진, 유기된, 방치된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "a-",
+   "meaning": "~에, ~의 아래로 (to, at)",
+   "note": "고대 프랑스어 'à(~에)'에서 온 부분이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "bandon",
+   "meaning": "권한, 통제 (power, control)",
+   "note": "누군가의 지배나 처분 아래에 둔다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사형 형용사)",
+   "note": "동사 abandon을 '버려진'이라는 상태로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>a-</strong> (~에) + <strong>bandon</strong> (통제, 처분) = '남의 처분에 맡겨 버리다'에서 abandon이 나오고, <strong>-ed</strong>가 붙어 <strong>'버려진, 방치된'</strong>이 되었어요.",
+ "historyTitle": "'남의 손에 맡긴다'는 중세 프랑스어 표현",
+ "historyBody": "고대 프랑스어 'à bandon'은 '누군가의 권한(처분) 아래에'라는 뜻이었어요. 여기서 '완전히 남에게 넘겨 버리다'라는 동사 abandoner가 생겼고, 영어로 들어와 abandon이 되었어요. bandon은 '명령, 금지'를 뜻하는 게르만계 단어 ban과 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "abandon",
+   "pos": "동사",
+   "meaning": "버리다, 포기하다",
+   "en": "They had to abandon the car in the deep snow.",
+   "ko": "그들은 깊은 눈 속에 차를 버리고 가야 했어요."
+  },
+  {
+   "word": "abandonment",
+   "pos": "명사",
+   "meaning": "포기, 유기",
+   "en": "The abandonment of pets is a serious problem in big cities.",
+   "ko": "반려동물 유기는 대도시의 심각한 문제예요."
+  },
+  {
+   "word": "ban",
+   "pos": "동사/명사",
+   "meaning": "금지하다 / 금지",
+   "en": "The school decided to ban phones during class.",
+   "ko": "학교는 수업 중 휴대폰을 금지하기로 결정했어요."
+  },
+  {
+   "word": "banish",
+   "pos": "동사",
+   "meaning": "추방하다, 내쫓다",
+   "en": "The king banished the dishonest minister from the country.",
+   "ko": "왕은 정직하지 못한 신하를 나라에서 추방했어요."
+  },
+  {
+   "word": "bandit",
+   "pos": "명사",
+   "meaning": "산적, 강도",
+   "en": "The bandits hid in the mountains for many years.",
+   "ko": "산적들은 여러 해 동안 산속에 숨어 지냈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아무도 살지 않아 덩굴이 뒤덮인 낡은 집",
+ "imageCaption": "창문은 깨지고 마당엔 잡초가 무성한 빈집을 떠올려 보세요. 누군가 '손을 놓아 버린' 곳이에요.",
+ "movieLineEn": "Nobody has lived in this abandoned house for fifty years.",
+ "movieLineKo": "50년 동안 아무도 이 버려진 집에 살지 않았어.",
+ "storyTitle": "버려진 놀이공원의 진짜 주인",
+ "story": "탐험대는 abandoned(버려진) 놀이공원에 들어갔어요. 입구엔 출입 ban(금지) 표지판이 있었죠. 대원들은 겁먹고 탐험을 abandon(포기하다)하려 했는데, 회전목마 뒤에서 bandit(산적)이 아니라 고양이 열 마리가 튀어나왔어요. 사실 이곳은 고양이 왕국이었답니다!"
+}

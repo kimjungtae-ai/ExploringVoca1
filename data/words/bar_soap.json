@@ -1,0 +1,68 @@
+{
+ "word": "bar soap",
+ "pos": "명사구",
+ "phonetic": "[bɑːr soʊp]",
+ "meaning": "고체 비누, 막대 비누",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "bar",
+   "meaning": "막대, 덩어리 (block)",
+   "note": "초콜릿 바처럼 단단한 직육면체 덩어리예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "soap",
+   "meaning": "비누 (soap)",
+   "note": "아주 오래된 게르만어 단어예요."
+  }
+ ],
+ "summary": "<strong>bar</strong> (덩어리) + <strong>soap</strong> (비누) = <strong>'덩어리 모양의 고체 비누'</strong>예요.",
+ "historyTitle": "게르만족의 비누, sāpe",
+ "historyBody": "soap는 고대 영어 sāpe에서 왔고 게르만어에서 널리 쓰인 단어예요. 로마의 플리니우스는 게르만족과 갈리아족이 쓰던 '사포(sapo)'를 머리 염색용으로 기록했어요. 요즘은 플라스틱 용기가 필요 없는 bar soap가 친환경 제품으로 다시 인기를 얻고 있죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "liquid soap",
+   "pos": "명사구",
+   "meaning": "물비누",
+   "en": "Liquid soap comes in plastic bottles.",
+   "ko": "물비누는 플라스틱 병에 담겨 나와요."
+  },
+  {
+   "word": "chocolate bar",
+   "pos": "명사구",
+   "meaning": "초콜릿 바",
+   "en": "He shared his chocolate bar with me.",
+   "ko": "그는 초콜릿 바를 나와 나눠 먹었어요."
+  },
+  {
+   "word": "soap opera",
+   "pos": "명사구",
+   "meaning": "연속극, 드라마",
+   "en": "My grandma watches a soap opera every evening.",
+   "ko": "할머니는 매일 저녁 연속극을 보세요."
+  },
+  {
+   "word": "detergent",
+   "pos": "명사",
+   "meaning": "세제",
+   "en": "Use less detergent to protect the water.",
+   "ko": "물을 보호하려면 세제를 덜 쓰세요."
+  },
+  {
+   "word": "plastic-free",
+   "pos": "형용사",
+   "meaning": "플라스틱이 없는",
+   "en": "She is trying to live a plastic-free life.",
+   "ko": "그녀는 플라스틱 없는 삶을 살려고 노력해요."
+  }
+ ],
+ "imageSense": "대표 의미: 욕실 비누 받침 위에 놓인 네모난 고체 비누",
+ "imageCaption": "손에서 미끄러지는 단단한 네모 비누를 떠올려 보세요.",
+ "movieLineEn": "Don't drop the bar soap. That floor is slippery!",
+ "movieLineKo": "고체 비누 떨어뜨리지 마. 바닥 미끄러워!",
+ "storyTitle": "환경 지킴이의 실수",
+ "story": "환경을 위해 liquid soap(물비누) 대신 bar soap(고체 비누)를 샀어요. plastic-free(플라스틱이 없는) 생활의 시작이었죠. 그런데 동생이 그걸 chocolate bar(초콜릿 바)인 줄 알고 한 입 베어 물었어요. 그날 동생 입에서 거품이 계속 나왔답니다!"
+}

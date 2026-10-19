@@ -1,0 +1,61 @@
+{
+ "word": "studio",
+ "pos": "명사",
+ "phonetic": "[ˈstuːdioʊ]",
+ "meaning": "작업실, 스튜디오, 원룸",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stud-",
+   "meaning": "열심, 공부 (zeal, study)",
+   "note": "라틴어 studium(열의, 공부)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-io",
+   "meaning": "장소·것 (이탈리아어 어미)",
+   "note": "이탈리아어 studio의 어미로 '공부하는 곳'을 뜻하게 됐어요."
+  }
+ ],
+ "summary": "<strong>stud-</strong> (열심히 공부함) + <strong>-io</strong> = '열중해서 작업하는 곳'이라는 뜻에서 <strong>'작업실, 스튜디오'</strong>가 되었어요.",
+ "historyTitle": "화가들의 공부방",
+ "historyBody": "studio는 라틴어 studium(열의, 공부)에서 나온 이탈리아어 studio를 19세기에 영어가 빌려 온 말이에요. 처음에는 화가나 조각가의 작업실을 가리켰고, 이후 사진·방송·영화 촬영실로 뜻이 넓어졌어요. study, student도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "study",
+   "pos": "동사 / 명사",
+   "meaning": "공부하다, 연구하다 / 연구",
+   "en": "I study English for an hour every morning.",
+   "ko": "나는 매일 아침 한 시간씩 영어를 공부해요."
+  },
+  {
+   "word": "student",
+   "pos": "명사",
+   "meaning": "학생",
+   "en": "Every student in the class joined the project.",
+   "ko": "반의 모든 학생이 그 프로젝트에 참여했어요."
+  },
+  {
+   "word": "studious",
+   "pos": "형용사",
+   "meaning": "학구적인, 열심히 공부하는",
+   "en": "My studious cousin reads three books a week.",
+   "ko": "학구적인 내 사촌은 일주일에 책을 세 권 읽어요."
+  },
+  {
+   "word": "studied",
+   "pos": "형용사",
+   "meaning": "신중한, 계획된",
+   "en": "He answered with a studied calmness.",
+   "ko": "그는 계산된 듯한 침착함으로 대답했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 조명과 카메라가 설치된 촬영 스튜디오",
+ "imageCaption": "밝은 조명 아래 카메라와 마이크가 있는 방송 스튜디오를 떠올려 보세요. '열심히 작업하는 방'이에요.",
+ "movieLineEn": "Quiet, everyone! We're recording in the studio now.",
+ "movieLineKo": "모두 조용! 지금 스튜디오에서 녹음 중이야.",
+ "storyTitle": "스튜디오의 범인",
+ "story": "studious(학구적인) 학생 지우는 방송 studio(스튜디오)에서 영어 study(공부) 영상을 찍었어요. 그런데 녹음할 때마다 '꼬르륵' 소리가 들렸죠. 모든 student(학생) 스태프가 범인을 찾다가 결국 알아냈어요. 마이크가 바로 지우 배 앞에 있었던 거예요. 아침을 거른 대가였답니다!"
+}

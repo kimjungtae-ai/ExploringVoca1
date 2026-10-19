@@ -1,0 +1,67 @@
+{
+ "word": "description",
+ "pos": "명사",
+ "phonetic": "[dɪˈskrɪpʃn]",
+ "meaning": "묘사, 설명, 서술",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로, 완전히 (down, fully)",
+   "note": "아래로 죽 써 내려간다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "script",
+   "meaning": "쓰다 (write)",
+   "note": "라틴어 scribere(쓰다)의 과거분사 scriptus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (아래로) + <strong>script</strong> (쓰다) + <strong>-ion</strong> = '본 것을 죽 써 내려감'에서 <strong>'묘사, 설명'</strong>이 되었어요.",
+ "historyTitle": "본 것을 그대로 적어 내리기",
+ "historyBody": "description은 라틴어 describere(베껴 쓰다, 묘사하다)에서 왔어요. 그림을 따라 그리듯 대상을 말로 그대로 옮겨 적는다는 뜻이었죠. scribere(쓰다)는 script, scribble 같은 많은 단어의 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "describe",
+   "pos": "동사",
+   "meaning": "묘사하다, 설명하다",
+   "en": "Can you describe the man you saw?",
+   "ko": "당신이 본 남자를 묘사할 수 있나요?"
+  },
+  {
+   "word": "script",
+   "pos": "명사",
+   "meaning": "대본",
+   "en": "The actors practiced the script all day.",
+   "ko": "배우들은 하루 종일 대본을 연습했어요."
+  },
+  {
+   "word": "subscribe",
+   "pos": "동사",
+   "meaning": "구독하다",
+   "en": "I subscribe to a science channel.",
+   "ko": "나는 과학 채널을 구독해요."
+  },
+  {
+   "word": "prescription",
+   "pos": "명사",
+   "meaning": "처방(전)",
+   "en": "You need a prescription for this medicine.",
+   "ko": "이 약은 처방전이 있어야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 탐정이 목격자의 말을 수첩에 빠르게 받아 적는 장면",
+ "imageCaption": "눈에 보이는 모습을 말로 그림 그리듯 적어 내려가는 장면을 떠올려 보세요.",
+ "movieLineEn": "Your description of the thief was perfect. We caught him!",
+ "movieLineKo": "네가 말한 도둑 인상착의가 완벽했어. 잡았다고!",
+ "storyTitle": "몽타주의 주인공",
+ "story": "경찰이 목격자에게 범인을 describe(묘사하다)해 달라고 했어요. 목격자의 description(묘사)을 script(대본)처럼 받아 적어 몽타주를 그렸죠. 완성된 그림을 본 경찰들이 모두 뒤를 돌아봤어요. 그림 속 얼굴은… 바로 반장님이었거든요! 범인은 반장님 쌍둥이 동생이었대요."
+}

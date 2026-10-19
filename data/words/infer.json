@@ -1,0 +1,75 @@
+{
+ "word": "infer",
+ "pos": "동사",
+ "phonetic": "[ɪnˈfɜːr]",
+ "meaning": "추론하다, 암시하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안으로 들여온다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "나르다 (carry, bring)",
+   "note": "라틴어 ferre(나르다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>fer</strong> (나르다) = '단서를 머릿속으로 날라 와 결론을 끌어내다'라는 뜻에서 <strong>'추론하다'</strong>가 되었습니다.",
+ "historyTitle": "결론을 날라 오는 생각",
+ "historyBody": "라틴어 'inferre'는 '안으로 가져오다, 끌어들이다'라는 뜻이었어요. 16세기부터 논리학에서 '근거로부터 결론을 끌어내다'라는 의미로 쓰였죠. 수능 영어의 '추론' 문제가 바로 inference랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "transfer",
+   "pos": "동사 / 명사",
+   "meaning": "옮기다, 갈아타다 / 이동",
+   "en": "You need to transfer to another bus.",
+   "ko": "다른 버스로 갈아타야 해요."
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참조하다",
+   "en": "Please refer to the map on page 10.",
+   "ko": "10쪽의 지도를 참고하세요."
+  },
+  {
+   "word": "prefer",
+   "pos": "동사",
+   "meaning": "더 좋아하다",
+   "en": "I prefer tea to coffee.",
+   "ko": "나는 커피보다 차를 더 좋아해요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사 / 명사",
+   "meaning": "제안하다 / 제안",
+   "en": "He offered to help me with my bags.",
+   "ko": "그는 내 가방을 들어 주겠다고 했어요."
+  },
+  {
+   "word": "inference",
+   "pos": "명사",
+   "meaning": "추론",
+   "en": "Make an inference from the clues in the text.",
+   "ko": "글의 단서를 보고 추론해 보세요."
+  },
+  {
+   "word": "conference",
+   "pos": "명사",
+   "meaning": "회의",
+   "en": "The conference will be held in Seoul.",
+   "ko": "그 회의는 서울에서 열릴 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 발자국과 흙 묻은 신발을 보고 범인을 맞히는 탐정",
+ "imageCaption": "흩어진 단서를 하나씩 머릿속으로 가져와 결론을 만드는 모습을 떠올려 보세요. 그게 infer예요.",
+ "movieLineEn": "From the mud on your boots, I infer you've been to the farm.",
+ "movieLineKo": "네 부츠의 진흙을 보니 농장에 다녀왔다고 추론되는군.",
+ "storyTitle": "꼬마 탐정의 추론",
+ "story": "꼬마 탐정 서윤이는 입가의 초콜릿을 보고 동생이 과자를 먹었다고 infer(추론하다)했어요. 동생은 '나는 사탕을 prefer(더 좋아하다)해!'라며 부인했죠. 서윤이는 이 inference(추론)를 엄마에게 보고하며 증거를 offer(제시하다)했어요. 그런데 엄마 입가에도 초콜릿이 묻어 있었어요!"
+}

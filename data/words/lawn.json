@@ -1,0 +1,41 @@
+{
+ "word": "lawn",
+ "pos": "명사",
+ "phonetic": "[lɔːn]",
+ "meaning": "잔디밭, 잔디",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "launde",
+   "meaning": "숲속 빈터, 풀밭 (glade)",
+   "note": "중세 영어 launde, 고대 프랑스어 lande(황무지, 풀밭)에서 왔어요."
+  }
+ ],
+ "summary": "중세 영어 <strong>launde</strong> (숲속 빈터) = 나무 사이의 탁 트인 풀밭에서 <strong>'잔디밭'</strong>이 되었어요.",
+ "historyTitle": "숲속 빈터에서 앞마당으로",
+ "historyBody": "lawn은 중세 영어 launde('숲속의 빈터, 풀밭')에서 왔고, 이는 고대 프랑스어 lande('황무지, 풀밭')에서 들어왔어요. lande는 켈트어(갈리아어)에서 왔다고 보는데, 영어 land와 아주 먼 친척이에요. 16세기쯤 모양이 lawn으로 바뀌었고, 오늘날의 '잘 깎은 잔디밭'이라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lawnmower",
+   "pos": "명사",
+   "meaning": "잔디 깎는 기계",
+   "en": "My dad uses the lawnmower every Saturday.",
+   "ko": "아빠는 토요일마다 잔디 깎는 기계를 사용하세요."
+  },
+  {
+   "word": "land",
+   "pos": "명사",
+   "meaning": "땅, 육지",
+   "en": "After a long voyage, the sailors finally saw land.",
+   "ko": "긴 항해 끝에 선원들은 마침내 육지를 보았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 집 앞 푸른 잔디밭에서 강아지가 뛰어노는 장면",
+ "imageCaption": "초록 카펫처럼 짧고 고르게 깎인 풀밭을 떠올려 보세요.",
+ "movieLineEn": "Get off my lawn, kids!",
+ "movieLineKo": "얘들아, 내 잔디밭에서 나가!",
+ "storyTitle": "잔디밭 지킴이",
+ "story": "할아버지는 lawn(잔디밭)을 세상에서 제일 아끼셨어요. 매일 lawnmower(잔디 깎는 기계)로 풀을 다듬고 '이 land(땅)는 내 보물'이라고 하셨죠. 어느 날 두더지가 잔디밭에 구멍을 뚫자 할아버지는 화가 나셨어요. 그런데 구멍에서 나온 건 오래전 잃어버린 할머니의 반지였어요!"
+}

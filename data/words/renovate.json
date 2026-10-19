@@ -1,0 +1,74 @@
+{
+ "word": "renovate",
+ "pos": "동사",
+ "phonetic": "[ˈrenəveɪt]",
+ "meaning": "개조하다, 보수하다, 수리하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nov",
+   "meaning": "새로운 (new)",
+   "note": "라틴어 novus(새로운)에서 왔어요. 영어 new와 먼 친척이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 만들다 (동사를 만듦)",
+   "note": "라틴어 동사 과거분사 -atus에서 온 동사 어미예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>nov</strong> (새로운) + <strong>-ate</strong> (~하게 하다) = '다시 새것으로 만들다'에서 <strong>'개조하다, 보수하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 novus, 새로움의 뿌리",
+ "historyBody": "renovate는 라틴어 renovare(새롭게 하다)의 과거분사 renovatus에서 16세기에 영어로 들어왔어요. 뿌리인 novus(새로운)는 영어 new와 같은 인도유럽어 조상에서 갈라진 형제 단어예요. 그래서 novel(새로운, 소설), innovate(혁신하다)도 모두 '새로움'과 관련이 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renovation",
+   "pos": "명사",
+   "meaning": "개조, 보수",
+   "en": "The renovation of the old school took a year.",
+   "ko": "오래된 학교의 보수 공사는 1년이 걸렸어요."
+  },
+  {
+   "word": "innovate",
+   "pos": "동사",
+   "meaning": "혁신하다",
+   "en": "Companies must innovate to survive in a changing market.",
+   "ko": "기업은 변화하는 시장에서 살아남기 위해 혁신해야 해요."
+  },
+  {
+   "word": "innovation",
+   "pos": "명사",
+   "meaning": "혁신",
+   "en": "The smartphone was a great innovation in communication.",
+   "ko": "스마트폰은 통신 분야의 위대한 혁신이었어요."
+  },
+  {
+   "word": "novel",
+   "pos": "형용사 / 명사",
+   "meaning": "새로운, 참신한 / 소설",
+   "en": "She came up with a novel idea for the school festival.",
+   "ko": "그녀는 학교 축제를 위한 참신한 아이디어를 떠올렸어요."
+  },
+  {
+   "word": "novice",
+   "pos": "명사",
+   "meaning": "초보자",
+   "en": "As a novice, he made many mistakes in his first game.",
+   "ko": "초보자였던 그는 첫 경기에서 실수를 많이 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 낡은 집을 고쳐 새집처럼 바꾸는 공사 장면",
+ "imageCaption": "벽지가 벗겨진 오래된 집이 망치 소리와 함께 반짝이는 카페로 변신하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We're going to renovate this old barn into a dream house!",
+ "movieLineKo": "우리는 이 낡은 헛간을 꿈의 집으로 개조할 거야!",
+ "storyTitle": "초보 목수의 리모델링",
+ "story": "novice(초보자) 목수 철수는 할머니 집을 renovate(개조하다)하기로 했어요. novel(참신한) 아이디어로 innovation(혁신)을 꿈꿨죠. 벽을 허물고 창문을 바꾸는 큰 renovation(보수 공사) 끝에, 철수는 깨달았어요. 문을 다는 걸 깜빡해서 할머니가 창문으로 드나드신다는 걸요!"
+}

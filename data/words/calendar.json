@@ -1,0 +1,61 @@
+{
+ "word": "calendar",
+ "pos": "명사",
+ "phonetic": "[ˈkælɪndər]",
+ "meaning": "달력, 일정표",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "calend (← kalendae)",
+   "meaning": "초하루, 매달 첫날 (first day of the month)",
+   "note": "로마인들은 매달 첫날을 Kalendae라고 불렀어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar (← -arium)",
+   "meaning": "~에 관한 것, ~을 적은 장부",
+   "note": "라틴어 -arium(~을 두는 곳, ~에 관한 것)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>calend</strong> (매달 첫날) + <strong>-ar</strong> (~에 관한 장부) = '매달 첫날 갚을 빚을 적은 장부'에서 <strong>'달력'</strong>이 되었어요.",
+ "historyTitle": "로마의 빚 갚는 날",
+ "historyBody": "고대 로마에서는 매달 첫날(Kalendae)에 그달의 날짜를 큰 소리로 선포했고, 이날이 빚을 갚는 날이기도 했어요. 그래서 라틴어 calendarium은 원래 '빚 장부'였다가 '날짜를 적은 표', 즉 달력이 되었죠. Kalendae는 '외치다, 선포하다'라는 뜻의 calare에서 왔다고 봐요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "council",
+   "pos": "명사",
+   "meaning": "의회, 위원회",
+   "en": "The student council planned the school festival.",
+   "ko": "학생회가 학교 축제를 계획했어."
+  },
+  {
+   "word": "claim",
+   "pos": "동사 / 명사",
+   "meaning": "주장하다 / 주장",
+   "en": "He claimed that he had seen a UFO.",
+   "ko": "그는 UFO를 봤다고 주장했어."
+  },
+  {
+   "word": "exclaim",
+   "pos": "동사",
+   "meaning": "외치다, 소리치다",
+   "en": "\"What a beautiful view!\" she exclaimed.",
+   "ko": "\"경치 정말 멋지다!\" 그녀가 외쳤어."
+  },
+  {
+   "word": "proclaim",
+   "pos": "동사",
+   "meaning": "선포하다, 공표하다",
+   "en": "The king proclaimed a national holiday.",
+   "ko": "왕은 국경일을 선포했어."
+  }
+ ],
+ "imageSense": "대표 의미: 벽에 걸린 달력에 중요한 날짜를 동그라미 친 장면",
+ "imageCaption": "벽에 걸린 달력에 빨간 펜으로 '시험 D-day'를 동그라미 치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Mark your calendar. Next Friday will change everything.",
+ "movieLineKo": "달력에 표시해 둬. 다음 주 금요일에 모든 게 바뀔 거야.",
+ "storyTitle": "달력 속 비밀 날짜",
+ "story": "현수는 calendar(달력)에 빨간 동그라미가 쳐진 날을 발견했어요. 동생은 그날이 자기 생일이라고 claim(주장하다)했고, 아빠는 결혼기념일이라고 exclaim(외치다)했죠. 결국 가족 council(회의)이 열렸어요. 엄마가 웃으며 proclaim(선포하다)했어요. '그날은 대청소의 날이야!'"
+}

@@ -1,0 +1,48 @@
+{
+ "word": "wet",
+ "pos": "형용사 / 동사",
+ "phonetic": "[wet]",
+ "meaning": "젖은, 축축한, 비 오는 / 적시다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "wet (← 고대 영어 wæt)",
+   "meaning": "젖은 (wet)",
+   "note": "water와 같은 뿌리를 가진 아주 오래된 게르만어 단어라 더 나눌 수 없어요."
+  }
+ ],
+ "summary": "고대 영어 <strong>wæt</strong> (젖은)에서 와서 water와 같은 뿌리를 가진 <strong>'젖은, 축축한'</strong>이 되었어요.",
+ "historyTitle": "물(water)과 한 가족",
+ "historyBody": "wet은 고대 영어 wæt에서 왔고, water(물)와 같은 게르만어 뿌리에서 나왔어요. 그래서 '물에 닿은 상태'를 뜻하게 된 거죠. 'wet season(우기)'처럼 '비가 많이 오는'이라는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "water",
+   "pos": "명사",
+   "meaning": "물",
+   "en": "The children splashed in the water.",
+   "ko": "아이들이 물에서 첨벙거리며 놀았어요."
+  },
+  {
+   "word": "wetland",
+   "pos": "명사",
+   "meaning": "습지",
+   "en": "Many birds live in the wetland.",
+   "ko": "많은 새들이 그 습지에 살아요."
+  },
+  {
+   "word": "wetness",
+   "pos": "명사",
+   "meaning": "습기, 젖음",
+   "en": "The wetness of the ground made the field slippery.",
+   "ko": "땅이 젖어 있어서 운동장이 미끄러웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 갑자기 내린 소나기에 흠뻑 젖은 학생",
+ "imageCaption": "우산 없이 소나기를 맞아 머리부터 발끝까지 젖은 모습을 떠올려 보세요.",
+ "movieLineEn": "Get out of those wet clothes before you catch a cold!",
+ "movieLineKo": "감기 걸리기 전에 그 젖은 옷 벗어!",
+ "storyTitle": "젖은 숙제",
+ "story": "수빈이 숙제가 완전히 wet(젖은) 상태가 됐어요. 강아지가 water(물) 그릇을 엎었거든요. 선생님께 사실대로 말했지만 믿지 않으셨죠. 다음 날 강아지를 데려왔더니, 강아지가 선생님 신발에도 물을 쏟았어요. 선생님은 wetness(젖음)를 느끼며 웃으셨어요. \"그래, 믿을게.\""
+}

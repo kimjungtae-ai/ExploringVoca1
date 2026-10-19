@@ -1,0 +1,68 @@
+{
+ "word": "pay off",
+ "pos": "구동사",
+ "phonetic": "[peɪ ɔːf]",
+ "meaning": "(노력이) 성과를 거두다, 결실을 맺다, (빚을) 다 갚다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pay",
+   "meaning": "지불하다 (pay)",
+   "note": "라틴어 pacare(달래다, 평화롭게 하다)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "off",
+   "meaning": "완전히, 떨어져 (off)",
+   "note": "빚이 '완전히 떨어져 나가' 끝난다는 이미지예요."
+  }
+ ],
+ "summary": "<strong>pay</strong> (지불하다) + <strong>off</strong> (완전히 떨어져) = '빚을 완전히 갚아 떼어 내다'에서 <strong>'다 갚다'</strong>, 그리고 노력이 '대가를 돌려주다'에서 <strong>'성과를 거두다'</strong>",
+ "historyTitle": "빚을 다 갚는 것에서 노력의 결실로",
+ "historyBody": "pay는 라틴어 pacare(달래다)에서 왔어요. 'pay off'는 원래 '임금이나 빚을 모두 지불하고 끝내다'라는 뜻이었고, 이후 '노력이나 투자가 좋은 결과를 돌려주다'라는 뜻으로도 널리 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "payoff",
+   "pos": "명사",
+   "meaning": "성과, 보상",
+   "en": "The payoff for studying hard is a good grade.",
+   "ko": "열심히 공부한 보상은 좋은 성적이에요."
+  },
+  {
+   "word": "pay back",
+   "pos": "구동사",
+   "meaning": "(돈을) 갚다, 복수하다",
+   "en": "I'll pay you back next week.",
+   "ko": "다음 주에 돈 갚을게."
+  },
+  {
+   "word": "make a payment",
+   "pos": "동사구",
+   "meaning": "지불하다",
+   "en": "You can make a payment online.",
+   "ko": "온라인으로 결제할 수 있어요."
+  },
+  {
+   "word": "work out",
+   "pos": "구동사",
+   "meaning": "잘 풀리다, 운동하다",
+   "en": "Don't worry. Everything will work out.",
+   "ko": "걱정 마. 다 잘 풀릴 거야."
+  },
+  {
+   "word": "result in",
+   "pos": "구동사",
+   "meaning": "~을 낳다, 결과로 ~이 되다",
+   "en": "Hard practice resulted in a big win.",
+   "ko": "열심히 연습한 결과 큰 승리를 거뒀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 몇 달간 연습한 학생이 무대에서 박수받는 장면",
+ "imageCaption": "땀 흘려 연습하던 날들이 트로피로 돌아오는 순간을 떠올려 보세요.",
+ "movieLineEn": "All those years of training finally paid off.",
+ "movieLineKo": "그 오랜 훈련이 드디어 결실을 맺었군.",
+ "storyTitle": "줄넘기 소년의 결실",
+ "story": "동생은 1년 동안 매일 줄넘기를 연습했어요. 그 노력이 pay off(성과를 거두다)되어 대회에서 1등을 했죠! 상금으로 내게 빌린 돈도 pay back(갚다)했어요. 동생은 \"다 잘 work out(잘 풀리다)했어\"라며 웃었는데, 상금이 딱 빌린 돈만큼이었어요."
+}

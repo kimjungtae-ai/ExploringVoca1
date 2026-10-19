@@ -1,0 +1,41 @@
+{
+ "word": "leather",
+ "pos": "명사",
+ "phonetic": "[ˈleðər]",
+ "meaning": "가죽, 가죽 제품",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "leather",
+   "meaning": "가죽 (leather)",
+   "note": "고대 영어 lether에서 왔고, 게르만어 공통 단어예요."
+  }
+ ],
+ "summary": "고대 영어 <strong>lether</strong> (무두질한 가죽) = 동물 가죽을 가공한 것이라서 <strong>'가죽'</strong>이에요.",
+ "historyTitle": "게르만족이 쓰던 오래된 '가죽'",
+ "historyBody": "leather는 고대 영어 lether('무두질한 가죽')에서 왔고, 독일어 Leder, 네덜란드어 leer와 같은 게르만어 집안이에요. 더 오래된 뿌리는 켈트어에서 왔다는 설도 있지만 확실하지 않아요. 짐승의 날가죽(hide)을 오래 쓸 수 있도록 무두질해 만든 것이 leather예요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "leathery",
+   "pos": "형용사",
+   "meaning": "가죽 같은, 질긴",
+   "en": "The old fisherman had leathery skin from the sun.",
+   "ko": "나이 든 어부는 햇볕 때문에 가죽 같은 피부를 가졌어요."
+  },
+  {
+   "word": "leatherback",
+   "pos": "명사",
+   "meaning": "장수거북",
+   "en": "The leatherback is the largest sea turtle in the world.",
+   "ko": "장수거북은 세계에서 가장 큰 바다거북이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 오래 써서 반질반질해진 갈색 가죽 가방",
+ "imageCaption": "손으로 만지면 부드럽고 질긴 가죽 재킷의 냄새와 감촉을 떠올려 보세요.",
+ "movieLineEn": "This leather jacket belonged to my father.",
+ "movieLineKo": "이 가죽 재킷은 우리 아버지 거였어.",
+ "storyTitle": "가죽 재킷의 주인",
+ "story": "할아버지의 낡은 leather(가죽) 재킷을 입고 바닷가에 갔어요. 거기서 leathery(가죽 같은) 등껍질을 가진 leatherback(장수거북)을 만났죠. 거북이가 재킷을 빤히 보더니 말했어요. '그거 혹시 내 친척 아니지?' 저는 재빨리 말했어요. '아니에요, 소가죽이에요!' 거북이는 안심하며 바다로 돌아갔답니다."
+}

@@ -1,0 +1,81 @@
+{
+ "word": "accessible",
+ "pos": "형용사",
+ "phonetic": "[əkˈsesəbl]",
+ "meaning": "접근 가능한, 이용할 수 있는, 이해하기 쉬운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~쪽으로 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cess",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는",
+   "note": "'~할 수 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~쪽으로) + <strong>cess</strong> (가다) + <strong>-ible</strong> (~할 수 있는) = '다가갈 수 있는'에서 <strong>'접근 가능한, 이용할 수 있는'</strong>이 되었어요.",
+ "historyTitle": "다가갈 수 있는 길, 라틴어 accessibilis",
+ "historyBody": "후기 라틴어 accessibilis는 accedere(다가가다)에서 나온 말로 '다가갈 수 있는'이라는 뜻이었어요. 장소뿐 아니라 책이나 설명이 '이해하기 쉬운'이라는 뜻으로도 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "access",
+   "pos": "명사/동사",
+   "meaning": "접근 / 접근하다",
+   "en": "You need a password to access the website.",
+   "ko": "그 웹사이트에 접속하려면 비밀번호가 필요해요."
+  },
+  {
+   "word": "accessibility",
+   "pos": "명사",
+   "meaning": "접근성",
+   "en": "The new station improved accessibility for elderly people.",
+   "ko": "새 역은 노인들의 접근성을 높였어요."
+  },
+  {
+   "word": "inaccessible",
+   "pos": "형용사",
+   "meaning": "접근할 수 없는",
+   "en": "The village is inaccessible by car in winter.",
+   "ko": "그 마을은 겨울에는 차로 갈 수 없어요."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 진행하다",
+   "en": "The teacher proceeded with the lesson after the break.",
+   "ko": "선생님은 쉬는 시간 후에 수업을 이어 가셨어요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "Don't exceed the speed limit.",
+   "ko": "제한 속도를 넘지 마세요."
+  },
+  {
+   "word": "succeed",
+   "pos": "동사",
+   "meaning": "성공하다",
+   "en": "He succeeded in passing the exam.",
+   "ko": "그는 시험에 합격하는 데 성공했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 누구나 쉽게 들어갈 수 있는 경사로가 있는 도서관",
+ "imageCaption": "문턱 없는 입구와 쉬운 말로 쓴 안내판을 떠올려 보세요. 몸도 마음도 쉽게 '다가갈 수 있는' 곳이에요.",
+ "movieLineEn": "The treasure is only accessible at low tide.",
+ "movieLineKo": "그 보물은 썰물 때만 접근할 수 있어.",
+ "storyTitle": "너무 쉬운 비밀 기지",
+ "story": "민지는 아무도 inaccessible(접근할 수 없는) 비밀 기지를 만들고 싶었어요. 하지만 동생이 금방 access(접근)했죠. 비밀번호를 바꿔도 동생은 계속 succeed(성공하다)! 알고 보니 기지 입구가 너무 accessible(접근 가능한) 곳, 바로 냉장고 옆이었거든요."
+}

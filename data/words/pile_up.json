@@ -1,0 +1,68 @@
+{
+ "word": "pile up",
+ "pos": "구동사",
+ "phonetic": "[paɪl ʌp]",
+ "meaning": "쌓이다, 쌓아 올리다, 늘어나다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pile",
+   "meaning": "더미, 쌓다 (pile)",
+   "note": "물건이 수북이 쌓인 덩어리예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로 (up)",
+   "note": "아래에서 '위로' 점점 높아지는 이미지예요."
+  }
+ ],
+ "summary": "<strong>pile</strong> (쌓다) + <strong>up</strong> (위로) = '위로 차곡차곡 쌓다'에서 <strong>'쌓이다, 늘어나다'</strong>",
+ "historyTitle": "'기둥'에서 '더미'로",
+ "historyBody": "pile은 라틴어 pila(기둥, 돌무더기)에서 고대 프랑스어를 거쳐 들어왔어요. 돌을 기둥처럼 쌓아 올린 모습에서 '더미'라는 뜻이 생겼죠. 'pile up'은 일, 숙제, 빚처럼 원치 않는 것이 점점 늘어날 때 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pile",
+   "pos": "명사",
+   "meaning": "더미",
+   "en": "There is a pile of laundry on my bed.",
+   "ko": "내 침대 위에 빨래 더미가 있어요."
+  },
+  {
+   "word": "stack",
+   "pos": "명사 / 동사",
+   "meaning": "더미 / 쌓다",
+   "en": "Stack the chairs in the corner.",
+   "ko": "의자를 구석에 쌓아 두세요."
+  },
+  {
+   "word": "build up",
+   "pos": "구동사",
+   "meaning": "쌓아 올리다, 늘리다",
+   "en": "Exercise helps you build up strength.",
+   "ko": "운동은 체력을 기르는 데 도움이 돼요."
+  },
+  {
+   "word": "accumulate",
+   "pos": "동사",
+   "meaning": "축적하다, 모으다",
+   "en": "Dust accumulated on the old piano.",
+   "ko": "오래된 피아노 위에 먼지가 쌓였어요."
+  },
+  {
+   "word": "heap",
+   "pos": "명사",
+   "meaning": "더미, 무더기",
+   "en": "A heap of leaves lay in the yard.",
+   "ko": "마당에 낙엽 더미가 쌓여 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 숙제와 책이 산처럼 쌓여 가는 장면",
+ "imageCaption": "미뤄 둔 숙제가 한 장 한 장 책상 위로 높이 쌓여 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "The bodies are piling up. We need to stop this guy.",
+ "movieLineKo": "피해자가 늘어나고 있어. 이 녀석을 막아야 해.",
+ "storyTitle": "숙제 탑의 반전",
+ "story": "방학 동안 숙제를 미뤘더니 책상 위에 pile up(쌓이다)했어요. 문제집 stack(더미)이 천장까지 닿았죠. 개학 전날, 숙제 heap(무더기)을 보며 절망했는데, 동생이 그걸로 젠가 놀이를 하다 무너뜨렸어요. 덕분에 반은 어디 갔는지 영영 못 찾았답니다."
+}

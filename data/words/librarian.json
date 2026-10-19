@@ -1,0 +1,53 @@
+{
+ "word": "librarian",
+ "pos": "명사",
+ "phonetic": "[laɪˈbreriən]",
+ "meaning": "(도서관) 사서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "libr",
+   "meaning": "책 (book)",
+   "note": "라틴어 liber(책)에서 왔어요. 원래는 '나무껍질 안쪽'을 뜻했대요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ary",
+   "meaning": "~하는 곳",
+   "note": "library(책을 두는 곳)를 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ian",
+   "meaning": "~하는 사람",
+   "note": "어떤 일을 맡은 사람을 뜻해요. (예: musician)"
+  }
+ ],
+ "summary": "<strong>libr</strong> (책) + <strong>-ary</strong> (곳) + <strong>-ian</strong> (사람) = '책이 있는 곳을 맡은 사람'에서 <strong>'사서'</strong>가 되었어요.",
+ "historyTitle": "나무껍질에 글을 쓰던 시절",
+ "historyBody": "라틴어 liber는 '책'이라는 뜻인데, 원래는 '나무껍질 안쪽 층'을 뜻했어요. 옛날 사람들이 그 위에 글을 썼기 때문이에요. 여기서 librarium(책장, 서고)이 나와 library가 되었죠. 참고로 liberty(자유)의 liber(자유로운)는 철자만 같고 다른 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "library",
+   "pos": "명사",
+   "meaning": "도서관",
+   "en": "I borrowed three books from the school library.",
+   "ko": "나는 학교 도서관에서 책 세 권을 빌렸어요."
+  },
+  {
+   "word": "libretto",
+   "pos": "명사",
+   "meaning": "(오페라의) 대본",
+   "en": "The libretto of the opera was written in Italian.",
+   "ko": "그 오페라의 대본은 이탈리아어로 쓰였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 카운터에서 책을 정리하고 추천해 주는 사서 선생님",
+ "imageCaption": "책장 사이를 오가며 딱 맞는 책을 찾아 주는 분을 떠올리세요. 그분이 librarian이에요.",
+ "movieLineEn": "Never underestimate a librarian. We know where everything is.",
+ "movieLineKo": "사서를 얕보지 마. 우린 모든 게 어디 있는지 알거든.",
+ "storyTitle": "사서 선생님의 초능력",
+ "story": "우리 학교 librarian(사서) 선생님은 초능력자예요. library(도서관)에 있는 book(책) 만 권의 위치를 다 외우시거든요. 어느 날 오페라 libretto(대본)까지 찾아 주셨어요. 비결을 묻자 선생님이 속삭였어요. \"사실... 다 내가 정리해서 그래.\" 그런데 제 사물함 속 잃어버린 책 위치까지 아셨어요!"
+}

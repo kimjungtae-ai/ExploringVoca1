@@ -1,0 +1,75 @@
+{
+ "word": "literature",
+ "pos": "명사",
+ "phonetic": "[ˈlɪtrətʃər]",
+ "meaning": "문학, 문헌, (특정 분야의) 연구 자료",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "liter(a)",
+   "meaning": "글자 (letter)",
+   "note": "라틴어 littera(글자, 문자)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ture",
+   "meaning": "~하는 것, 행위·결과 (명사)",
+   "note": "culture, nature처럼 명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>litera</strong> (글자) + <strong>-ture</strong> (~하는 것) = '글자로 쓴 것, 글을 아는 것'이라는 뜻에서 <strong>'문학, 문헌'</strong>이 되었습니다.",
+ "historyTitle": "글자를 아는 것에서 문학으로",
+ "historyBody": "라틴어 litteratura는 원래 '글쓰기, 문법, 학식'을 뜻했고 littera(글자)에서 나왔어요. 영어에서도 처음엔 '책을 통한 교양'을 뜻하다가, 18세기 무렵 오늘날의 '문학 작품'이라는 뜻이 자리 잡았답니다. 논문에서는 '관련 연구 자료'라는 뜻으로도 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "literary",
+   "pos": "형용사",
+   "meaning": "문학의, 문학적인",
+   "en": "She won a famous literary prize for her first novel.",
+   "ko": "그녀는 첫 소설로 유명한 문학상을 받았어요."
+  },
+  {
+   "word": "literal",
+   "pos": "형용사",
+   "meaning": "문자 그대로의",
+   "en": "Don't take his joke in a literal sense.",
+   "ko": "그의 농담을 문자 그대로 받아들이지 마세요."
+  },
+  {
+   "word": "literacy",
+   "pos": "명사",
+   "meaning": "읽고 쓰는 능력",
+   "en": "Digital literacy is important in modern society.",
+   "ko": "현대 사회에서는 디지털 활용 능력이 중요해요."
+  },
+  {
+   "word": "literate",
+   "pos": "형용사",
+   "meaning": "글을 읽고 쓸 줄 아는",
+   "en": "By age seven, most children are literate.",
+   "ko": "일곱 살쯤이면 대부분의 아이들이 글을 읽고 쓸 수 있어요."
+  },
+  {
+   "word": "illiterate",
+   "pos": "형용사",
+   "meaning": "글을 모르는, 문맹의",
+   "en": "Many adults were illiterate a century ago.",
+   "ko": "백 년 전에는 많은 어른들이 글을 몰랐어요."
+  },
+  {
+   "word": "letter",
+   "pos": "명사",
+   "meaning": "글자, 편지",
+   "en": "I wrote a letter to my grandmother.",
+   "ko": "나는 할머니께 편지를 썼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 서가에 빼곡히 꽂힌 고전 소설들",
+ "imageCaption": "한 글자 한 글자가 모여 책이 되고, 그 책들이 모여 거대한 서가를 이룬 모습을 떠올려 보세요.",
+ "movieLineEn": "Literature can take you anywhere in the world.",
+ "movieLineKo": "문학은 너를 세상 어디로든 데려갈 수 있어.",
+ "storyTitle": "문학 소년의 편지",
+ "story": "literature(문학)를 사랑하는 태호는 좋아하는 아이에게 literary(문학적인) letter(편지)를 썼어요. 셰익스피어 문장까지 넣었죠. 답장은 한 줄이었어요. \"글씨를 못 알아보겠어.\" literate(글을 아는) 그녀도 태호의 악필 앞에선 illiterate(글을 모르는) 신세가 되었답니다."
+}

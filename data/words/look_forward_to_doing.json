@@ -1,0 +1,80 @@
+{
+ "word": "look forward to doing",
+ "pos": "숙어",
+ "phonetic": "[lʊk ˈfɔːrwərd tuː ˈduːɪŋ]",
+ "meaning": "~하기를 고대하다, ~하기를 기대하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "look",
+   "meaning": "보다 (look)",
+   "note": "무언가를 '바라본다'는 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "forward",
+   "meaning": "앞으로 (forward)",
+   "note": "시선이 '미래 쪽 앞'을 향한다는 걸 보여 줘요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~을 향해 (to, 전치사)",
+   "note": "전치사 to라서 뒤에 동사원형이 아닌 동명사가 와요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "doing",
+   "meaning": "~하는 것 (-ing)",
+   "note": "고대하는 '행동'을 동명사로 나타내요."
+  }
+ ],
+ "summary": "<strong>look forward</strong> (앞을 내다보다) + <strong>to</strong> (~을 향해) + <strong>doing</strong> (~하는 것) = '~하는 것을 향해 앞을 내다보다'에서 <strong>'~하기를 고대하다'</strong>",
+ "historyTitle": "to 뒤에 -ing가 오는 이유",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 온 아주 오래된 영어 단어예요. 혼자서는 '보다'지만 뒤에 붙는 연결어에 따라 after(뒤를 봐주다), up(위로 찾아보다), over(훑어보다), forward(앞을 내다보다)처럼 뜻이 다양하게 바뀌어요. 그래서 수능 구동사의 단골이랍니다. 이 표현의 to는 전치사라서 'look forward to see'가 아니라 'look forward to seeing'이 맞아요. 수능 어법 문제에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be used to doing",
+   "pos": "숙어",
+   "meaning": "~하는 데 익숙하다",
+   "en": "I'm used to getting up early.",
+   "ko": "나는 일찍 일어나는 데 익숙해."
+  },
+  {
+   "word": "object to doing",
+   "pos": "숙어",
+   "meaning": "~하는 것에 반대하다",
+   "en": "She objected to waiting in line.",
+   "ko": "그녀는 줄 서서 기다리는 것에 반대했어."
+  },
+  {
+   "word": "when it comes to doing",
+   "pos": "숙어",
+   "meaning": "~하는 것에 관해서라면",
+   "en": "When it comes to cooking, he is the best.",
+   "ko": "요리라면 그가 최고야."
+  },
+  {
+   "word": "be committed to doing",
+   "pos": "숙어",
+   "meaning": "~하는 데 전념하다",
+   "en": "We are committed to protecting nature.",
+   "ko": "우리는 자연 보호에 전념하고 있어."
+  },
+  {
+   "word": "look forward to",
+   "pos": "구동사",
+   "meaning": "~을 고대하다",
+   "en": "I look forward to the holidays.",
+   "ko": "나는 휴가를 고대해."
+  }
+ ],
+ "imageSense": "대표 의미: 편지 끝에 'I look forward to hearing from you'를 적는 장면",
+ "imageCaption": "답장을 기다리며 우편함을 몇 번이나 들여다보는 모습을 떠올려 보세요.",
+ "movieLineEn": "I look forward to working with you, partner.",
+ "movieLineKo": "당신과 함께 일하기를 기대해요, 파트너.",
+ "storyTitle": "어법 요정",
+ "story": "민지는 영어 편지 끝에 'I look forward to see you'라고 썼어요. 그러자 어법 요정이 나타나 외쳤죠. \"look forward to doing(~하기를 고대하다)이야!\" be used to doing(~하는 데 익숙하다)도, object to doing(~하는 것에 반대하다)도 to 뒤엔 -ing래요. 고친 편지를 보내자 답장이 왔어요. \"seeing 맞게 썼네! -요정 엄마가\""
+}

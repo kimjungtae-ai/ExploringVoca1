@@ -1,0 +1,54 @@
+{
+ "word": "sculpture",
+ "pos": "명사",
+ "phonetic": "[ˈskʌlptʃər]",
+ "meaning": "조각품, 조각(술)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sculpt",
+   "meaning": "새기다, 깎다 (carve)",
+   "note": "라틴어 sculpere(새기다, 조각하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 행위, 결과 (명사를 만듦)",
+   "note": "행위나 그 결과물을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sculpt</strong> (깎다) + <strong>-ure</strong> (~한 결과물) = '깎아서 만든 것'에서 <strong>'조각품'</strong>이 되었어요.",
+ "historyTitle": "돌을 깎아 생명을 불어넣다",
+ "historyBody": "sculpture는 라틴어 sculpere(새기다, 깎다)의 과거분사에서 나온 sculptura가 14세기에 영어로 들어온 말이에요. 동사 sculpt는 오히려 19세기에 sculpture와 sculptor에서 거꾸로 만들어진 단어랍니다. 미켈란젤로는 '조각은 돌 속에 갇힌 형상을 꺼내는 일'이라고 말했다고 전해져요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sculpt",
+   "pos": "동사",
+   "meaning": "조각하다",
+   "en": "The artist sculpted a horse out of wood.",
+   "ko": "그 예술가는 나무로 말을 조각했어요."
+  },
+  {
+   "word": "sculptor",
+   "pos": "명사",
+   "meaning": "조각가",
+   "en": "The sculptor worked on the statue for three years.",
+   "ko": "그 조각가는 3년 동안 그 조각상을 작업했어요."
+  },
+  {
+   "word": "sculptural",
+   "pos": "형용사",
+   "meaning": "조각의, 조각 같은",
+   "en": "The building has a beautiful sculptural shape.",
+   "ko": "그 건물은 조각 같은 아름다운 형태를 지녔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 끌과 망치로 대리석을 깎아 사람의 형상을 만드는 조각가",
+ "imageCaption": "하얀 대리석 덩어리에서 조금씩 사람의 얼굴이 드러나는 장면을 떠올려 보세요.",
+ "movieLineEn": "This sculpture has been watching over the city for a thousand years.",
+ "movieLineKo": "이 조각상은 천 년 동안 도시를 지켜봐 왔지.",
+ "storyTitle": "미술관의 수상한 조각",
+ "story": "미술 시간에 나는 찰흙으로 sculpture(조각품)를 만들었어요. 위대한 sculptor(조각가)처럼 열심히 sculpt(조각하다)했죠. 친구들은 sculptural(조각 같은) 근육을 가진 영웅이냐고 물었어요. 사실 그건 우리 집 고양이였어요. 다음 날 그 작품은 '감자 삼형제'라는 이름으로 전시됐답니다."
+}

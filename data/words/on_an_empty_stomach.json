@@ -1,0 +1,74 @@
+{
+ "word": "on an empty stomach",
+ "pos": "부사구 / 숙어",
+ "phonetic": "[ɑːn ən ˈempti ˈstʌmək]",
+ "meaning": "빈속에, 공복에",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~ 상태로 (on)",
+   "note": "어떤 상태 '위에서' 무언가를 한다는 느낌이에요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "empty",
+   "meaning": "빈 (empty)",
+   "note": "고대 영어 æmettig(한가한, 비어 있는)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stomach",
+   "meaning": "위, 배 (stomach)",
+   "note": "그리스어 stomachos(목구멍, 위의 입구)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>on</strong> (~ 상태로) + <strong>an empty</strong> (빈) + <strong>stomach</strong> (위) = '위가 비어 있는 상태로'에서 <strong>'빈속에, 공복에'</strong>",
+ "historyTitle": "'입'에서 온 stomach",
+ "historyBody": "stomach는 그리스어 stoma(입)에서 나온 stomachos(목구멍, 위의 입구)가 라틴어를 거쳐 들어온 말이에요. empty는 고대 영어 æmettig(일이 없는, 한가한)에서 왔어요. 약 설명서에 'Do not take on an empty stomach(공복에 복용하지 마세요)'처럼 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stomachache",
+   "pos": "명사",
+   "meaning": "복통, 배앓이",
+   "en": "I had a stomachache after eating too much ice cream.",
+   "ko": "아이스크림을 너무 많이 먹어서 배가 아팠어요."
+  },
+  {
+   "word": "on a diet",
+   "pos": "숙어",
+   "meaning": "다이어트 중인",
+   "en": "My sister is on a diet before the wedding.",
+   "ko": "언니는 결혼식 전에 다이어트 중이에요."
+  },
+  {
+   "word": "on purpose",
+   "pos": "숙어",
+   "meaning": "고의로",
+   "en": "He didn't break the window on purpose.",
+   "ko": "그는 일부러 창문을 깬 게 아니에요."
+  },
+  {
+   "word": "empty",
+   "pos": "형용사 / 동사",
+   "meaning": "빈 / 비우다",
+   "en": "Please empty the trash can before you leave.",
+   "ko": "나가기 전에 쓰레기통을 비워 주세요."
+  },
+  {
+   "word": "full stomach",
+   "pos": "명사구",
+   "meaning": "부른 배",
+   "en": "Never go swimming on a full stomach.",
+   "ko": "배부른 상태로 수영하러 가지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 아침을 거르고 꼬르륵 소리가 나는 배를 잡고 있는 장면",
+ "imageCaption": "텅 빈 위에서 '꼬르륵' 소리가 나는 아침을 떠올려 보세요.",
+ "movieLineEn": "Never drink coffee on an empty stomach, kid.",
+ "movieLineKo": "얘야, 빈속에 커피 마시면 안 된다.",
+ "storyTitle": "꼬르륵 합창단",
+ "story": "시험 날 늦잠을 잔 나는 on an empty stomach(빈속에) 학교에 갔어요. 조용한 교실에서 내 배가 꼬르륵 울렸죠. 일부러 그런 건 on purpose(고의로)가 아니었어요! 그런데 옆자리 친구들도 stomachache(복통)처럼 꼬르륵 따라 울려서 합창이 됐어요."
+}

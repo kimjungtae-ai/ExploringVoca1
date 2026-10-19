@@ -1,0 +1,68 @@
+{
+ "word": "agree on",
+ "pos": "구동사",
+ "phonetic": "[əˈɡriː ɑːn]",
+ "meaning": "~에 대해 합의하다, (결정 사항)에 의견이 일치하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "agree",
+   "meaning": "동의하다 (consent)",
+   "note": "옛 프랑스어 a gré(마음에 들게)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~에 대해 (on)",
+   "note": "합의의 '주제'에 딱 붙어 있는 느낌이에요."
+  }
+ ],
+ "summary": "<strong>agree</strong> (동의하다) + <strong>on</strong> (~에 대해) = <strong>'(어떤 결정)에 대해 합의하다'</strong>예요.",
+ "historyTitle": "프랑스어 gré, '기쁨, 마음'",
+ "historyBody": "agree는 옛 프랑스어 agreer(마음에 들게 하다)에서 왔고, 그 안의 gré는 라틴어 gratum(기쁜, 고마운)에서 나왔어요. 그래서 원래는 '서로 마음에 들다'라는 느낌이었죠. agree with는 '사람/의견에 동의', agree on은 '결정 사항에 합의', agree to는 '제안을 받아들임'으로 구별해 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "agree with",
+   "pos": "구동사",
+   "meaning": "(사람, 의견)에 동의하다",
+   "en": "I agree with you about the plan.",
+   "ko": "그 계획에 대해 너와 같은 생각이야."
+  },
+  {
+   "word": "agree to",
+   "pos": "구동사",
+   "meaning": "(제안)에 동의하다",
+   "en": "He agreed to help me move.",
+   "ko": "그는 내 이사를 돕기로 했어요."
+  },
+  {
+   "word": "agreement",
+   "pos": "명사",
+   "meaning": "합의, 동의",
+   "en": "The two teams reached an agreement.",
+   "ko": "두 팀은 합의에 이르렀어요."
+  },
+  {
+   "word": "disagree",
+   "pos": "동사",
+   "meaning": "동의하지 않다",
+   "en": "Some students disagreed with the new rule.",
+   "ko": "몇몇 학생들은 새 규칙에 반대했어요."
+  },
+  {
+   "word": "settle on",
+   "pos": "구동사",
+   "meaning": "~으로 결정하다",
+   "en": "We finally settled on a name for the club.",
+   "ko": "우리는 마침내 동아리 이름을 정했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구들이 둘러앉아 여행지를 하나로 정하고 손뼉 치는 장면",
+ "imageCaption": "여러 의견 중에서 '이거!' 하고 모두가 하나에 손을 올리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Then it's settled. We agree on the plan. No turning back.",
+ "movieLineKo": "그럼 결정됐어. 우리 그 계획에 합의한 거야. 되돌릴 수 없어.",
+ "storyTitle": "메뉴 결정 대회",
+ "story": "우리 가족은 저녁 메뉴를 agree on(~에 합의하다)하는 데 한 시간이 걸렸어요. 아빠는 치킨, 엄마는 피자에 agree with(동의하다)했죠. 결국 agreement(합의)로 둘 다 시켰는데, 배달이 오자 강아지가 먼저 치킨에 '동의'해 버렸어요!"
+}

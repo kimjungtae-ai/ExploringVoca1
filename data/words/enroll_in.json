@@ -1,0 +1,68 @@
+{
+ "word": "enroll in",
+ "pos": "구동사",
+ "phonetic": "[ɪnˈroʊl ɪn]",
+ "meaning": "~에 등록하다, ~에 입학하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "enroll",
+   "meaning": "등록하다, 명부에 올리다 (enroll)",
+   "note": "en-(안에) + roll(명부, 두루마리)로 '명단에 이름을 넣다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "과정이나 학교 '안으로' 이름을 올리는 이미지예요."
+  }
+ ],
+ "summary": "<strong>enroll</strong> (명부에 올리다) + <strong>in</strong> (~ 안에) = '어떤 과정의 명단 안에 이름을 넣다'라서 <strong>'~에 등록하다'</strong>예요.",
+ "historyTitle": "두루마리 명부에 이름을 쓰던 시절",
+ "historyBody": "enroll은 고대 프랑스어 enroller(en- '안에' + rolle '두루마리, 명부')에서 왔어요. 옛날에는 이름을 긴 양피지 두루마리(roll)에 적어서 기록했거든요. 그래서 지금도 '출석부'를 roll이라고 하고, 출석을 부르는 걸 roll call이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "enrollment",
+   "pos": "명사",
+   "meaning": "등록, 입학",
+   "en": "Enrollment for the summer camp starts next Monday.",
+   "ko": "여름 캠프 등록은 다음 주 월요일에 시작해요."
+  },
+  {
+   "word": "sign up for",
+   "pos": "구동사",
+   "meaning": "~에 등록/신청하다",
+   "en": "I signed up for a free coding class.",
+   "ko": "나는 무료 코딩 수업에 신청했어요."
+  },
+  {
+   "word": "register for",
+   "pos": "구동사",
+   "meaning": "~에 등록하다",
+   "en": "You must register for the exam online.",
+   "ko": "시험은 온라인으로 등록해야 해요."
+  },
+  {
+   "word": "roll call",
+   "pos": "명사구",
+   "meaning": "출석 부르기",
+   "en": "The teacher started roll call at nine sharp.",
+   "ko": "선생님은 9시 정각에 출석을 부르기 시작하셨어요."
+  },
+  {
+   "word": "apply for",
+   "pos": "구동사",
+   "meaning": "~에 지원하다",
+   "en": "She applied for a scholarship last month.",
+   "ko": "그녀는 지난달에 장학금을 신청했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 신청서에 이름을 적고 강좌에 등록하는 장면",
+ "imageCaption": "두꺼운 명부에 내 이름이 쓱 올라가는 모습을 그려 보세요.",
+ "movieLineEn": "I'm going to enroll in that dance class, no matter what!",
+ "movieLineKo": "무슨 일이 있어도 그 댄스 수업에 등록할 거야!",
+ "storyTitle": "등록왕 할머니",
+ "story": "할머니는 올해 대학에 enroll in(등록하다)하셨어요. 요가 수업에도 sign up for(신청하다)하고, 장학금에도 apply for(지원하다)하셨죠. 첫날 roll call(출석 부르기) 시간에 교수님이 할머니 이름을 부르자 깜짝 놀랐어요. 교수님이 바로 할머니의 손자였거든요! 이제 enrollment(등록)는 가족 행사가 됐답니다."
+}

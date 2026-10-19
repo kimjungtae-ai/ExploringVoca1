@@ -1,0 +1,54 @@
+{
+ "word": "ceramic",
+ "pos": "형용사 / 명사",
+ "phonetic": "[səˈræmɪk]",
+ "meaning": "도자기의 / 도자기, 세라믹",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ceram",
+   "meaning": "도공의 점토, 도기 (potter's clay)",
+   "note": "그리스어 keramos(도공의 흙, 질그릇)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "'그것과 관련된'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>ceram</strong> (도공의 점토) + <strong>-ic</strong> (~의) = '점토로 구운 것의'에서 <strong>'도자기의, 세라믹'</strong>이 되었어요.",
+ "historyTitle": "고대 그리스 도공의 흙",
+ "historyBody": "ceramic은 그리스어 keramikos(도기의)에서 왔고, 그 뿌리 keramos는 '도공의 점토, 질그릇'이라는 뜻이에요. 고대 아테네에는 도공들이 모여 살던 '케라메이코스'라는 지역이 있었어요. 19세기에 이 말이 영어로 들어와 도자기와 세라믹 재료를 가리키게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ceramics",
+   "pos": "명사",
+   "meaning": "도예, 도자기류",
+   "en": "She took a ceramics class during the summer.",
+   "ko": "그녀는 여름 동안 도예 수업을 들었어요."
+  },
+  {
+   "word": "ceramist",
+   "pos": "명사",
+   "meaning": "도예가",
+   "en": "The ceramist shaped the clay into a beautiful vase.",
+   "ko": "도예가는 점토로 아름다운 꽃병을 빚었어요."
+  },
+  {
+   "word": "ceramicist",
+   "pos": "명사",
+   "meaning": "도예가 (ceramist와 같은 뜻)",
+   "en": "A local ceramicist made all the cups in this café.",
+   "ko": "이 카페의 컵은 모두 지역 도예가가 만들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 물레 위에서 점토를 빚어 굽는 도예가",
+ "imageCaption": "빙글빙글 도는 물레 위에서 흙이 그릇으로 변하고, 가마에서 단단하게 구워지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Careful! That ceramic vase is two hundred years old!",
+ "movieLineKo": "조심해! 그 도자기 꽃병은 200년 된 거야!",
+ "storyTitle": "깨지지 않는 그릇",
+ "story": "ceramics(도예) 동아리의 지수는 세상에서 가장 단단한 ceramic(도자기) 그릇을 만들었어요. 유명한 ceramist(도예가)도 감탄했고, 옆 반 ceramicist(도예가) 지망생도 부러워했죠. 지수는 자랑하려고 그릇을 바닥에 던졌어요. 그릇은 멀쩡했어요! 그런데 바닥 타일이 와장창 깨졌대요."
+}

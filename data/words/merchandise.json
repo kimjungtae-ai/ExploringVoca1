@@ -1,0 +1,67 @@
+{
+ "word": "merchandise",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈmɜːrtʃəndaɪs]",
+ "meaning": "상품, 물품 / (상품을) 판매하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "merch",
+   "meaning": "사고팔다, 상품 (trade, goods)",
+   "note": "라틴어 merx(상품), mercari(거래하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-and",
+   "meaning": "~하는 사람",
+   "note": "고대 프랑스어 marchand(상인)의 일부예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ise",
+   "meaning": "~한 것 (명사)",
+   "note": "상인이 다루는 것, 즉 '물건 전체'를 가리켜요."
+  }
+ ],
+ "summary": "<strong>merch</strong> (거래하다) + <strong>-and</strong> (~하는 사람) + <strong>-ise</strong> (~한 것) = 상인이 사고파는 것이라서 <strong>'상품'</strong>이 되었어요.",
+ "historyTitle": "로마의 상인과 장터",
+ "historyBody": "라틴어 merx(상품)와 mercari(거래하다)에서 고대 프랑스어 marchand(상인)가 나왔고, 여기에 붙은 marchandise가 13세기에 영어로 들어왔어요. 요즘 아이돌 굿즈를 'merch'라고 줄여 부르는 것도 이 단어에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "merchant",
+   "pos": "명사",
+   "meaning": "상인",
+   "en": "The merchant sold silk and spices at the market.",
+   "ko": "그 상인은 시장에서 비단과 향신료를 팔았어요."
+  },
+  {
+   "word": "commerce",
+   "pos": "명사",
+   "meaning": "상업, 무역",
+   "en": "Online commerce has grown quickly in recent years.",
+   "ko": "온라인 상거래는 최근 몇 년 사이 빠르게 성장했어요."
+  },
+  {
+   "word": "commercial",
+   "pos": "형용사/명사",
+   "meaning": "상업의 / 광고",
+   "en": "The commercial during the game was very funny.",
+   "ko": "경기 중에 나온 광고가 정말 웃겼어요."
+  },
+  {
+   "word": "market",
+   "pos": "명사",
+   "meaning": "시장",
+   "en": "We buy fresh vegetables at the local market.",
+   "ko": "우리는 동네 시장에서 신선한 채소를 사요."
+  }
+ ],
+ "imageSense": "대표 의미: 가게 진열대에 가득 놓인 다양한 상품들",
+ "imageCaption": "콘서트장 앞 부스에 티셔츠, 응원봉, 포스터 같은 굿즈가 줄지어 놓인 모습을 떠올려 보세요.",
+ "movieLineEn": "All this merchandise has to be sold by Sunday!",
+ "movieLineKo": "이 상품을 전부 일요일까지 팔아야 해!",
+ "storyTitle": "굿즈 장사의 달인",
+ "story": "중세 merchant(상인) 할아버지가 타임머신을 타고 현대 콘서트장에 왔어요. 아이돌 merchandise(상품)를 보고 깜짝! '이게 commerce(상업)의 미래구나!' 할아버지는 바로 market(시장)에 부스를 차렸죠. 그런데 팔던 물건이 직접 짠 양털 양말이라 아무도 안 샀대요. 아, 한겨울엔 완판했답니다!"
+}

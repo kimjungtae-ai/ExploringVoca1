@@ -1,0 +1,48 @@
+{
+ "word": "gym",
+ "pos": "명사",
+ "phonetic": "[dʒɪm]",
+ "meaning": "체육관, 헬스장, 체육 (수업)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "gym (← gymnasium)",
+   "meaning": "체육관 (gymnasium의 줄임말)",
+   "note": "19세기 후반 gymnasium을 짧게 줄여 쓴 말이에요. 뿌리는 그리스어 gymnos(벌거벗은)예요."
+  }
+ ],
+ "summary": "<strong>gym</strong>은 <strong>gymnasium</strong>의 줄임말로, 그리스어 gymnos(벌거벗은)에서 온 <strong>'체육관'</strong>이에요.",
+ "historyTitle": "고대 그리스 운동선수의 비밀",
+ "historyBody": "gym은 1870년대쯤 gymnasium을 줄여 만든 말이에요. gymnasium은 그리스어 gymnasion에서 왔는데, gymnazein(벌거벗고 운동하다)이라는 동사에서 나왔어요. 고대 그리스 선수들은 실제로 옷을 벗고 훈련하고 경기했답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gymnasium",
+   "pos": "명사",
+   "meaning": "체육관",
+   "en": "The graduation ceremony was held in the school gymnasium.",
+   "ko": "졸업식은 학교 체육관에서 열렸어."
+  },
+  {
+   "word": "gymnastics",
+   "pos": "명사",
+   "meaning": "체조",
+   "en": "She has practiced gymnastics since she was five.",
+   "ko": "그녀는 다섯 살 때부터 체조를 연습해 왔어."
+  },
+  {
+   "word": "gymnast",
+   "pos": "명사",
+   "meaning": "체조 선수",
+   "en": "The gymnast did a perfect flip on the beam.",
+   "ko": "그 체조 선수는 평균대에서 완벽한 공중제비를 했어."
+  }
+ ],
+ "imageSense": "대표 의미: 헬스장에서 땀 흘리며 운동하는 장면",
+ "imageCaption": "러닝머신과 덤벨이 있는 헬스장, 혹은 농구 골대가 있는 학교 체육관을 떠올려 보세요.",
+ "movieLineEn": "Meet me at the gym after school.",
+ "movieLineKo": "방과 후에 체육관에서 만나.",
+ "storyTitle": "작심삼일 헬스왕",
+ "story": "민지는 새해에 gym(헬스장)에 등록했어요. 첫날엔 gymnast(체조 선수)처럼 gymnastics(체조)를 따라 하다 쥐가 났죠. 둘째 날엔 학교 gymnasium(체육관)에서 줄넘기만 했어요. 셋째 날, 드디어 헬스장에 갔는데 카운터에서 깨달았어요. 1년치를 결제했는데 그 헬스장이 다음 주에 문 닫는대요!"
+}

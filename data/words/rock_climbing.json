@@ -1,0 +1,68 @@
+{
+ "word": "rock climbing",
+ "pos": "명사구",
+ "phonetic": "[rɑːk ˈklaɪmɪŋ]",
+ "meaning": "암벽 등반, 클라이밍",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "rock",
+   "meaning": "바위 (rock)",
+   "note": "단단한 큰 돌을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "climbing",
+   "meaning": "오르기, 등반 (climbing)",
+   "note": "climb(오르다) + -ing(명사화)로 '오르는 활동'이에요."
+  }
+ ],
+ "summary": "<strong>rock</strong> (바위) + <strong>climbing</strong> (오르기) = '바위를 오르는 활동'이라서 <strong>'암벽 등반'</strong>이에요.",
+ "historyTitle": "바위를 기어오르는 스포츠",
+ "historyBody": "climb은 고대 영어 'climban(손발로 기어오르다)'에서 왔어요. rock은 고대 북부 프랑스어 'roque'를 거쳐 들어온 말이에요. 암벽 등반은 19세기 후반 유럽 알프스와 영국에서 스포츠로 자리 잡았고, 2020 도쿄 올림픽(2021년 개최)에서 '스포츠 클라이밍'이 정식 종목으로 처음 채택됐어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "climb",
+   "pos": "동사",
+   "meaning": "오르다",
+   "en": "We climbed to the top of the hill.",
+   "ko": "우리는 언덕 꼭대기까지 올라갔어요."
+  },
+  {
+   "word": "climber",
+   "pos": "명사",
+   "meaning": "등반가",
+   "en": "The climber reached the summit after six hours.",
+   "ko": "그 등반가는 6시간 만에 정상에 도착했어요."
+  },
+  {
+   "word": "mountain climbing",
+   "pos": "명사구",
+   "meaning": "등산",
+   "en": "Mountain climbing is popular in Korea.",
+   "ko": "한국에서는 등산이 인기가 많아요."
+  },
+  {
+   "word": "summit",
+   "pos": "명사",
+   "meaning": "정상, 꼭대기",
+   "en": "The view from the summit was amazing.",
+   "ko": "정상에서 본 경치는 정말 멋졌어요."
+  },
+  {
+   "word": "indoor",
+   "pos": "형용사",
+   "meaning": "실내의",
+   "en": "There is an indoor climbing gym near my school.",
+   "ko": "우리 학교 근처에 실내 클라이밍장이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 밧줄에 몸을 묶고 가파른 바위 절벽을 오르는 장면",
+ "imageCaption": "헬멧을 쓰고 밧줄에 매달린 채 바위 틈에 손가락을 걸어 한 칸씩 올라가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Rock climbing isn't about strength. It's about trust.",
+ "movieLineKo": "암벽 등반은 힘이 아니라 믿음의 문제야.",
+ "storyTitle": "정상의 반전",
+ "story": "겁 많은 태호가 indoor(실내의) 클라이밍장에서 rock climbing(암벽 등반)에 도전했어요. 손을 덜덜 떨며 climb(오르다)했죠. 땀범벅이 되어 summit(정상)에 도착하자 모두가 박수! 그런데 내려다보니 높이가 고작 2미터, 옆 유치원생 climber(등반가)가 손을 흔들고 있었어요."
+}

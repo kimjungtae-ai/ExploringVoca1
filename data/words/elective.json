@@ -1,0 +1,74 @@
+{
+ "word": "elective",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ɪˈlektɪv]",
+ "meaning": "선거의, 선택할 수 있는 / 선택 과목",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex(밖으로)가 짧아진 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lect (legere)",
+   "meaning": "고르다, 모으다 (choose)",
+   "note": "라틴어 legere(고르다, 읽다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 성질의 (형용사형)",
+   "note": "'~하는 성질이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>lect</strong> (고르다) + <strong>-ive</strong> (~하는) = '골라낼 수 있는'이라는 뜻에서 <strong>'선택의, 선거의, 선택 과목'</strong>이 되었어요.",
+ "historyTitle": "골라 뽑는 라틴어 eligere",
+ "historyBody": "라틴어 eligere는 e-(밖으로)와 legere(고르다)가 합쳐져 '골라내다'라는 뜻이었어요. 그 과거분사 electus에서 elect(선출하다), election(선거)이 나왔답니다. elective는 '투표로 뽑는'이라는 뜻에서, 미국 대학에서 '골라 듣는 과목'이라는 뜻으로도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "elect",
+   "pos": "동사",
+   "meaning": "선출하다, 뽑다",
+   "en": "Our class elected Jisu as president.",
+   "ko": "우리 반은 지수를 반장으로 뽑았어요."
+  },
+  {
+   "word": "election",
+   "pos": "명사",
+   "meaning": "선거",
+   "en": "Many young people voted in the election.",
+   "ko": "많은 젊은이들이 선거에서 투표했어요."
+  },
+  {
+   "word": "select",
+   "pos": "동사",
+   "meaning": "선택하다, 고르다",
+   "en": "Please select one answer from the list.",
+   "ko": "목록에서 답을 하나 고르세요."
+  },
+  {
+   "word": "collect",
+   "pos": "동사",
+   "meaning": "모으다 (함께 모아 고르다)",
+   "en": "My brother collects old coins.",
+   "ko": "우리 형은 옛날 동전을 모아요."
+  },
+  {
+   "word": "eligible",
+   "pos": "형용사",
+   "meaning": "자격이 있는 (뽑힐 수 있는)",
+   "en": "Students over 16 are eligible for the program.",
+   "ko": "16세 이상 학생들은 그 프로그램에 참여할 자격이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 과목 중에서 듣고 싶은 수업을 고르는 수강 신청 화면",
+ "imageCaption": "미술, 코딩, 일본어 중 하나를 골라 클릭하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Cooking is an elective, but for me it's a mission!",
+ "movieLineKo": "요리는 선택 과목이지만, 나한텐 사명이야!",
+ "storyTitle": "선택 과목 대소동",
+ "story": "고등학생 유나는 elective(선택 과목)를 select(선택하다)해야 했어요. 친구들은 쉬운 과목을 고르라며 투표까지 했죠. 마치 반장 election(선거) 같았어요! 결국 유나는 '제빵'을 골랐어요. 학기 말, 유나는 빵을 잔뜩 구워 친구들에게 나눠 줬고, 다음 반장으로 elect(선출하다)되었답니다."
+}

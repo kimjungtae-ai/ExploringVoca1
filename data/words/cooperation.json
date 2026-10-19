@@ -1,0 +1,81 @@
+{
+ "word": "cooperation",
+ "pos": "명사",
+ "phonetic": "[koʊˌɑːpəˈreɪʃən]",
+ "meaning": "협력, 협동, 협조",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "함께 (together)",
+   "note": "con-이 모음 앞에서 줄어든 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "oper",
+   "meaning": "일하다 (work)",
+   "note": "라틴어 operari(일하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (함께) + <strong>oper</strong> (일하다) + <strong>-ation</strong> (~것) = '함께 일하는 것'에서 <strong>'협력, 협동'</strong>이 되었어요.",
+ "historyTitle": "오페라와 같은 뿌리, '일'",
+ "historyBody": "cooperate는 라틴어 cooperari(함께 일하다)에서 왔어요. co-(함께)와 operari(일하다)가 합쳐진 말이고, operari의 뿌리 opus(일, 작품)는 opera(오페라)에도 남아 있어요. 오페라도 원래 '작품'이라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cooperate",
+   "pos": "동사",
+   "meaning": "협력하다",
+   "en": "Countries must cooperate to fight climate change.",
+   "ko": "나라들은 기후 변화에 맞서기 위해 협력해야 해요."
+  },
+  {
+   "word": "cooperative",
+   "pos": "형용사",
+   "meaning": "협력하는",
+   "en": "A cooperative attitude helps teamwork.",
+   "ko": "협력하는 태도는 팀워크에 도움이 돼요."
+  },
+  {
+   "word": "operate",
+   "pos": "동사",
+   "meaning": "작동하다, 운영하다, 수술하다",
+   "en": "The doctor will operate on his knee tomorrow.",
+   "ko": "의사가 내일 그의 무릎을 수술할 거예요."
+  },
+  {
+   "word": "operation",
+   "pos": "명사",
+   "meaning": "수술, 작동, 작전",
+   "en": "The operation was successful.",
+   "ko": "수술은 성공적이었어요."
+  },
+  {
+   "word": "opera",
+   "pos": "명사",
+   "meaning": "오페라",
+   "en": "We watched a famous opera in Italy.",
+   "ko": "우리는 이탈리아에서 유명한 오페라를 봤어요."
+  },
+  {
+   "word": "operator",
+   "pos": "명사",
+   "meaning": "조작자, 교환원",
+   "en": "The operator answered my call quickly.",
+   "ko": "교환원이 내 전화를 빨리 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄다리기에서 모두 함께 줄을 당기는 장면",
+ "imageCaption": "한목소리로 '영차!'를 외치며 줄을 당기는 반 친구들을 떠올려 보세요. 함께 힘을 모으는 것이 cooperation이에요.",
+ "movieLineEn": "Thank you for your cooperation, detective.",
+ "movieLineKo": "협조해 주셔서 감사합니다, 형사님.",
+ "storyTitle": "고양이 세 마리의 냉장고 작전",
+ "story": "고양이 세 마리가 냉장고를 열기 위해 cooperation(협동)했어요. 한 마리는 문을 operate(조작하다)하고, 나머지는 망을 봤죠. 완벽하게 cooperate(협력하다)한 operation(작전)이었어요! 그런데 문을 열자 안에는 고양이들이 제일 싫어하는 오이만 가득했대요."
+}

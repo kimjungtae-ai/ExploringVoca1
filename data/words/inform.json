@@ -1,0 +1,75 @@
+{
+ "word": "inform",
+ "pos": "동사",
+ "phonetic": "[ɪnˈfɔːrm]",
+ "meaning": "알리다, 통지하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안쪽에 무언가를 넣는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "form",
+   "meaning": "모양, 형태 (shape)",
+   "note": "라틴어 forma(모양)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>form</strong> (모양) = '머릿속에 모양을 만들어 주다'라는 뜻에서 <strong>'알리다'</strong>가 되었습니다.",
+ "historyTitle": "생각에 모양을 빚어 주기",
+ "historyBody": "라틴어 'informare'는 '모양을 만들다, 가르치다'라는 뜻이었어요. 아직 모양이 없는 생각에 지식이라는 형태를 넣어 주는 것이 곧 알려 주는 일이었던 거죠. 14세기에 영어에 들어와 '알리다'라는 뜻이 중심이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "information",
+   "pos": "명사",
+   "meaning": "정보",
+   "en": "This website has useful information.",
+   "ko": "이 웹사이트에는 유용한 정보가 있어요."
+  },
+  {
+   "word": "informative",
+   "pos": "형용사",
+   "meaning": "유익한, 정보를 주는",
+   "en": "The lecture was very informative.",
+   "ko": "그 강의는 매우 유익했어요."
+  },
+  {
+   "word": "formation",
+   "pos": "명사",
+   "meaning": "형성, 대형",
+   "en": "The birds flew in a V formation.",
+   "ko": "새들이 V자 대형으로 날아갔어요."
+  },
+  {
+   "word": "transform",
+   "pos": "동사",
+   "meaning": "변형시키다, 바꾸다",
+   "en": "The old factory was transformed into a museum.",
+   "ko": "낡은 공장이 박물관으로 바뀌었어요."
+  },
+  {
+   "word": "reform",
+   "pos": "동사 / 명사",
+   "meaning": "개혁하다 / 개혁",
+   "en": "The government plans to reform the school system.",
+   "ko": "정부는 학교 제도를 개혁할 계획이에요."
+  },
+  {
+   "word": "uniform",
+   "pos": "명사 / 형용사",
+   "meaning": "교복, 제복 / 균일한",
+   "en": "Students must wear a uniform at school.",
+   "ko": "학생들은 학교에서 교복을 입어야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 안내 방송으로 승객들에게 소식을 알려 주는 장면",
+ "imageCaption": "아무것도 모르던 머릿속에 소식이라는 모양을 쏙 넣어 주는 모습을 떠올려 보세요. 그게 inform이에요.",
+ "movieLineEn": "I regret to inform you that the princess is missing.",
+ "movieLineKo": "공주님이 사라지셨다는 소식을 알려 드리게 되어 유감입니다.",
+ "storyTitle": "교복 소식 대소동",
+ "story": "교장 선생님이 내일부터 uniform(교복)이 바뀐다고 inform(알리다)하셨어요. 학생들은 information(정보)을 찾아 난리였죠. 새 교복이 학교를 transform(변화시키다)할 거라는 소문도 돌았어요. 다음 날 공개된 교복은… 기존 교복에 이름표 색만 바뀐 거였대요."
+}

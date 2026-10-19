@@ -1,0 +1,80 @@
+{
+ "word": "unnecessary",
+ "pos": "형용사",
+ "phonetic": "[ʌnˈnesəseri]",
+ "meaning": "불필요한, 쓸데없는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "un-",
+   "meaning": "~이 아닌 (not)",
+   "note": "뒤에 오는 말의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ne-",
+   "meaning": "~이 아닌 (not)",
+   "note": "라틴어에서 부정을 나타내던 작은 말이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cess (← cedere)",
+   "meaning": "물러서다, 양보하다 (yield, go)",
+   "note": "라틴어 cedere(가다, 물러나다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ary",
+   "meaning": "~에 관한 (형용사형)",
+   "note": "형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>un-</strong> (아닌) + <strong>ne-</strong> (아닌) + <strong>cess</strong> (물러서다) + <strong>-ary</strong> = 피할 수 없는 일이 아닌, 즉 <strong>'불필요한'</strong>이 되었어요.",
+ "historyTitle": "물러설 수 없는 것이 '필요'",
+ "historyBody": "necessary는 라틴어 'necesse(꼭 필요한, 피할 수 없는)'에서 왔어요. 많은 사전은 이 말을 'ne-(아닌) + cedere(물러서다)', 즉 '물러설 수 없는 것'으로 풀이하지만, 확실한 정설은 아니라서 기억을 돕는 설명 정도로 받아들이면 좋아요. 여기에 다시 un-이 붙어 unnecessary는 '꼭 해야 하지는 않은, 불필요한'이 되었답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "necessary",
+   "pos": "형용사",
+   "meaning": "필요한",
+   "en": "Water is necessary for all living things.",
+   "ko": "물은 모든 생물에게 필요해요."
+  },
+  {
+   "word": "necessity",
+   "pos": "명사",
+   "meaning": "필요(성), 필수품",
+   "en": "A phone has become a necessity in modern life.",
+   "ko": "휴대폰은 현대 생활의 필수품이 되었어요."
+  },
+  {
+   "word": "necessarily",
+   "pos": "부사",
+   "meaning": "반드시, 필연적으로",
+   "en": "Expensive things are not necessarily better.",
+   "ko": "비싼 것이 반드시 더 좋은 것은 아니에요."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 계속하다",
+   "en": "Please proceed to the next question.",
+   "ko": "다음 질문으로 넘어가 주세요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "Your bag must not exceed 20 kilograms.",
+   "ko": "가방은 20킬로그램을 넘으면 안 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 가방 속에 가득 찬 쓸데없는 물건들",
+ "imageCaption": "여행 가방에 쓰지도 않을 물건을 잔뜩 넣은 모습을 떠올려 보세요. 꼭 필요하지 않은 짐이 unnecessary예요.",
+ "movieLineEn": "Don't take unnecessary risks. Just walk away.",
+ "movieLineKo": "쓸데없는 위험은 감수하지 마. 그냥 물러나.",
+ "storyTitle": "캠핑 짐 대소동",
+ "story": "아빠는 캠핑에 necessary(필요한) 것만 챙기겠다고 했어요. 그런데 차에는 노래방 기계, 안마 의자, 피아노까지 있었죠. 엄마는 다 unnecessary(불필요한) 짐이라며 한숨 쉬었어요. 결국 짐 무게가 차 한도를 exceed(초과하다)해서 우리는 마당에 텐트를 쳤답니다. 이게 진짜 necessity(필수)만 남긴 캠핑이에요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "stay in touch",
+ "pos": "숙어",
+ "phonetic": "[steɪ ɪn tʌtʃ]",
+ "meaning": "연락하고 지내다, 계속 연락하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stay",
+   "meaning": "머무르다, 계속 ~한 상태로 있다 (remain)",
+   "note": "어떤 상태를 그대로 유지한다는 느낌을 더해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "어떤 상태 '안에' 들어가 있다는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "touch",
+   "meaning": "접촉, 닿음 (contact)",
+   "note": "손이 닿듯 서로 연결되어 있다는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>stay</strong> (계속 있다) + <strong>in touch</strong> (닿아 있는 상태) = '서로 닿아 있는 상태로 계속 머물다'에서 <strong>'연락하고 지내다'</strong>",
+ "historyTitle": "손끝의 '닿음'이 '연락'이 되기까지",
+ "historyBody": "stay는 '서다'를 뜻하는 라틴어 stare가 고대 프랑스어 ester를 거쳐 들어온 말이에요. touch는 고대 프랑스어 tochier에서 왔고, 원래 몸이 직접 닿는 것을 뜻했어요. 이 '닿음'이 점차 편지나 소식으로 '연결되어 있음'까지 넓어지면서 in touch가 '연락이 닿는'이라는 뜻을 갖게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "keep in touch",
+   "pos": "숙어",
+   "meaning": "연락을 유지하다",
+   "en": "Let's keep in touch after graduation.",
+   "ko": "졸업 후에도 연락하고 지내자."
+  },
+  {
+   "word": "get in touch with",
+   "pos": "숙어",
+   "meaning": "~와 연락하다",
+   "en": "Please get in touch with me if you have any questions.",
+   "ko": "질문이 있으면 저에게 연락해 주세요."
+  },
+  {
+   "word": "lose touch with",
+   "pos": "숙어",
+   "meaning": "~와 연락이 끊기다",
+   "en": "I lost touch with my old friends after moving.",
+   "ko": "이사한 뒤로 옛 친구들과 연락이 끊겼어요."
+  },
+  {
+   "word": "out of touch",
+   "pos": "형용사구",
+   "meaning": "연락이 끊긴, 시대에 뒤떨어진",
+   "en": "His ideas seem a little out of touch with young people.",
+   "ko": "그의 생각은 젊은 사람들과 좀 동떨어진 것 같아요."
+  },
+  {
+   "word": "contact",
+   "pos": "동사 / 명사",
+   "meaning": "연락하다 / 연락",
+   "en": "You can contact the office by email.",
+   "ko": "이메일로 사무실에 연락할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 멀리 떨어진 두 친구가 휴대폰으로 메시지를 주고받는 장면",
+ "imageCaption": "서울과 부산에 있는 두 친구의 휴대폰이 보이지 않는 실로 이어져 있다고 상상해 보세요.",
+ "movieLineEn": "No matter where we go, let's stay in touch, okay?",
+ "movieLineKo": "우리가 어디로 가든, 계속 연락하고 지내자, 알았지?",
+ "storyTitle": "연락 유지 대작전",
+ "story": "졸업식 날 민수는 친구들에게 \"우리 꼭 stay in touch(연락하고 지내다)하자!\"라고 외쳤어요. 그런데 단톡방에서 lose touch(연락이 끊기다)될까 봐 매일 아침 contact(연락하다)했죠. 결국 친구들이 get in touch with(~와 연락하다) 엄마에게 부탁했어요. \"민수 좀 그만 연락하게 해 주세요!\""
+}

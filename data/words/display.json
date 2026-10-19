@@ -1,0 +1,61 @@
+{
+ "word": "display",
+ "pos": "동사 / 명사",
+ "phonetic": "[dɪˈspleɪ]",
+ "meaning": "보여 주다, 전시하다, 드러내다 / 전시, 화면",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "반대로, 풀어서 (apart, un-)",
+   "note": "접힌 것을 반대로 푼다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "play",
+   "meaning": "접다 (fold)",
+   "note": "라틴어 plicare(접다)에서 왔어요. 놀이(play)와는 다른 말이에요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (풀어서) + <strong>play</strong> (접다) = '접힌 것을 펼치다'에서 <strong>'보여 주다, 전시하다'</strong>가 되었어요.",
+ "historyTitle": "깃발을 펼쳐 보이다",
+ "historyBody": "display는 고대 프랑스어 despleier(펼치다)에서 왔고, 그 뿌리는 라틴어 displicare(펼쳐 흩다)예요. 접힌 깃발이나 천을 활짝 펼쳐 모두가 보게 하는 것이 '보여 주다, 전시하다'가 되었어요. 같은 말에서 deploy(배치하다)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "deploy",
+   "pos": "동사",
+   "meaning": "배치하다, 활용하다",
+   "en": "The city deployed more police officers downtown.",
+   "ko": "시는 도심에 더 많은 경찰관을 배치했어요."
+  },
+  {
+   "word": "apply",
+   "pos": "동사",
+   "meaning": "적용하다, 지원하다",
+   "en": "You can apply this rule to many problems.",
+   "ko": "이 규칙은 많은 문제에 적용할 수 있어요."
+  },
+  {
+   "word": "complicated",
+   "pos": "형용사",
+   "meaning": "복잡한",
+   "en": "The instructions were too complicated to follow.",
+   "ko": "설명서가 너무 복잡해서 따라 할 수 없었어요."
+  },
+  {
+   "word": "explicit",
+   "pos": "형용사",
+   "meaning": "명백한, 분명한",
+   "en": "The teacher gave explicit instructions.",
+   "ko": "선생님이 분명한 지시를 내려 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가게 쇼윈도에 예쁜 상품들이 펼쳐 놓인 장면",
+ "imageCaption": "접혀 있던 옷을 쫙 펼쳐 진열대에 걸어 두는 모습을 떠올려 보세요.",
+ "movieLineEn": "Put it on display so the whole world can see it!",
+ "movieLineKo": "전 세계가 볼 수 있게 전시해 둬!",
+ "storyTitle": "과학 전시회 대소동",
+ "story": "준서는 과학 전시회에 로봇을 display(전시하다)했어요. 설명서가 complicated(복잡한)해서 아무도 못 다뤘죠. 심사위원이 버튼을 누르자 로봇이 팔을 deploy(펼치다)하며 explicit(분명한) 목소리로 말했어요. \"준서 숙제 대신 해 주는 중입니다.\""
+}

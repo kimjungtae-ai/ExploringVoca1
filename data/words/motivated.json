@@ -1,0 +1,68 @@
+{
+ "word": "motivated",
+ "pos": "형용사",
+ "phonetic": "[ˈmoʊtɪveɪtɪd]",
+ "meaning": "의욕이 있는, 동기가 부여된, (~에) 자극받은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "motivate",
+   "meaning": "동기를 부여하다 (motivate)",
+   "note": "motive(동기)에 -ate가 붙은 동사이고, 뿌리는 라틴어 movere(움직이다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (상태)",
+   "note": "동사를 '그렇게 된 상태'의 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>motivate</strong> (동기를 부여하다) + <strong>-ed</strong> (~된) = 마음이 움직여진 상태라서 <strong>'의욕이 있는'</strong>이 되었어요.",
+ "historyTitle": "움직여진 마음",
+ "historyBody": "motivated는 '마음이 움직여진' 상태를 나타내요. 뿌리인 라틴어 movere(움직이다)는 move, motion, emotion까지 낳은 아주 큰 가족이에요. 'politically motivated(정치적 동기에서 비롯된)'처럼 행동의 이유를 말할 때도 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "motivate",
+   "pos": "동사",
+   "meaning": "동기를 부여하다",
+   "en": "Praise can motivate children to try harder.",
+   "ko": "칭찬은 아이들이 더 노력하도록 동기를 줄 수 있어요."
+  },
+  {
+   "word": "motivation",
+   "pos": "명사",
+   "meaning": "동기 부여, 의욕",
+   "en": "She lost her motivation after the long vacation.",
+   "ko": "그녀는 긴 방학 후에 의욕을 잃었어요."
+  },
+  {
+   "word": "motive",
+   "pos": "명사",
+   "meaning": "동기",
+   "en": "His motive for helping was simple kindness.",
+   "ko": "그가 도운 동기는 단순한 친절이었어요."
+  },
+  {
+   "word": "unmotivated",
+   "pos": "형용사",
+   "meaning": "의욕이 없는",
+   "en": "I feel unmotivated on rainy Mondays.",
+   "ko": "비 오는 월요일에는 의욕이 없어요."
+  },
+  {
+   "word": "motion",
+   "pos": "명사",
+   "meaning": "움직임",
+   "en": "The car started to move in slow motion.",
+   "ko": "차가 느린 움직임으로 출발하기 시작했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈을 반짝이며 책상 앞에 앉은 의욕 넘치는 학생",
+ "imageCaption": "새 다이어리에 계획을 빼곡히 적으며 주먹을 불끈 쥐는 학생을 떠올려 보세요.",
+ "movieLineEn": "I've never been more motivated in my life!",
+ "movieLineKo": "내 인생에서 이렇게 의욕이 넘친 적은 없었어!",
+ "storyTitle": "새해 첫날의 의욕",
+ "story": "1월 1일, 준호는 엄청 motivated(의욕이 있는) 상태였어요. 계획표에 motivation(의욕)이 넘치는 목표를 30개나 적었죠. 하지만 1월 2일이 되자 unmotivated(의욕이 없는) 상태로 침대와 한 몸이 됐어요. 그의 motive(동기)는 '내일부터 진짜 시작'이었답니다."
+}

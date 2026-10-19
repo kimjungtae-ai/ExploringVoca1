@@ -1,0 +1,61 @@
+{
+ "word": "doubt",
+ "pos": "동사 / 명사",
+ "phonetic": "[daʊt]",
+ "meaning": "의심하다, ~이 아니라고 생각하다 / 의심, 의혹",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "doubt (dubitare)",
+   "meaning": "망설이다, 의심하다 (hesitate, waver)",
+   "note": "라틴어 dubitare에서 왔고, dubius(두 마음의)와 관련 있어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "du- (duo)",
+   "meaning": "둘 (two)",
+   "note": "주요 사전들은 dubius가 duo(둘)와 관련 있다고 봐요. 두 갈래 사이에서 흔들리는 마음이죠."
+  }
+ ],
+ "summary": "<strong>du-</strong> (둘)과 관련된 <strong>dubitare</strong> (망설이다) = '두 마음 사이에서 흔들리다'라는 뜻에서 <strong>'의심하다'</strong>가 되었어요.",
+ "historyTitle": "소리 나지 않는 b의 비밀",
+ "historyBody": "doubt는 고대 프랑스어 douter에서 왔고, 그 뿌리는 라틴어 dubitare(망설이다)예요. 중세 영어에서는 doute라고 썼는데, 학자들이 라틴어를 닮게 하려고 b를 끼워 넣었어요. 그래서 지금도 b는 소리 나지 않는답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "doubtful",
+   "pos": "형용사",
+   "meaning": "의심스러운, 확신이 없는",
+   "en": "It is doubtful that the game will start on time.",
+   "ko": "경기가 제시간에 시작할지 의심스러워요."
+  },
+  {
+   "word": "undoubtedly",
+   "pos": "부사",
+   "meaning": "의심할 여지 없이, 틀림없이",
+   "en": "She is undoubtedly the best player on our team.",
+   "ko": "그녀는 틀림없이 우리 팀 최고의 선수예요."
+  },
+  {
+   "word": "doubtless",
+   "pos": "부사",
+   "meaning": "틀림없이, 아마",
+   "en": "Doubtless, you have heard this story before.",
+   "ko": "틀림없이 이 이야기를 전에 들어 봤을 거예요."
+  },
+  {
+   "word": "dubious",
+   "pos": "형용사",
+   "meaning": "의심스러운, 수상한",
+   "en": "He gave me a dubious excuse for being late.",
+   "ko": "그는 지각에 대해 수상한 핑계를 댔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 갈림길 앞에서 어느 쪽으로 갈지 망설이는 사람",
+ "imageCaption": "두 갈래 길 앞에서 고개를 갸웃하며 '정말 이 길이 맞나?' 고민하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Never doubt yourself. You were born for this.",
+ "movieLineKo": "절대 자신을 의심하지 마. 넌 이걸 위해 태어났어.",
+ "storyTitle": "의심 많은 탐정",
+ "story": "탐정 고양이는 모든 것을 doubt(의심하다)해요. 생선 가게 주인의 dubious(수상한) 미소도, 강아지의 doubtful(의심스러운) 알리바이도 다 수상했죠. \"범인은 undoubtedly(틀림없이) 이 안에 있다!\" 그런데 사라진 생선은 탐정 자신의 배 속에 있었어요. 어젯밤 잠결에 먹었던 거예요!"
+}

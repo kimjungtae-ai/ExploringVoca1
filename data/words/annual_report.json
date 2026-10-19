@@ -1,0 +1,68 @@
+{
+ "word": "annual report",
+ "pos": "명사구",
+ "phonetic": "[ˈænjuəl rɪˈpɔːrt]",
+ "meaning": "연례 보고서, 연차 보고서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "annual",
+   "meaning": "매년의, 연간의 (yearly)",
+   "note": "라틴어 annus(해, 년)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "report",
+   "meaning": "보고서 (report)",
+   "note": "re-(다시)+portare(나르다), 소식을 다시 날라 전하는 거예요."
+  }
+ ],
+ "summary": "<strong>annual</strong> (매년의) + <strong>report</strong> (보고서) = <strong>'매년 내는 보고서'</strong>예요.",
+ "historyTitle": "라틴어 annus, '한 해'",
+ "historyBody": "annual은 라틴어 annualis에서 왔고, 그 뿌리 annus는 '해, 년'이에요. anniversary(기념일)도 '해마다 돌아오는 날'이라는 뜻이죠. report는 라틴어 reportare(다시 나르다)에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "anniversary",
+   "pos": "명사",
+   "meaning": "기념일",
+   "en": "Today is my parents' 20th wedding anniversary.",
+   "ko": "오늘은 부모님의 결혼 20주년 기념일이에요."
+  },
+  {
+   "word": "annually",
+   "pos": "부사",
+   "meaning": "매년",
+   "en": "The festival is held annually in October.",
+   "ko": "그 축제는 매년 10월에 열려요."
+  },
+  {
+   "word": "reporter",
+   "pos": "명사",
+   "meaning": "기자",
+   "en": "The reporter asked the mayor a tough question.",
+   "ko": "기자가 시장에게 어려운 질문을 했어요."
+  },
+  {
+   "word": "survey",
+   "pos": "명사",
+   "meaning": "설문 조사",
+   "en": "According to the survey, most teens sleep too little.",
+   "ko": "설문 조사에 따르면 대부분의 십 대는 잠이 부족해요."
+  },
+  {
+   "word": "biannual",
+   "pos": "형용사",
+   "meaning": "1년에 두 번의",
+   "en": "The club holds a biannual meeting.",
+   "ko": "그 동아리는 1년에 두 번 회의를 열어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회사 회의실에서 두꺼운 1년치 보고서를 넘기는 장면",
+ "imageCaption": "1년 동안의 성적표를 한 권에 모은 두꺼운 책을 떠올려 보세요.",
+ "movieLineEn": "Read the annual report. The numbers don't lie.",
+ "movieLineKo": "연례 보고서를 읽어 봐. 숫자는 거짓말을 안 해.",
+ "storyTitle": "사장님의 연례 보고서",
+ "story": "사장님이 annual report(연례 보고서)를 발표하셨어요. 회사의 anniversary(기념일)도 annually(매년) 축하하자고 하셨죠. reporter(기자)들이 몰려와 핵심 내용을 묻자, 사장님은 '올해 가장 큰 성과는 회사 고양이 체중 2kg 증가'라고 답하셨답니다!"
+}

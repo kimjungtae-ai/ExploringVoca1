@@ -1,0 +1,61 @@
+{
+ "word": "rating",
+ "pos": "명사",
+ "phonetic": "[ˈreɪtɪŋ]",
+ "meaning": "평가, 등급, 순위, 시청률",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "rate",
+   "meaning": "평가하다, 매기다 (reckon)",
+   "note": "라틴어 ratus(계산된)에서 온 rate가 바탕이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하기, ~한 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>rate</strong> (평가하다) + <strong>-ing</strong> (~한 것) = '평가해서 매긴 것'이라는 뜻에서 <strong>'평가, 등급, 시청률'</strong>이 되었어요.",
+ "historyTitle": "선원의 계급에서 시청률까지",
+ "historyBody": "rating은 16세기 말부터 쓰였고, 18세기에는 영국 해군에서 선원의 '등급'을 뜻했어요. 20세기에 라디오와 TV가 생기면서 '시청률'이라는 뜻이 더해졌지요. 뿌리인 rate는 라틴어 reri(계산하다)에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rate",
+   "pos": "명사 / 동사",
+   "meaning": "비율, 요금 / 평가하다",
+   "en": "The unemployment rate fell this year.",
+   "ko": "올해 실업률이 떨어졌어요."
+  },
+  {
+   "word": "ratio",
+   "pos": "명사",
+   "meaning": "비율",
+   "en": "Mix water and flour in a ratio of one to two.",
+   "ko": "물과 밀가루를 1대 2 비율로 섞으세요."
+  },
+  {
+   "word": "rational",
+   "pos": "형용사",
+   "meaning": "합리적인",
+   "en": "He gave a rational explanation for the delay.",
+   "ko": "그는 지연에 대해 합리적인 설명을 했어요."
+  },
+  {
+   "word": "reason",
+   "pos": "명사",
+   "meaning": "이유, 이성",
+   "en": "She had a good reason for being late.",
+   "ko": "그녀가 늦은 데는 타당한 이유가 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 앱 화면에 별 다섯 개 평점이 반짝이는 장면",
+ "imageCaption": "별을 하나씩 칠하며 점수를 매기는 모습을 떠올려 보세요.",
+ "movieLineEn": "The ratings are through the roof!",
+ "movieLineKo": "시청률이 하늘을 찌르고 있어!",
+ "storyTitle": "시청률 1위 강아지",
+ "story": "강아지 유튜브 채널의 rating(시청률)이 1위가 되었어요. 구독자 증가 rate(속도)도 엄청났죠. 사람들은 그 reason(이유)을 분석했어요. 영상의 웃음과 감동 ratio(비율)가 완벽하다나요? 하지만 진짜 비결은 따로 있었어요. 강아지가 매번 카메라 앞에서 방귀를 뀌었거든요!"
+}

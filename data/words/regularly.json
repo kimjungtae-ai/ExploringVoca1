@@ -1,0 +1,88 @@
+{
+ "word": "regularly",
+ "pos": "부사",
+ "phonetic": "[ˈreɡjələrli]",
+ "meaning": "규칙적으로, 정기적으로, 자주",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "regul",
+   "meaning": "자, 규칙 (rule)",
+   "note": "라틴어 regula(곧은 자, 규칙)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar",
+   "meaning": "~에 맞는 (형용사)",
+   "note": "regular(규칙적인)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>regul</strong> (규칙) + <strong>-ar</strong> (~에 맞는) + <strong>-ly</strong> (~하게) = 규칙에 맞게, 즉 <strong>'규칙적으로, 정기적으로'</strong>예요.",
+ "historyTitle": "수도사들의 반듯한 하루",
+ "historyBody": "regular는 라틴어 regula(자, 규칙)에서 왔어요. 중세 수도사들은 기도, 식사, 일을 정해진 규칙에 따라 매일 똑같이 반복했어요. 이렇게 '규칙대로 반복되는' 모습이 regularly(규칙적으로)라는 말에 담겨 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regular",
+   "pos": "형용사",
+   "meaning": "규칙적인, 정기적인",
+   "en": "Regular meals help students stay focused.",
+   "ko": "규칙적인 식사는 학생들이 집중하는 데 도움이 돼요."
+  },
+  {
+   "word": "regulate",
+   "pos": "동사",
+   "meaning": "조절하다, 규제하다",
+   "en": "Plants help regulate the amount of carbon dioxide.",
+   "ko": "식물은 이산화탄소의 양을 조절하는 데 도움을 줘요."
+  },
+  {
+   "word": "regulation",
+   "pos": "명사",
+   "meaning": "규정, 규제",
+   "en": "The school has strict regulations about phone use.",
+   "ko": "그 학교는 휴대폰 사용에 대한 엄격한 규정이 있어요."
+  },
+  {
+   "word": "irregular",
+   "pos": "형용사",
+   "meaning": "불규칙한",
+   "en": "The patient had an irregular heartbeat.",
+   "ko": "그 환자는 심장 박동이 불규칙했어요."
+  },
+  {
+   "word": "rule",
+   "pos": "명사 / 동사",
+   "meaning": "규칙 / 다스리다",
+   "en": "Everyone must follow the school rules.",
+   "ko": "모든 사람은 학교 규칙을 따라야 해요."
+  },
+  {
+   "word": "region",
+   "pos": "명사",
+   "meaning": "지역",
+   "en": "This region is famous for its apples.",
+   "ko": "이 지역은 사과로 유명해요."
+  },
+  {
+   "word": "reign",
+   "pos": "명사 / 동사",
+   "meaning": "통치 / 통치하다",
+   "en": "Queen Victoria's reign lasted over sixty years.",
+   "ko": "빅토리아 여왕의 통치는 60년 넘게 이어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 아침 같은 시간에 공원을 달리는 사람",
+ "imageCaption": "비가 오나 눈이 오나 매일 아침 7시에 공원을 도는 이웃을 떠올려 보세요. 규칙대로 반복하는 모습이 regularly예요.",
+ "movieLineEn": "He comes here regularly. Every full moon.",
+ "movieLineKo": "그는 정기적으로 여기 와. 보름달이 뜰 때마다.",
+ "storyTitle": "물 주기 대작전",
+ "story": "선생님은 교실 화분에 regularly(규칙적으로) 물을 주라는 rule(규칙)을 정했어요. 우리는 regular(정기적인) 당번표까지 만들었죠. 그런데 모두가 너무 열심히 한 나머지 하루에 열 번씩 물을 줬어요. 결국 선생님이 물 양을 regulate(조절하다)하는 새 규정을 만들었어요. 화분은 사실 조화였는데 말이죠!"
+}

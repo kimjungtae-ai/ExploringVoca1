@@ -1,0 +1,68 @@
+{
+ "word": "focus on",
+ "pos": "구동사",
+ "phonetic": "[ˈfoʊkəs ɑːn]",
+ "meaning": "~에 집중하다, ~에 초점을 맞추다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "focus",
+   "meaning": "초점; 집중하다 (focus)",
+   "note": "라틴어 focus(화로, 난로)에서 온 말이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~ 위에, ~에 (on)",
+   "note": "주의를 어떤 대상 '위에' 딱 붙이는 이미지예요."
+  }
+ ],
+ "summary": "<strong>focus</strong> (초점을 모으다) + <strong>on</strong> (~에 딱 붙여) = '한 대상에 초점을 맞추다'라서 <strong>'~에 집중하다'</strong>예요.",
+ "historyTitle": "집 한가운데의 화로",
+ "historyBody": "focus는 라틴어로 '화로, 난로'라는 뜻이었어요. 화로는 집의 중심이었고, 1604년 천문학자 케플러가 빛이 모여 불이 붙는 점을 focus라고 부르면서 '초점'이라는 뜻이 생겼어요. 돋보기로 햇빛을 모아 종이를 태우는 그 지점을 떠올리면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "concentrate on",
+   "pos": "구동사",
+   "meaning": "~에 집중하다",
+   "en": "I can't concentrate on my homework with the TV on.",
+   "ko": "TV가 켜져 있으면 숙제에 집중할 수 없어요."
+  },
+  {
+   "word": "pay attention to",
+   "pos": "숙어",
+   "meaning": "~에 주의를 기울이다",
+   "en": "Pay attention to the teacher's instructions.",
+   "ko": "선생님의 지시에 주의를 기울이세요."
+  },
+  {
+   "word": "concentrate",
+   "pos": "동사",
+   "meaning": "집중하다",
+   "en": "Quiet music helps me concentrate.",
+   "ko": "조용한 음악은 내가 집중하는 데 도움이 돼요."
+  },
+  {
+   "word": "be absorbed in",
+   "pos": "숙어",
+   "meaning": "~에 몰두하다",
+   "en": "He was absorbed in a comic book.",
+   "ko": "그는 만화책에 푹 빠져 있었어요."
+  },
+  {
+   "word": "out of focus",
+   "pos": "형용사구",
+   "meaning": "초점이 맞지 않는",
+   "en": "The photo is a little out of focus.",
+   "ko": "그 사진은 초점이 조금 맞지 않아요."
+  }
+ ],
+ "imageSense": "대표 의미: 돋보기로 햇빛을 한 점에 모으는 장면",
+ "imageCaption": "흩어진 빛이 한 점에 모이듯, 마음을 한 곳에 모으는 모습을 떠올려 보세요.",
+ "movieLineEn": "Forget the crowd. Just focus on the ball.",
+ "movieLineKo": "관중은 잊어. 공에만 집중해.",
+ "storyTitle": "집중력 대마왕",
+ "story": "나는 공부에 focus on(집중하다)하려고 휴대폰을 껐어요. 수학에 concentrate on(집중하다)하며 문제에 be absorbed in(몰두하다)했죠. 세 시간 뒤 엄마가 불렀어요. 너무 집중해서 저녁 먹으라는 말도 못 들었대요. 그런데 다시 보니 내가 세 시간 동안 푼 건 수학 문제집이 아니라 동생의 색칠 공부 책이었어요!"
+}

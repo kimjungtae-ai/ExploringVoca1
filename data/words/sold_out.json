@@ -1,0 +1,68 @@
+{
+ "word": "sold out",
+ "pos": "형용사구",
+ "phonetic": "[soʊld aʊt]",
+ "meaning": "매진된, 품절된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "sold",
+   "meaning": "팔린 (sold)",
+   "note": "sell(팔다)의 과거분사로 '팔린'이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "끝까지, 완전히 (out)",
+   "note": "하나도 남김없이 '끝까지' 다 나간 이미지예요."
+  }
+ ],
+ "summary": "<strong>sold</strong> (팔린) + <strong>out</strong> (끝까지, 다) = '끝까지 다 팔린'이라서 <strong>'매진된, 품절된'</strong>이에요.",
+ "historyTitle": "넘겨준다는 sell",
+ "historyBody": "sell은 고대 영어 'sellan'에서 왔는데, 원래는 '주다, 넘겨주다'라는 뜻이었어요. 나중에 '돈을 받고 넘겨주다', 즉 '팔다'로 뜻이 좁아졌어요. 여기에 '완전히'를 뜻하는 out이 붙어 sell out(다 팔다)이 되었고, 그 결과 상태가 sold out(매진된)이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sell out",
+   "pos": "구동사",
+   "meaning": "다 팔다, 매진되다",
+   "en": "The concert tickets sold out in five minutes.",
+   "ko": "콘서트 표가 5분 만에 매진됐어요."
+  },
+  {
+   "word": "out of stock",
+   "pos": "숙어",
+   "meaning": "품절된, 재고가 없는",
+   "en": "Sorry, that size is out of stock.",
+   "ko": "죄송하지만 그 사이즈는 품절이에요."
+  },
+  {
+   "word": "in stock",
+   "pos": "숙어",
+   "meaning": "재고가 있는",
+   "en": "Do you have this item in stock?",
+   "ko": "이 상품 재고 있나요?"
+  },
+  {
+   "word": "run out of",
+   "pos": "구동사",
+   "meaning": "~이 다 떨어지다",
+   "en": "The bakery ran out of bread by noon.",
+   "ko": "그 빵집은 정오쯤 빵이 다 떨어졌어요."
+  },
+  {
+   "word": "best seller",
+   "pos": "명사구",
+   "meaning": "베스트셀러",
+   "en": "Her new novel became a best seller.",
+   "ko": "그녀의 새 소설은 베스트셀러가 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매표소 창구에 'SOLD OUT' 팻말이 걸린 장면",
+ "imageCaption": "줄을 한참 서서 겨우 매표소에 도착했는데 창구에 'SOLD OUT' 팻말이 딱 걸리는 순간을 떠올려 보세요.",
+ "movieLineEn": "Sorry, kid. The show's sold out.",
+ "movieLineKo": "미안하다, 꼬마야. 공연은 매진이야.",
+ "storyTitle": "매진의 진실",
+ "story": "아이돌 콘서트 티켓이 sold out(매진된)됐다는 소식에 누나는 울었어요. 굿즈도 out of stock(품절된)이었죠. 다들 sell out(매진되다)이 1분 만이었대요. 그런데 다음 날 엄마가 VIP 티켓 두 장을 내밀었어요. 알고 보니 엄마도 같은 아이돌 팬이라 새벽에 대기했대요. 누나 대신 엄마가 아빠랑 갔답니다."
+}

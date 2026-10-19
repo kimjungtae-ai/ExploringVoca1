@@ -1,0 +1,55 @@
+{
+ "word": "knit",
+ "pos": "동사 / 명사",
+ "phonetic": "[nɪt]",
+ "meaning": "뜨개질하다, 짜다, 결합시키다 / 니트, 뜨개옷",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "knit",
+   "meaning": "매듭을 묶다 (tie in a knot)",
+   "note": "고대 영어 cnyttan에서 왔고, knot(매듭)과 같은 뿌리예요."
+  }
+ ],
+ "summary": "고대 영어 <strong>cnyttan</strong> (매듭을 묶다) = 실로 매듭을 엮는 뜻에서 <strong>'뜨개질하다, 단단히 결합시키다'</strong>가 되었어요.",
+ "historyTitle": "매듭을 묶던 고대 영어",
+ "historyBody": "knit는 고대 영어 cnyttan('매듭으로 묶다')에서 왔고, knot(매듭)과 같은 게르만어 뿌리예요. 원래는 그냥 '묶다'는 뜻이었는데, 15세기쯤부터 실을 고리처럼 엮는 '뜨개질하다'라는 뜻이 생겼어요. 앞의 k는 옛날에는 발음했지만 지금은 소리 나지 않아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "knot",
+   "pos": "명사",
+   "meaning": "매듭",
+   "en": "He tied a strong knot in the rope.",
+   "ko": "그는 밧줄에 튼튼한 매듭을 묶었어요."
+  },
+  {
+   "word": "knitting",
+   "pos": "명사",
+   "meaning": "뜨개질",
+   "en": "My grandmother enjoys knitting in the evening.",
+   "ko": "할머니는 저녁에 뜨개질하는 것을 즐기세요."
+  },
+  {
+   "word": "knitwear",
+   "pos": "명사",
+   "meaning": "니트 의류",
+   "en": "Knitwear keeps you warm in winter.",
+   "ko": "니트 옷은 겨울에 몸을 따뜻하게 해 줘요."
+  },
+  {
+   "word": "close-knit",
+   "pos": "형용사",
+   "meaning": "긴밀한, 끈끈하게 맺어진",
+   "en": "They are a close-knit family who help each other.",
+   "ko": "그들은 서로 돕는 끈끈한 가족이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 할머니가 뜨개바늘로 털실을 엮어 목도리를 만드는 장면",
+ "imageCaption": "실 한 가닥이 작은 매듭으로 엮이고 또 엮여 따뜻한 옷이 되는 모습을 떠올려 보세요.",
+ "movieLineEn": "Grandma knit this sweater for me, so I'm never taking it off.",
+ "movieLineKo": "할머니가 떠 주신 스웨터라서 절대 안 벗을 거야.",
+ "storyTitle": "고양이의 뜨개질",
+ "story": "할머니가 손녀에게 목도리를 knit(뜨개질하다)하고 계셨어요. 그런데 고양이가 털실을 굴리며 놀다가 거대한 knot(매듭)을 만들었죠. 할머니는 knitting(뜨개질)을 포기하고 그 매듭째로 고양이 집을 만들어 주셨어요. 결국 손녀보다 고양이가 먼저 knitwear(니트 의류)를 갖게 됐답니다."
+}

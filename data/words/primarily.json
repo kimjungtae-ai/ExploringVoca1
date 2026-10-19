@@ -1,0 +1,74 @@
+{
+ "word": "primarily",
+ "pos": "부사",
+ "phonetic": "[praɪˈmerəli]",
+ "meaning": "주로, 첫째로, 근본적으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "prim",
+   "meaning": "첫째의 (first)",
+   "note": "라틴어 primus(첫째)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ary",
+   "meaning": "~에 관한 (형용사)",
+   "note": "primary(첫째의, 주요한)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>prim</strong> (첫째) + <strong>-ary</strong> (~의) + <strong>-ly</strong> (~하게) = 첫째가는 방식으로라는 뜻에서 <strong>'주로, 우선적으로'</strong>가 되었어요.",
+ "historyTitle": "로마인들의 '첫 번째(primus)'",
+ "historyBody": "라틴어 primus(첫째)에서 primarius(첫째 등급의)가 나왔고, 이것이 영어 primary가 되었어요. 17세기에 부사 primarily가 생겨 '무엇보다 먼저, 주로'라는 뜻으로 쓰였어요. prince(첫째가는 사람)와 principle(첫 원리)도 primus와 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "primary",
+   "pos": "형용사",
+   "meaning": "주요한, 초기의, 초등의",
+   "en": "Her primary goal is to pass the exam.",
+   "ko": "그녀의 주된 목표는 시험에 합격하는 거예요."
+  },
+  {
+   "word": "prime",
+   "pos": "형용사",
+   "meaning": "주요한, 최고의",
+   "en": "Location is the prime reason for the high price.",
+   "ko": "위치가 높은 가격의 주된 이유예요."
+  },
+  {
+   "word": "primitive",
+   "pos": "형용사",
+   "meaning": "원시의, 초기의",
+   "en": "Primitive people used stone tools.",
+   "ko": "원시인들은 돌 도구를 사용했어요."
+  },
+  {
+   "word": "principal",
+   "pos": "형용사/명사",
+   "meaning": "주요한 / 교장",
+   "en": "The principal gave a speech at graduation.",
+   "ko": "교장 선생님이 졸업식에서 연설을 하셨어요."
+  },
+  {
+   "word": "principle",
+   "pos": "명사",
+   "meaning": "원리, 원칙",
+   "en": "Honesty is my most important principle.",
+   "ko": "정직은 나의 가장 중요한 원칙이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 이유 중 1번에 크게 동그라미 친 메모",
+ "imageCaption": "목록 맨 위 1번 항목에 형광펜을 칠한 모습을 떠올려 보세요. '주로'가 바로 그 1번이에요.",
+ "movieLineEn": "I'm here primarily to protect you, not to make friends.",
+ "movieLineKo": "나는 친구 사귀러 온 게 아니야. 주로 널 지키러 온 거지.",
+ "storyTitle": "판다의 주식",
+ "story": "동물원 판다는 primarily(주로) 대나무를 먹어요. 그런데 어느 날 판다가 사육사의 김밥을 훔쳐 먹었죠! 사육사는 판다의 primary(주된) 식단이 바뀔까 걱정했어요. principal(교장) 선생님까지 견학 와서 지켜봤는데, 판다는 김밥 속 시금치만 쏙쏙 골라 먹었대요. 역시 초록색이 principle(원칙)이었나 봐요."
+}

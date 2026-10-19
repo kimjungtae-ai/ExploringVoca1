@@ -1,0 +1,68 @@
+{
+ "word": "foam roller",
+ "pos": "명사구",
+ "phonetic": "[ˈfoʊm roʊlər]",
+ "meaning": "폼롤러 (마사지·스트레칭용 원통)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "foam",
+   "meaning": "거품; 스펀지 같은 재질 (foam)",
+   "note": "폭신한 발포 재질을 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "roller",
+   "meaning": "굴림대, 롤러 (roller)",
+   "note": "roll(구르다) + -er(~하는 것)로 '굴러가는 것'이에요."
+  }
+ ],
+ "summary": "<strong>foam</strong> (폭신한 재질) + <strong>roller</strong> (굴러가는 원통) = '폭신한 재질의 굴림 원통'이라서 <strong>'폼롤러'</strong>예요.",
+ "historyTitle": "거품과 바퀴의 만남",
+ "historyBody": "foam은 고대 영어 fam(거품)에서 왔고, 지금은 거품을 굳혀 만든 폭신한 재질도 뜻해요. roll은 고대 프랑스어 roller, 라틴어 rotula(작은 바퀴)에서 왔어요. 폼롤러는 운동 전후 근육 위에서 굴려 마사지하는 도구로 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "roll",
+   "pos": "동사",
+   "meaning": "구르다, 굴리다",
+   "en": "The ball rolled down the hill.",
+   "ko": "공이 언덕 아래로 굴러갔어요."
+  },
+  {
+   "word": "stretch",
+   "pos": "동사",
+   "meaning": "스트레칭하다, 늘이다",
+   "en": "Always stretch before you run.",
+   "ko": "달리기 전에 항상 스트레칭하세요."
+  },
+  {
+   "word": "yoga mat",
+   "pos": "명사구",
+   "meaning": "요가 매트",
+   "en": "She rolled out her yoga mat on the floor.",
+   "ko": "그녀는 바닥에 요가 매트를 폈어요."
+  },
+  {
+   "word": "warm up",
+   "pos": "구동사",
+   "meaning": "준비 운동을 하다",
+   "en": "Let's warm up for ten minutes.",
+   "ko": "10분 동안 준비 운동을 하자."
+  },
+  {
+   "word": "sore",
+   "pos": "형용사",
+   "meaning": "(근육이) 쑤시는, 아픈",
+   "en": "My legs were sore after the hike.",
+   "ko": "등산 후에 다리가 쑤셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매트 위에서 원통에 종아리를 대고 굴리는 장면",
+ "imageCaption": "운동 후 뭉친 근육을 폼롤러로 꾹꾹 풀어 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "Give me that foam roller. My legs feel like stone.",
+ "movieLineKo": "그 폼롤러 좀 줘. 다리가 돌덩이 같아.",
+ "storyTitle": "폼롤러 위의 비명",
+ "story": "마라톤 후 아빠 다리가 sore(쑤시는)했어요. 그래서 foam roller(폼롤러)를 꺼내 yoga mat(요가 매트) 위에서 다리를 roll(굴리다)했죠. 그런데 너무 아파서 아빠가 비명을 질렀어요! 놀란 이웃이 경찰에 신고했고, 경찰관은 아빠를 보더니 같이 stretch(스트레칭하다)하자며 매트를 펴고 함께 소리를 질렀답니다."
+}

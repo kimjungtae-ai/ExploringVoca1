@@ -1,0 +1,68 @@
+{
+ "word": "summer break",
+ "pos": "명사구",
+ "phonetic": "[ˈsʌmər breɪk]",
+ "meaning": "여름 방학, 여름휴가",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "summer",
+   "meaning": "여름 (summer)",
+   "note": "어느 계절의 쉼인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "break",
+   "meaning": "휴식, 쉬는 시간 (pause)",
+   "note": "하던 일을 잠시 '끊고' 쉬는 시간이에요."
+  }
+ ],
+ "summary": "<strong>summer</strong> (여름) + <strong>break</strong> (쉬는 기간) = '여름에 공부를 끊고 쉬는 기간'에서 <strong>'여름 방학'</strong>",
+ "historyTitle": "'깨뜨리다'에서 '쉬는 시간'으로",
+ "historyBody": "summer는 고대 영어 sumor에서, break는 고대 영어 brecan(깨뜨리다)에서 왔어요. 계속 이어지던 일을 '끊는다'는 뜻에서 break가 '휴식, 쉬는 시간'이라는 뜻을 갖게 되었어요. 미국에서는 summer break, 영국에서는 summer holidays라는 표현도 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "summer vacation",
+   "pos": "명사구",
+   "meaning": "여름 방학, 여름휴가",
+   "en": "We went camping during summer vacation.",
+   "ko": "우리는 여름 방학 동안 캠핑을 갔어요."
+  },
+  {
+   "word": "winter break",
+   "pos": "명사구",
+   "meaning": "겨울 방학",
+   "en": "I plan to read ten books over winter break.",
+   "ko": "겨울 방학 동안 책 열 권을 읽을 계획이에요."
+  },
+  {
+   "word": "take a break",
+   "pos": "숙어",
+   "meaning": "잠깐 쉬다",
+   "en": "Let's take a break and drink some water.",
+   "ko": "잠깐 쉬면서 물 좀 마시자."
+  },
+  {
+   "word": "lunch break",
+   "pos": "명사구",
+   "meaning": "점심시간",
+   "en": "We play soccer during lunch break.",
+   "ko": "우리는 점심시간에 축구를 해요."
+  },
+  {
+   "word": "breakthrough",
+   "pos": "명사",
+   "meaning": "돌파구, 획기적 발전",
+   "en": "The new vaccine was a medical breakthrough.",
+   "ko": "새 백신은 의학적 돌파구였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 종업식 날 가방을 던지며 바닷가로 달려가는 학생들 장면",
+ "imageCaption": "교문을 나서자마자 수박과 바다가 기다리는 여름을 떠올려 보세요.",
+ "movieLineEn": "This summer break is going to be the best one ever!",
+ "movieLineKo": "이번 여름 방학은 역대 최고가 될 거야!",
+ "storyTitle": "방학 계획표의 반전",
+ "story": "서진이는 summer break(여름 방학) 계획표에 '매일 take a break(쉬기)'만 적었어요. 엄마가 보더니 lunch break(점심시간)만 빼고 공부 시간을 꽉 채웠죠. 서진이는 winter break(겨울 방학)를 기다리기로 했어요. 그런데 엄마의 겨울 계획표가 벌써 냉장고에 붙어 있었답니다!"
+}

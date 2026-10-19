@@ -1,0 +1,74 @@
+{
+ "word": "diversity",
+ "pos": "명사",
+ "phonetic": "[daɪˈvɜːrsəti]",
+ "meaning": "다양성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "di-",
+   "meaning": "따로, 떨어져 (apart)",
+   "note": "dis-의 변형이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vers",
+   "meaning": "돌리다 (turn)",
+   "note": "라틴어 vertere(돌리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질, 상태 (명사)",
+   "note": "형용사를 추상명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>divers(e)</strong> (다양한) + <strong>-ity</strong> (성질) = '서로 다른 것들이 모인 성질'에서 <strong>'다양성'</strong>이 되었어요.",
+ "historyTitle": "서로 다름이 가치가 되기까지",
+ "historyBody": "diversity는 라틴어 diversitas(차이, 다름)에서 고대 프랑스어를 거쳐 들어왔어요. 중세에는 '불일치, 괴팍함' 같은 부정적인 뜻으로도 쓰였어요. 현대에는 문화 다양성, 생물 다양성처럼 서로 다름을 존중하는 긍정적인 뜻으로 널리 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "diverse",
+   "pos": "형용사",
+   "meaning": "다양한",
+   "en": "The museum attracts a diverse group of visitors.",
+   "ko": "그 박물관은 다양한 방문객들을 끌어들여요."
+  },
+  {
+   "word": "diversify",
+   "pos": "동사",
+   "meaning": "다양화하다",
+   "en": "The company decided to diversify its products.",
+   "ko": "그 회사는 제품을 다양화하기로 결정했어요."
+  },
+  {
+   "word": "biodiversity",
+   "pos": "명사",
+   "meaning": "생물 다양성",
+   "en": "Rainforests are rich in biodiversity.",
+   "ko": "열대 우림은 생물 다양성이 풍부해요."
+  },
+  {
+   "word": "reverse",
+   "pos": "동사",
+   "meaning": "뒤바꾸다",
+   "en": "It is hard to reverse climate change.",
+   "ko": "기후 변화를 되돌리기는 어려워요."
+  },
+  {
+   "word": "universe",
+   "pos": "명사",
+   "meaning": "우주",
+   "en": "There are billions of stars in the universe.",
+   "ko": "우주에는 수십억 개의 별이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 색색의 물고기와 산호가 어우러진 바닷속",
+ "imageCaption": "서로 다른 모양과 색의 생명체들이 함께 사는 산호초를 떠올려 보세요. 다름이 모여 아름다움이 되죠.",
+ "movieLineEn": "Our diversity is what makes this crew unbeatable.",
+ "movieLineKo": "우리의 다양성이 이 팀을 무적으로 만드는 거야.",
+ "storyTitle": "외계인의 지구 보고서",
+ "story": "universe(우주)를 여행하던 외계인이 지구에 왔어요. 지구의 diversity(다양성)에 깜짝 놀랐죠. biodiversity(생물 다양성)가 넘치고 사람들도 diverse(다양한) 모습이었어요. 그런데 본부에 보낸 보고서 결론은 이랬어요. '지구인은 모두 같다. 전부 휴대폰만 쳐다본다.'"
+}

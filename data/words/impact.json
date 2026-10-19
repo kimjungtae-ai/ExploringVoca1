@@ -1,0 +1,54 @@
+{
+ "word": "impact",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪmpækt]",
+ "meaning": "영향, 충격, 충돌 / 영향을 주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "im- (in-)",
+   "meaning": "안으로, ~에 (in, into)",
+   "note": "in-이 p 앞에서 im-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pact",
+   "meaning": "박다, 고정하다 (fasten, drive in)",
+   "note": "라틴어 pangere(박다, 고정하다)의 과거분사 pactus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>im-</strong> (안으로) + <strong>pact</strong> (꽉 박다) = '안으로 세게 박아 넣다'라는 뜻에서 <strong>'충격, 영향'</strong>이 되었어요.",
+ "historyTitle": "쾅! 박아 넣는 라틴어 impingere",
+ "historyBody": "impact는 라틴어 impingere(밀어 박다, 부딪히다)의 과거분사 impactus에서 왔어요. impingere는 in(안으로) + pangere(박다, 고정하다)가 합쳐진 말이에요. 처음엔 물리적 '충돌'을 뜻했고, 20세기에 들어 '영향'이라는 뜻으로 아주 많이 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "compact",
+   "pos": "형용사",
+   "meaning": "소형의, 촘촘한",
+   "en": "This compact camera fits easily in my pocket.",
+   "ko": "이 소형 카메라는 주머니에 쏙 들어가요."
+  },
+  {
+   "word": "impinge",
+   "pos": "동사",
+   "meaning": "침해하다, 영향을 주다",
+   "en": "Loud music from next door impinged on our study time.",
+   "ko": "옆집의 시끄러운 음악이 우리 공부 시간을 방해했어요."
+  },
+  {
+   "word": "pact",
+   "pos": "명사",
+   "meaning": "협정, 약속",
+   "en": "The two friends made a pact to study together every day.",
+   "ko": "두 친구는 매일 함께 공부하자는 약속을 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 운석이 땅에 '쾅' 부딪혀 커다란 구덩이가 생기는 장면",
+ "imageCaption": "세게 박혀 흔적을 남기는 충돌을 떠올리세요. 마음에 남는 흔적이 바로 '영향'이에요.",
+ "movieLineEn": "Brace for impact! We're going down!",
+ "movieLineKo": "충격에 대비해! 추락한다!",
+ "storyTitle": "운석과 우정의 약속",
+ "story": "민지와 나는 평생 친구로 지내자는 pact(약속)를 맺었어요. 그날 밤, 작은 운석이 우리 집 마당에 impact(충돌)했어요! compact(소형의) 크기였지만 collision(충돌)의 충격은 커서 마당엔 커다란 구덩이가 생겼죠. 그 사건은 우리에게 큰 impact(영향)를 줬어요. 둘 다 천문학자가 되기로 했거든요. 알고 보니 운석은 옆집 형의 축구공이었지만요."
+}

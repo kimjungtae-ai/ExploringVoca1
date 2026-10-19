@@ -1,0 +1,61 @@
+{
+ "word": "comment",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈkɑːment]",
+ "meaning": "논평, 의견, 댓글 / 논평하다, 의견을 말하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (강조)",
+   "note": "뜻을 강조하는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ment",
+   "meaning": "마음, 생각하다 (mind)",
+   "note": "라틴어 mens(마음)와 같은 뿌리로, 여기서 -ment는 명사 접미사가 아니라 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>ment</strong> (마음, 생각) = '곰곰이 생각해 낸 것'이라는 데서 <strong>'논평, 의견'</strong>이 되었습니다.",
+ "historyTitle": "책 옆에 적은 해설",
+ "historyBody": "라틴어 commentum은 '생각해 낸 것, 해석'을 뜻했고, 동사 comminisci(궁리해 내다)에서 왔어요. 그 속에는 mens(마음), meminisse(기억하다)와 같은 뿌리가 들어 있어요. 중세에는 성경이나 고전 옆에 적은 해설을 뜻했고, 오늘날엔 인터넷 댓글까지 가리킨답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "commentary",
+   "pos": "명사",
+   "meaning": "논평, 해설, 중계",
+   "en": "The soccer game had exciting live commentary.",
+   "ko": "그 축구 경기는 생중계 해설이 신났어."
+  },
+  {
+   "word": "commentator",
+   "pos": "명사",
+   "meaning": "해설자, 논평가",
+   "en": "The commentator shouted when the goal was scored.",
+   "ko": "골이 들어가자 해설자가 소리쳤어요."
+  },
+  {
+   "word": "mental",
+   "pos": "형용사",
+   "meaning": "정신의, 마음의",
+   "en": "Exercise is good for your mental health.",
+   "ko": "운동은 정신 건강에 좋아요."
+  },
+  {
+   "word": "mention",
+   "pos": "동사/명사",
+   "meaning": "언급하다 / 언급",
+   "en": "She didn't mention the test to her parents.",
+   "ko": "그녀는 부모님께 시험 이야기를 꺼내지 않았어."
+  }
+ ],
+ "imageSense": "대표 의미: 영상 아래 줄줄이 달리는 댓글 창",
+ "imageCaption": "마음(ment)속 생각을 꺼내 한 줄로 적는 모습을 떠올려 보세요.",
+ "movieLineEn": "No comment. Talk to my lawyer.",
+ "movieLineKo": "할 말 없습니다. 제 변호사랑 얘기하세요.",
+ "storyTitle": "할머니의 첫 댓글",
+ "story": "할머니가 처음으로 내 영상에 comment(댓글)를 다셨어요. 친구들이 그 댓글에 commentary(해설)를 달기 시작했죠. 할머니는 순식간에 인기 commentator(논평가)가 되셨어요. 내 mental(정신의) 건강이 걱정됐는데, 댓글 내용은 \"밥은 먹고 다니니?\"였답니다."
+}

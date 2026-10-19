@@ -1,0 +1,75 @@
+{
+ "word": "schoolmate",
+ "pos": "명사",
+ "phonetic": "[ˈskuːlmeɪt]",
+ "meaning": "학교 친구, 동창",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "school",
+   "meaning": "학교 (school)",
+   "note": "그리스어 skholē(여가)에서 라틴어 schola를 거쳐 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mate",
+   "meaning": "친구, 동료 (companion)",
+   "note": "중세 저지 독일어 mate(함께 밥 먹는 사람)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>school</strong> (학교) + <strong>mate</strong> (친구) = <strong>'학교 친구, 동창'</strong>이에요.",
+ "historyTitle": "학교는 원래 '여가'였다",
+ "historyBody": "school은 그리스어 skholē(여가, 쉬는 시간)에서 왔어요. 고대 그리스에서는 일하지 않는 여유 시간에 토론하고 배웠기 때문에 '여가'가 곧 '배우는 곳'이 되었죠. mate는 중세 저지 독일어 mate(함께 음식을 나누는 사람)에서 왔으니, schoolmate는 '배움의 자리에서 함께 밥 먹는 친구'인 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "school",
+   "pos": "명사",
+   "meaning": "학교",
+   "en": "I walk to school with my brother every day.",
+   "ko": "나는 매일 동생과 함께 걸어서 학교에 가요."
+  },
+  {
+   "word": "scholar",
+   "pos": "명사",
+   "meaning": "학자",
+   "en": "The scholar spent years studying ancient languages.",
+   "ko": "그 학자는 고대 언어를 연구하며 수년을 보냈어요."
+  },
+  {
+   "word": "scholarship",
+   "pos": "명사",
+   "meaning": "장학금",
+   "en": "She won a scholarship to study abroad.",
+   "ko": "그녀는 유학 장학금을 받았어요."
+  },
+  {
+   "word": "classmate",
+   "pos": "명사",
+   "meaning": "반 친구",
+   "en": "My classmate lent me a pen during the test.",
+   "ko": "시험 중에 반 친구가 펜을 빌려줬어요."
+  },
+  {
+   "word": "roommate",
+   "pos": "명사",
+   "meaning": "룸메이트",
+   "en": "My roommate always cleans the kitchen.",
+   "ko": "내 룸메이트는 항상 부엌을 청소해요."
+  },
+  {
+   "word": "teammate",
+   "pos": "명사",
+   "meaning": "팀 동료",
+   "en": "He passed the ball to his teammate.",
+   "ko": "그는 팀 동료에게 공을 패스했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교복을 입고 함께 웃으며 하교하는 친구들",
+ "imageCaption": "같은 교복을 입고 떡볶이 집으로 향하는 친구들의 뒷모습을 떠올려 보세요.",
+ "movieLineEn": "You don't remember me? We were schoolmates, you and I!",
+ "movieLineKo": "날 기억 못 해? 우리 학교 친구였잖아!",
+ "storyTitle": "20년 만의 동창회",
+ "story": "아빠가 동창회에서 옛 schoolmate(학교 친구)를 만났어요. 그는 이제 유명한 scholar(학자)가 되었죠. 둘은 classmate(반 친구) 시절 이야기로 웃음꽃을 피웠어요. \"그때 너 scholarship(장학금) 받고 나한테 떡볶이 쐈잖아!\" 그런데 계산서를 보니, 20년 전 그 떡볶이 값을 아직 안 냈다고 하네요."
+}

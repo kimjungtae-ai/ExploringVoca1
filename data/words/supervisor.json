@@ -1,0 +1,74 @@
+{
+ "word": "supervisor",
+ "pos": "명사",
+ "phonetic": "[ˈsuːpərvaɪzər]",
+ "meaning": "감독관, 관리자, 지도 교수",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "super-",
+   "meaning": "위에서 (over)",
+   "note": "위쪽에서 내려다본다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vis",
+   "meaning": "보다 (see)",
+   "note": "라틴어 videre(보다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-or",
+   "meaning": "~하는 사람",
+   "note": "행동하는 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>super-</strong> (위에서) + <strong>vis</strong> (보다) + <strong>-or</strong> (사람) = '위에서 지켜보는 사람'에서 <strong>'감독관, 관리자'</strong>가 되었어요.",
+ "historyTitle": "일터를 살피는 눈",
+ "historyBody": "supervisor는 중세 라틴어 supervisor(감독하는 사람)에서 왔고, 뿌리는 videre(보다)예요. 15세기 영어에서는 유언 집행을 감독하는 사람 등을 뜻했어요. 오늘날에는 회사의 관리자나 대학원생의 지도 교수를 가리킬 때도 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "supervise",
+   "pos": "동사",
+   "meaning": "감독하다",
+   "en": "Teachers supervise students during lunch.",
+   "ko": "선생님들은 점심시간에 학생들을 감독해요."
+  },
+  {
+   "word": "supervision",
+   "pos": "명사",
+   "meaning": "감독, 관리",
+   "en": "Young children need constant supervision.",
+   "ko": "어린아이들은 계속 보살펴 줘야 해요."
+  },
+  {
+   "word": "vision",
+   "pos": "명사",
+   "meaning": "시력, 비전",
+   "en": "The leader shared her vision with the team.",
+   "ko": "리더는 팀과 자신의 비전을 공유했어요."
+  },
+  {
+   "word": "evidence",
+   "pos": "명사",
+   "meaning": "증거",
+   "en": "There is no evidence that he stole the money.",
+   "ko": "그가 돈을 훔쳤다는 증거는 없어요."
+  },
+  {
+   "word": "visible",
+   "pos": "형용사",
+   "meaning": "눈에 보이는",
+   "en": "The mountain was visible from my window.",
+   "ko": "내 창문에서 그 산이 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 사무실에서 팀원들의 일을 살피는 관리자",
+ "imageCaption": "클립보드를 들고 사무실을 한 바퀴 돌며 팀원들의 일을 살펴보는 관리자를 떠올려 보세요.",
+ "movieLineEn": "Talk to my supervisor. I'm just the new guy here.",
+ "movieLineKo": "제 관리자한테 말씀하세요. 저는 여기 신입일 뿐이에요.",
+ "storyTitle": "사라진 감독관",
+ "story": "아르바이트 첫날, supervisor(관리자)가 나를 supervise(감독하다)하겠다고 했어요. 그런데 아무리 찾아도 그가 visible(보이는) 곳에 없었죠. 사장님은 supervision(감독) 없이 일한 나를 칭찬했어요. 나중에 evidence(증거)가 나왔는데, 관리자는 창고에서 박스 사이에 끼어 하루 종일 구조를 기다리고 있었답니다!"
+}

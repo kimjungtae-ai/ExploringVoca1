@@ -1,0 +1,68 @@
+{
+ "word": "go well",
+ "pos": "동사구",
+ "phonetic": "[ɡoʊ wel]",
+ "meaning": "잘 되다, 순조롭게 진행되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "go",
+   "meaning": "진행되다 (go)",
+   "note": "일이 흘러가는 모습을 나타내요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "well",
+   "meaning": "잘 (well)",
+   "note": "'좋게, 잘'이라는 결과를 나타내요."
+  }
+ ],
+ "summary": "<strong>go</strong> (진행되다) + <strong>well</strong> (잘) = '일이 잘 흘러가다'라서 <strong>'잘 되다'</strong>예요.",
+ "historyTitle": "잘 흘러가는 일",
+ "historyBody": "go는 고대 영어 gan에서 온 아주 오래된 게르만어예요. well은 고대 영어 wel(바라는 대로, 잘)에서 왔고, 원래 '원하다(will)'와 관련된 뿌리예요. '내가 바라는 대로 흘러가다'가 바로 go well이에요. 반대말은 go badly, go wrong이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "go smoothly",
+   "pos": "동사구",
+   "meaning": "순조롭게 진행되다",
+   "en": "The trip went smoothly.",
+   "ko": "여행은 순조롭게 진행됐어요."
+  },
+  {
+   "word": "go wrong",
+   "pos": "동사구",
+   "meaning": "잘못되다",
+   "en": "Something went wrong with my phone.",
+   "ko": "내 휴대폰에 뭔가 문제가 생겼어요."
+  },
+  {
+   "word": "turn out well",
+   "pos": "동사구",
+   "meaning": "결과가 좋게 나오다",
+   "en": "The cake turned out well.",
+   "ko": "케이크가 잘 만들어졌어요."
+  },
+  {
+   "word": "go badly",
+   "pos": "동사구",
+   "meaning": "잘 안 되다",
+   "en": "The game went badly for our team.",
+   "ko": "그 경기는 우리 팀에게 잘 안 풀렸어요."
+  },
+  {
+   "word": "work out",
+   "pos": "구동사",
+   "meaning": "잘 풀리다; 운동하다",
+   "en": "Don't worry. Everything will work out.",
+   "ko": "걱정 마. 다 잘 풀릴 거야."
+  }
+ ],
+ "imageSense": "대표 의미: 발표를 마치고 박수를 받으며 웃는 학생",
+ "imageCaption": "준비한 대로 척척 진행되어 안도의 미소를 짓는 순간을 떠올려 보세요.",
+ "movieLineEn": "How did the date go? Did it go well?",
+ "movieLineKo": "데이트 어땠어? 잘 됐어?",
+ "storyTitle": "면접의 비밀 무기",
+ "story": "형이 아르바이트 면접을 보러 갔어요. 나는 면접이 go well(잘 되다)하길 빌었죠. 형은 웃으며 돌아와 \"모든 게 go smoothly(순조롭게 진행되다)했어!\"라고 했어요. 어떻게 work out(잘 풀리다)했는지 물었더니, 면접관이 형 초등학교 담임 선생님이었대요. 선생님이 \"넌 원래 성실했지\"라며 바로 합격시켜 주셨대요!"
+}

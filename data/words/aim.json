@@ -1,0 +1,55 @@
+{
+ "word": "aim",
+ "pos": "명사 / 동사",
+ "phonetic": "[eɪm]",
+ "meaning": "목표, 목적 / 겨냥하다, 목표로 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "aim (← 고대 프랑스어 esmer)",
+   "meaning": "가늠하다, 어림잡다 (estimate)",
+   "note": "라틴어 aestimare(평가하다)가 고대 프랑스어에서 짧게 줄어든 형태예요."
+  }
+ ],
+ "summary": "<strong>aim</strong>은 라틴어 <strong>aestimare</strong>(가늠하다)가 줄어든 말로, '거리를 가늠해 겨누다'에서 <strong>'목표, 겨냥하다'</strong>가 되었어요.",
+ "historyTitle": "estimate와 형제인 짧은 단어",
+ "historyBody": "aim은 고대 프랑스어 esmer, aesmer(가늠하다, 겨누다)를 거쳐 중세 영어로 들어왔어요. 이 말은 라틴어 aestimare(평가하다, 어림잡다)에서 왔기 때문에 estimate와 같은 뿌리예요. 지금 영어로는 더 나눌 수 없을 만큼 줄어들어서 한 덩어리로 외우는 게 좋아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "estimate",
+   "pos": "동사/명사",
+   "meaning": "추정하다 / 추정치",
+   "en": "Experts estimate that the population will grow.",
+   "ko": "전문가들은 인구가 늘어날 것으로 추정해요."
+  },
+  {
+   "word": "esteem",
+   "pos": "명사",
+   "meaning": "존경, 존중",
+   "en": "Self-esteem is important for young people.",
+   "ko": "자존감은 젊은이들에게 중요해요."
+  },
+  {
+   "word": "aimless",
+   "pos": "형용사",
+   "meaning": "목적 없는",
+   "en": "He spent an aimless day walking around the city.",
+   "ko": "그는 목적 없이 도시를 돌아다니며 하루를 보냈어요."
+  },
+  {
+   "word": "overestimate",
+   "pos": "동사",
+   "meaning": "과대평가하다",
+   "en": "Don't overestimate your speed on the test.",
+   "ko": "시험에서 자신의 속도를 과대평가하지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 활을 당겨 과녁 한가운데를 노려보는 궁수",
+ "imageCaption": "거리를 가늠하며 한 점을 겨누는 눈빛을 떠올려 보세요.",
+ "movieLineEn": "Take a deep breath, aim, and shoot.",
+ "movieLineKo": "숨을 깊이 쉬고, 겨냥하고, 쏴.",
+ "storyTitle": "목표를 잃은 궁수",
+ "story": "궁수 로빈의 aim(목표)은 사과를 맞히는 것이었어요. 거리를 estimate(추정하다)하고 화살을 쐈죠. 그런데 바람 때문에 빗나가 aimless(목적 없는) 화살이 하늘로 날아갔어요. 잠시 후 화살이 돌아왔는데, 끝에 피자가 꽂혀 있었대요. 로빈은 자신을 overestimate(과대평가하다)하지 않기로 했어요."
+}

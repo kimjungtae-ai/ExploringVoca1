@@ -1,0 +1,68 @@
+{
+ "word": "wedding anniversary",
+ "pos": "명사구",
+ "phonetic": "[ˈwedɪŋ ˌænɪˈvɜːrsəri]",
+ "meaning": "결혼기념일",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "wedding",
+   "meaning": "결혼(식) (wedding)",
+   "note": "무엇을 기념하는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "anniversary",
+   "meaning": "기념일 (anniversary)",
+   "note": "매년 돌아오는 특별한 날이에요."
+  }
+ ],
+ "summary": "<strong>wedding</strong> (결혼) + <strong>anniversary</strong> (해마다 돌아오는 날) = '결혼한 날이 해마다 돌아오는 날'에서 <strong>'결혼기념일'</strong>",
+ "historyTitle": "'해가 한 바퀴 돈' 날",
+ "historyBody": "anniversary는 라틴어 anniversarius(해마다 돌아오는)에서 왔고, annus(해, 년)와 versus(돌아온)가 합쳐진 말이에요. annual(매년의)과 같은 뿌리죠. wedding은 고대 영어 weddung에서 왔는데, 동사 weddian은 '약속하다, 서약하다'라는 뜻이었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "annual",
+   "pos": "형용사",
+   "meaning": "매년의, 연례의",
+   "en": "The school holds an annual sports day.",
+   "ko": "학교는 매년 체육대회를 열어요."
+  },
+  {
+   "word": "birthday",
+   "pos": "명사",
+   "meaning": "생일",
+   "en": "We threw a surprise party for her birthday.",
+   "ko": "우리는 그녀의 생일에 깜짝 파티를 열었어요."
+  },
+  {
+   "word": "celebrate",
+   "pos": "동사",
+   "meaning": "축하하다, 기념하다",
+   "en": "My parents celebrated their 20th anniversary.",
+   "ko": "부모님은 결혼 20주년을 기념하셨어요."
+  },
+  {
+   "word": "wedding ceremony",
+   "pos": "명사구",
+   "meaning": "결혼식",
+   "en": "The wedding ceremony was held in a garden.",
+   "ko": "결혼식은 정원에서 열렸어요."
+  },
+  {
+   "word": "anniversary",
+   "pos": "명사",
+   "meaning": "기념일",
+   "en": "Today is the 100th anniversary of the school.",
+   "ko": "오늘은 학교 개교 100주년이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 부부가 촛불과 케이크 앞에서 결혼기념일을 축하하는 장면",
+ "imageCaption": "케이크 위 숫자 초 '20' 앞에서 손을 맞잡은 엄마 아빠를 떠올려 보세요.",
+ "movieLineEn": "You forgot our wedding anniversary... again?",
+ "movieLineKo": "우리 결혼기념일을… 또 잊은 거야?",
+ "storyTitle": "아빠의 기억력",
+ "story": "아빠는 매년 wedding anniversary(결혼기념일)를 잊어서 혼났어요. 올해는 달력, 휴대폰, 냉장고에 모두 적어 놓고 완벽하게 celebrate(기념하다)할 준비를 했죠. 꽃과 케이크를 들고 \"축하해!\"를 외친 순간, 엄마가 말했어요. \"오늘은 내 birthday(생일)야.\" 아빠는 annual(매년의) 실수를 또 했답니다."
+}

@@ -1,0 +1,54 @@
+{
+ "word": "phrase",
+ "pos": "명사 / 동사",
+ "phonetic": "[freɪz]",
+ "meaning": "구, 구절, 표현 / 말로 표현하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "phras",
+   "meaning": "말하다, 표현 (speak, tell)",
+   "note": "그리스어 phrazein(가리켜 보이다, 말하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-e",
+   "meaning": "(단어 끝 모양)",
+   "note": "프랑스어·라틴어를 거치며 붙은 끝 철자예요."
+  }
+ ],
+ "summary": "<strong>phras</strong> (말하다, 표현) = 말하는 방식, 곧 <strong>'구절, 표현'</strong>이라는 뜻이에요.",
+ "historyTitle": "그리스 웅변가들의 '말솜씨'",
+ "historyBody": "phrase는 그리스어 phrasis(말하는 방식, 표현)에서 라틴어 phrasis를 거쳐 1500년대 영어에 들어왔어요. 원래 동사 phrazein은 '가리켜 보이다, 설명하다'라는 뜻이었어요. 처음엔 '말투, 문체'를 뜻하다가 점차 '몇 단어로 된 구절'이라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "paraphrase",
+   "pos": "동사/명사",
+   "meaning": "바꾸어 말하다 / 의역",
+   "en": "Can you paraphrase this sentence in simpler words?",
+   "ko": "이 문장을 더 쉬운 말로 바꾸어 말해 줄 수 있니?"
+  },
+  {
+   "word": "phrasal",
+   "pos": "형용사",
+   "meaning": "구의, 구로 된",
+   "en": "'Give up' is a common phrasal verb in English.",
+   "ko": "'give up'은 영어에서 흔한 구동사예요."
+  },
+  {
+   "word": "phrasing",
+   "pos": "명사",
+   "meaning": "말씨, 표현 방식",
+   "en": "Her careful phrasing made the bad news easier to hear.",
+   "ko": "그녀의 조심스러운 표현 덕분에 나쁜 소식을 듣기가 덜 힘들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 노트에 형광펜으로 표시한 짧은 영어 표현 한 줄",
+ "imageCaption": "영어 지문에서 'take care of' 같은 짧은 묶음에 형광펜을 긋는 모습을 떠올려 보세요.",
+ "movieLineEn": "Remember this phrase: never give up.",
+ "movieLineKo": "이 말을 기억해: 절대 포기하지 마.",
+ "storyTitle": "앵무새의 명언",
+ "story": "영어 선생님 앵무새는 하루에 phrase(표현) 하나만 외쳤어요. 학생들이 phrasing(말투)을 흉내 내고 paraphrase(바꿔 말하기)도 연습했죠. 오늘의 phrasal(구로 된) 동사는 'calm down'. 그런데 정작 시험 날, 긴장한 앵무새가 하루 종일 \"Calm down!\"만 외쳐서 아무도 진정하지 못했대요!"
+}

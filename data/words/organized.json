@@ -1,0 +1,74 @@
+{
+ "word": "organized",
+ "pos": "형용사",
+ "phonetic": "[ˈɔːrɡənaɪzd]",
+ "meaning": "정리된, 체계적인, 조직된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "organ",
+   "meaning": "도구, 기관 (tool, organ)",
+   "note": "그리스어 organon(도구, 악기)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~화하다 (동사)",
+   "note": "명사를 동사로 바꿔 줘요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "과거분사로 '~된 상태'를 나타내요."
+  }
+ ],
+ "summary": "<strong>organ</strong> (도구, 기관) + <strong>-ize</strong> (~화하다) + <strong>-ed</strong> (~된) = '각 부분이 기관처럼 제 역할을 하도록 짜인'이라는 뜻에서 <strong>'정리된, 체계적인'</strong>이 되었어요.",
+ "historyTitle": "'일하는 도구'에서 '잘 짜인 조직'으로",
+ "historyBody": "그리스어 organon은 '도구, 악기'라는 뜻으로 ergon(일)과 관련이 있어요. 몸의 장기도 각자 일을 하는 '도구'로 보아 organ이라 불렀죠. 중세 라틴어 organizare를 거쳐 15세기 영어에 organize가 생겼고, '각 부분이 제 역할을 하게 짜다'라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "organ",
+   "pos": "명사",
+   "meaning": "장기, 기관, 오르간",
+   "en": "The heart is one of the most important organs in the body.",
+   "ko": "심장은 몸에서 가장 중요한 장기 중 하나예요."
+  },
+  {
+   "word": "organize",
+   "pos": "동사",
+   "meaning": "조직하다, 정리하다",
+   "en": "Our class organized a charity concert for the local hospital.",
+   "ko": "우리 반은 지역 병원을 위한 자선 콘서트를 준비했어요."
+  },
+  {
+   "word": "organization",
+   "pos": "명사",
+   "meaning": "조직, 단체",
+   "en": "She works for an organization that protects wild animals.",
+   "ko": "그녀는 야생 동물을 보호하는 단체에서 일해요."
+  },
+  {
+   "word": "organism",
+   "pos": "명사",
+   "meaning": "유기체, 생물",
+   "en": "Even a tiny organism plays a role in the ecosystem.",
+   "ko": "아주 작은 생물도 생태계에서 역할을 해요."
+  },
+  {
+   "word": "organic",
+   "pos": "형용사",
+   "meaning": "유기농의, 유기체의",
+   "en": "My mom prefers organic vegetables grown without chemicals.",
+   "ko": "엄마는 화학 약품 없이 기른 유기농 채소를 더 좋아하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위 물건들이 칸칸이 깔끔하게 정리된 장면",
+ "imageCaption": "필통, 책, 노트가 제자리에 딱딱 놓인 책상을 떠올려 보세요. 하나하나가 제 역할을 하는 '체계적인' 모습이에요.",
+ "movieLineEn": "Stay organized, people. One wrong move and the whole plan falls apart.",
+ "movieLineKo": "다들 체계적으로 움직여. 한 번만 실수해도 계획 전체가 무너진다.",
+ "storyTitle": "정리왕의 비밀",
+ "story": "수진이는 organized(정리된) 책상으로 유명해요. 동아리 organization(단체) 행사도 척척 organize(준비하다)하죠. 비결을 묻자 수진이는 organic(유기농) 간식 상자를 열었어요. 그 안엔 '엄마가 다 해 줌'이라는 쪽지가 있었답니다."
+}

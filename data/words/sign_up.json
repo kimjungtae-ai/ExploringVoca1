@@ -1,0 +1,68 @@
+{
+ "word": "sign up",
+ "pos": "구동사",
+ "phonetic": "[saɪn ʌp]",
+ "meaning": "가입하다, 등록하다, 신청하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "sign",
+   "meaning": "서명하다 (sign)",
+   "note": "라틴어 signum(표시)에서 온 말로 '이름을 표시하다'예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히, 위로 (up)",
+   "note": "명단에 이름을 '올리는' 이미지예요."
+  }
+ ],
+ "summary": "<strong>sign</strong> (서명하다) + <strong>up</strong> (명단에 올리다) = '명단에 이름을 써서 올리다'에서 <strong>'가입하다, 등록하다'</strong>가 되었어요.",
+ "historyTitle": "표시를 남기는 sign",
+ "historyBody": "sign은 고대 프랑스어 'signe'를 거쳐 라틴어 'signum(표시, 신호)'에서 왔어요. signal(신호), signature(서명)도 같은 가족이에요. sign up은 원래 군대에 입대하거나 계약서에 서명하는 것을 뜻했고, 지금은 웹사이트 회원 가입이나 수업 신청에 두루 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sign up for",
+   "pos": "구동사",
+   "meaning": "~에 등록하다, 신청하다",
+   "en": "I signed up for a cooking class.",
+   "ko": "나는 요리 수업에 등록했어요."
+  },
+  {
+   "word": "sign in",
+   "pos": "구동사",
+   "meaning": "로그인하다",
+   "en": "Please sign in with your email address.",
+   "ko": "이메일 주소로 로그인해 주세요."
+  },
+  {
+   "word": "signature",
+   "pos": "명사",
+   "meaning": "서명",
+   "en": "Please put your signature at the bottom.",
+   "ko": "맨 아래에 서명해 주세요."
+  },
+  {
+   "word": "enroll",
+   "pos": "동사",
+   "meaning": "등록하다, 입학하다",
+   "en": "She enrolled in a summer program.",
+   "ko": "그녀는 여름 프로그램에 등록했어요."
+  },
+  {
+   "word": "signal",
+   "pos": "명사/동사",
+   "meaning": "신호 / 신호를 보내다",
+   "en": "The teacher gave a signal to start.",
+   "ko": "선생님이 시작 신호를 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 동아리 신청서 명단에 이름을 적는 장면",
+ "imageCaption": "게시판에 붙은 신청서에 펜으로 내 이름을 쓱쓱 적어 '올리는' 모습을 떠올려 보세요.",
+ "movieLineEn": "Sign up now and get your first month free!",
+ "movieLineKo": "지금 가입하고 첫 달 무료로 이용하세요!",
+ "storyTitle": "가입의 대가",
+ "story": "무료 체험이라는 말에 나는 운동 앱에 sign up(가입하다)했어요. 이메일로 sign in(로그인하다)하자 매일 아침 6시 알람이 울렸죠. 일주일 뒤 그만두려고 했는데 해지하려면 매일 1만 보를 걸어야 한대요. 덕분에 저절로 건강해졌답니다. signature(서명)는 신중하게!"
+}

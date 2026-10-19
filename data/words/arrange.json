@@ -1,0 +1,61 @@
+{
+ "word": "arrange",
+ "pos": "동사",
+ "phonetic": "[əˈreɪndʒ]",
+ "meaning": "정리하다, 배열하다, 준비하다, 마련하다, 편곡하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ar- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "뒤에 오는 r에 맞춰 ad-가 ar-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "range (rang)",
+   "meaning": "줄, 열 (row, line)",
+   "note": "고대 프랑스어 rang(줄)에서 왔고, rank와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>ar-</strong> (~에) + <strong>range</strong> (줄) = '줄에 맞춰 세우다'에서 <strong>'정리하다, 배열하다, 준비하다'</strong>가 되었어요.",
+ "historyTitle": "줄을 세우던 중세 기사들",
+ "historyBody": "arrange는 고대 프랑스어 'arangier(줄을 세우다)'에서 왔어요. 그 안의 'rang(줄, 열)'은 게르만어(프랑크어)에서 온 말로, 원래는 전투를 앞두고 병사들을 '줄 세워 배치하는' 것을 뜻했어요. 이후 물건이나 일정, 음악을 '알맞게 배치하다'라는 뜻으로 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "arrangement",
+   "pos": "명사",
+   "meaning": "배열, 준비, 합의",
+   "en": "The flower arrangement on the table was beautiful.",
+   "ko": "탁자 위의 꽃꽂이가 아름다웠어요."
+  },
+  {
+   "word": "range",
+   "pos": "명사/동사",
+   "meaning": "범위, 줄 / (범위가) 이르다",
+   "en": "The store sells a wide range of books.",
+   "ko": "그 가게는 다양한 범위의 책을 팔아요."
+  },
+  {
+   "word": "rank",
+   "pos": "명사/동사",
+   "meaning": "계급, 순위 / 순위를 매기다",
+   "en": "Our team ranked first in the league.",
+   "ko": "우리 팀은 리그에서 1위를 했어요."
+  },
+  {
+   "word": "rearrange",
+   "pos": "동사",
+   "meaning": "재배열하다",
+   "en": "We rearranged the desks for the group project.",
+   "ko": "우리는 모둠 과제를 위해 책상을 다시 배치했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책장 위 책들을 색깔별로 가지런히 줄 세우는 모습",
+ "imageCaption": "뒤죽박죽 책들을 색깔 순서대로 한 줄로 세우는 장면을 떠올려 보세요. 줄에 맞춰 정리하는 것이 arrange예요.",
+ "movieLineEn": "Arrange the soldiers in three lines before the sun rises!",
+ "movieLineKo": "해가 뜨기 전에 병사들을 세 줄로 배치하라!",
+ "storyTitle": "완벽한 정리왕",
+ "story": "정리왕 도윤이는 방의 모든 물건을 arrange(정리하다)했어요. 양말은 색깔 rank(순위)대로, 책은 키 range(범위)별로 세웠죠. 엄마가 감탄하며 친구들과 생일 파티 arrangement(준비)를 맡겼어요. 그런데 파티 날, 도윤이는 친구들까지 키 순서대로 줄을 세워 버렸답니다."
+}

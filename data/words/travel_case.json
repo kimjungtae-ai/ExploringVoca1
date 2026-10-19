@@ -1,0 +1,68 @@
+{
+ "word": "travel case",
+ "pos": "명사구",
+ "phonetic": "[ˈtrævl keɪs]",
+ "meaning": "여행 가방, 여행용 케이스",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "travel",
+   "meaning": "여행 (travel)",
+   "note": "어떤 용도의 가방인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "case",
+   "meaning": "상자, 케이스 (case)",
+   "note": "물건을 담는 통이나 상자예요."
+  }
+ ],
+ "summary": "<strong>travel</strong> (여행) + <strong>case</strong> (담는 상자) = '여행용 짐을 담는 상자'에서 <strong>'여행 가방'</strong>",
+ "historyTitle": "고생이었던 여행",
+ "historyBody": "travel은 '힘들게 일하다'라는 뜻의 travail과 같은 말로, 옛날엔 여행 자체가 고생이었다는 흔적이에요. travail은 흔히 라틴어 tripalium(고문 도구)에서 왔다고 설명되지만, 이 연결은 확실하지 않아요. case는 라틴어 capsa(상자)에서 고대 북부 프랑스어 casse를 거쳐 들어왔어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "suitcase",
+   "pos": "명사",
+   "meaning": "여행 가방",
+   "en": "She packed her suitcase the night before.",
+   "ko": "그녀는 전날 밤 여행 가방을 쌌어요."
+  },
+  {
+   "word": "pencil case",
+   "pos": "명사구",
+   "meaning": "필통",
+   "en": "My pencil case is full of colorful pens.",
+   "ko": "내 필통은 알록달록한 펜으로 가득해요."
+  },
+  {
+   "word": "traveler",
+   "pos": "명사",
+   "meaning": "여행자",
+   "en": "The traveler asked for directions to the station.",
+   "ko": "그 여행자는 역으로 가는 길을 물었어요."
+  },
+  {
+   "word": "luggage",
+   "pos": "명사",
+   "meaning": "짐, 수하물",
+   "en": "Please keep your luggage with you at all times.",
+   "ko": "항상 짐을 몸에 지니고 다니세요."
+  },
+  {
+   "word": "capsule",
+   "pos": "명사",
+   "meaning": "캡슐",
+   "en": "Take one capsule after each meal.",
+   "ko": "식후에 캡슐 하나씩 드세요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항에서 바퀴 달린 여행 가방을 끌고 가는 장면",
+ "imageCaption": "옷과 세면도구를 꽉 채운 가방을 끌고 비행기 타러 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Everything I own fits in this little travel case.",
+ "movieLineKo": "내가 가진 모든 게 이 작은 여행 가방에 다 들어가.",
+ "storyTitle": "짐 싸기의 달인",
+ "story": "엄마는 작은 travel case(여행 가방) 하나로 일주일 여행을 떠나겠다고 했어요. 아빠는 커다란 suitcase(여행 가방) 세 개에 luggage(짐)를 꽉 채웠죠. 공항에서 아빠는 추가 요금을 냈고, 엄마는 웃으며 traveler(여행자)답게 걸어갔어요. 그런데 엄마 가방엔 아빠 옷이 하나도 없었답니다!"
+}

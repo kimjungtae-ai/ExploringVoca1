@@ -1,0 +1,61 @@
+{
+ "word": "highlight",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈhaɪlaɪt]",
+ "meaning": "강조하다, 돋보이게 하다 / 가장 중요한 부분, 하이라이트",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "high",
+   "meaning": "높은, 밝은 (high)",
+   "note": "고대 영어 hēah에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "light",
+   "meaning": "빛 (light)",
+   "note": "고대 영어 lēoht에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>high</strong> (높은) + <strong>light</strong> (빛) = 그림에서 가장 밝게 빛나는 부분이라는 뜻에서 <strong>'강조하다, 하이라이트'</strong>가 되었어요.",
+ "historyTitle": "화가의 붓끝에서 시작된 말",
+ "historyBody": "highlight는 17세기에 그림에서 빛을 가장 많이 받아 밝게 칠한 부분을 뜻했어요. 19세기에 '가장 눈에 띄는 부분'이라는 뜻이 생겼고, 20세기에 '강조하다'라는 동사로도 쓰이게 되었죠. 형광펜(highlighter)도 여기서 나온 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "highlighter",
+   "pos": "명사",
+   "meaning": "형광펜",
+   "en": "I marked the key sentences with a yellow highlighter.",
+   "ko": "나는 노란 형광펜으로 핵심 문장에 표시했어."
+  },
+  {
+   "word": "highly",
+   "pos": "부사",
+   "meaning": "매우, 높이",
+   "en": "This book is highly recommended by teachers.",
+   "ko": "이 책은 선생님들께 강력 추천받는 책이야."
+  },
+  {
+   "word": "height",
+   "pos": "명사",
+   "meaning": "높이, 키",
+   "en": "What is the height of that tower?",
+   "ko": "저 탑의 높이는 얼마나 돼?"
+  },
+  {
+   "word": "enlighten",
+   "pos": "동사",
+   "meaning": "깨우치다, 이해시키다",
+   "en": "The lecture enlightened us about climate change.",
+   "ko": "그 강연은 우리에게 기후 변화에 대해 깨우쳐 주었어."
+  }
+ ],
+ "imageSense": "대표 의미: 교과서 중요한 문장에 형광펜을 쭉 긋는 장면",
+ "imageCaption": "시험 전, 노란 형광펜으로 빛나게 표시한 핵심 문장을 떠올려 보세요.",
+ "movieLineEn": "The highlight of the show is coming up next!",
+ "movieLineKo": "이 쇼의 하이라이트가 바로 다음입니다!",
+ "storyTitle": "형광펜 중독자",
+ "story": "수아는 시험공부 때 highlighter(형광펜)로 중요한 부분을 highlight(강조하다)했어요. 그런데 다 highly(매우) 중요해 보여서 책 전체가 노랗게 변했죠. 선생님이 '진짜 중요한 걸 찾아야 enlighten(깨우치다)된단다'라고 하셨어요. 수아는 고민 끝에 결심했어요. 다음엔 형광펜 대신 지우개로 안 중요한 부분을 지우기로요!"
+}

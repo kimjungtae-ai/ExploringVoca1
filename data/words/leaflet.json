@@ -1,0 +1,54 @@
+{
+ "word": "leaflet",
+ "pos": "명사",
+ "phonetic": "[ˈliːflət]",
+ "meaning": "전단지, 안내 책자, 작은 잎",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "leaf",
+   "meaning": "잎, (책의) 한 장 (leaf)",
+   "note": "고대 영어 leaf(잎, 책장)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-let",
+   "meaning": "작은 ~ (small)",
+   "note": "작은 것을 나타내는 꼬리예요. booklet, piglet처럼요."
+  }
+ ],
+ "summary": "<strong>leaf</strong> (잎, 한 장) + <strong>-let</strong> (작은) = '작은 한 장의 종이'라서 <strong>'전단지, 안내 책자'</strong>예요.",
+ "historyTitle": "나뭇잎과 책장은 같은 말",
+ "historyBody": "leaf는 고대 영어에서 '나뭇잎'과 함께 '책의 한 장'도 뜻했어요. 얇고 넓적한 모양이 비슷했거든요. 여기에 '작은'을 뜻하는 -let이 붙은 leaflet은 원래 식물의 '작은 잎'을 뜻했고, 19세기에 '한 장짜리 인쇄물, 전단지'라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "leaf",
+   "pos": "명사",
+   "meaning": "잎, (책의) 한 장",
+   "en": "A yellow leaf fell slowly from the tree.",
+   "ko": "노란 잎 하나가 나무에서 천천히 떨어졌어요."
+  },
+  {
+   "word": "leafy",
+   "pos": "형용사",
+   "meaning": "잎이 무성한, 나무가 많은",
+   "en": "They live on a quiet, leafy street.",
+   "ko": "그들은 조용하고 나무가 많은 거리에 살아요."
+  },
+  {
+   "word": "leafless",
+   "pos": "형용사",
+   "meaning": "잎이 없는",
+   "en": "The leafless trees looked lonely in winter.",
+   "ko": "잎이 없는 나무들은 겨울에 쓸쓸해 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 길거리에서 나눠 주는 한 장짜리 행사 안내 전단지",
+ "imageCaption": "나뭇잎처럼 얇고 가벼운 종이 한 장이 손에서 손으로 전해지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Take a leaflet. It might change your life.",
+ "movieLineKo": "전단지 하나 받아 가세요. 인생이 바뀔지도 몰라요.",
+ "storyTitle": "나무의 광고 전단",
+ "story": "가을이 되자 나무는 leaf(잎)마다 '열매 할인!'이라고 써서 leaflet(전단지)처럼 뿌렸어요. leafy(잎이 무성한) 가지는 금세 leafless(잎이 없는) 상태가 됐죠. 다람쥐들이 전단지를 들고 몰려왔어요. 그런데 나무는 이미 열매를 다 떨어뜨린 뒤였답니다. 광고만 하고 물건은 없는 가게였던 거죠!"
+}

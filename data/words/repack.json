@@ -1,0 +1,68 @@
+{
+ "word": "repack",
+ "pos": "동사",
+ "phonetic": "[ˌriːˈpæk]",
+ "meaning": "다시 싸다, 다시 포장하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pack",
+   "meaning": "싸다, 꾸리다 (pack)",
+   "note": "중세 네덜란드어·저지 독일어 pak(꾸러미)에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>pack</strong> (싸다) = <strong>'다시 싸다, 다시 포장하다'</strong>예요.",
+ "historyTitle": "상인들의 꾸러미에서 온 말",
+ "historyBody": "pack은 13세기 무렵 플랑드르 지방 양모 상인들을 통해 중세 네덜란드어·저지 독일어 pak(꾸러미, 짐)에서 영어로 들어온 것으로 보여요. 여기에 '다시'를 뜻하는 re-가 붙어 repack이 되었죠. 여행 지문에서 '짐을 다시 싸다'라는 뜻으로 종종 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pack",
+   "pos": "동사 / 명사",
+   "meaning": "(짐을) 싸다 / 꾸러미",
+   "en": "Don't forget to pack a raincoat for the trip.",
+   "ko": "여행 갈 때 비옷 챙기는 거 잊지 마세요."
+  },
+  {
+   "word": "package",
+   "pos": "명사",
+   "meaning": "소포, 포장물",
+   "en": "A package arrived for you this morning.",
+   "ko": "오늘 아침에 너에게 소포가 왔어."
+  },
+  {
+   "word": "packet",
+   "pos": "명사",
+   "meaning": "작은 꾸러미, 봉지",
+   "en": "She opened a packet of seeds for the garden.",
+   "ko": "그녀는 정원에 심을 씨앗 한 봉지를 뜯었어요."
+  },
+  {
+   "word": "unpack",
+   "pos": "동사",
+   "meaning": "(짐을) 풀다",
+   "en": "We unpacked our bags as soon as we got to the hotel.",
+   "ko": "우리는 호텔에 도착하자마자 짐을 풀었어요."
+  },
+  {
+   "word": "backpack",
+   "pos": "명사",
+   "meaning": "배낭",
+   "en": "He carries a heavy backpack full of books.",
+   "ko": "그는 책이 가득 든 무거운 배낭을 메고 다녀요."
+  }
+ ],
+ "imageSense": "대표 의미: 터질 듯한 여행 가방을 열어 짐을 다시 정리하는 모습",
+ "imageCaption": "가방이 안 닫혀서 옷을 전부 꺼낸 뒤 차곡차곡 다시 넣는 장면을 떠올려 보세요.",
+ "movieLineEn": "We have ten minutes to repack everything before the bus leaves!",
+ "movieLineKo": "버스 떠나기 전까지 10분 안에 전부 다시 싸야 해!",
+ "storyTitle": "가방 테트리스",
+ "story": "수학여행 전날, 나는 backpack(배낭)에 짐을 pack(싸다)했어요. 그런데 엄마가 간식 package(소포)를 주셔서 전부 unpack(풀다)했죠. 다시 repack(다시 싸다)하고 또 하고… 세 번째에 겨우 성공! 아침에 보니 정작 교복은 침대 위에 그대로 있었답니다."
+}

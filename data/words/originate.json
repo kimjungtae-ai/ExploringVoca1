@@ -1,0 +1,68 @@
+{
+ "word": "originate",
+ "pos": "동사",
+ "phonetic": "[əˈrɪdʒɪneɪt]",
+ "meaning": "비롯되다, 유래하다, 시작하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "origin",
+   "meaning": "기원 (origin)",
+   "note": "라틴어 origo에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "명사를 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>origin</strong> (기원) + <strong>-ate</strong> (~하다) = '어딘가에서 기원을 두다'라는 뜻에서 <strong>'비롯되다, 유래하다'</strong>가 되었어요.",
+ "historyTitle": "떠오르는 해에서 시작된 말",
+ "historyBody": "originate는 17세기에 origin에 동사 꼬리 -ate를 붙여 영어에서 만들어진 말이에요. 뿌리인 라틴어 oriri는 해가 '떠오르다'라는 뜻이었어요. 그래서 originate in(~에서 비롯되다)은 '무언가가 처음 떠오른 장소'를 말할 때 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "origin",
+   "pos": "명사",
+   "meaning": "기원, 출신",
+   "en": "Scientists are still studying the origin of the universe.",
+   "ko": "과학자들은 여전히 우주의 기원을 연구하고 있어요."
+  },
+  {
+   "word": "original",
+   "pos": "형용사 / 명사",
+   "meaning": "원래의, 독창적인 / 원본",
+   "en": "The museum keeps the original painting in a safe room.",
+   "ko": "박물관은 원본 그림을 안전한 방에 보관해요."
+  },
+  {
+   "word": "originality",
+   "pos": "명사",
+   "meaning": "독창성",
+   "en": "The judges praised the originality of her design.",
+   "ko": "심사위원들은 그녀의 디자인이 독창적이라고 칭찬했어요."
+  },
+  {
+   "word": "orient",
+   "pos": "동사 / 명사",
+   "meaning": "방향을 잡다, 적응시키다 / 동양 (해 뜨는 곳)",
+   "en": "New students attend a program to orient themselves to school life.",
+   "ko": "신입생들은 학교생활에 적응하기 위한 프로그램에 참여해요."
+  },
+  {
+   "word": "aboriginal",
+   "pos": "형용사",
+   "meaning": "원주민의, 토착의",
+   "en": "The museum displays aboriginal art from Australia.",
+   "ko": "그 박물관은 호주 원주민의 미술품을 전시해요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 마을 축제가 점점 퍼져 전국 축제가 되는 장면",
+ "imageCaption": "한 마을에서 시작된 놀이가 지도 위로 쭉쭉 퍼져 나가는 모습을 떠올려 보세요. 출발점에서 '비롯된' 거예요.",
+ "movieLineEn": "This whole mess originated with one tiny lie.",
+ "movieLineKo": "이 엉망진창은 전부 작은 거짓말 하나에서 비롯됐어.",
+ "storyTitle": "소문의 출발점",
+ "story": "'전학생이 아이돌이래!' 이 소문이 어디서 originate(비롯되다)했을까요? 반장이 origin(기원)을 추적했어요. original(원래의) 말은 '전학생이 아이돌 좋아한대'였죠. 그런데 orient(적응시키다) 시간에 전학생이 노래하자, 진짜 데뷔 제의를 받았답니다."
+}

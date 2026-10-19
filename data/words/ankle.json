@@ -1,0 +1,41 @@
+{
+ "word": "ankle",
+ "pos": "명사",
+ "phonetic": "[ˈæŋkl]",
+ "meaning": "발목",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ankle (← 고대 영어 ancleow)",
+   "meaning": "발목 (ankle)",
+   "note": "고대 영어 ancleow가 고대 노르드어 ökkla의 영향을 받아 지금 모양이 되었어요."
+  }
+ ],
+ "summary": "<strong>ankle</strong>은 고대 영어 <strong>ancleow</strong>에서 온 한 덩어리 단어로, 몸의 '구부러지는 곳'인 <strong>'발목'</strong>을 뜻해요.",
+ "historyTitle": "바이킹 말의 영향을 받은 신체 단어",
+ "historyBody": "ankle은 고대 영어 ancleow에서 왔고, 바이킹이 쓰던 고대 노르드어 ökkla의 영향을 받아 지금 형태가 되었다고 봐요. 더 거슬러 올라가 '구부리다'라는 뜻의 아주 오래된 뿌리(*ang-)와 연결해 angle(각도)이나 anchor(닻)와 먼 친척으로 보기도 하지만, 이건 확실하지 않은 학설이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "angle",
+   "pos": "명사",
+   "meaning": "각도, 관점",
+   "en": "Look at the problem from a different angle.",
+   "ko": "문제를 다른 관점에서 보세요."
+  },
+  {
+   "word": "anchor",
+   "pos": "명사/동사",
+   "meaning": "닻 / 고정시키다",
+   "en": "The ship dropped its anchor near the island.",
+   "ko": "배가 섬 근처에 닻을 내렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 축구하다 발목을 삐끗해 얼음찜질하는 장면",
+ "imageCaption": "다리와 발이 만나 '꺾이는' 부분을 떠올려 보세요.",
+ "movieLineEn": "I twisted my ankle. Go on without me!",
+ "movieLineKo": "발목을 삐었어. 나 두고 먼저 가!",
+ "storyTitle": "발목 삔 닻",
+ "story": "선원 철수는 배에서 anchor(닻)를 내리다 ankle(발목)을 삐었어요. 이상한 angle(각도)로 발을 디뎠거든요. 선장은 '오늘은 rest(쉬다)하게'라고 했죠. 철수는 하루 종일 누워 있었는데, 배가 출발하지 못했어요. 닻에 철수 발목의 붕대가 감겨 있었거든요!"
+}

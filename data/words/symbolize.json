@@ -1,0 +1,74 @@
+{
+ "word": "symbolize",
+ "pos": "동사",
+ "phonetic": "[ˈsɪmbəlaɪz]",
+ "meaning": "상징하다, 나타내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sym- (syn-)",
+   "meaning": "함께 (together)",
+   "note": "그리스어 syn(함께)이 b 앞에서 sym-이 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "bol (ballein)",
+   "meaning": "던지다 (throw)",
+   "note": "그리스어 ballein(던지다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~화하다 (동사형)",
+   "note": "명사를 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>sym-</strong> (함께) + <strong>bol</strong> (던지다) + <strong>-ize</strong> (~하다) = '함께 던져 맞춰 보는 표시'에서 <strong>'상징하다'</strong>가 되었어요.",
+ "historyTitle": "깨진 조각을 맞춰 보는 증표",
+ "historyBody": "그리스어 symbolon은 '함께 던져 맞춘 것'이라는 뜻으로, 두 사람이 물건을 반으로 쪼개 하나씩 나눠 가졌다가 나중에 맞춰 보며 신분을 확인하던 증표였어요. 여기서 '어떤 것을 대신 나타내는 표시', 즉 상징이라는 뜻이 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "symbol",
+   "pos": "명사",
+   "meaning": "상징, 기호",
+   "en": "The dove is a symbol of peace.",
+   "ko": "비둘기는 평화의 상징이에요."
+  },
+  {
+   "word": "symbolic",
+   "pos": "형용사",
+   "meaning": "상징적인",
+   "en": "The ring has symbolic meaning for the couple.",
+   "ko": "그 반지는 부부에게 상징적인 의미가 있어요."
+  },
+  {
+   "word": "symbolism",
+   "pos": "명사",
+   "meaning": "상징주의, 상징적 의미",
+   "en": "The poem is full of symbolism.",
+   "ko": "그 시는 상징적 표현으로 가득해요."
+  },
+  {
+   "word": "problem",
+   "pos": "명사",
+   "meaning": "문제",
+   "en": "We need to solve this problem together.",
+   "ko": "우리는 이 문제를 함께 해결해야 해요."
+  },
+  {
+   "word": "metabolism",
+   "pos": "명사",
+   "meaning": "신진대사",
+   "en": "Exercise can speed up your metabolism.",
+   "ko": "운동은 신진대사를 빠르게 할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 하얀 비둘기가 평화를 나타내는 그림",
+ "imageCaption": "올리브 가지를 문 하얀 비둘기 그림을 떠올려 보세요. 비둘기가 '평화'를 대신 보여 주고 있어요.",
+ "movieLineEn": "This necklace symbolizes our friendship. Never lose it.",
+ "movieLineKo": "이 목걸이는 우리 우정을 상징해. 절대 잃어버리지 마.",
+ "storyTitle": "우정 목걸이의 비밀",
+ "story": "나와 단짝은 하트를 반으로 나눈 목걸이로 우정을 symbolize(상징하다)했어요. 정말 symbolic(상징적인) 선물이었죠. 그런데 큰 problem(문제)이 생겼어요. 둘 다 같은 쪽 반쪽을 사 버린 거예요! 결국 하트는 영원히 맞지 않았지만, 우리는 그게 더 우리다운 symbol(상징)이라며 웃었답니다."
+}

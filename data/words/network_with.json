@@ -1,0 +1,68 @@
+{
+ "word": "network with",
+ "pos": "구동사",
+ "phonetic": "[ˈnetwɜːrk wɪð]",
+ "meaning": "~와 인맥을 쌓다, ~와 교류하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "network",
+   "meaning": "관계망, 교류하다 (network)",
+   "note": "net(그물) + work(만든 것)으로 '그물처럼 얽힌 것'이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께 (with)",
+   "note": "함께 연결되는 상대를 나타내요."
+  }
+ ],
+ "summary": "<strong>network</strong> (그물처럼 연결하다) + <strong>with</strong> (~와) = '~와 그물처럼 연결 관계를 맺다'에서 <strong>'~와 인맥을 쌓다'</strong>",
+ "historyTitle": "그물에서 인맥으로",
+ "historyBody": "network는 16세기에 '그물 모양으로 짠 것'을 뜻하던 말이에요. 이후 철도망, 방송망, 컴퓨터 통신망으로 뜻이 넓어졌고, 20세기 후반에는 '사람들과 교류하며 인맥을 쌓다'라는 동사로도 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "networking",
+   "pos": "명사",
+   "meaning": "인맥 쌓기, 네트워킹",
+   "en": "Networking is important for finding a good job.",
+   "ko": "좋은 직장을 구하는 데 인맥 쌓기가 중요해요."
+  },
+  {
+   "word": "connect with",
+   "pos": "구동사",
+   "meaning": "~와 연결되다, 교감하다",
+   "en": "Music helps people connect with each other.",
+   "ko": "음악은 사람들이 서로 교감하도록 도와요."
+  },
+  {
+   "word": "interact with",
+   "pos": "구동사",
+   "meaning": "~와 상호작용하다",
+   "en": "Children learn by interacting with others.",
+   "ko": "아이들은 다른 사람과 상호작용하며 배워요."
+  },
+  {
+   "word": "socialize",
+   "pos": "동사",
+   "meaning": "어울리다, 교제하다",
+   "en": "She likes to socialize with her classmates after school.",
+   "ko": "그녀는 방과 후 반 친구들과 어울리는 걸 좋아해요."
+  },
+  {
+   "word": "net",
+   "pos": "명사",
+   "meaning": "그물",
+   "en": "The fisherman pulled a full net from the sea.",
+   "ko": "어부가 바다에서 가득 찬 그물을 끌어올렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 행사장에서 사람들이 명함을 주고받으며 대화하는 장면",
+ "imageCaption": "사람과 사람 사이에 보이지 않는 실이 그물처럼 이어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "If you want to make it here, you need to network with the right people.",
+ "movieLineKo": "여기서 성공하려면 제대로 된 사람들과 인맥을 쌓아야 해.",
+ "storyTitle": "인맥왕의 비밀",
+ "story": "진로 박람회에서 서연이는 여러 사람과 network with(~와 인맥을 쌓다)하려고 했어요. 부스마다 다니며 interact with(~와 상호작용하다)하고 열심히 socialize(어울리다)했죠. 집에 와서 받은 명함을 세어 보니, 전부 같은 학원 홍보 전단이었어요!"
+}

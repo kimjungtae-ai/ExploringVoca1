@@ -1,0 +1,68 @@
+{
+ "word": "hit the waves",
+ "pos": "숙어",
+ "phonetic": "[hɪt ðə weɪvz]",
+ "meaning": "파도를 타러 나가다, 서핑하러 가다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "hit",
+   "meaning": "치다, 가다 (hit)",
+   "note": "구어에서 'hit + 장소'는 '그곳에 가다'라는 뜻이 돼요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "the waves",
+   "meaning": "파도 (waves)",
+   "note": "가는 곳이 '파도'라는 걸 알려 줘요."
+  }
+ ],
+ "summary": "<strong>hit</strong> (~에 가다, 부딪치다) + <strong>the waves</strong> (파도) = '파도에 부딪치러 가다'에서 <strong>'파도 타러 나가다'</strong>",
+ "historyTitle": "'hit + 장소' 구어 패턴",
+ "historyBody": "영어 구어에서 hit은 '어떤 장소에 가다'라는 뜻으로 자주 써요. hit the beach(해변에 가다), hit the gym(헬스장에 가다)처럼요. hit the waves도 같은 패턴으로 '파도 타러 바다에 나가다'를 뜻해요. wave는 고대 영어 wafian(손을 흔들다)과 관련 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hit the beach",
+   "pos": "숙어",
+   "meaning": "해변에 가다",
+   "en": "Let's hit the beach this afternoon.",
+   "ko": "오늘 오후에 해변에 가자."
+  },
+  {
+   "word": "hit the gym",
+   "pos": "숙어",
+   "meaning": "운동하러 가다",
+   "en": "He hits the gym three times a week.",
+   "ko": "그는 일주일에 세 번 운동하러 가."
+  },
+  {
+   "word": "hit the road",
+   "pos": "숙어",
+   "meaning": "길을 떠나다",
+   "en": "We hit the road at sunrise.",
+   "ko": "우리는 해 뜰 때 길을 떠났어."
+  },
+  {
+   "word": "surf",
+   "pos": "동사",
+   "meaning": "파도를 타다",
+   "en": "My uncle surfs every weekend in Yangyang.",
+   "ko": "삼촌은 주말마다 양양에서 서핑을 해."
+  },
+  {
+   "word": "wave",
+   "pos": "명사/동사",
+   "meaning": "파도 / 손을 흔들다",
+   "en": "She waved goodbye from the train.",
+   "ko": "그녀는 기차에서 손을 흔들며 작별 인사를 했어."
+  }
+ ],
+ "imageSense": "대표 의미: 서핑보드를 들고 파도를 향해 뛰어드는 장면",
+ "imageCaption": "큰 파도가 몰려오자 보드를 끼고 바다로 달려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "The swell is perfect today. Let's hit the waves!",
+ "movieLineKo": "오늘 너울이 완벽해. 파도 타러 가자!",
+ "storyTitle": "서핑 초보의 하루",
+ "story": "여름방학에 지호는 hit the waves(파도 타러 가다) 하러 양양에 갔어요. 먼저 hit the beach(해변에 가다) 해서 surf(파도를 타다) 강습을 받았죠. 큰 wave(파도)가 오자 보드 위에 섰다가 바로 넘어졌어요. 다음 날 지호는 근육통으로 hit the road(길을 떠나다) 했지만 표정만은 챔피언이었답니다."
+}

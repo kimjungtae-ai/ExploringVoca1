@@ -1,0 +1,62 @@
+{
+ "word": "care",
+ "pos": "명사 / 동사",
+ "phonetic": "[ker]",
+ "meaning": "돌봄, 주의, 걱정 / 상관하다, 돌보다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "care",
+   "meaning": "걱정, 슬픔 (care) — 고대 영어 caru",
+   "note": "더 나눌 수 없는 오래된 게르만어 단어예요."
+  }
+ ],
+ "summary": "<strong>care</strong>는 고대 영어 <strong>caru</strong>(걱정, 슬픔)에서 와서 <strong>'신경 쓰다, 돌보다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "슬픔에서 돌봄으로",
+ "historyBody": "care는 고대 영어 caru(걱정, 근심, 슬픔)에서 온 게르만어 단어예요. 누군가를 걱정하는 마음이 '신경 쓰다, 보살피다'라는 뜻으로 발전했어요. 비슷해 보이는 cure(치료하다)는 라틴어 cura에서 왔고, care와는 뿌리가 다르다는 점이 흥미로워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "careful",
+   "pos": "형용사",
+   "meaning": "조심하는, 신중한",
+   "en": "Be careful when you cross the street.",
+   "ko": "길을 건널 때 조심하세요."
+  },
+  {
+   "word": "careless",
+   "pos": "형용사",
+   "meaning": "부주의한",
+   "en": "A careless mistake cost him the first prize.",
+   "ko": "부주의한 실수 때문에 그는 1등을 놓쳤어요."
+  },
+  {
+   "word": "caring",
+   "pos": "형용사",
+   "meaning": "배려하는, 보살피는",
+   "en": "My grandmother is a warm and caring person.",
+   "ko": "우리 할머니는 따뜻하고 배려심 깊은 분이에요."
+  },
+  {
+   "word": "carefree",
+   "pos": "형용사",
+   "meaning": "근심 없는",
+   "en": "We spent a carefree summer at the beach.",
+   "ko": "우리는 해변에서 근심 없는 여름을 보냈어요."
+  },
+  {
+   "word": "caregiver",
+   "pos": "명사",
+   "meaning": "간병인, 보호자",
+   "en": "She works as a caregiver for elderly people.",
+   "ko": "그녀는 노인들을 돌보는 간병인으로 일해요."
+  }
+ ],
+ "imageSense": "대표 의미: 아픈 강아지를 담요로 감싸 보살피는 아이",
+ "imageCaption": "작은 강아지를 조심스럽게 안고 물을 먹여 주는 모습을 떠올려 보세요. 걱정하는 마음이 곧 care예요.",
+ "movieLineEn": "I don't care what they say. I believe in you.",
+ "movieLineKo": "남들이 뭐라 하든 상관없어. 난 널 믿어.",
+ "storyTitle": "근심 없는 거북이",
+ "story": "carefree(근심 없는) 거북이는 늘 careless(부주의한)했어요. 친구 토끼는 '좀 careful(조심하는)해!'라며 잔소리했죠. 어느 날 거북이가 감기에 걸리자 caring(배려하는) 토끼가 정성껏 care(돌봄)를 해 주었어요. 그런데 다 나은 거북이 대신 토끼가 감기에 걸렸대요!"
+}

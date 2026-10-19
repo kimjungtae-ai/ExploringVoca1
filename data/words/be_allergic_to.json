@@ -1,0 +1,68 @@
+{
+ "word": "be allergic to",
+ "pos": "숙어",
+ "phonetic": "[bi əˈlɜːrdʒɪk tuː]",
+ "meaning": "~에 알레르기가 있다, ~을 몹시 싫어하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "allergic",
+   "meaning": "알레르기가 있는 (allergic)",
+   "note": "그리스어 allos(다른)+ergon(작용)으로 만든 allergy의 형용사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에 (to)",
+   "note": "무엇에 반응하는지 대상을 가리켜요."
+  }
+ ],
+ "summary": "<strong>be allergic</strong> (알레르기가 있다) + <strong>to</strong> (~에) = <strong>'~에 알레르기가 있다'</strong>예요.",
+ "historyTitle": "1906년에 만들어진 새 말, allergy",
+ "historyBody": "allergy는 1906년 오스트리아의 소아과 의사 클레멘스 폰 피르케가 그리스어 allos(다른)와 ergon(작용)을 합쳐 만든 말이에요. 몸이 '평소와 다르게 반응한다'는 뜻이죠. 일상에서는 '~을 질색하다'라는 농담으로도 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "allergy",
+   "pos": "명사",
+   "meaning": "알레르기",
+   "en": "I have a peanut allergy.",
+   "ko": "나는 땅콩 알레르기가 있어요."
+  },
+  {
+   "word": "allergic reaction",
+   "pos": "명사구",
+   "meaning": "알레르기 반응",
+   "en": "She had an allergic reaction to the shrimp.",
+   "ko": "그녀는 새우에 알레르기 반응을 보였어요."
+  },
+  {
+   "word": "sensitive to",
+   "pos": "형용사구",
+   "meaning": "~에 민감한",
+   "en": "My skin is sensitive to sunlight.",
+   "ko": "내 피부는 햇빛에 민감해요."
+  },
+  {
+   "word": "energy",
+   "pos": "명사",
+   "meaning": "에너지",
+   "en": "Bananas give you quick energy.",
+   "ko": "바나나는 빠르게 에너지를 줘요."
+  },
+  {
+   "word": "symptom",
+   "pos": "명사",
+   "meaning": "증상",
+   "en": "Sneezing is a common symptom of allergies.",
+   "ko": "재채기는 알레르기의 흔한 증상이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 고양이 옆에서 재채기를 하는 사람",
+ "imageCaption": "꽃가루나 고양이 털만 보면 '에취!' 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm allergic to cats, but I'd do anything for this one.",
+ "movieLineKo": "난 고양이 알레르기가 있지만, 이 녀석을 위해선 뭐든 할 거야.",
+ "storyTitle": "숙제 알레르기",
+ "story": "동생은 땅콩에 be allergic to(~에 알레르기가 있다)해요. allergic reaction(알레르기 반응)으로 재채기가 symptom(증상)이죠. 그런데 요즘엔 숙제에도 allergy(알레르기)가 있다며 책만 펴면 재채기를 해요. 신기하게 게임기를 켜면 바로 낫는답니다!"
+}

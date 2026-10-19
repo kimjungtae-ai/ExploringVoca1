@@ -1,0 +1,81 @@
+{
+ "word": "instructor",
+ "pos": "명사",
+ "phonetic": "[ɪnˈstrʌktər]",
+ "meaning": "강사, 교사, 지도자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에, 위에 (in, on)",
+   "note": "안쪽에 쌓아 올린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "struct",
+   "meaning": "쌓다 (build, pile up)",
+   "note": "라틴어 struere(쌓다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-or",
+   "meaning": "~하는 사람",
+   "note": "사람을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>struct</strong> (쌓다) + <strong>-or</strong> (사람) = '머릿속에 지식을 쌓아 주는 사람'이라는 뜻에서 <strong>'강사, 지도자'</strong>가 되었습니다.",
+ "historyTitle": "지식을 쌓아 주는 사람",
+ "historyBody": "라틴어 'instructor'는 원래 '준비시키는 사람, 갖추어 주는 사람'이라는 뜻이었어요. 15세기에 영어에 들어와 '가르치는 사람'이 되었죠. 지금은 운전, 수영, 요가처럼 실제 기술을 가르치는 강사를 부를 때 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "instruction",
+   "pos": "명사",
+   "meaning": "지시, 설명",
+   "en": "Read the instructions before you start.",
+   "ko": "시작하기 전에 설명서를 읽으세요."
+  },
+  {
+   "word": "instruct",
+   "pos": "동사",
+   "meaning": "가르치다, 지시하다",
+   "en": "The teacher instructed us to read chapter five.",
+   "ko": "선생님은 우리에게 5장을 읽으라고 지시하셨어요."
+  },
+  {
+   "word": "structure",
+   "pos": "명사",
+   "meaning": "구조, 건축물",
+   "en": "The structure of this sentence is complex.",
+   "ko": "이 문장의 구조는 복잡해요."
+  },
+  {
+   "word": "construct",
+   "pos": "동사",
+   "meaning": "건설하다, 구성하다",
+   "en": "Workers are constructing a new bridge.",
+   "ko": "인부들이 새 다리를 건설하고 있어요."
+  },
+  {
+   "word": "destruction",
+   "pos": "명사",
+   "meaning": "파괴",
+   "en": "The war caused great destruction.",
+   "ko": "전쟁은 엄청난 파괴를 일으켰어요."
+  },
+  {
+   "word": "instrument",
+   "pos": "명사",
+   "meaning": "도구, 악기",
+   "en": "The violin is a beautiful instrument.",
+   "ko": "바이올린은 아름다운 악기예요."
+  }
+ ],
+ "imageSense": "대표 의미: 수영장에서 호루라기를 문 강사가 자세를 알려 주는 장면",
+ "imageCaption": "한 동작씩 차근차근 기술을 쌓아 주는 선생님을 떠올려 보세요. 그 사람이 instructor예요.",
+ "movieLineEn": "I'm your instructor, and today you will learn to fly.",
+ "movieLineKo": "나는 너의 강사고, 오늘 넌 나는 법을 배울 거야.",
+ "storyTitle": "운전 강사의 위기",
+ "story": "운전 instructor(강사)는 할머니에게 천천히 가라고 instruct(지시하다)했어요. 그런데 할머니는 instruction(지시)을 무시하고 시속 100km로 달렸죠. 강사는 비명을 질렀지만 할머니는 완벽한 주차까지 해냈어요. 알고 보니 할머니는 전직 레이싱 선수였고, 그날 강사가 운전을 배웠대요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "compromise",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈkɑːmprəmaɪz]",
+ "meaning": "타협, 절충 / 타협하다, (명예 등을) 손상시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "'앞으로'를 뜻하는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mis(e)",
+   "meaning": "보내다 (send)",
+   "note": "라틴어 mittere(보내다)의 과거분사 missus에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>pro-</strong> (앞으로) + <strong>mise</strong> (보내다) = '서로 함께 약속하다'라는 데서 <strong>'타협, 절충'</strong>이 되었습니다.",
+ "historyTitle": "중재인에게 맡기겠다는 약속",
+ "historyBody": "라틴어 compromissum은 다툼이 생긴 양쪽이 '중재인의 판결을 따르겠다고 함께 약속한 것'이었어요. promise(약속)와 같은 뿌리죠. 그래서 서로 조금씩 양보하는 '타협'이 되었고, 나중에 '위험에 내맡기다, 손상시키다'라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "promise",
+   "pos": "동사/명사",
+   "meaning": "약속하다 / 약속",
+   "en": "I promise I'll call you tonight.",
+   "ko": "오늘 밤에 꼭 전화할게, 약속해."
+  },
+  {
+   "word": "mission",
+   "pos": "명사",
+   "meaning": "임무, 사명",
+   "en": "Their mission was to save the lost hikers.",
+   "ko": "그들의 임무는 길 잃은 등산객들을 구하는 것이었어요."
+  },
+  {
+   "word": "permit",
+   "pos": "동사/명사",
+   "meaning": "허락하다 / 허가증",
+   "en": "Smoking is not permitted in this building.",
+   "ko": "이 건물에서는 흡연이 허용되지 않아요."
+  },
+  {
+   "word": "submit",
+   "pos": "동사",
+   "meaning": "제출하다, 굴복하다",
+   "en": "Please submit your essay by Friday.",
+   "ko": "금요일까지 에세이를 제출하세요."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다, 전염시키다",
+   "en": "Mosquitoes can transmit diseases.",
+   "ko": "모기는 질병을 옮길 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 피자 한 판을 두고 두 친구가 반반씩 나누기로 악수하는 장면",
+ "imageCaption": "서로 한 걸음씩 앞으로(pro-) 내밀어 함께(com-) 약속하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Fine. Let's compromise: half pizza, half chicken.",
+ "movieLineKo": "좋아. 타협하자. 반은 피자, 반은 치킨.",
+ "storyTitle": "리모컨 협상",
+ "story": "형과 나는 TV 채널로 싸웠어요. 엄마는 compromise(타협)하라며 30분씩 보라고 permit(허락하다)하셨죠. 우리는 그 약속을 promise(약속하다)했어요. 그런데 각자의 mission(임무)은 상대 시간을 줄이는 것! 결국 싸우다 지쳐 엄마가 드라마를 보셨답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "set aside",
+ "pos": "구동사",
+ "phonetic": "[set əˈsaɪd]",
+ "meaning": "따로 떼어 두다, 저축하다, 제쳐 두다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "set",
+   "meaning": "놓다, 두다 (place)",
+   "note": "어떤 자리에 딱 '놓아 두는' 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "aside",
+   "meaning": "옆으로, 따로 (aside)",
+   "note": "a-(~에) + side(옆)로 '옆쪽에'라는 뜻이에요. 다른 것과 떨어진 곳에 두는 이미지예요."
+  }
+ ],
+ "summary": "<strong>set</strong> (두다) + <strong>aside</strong> (옆으로) = '옆으로 따로 놓아 두다'에서 <strong>'따로 떼어 두다, 저축하다, 제쳐 두다'</strong>가 되었어요.",
+ "historyTitle": "옆에 따로 두는 그림",
+ "historyBody": "set은 고대 영어 'settan(놓다, 앉히다)'에서 왔고 sit(앉다)과 같은 뿌리예요. aside는 'on side(옆에)'가 줄어든 말이에요. 그래서 set aside는 물건이나 돈, 시간을 다른 것과 섞이지 않게 '옆에 따로 둔다'는 뜻이고, 감정이나 문제를 '제쳐 두다'라는 의미로도 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "put aside",
+   "pos": "구동사",
+   "meaning": "따로 두다, 제쳐 두다",
+   "en": "Let's put aside our differences and work together.",
+   "ko": "우리의 차이는 제쳐 두고 함께 일해요."
+  },
+  {
+   "word": "save",
+   "pos": "동사",
+   "meaning": "저축하다, 아끼다",
+   "en": "I save ten thousand won every week.",
+   "ko": "나는 매주 만 원씩 저축해요."
+  },
+  {
+   "word": "set up",
+   "pos": "구동사",
+   "meaning": "설립하다, 설치하다",
+   "en": "They set up a small bakery downtown.",
+   "ko": "그들은 시내에 작은 빵집을 차렸어요."
+  },
+  {
+   "word": "set off",
+   "pos": "구동사",
+   "meaning": "출발하다",
+   "en": "We set off early in the morning.",
+   "ko": "우리는 아침 일찍 출발했어요."
+  },
+  {
+   "word": "leave aside",
+   "pos": "구동사",
+   "meaning": "제쳐 두다",
+   "en": "Leaving aside the cost, it's a great plan.",
+   "ko": "비용은 제쳐 두면, 그건 훌륭한 계획이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 용돈 중 일부를 돼지 저금통에 따로 넣는 장면",
+ "imageCaption": "받은 용돈 중 몇 장을 쓰지 않고 옆의 돼지 저금통에 쏙 넣어 두는 모습을 떠올려 보세요.",
+ "movieLineEn": "Set aside your fear. We have a job to do.",
+ "movieLineKo": "두려움은 제쳐 둬. 우리에겐 할 일이 있어.",
+ "storyTitle": "저금통의 진실",
+ "story": "나는 매달 용돈의 절반을 set aside(따로 떼어 두다)했어요. 친구들이 놀자고 해도 유혹은 put aside(제쳐 두다)! 1년 동안 save(저축하다)한 돈으로 새 운동화를 사러 set off(출발하다)했죠. 그런데 저금통을 열어 보니 동전 대신 동생의 '차용증'이 가득 들어 있었어요."
+}

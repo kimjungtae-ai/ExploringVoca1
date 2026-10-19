@@ -1,0 +1,67 @@
+{
+ "word": "personalized",
+ "pos": "형용사",
+ "phonetic": "[ˈpɜːrsənəlaɪzd]",
+ "meaning": "개인 맞춤형의, 이름을 새긴",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "personal",
+   "meaning": "개인의 (personal)",
+   "note": "person(사람) + -al(~의)이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~화하다 (동사)",
+   "note": "'~로 만들다'라는 동사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "과거분사로 '~된' 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>personal</strong> (개인의) + <strong>-ize</strong> (~로 만들다) + <strong>-ed</strong> (~된) = 한 사람에게 꼭 맞게 만들어진 것이라서 <strong>'개인 맞춤형의'</strong>가 되었어요.",
+ "historyTitle": "가면(persona)에서 맞춤 서비스까지",
+ "historyBody": "라틴어 persona는 원래 연극 배우가 쓰던 '가면'이나 '극 중 인물'을 뜻했고, 여기서 '사람'이라는 뜻이 나왔어요. 'per(통과해) + sonare(소리 나다)', 즉 가면을 통해 소리가 울린다는 풀이가 유명하지만, 학자들은 이를 민간 어원으로 보고 에트루리아어 phersu(가면)에서 왔을 가능성을 더 크게 봐요. persona 자체의 정확한 기원은 확실하지 않아요. personalize는 18세기에 '사람처럼 만들다'라는 뜻으로 쓰였고, 20세기에 '개인에게 맞추다'라는 뜻으로 널리 퍼졌어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "personal",
+   "pos": "형용사",
+   "meaning": "개인의",
+   "en": "Keep your personal information safe online.",
+   "ko": "온라인에서 개인 정보를 안전하게 지키세요."
+  },
+  {
+   "word": "personalize",
+   "pos": "동사",
+   "meaning": "개인에게 맞추다",
+   "en": "Teachers try to personalize lessons for each student.",
+   "ko": "선생님들은 학생마다 수업을 맞추려고 노력해요."
+  },
+  {
+   "word": "personally",
+   "pos": "부사",
+   "meaning": "개인적으로, 직접",
+   "en": "The author signed the book personally.",
+   "ko": "작가가 직접 책에 사인을 해 주었어요."
+  },
+  {
+   "word": "person",
+   "pos": "명사",
+   "meaning": "사람",
+   "en": "Every person deserves respect.",
+   "ko": "모든 사람은 존중받을 자격이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 내 이름이 새겨진 머그컵과 텀블러",
+ "imageCaption": "내 이름 이니셜이 새겨진 컵이나 나에게 딱 맞춘 추천 목록을 떠올려 보세요.",
+ "movieLineEn": "I made you a personalized playlist for the road trip.",
+ "movieLineKo": "너를 위한 맞춤 플레이리스트를 만들었어. 여행 가면서 들어.",
+ "storyTitle": "너무 맞춤형인 선물",
+ "story": "엄마 생신에 personalized(이름을 새긴) 머그컵을 주문했어요. 가게는 모든 걸 personalize(개인에게 맞추다)해 준다며 엄마의 personal(개인의) 취향을 물었죠. 저는 personally(개인적으로) '잔소리 좋아함'이라고 적었어요. 도착한 컵엔 '숙제했니?'가 새겨져 있었고, 엄마는 너무 좋아하셨대요!"
+}

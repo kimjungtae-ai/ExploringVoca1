@@ -1,0 +1,41 @@
+{
+ "word": "cabbage",
+ "pos": "명사",
+ "phonetic": "[ˈkæbɪdʒ]",
+ "meaning": "양배추",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cabbage (← caboche)",
+   "meaning": "머리 (head)",
+   "note": "고대 북부 프랑스어 caboche(머리)에서 왔다고 봐요. 둥근 머리 모양을 떠올려 보세요."
+  }
+ ],
+ "summary": "<strong>cabbage</strong>는 프랑스어 방언 <strong>caboche</strong>(머리)에서 와서, 동그란 머리처럼 생긴 채소, 즉 <strong>'양배추'</strong>가 되었어요.",
+ "historyTitle": "머리처럼 생긴 채소",
+ "historyBody": "cabbage는 14세기 무렵 고대 북부 프랑스어 caboche(머리)에서 들어왔다고 봐요. 둥글게 꽉 찬 양배추가 사람 머리를 닮았기 때문이죠. 다만 caboche가 어디서 왔는지는 확실하지 않아서, 라틴어 caput(머리)과 연결하는 설은 추측에 가까워요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "Chinese cabbage",
+   "pos": "명사",
+   "meaning": "배추",
+   "en": "Kimchi is usually made with Chinese cabbage.",
+   "ko": "김치는 보통 배추로 만들어요."
+  },
+  {
+   "word": "red cabbage",
+   "pos": "명사",
+   "meaning": "적양배추",
+   "en": "Red cabbage adds color to a salad.",
+   "ko": "적양배추는 샐러드에 색을 더해 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 시장 좌판에 쌓여 있는 동글동글한 양배추",
+ "imageCaption": "사람 머리만 한 초록색 양배추가 시장에 수북이 쌓인 모습을 떠올려 보세요.",
+ "movieLineEn": "My grandma's cabbage soup can cure anything!",
+ "movieLineKo": "우리 할머니 양배추 수프는 뭐든 낫게 해!",
+ "storyTitle": "양배추 머리",
+ "story": "김장철, 할머니는 Chinese cabbage(배추) 백 포기를 사 오셨어요. 동생은 그 옆의 cabbage(양배추)를 머리에 쓰고 '나는 양배추 왕자!'라며 뛰어다녔죠. 화가 난 할머니가 red cabbage(적양배추)까지 들고 쫓아오셨어요. 결국 그날 저녁 cabbage(양배추) 샐러드가 산더미로 나왔답니다."
+}

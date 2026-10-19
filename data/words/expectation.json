@@ -1,0 +1,81 @@
+{
+ "word": "expectation",
+ "pos": "명사",
+ "phonetic": "[ˌekspekˈteɪʃn]",
+ "meaning": "기대, 예상",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "밖을 내다본다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spect / pect",
+   "meaning": "보다 (look)",
+   "note": "라틴어 spectare(바라보다)에서 왔어요. ex- 뒤에서 s가 빠졌어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 행위나 상태를 나타내는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>spect</strong> (보다) + <strong>-ation</strong> (명사) = '밖을 내다보며 기다리는 것'에서 <strong>'기대, 예상'</strong>이 되었어요.",
+ "historyTitle": "창밖을 내다보며 기다리다",
+ "historyBody": "expect는 라틴어 'exspectare(기다리다, 고대하다)'에서 왔어요. ex-(밖으로)와 spectare(바라보다)가 합쳐져 '누가 오나 밖을 내다보며 기다리다'라는 뜻이었어요. 여기에 명사 어미가 붙어 expectation이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expect",
+   "pos": "동사",
+   "meaning": "기대하다, 예상하다",
+   "en": "I didn't expect so many people at the party.",
+   "ko": "파티에 사람이 그렇게 많이 올 줄 몰랐어요."
+  },
+  {
+   "word": "unexpected",
+   "pos": "형용사",
+   "meaning": "예상치 못한",
+   "en": "We had an unexpected visitor last night.",
+   "ko": "어젯밤에 예상치 못한 손님이 왔어요."
+  },
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "검사하다, 점검하다",
+   "en": "The officer inspected our passports.",
+   "ko": "직원이 우리 여권을 검사했어요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중",
+   "en": "Thousands of spectators cheered for the team.",
+   "ko": "수천 명의 관중이 그 팀을 응원했어요."
+  },
+  {
+   "word": "respect",
+   "pos": "명사 / 동사",
+   "meaning": "존경 / 존경하다",
+   "en": "Students should respect each other's opinions.",
+   "ko": "학생들은 서로의 의견을 존중해야 해요."
+  },
+  {
+   "word": "prospect",
+   "pos": "명사",
+   "meaning": "전망, 가능성",
+   "en": "The prospect of a holiday made everyone happy.",
+   "ko": "휴가를 간다는 기대에 모두가 행복해졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강아지가 창가에서 주인이 오길 목 빠지게 기다리는 장면",
+ "imageCaption": "창밖을 내다보며 '곧 오겠지?' 하고 기다리는 마음을 떠올려 보세요.",
+ "movieLineEn": "You've exceeded all my expectations, kid.",
+ "movieLineKo": "꼬마야, 넌 내 모든 기대를 뛰어넘었어.",
+ "storyTitle": "기대 이상의 선물",
+ "story": "민호는 생일 선물에 큰 expectation(기대)을 걸었어요. 최신 게임기를 expect(기대하다)했죠. 상자를 inspect(검사하다)하듯 흔들어 보니 묵직했어요. 가족들은 spectator(관중)처럼 지켜봤죠. 열어 보니 unexpected(예상치 못한) 선물, 바로 문제집 열 권이었어요!"
+}

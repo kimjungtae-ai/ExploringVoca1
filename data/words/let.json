@@ -1,0 +1,41 @@
+{
+ "word": "let",
+ "pos": "동사",
+ "phonetic": "[let]",
+ "meaning": "~하게 하다, 허락하다, 세놓다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "let (lætan)",
+   "meaning": "놓아두다, 허락하다 (allow, leave)",
+   "note": "고대 영어 lætan(놓아주다)에서 온 게르만계 단어라 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>let</strong>은 고대 영어 <strong>lætan</strong>(놓아두다)에서 온 한 덩어리 단어로, '놓아두다'에서 <strong>'~하게 하다, 허락하다'</strong>가 되었어요.",
+ "historyTitle": "붙잡지 않고 '놓아두는' 말",
+ "historyBody": "고대 영어 lætan은 '놓아두다, 그대로 두다, 허락하다'라는 뜻이었어요. 독일어 lassen과 같은 뿌리예요. 붙잡지 않고 놓아두면 그 사람이 하고 싶은 걸 하게 되니, 자연스럽게 '~하게 허락하다'라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "outlet",
+   "pos": "명사",
+   "meaning": "배출구, 콘센트, 할인점",
+   "en": "Is there a power outlet near the desk?",
+   "ko": "책상 근처에 콘센트가 있나요?"
+  },
+  {
+   "word": "inlet",
+   "pos": "명사",
+   "meaning": "작은 만, 유입구",
+   "en": "The boat sailed into a quiet inlet.",
+   "ko": "배는 조용한 작은 만으로 들어갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 새장 문을 열어 새를 날려 보내는 장면",
+ "imageCaption": "붙잡고 있던 손을 놓아 새가 자유롭게 날게 해 주는 모습이 let이에요.",
+ "movieLineEn": "Let it go! You can't hold on to the past forever.",
+ "movieLineKo": "놓아 버려! 과거에 영원히 매달릴 순 없어.",
+ "storyTitle": "자유를 원한 햄스터",
+ "story": "우리 햄스터는 매일 \"let(놓아주다) me go!\" 하는 표정이었어요. 결국 저는 햄스터를 방에서 놀게 let(허락하다)했죠. 햄스터는 벽 outlet(콘센트) 뒤로 쏙 숨더니, 어항 물이 흘러드는 inlet(유입구)까지 탐험했어요. 정말 brave(용감한) 녀석이죠. 다음 날 아침, 햄스터는 스스로 철창에 돌아와 있었어요. 바깥세상엔 해바라기씨가 없었거든요."
+}

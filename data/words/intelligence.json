@@ -1,0 +1,88 @@
+{
+ "word": "intelligence",
+ "pos": "명사",
+ "phonetic": "[ɪnˈtelɪdʒəns]",
+ "meaning": "지능, 지성, (비밀) 정보",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "intel-",
+   "meaning": "사이에서 (inter-, between)",
+   "note": "inter-가 l 앞에서 intel-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lig",
+   "meaning": "고르다, 읽다 (choose, read)",
+   "note": "라틴어 legere(고르다)가 모양이 바뀐 거예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~한 것 (명사)",
+   "note": "명사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>intel-</strong> (사이에서) + <strong>lig</strong> (고르다) + <strong>-ence</strong> (~것) = '여러 것 사이에서 골라내는 능력'이라는 뜻에서 <strong>'지능'</strong>이 되었습니다.",
+ "historyTitle": "지능에서 첩보까지",
+ "historyBody": "라틴어 'intellegentia(이해력)'에서 온 말이에요. 15세기 무렵부터는 '알아낸 소식, 정보'라는 뜻도 생겼는데, 그래서 미국 CIA의 I가 Intelligence(정보)랍니다. 요즘 가장 유명한 짝꿍은 artificial intelligence(인공지능)예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "intellect",
+   "pos": "명사",
+   "meaning": "지성, 지적 능력",
+   "en": "He is a man of great intellect.",
+   "ko": "그는 지성이 뛰어난 사람이에요."
+  },
+  {
+   "word": "intelligence",
+   "pos": "명사",
+   "meaning": "지능, 정보",
+   "en": "Artificial intelligence is changing our lives.",
+   "ko": "인공지능이 우리 삶을 바꾸고 있어요."
+  },
+  {
+   "word": "intelligent",
+   "pos": "형용사",
+   "meaning": "똑똑한, 지능이 있는",
+   "en": "Dolphins are very intelligent animals.",
+   "ko": "돌고래는 아주 똑똑한 동물이에요."
+  },
+  {
+   "word": "select",
+   "pos": "동사",
+   "meaning": "선택하다 (골라 모으다)",
+   "en": "Please select one answer.",
+   "ko": "답을 하나 고르세요."
+  },
+  {
+   "word": "collect",
+   "pos": "동사",
+   "meaning": "모으다 (함께 고르다)",
+   "en": "My brother collects old coins.",
+   "ko": "우리 형은 옛날 동전을 모아요."
+  },
+  {
+   "word": "elect",
+   "pos": "동사",
+   "meaning": "선출하다 (골라내다)",
+   "en": "We elected her as class president.",
+   "ko": "우리는 그녀를 반장으로 뽑았어요."
+  },
+  {
+   "word": "lecture",
+   "pos": "명사",
+   "meaning": "강의 (읽는 것)",
+   "en": "The lecture was about climate change.",
+   "ko": "그 강의는 기후 변화에 관한 것이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 로봇이 어려운 퍼즐을 척척 푸는 장면",
+ "imageCaption": "복잡하게 섞인 것들 사이에서 정답을 골라내는 반짝이는 두뇌를 떠올려 보세요. 그게 intelligence예요.",
+ "movieLineEn": "Don't underestimate my intelligence.",
+ "movieLineKo": "내 지능을 과소평가하지 마.",
+ "storyTitle": "인공지능 숙제 도우미",
+ "story": "민지는 숙제를 artificial intelligence(인공지능)에게 맡기려 했어요. AI는 무척 intelligent(똑똑한)해서 답을 select(선택하다)해 줬죠. 그런데 답마다 '스스로 생각해 보세요'라고 적혀 있었어요. 민지는 투덜거리며 lecture(강의)를 다시 들었어요. AI가 진짜 intellect(지성)를 보여 준 거죠."
+}

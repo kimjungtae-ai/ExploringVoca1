@@ -1,0 +1,61 @@
+{
+ "word": "finance",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈfaɪnæns, fəˈnæns]",
+ "meaning": "재정, 금융, 자금 / 자금을 대다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fin",
+   "meaning": "끝 (end)",
+   "note": "라틴어 finis(끝)가 고대 프랑스어 fin이 되었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것 (명사)",
+   "note": "행동이나 상태를 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>fin</strong> (끝) + <strong>-ance</strong> (~하는 것) = '빚을 끝내는 것, 결제'라는 뜻에서 <strong>'재정, 금융'</strong>이 되었습니다.",
+ "historyTitle": "빚을 '끝내는' 일에서 금융으로",
+ "historyBody": "고대 프랑스어 finer는 '끝내다, 빚을 청산하다'라는 뜻이었고, 여기서 finance(지불, 몸값)가 나왔어요. 즉 돈 문제를 '끝맺는' 일이 금융의 출발점이었죠. 벌금을 뜻하는 fine도 '분쟁을 끝내는 돈'이라는 같은 뿌리에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "financial",
+   "pos": "형용사",
+   "meaning": "재정의, 금융의",
+   "en": "Many students face financial problems in college.",
+   "ko": "많은 학생들이 대학에서 재정적인 어려움을 겪어요."
+  },
+  {
+   "word": "fine",
+   "pos": "명사 / 동사",
+   "meaning": "벌금 / 벌금을 부과하다",
+   "en": "He paid a fine for parking in the wrong place.",
+   "ko": "그는 잘못된 곳에 주차해서 벌금을 냈어요."
+  },
+  {
+   "word": "final",
+   "pos": "형용사",
+   "meaning": "마지막의",
+   "en": "This is your final chance to join the club.",
+   "ko": "이번이 동아리에 들어올 마지막 기회야."
+  },
+  {
+   "word": "finish",
+   "pos": "동사",
+   "meaning": "끝내다",
+   "en": "She finished the race in first place.",
+   "ko": "그녀는 1등으로 경주를 마쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 은행 창구와 전광판의 숫자들이 움직이는 장면",
+ "imageCaption": "가계부를 쓰며 들어오고 나가는 돈을 정리하는 모습을 떠올리면 finance가 그려져요.",
+ "movieLineEn": "Who will finance this crazy space mission?",
+ "movieLineKo": "이 미친 우주 임무에 누가 돈을 댈 건데?",
+ "storyTitle": "용돈 금융 위기",
+ "story": "민지는 용돈 finance(재정)를 관리하는 앱을 깔았어요. financial(재정의) 목표는 '이번 달 저축 만 원!'이었죠. 그런데 도서관 책 연체로 fine(벌금)을 내고, 간식 사느라 돈을 다 써 버렸어요. final(마지막) 날 잔액은 0원. 그래도 앱은 칭찬했어요. \"축하해요, 빚 없이 finish(끝내다)했어요!\""
+}

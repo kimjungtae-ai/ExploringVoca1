@@ -1,0 +1,54 @@
+{
+ "word": "gymnasium",
+ "pos": "명사",
+ "phonetic": "[dʒɪmˈneɪziəm]",
+ "meaning": "체육관",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "gymn-",
+   "meaning": "벌거벗은 (naked)",
+   "note": "그리스어 gymnos(벌거벗은)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-asium (← -asion)",
+   "meaning": "~하는 장소 (place)",
+   "note": "그리스어 동사에 붙어 '~하는 곳'을 만드는 어미예요."
+  }
+ ],
+ "summary": "<strong>gymn-</strong> (벌거벗은) + <strong>-asium</strong> (장소) = 벌거벗고 운동하던 곳이라는 뜻에서 <strong>'체육관'</strong>이 되었어요.",
+ "historyTitle": "운동장에서 학교로, 학교에서 체육관으로",
+ "historyBody": "그리스어 gymnasion은 gymnazein(벌거벗고 운동하다)에서 나온 말로, 젊은이들이 운동하고 공부하던 곳이었어요. 그래서 독일에서는 지금도 Gymnasium이 '인문계 고등학교'를 뜻해요. 영어에서는 '체육관'이라는 뜻으로 자리 잡았답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gym",
+   "pos": "명사",
+   "meaning": "체육관, 헬스장",
+   "en": "I go to the gym three times a week.",
+   "ko": "나는 일주일에 세 번 헬스장에 가."
+  },
+  {
+   "word": "gymnastics",
+   "pos": "명사",
+   "meaning": "체조",
+   "en": "Gymnastics requires both strength and balance.",
+   "ko": "체조는 힘과 균형 감각을 모두 필요로 해."
+  },
+  {
+   "word": "gymnast",
+   "pos": "명사",
+   "meaning": "체조 선수",
+   "en": "The young gymnast won a gold medal.",
+   "ko": "그 어린 체조 선수가 금메달을 땄어."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 천장과 반짝이는 마루가 있는 넓은 학교 체육관",
+ "imageCaption": "농구 골대와 배구 네트가 있는 커다란 실내 체육관을 떠올려 보세요.",
+ "movieLineEn": "Everyone, report to the gymnasium immediately!",
+ "movieLineKo": "모두 즉시 체육관으로 집합하세요!",
+ "storyTitle": "체육관의 정체",
+ "story": "역사 시간, 선생님이 gymnasium(체육관)의 뜻이 '벌거벗고 운동하던 곳'이라고 하셨어요. 그 말에 gymnast(체조 선수)를 꿈꾸던 태호가 깜짝 놀랐죠. 다음 날 gym(체육관)에서 gymnastics(체조) 시간이 되자, 태호는 비장하게 외투를 벗었어요. 다행히 안에 체육복을 세 벌이나 껴입고 왔더래요!"
+}

@@ -1,0 +1,60 @@
+{
+ "word": "prioritize",
+ "pos": "동사",
+ "phonetic": "[praɪˈɔːrətaɪz]",
+ "meaning": "우선순위를 매기다, 우선시하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "prior",
+   "meaning": "이전의, 우선하는 (earlier, first)",
+   "note": "라틴어 prior(앞선, 더 먼저의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~함, ~성 (명사)",
+   "note": "priority(우선순위)를 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하게 하다 (동사)",
+   "note": "명사를 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>prior</strong> (앞선) + <strong>-ity</strong> (명사) + <strong>-ize</strong> (~하다) = '앞에 둘 것을 정하다'라는 뜻에서 <strong>'우선순위를 매기다'</strong>가 되었어요.",
+ "historyTitle": "20세기에 생긴 꽤 새로운 단어",
+ "historyBody": "prior는 라틴어로 '더 앞선, 더 먼저의'라는 뜻이에요. priority는 중세부터 쓰였지만, 동사 prioritize는 20세기 중반 미국에서 널리 쓰이기 시작한 비교적 새로운 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prior",
+   "pos": "형용사",
+   "meaning": "이전의, 사전의",
+   "en": "Prior experience is not required for this job.",
+   "ko": "이 일에는 사전 경험이 필요하지 않아요."
+  },
+  {
+   "word": "priority",
+   "pos": "명사",
+   "meaning": "우선순위, 우선 사항",
+   "en": "Safety is our top priority.",
+   "ko": "안전이 우리의 최우선 사항이에요."
+  },
+  {
+   "word": "prioritization",
+   "pos": "명사",
+   "meaning": "우선순위 결정",
+   "en": "Good prioritization helps you study more efficiently.",
+   "ko": "우선순위를 잘 정하면 더 효율적으로 공부할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 할 일 목록에 1, 2, 3 번호를 매기는 학생",
+ "imageCaption": "포스트잇 여러 장을 중요한 순서대로 줄 세우는 장면을 떠올려 보세요.",
+ "movieLineEn": "You need to prioritize, kid. You can't save everyone at once.",
+ "movieLineKo": "우선순위를 정해야 해, 꼬마야. 한 번에 모두를 구할 순 없어.",
+ "storyTitle": "우선순위의 달인",
+ "story": "시험 전날, 민수는 할 일을 prioritize(우선순위를 매기다)하기로 했어요. 첫 번째 priority(우선 사항)는 '계획표 예쁘게 꾸미기'였죠. prior(이전의) 시험에서도 그랬어요. 세 시간 동안 prioritization(우선순위 결정)만 하다가 잠들었는데, 계획표가 미술 대회에서 상을 받았답니다!"
+}

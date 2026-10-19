@@ -1,0 +1,68 @@
+{
+ "word": "go through",
+ "pos": "구동사",
+ "phonetic": "[ɡoʊ θruː]",
+ "meaning": "겪다, 경험하다; 살펴보다; 통과하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "go",
+   "meaning": "가다 (go)",
+   "note": "움직여 나아가는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "through",
+   "meaning": "~을 통과하여, 처음부터 끝까지 (through)",
+   "note": "터널을 들어가서 반대편으로 빠져나오는 이미지예요."
+  }
+ ],
+ "summary": "<strong>go</strong> (가다) + <strong>through</strong> (처음부터 끝까지 통과해) = '어떤 상황을 뚫고 끝까지 지나가다'라서 <strong>'겪다, 살펴보다'</strong>예요.",
+ "historyTitle": "터널을 빠져나가듯",
+ "historyBody": "go는 고대 영어 gan에서 온 아주 오래된 게르만어예요. through는 고대 영어 þurh(~을 관통하여)에서 왔어요. 힘든 시기를 터널처럼 '뚫고 지나간다'는 뜻에서 '겪다'가, 서류를 처음부터 끝까지 지나간다는 뜻에서 '살펴보다'가 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "get through",
+   "pos": "구동사",
+   "meaning": "(어려움을) 극복하다, 끝내다",
+   "en": "We got through the hard times together.",
+   "ko": "우리는 힘든 시기를 함께 이겨 냈어요."
+  },
+  {
+   "word": "experience",
+   "pos": "동사 / 명사",
+   "meaning": "경험하다 / 경험",
+   "en": "Many teens experience stress before exams.",
+   "ko": "많은 십 대가 시험 전에 스트레스를 경험해요."
+  },
+  {
+   "word": "undergo",
+   "pos": "동사",
+   "meaning": "(변화·수술 등을) 겪다",
+   "en": "The city underwent big changes.",
+   "ko": "그 도시는 큰 변화를 겪었어요."
+  },
+  {
+   "word": "go over",
+   "pos": "구동사",
+   "meaning": "검토하다",
+   "en": "Let's go over the answers together.",
+   "ko": "답을 같이 검토해 보자."
+  },
+  {
+   "word": "look through",
+   "pos": "구동사",
+   "meaning": "훑어보다",
+   "en": "I looked through old photos last night.",
+   "ko": "어젯밤 나는 옛 사진들을 훑어봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어두운 터널을 지나 빛 쪽으로 걸어 나오는 사람",
+ "imageCaption": "힘든 시간을 한 걸음씩 통과해 반대편으로 나오는 모습을 떠올려 보세요.",
+ "movieLineEn": "I know what you're going through. I've been there too.",
+ "movieLineKo": "네가 무슨 일을 겪고 있는지 알아. 나도 그랬거든.",
+ "storyTitle": "가방 속 미스터리",
+ "story": "엄마가 내 가방을 go through(살펴보다)하시다가 깜짝 놀라셨어요. 일주일 지난 도시락이 나왔거든요! 나는 사춘기를 go through(겪다)하는 중이라 바빴다고 변명했죠. 엄마는 가방을 다시 look through(훑어보다)하시더니 말했어요. \"그럼 이 곰팡이도 같이 사춘기를 undergo(겪다)하고 있구나.\" 우린 둘 다 웃었답니다."
+}

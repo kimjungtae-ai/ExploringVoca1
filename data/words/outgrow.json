@@ -1,0 +1,61 @@
+{
+ "word": "outgrow",
+ "pos": "동사",
+ "phonetic": "[ˌaʊtˈɡroʊ]",
+ "meaning": "(커서) ~에 맞지 않게 되다, ~보다 더 커지다, (습관 등을) 벗어나다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "out-",
+   "meaning": "~보다 더, 넘어서 (beyond)",
+   "note": "동사 앞에서 '~보다 더 많이, 넘어서'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "grow",
+   "meaning": "자라다 (grow)",
+   "note": "고대 영어 growan(자라다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>out-</strong> (넘어서) + <strong>grow</strong> (자라다) = '~을 넘어설 만큼 자라다'라는 뜻에서 <strong>'커서 맞지 않게 되다, 벗어나다'</strong>가 되었어요.",
+ "historyTitle": "자라서 넘어서다",
+ "historyBody": "outgrow는 16세기 무렵부터 쓰인 말로, out-이 '~보다 더'라는 뜻을 더해요. outrun(더 빨리 달리다), outnumber(수가 더 많다)와 같은 방식이에요. grow는 고대 영어 growan에서 온 게르만계 단어로, 원래 식물이 푸르게 자라는 것을 뜻했어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "grow",
+   "pos": "동사",
+   "meaning": "자라다, 기르다",
+   "en": "Tomatoes grow well in sunny places.",
+   "ko": "토마토는 햇볕이 잘 드는 곳에서 잘 자라요."
+  },
+  {
+   "word": "growth",
+   "pos": "명사",
+   "meaning": "성장, 증가",
+   "en": "The city has seen rapid population growth.",
+   "ko": "그 도시는 인구가 빠르게 늘었어요."
+  },
+  {
+   "word": "grown-up",
+   "pos": "명사 / 형용사",
+   "meaning": "어른 / 다 자란",
+   "en": "Kids often want to act like grown-ups.",
+   "ko": "아이들은 종종 어른처럼 행동하고 싶어 해요."
+  },
+  {
+   "word": "overgrown",
+   "pos": "형용사",
+   "meaning": "지나치게 자란, 무성한",
+   "en": "The garden was overgrown with weeds.",
+   "ko": "정원은 잡초로 무성했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이가 작아진 옷을 입고 팔목이 쑥 나와 있는 장면",
+ "imageCaption": "작년 겨울 패딩을 입었더니 소매가 팔꿈치까지 올라간 모습을 떠올려 보세요. 옷보다 내가 더 커 버린 거예요.",
+ "movieLineEn": "You'll outgrow this fear someday. Trust me.",
+ "movieLineKo": "언젠가 넌 이 두려움에서 벗어날 거야. 날 믿어.",
+ "storyTitle": "너무 빨리 자라는 강아지",
+ "story": "새로 온 강아지는 하루가 다르게 grow(자라다)했어요. 일주일 만에 집을 outgrow(커서 맞지 않게 되다)해 버렸죠. 놀라운 growth(성장)에 가족 모두 걱정했어요. 그런데 수의사 선생님이 웃으며 말했죠. '이 친구, 강아지가 아니라 아기 곰이에요!'"
+}

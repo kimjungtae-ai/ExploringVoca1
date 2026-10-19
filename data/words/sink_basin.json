@@ -1,0 +1,68 @@
+{
+ "word": "sink basin",
+ "pos": "명사구",
+ "phonetic": "[sɪŋk ˈbeɪsən]",
+ "meaning": "세면대, 개수대 (대야 부분)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "sink",
+   "meaning": "싱크대, 개수대 (sink)",
+   "note": "동사 sink(가라앉다)에서 와서 물이 '빠져 내려가는 곳'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "basin",
+   "meaning": "대야, 세면기 (basin)",
+   "note": "물을 담는 우묵한 그릇이에요."
+  }
+ ],
+ "summary": "<strong>sink</strong> (물이 빠지는 곳) + <strong>basin</strong> (우묵한 그릇) = '물을 받고 빼는 우묵한 그릇'이라서 <strong>'세면대, 개수대'</strong>예요.",
+ "historyTitle": "가라앉는 곳과 둥근 그릇",
+ "historyBody": "sink는 고대 영어 'sincan(가라앉다)'에서 왔고, 15세기 무렵부터 '물이 빠져나가는 곳, 하수구'라는 명사 뜻이 생겼어요. basin은 고대 프랑스어 'bacin'을 거쳐 중세 라틴어 'bacchinus(그릇)'에서 왔어요. 지리에서는 '분지, 유역'이라는 뜻도 있어 수능 지문에 나오기도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "washbasin",
+   "pos": "명사",
+   "meaning": "세면대",
+   "en": "He washed his face at the washbasin.",
+   "ko": "그는 세면대에서 세수를 했어요."
+  },
+  {
+   "word": "sink",
+   "pos": "동사",
+   "meaning": "가라앉다",
+   "en": "The heavy stone sank to the bottom of the lake.",
+   "ko": "무거운 돌이 호수 바닥으로 가라앉았어요."
+  },
+  {
+   "word": "faucet",
+   "pos": "명사",
+   "meaning": "수도꼭지",
+   "en": "Turn off the faucet while brushing your teeth.",
+   "ko": "양치하는 동안 수도꼭지를 잠그세요."
+  },
+  {
+   "word": "drain",
+   "pos": "명사/동사",
+   "meaning": "배수구 / 물을 빼다",
+   "en": "The drain is blocked with hair.",
+   "ko": "배수구가 머리카락으로 막혔어요."
+  },
+  {
+   "word": "river basin",
+   "pos": "명사구",
+   "meaning": "강 유역",
+   "en": "Many cities grew along the river basin.",
+   "ko": "많은 도시가 강 유역을 따라 성장했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 욕실 세면대에 물을 받아 세수하는 장면",
+ "imageCaption": "하얀 세면대에 물이 찰랑찰랑 차고, 다 쓰면 배수구로 '쏴아' 빠져나가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't leave dirty dishes in the sink basin again!",
+ "movieLineKo": "또 개수대에 더러운 접시 두지 마!",
+ "storyTitle": "세면대 미스터리",
+ "story": "아침마다 sink basin(세면대)의 drain(배수구)이 막혔어요. 범인을 잡으려고 faucet(수도꼭지) 옆에 몰래 카메라를 뒀죠. 영상을 보니 고양이가 세면대에 쏙 들어가 낮잠을 자며 털을 잔뜩 남기고 있었어요. 물이 차오르자 놀라서 sink(가라앉다)할 뻔했던 건 비밀!"
+}

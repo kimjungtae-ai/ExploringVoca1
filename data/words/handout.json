@@ -1,0 +1,61 @@
+{
+ "word": "handout",
+ "pos": "명사",
+ "phonetic": "[ˈhændaʊt]",
+ "meaning": "유인물, 배포 자료, (무상) 지원금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hand",
+   "meaning": "손, 건네다 (hand)",
+   "note": "동사 hand(건네주다)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "밖으로, 나눠 (out)",
+   "note": "여러 사람에게 쭉 나눠 준다는 느낌이에요."
+  }
+ ],
+ "summary": "<strong>hand</strong> (건네다) + <strong>out</strong> (나눠) = 손으로 나눠 주는 것이라는 뜻에서 <strong>'유인물'</strong>이 되었어요.",
+ "historyTitle": "동사구에서 태어난 명사",
+ "historyBody": "handout은 동사구 hand out(나눠 주다)이 명사가 된 말이에요. 19세기 후반 미국에서 처음엔 '거지에게 건네는 음식이나 돈'을 뜻했어요. 20세기에 들어 회의나 수업에서 나눠 주는 '유인물'이라는 뜻이 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "handle",
+   "pos": "동사 / 명사",
+   "meaning": "다루다 / 손잡이",
+   "en": "She handled the problem calmly.",
+   "ko": "그녀는 그 문제를 침착하게 처리했어."
+  },
+  {
+   "word": "handy",
+   "pos": "형용사",
+   "meaning": "편리한, 가까이 있는",
+   "en": "Keep your phone handy in case I call.",
+   "ko": "내가 전화할지 모르니 휴대폰을 가까이 둬."
+  },
+  {
+   "word": "handful",
+   "pos": "명사",
+   "meaning": "한 줌, 소수",
+   "en": "He grabbed a handful of nuts.",
+   "ko": "그는 견과류를 한 줌 집었어."
+  },
+  {
+   "word": "handwriting",
+   "pos": "명사",
+   "meaning": "손글씨, 필체",
+   "en": "Her handwriting is very neat.",
+   "ko": "그녀의 손글씨는 아주 단정해."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 수업 시작 전에 학생들에게 프린트를 나눠 주는 장면",
+ "imageCaption": "앞자리부터 뒤로 '한 장씩 넘겨!' 하며 돌아가는 프린트를 떠올려 보세요.",
+ "movieLineEn": "Read the handout carefully before the test.",
+ "movieLineKo": "시험 전에 유인물을 꼼꼼히 읽어 둬.",
+ "storyTitle": "사라진 프린트",
+ "story": "시험 전날, 선생님이 중요한 handout(유인물)을 나눠 주셨어요. 지민이는 handy(가까이 있는) 곳에 둔다며 가방 깊숙이 넣었죠. 집에 와 보니 손에 handful(한 줌)의 과자 부스러기만! 엉망인 handwriting(필체)으로 대충 필기한 노트를 겨우 handle(처리하다)했어요. 다음 날 보니 프린트는 책상 서랍 안에 있었대요."
+}

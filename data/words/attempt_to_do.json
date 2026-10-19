@@ -1,0 +1,68 @@
+{
+ "word": "attempt to do",
+ "pos": "숙어",
+ "phonetic": "[əˈtempt tuː duː]",
+ "meaning": "~하려고 시도하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "attempt",
+   "meaning": "시도하다 (try)",
+   "note": "라틴어 ad-(~에)+temptare(만져 보다, 시험하다)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to do",
+   "meaning": "~하는 것 (to-infinitive)",
+   "note": "무엇을 시도하는지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>attempt</strong> (시도하다) + <strong>to do</strong> (~하는 것) = <strong>'~하려고 시도하다'</strong>예요.",
+ "historyTitle": "손을 대어 '시험해 보는' 것",
+ "historyBody": "attempt는 라틴어 attemptare에서 왔고, ad-(~에)와 temptare(만져 보다, 시험하다)가 합쳐졌어요. temptare는 tempt(유혹하다)와도 같은 뿌리예요. 그래서 attempt는 '될지 안 될지 한번 손대 보다'라는 느낌이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "try to do",
+   "pos": "숙어",
+   "meaning": "~하려고 애쓰다",
+   "en": "I tried to open the jar, but it was too tight.",
+   "ko": "병을 열려고 했지만 너무 꽉 닫혀 있었어요."
+  },
+  {
+   "word": "make an attempt",
+   "pos": "숙어",
+   "meaning": "시도하다",
+   "en": "She made an attempt to climb the wall.",
+   "ko": "그녀는 벽을 오르려는 시도를 했어요."
+  },
+  {
+   "word": "tempt",
+   "pos": "동사",
+   "meaning": "유혹하다",
+   "en": "The smell of pizza tempted me to stop.",
+   "ko": "피자 냄새가 나를 멈추게 유혹했어요."
+  },
+  {
+   "word": "endeavor",
+   "pos": "동사 / 명사",
+   "meaning": "노력하다 / 노력",
+   "en": "We endeavor to give the best service.",
+   "ko": "저희는 최고의 서비스를 드리려고 노력해요."
+  },
+  {
+   "word": "give it a shot",
+   "pos": "숙어",
+   "meaning": "한번 해 보다",
+   "en": "I've never surfed, but I'll give it a shot.",
+   "ko": "서핑은 해 본 적 없지만 한번 해 볼게요."
+  }
+ ],
+ "imageSense": "대표 의미: 높이뛰기 선수가 바를 넘으려고 도약하는 장면",
+ "imageCaption": "성공할지 모르지만 일단 손을 뻗어 '시도'하는 모습을 그려 보세요.",
+ "movieLineEn": "Do not attempt to follow me. You won't survive.",
+ "movieLineKo": "나를 따라오려고 하지 마. 살아남지 못할 거야.",
+ "storyTitle": "첫 번째 시도",
+ "story": "나는 혼자 라면을 끓이는 것을 attempt to do(~하려고 시도하다)했어요. 맛있게 make an attempt(시도하다)하려고 치즈와 초콜릿을 넣었죠. 냄새가 나를 tempt(유혹하다)했지만 맛은 끔찍했어요. 그런데 강아지가 다 먹고 꼬리를 흔들었답니다!"
+}

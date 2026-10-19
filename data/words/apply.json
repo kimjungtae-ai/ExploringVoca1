@@ -1,0 +1,75 @@
+{
+ "word": "apply",
+ "pos": "동사",
+ "phonetic": "[əˈplaɪ]",
+ "meaning": "지원하다, 신청하다, 적용하다, (크림 등을) 바르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "무언가를 어디에 대는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ply (plicare)",
+   "meaning": "접다, 겹치다 (fold)",
+   "note": "접어서 딱 붙인다는 느낌이에요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>ply</strong> (접어 붙이다) = '무언가에 갖다 붙이다'에서 <strong>'적용하다, 지원하다, 바르다'</strong>가 되었어요.",
+ "historyTitle": "갖다 붙이는 것에서 시작된 여러 뜻",
+ "historyBody": "apply는 라틴어 'applicare(~에 갖다 대다)'가 고대 프랑스어 'aplier'를 거쳐 들어온 말이에요. 크림을 피부에 '갖다 대면' 바르다, 규칙을 상황에 '갖다 대면' 적용하다, 나를 자리에 '갖다 대면' 지원하다가 돼요. 뜻이 여러 개지만 모두 '갖다 붙이다'에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "application",
+   "pos": "명사",
+   "meaning": "지원(서), 적용, 앱",
+   "en": "I downloaded a new application for learning English.",
+   "ko": "나는 영어 공부용 새 앱을 내려받았어요."
+  },
+  {
+   "word": "applicant",
+   "pos": "명사",
+   "meaning": "지원자",
+   "en": "The applicant was nervous before the interview.",
+   "ko": "그 지원자는 면접 전에 긴장했어요."
+  },
+  {
+   "word": "appliance",
+   "pos": "명사",
+   "meaning": "가전제품, 기기",
+   "en": "We bought a new kitchen appliance on sale.",
+   "ko": "우리는 할인할 때 새 주방 기기를 샀어요."
+  },
+  {
+   "word": "reply",
+   "pos": "동사/명사",
+   "meaning": "대답하다 / 대답",
+   "en": "Please reply by Friday.",
+   "ko": "금요일까지 답장 주세요."
+  },
+  {
+   "word": "imply",
+   "pos": "동사",
+   "meaning": "암시하다",
+   "en": "His smile implied that he knew the secret.",
+   "ko": "그의 미소는 그가 비밀을 알고 있다는 걸 암시했어요."
+  },
+  {
+   "word": "multiply",
+   "pos": "동사",
+   "meaning": "곱하다, 크게 늘리다",
+   "en": "Rabbits multiply very quickly.",
+   "ko": "토끼는 매우 빠르게 번식해요."
+  }
+ ],
+ "imageSense": "대표 의미: 컴퓨터 앞에서 원하는 회사에 지원 버튼을 누르는 모습",
+ "imageCaption": "손등에 크림을 '쓱' 갖다 바르는 모습과 지원서를 '쏙' 제출하는 모습을 함께 떠올려 보세요. 둘 다 무언가를 갖다 대는 apply예요.",
+ "movieLineEn": "If you want to be a hero, you have to apply yourself every day.",
+ "movieLineKo": "영웅이 되고 싶다면 매일 온 힘을 쏟아야 해.",
+ "storyTitle": "선크림의 배신",
+ "story": "하준이는 해변 구조대에 apply(지원하다)하러 갔어요. 면접관은 '이 크림을 apply(바르다)하세요'라고 말했죠. 하준이는 열심히 발랐지만 그건 선크림이 아니라 버터였어요! 갈매기들이 몰려와 multiply(크게 늘다)했고, 면접관은 '새 친구가 많은 applicant(지원자)군요. 합격!'이라고 했답니다."
+}

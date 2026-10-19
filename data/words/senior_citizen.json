@@ -1,0 +1,68 @@
+{
+ "word": "senior citizen",
+ "pos": "명사구",
+ "phonetic": "[ˈsiːnjər ˈsɪtɪzən]",
+ "meaning": "노인, 어르신, 고령자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "senior",
+   "meaning": "나이가 더 많은, 선배 (senior)",
+   "note": "라틴어 senex(늙은)의 비교급 senior(더 나이 든)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "citizen",
+   "meaning": "시민 (citizen)",
+   "note": "city(도시)와 같은 뿌리로 '도시의 주민'이에요."
+  }
+ ],
+ "summary": "<strong>senior</strong> (더 나이 든) + <strong>citizen</strong> (시민) = '나이가 더 많은 시민'이라서 <strong>'어르신, 노인'</strong>이에요.",
+ "historyTitle": "존중을 담은 표현",
+ "historyBody": "senior는 라틴어 'senex(늙은)'의 비교급 'senior(더 나이 든)'에서 왔고, senate(원로원)도 같은 뿌리예요. citizen은 앵글로-프랑스어 'citezein'에서 왔으며 city(도시)와 관련돼요. senior citizen은 20세기 중반 미국에서 퍼진 말로, old people보다 정중하게 어르신을 부르는 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "senior",
+   "pos": "형용사/명사",
+   "meaning": "연장자의, 상급의 / 졸업반 학생",
+   "en": "She is a senior manager at the company.",
+   "ko": "그녀는 그 회사의 선임 관리자예요."
+  },
+  {
+   "word": "the elderly",
+   "pos": "명사구",
+   "meaning": "노인들",
+   "en": "Volunteers deliver meals to the elderly.",
+   "ko": "자원봉사자들이 노인들에게 식사를 배달해요."
+  },
+  {
+   "word": "citizen",
+   "pos": "명사",
+   "meaning": "시민",
+   "en": "Every citizen has the right to vote.",
+   "ko": "모든 시민은 투표할 권리가 있어요."
+  },
+  {
+   "word": "aging society",
+   "pos": "명사구",
+   "meaning": "고령화 사회",
+   "en": "Korea is quickly becoming an aging society.",
+   "ko": "한국은 빠르게 고령화 사회가 되고 있어요."
+  },
+  {
+   "word": "junior",
+   "pos": "형용사/명사",
+   "meaning": "손아래의 / 후배",
+   "en": "He is two years my junior.",
+   "ko": "그는 나보다 두 살 아래예요."
+  }
+ ],
+ "imageSense": "대표 의미: 공원 벤치에서 어르신들이 바둑을 두며 웃는 장면",
+ "imageCaption": "햇살 좋은 공원에서 할아버지, 할머니들이 모여 바둑을 두고 이야기꽃을 피우는 모습을 떠올려 보세요.",
+ "movieLineEn": "Senior citizens ride free on Tuesdays.",
+ "movieLineKo": "화요일에는 어르신들이 무료로 탑승하세요.",
+ "storyTitle": "할아버지의 꿀팁",
+ "story": "버스 기사님이 'senior citizen(어르신)은 무료입니다'라고 하자 할아버지가 손을 내저으셨어요. '난 아직 junior(손아래)야!' 모두가 웃었죠. 할아버지는 자신을 citizen(시민) 체력왕이라며 버스비를 내셨어요. 그런데 내리실 때 허리를 잡으시며 한마디. '다음엔 senior(연장자) 할게.'"
+}

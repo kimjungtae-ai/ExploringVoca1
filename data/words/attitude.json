@@ -1,0 +1,61 @@
+{
+ "word": "attitude",
+ "pos": "명사",
+ "phonetic": "[ˈætɪtuːd]",
+ "meaning": "태도, 사고방식, 자세",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "atti (aptus)",
+   "meaning": "알맞은 (fit)",
+   "note": "라틴어 aptus(꼭 맞는)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tude",
+   "meaning": "~한 상태 (명사형)",
+   "note": "성질이나 상태를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>atti</strong> (알맞은) + <strong>-tude</strong> (상태) = '어떤 일에 맞게 갖춘 자세'에서 <strong>'태도, 사고방식'</strong>이 되었어요.",
+ "historyTitle": "조각상의 '자세'에서 마음의 '태도'로",
+ "historyBody": "attitude는 이탈리아어 'attitudine(자세, 성향)'가 프랑스어를 거쳐 17세기에 영어로 들어왔어요. 그 뿌리는 라틴어 'aptitudo(적합함)'로, aptitude(적성)와 같은 말에서 갈라진 쌍둥이 단어예요. 처음엔 그림이나 조각 속 인물의 '몸 자세'를 뜻했다가, 점차 마음의 '태도'라는 뜻으로 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "aptitude",
+   "pos": "명사",
+   "meaning": "적성, 소질",
+   "en": "She has an aptitude for languages.",
+   "ko": "그녀는 언어에 소질이 있어요."
+  },
+  {
+   "word": "apt",
+   "pos": "형용사",
+   "meaning": "~하기 쉬운, 적절한",
+   "en": "Young children are apt to catch colds.",
+   "ko": "어린아이들은 감기에 걸리기 쉬워요."
+  },
+  {
+   "word": "adapt",
+   "pos": "동사",
+   "meaning": "적응하다, 각색하다",
+   "en": "Animals adapt to changes in their environment.",
+   "ko": "동물들은 환경 변화에 적응해요."
+  },
+  {
+   "word": "adaptation",
+   "pos": "명사",
+   "meaning": "적응, 각색",
+   "en": "The movie is an adaptation of a famous novel.",
+   "ko": "그 영화는 유명한 소설을 각색한 작품이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 실패해도 웃으며 다시 도전하는 긍정적인 학생",
+ "imageCaption": "넘어져도 툭툭 털고 일어나 '다시 해 보자!' 하는 친구의 얼굴을 떠올려 보세요. 일을 대하는 마음가짐이 attitude예요.",
+ "movieLineEn": "I like your attitude, kid. You never give up.",
+ "movieLineKo": "네 태도가 마음에 든다, 꼬마야. 넌 절대 포기하지 않는구나.",
+ "storyTitle": "긍정왕 거북이",
+ "story": "거북이는 토끼와의 경주에서 또 졌지만 attitude(태도)만은 최고였어요. '나는 느린 대신 끈기에 aptitude(소질)가 있어!' 거북이는 새 환경에 adapt(적응하다)하려고 수영을 배웠죠. 다음 경주 코스는 바다! 토끼는 출발선에서 apt(~하기 쉬운)하게도 물에 빠질까 봐 그냥 집에 갔답니다."
+}

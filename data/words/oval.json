@@ -1,0 +1,54 @@
+{
+ "word": "oval",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈoʊvl]",
+ "meaning": "타원형의, 달걀 모양의 / 타원형",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ov",
+   "meaning": "알, 달걀 (egg)",
+   "note": "라틴어 ovum(알)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "'~와 같은'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ov</strong> (달걀) + <strong>-al</strong> (~의) = '달걀 같은 모양의'라는 뜻에서 <strong>'타원형의'</strong>가 되었어요.",
+ "historyTitle": "달걀에서 이름을 얻은 모양",
+ "historyBody": "라틴어 ovum은 '알'이라는 뜻이고, 중세 라틴어 ovalis(달걀 모양의)를 거쳐 16세기에 영어에 들어왔어요. 미국 대통령 집무실을 Oval Office라고 부르는 것도 방이 타원형이기 때문이에요. 생물 시간에 나오는 ovary(난소)도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ovum",
+   "pos": "명사",
+   "meaning": "난자, 알",
+   "en": "An ovum is much larger than most other cells.",
+   "ko": "난자는 대부분의 다른 세포보다 훨씬 커요."
+  },
+  {
+   "word": "ovary",
+   "pos": "명사",
+   "meaning": "난소, (식물의) 씨방",
+   "en": "In flowers, seeds develop inside the ovary.",
+   "ko": "꽃에서 씨앗은 씨방 안에서 자라요."
+  },
+  {
+   "word": "ovulation",
+   "pos": "명사",
+   "meaning": "배란",
+   "en": "The biology teacher explained ovulation using a simple diagram.",
+   "ko": "생물 선생님은 간단한 그림으로 배란을 설명하셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 식탁 위 달걀과 그 모양을 닮은 타원형 거울",
+ "imageCaption": "달걀을 옆에서 본 길쭉하고 둥근 모양을 떠올려 보세요. 그 모양이 바로 oval이에요.",
+ "movieLineEn": "Meet me in the oval room. Come alone.",
+ "movieLineKo": "타원형 방에서 만나. 혼자 와.",
+ "storyTitle": "달걀 모양 운동장",
+ "story": "우리 학교 운동장은 oval(타원형의) 모양이에요. 생물 시간에 ovum(알)과 ovary(씨방)를 배우던 날, 누군가 '운동장이 달걀이면 우린 노른자냐'고 물었어요. 모두 웃었는데, 그날 체육 시간 메뉴가 진짜로 '달걀 들고 달리기'였답니다."
+}

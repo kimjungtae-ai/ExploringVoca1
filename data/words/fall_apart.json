@@ -1,0 +1,68 @@
+{
+ "word": "fall apart",
+ "pos": "구동사",
+ "phonetic": "[fɔːl əˈpɑːrt]",
+ "meaning": "산산조각 나다, 무너지다, 엉망이 되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fall",
+   "meaning": "떨어지다, 무너지다 (fall)",
+   "note": "아래로 툭 떨어지는 움직임이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "apart",
+   "meaning": "따로따로, 조각조각 (apart)",
+   "note": "a-(~으로) + part(부분)로 '부분 부분으로 갈라져'라는 이미지예요."
+  }
+ ],
+ "summary": "<strong>fall</strong> (떨어지다) + <strong>apart</strong> (조각조각) = '떨어져서 조각조각 나다'라서 <strong>'산산조각 나다, 무너지다'</strong>예요.",
+ "historyTitle": "부분으로 흩어지는 apart",
+ "historyBody": "fall은 고대 영어 feallan에서 온 게르만어예요. apart는 고대 프랑스어 a part(한쪽으로)에서 왔어요. 물건이 부서지는 것뿐 아니라 계획, 관계, 사람의 마음이 무너질 때도 fall apart를 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "break down",
+   "pos": "구동사",
+   "meaning": "고장 나다, 무너지다",
+   "en": "Our car broke down on the highway.",
+   "ko": "우리 차가 고속도로에서 고장 났어요."
+  },
+  {
+   "word": "tear apart",
+   "pos": "구동사",
+   "meaning": "갈기갈기 찢다",
+   "en": "The dog tore apart my homework.",
+   "ko": "강아지가 내 숙제를 갈기갈기 찢었어요."
+  },
+  {
+   "word": "fall down",
+   "pos": "구동사",
+   "meaning": "넘어지다, 쓰러지다",
+   "en": "The little boy fell down but got up quickly.",
+   "ko": "꼬마는 넘어졌지만 금세 일어났어요."
+  },
+  {
+   "word": "fall behind",
+   "pos": "구동사",
+   "meaning": "뒤처지다",
+   "en": "I fell behind in math after being sick.",
+   "ko": "아픈 뒤로 나는 수학에서 뒤처졌어요."
+  },
+  {
+   "word": "tell apart",
+   "pos": "구동사",
+   "meaning": "구별하다",
+   "en": "I can't tell the twins apart.",
+   "ko": "나는 그 쌍둥이를 구별할 수가 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 오래된 의자가 앉자마자 와르르 부서지는 장면",
+ "imageCaption": "낡은 의자에 앉는 순간 다리가 하나씩 떨어져 나가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Everything is falling apart, but we're still standing.",
+ "movieLineKo": "모든 게 무너지고 있지만, 우린 아직 버티고 있어.",
+ "storyTitle": "할아버지의 의자",
+ "story": "할아버지의 오래된 의자는 앉기만 하면 fall apart(산산조각 나다)했어요. 아빠가 고치려다 손가락이 break down(고장 나다)한 것처럼 아팠죠. 강아지는 남은 방석을 tear apart(갈기갈기 찢다)했어요. 그런데 부서진 의자 다리 속에서 할아버지의 비상금이 나왔어요! 이제 아무도 의자 조각을 tell apart(구별하다)할 수 없을 만큼 열심히 뒤져요."
+}

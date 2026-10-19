@@ -1,0 +1,48 @@
+{
+ "word": "rope",
+ "pos": "명사 / 동사",
+ "phonetic": "[roʊp]",
+ "meaning": "밧줄, 로프 / 밧줄로 묶다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rope (rap)",
+   "meaning": "밧줄 (rope)",
+   "note": "고대 영어 rap에서 온 게르만계 토박이 단어예요."
+  }
+ ],
+ "summary": "<strong>rope</strong>는 고대 영어 rap에서 온 말로 <strong>'밧줄'</strong>을 뜻해요.",
+ "historyTitle": "뱃사람의 필수품",
+ "historyBody": "rope는 고대 영어 rap(밧줄)에서 왔고, 독일어 Reif(고리, 테)와 같은 게르만어 뿌리를 가졌어요. 배를 묶고 돛을 올리는 데 꼭 필요했기 때문에 뱃사람들에게 아주 중요한 단어였죠. 'learn the ropes(요령을 익히다)'라는 표현도 선원들이 밧줄 다루는 법을 배우던 데서 나왔다고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "jump rope",
+   "pos": "명사",
+   "meaning": "줄넘기",
+   "en": "Jump rope is a simple but great exercise.",
+   "ko": "줄넘기는 간단하지만 훌륭한 운동이에요."
+  },
+  {
+   "word": "tightrope",
+   "pos": "명사",
+   "meaning": "(곡예용) 줄",
+   "en": "The acrobat walked across the tightrope with no fear.",
+   "ko": "곡예사는 두려움 없이 줄 위를 건너갔어요."
+  },
+  {
+   "word": "ropeway",
+   "pos": "명사",
+   "meaning": "케이블카, 삭도",
+   "en": "We took the ropeway to the top of the mountain.",
+   "ko": "우리는 케이블카를 타고 산꼭대기까지 갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 굵은 밧줄로 배를 부두에 묶는 선원",
+ "imageCaption": "출렁이는 배를 굵은 밧줄로 기둥에 단단히 묶는 선원의 손을 떠올려 보세요.",
+ "movieLineEn": "Grab the rope and don't let go!",
+ "movieLineKo": "밧줄 잡고 절대 놓지 마!",
+ "storyTitle": "줄다리기 대작전",
+ "story": "운동회 날, 우리 반은 줄다리기 rope(밧줄)를 힘껏 pull(당기다)했어요. 매일 jump rope(줄넘기)로 훈련한 덕분이었죠. 상대 팀은 tightrope(곡예용 줄) 타는 친구까지 데려왔지만, 우리가 이겼어요! 그런데 기뻐서 손을 놓는 바람에 모두 엉덩방아를 찧고 grass(잔디)에 뒹굴었답니다."
+}

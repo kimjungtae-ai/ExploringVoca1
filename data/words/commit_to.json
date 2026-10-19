@@ -1,0 +1,68 @@
+{
+ "word": "commit to",
+ "pos": "구동사",
+ "phonetic": "[kəˈmɪt tuː]",
+ "meaning": "~에 전념하다, ~을 약속하다, ~에 헌신하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "commit",
+   "meaning": "맡기다, 저지르다, 약속하다 (commit)",
+   "note": "com-(함께, 완전히)+mit(보내다)로 '완전히 내맡기다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에, ~쪽으로 (to)",
+   "note": "마음과 시간을 '어디에' 바치는지 방향을 알려 줘요."
+  }
+ ],
+ "summary": "<strong>commit</strong> (완전히 내맡기다) + <strong>to</strong> (~에) = '~에 자신을 완전히 맡기다'에서 <strong>'~에 전념하다, 약속하다'</strong>",
+ "historyTitle": "'함께 보내다' committere",
+ "historyBody": "commit은 라틴어 'com-(함께, 완전히)'와 'mittere(보내다)'가 합쳐진 committere(맡기다, 합치다)에서 왔어요. 자신을 어떤 일에 '보내 맡긴다'는 데서 '전념하다'가 되었죠. mission(임무), transmit(전송하다)도 같은 mittere 가족이에요. 'be committed to -ing'처럼 to 뒤에 동명사가 오는 점을 꼭 기억하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "commitment",
+   "pos": "명사",
+   "meaning": "약속, 헌신, 전념",
+   "en": "Learning a language takes time and commitment.",
+   "ko": "언어를 배우는 데는 시간과 헌신이 필요해요."
+  },
+  {
+   "word": "be committed to",
+   "pos": "숙어",
+   "meaning": "~에 전념하다",
+   "en": "She is committed to helping poor children.",
+   "ko": "그녀는 가난한 아이들을 돕는 데 전념하고 있어."
+  },
+  {
+   "word": "dedicate oneself to",
+   "pos": "숙어",
+   "meaning": "~에 헌신하다",
+   "en": "He dedicated himself to his research.",
+   "ko": "그는 자신의 연구에 헌신했어."
+  },
+  {
+   "word": "devote to",
+   "pos": "구동사",
+   "meaning": "~에 바치다",
+   "en": "I devote an hour a day to reading.",
+   "ko": "나는 하루 한 시간을 독서에 써."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다, 전염시키다",
+   "en": "Mosquitoes can transmit diseases.",
+   "ko": "모기는 질병을 옮길 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매일 새벽 운동장을 달리며 목표를 향해 꾸준히 노력하는 학생",
+ "imageCaption": "달력에 매일 동그라미를 치며 한 가지 목표에 마음을 다 바치는 모습을 떠올려 보세요.",
+ "movieLineEn": "If you commit to this team, we'll never give up on you.",
+ "movieLineKo": "네가 이 팀에 전념한다면, 우린 절대 널 포기하지 않을 거야.",
+ "storyTitle": "새해 다짐의 진실",
+ "story": "현우는 새해에 운동에 commit to(전념하다)하겠다고 외쳤어요. 헬스장 회원권을 사며 commitment(헌신)를 보여 줬죠. 매일 한 시간을 devote to(바치다)하겠다고요! 일주일 후 엄마가 물었어요. \"be committed to(전념하다) 하는 거 맞지?\" 현우는 당당히 답했어요. \"네, 헬스장 앞 붕어빵집에 매일 가요!\""
+}

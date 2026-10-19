@@ -1,0 +1,68 @@
+{
+ "word": "expiration date",
+ "pos": "명사구",
+ "phonetic": "[ˌekspəˈreɪʃn deɪt]",
+ "meaning": "유통 기한, 만료일",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "expiration",
+   "meaning": "만료, 끝남 (expiration)",
+   "note": "ex-(밖으로) + spirare(숨 쉬다) + -ation으로 '숨을 내쉬고 끝나다'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "date",
+   "meaning": "날짜 (date)",
+   "note": "라틴어 data(주어진)에서 온 말로 '정해진 날'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>expiration</strong> (만료) + <strong>date</strong> (날짜) = '효력이 끝나는 날짜'라서 <strong>'유통 기한, 만료일'</strong>이에요.",
+ "historyTitle": "마지막 숨을 내쉬는 날",
+ "historyBody": "expire는 라틴어 exspirare(숨을 내쉬다: ex- 밖으로 + spirare 숨 쉬다)에서 왔어요. 원래 '마지막 숨을 내쉬다, 죽다'라는 뜻이었고, 여기서 '기한이 끝나다'라는 의미가 생겼어요. 영국에서는 expiry date라고도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expire",
+   "pos": "동사",
+   "meaning": "만료되다",
+   "en": "My passport expires next year.",
+   "ko": "내 여권은 내년에 만료돼요."
+  },
+  {
+   "word": "best before",
+   "pos": "숙어",
+   "meaning": "~까지 섭취 권장",
+   "en": "Check the 'best before' label on the milk.",
+   "ko": "우유에 붙은 '섭취 권장 기한' 표시를 확인해 보세요."
+  },
+  {
+   "word": "inspire",
+   "pos": "동사",
+   "meaning": "영감을 주다 (숨을 불어넣다)",
+   "en": "Her speech inspired many young people.",
+   "ko": "그녀의 연설은 많은 젊은이들에게 영감을 주었어요."
+  },
+  {
+   "word": "due date",
+   "pos": "명사구",
+   "meaning": "마감일, 출산 예정일",
+   "en": "The due date for the essay is Friday.",
+   "ko": "에세이 마감일은 금요일이에요."
+  },
+  {
+   "word": "out of date",
+   "pos": "형용사구",
+   "meaning": "유행이 지난, 낡은",
+   "en": "This map is out of date.",
+   "ko": "이 지도는 오래돼서 맞지 않아요."
+  }
+ ],
+ "imageSense": "대표 의미: 우유갑에 찍힌 날짜를 확인하는 장면",
+ "imageCaption": "냉장고 문을 열고 우유를 들어 날짜를 꼼꼼히 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Wait! Did you check the expiration date on that yogurt?",
+ "movieLineKo": "잠깐! 그 요거트 유통 기한 확인했어?",
+ "storyTitle": "냉장고 탐정",
+ "story": "아빠는 냉장고 탐정이에요. 모든 음식의 expiration date(유통 기한)를 확인하죠. \"이 우유는 내일 expire(만료되다)해!\" 아빠는 out of date(오래된) 소스도 버렸어요. 그런데 마지막으로 꺼낸 건 아빠의 비상 초콜릿. due date(마감일)가 3년 전이었어요! 엄마가 웃으며 말했죠. \"탐정님, 범인은 당신이네요.\""
+}

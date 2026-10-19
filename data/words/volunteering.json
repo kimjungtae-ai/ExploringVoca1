@@ -1,0 +1,61 @@
+{
+ "word": "volunteering",
+ "pos": "명사",
+ "phonetic": "[ˌvɑːlənˈtɪrɪŋ]",
+ "meaning": "자원봉사 (활동)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "volunteer",
+   "meaning": "자원하다, 자원봉사자 (volunteer)",
+   "note": "라틴어 voluntas(의지)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (동명사)",
+   "note": "동사를 '~하는 것'이라는 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>volunteer</strong> (자원하다) + <strong>-ing</strong> (~하는 것) = <strong>'자원봉사 활동'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "의지로 하는 일",
+ "historyBody": "volunteer는 라틴어 voluntas(의지)에서 프랑스어 volontaire를 거쳐 들어온 단어예요. 동명사 volunteering은 '자원봉사 활동'을 가리키며, 수능 지문에서 봉사의 장점이나 공동체를 다루는 글에 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "volunteer",
+   "pos": "명사 / 동사",
+   "meaning": "자원봉사자 / 자원하다",
+   "en": "She volunteers at the animal shelter every weekend.",
+   "ko": "그녀는 주말마다 동물 보호소에서 자원봉사를 해요."
+  },
+  {
+   "word": "voluntary",
+   "pos": "형용사",
+   "meaning": "자발적인",
+   "en": "The program is voluntary, so you don't have to join.",
+   "ko": "그 프로그램은 자발적이라 꼭 참여하지 않아도 돼요."
+  },
+  {
+   "word": "voluntarily",
+   "pos": "부사",
+   "meaning": "자발적으로",
+   "en": "Many citizens voluntarily helped clean the beach.",
+   "ko": "많은 시민들이 자발적으로 해변 청소를 도왔어요."
+  },
+  {
+   "word": "involuntary",
+   "pos": "형용사",
+   "meaning": "무의식적인",
+   "en": "Blinking is mostly involuntary.",
+   "ko": "눈 깜빡임은 대부분 무의식적이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 양로원에서 어르신께 책을 읽어 드리는 학생",
+ "imageCaption": "주말에 할머니, 할아버지께 책을 읽어 드리며 함께 웃는 학생의 모습을 떠올려 보세요.",
+ "movieLineEn": "Volunteering changed my life. I found my true family there.",
+ "movieLineKo": "자원봉사가 내 인생을 바꿨어. 거기서 진짜 가족을 찾았거든.",
+ "storyTitle": "봉사 시간의 함정",
+ "story": "서윤이는 봉사 시간을 채우려고 volunteering(자원봉사)을 시작했어요. 처음엔 voluntary(자발적인) 마음이 전혀 없었죠. 그런데 강아지 보호소에서 일하다 보니 매주 voluntarily(자발적으로) 가게 되었어요. 결국 서윤이는 volunteer(자원봉사자) 대표가 됐어요. 봉사 시간은 이미 300시간을 넘었답니다!"
+}

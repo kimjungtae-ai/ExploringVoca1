@@ -1,0 +1,54 @@
+{
+ "word": "sadden",
+ "pos": "동사",
+ "phonetic": "[ˈsædn]",
+ "meaning": "슬프게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sad",
+   "meaning": "슬픈 (sad)",
+   "note": "고대 영어 sæd(배부른, 지친)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 만들다 (동사를 만듦)",
+   "note": "형용사 뒤에 붙어 '~하게 하다'라는 동사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sad</strong> (슬픈) + <strong>-en</strong> (~하게 만들다) = <strong>'슬프게 하다'</strong>예요.",
+ "historyTitle": "원래 '배부른'이었던 sad",
+ "historyBody": "sad는 고대 영어 sæd(충분한, 배부른, 지친)에서 왔어요. 라틴어 satis(충분한)와 같은 인도유럽어 뿌리를 가진 말이죠. '너무 가득 차서 지친' 느낌이 점점 '무거운, 침울한'을 거쳐 14세기쯤 '슬픈'이 되었고, 여기에 -en이 붙어 sadden이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sad",
+   "pos": "형용사",
+   "meaning": "슬픈",
+   "en": "She felt sad when her best friend moved away.",
+   "ko": "단짝 친구가 이사 가자 그녀는 슬펐어요."
+  },
+  {
+   "word": "sadness",
+   "pos": "명사",
+   "meaning": "슬픔",
+   "en": "Music can help us deal with sadness.",
+   "ko": "음악은 우리가 슬픔을 견디는 데 도움을 줄 수 있어요."
+  },
+  {
+   "word": "sadly",
+   "pos": "부사",
+   "meaning": "슬프게, 안타깝게도",
+   "en": "Sadly, the concert was canceled because of rain.",
+   "ko": "안타깝게도 비 때문에 콘서트가 취소됐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 떠나는 친구를 배웅하며 고개를 떨군 아이",
+ "imageCaption": "기차가 멀어지는 플랫폼에서 손을 흔들다 고개를 숙이는 아이를 떠올려 보세요.",
+ "movieLineEn": "It saddens me to say goodbye, but I must go.",
+ "movieLineKo": "작별 인사를 하려니 슬프지만, 난 가야 해.",
+ "storyTitle": "슬픈 아이스크림",
+ "story": "더운 날, 아이스크림이 바닥에 떨어진 장면은 나를 sadden(슬프게 하다)했어요. 나는 sad(슬픈) 얼굴로 녹는 걸 바라봤죠. sadly(슬프게) 서 있는데, 개미들이 줄지어 와서 아이스크림을 들고 갔어요. 내 sadness(슬픔)는 개미들의 happiness(행복)가 되었답니다."
+}

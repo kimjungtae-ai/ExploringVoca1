@@ -1,0 +1,68 @@
+{
+ "word": "domesticate",
+ "pos": "동사",
+ "phonetic": "[dəˈmestɪkeɪt]",
+ "meaning": "길들이다, (동식물을) 가축화하다, 작물화하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "domest(ic)",
+   "meaning": "집의, 집안의 (of the house)",
+   "note": "라틴어 domus(집)에서 온 말로, '집 안에 속한'이라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 만들다 (make)",
+   "note": "동사를 만드는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>domestic</strong> (집의) + <strong>-ate</strong> (~하게 만들다) = '야생의 것을 집안 식구처럼 만들다'라는 뜻에서 <strong>'길들이다, 가축화하다'</strong>가 되었어요.",
+ "historyTitle": "집(domus)에서 시작된 인류 문명",
+ "historyBody": "라틴어 domus는 '집'이고, domesticus는 '집안에 속한'이라는 뜻이었어요. 중세 라틴어에서 domesticare(집에 익숙하게 하다)라는 동사가 생겼고, 17세기 무렵 영어에 들어왔어요. 사람들은 약 1만 년 전부터 밀과 양, 염소 등을 길들이며 농경 사회를 열었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "domestic",
+   "pos": "형용사",
+   "meaning": "가정의, 국내의",
+   "en": "The government wants to support domestic companies.",
+   "ko": "정부는 국내 기업들을 지원하고 싶어 해요."
+  },
+  {
+   "word": "domestication",
+   "pos": "명사",
+   "meaning": "길들이기, 가축화",
+   "en": "The domestication of dogs began thousands of years ago.",
+   "ko": "개의 가축화는 수천 년 전에 시작되었어요."
+  },
+  {
+   "word": "dominate",
+   "pos": "동사",
+   "meaning": "지배하다 (집주인처럼 다스리다)",
+   "en": "One team dominated the whole game.",
+   "ko": "한 팀이 경기 전체를 지배했어요."
+  },
+  {
+   "word": "domain",
+   "pos": "명사",
+   "meaning": "영역, 분야 (주인이 다스리는 땅)",
+   "en": "Music is not my domain, but I enjoy it.",
+   "ko": "음악은 제 분야는 아니지만 즐겨요."
+  },
+  {
+   "word": "dome",
+   "pos": "명사",
+   "meaning": "둥근 지붕 (원래 '집, 대성당')",
+   "en": "The old church has a beautiful golden dome.",
+   "ko": "그 오래된 교회에는 아름다운 금빛 돔이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 늑대 같은 야생 동물이 사람 곁에서 순한 반려견이 되는 장면",
+ "imageCaption": "들판의 늑대가 점점 사람의 집 안으로 들어와 꼬리를 흔드는 모습을 떠올려 보세요. '집 식구로 만든다'가 바로 domesticate예요.",
+ "movieLineEn": "You can't domesticate a dragon, but you can make it a friend.",
+ "movieLineKo": "드래곤을 길들일 순 없지만, 친구로 만들 순 있지.",
+ "storyTitle": "고양이를 길들이려던 집사의 최후",
+ "story": "민수는 길고양이를 domesticate(길들이다)하기로 결심했어요. 고양이에게 domestic(국내산) 고급 참치를 바치고, 거실을 고양이의 domain(영역)으로 내줬죠. 한 달 뒤, 고양이는 소파와 침대까지 완전히 dominate(지배하다)했어요. 결국 길들여진 건 고양이가 아니라 민수였답니다!"
+}

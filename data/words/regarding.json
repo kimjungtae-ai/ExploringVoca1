@@ -1,0 +1,81 @@
+{
+ "word": "regarding",
+ "pos": "전치사",
+ "phonetic": "[rɪˈɡɑːrdɪŋ]",
+ "meaning": "~에 관하여, ~에 대하여",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 뒤로 (back, again)",
+   "note": "다시 돌아본다는 느낌을 더해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gard",
+   "meaning": "지켜보다, 지키다 (watch, guard)",
+   "note": "프랑스어 garder(지켜보다)에서 왔고, guard와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하면서 (분사 → 전치사)",
+   "note": "분사 형태가 굳어서 전치사처럼 쓰여요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>gard</strong> (지켜보다) + <strong>-ing</strong> = 어떤 것을 다시 바라보면서 → <strong>'~에 관하여'</strong>예요.",
+ "historyTitle": "guard와 ward는 쌍둥이 형제",
+ "historyBody": "regard는 고대 프랑스어 regarder(바라보다, 주목하다)에서 왔어요. 그 속의 garder는 게르만어 계통으로, 영어에 프랑스식 발음으로 들어온 것이 guard, 고대 영어로 이어진 것이 ward예요. 그래서 '바라본다'는 뜻에서 '~에 관하여'라는 전치사가 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regard",
+   "pos": "동사 / 명사",
+   "meaning": "여기다, 간주하다 / 관심, 존경",
+   "en": "Many people regard him as a hero.",
+   "ko": "많은 사람들이 그를 영웅으로 여겨요."
+  },
+  {
+   "word": "regardless",
+   "pos": "부사",
+   "meaning": "~에 상관없이",
+   "en": "Anyone can join the club regardless of age.",
+   "ko": "나이에 상관없이 누구나 동아리에 가입할 수 있어요."
+  },
+  {
+   "word": "disregard",
+   "pos": "동사 / 명사",
+   "meaning": "무시하다 / 무시",
+   "en": "He disregarded the warning and swam in the river.",
+   "ko": "그는 경고를 무시하고 강에서 수영했어요."
+  },
+  {
+   "word": "guard",
+   "pos": "명사 / 동사",
+   "meaning": "경비원 / 지키다",
+   "en": "A guard stood at the gate all night.",
+   "ko": "경비원이 밤새 문 앞에 서 있었어요."
+  },
+  {
+   "word": "reward",
+   "pos": "명사 / 동사",
+   "meaning": "보상 / 보상하다",
+   "en": "Hard work usually brings its own reward.",
+   "ko": "열심히 일하면 대개 그에 맞는 보상이 따라와요."
+  },
+  {
+   "word": "guardian",
+   "pos": "명사",
+   "meaning": "보호자, 수호자",
+   "en": "Please ask your guardian to sign this form.",
+   "ko": "보호자에게 이 서류에 서명해 달라고 부탁하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의 안건 서류에 '~에 관하여'라고 적힌 제목",
+ "imageCaption": "'시험 일정에 관하여'라는 제목의 가정통신문을 받아 든 장면을 떠올려 보세요. 어떤 주제를 지켜보며 이야기하는 말이 regarding이에요.",
+ "movieLineEn": "I have a question regarding the treasure map.",
+ "movieLineKo": "보물 지도에 관해 질문이 하나 있어요.",
+ "storyTitle": "수상한 가정통신문",
+ "story": "'방학 숙제 regarding(~에 관하여)'이라는 가정통신문이 왔어요. 우리는 숙제를 disregard(무시하다)하고 싶었지만, 나이 regardless(~에 상관없이) 모두 제출해야 했죠. 끝까지 해낸 학생에겐 reward(보상)가 있다고 했어요. 다 끝내고 받은 보상은... 방학 숙제 2탄이었답니다."
+}

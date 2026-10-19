@@ -1,0 +1,54 @@
+{
+ "word": "crowded",
+ "pos": "형용사",
+ "phonetic": "[ˈkraʊdɪd]",
+ "meaning": "붐비는, 혼잡한, 가득 찬",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "crowd",
+   "meaning": "군중, 붐비다 (crowd)",
+   "note": "고대 영어 crūdan(밀다, 밀치다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "'사람들로 꽉 채워진' 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>crowd</strong> (밀치다, 군중) + <strong>-ed</strong> (~된) = '사람들이 서로 밀칠 만큼 꽉 찬'에서 <strong>'붐비는'</strong>이 되었어요.",
+ "historyTitle": "고대 영어 crūdan, '밀치다'",
+ "historyBody": "crowd는 고대 영어 동사 crūdan(밀다, 밀치다)에서 왔어요. 처음에는 '밀다'라는 동사였는데, 16세기쯤부터 '서로 밀치며 모인 사람들', 즉 '군중'이라는 명사로도 쓰였어요. 여기에 -ed가 붙어 '붐비는'이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "crowd",
+   "pos": "명사/동사",
+   "meaning": "군중, 무리 / 모여들다",
+   "en": "A huge crowd gathered to watch the fireworks.",
+   "ko": "불꽃놀이를 보려고 엄청난 군중이 모였어요."
+  },
+  {
+   "word": "overcrowded",
+   "pos": "형용사",
+   "meaning": "너무 붐비는, 과밀한",
+   "en": "The subway is overcrowded during rush hour.",
+   "ko": "출퇴근 시간에 지하철은 너무 붐벼요."
+  },
+  {
+   "word": "crowdfunding",
+   "pos": "명사",
+   "meaning": "크라우드 펀딩",
+   "en": "They raised money for the film through crowdfunding.",
+   "ko": "그들은 크라우드 펀딩으로 영화 제작비를 모았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 출근길 지하철에 사람이 꽉 찬 장면",
+ "imageCaption": "발 디딜 틈 없이 사람들이 꽉 들어찬 지하철을 떠올려 보세요. 서로 밀칠 만큼 가득 찬 모습이 crowded예요.",
+ "movieLineEn": "It's too crowded here. Let's find another way out.",
+ "movieLineKo": "여기 너무 붐벼. 다른 출구를 찾자.",
+ "storyTitle": "꽉 찬 엘리베이터",
+ "story": "월요일 아침, 엘리베이터는 아주 crowded(붐비는) 상태였어요. 사람들이 crowd(모여들다)해서 overcrowded(너무 붐비는) 경고음이 울렸죠. 모두 서로 눈치만 봤어요. 결국 한 명이 내렸는데, 그 사람이 바로 엘리베이터 버튼을 누를 유일한 사람이었대요. 아무도 층을 못 눌렀답니다! crowd(군중)의 비극이죠."
+}

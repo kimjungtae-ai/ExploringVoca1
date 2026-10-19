@@ -1,0 +1,55 @@
+{
+ "word": "draft",
+ "pos": "명사 / 동사",
+ "phonetic": "[dræft]",
+ "meaning": "초안, 원고, 징병, 외풍 / 초안을 작성하다, 선발하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "draft (draht)",
+   "meaning": "끌기, 당기기 (pulling)",
+   "note": "중세 영어 draht에서 왔고, draw(끌다)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>draft</strong>는 '끌다(draw)'에서 온 말로, '선을 끌어 그린 밑그림'이라는 뜻에서 <strong>'초안'</strong>이 되었어요.",
+ "historyTitle": "draw와 쌍둥이인 말",
+ "historyBody": "draft는 중세 영어 draht(끌기)에서 왔고, 고대 영어 dragan(끌다), 즉 draw와 같은 뿌리를 가진 게르만어예요. 영국에서는 지금도 draught라고 쓰기도 해요. '끌어당긴다'는 뜻에서 선을 끌어 그린 밑그림(초안), 틈으로 끌려 들어오는 바람(외풍), 사람을 뽑아 데려가는 일(징병) 등의 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "draw",
+   "pos": "동사",
+   "meaning": "그리다, 끌다, 당기다",
+   "en": "She likes to draw pictures of her cat.",
+   "ko": "그녀는 고양이 그림 그리는 것을 좋아해요."
+  },
+  {
+   "word": "drawing",
+   "pos": "명사",
+   "meaning": "그림, 데생",
+   "en": "His drawing won first prize in the contest.",
+   "ko": "그의 그림이 대회에서 1등을 했어요."
+  },
+  {
+   "word": "drawer",
+   "pos": "명사",
+   "meaning": "서랍 (끌어당기는 것)",
+   "en": "I keep my socks in the top drawer.",
+   "ko": "나는 양말을 맨 위 서랍에 보관해요."
+  },
+  {
+   "word": "drag",
+   "pos": "동사",
+   "meaning": "끌다, 질질 끌다",
+   "en": "He dragged his heavy suitcase up the stairs.",
+   "ko": "그는 무거운 여행 가방을 계단 위로 끌고 올라갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 연필로 여러 번 고쳐 쓴 글의 초안 종이",
+ "imageCaption": "줄이 그어지고 화살표가 가득한 첫 번째 원고를 떠올려 보세요. 완성 전의 '밑그림'이 바로 draft예요.",
+ "movieLineEn": "This is just the first draft. The real plan comes later.",
+ "movieLineKo": "이건 첫 번째 초안일 뿐이야. 진짜 계획은 나중에 나오지.",
+ "storyTitle": "작가 지망생의 초안 소동",
+ "story": "하린이는 소설 draft(초안)를 열 번이나 고쳐 썼어요. 표지 drawing(그림)도 직접 draw(그리다)했죠. 완성 원고를 drawer(서랍)에 넣고 잠들었는데, 아침에 보니 엄마가 장 보기 메모지로 쓰고 계셨어요! 소설 뒷면에 적힌 '두부, 대파, 계란'이 하린이의 첫 독자 후기였답니다."
+}

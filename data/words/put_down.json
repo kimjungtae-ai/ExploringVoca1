@@ -1,0 +1,68 @@
+{
+ "word": "put down",
+ "pos": "구동사",
+ "phonetic": "[pʊt daʊn]",
+ "meaning": "내려놓다, 적어 두다, 진압하다, 깎아내리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "put",
+   "meaning": "놓다, 두다 (place)",
+   "note": "물건을 어떤 자리에 '두는' 기본 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로 (down)",
+   "note": "아래로 내려놓는 이미지예요. 종이 위에 '내려' 적는 것, 반란을 '눌러' 진압하는 것도 같은 그림이에요."
+  }
+ ],
+ "summary": "<strong>put</strong> (놓다) + <strong>down</strong> (아래로) = '아래로 내려놓다'에서 <strong>'내려놓다, 적어 두다, 진압하다'</strong>가 되었어요.",
+ "historyTitle": "아래로 눌러 놓는 그림",
+ "historyBody": "put은 고대 영어 시기의 'putian(밀다, 찌르다)'과 관련된 것으로 보는 말이에요. down은 고대 영어 'of dūne(언덕에서 아래로)'가 줄어든 말이에요. 그래서 put down은 '아래로 두다'라는 그림에서 '종이에 적다', '눌러서 진압하다', '사람을 깎아내리다'까지 뜻이 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "put up",
+   "pos": "구동사",
+   "meaning": "올리다, 세우다, 참다(with)",
+   "en": "They put up a tent near the lake.",
+   "ko": "그들은 호숫가 근처에 텐트를 쳤어요."
+  },
+  {
+   "word": "put off",
+   "pos": "구동사",
+   "meaning": "미루다, 연기하다",
+   "en": "Don't put off your homework until tomorrow.",
+   "ko": "숙제를 내일로 미루지 마세요."
+  },
+  {
+   "word": "put on",
+   "pos": "구동사",
+   "meaning": "입다, 착용하다",
+   "en": "Put on your coat before you go out.",
+   "ko": "나가기 전에 코트를 입으세요."
+  },
+  {
+   "word": "write down",
+   "pos": "구동사",
+   "meaning": "적어 두다",
+   "en": "Please write down your name and phone number.",
+   "ko": "이름과 전화번호를 적어 주세요."
+  },
+  {
+   "word": "calm down",
+   "pos": "구동사",
+   "meaning": "진정하다",
+   "en": "Take a deep breath and calm down.",
+   "ko": "숨을 깊게 쉬고 진정하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 무거운 가방을 바닥에 내려놓는 장면",
+ "imageCaption": "어깨에 멘 무거운 가방을 바닥에 '툭' 내려놓는 순간을 떠올려 보세요. 손에서 아래로 내려가는 그 동작이 바로 put down이에요.",
+ "movieLineEn": "Put down the phone and listen to me!",
+ "movieLineKo": "전화기 내려놓고 내 말 좀 들어!",
+ "storyTitle": "내려놓을 줄 모르는 민수",
+ "story": "민수는 시험 전날 put down(내려놓다)하라는 엄마 말에도 휴대폰을 꼭 쥐었어요. 결국 공부를 put off(미루다)하고 게임만 했죠. 겨우 calm down(진정하다)한 뒤 중요한 내용을 write down(적어 두다)하려고 펜을 들었는데, 알고 보니 펜이 아니라 리모컨이었어요!"
+}

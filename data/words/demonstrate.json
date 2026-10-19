@@ -1,0 +1,60 @@
+{
+ "word": "demonstrate",
+ "pos": "동사",
+ "phonetic": "[ˈdemənstreɪt]",
+ "meaning": "보여 주다, 증명하다, 시연하다, 시위하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "완전히 (completely)",
+   "note": "의미를 강조해 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "monstr",
+   "meaning": "보여 주다 (show)",
+   "note": "라틴어 monstrare(보여 주다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>monstr</strong> (보여 주다) + <strong>-ate</strong> = '완전히 다 보여 주다'에서 <strong>'증명하다, 시연하다'</strong>가 되었어요.",
+ "historyTitle": "괴물(monster)과 같은 뿌리",
+ "historyBody": "demonstrate는 라틴어 demonstrare(가리키다, 증명하다)에서 왔어요. monstrare(보여 주다)는 monstrum(신의 경고, 징조)과 같은 뿌리인데, 이 monstrum에서 monster(괴물)가 나왔죠. 옛사람들은 괴물을 신이 '보여 주는' 경고라고 생각했거든요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "demonstration",
+   "pos": "명사",
+   "meaning": "시연, 증명, 시위",
+   "en": "The teacher gave a demonstration of the experiment.",
+   "ko": "선생님이 그 실험을 시연해 주셨어요."
+  },
+  {
+   "word": "monster",
+   "pos": "명사",
+   "meaning": "괴물",
+   "en": "The little boy was afraid of the monster under his bed.",
+   "ko": "그 꼬마는 침대 밑 괴물을 무서워했어요."
+  },
+  {
+   "word": "monitor",
+   "pos": "명사 / 동사",
+   "meaning": "화면, 감시 장치 / 감시하다",
+   "en": "Doctors monitor the patient's heart rate all night.",
+   "ko": "의사들이 밤새 환자의 심박수를 관찰해요."
+  }
+ ],
+ "imageSense": "대표 의미: 과학 선생님이 학생들 앞에서 실험을 직접 보여 주는 장면",
+ "imageCaption": "'자, 잘 봐!' 하며 직접 해 보이는 선생님을 떠올려 보세요.",
+ "movieLineEn": "Let me demonstrate how this works.",
+ "movieLineKo": "이게 어떻게 작동하는지 직접 보여 줄게.",
+ "storyTitle": "괴물 퇴치 시연회",
+ "story": "발명가 소녀가 괴물 퇴치기를 demonstrate(시연하다)했어요. monitor(화면)에 가짜 monster(괴물)가 뜨자 기계가 '삐!' 소리를 냈죠. 그런데 demonstration(시연)이 끝나자 기계가 소녀의 남동생을 향해 계속 삐삐거렸대요. \"정확하네!\""
+}

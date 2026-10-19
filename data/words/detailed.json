@@ -1,0 +1,54 @@
+{
+ "word": "detailed",
+ "pos": "형용사",
+ "phonetic": "[ˈdiːteɪld]",
+ "meaning": "상세한, 자세한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "detail",
+   "meaning": "세부 사항 (detail)",
+   "note": "프랑스어 détail(잘게 자른 것)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~한 (형용사)",
+   "note": "'세부까지 다룬' 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>detail</strong> (세부 사항) + <strong>-ed</strong> (~한) = '세부까지 다 담은'에서 <strong>'상세한'</strong>이 되었어요.",
+ "historyTitle": "잘게 자를수록 자세해진다",
+ "historyBody": "detail은 고대 프랑스어 détailler(잘게 자르다)에서 왔어요. tailler(자르다)는 '재단사'를 뜻하는 tailor와 같은 뿌리죠. 잘게 자를수록 더 작은 부분까지 보이니, detailed는 '자세한'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "detail",
+   "pos": "명사",
+   "meaning": "세부 사항",
+   "en": "I can't remember every detail of the story.",
+   "ko": "그 이야기의 세부 내용을 다 기억하진 못해요."
+  },
+  {
+   "word": "tailor",
+   "pos": "명사 / 동사",
+   "meaning": "재단사 / 맞추다",
+   "en": "The program is tailored to each student's needs.",
+   "ko": "그 프로그램은 각 학생의 필요에 맞춰져 있어요."
+  },
+  {
+   "word": "retail",
+   "pos": "명사",
+   "meaning": "소매",
+   "en": "Retail prices are higher than wholesale prices.",
+   "ko": "소매가는 도매가보다 높아요."
+  }
+ ],
+ "imageSense": "대표 의미: 빽빽하게 적힌 설명서와 정밀한 설계도",
+ "imageCaption": "선 하나, 숫자 하나까지 빠짐없이 그려진 지도를 떠올려 보세요.",
+ "movieLineEn": "I want a detailed report on my desk by tomorrow.",
+ "movieLineKo": "내일까지 상세한 보고서를 내 책상에 올려 둬.",
+ "storyTitle": "너무 자세한 지도",
+ "story": "할머니가 보물 위치를 detailed(상세한) 지도로 그려 주셨어요. 모든 detail(세부 사항)이 담겨 있었죠. 동네 tailor(재단사)집, retail(소매) 가게까지! 열심히 찾아간 끝에 도착한 곳은 할머니 부엌. 보물은 갓 구운 고구마였어요."
+}

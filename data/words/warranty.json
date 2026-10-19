@@ -1,0 +1,54 @@
+{
+ "word": "warranty",
+ "pos": "명사",
+ "phonetic": "[ˈwɔːrənti]",
+ "meaning": "품질 보증(서), 보증 기간",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "warrant",
+   "meaning": "보증, 보증하다 (warrant)",
+   "note": "고대 북부 프랑스어 warant(보호자, 보증)에서 왔고, 게르만어에 뿌리를 둬요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~하는 것, 상태 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>warrant</strong> (보증하다) + <strong>-y</strong> (~하는 것) = <strong>'품질 보증, 보증서'</strong>가 되었어요.",
+ "historyTitle": "warranty와 guarantee는 쌍둥이",
+ "historyBody": "warranty는 고대 북부 프랑스어 warantie에서 왔어요. 프랑크족의 게르만어가 프랑스어에 들어갈 때, 북부에서는 w-로, 중부에서는 g-로 발음되었대요. 그래서 warranty와 guarantee는 뿌리가 같은 '쌍둥이 단어'랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "warrant",
+   "pos": "명사 / 동사",
+   "meaning": "영장, 보증 / 정당화하다",
+   "en": "The police had a warrant to search the house.",
+   "ko": "경찰은 그 집을 수색할 영장을 갖고 있었어요."
+  },
+  {
+   "word": "guarantee",
+   "pos": "동사 / 명사",
+   "meaning": "보장하다 / 보증",
+   "en": "Hard work does not always guarantee success.",
+   "ko": "노력이 항상 성공을 보장하지는 않아요."
+  },
+  {
+   "word": "unwarranted",
+   "pos": "형용사",
+   "meaning": "부당한, 근거 없는",
+   "en": "His anger at the waiter was unwarranted.",
+   "ko": "웨이터에게 화를 낸 건 부당했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 새 노트북 상자 속 '보증서' 카드",
+ "imageCaption": "새 전자 제품을 사면 상자 안에 들어 있는 품질 보증서를 떠올려 보세요. 고장 나면 무료로 고쳐 준다는 약속이에요.",
+ "movieLineEn": "Don't worry, it's still under warranty.",
+ "movieLineKo": "걱정 마, 아직 보증 기간이야.",
+ "storyTitle": "보증 기간의 저주",
+ "story": "새로 산 로봇 청소기는 1년 warranty(품질 보증)가 있었어요. 회사는 고장 없음을 guarantee(보장하다)했고, 판매원은 자기 말을 warrant(보증하다)했죠. 그런데 1년 하고 딱 하루 지나자 로봇이 멈췄어요. 내 의심은 unwarranted(근거 없는)가 아니었어요. 로봇 안에 달력이 들어 있었거든요!"
+}

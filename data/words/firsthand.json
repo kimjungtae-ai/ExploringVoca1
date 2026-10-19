@@ -1,0 +1,61 @@
+{
+ "word": "firsthand",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ˌfɜːrstˈhænd]",
+ "meaning": "직접 얻은, 직접적인 / 직접",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "first",
+   "meaning": "첫 번째의 (first)",
+   "note": "고대 영어 fyrst(가장 앞의)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hand",
+   "meaning": "손 (hand)",
+   "note": "고대 영어 hand에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>first</strong> (첫 번째) + <strong>hand</strong> (손) = '첫 번째 손에서 바로 얻은'이라는 뜻에서 <strong>'직접 얻은, 직접'</strong>이 되었습니다.",
+ "historyTitle": "몇 번째 손을 거쳤나요?",
+ "historyBody": "firsthand는 15세기쯤부터 쓰인 말로, 물건이나 정보가 '첫 번째 손'에서 곧장 온다는 뜻이에요. 남의 손을 한 번 거치면 secondhand(중고의, 전해 들은)가 되죠. 수능 지문에서는 'firsthand experience(직접 경험)'로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "secondhand",
+   "pos": "형용사",
+   "meaning": "중고의, 간접적인",
+   "en": "I bought a secondhand bike for half the price.",
+   "ko": "나는 중고 자전거를 반값에 샀어요."
+  },
+  {
+   "word": "handmade",
+   "pos": "형용사",
+   "meaning": "수제의, 손으로 만든",
+   "en": "My grandmother gave me a handmade scarf.",
+   "ko": "할머니가 손으로 뜬 목도리를 주셨어요."
+  },
+  {
+   "word": "handful",
+   "pos": "명사",
+   "meaning": "한 줌, 소수",
+   "en": "Only a handful of students came to the meeting.",
+   "ko": "소수의 학생만 회의에 왔어요."
+  },
+  {
+   "word": "handy",
+   "pos": "형용사",
+   "meaning": "편리한, 손재주 있는",
+   "en": "A small flashlight is handy when camping.",
+   "ko": "캠핑할 때는 작은 손전등이 편리해요."
+  }
+ ],
+ "imageSense": "대표 의미: 현장에 직접 가서 눈으로 확인하는 장면",
+ "imageCaption": "책으로 읽기만 하는 대신 직접 갯벌에 들어가 게를 손으로 만져 보는 모습이 firsthand예요.",
+ "movieLineEn": "I saw it firsthand. The ghost is real!",
+ "movieLineKo": "내가 직접 봤어. 그 유령은 진짜야!",
+ "storyTitle": "직접 체험한 할머니표 김치",
+ "story": "준호는 김치 담그는 법을 책 대신 firsthand(직접)로 배우고 싶었어요. 할머니가 handful(한 줌)의 소금을 뿌리라고 하셨죠. 준호의 handmade(손으로 만든) 김치는 너무 짰어요. secondhand(전해 들은) 조언만 듣던 친구들은 웃었지만, 할머니는 말씀하셨어요. \"괜찮아, 라면이랑 먹으면 딱이야!\""
+}

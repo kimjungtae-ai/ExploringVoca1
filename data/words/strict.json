@@ -1,0 +1,69 @@
+{
+ "word": "strict",
+ "pos": "형용사",
+ "phonetic": "[strɪkt]",
+ "meaning": "엄격한, 엄밀한, 철저한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "strict",
+   "meaning": "팽팽하게 당긴 (drawn tight)",
+   "note": "라틴어 stringere(꽉 당기다, 조이다)의 과거분사 strictus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>strict</strong>는 라틴어 strictus(꽉 조인)에서 와서 규칙을 팽팽하게 지키는 <strong>'엄격한'</strong>이 되었어요.",
+ "historyTitle": "꽉 조여진 줄처럼",
+ "historyBody": "strict는 라틴어 stringere(꽉 당기다, 조이다)의 과거분사 strictus(팽팽한)에서 15세기에 영어로 들어왔어요. 처음엔 '좁은, 꽉 끼는'이라는 뜻이었다가 '규칙을 느슨하게 하지 않는 엄격한'이라는 뜻이 생겼죠. 같은 뿌리의 restrict(제한하다), district(지역)도 함께 알아 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "restrict",
+   "pos": "동사",
+   "meaning": "제한하다",
+   "en": "The school restricts phone use during class.",
+   "ko": "학교는 수업 중 휴대폰 사용을 제한해요."
+  },
+  {
+   "word": "restriction",
+   "pos": "명사",
+   "meaning": "제한, 규제",
+   "en": "There are restrictions on how much water we can use.",
+   "ko": "우리가 쓸 수 있는 물의 양에는 제한이 있어요."
+  },
+  {
+   "word": "district",
+   "pos": "명사",
+   "meaning": "지역, 구역",
+   "en": "We live in a quiet district near the river.",
+   "ko": "우리는 강 근처의 조용한 지역에 살아요."
+  },
+  {
+   "word": "strain",
+   "pos": "명사 / 동사",
+   "meaning": "부담, 긴장 / 무리하게 쓰다",
+   "en": "Reading in dim light can strain your eyes.",
+   "ko": "어두운 곳에서 책을 읽으면 눈에 무리가 갈 수 있어요."
+  },
+  {
+   "word": "constrict",
+   "pos": "동사",
+   "meaning": "수축시키다, 조이다",
+   "en": "The snake constricted its prey.",
+   "ko": "뱀이 먹잇감을 조였어요."
+  },
+  {
+   "word": "strictly",
+   "pos": "부사",
+   "meaning": "엄격히, 엄밀히",
+   "en": "Smoking is strictly prohibited in this building.",
+   "ko": "이 건물에서 흡연은 엄격히 금지되어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 팔짱을 끼고 규칙을 지키는지 지켜보는 선생님",
+ "imageCaption": "교문 앞에서 교복 차림을 꼼꼼히 확인하는 학생 주임 선생님을 떠올려 보세요.",
+ "movieLineEn": "My father was strict, but he was always fair.",
+ "movieLineKo": "우리 아버지는 엄격하셨지만, 항상 공정하셨어.",
+ "storyTitle": "엄격한 다이어트",
+ "story": "엄마는 strict(엄격한) 다이어트를 선언하셨어요. 간식에 restriction(제한)을 두고 야식을 strictly(엄격히) 금지했죠. 우리 district(지역)의 치킨집 전화번호도 다 지웠어요. 그런데 그날 밤, 냉장고 앞에서 몰래 떡을 드시던 엄마와 눈이 마주쳤어요. 규칙은 restrict(제한하다)하는 사람에게만 예외였나 봐요."
+}

@@ -1,0 +1,54 @@
+{
+ "word": "length",
+ "pos": "명사",
+ "phonetic": "[leŋθ]",
+ "meaning": "길이, 기간",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "leng (long)",
+   "meaning": "긴 (long)",
+   "note": "고대 영어 lang(긴)이 -th 앞에서 모음이 바뀐 형태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-th",
+   "meaning": "~함, ~의 정도 (명사형)",
+   "note": "형용사를 명사로 바꾸는 고대 영어 꼬리예요. (예: warm → warmth)"
+  }
+ ],
+ "summary": "<strong>long</strong> (긴) + <strong>-th</strong> (정도) = '긴 정도'라는 뜻에서 <strong>'길이'</strong>가 되었어요.",
+ "historyTitle": "long이 length가 된 모음 변화",
+ "historyBody": "고대 영어 lengðu는 lang(긴) + -ðu(명사 꼬리)가 합쳐진 말이에요. 뒤에 붙은 꼬리 때문에 모음 a가 e로 바뀌었는데, 이걸 '모음 변이'라고 해요. strong → strength, wide → width도 똑같은 원리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "long",
+   "pos": "형용사",
+   "meaning": "긴, 오랜",
+   "en": "We waited in a long line for the concert.",
+   "ko": "우리는 콘서트를 보려고 긴 줄을 섰어요."
+  },
+  {
+   "word": "lengthen",
+   "pos": "동사",
+   "meaning": "길게 하다, 늘이다",
+   "en": "The days lengthen as summer approaches.",
+   "ko": "여름이 다가오면서 낮이 길어져요."
+  },
+  {
+   "word": "lengthy",
+   "pos": "형용사",
+   "meaning": "너무 긴, 장황한",
+   "en": "The lengthy meeting made everyone tired.",
+   "ko": "너무 긴 회의 때문에 모두가 지쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄자를 쭉 당겨 책상의 길이를 재는 장면",
+ "imageCaption": "줄자가 '얼마나 긴지' 보여 주는 순간, 그게 length예요.",
+ "movieLineEn": "The length of this tunnel... it goes on forever!",
+ "movieLineKo": "이 터널 길이 좀 봐... 끝이 없어!",
+ "storyTitle": "늘어나는 교복 치마",
+ "story": "동생은 교복 바지의 length(길이)가 너무 짧다고 불평했어요. 엄마는 바지를 lengthen(늘이다)해 주셨죠. 그런데 너무 long(긴) 나머지 바지가 바닥에 끌렸어요. 동생은 엄마에게 lengthy(장황한) 불평을 늘어놓았어요. 엄마는 웃으며 말했어요. \"괜찮아, 너 내년에 키 클 거잖아.\""
+}

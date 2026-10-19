@@ -1,0 +1,62 @@
+{
+ "word": "sort",
+ "pos": "명사 / 동사",
+ "phonetic": "[sɔːrt]",
+ "meaning": "종류, 유형 / 분류하다, 정리하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sort",
+   "meaning": "운, 몫, 제비 (lot, fate)",
+   "note": "라틴어 sors(제비뽑기, 몫)에서 고대 프랑스어 sorte(종류)를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>sort</strong> (라틴어 sors: 제비, 몫) = '제비뽑기로 나눠 받은 몫' → '같은 몫끼리 묶은 무리'에서 <strong>'종류, 분류하다'</strong>가 되었습니다.",
+ "historyTitle": "제비뽑기에서 시작된 '종류'",
+ "historyBody": "라틴어 sors는 '제비뽑기, 운명, 몫'이라는 뜻이었어요. 이것이 '같은 몫, 같은 부류'라는 의미로 넓어져 고대 프랑스어 sorte(종류)가 되었고, 영어 sort로 들어왔어요. 운명을 점치던 sorcerer(마법사)도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "assort",
+   "pos": "동사",
+   "meaning": "분류하다, 구색을 맞추다",
+   "en": "The workers assort the apples by size.",
+   "ko": "일꾼들은 사과를 크기별로 분류해요."
+  },
+  {
+   "word": "assortment",
+   "pos": "명사",
+   "meaning": "여러 가지 모음, 구색",
+   "en": "The shop sells an assortment of cookies.",
+   "ko": "그 가게는 여러 가지 쿠키를 모아서 팔아요."
+  },
+  {
+   "word": "sorcerer",
+   "pos": "명사",
+   "meaning": "마법사",
+   "en": "In the story, a sorcerer turns the prince into a frog.",
+   "ko": "그 이야기에서 마법사는 왕자를 개구리로 바꿔요."
+  },
+  {
+   "word": "consort",
+   "pos": "명사",
+   "meaning": "(왕·여왕의) 배우자",
+   "en": "The queen's consort waved to the crowd.",
+   "ko": "여왕의 배우자가 군중에게 손을 흔들었어요."
+  },
+  {
+   "word": "sorting",
+   "pos": "명사",
+   "meaning": "분류, 정리",
+   "en": "Sorting your trash helps protect the environment.",
+   "ko": "쓰레기를 분류하면 환경 보호에 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 색깔별로 레고 블록을 바구니에 나눠 담는 장면",
+ "imageCaption": "뒤섞인 양말을 짝끼리, 색깔끼리 척척 나누는 모습을 떠올려 보세요.",
+ "movieLineEn": "What sort of person eats pizza with a fork?",
+ "movieLineKo": "대체 어떤 종류의 사람이 피자를 포크로 먹어?",
+ "storyTitle": "마법사의 분류 실수",
+ "story": "sorcerer(마법사)는 약초를 sort(분류하다)하다가 깜빡 졸았어요. 깨어 보니 assortment(여러 가지 모음) 바구니가 엉망이었죠. 마법사는 대충 assort(분류하다)해서 '사랑의 묘약'을 만들었어요. 그런데 마신 왕은 사랑에 빠지는 대신 계속 딸꾹질만 했어요. 알고 보니 sorting(분류)할 때 후추를 넣었던 거예요!"
+}

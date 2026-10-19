@@ -1,0 +1,68 @@
+{
+ "word": "month-long",
+ "pos": "형용사",
+ "phonetic": "[ˈmʌnθ lɔːŋ]",
+ "meaning": "한 달 동안 계속되는, 한 달간의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "month",
+   "meaning": "달, 월 (month)",
+   "note": "고대 영어 monað에서 왔고 moon(달)과 같은 뿌리예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "long",
+   "meaning": "긴, 오래 (long)",
+   "note": "고대 영어 lang(긴)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>month</strong> (한 달) + <strong>long</strong> (긴) = 한 달 길이만큼 이어지는이라서 <strong>'한 달간의'</strong>가 되었어요.",
+ "historyTitle": "달(moon)로 세던 시간",
+ "historyBody": "month는 고대 영어 monað에서 왔고, moon(달)과 같은 게르만어 뿌리예요. 옛사람들은 달이 차고 기우는 한 주기를 한 '달'로 셌기 때문이죠. 'week-long, year-long'처럼 '기간+long'은 기간을 나타내는 형용사를 만드는 흔한 방식이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "monthly",
+   "pos": "형용사 / 부사",
+   "meaning": "매달의 / 매달",
+   "en": "We pay a monthly fee for the gym.",
+   "ko": "우리는 헬스장에 매달 요금을 내요."
+  },
+  {
+   "word": "moon",
+   "pos": "명사",
+   "meaning": "달",
+   "en": "The moon looked huge and orange last night.",
+   "ko": "어젯밤 달이 엄청 크고 주황색으로 보였어요."
+  },
+  {
+   "word": "length",
+   "pos": "명사",
+   "meaning": "길이, 기간",
+   "en": "The length of the movie was almost three hours.",
+   "ko": "그 영화의 길이는 거의 세 시간이었어요."
+  },
+  {
+   "word": "lengthy",
+   "pos": "형용사",
+   "meaning": "너무 긴, 장황한",
+   "en": "The teacher gave us a lengthy list of rules.",
+   "ko": "선생님이 우리에게 긴 규칙 목록을 주셨어요."
+  },
+  {
+   "word": "lifelong",
+   "pos": "형용사",
+   "meaning": "평생의",
+   "en": "Reading can become a lifelong habit.",
+   "ko": "독서는 평생 습관이 될 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력 한 장을 처음부터 끝까지 가득 채운 일정",
+ "imageCaption": "달력의 1일부터 30일까지 축제 스티커가 빽빽이 붙어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "This month-long journey will test every one of us.",
+ "movieLineKo": "한 달간의 이 여정은 우리 모두를 시험할 거야.",
+ "storyTitle": "한 달 다이어트",
+ "story": "삼촌은 month-long(한 달간의) 다이어트를 선언했어요. monthly(매달의) 헬스장 회원권도 끊고, 식단 목록은 lengthy(장황한) 수준이었죠. 그런데 보름달 moon(달)을 보더니 \"달이 꼭 피자 같네\" 하며 피자를 시켰어요. 다이어트는 한 달이 아니라 반나절짜리였답니다."
+}

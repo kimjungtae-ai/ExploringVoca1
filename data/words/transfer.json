@@ -1,0 +1,75 @@
+{
+ "word": "transfer",
+ "pos": "동사 / 명사",
+ "phonetic": "[trænsˈfɜːr]",
+ "meaning": "옮기다, 전학 가다, 갈아타다, 이체하다 / 이동, 환승",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "trans-",
+   "meaning": "가로질러, 저쪽으로 (across)",
+   "note": "한쪽에서 다른 쪽으로 건너간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 ferre(나르다, 가져가다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>trans-</strong> (건너) + <strong>fer</strong> (나르다) = 저쪽으로 건너 나르다, 즉 <strong>'옮기다, 이동하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 ferre, 나르는 동사",
+ "historyBody": "transfer는 라틴어 'transferre(건너 나르다)'에서 왔어요. 'ferre'는 '나르다, 가져가다'라는 뜻으로, 앞에 붙는 접두사에 따라 offer(앞으로 가져가다), refer(다시 가져가다), suffer(아래에서 견디며 나르다)처럼 다양한 단어를 만들었어요. 그래서 -fer로 끝나는 단어들은 대부분 '나르다'와 관련이 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참고하다",
+   "en": "Please refer to the dictionary if you don't know a word.",
+   "ko": "모르는 단어가 있으면 사전을 참고하세요."
+  },
+  {
+   "word": "prefer",
+   "pos": "동사",
+   "meaning": "더 좋아하다",
+   "en": "I prefer reading books to watching TV.",
+   "ko": "나는 TV 보는 것보다 책 읽는 걸 더 좋아해요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사 / 명사",
+   "meaning": "제안하다, 제공하다 / 제안",
+   "en": "My neighbor offered to help me move the boxes.",
+   "ko": "이웃이 상자 옮기는 걸 도와주겠다고 제안했어요."
+  },
+  {
+   "word": "differ",
+   "pos": "동사",
+   "meaning": "다르다",
+   "en": "People's opinions often differ on this topic.",
+   "ko": "이 주제에 대해서는 사람들의 의견이 자주 달라요."
+  },
+  {
+   "word": "suffer",
+   "pos": "동사",
+   "meaning": "고통받다, 겪다",
+   "en": "Many animals suffer from the extreme heat.",
+   "ko": "많은 동물들이 극심한 더위로 고통받아요."
+  },
+  {
+   "word": "conference",
+   "pos": "명사",
+   "meaning": "회의, 학회",
+   "en": "The teachers had a conference about the new schedule.",
+   "ko": "선생님들은 새 시간표에 대해 회의를 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지하철에서 다른 노선으로 갈아타는 사람들",
+ "imageCaption": "지하철 환승역에서 사람들이 이쪽 열차에서 저쪽 열차로 건너가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Transfer the money now, or the deal is off!",
+ "movieLineKo": "지금 돈을 이체해, 아니면 거래는 없던 걸로 하겠어!",
+ "storyTitle": "전학생의 정체",
+ "story": "새 transfer(전학생)가 우리 반에 왔어요. 선생님이 짝을 offer(제안하다)하자 그는 창가 자리를 prefer(더 좋아하다)한다고 했죠. 그런데 점심시간마다 사라졌어요. 다들 비밀 요원이라고 refer(언급하다)하며 수군댔는데, 알고 보니 매일 급식실 아주머니를 도와드리러 간 착한 친구였답니다."
+}

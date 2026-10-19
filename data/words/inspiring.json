@@ -1,0 +1,81 @@
+{
+ "word": "inspiring",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈspaɪərɪŋ]",
+ "meaning": "영감을 주는, 고무적인, 감동적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (in, into)",
+   "note": "안으로 불어넣는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spir",
+   "meaning": "숨 쉬다 (breathe)",
+   "note": "라틴어 spirare(숨 쉬다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (형용사)",
+   "note": "그런 효과를 주는, 이라는 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>spir</strong> (숨 쉬다) + <strong>-ing</strong> (~하는) = '마음속에 숨결을 불어넣는'이라는 뜻에서 <strong>'영감을 주는'</strong>이 되었습니다.",
+ "historyTitle": "신이 불어넣은 숨결",
+ "historyBody": "라틴어 'inspirare'는 '안으로 숨을 불어넣다'라는 뜻이었어요. 옛사람들은 시인이나 예언자가 신의 숨결을 받아 특별한 생각을 떠올린다고 믿었죠. 그래서 inspire가 '영감을 주다'가 되었고, spirit(정신, 영혼)도 원래 '숨'이라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inspire",
+   "pos": "동사",
+   "meaning": "영감을 주다, 고무하다",
+   "en": "Her story inspired me to try again.",
+   "ko": "그녀의 이야기는 내가 다시 도전하도록 용기를 줬어요."
+  },
+  {
+   "word": "inspiration",
+   "pos": "명사",
+   "meaning": "영감",
+   "en": "Nature is a great source of inspiration.",
+   "ko": "자연은 훌륭한 영감의 원천이에요."
+  },
+  {
+   "word": "spirit",
+   "pos": "명사",
+   "meaning": "정신, 영혼, 기분",
+   "en": "The team showed great fighting spirit.",
+   "ko": "그 팀은 대단한 투지를 보여 줬어요."
+  },
+  {
+   "word": "aspire",
+   "pos": "동사",
+   "meaning": "열망하다 (~을 향해 숨 쉬다)",
+   "en": "She aspires to become a doctor.",
+   "ko": "그녀는 의사가 되기를 열망해요."
+  },
+  {
+   "word": "respiration",
+   "pos": "명사",
+   "meaning": "호흡",
+   "en": "Plants also need respiration to live.",
+   "ko": "식물도 살기 위해 호흡이 필요해요."
+  },
+  {
+   "word": "expire",
+   "pos": "동사",
+   "meaning": "만료되다, 숨을 거두다 (숨을 내쉬다)",
+   "en": "My passport expires next month.",
+   "ko": "내 여권은 다음 달에 만료돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 꼴찌로 달리던 선수가 끝까지 완주하자 관중이 일어나 박수 치는 장면",
+ "imageCaption": "누군가의 이야기가 내 가슴속에 새 숨결을 훅 불어넣는 느낌을 떠올려 보세요. 그게 inspiring이에요.",
+ "movieLineEn": "That was the most inspiring speech I've ever heard.",
+ "movieLineKo": "내가 들어 본 연설 중 가장 감동적이었어.",
+ "storyTitle": "감동적인 응원 연설",
+ "story": "체육대회 전, 담임 선생님이 inspiring(감동적인) 연설을 하셨어요. 우리 반의 spirit(정신)이 하늘을 찔렀죠. 모두 inspiration(영감)을 받아 1등을 aspire(열망하다)했어요. 결과는 꼴찌였지만, 선생님은 '내 연설이 너무 inspire(영감을 주다)해서 다들 울다가 넘어졌구나'라고 하셨대요."
+}

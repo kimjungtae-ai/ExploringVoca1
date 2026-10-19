@@ -1,0 +1,61 @@
+{
+ "word": "layer",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈleɪər]",
+ "meaning": "층, 겹 / 층층이 쌓다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "lay",
+   "meaning": "놓다, 눕히다 (put down)",
+   "note": "고대 영어 lecgan(놓다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것, 사람 (thing/person that)",
+   "note": "동사에 붙어 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>lay</strong> (놓다) + <strong>-er</strong> (~하는 것) = '차곡차곡 놓인 것'이라서 <strong>'층, 겹'</strong>이에요.",
+ "historyTitle": "벽돌 놓는 사람에서 '층'으로",
+ "historyBody": "layer는 14세기에 '돌이나 벽돌을 놓는 사람'이라는 뜻으로 처음 쓰였어요. 그러다 17세기쯤 '한 번에 펼쳐 놓은 것', 즉 땅이나 물건의 '층'이라는 뜻이 생겼답니다. lay는 lie(눕다)를 '눕게 하다, 놓다'로 바꾼 동사라서 두 단어는 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lay",
+   "pos": "동사",
+   "meaning": "놓다, (알을) 낳다",
+   "en": "She laid the baby gently on the bed.",
+   "ko": "그녀는 아기를 침대 위에 살며시 눕혔어요."
+  },
+  {
+   "word": "lie",
+   "pos": "동사",
+   "meaning": "눕다, 놓여 있다",
+   "en": "The cat likes to lie in the sun.",
+   "ko": "그 고양이는 햇볕 아래 누워 있는 것을 좋아해요."
+  },
+  {
+   "word": "layout",
+   "pos": "명사",
+   "meaning": "배치, 지면 구성",
+   "en": "I like the simple layout of this website.",
+   "ko": "나는 이 웹사이트의 깔끔한 구성이 좋아요."
+  },
+  {
+   "word": "multilayered",
+   "pos": "형용사",
+   "meaning": "여러 층으로 된, 다층의",
+   "en": "The novel tells a multilayered story about family.",
+   "ko": "그 소설은 가족에 관한 여러 겹의 이야기를 들려줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 케이크를 잘랐을 때 보이는 빵과 크림의 여러 층",
+ "imageCaption": "무지개떡처럼 한 겹, 또 한 겹 차곡차곡 쌓여 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Like an onion, this mystery has many layers.",
+ "movieLineKo": "양파처럼, 이 미스터리에는 여러 겹이 있어.",
+ "storyTitle": "양파의 비밀",
+ "story": "요리사가 양파를 까며 layer(겹)를 셌어요. 한 겹씩 lay(놓다)하며 layout(배치)까지 예쁘게 했죠. 열 번째 겹에서 쪽지가 나왔어요. '더 까 봐.' 스무 번째 겹엔 '조금만 더!' 마지막 겹을 까니 아무것도 없었고, 요리사는 펑펑 울었답니다. 감동이 아니라 양파 때문에요."
+}

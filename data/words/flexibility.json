@@ -1,0 +1,74 @@
+{
+ "word": "flexibility",
+ "pos": "명사",
+ "phonetic": "[ˌfleksəˈbɪləti]",
+ "meaning": "유연성, 융통성, 신축성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "flex",
+   "meaning": "구부리다 (bend)",
+   "note": "라틴어 flectere(구부리다)의 과거분사 flexus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는 (형용사)",
+   "note": "flexible = '구부릴 수 있는'."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질 (명사)",
+   "note": "형용사를 '성질'을 뜻하는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>flex</strong> (구부리다) + <strong>-ible</strong> (~할 수 있는) + <strong>-ity</strong> (성질) = '잘 구부러지는 성질'에서 <strong>'유연성, 융통성'</strong>이 되었습니다.",
+ "historyTitle": "몸도 마음도 잘 '구부러지는' 성질",
+ "historyBody": "라틴어 flectere는 '구부리다, 방향을 틀다'라는 뜻이에요. 여기서 flexibilis(잘 구부러지는)가 나왔고, 영어에서는 몸이 유연하다는 뜻뿐 아니라 생각이나 일정이 '융통성 있다'는 뜻으로도 쓰여요. 빛이 '되구부러지는' reflect(반사하다)도 같은 집안이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "flexible",
+   "pos": "형용사",
+   "meaning": "유연한, 융통성 있는",
+   "en": "My part-time job has flexible working hours.",
+   "ko": "내 아르바이트는 근무 시간이 유연해요."
+  },
+  {
+   "word": "flex",
+   "pos": "동사",
+   "meaning": "(근육을) 구부리다, 움직이다",
+   "en": "He flexed his arm to show his muscles.",
+   "ko": "그는 근육을 보여 주려고 팔을 구부렸어요."
+  },
+  {
+   "word": "reflect",
+   "pos": "동사",
+   "meaning": "반사하다, 반영하다, 숙고하다",
+   "en": "The calm lake reflected the mountains.",
+   "ko": "잔잔한 호수가 산을 비추었어요."
+  },
+  {
+   "word": "reflex",
+   "pos": "명사",
+   "meaning": "반사 작용, 반사 신경",
+   "en": "The goalkeeper has amazing reflexes.",
+   "ko": "그 골키퍼는 반사 신경이 놀라워요."
+  },
+  {
+   "word": "inflexible",
+   "pos": "형용사",
+   "meaning": "융통성 없는, 구부러지지 않는",
+   "en": "The rules were too inflexible for new ideas.",
+   "ko": "그 규칙들은 새로운 아이디어를 받아들이기엔 너무 경직되어 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 체조 선수가 몸을 활처럼 휘는 장면",
+ "imageCaption": "체조 선수가 몸을 고무줄처럼 쭉 구부렸다 펴는 모습을 떠올리면 flexibility가 그려져요.",
+ "movieLineEn": "A true warrior needs both strength and flexibility.",
+ "movieLineKo": "진정한 전사에겐 힘과 유연성이 모두 필요하다.",
+ "storyTitle": "요가 고양이 선생님",
+ "story": "동네 요가 학원 선생님은 고양이였어요. 고양이는 놀라운 flexibility(유연성)를 보여 줬죠. 학생들도 flexible(유연한)해지려고 열심히 몸을 flex(구부리다)했어요. 거울에 reflect(비추다)된 모습은 꽤 그럴듯했죠. 그런데 수업이 끝나자 고양이 선생님은 학생들 매트 위에서 몸을 말고 잠들어 버렸어요. 그게 마지막 동작이었대요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "inclusive",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈkluːsɪv]",
+ "meaning": "포괄적인, 모두를 포함하는, (~을) 포함하여",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에 (in)",
+   "note": "안쪽으로 들인다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "clus",
+   "meaning": "닫다 (shut)",
+   "note": "라틴어 claudere(닫다)에서 왔어요. clud로도 나타나요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "형용사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>clus</strong> (닫다) + <strong>-ive</strong> (~한) = '울타리 안에 함께 넣고 닫는'이라는 뜻에서 <strong>'포괄적인, 모두를 포함하는'</strong>이 되었습니다.",
+ "historyTitle": "문을 닫는 사람이 누구냐에 따라",
+ "historyBody": "라틴어 'includere'는 '안에 넣고 닫다'라는 뜻이었어요. 같은 claudere에 ex-(밖)가 붙으면 exclude(제외하다)가 되죠. 오늘날 inclusive는 누구도 소외되지 않는 사회를 말할 때 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "include",
+   "pos": "동사",
+   "meaning": "포함하다 (안에 가두다)",
+   "en": "The price includes breakfast.",
+   "ko": "가격에 아침 식사가 포함되어 있어요."
+  },
+  {
+   "word": "exclude",
+   "pos": "동사",
+   "meaning": "제외하다 (밖에 두고 닫다)",
+   "en": "Don't exclude anyone from the game.",
+   "ko": "게임에서 아무도 빼지 마세요."
+  },
+  {
+   "word": "conclude",
+   "pos": "동사",
+   "meaning": "결론을 내리다, 끝내다",
+   "en": "The scientist concluded that the plan worked.",
+   "ko": "과학자는 그 계획이 효과가 있었다고 결론 내렸어요."
+  },
+  {
+   "word": "exclusive",
+   "pos": "형용사",
+   "meaning": "배타적인, 독점적인",
+   "en": "This club is exclusive to members.",
+   "ko": "이 클럽은 회원만 이용할 수 있어요."
+  },
+  {
+   "word": "close",
+   "pos": "동사",
+   "meaning": "닫다",
+   "en": "Please close the window.",
+   "ko": "창문을 닫아 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 원 안에 다양한 사람들이 손잡고 모여 있는 장면",
+ "imageCaption": "넓은 울타리 안으로 모두를 들이고 문을 닫는 모습을 떠올려 보세요. 아무도 밖에 남지 않는 것, 그게 inclusive예요.",
+ "movieLineEn": "Our team is inclusive. Everyone's welcome here.",
+ "movieLineKo": "우리 팀은 누구나 받아들여. 여기선 모두 환영이야.",
+ "storyTitle": "모두를 끼워주는 생일 파티",
+ "story": "하준이는 반 친구 모두를 include(포함하다)하는 inclusive(포괄적인) 생일 파티를 열었어요. 아무도 exclude(제외하다)하지 않았죠. 파티가 끝나고 하준이는 conclude(결론 내리다)했어요. '최고였어!' 그런데 문을 close(닫다)하려는데 모르는 사람이 케이크를 들고 있었어요. 옆집 아저씨였대요."
+}

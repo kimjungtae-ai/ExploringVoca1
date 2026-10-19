@@ -1,0 +1,68 @@
+{
+ "word": "electric appliance",
+ "pos": "명사구",
+ "phonetic": "[ɪˈlektrɪk əˈplaɪəns]",
+ "meaning": "전기 제품, 가전제품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "electric",
+   "meaning": "전기의 (electric)",
+   "note": "그리스어 ēlektron(호박)에서 온 말로 '전기로 움직이는'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "appliance",
+   "meaning": "기구, 가전제품 (appliance)",
+   "note": "apply(적용하다)+-ance로, 특정 일에 '쓰이는' 도구예요."
+  }
+ ],
+ "summary": "<strong>electric</strong> (전기의) + <strong>appliance</strong> (기구) = '전기로 움직이는 기구'에서 <strong>'전기 제품, 가전제품'</strong>",
+ "historyTitle": "호박 보석에서 시작된 전기",
+ "historyBody": "electric은 그리스어 'ēlektron(호박, 나무 진이 굳은 보석)'에서 왔어요. 고대 그리스인들은 호박을 문지르면 깃털 같은 가벼운 것이 달라붙는 걸 알았고, 17세기 영국 과학자 윌리엄 길버트가 이 현상을 electricus라고 불렀어요. appliance는 apply(적용하다, 쓰다)에서 나온 말로 '어떤 용도로 쓰는 도구'를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "electricity",
+   "pos": "명사",
+   "meaning": "전기",
+   "en": "The storm cut off the electricity.",
+   "ko": "폭풍 때문에 전기가 끊겼어."
+  },
+  {
+   "word": "electronic",
+   "pos": "형용사",
+   "meaning": "전자의",
+   "en": "Turn off all electronic devices.",
+   "ko": "모든 전자 기기를 꺼 주세요."
+  },
+  {
+   "word": "home appliance",
+   "pos": "명사구",
+   "meaning": "가전제품",
+   "en": "Refrigerators are common home appliances.",
+   "ko": "냉장고는 흔한 가전제품이에요."
+  },
+  {
+   "word": "apply",
+   "pos": "동사",
+   "meaning": "적용하다, 지원하다",
+   "en": "Apply this cream to your skin.",
+   "ko": "이 크림을 피부에 발라."
+  },
+  {
+   "word": "plug in",
+   "pos": "구동사",
+   "meaning": "플러그를 꽂다",
+   "en": "Plug in the toaster first.",
+   "ko": "토스터 플러그부터 꽂아."
+  }
+ ],
+ "imageSense": "대표 의미: 냉장고, 세탁기, 전자레인지가 나란히 놓인 매장",
+ "imageCaption": "전기 코드가 달린 냉장고와 세탁기가 줄지어 서 있는 가전 매장을 떠올려 보세요.",
+ "movieLineEn": "Unplug every electric appliance before we leave.",
+ "movieLineKo": "나가기 전에 모든 전기 제품 플러그를 뽑아.",
+ "storyTitle": "정전의 밤",
+ "story": "갑자기 electricity(전기)가 나갔어요! 모든 electric appliance(전기 제품)가 멈췄죠. 냉장고도, 전자레인지도, electronic(전자의) 게임기도요. 아빠는 \"차단기를 확인하자\"며 손전등을 찾았어요. 그런데 전등을 켜 보니 범인은 강아지였어요. 멀티탭 위에 앉아 있었던 거죠. 다시 plug in(플러그를 꽂다)하자 집이 환해졌어요."
+}

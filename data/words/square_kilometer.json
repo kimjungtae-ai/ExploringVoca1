@@ -1,0 +1,68 @@
+{
+ "word": "square kilometer",
+ "pos": "명사구",
+ "phonetic": "[skwer kɪˈlɑːmɪtər]",
+ "meaning": "제곱킬로미터 (km²)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "square",
+   "meaning": "정사각형, 제곱 (square)",
+   "note": "라틴어 exquadrare(네모나게 만들다)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "kilometer",
+   "meaning": "킬로미터 (kilometer)",
+   "note": "kilo-(1,000) + meter(미터)로 '1,000미터'예요."
+  }
+ ],
+ "summary": "<strong>square</strong> (정사각형) + <strong>kilometer</strong> (1,000미터) = '한 변이 1킬로미터인 정사각형의 넓이'라서 <strong>'제곱킬로미터'</strong>예요.",
+ "historyTitle": "프랑스 혁명이 만든 단위",
+ "historyBody": "kilometer는 18세기 말 프랑스 혁명기에 미터법이 만들어지면서 생긴 말이에요. kilo-는 그리스어 'khilioi(천)', meter는 그리스어 'metron(척도, 잴 것)'에서 왔어요. square는 고대 프랑스어를 거쳐 라틴어 'quadra(정사각형)'와 관련된 말이에요. 서울의 면적은 약 605제곱킬로미터예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "square meter",
+   "pos": "명사구",
+   "meaning": "제곱미터",
+   "en": "The apartment is about 85 square meters.",
+   "ko": "그 아파트는 약 85제곱미터예요."
+  },
+  {
+   "word": "area",
+   "pos": "명사",
+   "meaning": "면적, 지역",
+   "en": "The park covers a large area.",
+   "ko": "그 공원은 넓은 면적을 차지해요."
+  },
+  {
+   "word": "population density",
+   "pos": "명사구",
+   "meaning": "인구 밀도",
+   "en": "Seoul has a very high population density.",
+   "ko": "서울은 인구 밀도가 매우 높아요."
+  },
+  {
+   "word": "meter",
+   "pos": "명사",
+   "meaning": "미터, 계량기",
+   "en": "The pool is 25 meters long.",
+   "ko": "그 수영장은 길이가 25미터예요."
+  },
+  {
+   "word": "thermometer",
+   "pos": "명사",
+   "meaning": "온도계",
+   "en": "The thermometer showed 35 degrees.",
+   "ko": "온도계는 35도를 가리켰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위에 가로세로 1킬로미터짜리 네모 칸이 그려진 장면",
+ "imageCaption": "지도 위에 한 변이 1km인 네모를 그리고 그 안을 색칠하는 모습을 떠올려 보세요. 그 넓이가 1제곱킬로미터예요.",
+ "movieLineEn": "The fire has already burned over ten square kilometers.",
+ "movieLineKo": "화재가 이미 10제곱킬로미터 넘게 태웠습니다.",
+ "storyTitle": "넓이 계산의 함정",
+ "story": "지리 시간, 선생님이 우리 동네 area(면적)가 몇 square kilometer(제곱킬로미터)인지 물으셨어요. 나는 자신 있게 thermometer(온도계)를 들고 '35도요!' 했죠. 반 전체가 웃음바다. 알고 보니 meter(미터)가 들어간 말은 다 비슷한 줄 알았던 거예요. population density(인구 밀도)만큼 얼굴이 빨개졌어요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "audience",
+ "pos": "명사",
+ "phonetic": "[ˈɔːdiəns]",
+ "meaning": "청중, 관객, 시청자, 독자층, 접견",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "aud (audire)",
+   "meaning": "듣다 (hear)",
+   "note": "audio(오디오)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ience (-ence)",
+   "meaning": "~하는 것, ~하는 사람들 (명사형)",
+   "note": "행위나 그 행위를 하는 무리를 나타내요."
+  }
+ ],
+ "summary": "<strong>aud</strong> (듣다) + <strong>-ience</strong> (명사) = '듣는 일, 듣는 사람들'에서 <strong>'청중, 관객'</strong>이 되었어요.",
+ "historyTitle": "왕의 말을 '듣는' 자리",
+ "historyBody": "audience는 라틴어 'audientia(들음, 귀 기울임)'에서 왔고, 그 뿌리는 'audire(듣다)'예요. 중세에는 왕이 신하의 말을 '들어 주는 자리', 즉 '접견'을 뜻하기도 했어요. 그러다 연설이나 공연을 '듣는 사람들'이라는 뜻이 생겼고, 지금은 영화나 TV를 보는 관객까지 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "auditorium",
+   "pos": "명사",
+   "meaning": "강당, 객석",
+   "en": "The graduation was held in the school auditorium.",
+   "ko": "졸업식은 학교 강당에서 열렸어요."
+  },
+  {
+   "word": "audio",
+   "pos": "명사/형용사",
+   "meaning": "음성, 오디오(의)",
+   "en": "Turn up the audio so everyone can hear.",
+   "ko": "모두 들을 수 있게 음량을 높여 주세요."
+  },
+  {
+   "word": "audition",
+   "pos": "명사/동사",
+   "meaning": "오디션 / 오디션을 보다",
+   "en": "She passed the audition for the school musical.",
+   "ko": "그녀는 학교 뮤지컬 오디션에 합격했어요."
+  },
+  {
+   "word": "audible",
+   "pos": "형용사",
+   "meaning": "들리는, 들을 수 있는",
+   "en": "His voice was barely audible in the noisy room.",
+   "ko": "시끄러운 방에서 그의 목소리는 거의 들리지 않았어요."
+  },
+  {
+   "word": "audit",
+   "pos": "명사/동사",
+   "meaning": "회계 감사 / 감사하다",
+   "en": "The company has an audit every year.",
+   "ko": "그 회사는 매년 회계 감사를 받아요."
+  }
+ ],
+ "imageSense": "대표 의미: 콘서트장을 가득 메운 관객들이 무대를 바라보는 장면",
+ "imageCaption": "수천 명의 관객이 숨죽이고 무대 위 가수의 노래를 듣는 장면을 떠올려 보세요. 함께 듣는 사람들이 audience예요.",
+ "movieLineEn": "The audience is waiting. It's time to shine!",
+ "movieLineKo": "관객들이 기다리고 있어. 이제 빛날 시간이야!",
+ "storyTitle": "관객 한 명의 콘서트",
+ "story": "지민이는 첫 audition(오디션)을 앞두고 auditorium(강당)에서 연습했어요. audience(관객)는 청소하시는 아저씨 한 분뿐이었죠. 목소리가 겨우 audible(들리는)할 정도로 떨렸지만 끝까지 불렀어요. 박수를 치던 아저씨가 명함을 내밀었는데, 알고 보니 유명 기획사 대표님이었답니다!"
+}

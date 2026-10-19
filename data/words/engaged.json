@@ -1,0 +1,67 @@
+{
+ "word": "engaged",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈɡeɪdʒd]",
+ "meaning": "약혼한, 바쁜, 참여하는, 몰두한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~안에, ~하게 만들다 (in, make)",
+   "note": "어떤 상태 안으로 들어가게 만든다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gage",
+   "meaning": "담보, 약속의 증표 (pledge)",
+   "note": "고대 프랑스어 gage(담보, 저당물)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사·형용사)",
+   "note": "'이미 그렇게 된 상태'를 나타내요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (안에) + <strong>gage</strong> (약속의 증표) + <strong>-ed</strong> (~된) = '약속에 묶인 상태'에서 <strong>'약혼한, 참여하는, 몰두한'</strong>이 되었어요.",
+ "historyTitle": "담보를 맡기고 약속하던 시절",
+ "historyBody": "고대 프랑스어 engagier는 '담보(gage)를 맡기다, 약속으로 묶다'라는 뜻이었어요. 약속으로 묶이면 결혼을 약속한 사이(약혼)가 되기도 하고, 어떤 일에 묶여 바쁘거나 몰두하게 되기도 하죠. 그래서 engaged에 '약혼한'과 '참여하는' 뜻이 함께 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "engage",
+   "pos": "동사",
+   "meaning": "참여하다, 관여시키다, 사로잡다",
+   "en": "Good teachers engage students with interesting questions.",
+   "ko": "좋은 선생님은 흥미로운 질문으로 학생들을 참여시켜요."
+  },
+  {
+   "word": "engagement",
+   "pos": "명사",
+   "meaning": "약혼, 참여, 약속",
+   "en": "They announced their engagement at the family dinner.",
+   "ko": "그들은 가족 저녁 식사 자리에서 약혼을 발표했어요."
+  },
+  {
+   "word": "engaging",
+   "pos": "형용사",
+   "meaning": "매력적인, 마음을 끄는",
+   "en": "The book has an engaging story that kept me reading.",
+   "ko": "그 책은 계속 읽게 만드는 매력적인 이야기가 있어요."
+  },
+  {
+   "word": "disengage",
+   "pos": "동사",
+   "meaning": "풀다, 떼어 놓다, 손을 떼다",
+   "en": "He disengaged himself from the argument and left the room.",
+   "ko": "그는 말다툼에서 빠져나와 방을 나갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 반지를 끼고 결혼을 약속한 두 사람, 또는 일에 푹 빠진 학생",
+ "imageCaption": "약속에 '묶여 있는' 모습을 떠올리세요. 반지로 묶이면 약혼, 공부에 묶이면 몰두예요.",
+ "movieLineEn": "Sorry, I can't talk now. I'm engaged in something important.",
+ "movieLineKo": "미안, 지금은 얘기 못 해. 중요한 일에 몰두하고 있거든.",
+ "storyTitle": "약혼보다 게임",
+ "story": "삼촌이 드디어 engaged(약혼한) 상태가 되었어요! engagement(약혼) 파티에서 사람들은 engaging(매력적인) 신부 이야기로 들떴죠. 그런데 삼촌은 구석에서 휴대폰 게임에 engage(몰두하다)하고 있었어요. 신부가 다가오자 삼촌은 겨우 게임에서 disengage(손을 떼다)했는데, 알고 보니 신부도 같은 게임 랭킹 1위였어요!"
+}

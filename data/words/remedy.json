@@ -1,0 +1,67 @@
+{
+ "word": "remedy",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈremədi]",
+ "meaning": "치료법, 해결책 / 바로잡다, 개선하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 원래대로 (again, back)",
+   "note": "나쁜 상태를 원래대로 되돌린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "med",
+   "meaning": "치료하다 (heal)",
+   "note": "라틴어 mederi(치료하다)에서 왔어요. medicine의 med와 같아요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~하는 것 (명사)",
+   "note": "라틴어 -ium에서 온 명사 어미예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>med</strong> (치료하다) + <strong>-y</strong> (~하는 것) = 다시 낫게 하는 것이라서 <strong>'치료법, 해결책'</strong>이 되었어요.",
+ "historyTitle": "로마 의사들의 '치료(mederi)'",
+ "historyBody": "remedy는 라틴어 remedium(치료, 약)에서 앵글로프랑스어 remedie를 거쳐 13세기 영어로 들어왔어요. remedium은 re-와 mederi(치료하다)가 합쳐진 말이에요. 몸의 병을 고치는 약에서 사회 문제나 실수를 바로잡는 '해결책'으로 뜻이 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "medicine",
+   "pos": "명사",
+   "meaning": "약, 의학",
+   "en": "Take this medicine three times a day.",
+   "ko": "이 약을 하루에 세 번 드세요."
+  },
+  {
+   "word": "medical",
+   "pos": "형용사",
+   "meaning": "의학의, 의료의",
+   "en": "She wants to study medical science.",
+   "ko": "그녀는 의학을 공부하고 싶어 해요."
+  },
+  {
+   "word": "medication",
+   "pos": "명사",
+   "meaning": "약물, 약물 치료",
+   "en": "He is on medication for his allergies.",
+   "ko": "그는 알레르기 때문에 약을 먹고 있어요."
+  },
+  {
+   "word": "remedial",
+   "pos": "형용사",
+   "meaning": "치료의, 보충의",
+   "en": "The school offers remedial classes in math.",
+   "ko": "그 학교는 수학 보충 수업을 제공해요."
+  }
+ ],
+ "imageSense": "대표 의미: 감기에 걸린 아이에게 따뜻한 생강차를 건네는 할머니",
+ "imageCaption": "할머니표 꿀생강차처럼 아픈 곳을 다시 낫게 하는 비법을 떠올려 보세요.",
+ "movieLineEn": "There's only one remedy for a broken heart. Time.",
+ "movieLineKo": "상처 난 마음엔 치료법이 하나뿐이야. 시간.",
+ "storyTitle": "할머니의 만능 치료법",
+ "story": "우리 할머니는 모든 병에 같은 remedy(치료법)를 쓰세요. 바로 꿀생강차! 감기에도, 배탈에도, 시험 스트레스에도요. medical(의학의) 근거는 없다고 했더니 할머니가 medicine(약)보다 낫다며 웃으셨죠. 그런데 의사 삼촌이 와서 할머니 차를 마시더니 '이건 최고의 medication(약물)이네요!'라고 했대요."
+}

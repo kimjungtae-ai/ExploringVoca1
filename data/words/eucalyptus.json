@@ -1,0 +1,53 @@
+{
+ "word": "eucalyptus",
+ "pos": "명사",
+ "phonetic": "[ˌjuːkəˈlɪptəs]",
+ "meaning": "유칼립투스(나무)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "eu-",
+   "meaning": "잘, 좋게 (well)",
+   "note": "그리스어에서 '좋게, 잘'이라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "calypt",
+   "meaning": "덮인 (covered)",
+   "note": "그리스어 kalyptein(덮다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-us",
+   "meaning": "(라틴어식 명사 어미)",
+   "note": "식물 학명에 쓰이는 라틴어식 끝맺음이에요."
+  }
+ ],
+ "summary": "<strong>eu-</strong> (잘) + <strong>calypt</strong> (덮인) = '꽃봉오리가 뚜껑으로 잘 덮인 나무'에서 <strong>'유칼립투스'</strong>가 되었어요.",
+ "historyTitle": "뚜껑 덮인 꽃봉오리",
+ "historyBody": "eucalyptus는 1788년 프랑스 식물학자 레리티에(L'Héritier)가 그리스어를 조합해 만든 학명이에요. 이 나무의 꽃봉오리는 꽃이 피기 전까지 작은 뚜껑 같은 덮개로 꼭 덮여 있거든요. 호주가 원산지이며 코알라가 잎을 먹는 것으로 유명해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apocalypse",
+   "pos": "명사",
+   "meaning": "종말, 대재앙",
+   "en": "The movie shows a world after the apocalypse.",
+   "ko": "그 영화는 대재앙 이후의 세상을 보여 줘요."
+  },
+  {
+   "word": "apocalyptic",
+   "pos": "형용사",
+   "meaning": "종말론적인, 파멸적인",
+   "en": "Some reports give an apocalyptic view of climate change.",
+   "ko": "어떤 보고서들은 기후 변화에 대해 종말론적인 시각을 보여요."
+  }
+ ],
+ "imageSense": "대표 의미: 코알라가 유칼립투스 나무에 매달려 잎을 먹는 장면",
+ "imageCaption": "호주 숲에서 시원한 향이 나는 잎을 오물오물 먹는 코알라를 떠올려 보세요.",
+ "movieLineEn": "Smell that? It's eucalyptus. We're close to the koalas.",
+ "movieLineKo": "이 냄새 맡았어? 유칼립투스야. 코알라 근처에 왔어.",
+ "storyTitle": "코알라의 다이어트",
+ "story": "코알라 쿠키는 eucalyptus(유칼립투스) 잎만 먹는 다이어트를 했어요. 친구는 'apocalypse(종말)가 와도 잎만 먹을 거야?'라고 물었죠. 쿠키는 apocalyptic(종말론적인) 표정으로 고개를 끄덕였어요. 그런데 사실 koala(코알라)는 원래 그것만 먹는다는 거, 쿠키만 몰랐대요."
+}

@@ -1,0 +1,61 @@
+{
+ "word": "tasty",
+ "pos": "형용사",
+ "phonetic": "[ˈteɪsti]",
+ "meaning": "맛있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "taste",
+   "meaning": "맛, 맛보다 (taste)",
+   "note": "고대 프랑스어 taster(만져 보다, 맛보다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~한 성질이 있는",
+   "note": "명사에 붙어 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>taste</strong> (맛) + <strong>-y</strong> (~가 있는) = '맛이 있는'에서 <strong>'맛있는'</strong>이 되었어요.",
+ "historyTitle": "'만져 보다'에서 '맛보다'로",
+ "historyBody": "taste는 고대 프랑스어 taster(만져 보다, 시험해 보다)에서 왔어요. 그보다 앞선 기원은 라틴어 taxare(만지다)와 gustare(맛보다)가 섞인 말로 추정하지만 확실하지는 않아요. 영어에서도 처음엔 '만져 보다'라는 뜻이었다가 '맛보다'로 바뀌었어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "taste",
+   "pos": "명사 / 동사",
+   "meaning": "맛, 취향 / 맛보다",
+   "en": "This soup tastes a little salty.",
+   "ko": "이 수프는 약간 짜요."
+  },
+  {
+   "word": "tasteful",
+   "pos": "형용사",
+   "meaning": "고상한, 품위 있는",
+   "en": "The room was decorated in a tasteful way.",
+   "ko": "방은 품위 있게 꾸며져 있었어요."
+  },
+  {
+   "word": "tasteless",
+   "pos": "형용사",
+   "meaning": "맛없는, 무례한",
+   "en": "The hospital food was cold and tasteless.",
+   "ko": "병원 음식은 차갑고 맛이 없었어요."
+  },
+  {
+   "word": "distaste",
+   "pos": "명사",
+   "meaning": "불쾌감, 혐오",
+   "en": "He looked at the bug with distaste.",
+   "ko": "그는 불쾌한 얼굴로 벌레를 쳐다봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 갓 구운 빵을 한 입 먹고 미소 짓는 장면",
+ "imageCaption": "따끈한 빵을 한 입 베어 물고 '음~' 하며 눈을 감는 모습을 떠올려 보세요.",
+ "movieLineEn": "Mmm, this is so tasty! Can I have another one?",
+ "movieLineKo": "음, 이거 정말 맛있다! 하나 더 먹어도 돼?",
+ "storyTitle": "아빠의 요리",
+ "story": "아빠가 처음으로 요리를 하셨어요. 가족 모두 taste(맛보다)하고 \"정말 tasty(맛있는)해요!\"라고 외쳤죠. 하지만 솔직히 tasteless(맛없는) 음식이었어요. 아빠는 감동해서 매주 요리를 하겠다고 하셨고, 우리는 distaste(불쾌감)를 숨기느라 매주 연기 실력을 키우게 되었답니다!"
+}

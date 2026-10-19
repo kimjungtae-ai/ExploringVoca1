@@ -1,0 +1,41 @@
+{
+ "word": "hug",
+ "pos": "동사 / 명사",
+ "phonetic": "[hʌɡ]",
+ "meaning": "껴안다, 포옹하다 / 포옹",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "hug",
+   "meaning": "껴안다 (embrace)",
+   "note": "16세기에 처음 기록된 짧은 단어로, 기원이 확실하지 않아 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>hug</strong>는 더 나눌 수 없는 짧은 단어로, 기원은 확실하지 않지만 <strong>'껴안다, 포옹'</strong>을 뜻해요.",
+ "historyTitle": "기원이 수수께끼인 따뜻한 단어",
+ "historyBody": "hug는 1560년대에 처음 기록된 단어인데, 어디서 왔는지 확실하지 않아요. 고대 노르드어 hugga(위로하다)에서 왔을 수 있다는 설이 있지만, 증거가 충분하지 않답니다. 그래서 이 단어는 쪼개서 외우기보다 '꼭 안아 주는 그림'으로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "huggable",
+   "pos": "형용사",
+   "meaning": "껴안고 싶은",
+   "en": "This teddy bear is soft and huggable.",
+   "ko": "이 곰 인형은 부드러워서 껴안고 싶어요."
+  },
+  {
+   "word": "hugger",
+   "pos": "명사",
+   "meaning": "포옹을 잘하는 사람",
+   "en": "My grandma is a big hugger and greets everyone with a hug.",
+   "ko": "우리 할머니는 포옹을 좋아하셔서 모두를 안아 주며 인사하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항에서 오랜만에 만난 가족이 꼭 껴안는 장면",
+ "imageCaption": "두 팔을 활짝 벌려 서로를 꼭 감싸는 모습이 바로 hug예요.",
+ "movieLineEn": "Come here, you! I need a big hug!",
+ "movieLineKo": "이리 와! 꼭 안아 줘야겠어!",
+ "storyTitle": "포옹 대장 할머니",
+ "story": "우리 할머니는 소문난 hugger(포옹을 잘하는 사람)예요. 누구든 보면 hug(껴안다)하시죠. 택배 기사님도, 우체부 아저씨도 예외가 없어요. 따뜻한 embrace(포옹)가 할머니의 인사법이죠. 할머니 눈에는 모두가 huggable(껴안고 싶은) 사람이래요. 어느 날 도둑이 들었는데, 할머니가 꼭 안아 주시자 도둑이 울면서 자수했답니다."
+}

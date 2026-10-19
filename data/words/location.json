@@ -1,0 +1,81 @@
+{
+ "word": "location",
+ "pos": "명사",
+ "phonetic": "[loʊˈkeɪʃən]",
+ "meaning": "위치, 장소, 야외 촬영지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "loc",
+   "meaning": "장소 (place)",
+   "note": "라틴어 locus(장소)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "locate(위치시키다)를 만드는 부분이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>loc</strong> (장소) + <strong>-ate</strong> (두다) + <strong>-ion</strong> (~하는 것) = '어떤 장소에 둠, 놓인 곳'이라는 뜻에서 <strong>'위치, 장소'</strong>가 되었습니다.",
+ "historyTitle": "영화 촬영장을 부르는 말",
+ "historyBody": "location은 라틴어 locare(두다, 배치하다)의 명사형 locatio에서 왔어요. 원래는 '배치하기, 임대하기'라는 뜻이었다가 '놓인 자리, 위치'로 뜻이 바뀌었답니다. 영화계에서는 세트장이 아닌 실제 장소에서 찍는 것을 'on location'이라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "local",
+   "pos": "형용사",
+   "meaning": "지역의, 현지의",
+   "en": "The local news reported heavy rain.",
+   "ko": "지역 뉴스에서 폭우 소식을 전했어요."
+  },
+  {
+   "word": "located",
+   "pos": "형용사",
+   "meaning": "위치한",
+   "en": "Our school is located on a small hill.",
+   "ko": "우리 학교는 작은 언덕 위에 있어요."
+  },
+  {
+   "word": "locate",
+   "pos": "동사",
+   "meaning": "위치를 찾아내다, 위치시키다",
+   "en": "The app helps you locate the nearest bus stop.",
+   "ko": "그 앱은 가장 가까운 버스 정류장을 찾도록 도와줘요."
+  },
+  {
+   "word": "allocate",
+   "pos": "동사",
+   "meaning": "할당하다, 배분하다",
+   "en": "The school allocated more money to the library.",
+   "ko": "학교는 도서관에 더 많은 예산을 배정했어요."
+  },
+  {
+   "word": "relocate",
+   "pos": "동사",
+   "meaning": "이전하다, 이사하다",
+   "en": "The company decided to relocate to Busan.",
+   "ko": "그 회사는 부산으로 이전하기로 결정했어요."
+  },
+  {
+   "word": "locally",
+   "pos": "부사",
+   "meaning": "지역에서, 현지에서",
+   "en": "These vegetables are grown locally.",
+   "ko": "이 채소들은 이 지역에서 재배된 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 스마트폰 지도에서 깜빡이는 '현재 위치' 파란 점",
+ "imageCaption": "지도 위에서 깜빡이는 내 파란 점을 떠올려 보세요. '지금 내가 놓인 곳'이 location이에요.",
+ "movieLineEn": "Send me your location. I'm coming to get you.",
+ "movieLineKo": "네 위치 보내. 내가 데리러 갈게.",
+ "storyTitle": "위치 공유의 비극",
+ "story": "민지는 엄마에게 location(위치)을 공유하며 \"도서관에서 공부 중!\"이라고 보냈어요. 엄마는 딸이 located(위치한) 곳을 확인했죠. 지도에 뜬 곳은 local(동네의) 노래방! 엄마의 답장이 왔어요. \"locate(찾아내다) 완료. 지금 relocate(이동하다)하렴.\""
+}

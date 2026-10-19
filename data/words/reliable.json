@@ -1,0 +1,81 @@
+{
+ "word": "reliable",
+ "pos": "형용사",
+ "phonetic": "[rɪˈlaɪəbl]",
+ "meaning": "믿을 수 있는, 신뢰할 만한, 확실한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 단단히 (back)",
+   "note": "뒤에서 꽉 붙들어 맨다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "li (← 라틴어 ligare)",
+   "meaning": "묶다 (bind)",
+   "note": "rely는 고대 프랑스어 relier(다시 묶다)를 거쳐 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는 (형용사)",
+   "note": "rely(의지하다)에 붙어 '의지할 수 있는'이 돼요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (단단히) + <strong>li</strong> (묶다) + <strong>-able</strong> (~할 수 있는) = 꽉 묶어 기댈 수 있는, 즉 <strong>'믿을 수 있는'</strong>이에요.",
+ "historyTitle": "밧줄로 단단히 묶인 믿음",
+ "historyBody": "rely는 고대 프랑스어 relier(다시 묶다, 결속하다)에서 왔고, 그 뿌리는 라틴어 religare(단단히 묶다)예요. 단단히 묶여 있으니 마음 놓고 기댈 수 있다는 뜻에서 '의지하다'가 되었어요. reliable은 rely에 -able이 붙은 말로 16세기쯤 등장했답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rely",
+   "pos": "동사",
+   "meaning": "의지하다, 믿다",
+   "en": "You can always rely on your true friends.",
+   "ko": "진정한 친구에게는 언제나 의지할 수 있어요."
+  },
+  {
+   "word": "reliance",
+   "pos": "명사",
+   "meaning": "의존, 신뢰",
+   "en": "Our reliance on smartphones keeps growing.",
+   "ko": "스마트폰에 대한 우리의 의존은 계속 커지고 있어요."
+  },
+  {
+   "word": "reliability",
+   "pos": "명사",
+   "meaning": "신뢰도, 믿음직함",
+   "en": "The reliability of the data is very important.",
+   "ko": "데이터의 신뢰도는 매우 중요해요."
+  },
+  {
+   "word": "unreliable",
+   "pos": "형용사",
+   "meaning": "믿을 수 없는",
+   "en": "Information from that website is often unreliable.",
+   "ko": "그 웹사이트의 정보는 종종 믿을 수 없어요."
+  },
+  {
+   "word": "oblige",
+   "pos": "동사",
+   "meaning": "의무를 지우다, 돕다",
+   "en": "The law obliges drivers to wear seat belts.",
+   "ko": "법은 운전자에게 안전벨트 착용을 의무화해요."
+  },
+  {
+   "word": "obligation",
+   "pos": "명사",
+   "meaning": "의무",
+   "en": "We have an obligation to protect the environment.",
+   "ko": "우리는 환경을 보호할 의무가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비가 와도 매일 같은 시간에 도착하는 든든한 버스",
+ "imageCaption": "언제 불러도 달려오는 친구, 한 번도 고장 나지 않는 알람시계를 떠올려 보세요. 단단히 믿고 기댈 수 있는 게 reliable이에요.",
+ "movieLineEn": "He's not fast, but he's reliable.",
+ "movieLineKo": "그는 빠르진 않지만, 믿을 만해.",
+ "storyTitle": "믿음직한 알람의 배신",
+ "story": "나는 늘 휴대폰 알람에 rely(의지하다)했어요. 3년 동안 한 번도 unreliable(믿을 수 없는)한 적 없는 정말 reliable(믿을 수 있는) 알람이었죠. 그 reliability(신뢰도)를 믿고 수능 모의고사 전날 푹 잤어요. 그런데 알람이 울리지 않았어요. 알고 보니 알람은 정확했어요. 내가 휴대폰을 냉장고에 넣어 뒀던 거예요."
+}

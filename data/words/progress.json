@@ -1,0 +1,68 @@
+{
+ "word": "progress",
+ "pos": "명사 / 동사",
+ "phonetic": "[명 ˈprɑːɡres / 동 prəˈɡres]",
+ "meaning": "진보, 발전, 진행 / 나아가다, 진보하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞으로 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gress",
+   "meaning": "걷다, 나아가다 (step, walk)",
+   "note": "라틴어 gradi(걷다)의 과거분사 gressus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>gress</strong> (걷다) = '앞으로 걸어감'이라는 뜻에서 <strong>'진보, 발전'</strong>이 되었어요.",
+ "historyTitle": "한 걸음씩 앞으로",
+ "historyBody": "라틴어 progressus는 '앞으로 나아감'이라는 뜻이었어요. 15세기 영어에서는 왕의 '순방 여행'을 뜻하기도 했어요. 지금의 '사회나 실력의 발전'이라는 의미는 17세기 이후에 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "progressive",
+   "pos": "형용사",
+   "meaning": "진보적인, 점진적인",
+   "en": "The city has a progressive plan for clean energy.",
+   "ko": "그 도시는 청정에너지를 위한 진보적인 계획을 갖고 있어요."
+  },
+  {
+   "word": "aggressive",
+   "pos": "형용사",
+   "meaning": "공격적인",
+   "en": "The dog became aggressive when strangers came near.",
+   "ko": "낯선 사람이 다가오자 그 개는 공격적으로 변했어요."
+  },
+  {
+   "word": "congress",
+   "pos": "명사",
+   "meaning": "의회, 회의",
+   "en": "Congress passed a new law yesterday.",
+   "ko": "의회는 어제 새 법을 통과시켰어요."
+  },
+  {
+   "word": "grade",
+   "pos": "명사",
+   "meaning": "학년, 등급, 성적",
+   "en": "She is in the second grade of high school.",
+   "ko": "그녀는 고등학교 2학년이에요."
+  },
+  {
+   "word": "gradual",
+   "pos": "형용사",
+   "meaning": "점진적인",
+   "en": "There was a gradual change in the weather.",
+   "ko": "날씨에 점진적인 변화가 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 계단을 한 칸씩 올라가며 깃발에 가까워지는 사람",
+ "imageCaption": "발걸음이 앞으로 하나씩 찍히는 모습을 떠올리면 progress예요.",
+ "movieLineEn": "We're making progress! Keep going!",
+ "movieLineKo": "진전이 있어! 계속 가!",
+ "storyTitle": "거북이의 발전",
+ "story": "거북이는 매일 1센티미터씩 progress(나아가다)했어요. 아주 gradual(점진적인) 발전이었죠. aggressive(공격적인) 토끼가 비웃었지만 거북이는 progressive(점진적인) 훈련을 계속했어요. 1년 뒤 거북이는 드디어 grade(등급) 시험에서 '느림보 탈출'을 받았는데, 토끼는 그동안 낮잠만 잤답니다!"
+}

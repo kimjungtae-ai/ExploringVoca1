@@ -1,0 +1,55 @@
+{
+ "word": "string",
+ "pos": "명사 / 동사",
+ "phonetic": "[strɪŋ]",
+ "meaning": "끈, 줄, (악기의) 현, 일련 / 줄에 꿰다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "string (streng)",
+   "meaning": "끈, 줄 (cord)",
+   "note": "고대 영어 streng에서 온 게르만계 단어로, strong(강한)과 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>string</strong>은 '팽팽하고 질긴 것'이라는 뜻에서 <strong>'끈, 줄'</strong>이 되었어요.",
+ "historyTitle": "강하고 팽팽한 줄",
+ "historyBody": "string은 고대 영어 streng(끈, 줄)에서 왔어요. 이 말은 게르만어 *strangiz에서 나왔는데, 이는 strong(강한)과 같은 뿌리예요. 줄은 팽팽하게 당겨져 '강하게' 버티는 것이니까요. 비슷하게 생긴 strict(엄격한)는 라틴어에서 온 말이라 뿌리가 다르답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "strong",
+   "pos": "형용사",
+   "meaning": "강한, 튼튼한",
+   "en": "You need strong legs to climb this mountain.",
+   "ko": "이 산을 오르려면 튼튼한 다리가 필요해요."
+  },
+  {
+   "word": "strength",
+   "pos": "명사",
+   "meaning": "힘, 강점",
+   "en": "Patience is one of her greatest strengths.",
+   "ko": "인내심은 그녀의 가장 큰 강점 중 하나예요."
+  },
+  {
+   "word": "stringed",
+   "pos": "형용사",
+   "meaning": "현이 있는",
+   "en": "The violin is a stringed instrument.",
+   "ko": "바이올린은 현악기예요."
+  },
+  {
+   "word": "strings",
+   "pos": "명사",
+   "meaning": "(악기의) 현, 조건",
+   "en": "There are no strings attached to this gift.",
+   "ko": "이 선물에는 아무 조건도 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 연이 하늘 높이 날 때 손에 쥔 팽팽한 줄",
+ "imageCaption": "바람에 날아오른 연과, 그 연을 붙잡고 있는 팽팽한 줄을 떠올려 보세요.",
+ "movieLineEn": "Pull the string, and the trap will close.",
+ "movieLineKo": "줄을 당기면 덫이 닫힐 거야.",
+ "storyTitle": "줄 하나의 기적",
+ "story": "기타 줄이 끊어진 날, 나는 콘서트를 포기하려 했어요. 그런데 할머니가 털실 string(줄)을 건네셨죠. \"네 strength(강점)는 노래잖니!\" 나는 strong(강한) 마음으로 stringed(현이 있는) 기타 대신 목소리로 무대를 채웠어요. 관객이 기립 박수를 쳤죠. 그날의 주제곡은 '털실 블루스'였답니다."
+}

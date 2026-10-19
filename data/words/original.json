@@ -1,0 +1,68 @@
+{
+ "word": "original",
+ "pos": "형용사 / 명사",
+ "phonetic": "[əˈrɪdʒənl]",
+ "meaning": "원래의, 독창적인 / 원본",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "origin",
+   "meaning": "기원, 근원 (origin)",
+   "note": "라틴어 oriri(떠오르다)에서 온 origo가 바탕이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "명사를 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>origin</strong> (기원) + <strong>-al</strong> (~의) = '처음 시작된 그대로의'라는 뜻에서 <strong>'원래의, 독창적인'</strong>이 되었어요.",
+ "historyTitle": "떠오르는 해에서 시작된 말",
+ "historyBody": "라틴어 originalis는 '처음의, 시작의'라는 뜻이었어요. 14세기 영어에서는 주로 '원래의'라는 뜻으로 쓰였고, 18세기에 '남을 따라 하지 않은, 독창적인'이라는 뜻이 더해졌어요. 처음 생겨난 것은 복사본이 아니니 '원본'이라는 뜻도 자연스럽게 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "origin",
+   "pos": "명사",
+   "meaning": "기원, 출신",
+   "en": "Scientists are still studying the origin of the universe.",
+   "ko": "과학자들은 여전히 우주의 기원을 연구하고 있어요."
+  },
+  {
+   "word": "originate",
+   "pos": "동사",
+   "meaning": "비롯되다, 시작되다",
+   "en": "This tradition originated in a small village in Italy.",
+   "ko": "이 전통은 이탈리아의 작은 마을에서 비롯되었어요."
+  },
+  {
+   "word": "originality",
+   "pos": "명사",
+   "meaning": "독창성",
+   "en": "The judges praised the originality of her design.",
+   "ko": "심사위원들은 그녀의 디자인이 독창적이라고 칭찬했어요."
+  },
+  {
+   "word": "orient",
+   "pos": "동사 / 명사",
+   "meaning": "방향을 잡다, 적응시키다 / 동양 (해 뜨는 곳)",
+   "en": "New students attend a program to orient themselves to school life.",
+   "ko": "신입생들은 학교생활에 적응하기 위한 프로그램에 참여해요."
+  },
+  {
+   "word": "aboriginal",
+   "pos": "형용사",
+   "meaning": "원주민의, 토착의",
+   "en": "The museum displays aboriginal art from Australia.",
+   "ko": "그 박물관은 호주 원주민의 미술품을 전시해요."
+  }
+ ],
+ "imageSense": "대표 의미: 미술관에 걸린 진짜 원본 그림과 그 앞의 복사본들",
+ "imageCaption": "수많은 복사본 사이에서 단 하나뿐인 진짜 그림을 떠올려 보세요. 처음 그대로인 것, 그게 original이에요.",
+ "movieLineEn": "This isn't a copy. It's the original, and it's priceless.",
+ "movieLineKo": "이건 복사본이 아니야. 원본이고, 값을 매길 수 없지.",
+ "storyTitle": "진짜 원본은 어디에?",
+ "story": "미술 시간에 지우는 모나리자를 original(원본)처럼 따라 그렸어요. 선생님은 originality(독창성)가 없다고 하셨죠. 그래서 그림의 origin(기원)부터 공부해 새 작품을 만들었어요. 그런데 완성작을 보니 모나리자가 지우를 따라 그린 것처럼 똑같았답니다."
+}

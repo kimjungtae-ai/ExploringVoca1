@@ -1,0 +1,67 @@
+{
+ "word": "announcement",
+ "pos": "명사",
+ "phonetic": "[əˈnaʊnsmənt]",
+ "meaning": "발표, 공고, 공지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "an-",
+   "meaning": "~에게 (to)",
+   "note": "ad-가 n 앞에서 an-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nounce",
+   "meaning": "알리다, 전하다 (report)",
+   "note": "라틴어 nuntiare(알리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>an-</strong> (~에게) + <strong>nounce</strong> (알리다) + <strong>-ment</strong> = '사람들에게 알리는 것'에서 <strong>'발표, 공지'</strong>가 되었어요.",
+ "historyTitle": "소식을 들고 달리던 로마의 전령",
+ "historyBody": "라틴어 nuntius는 '소식을 전하는 사람, 전령'이었고, nuntiare는 '알리다'였어요. 여기에 ad(~에게)가 붙은 annuntiare가 고대 프랑스어 anoncier를 거쳐 영어 announce가 되었어요. 같은 뿌리의 pronounce는 '앞으로(pro) 소리 내어 알리다', 즉 발음하다예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "announce",
+   "pos": "동사",
+   "meaning": "발표하다, 알리다",
+   "en": "The company announced a new smartphone.",
+   "ko": "그 회사는 새 스마트폰을 발표했어요."
+  },
+  {
+   "word": "announcer",
+   "pos": "명사",
+   "meaning": "아나운서",
+   "en": "The announcer called my name at the ceremony.",
+   "ko": "아나운서가 식에서 내 이름을 불렀어요."
+  },
+  {
+   "word": "pronounce",
+   "pos": "동사",
+   "meaning": "발음하다",
+   "en": "It is hard to pronounce some French words.",
+   "ko": "몇몇 프랑스어 단어는 발음하기 어려워요."
+  },
+  {
+   "word": "pronunciation",
+   "pos": "명사",
+   "meaning": "발음",
+   "en": "Listening to songs can improve your pronunciation.",
+   "ko": "노래를 들으면 발음이 좋아질 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 게시판에 붙은 공지문과 스피커에서 나오는 안내 방송",
+ "imageCaption": "모두에게 알리려고 '딩동댕~' 울리는 교내 방송을 떠올려 보세요.",
+ "movieLineEn": "Attention, everyone! I have an important announcement.",
+ "movieLineKo": "모두 주목! 중요한 발표가 있다.",
+ "storyTitle": "고양이의 깜짝 발표",
+ "story": "우리 집 고양이가 갑자기 식탁 위에 올라갔어요. 마치 announcer(아나운서)처럼 '야옹!' 하고 announce(발표하다)했죠. 가족들은 그 announcement(발표)의 뜻을 몰라 고민했어요. 정답은 금방 나왔어요. 사료 그릇이 텅 비어 있었거든요. 그 '야옹'의 pronunciation(발음)은 '밥 줘'였어요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "popular",
+ "pos": "형용사",
+ "phonetic": "[ˈpɑːpjələr]",
+ "meaning": "인기 있는, 대중적인, 일반적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "popul",
+   "meaning": "사람들, 민중 (people)",
+   "note": "라틴어 populus(백성, 민중)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "명사를 형용사로 만들어요."
+  }
+ ],
+ "summary": "<strong>popul</strong> (사람들) + <strong>-ar</strong> (~의) = 사람들의, 사람들이 좋아하는, 곧 <strong>'인기 있는, 대중적인'</strong>이에요.",
+ "historyTitle": "로마 민중의 목소리",
+ "historyBody": "popular는 라틴어 popularis(민중의, 백성에 속한)에서 왔고, 뿌리는 populus(백성)예요. 처음 영어에서는 '일반 백성의'라는 뜻이었고, 1600년대부터 '많은 사람이 좋아하는'이라는 뜻이 되었어요. 같은 populus가 프랑스어를 거쳐 영어 people이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "people",
+   "pos": "명사",
+   "meaning": "사람들",
+   "en": "Many people visit the museum on weekends.",
+   "ko": "주말에는 많은 사람이 박물관을 찾아요."
+  },
+  {
+   "word": "population",
+   "pos": "명사",
+   "meaning": "인구",
+   "en": "The population of the city is growing fast.",
+   "ko": "그 도시의 인구가 빠르게 늘고 있어요."
+  },
+  {
+   "word": "popularity",
+   "pos": "명사",
+   "meaning": "인기",
+   "en": "The singer's popularity grew after the show.",
+   "ko": "그 쇼 이후 가수의 인기가 높아졌어요."
+  },
+  {
+   "word": "populate",
+   "pos": "동사",
+   "meaning": "거주하다, 살다",
+   "en": "Small farming villages populate the valley.",
+   "ko": "골짜기에는 작은 농촌 마을들이 자리 잡고 있어요."
+  },
+  {
+   "word": "populous",
+   "pos": "형용사",
+   "meaning": "인구가 많은",
+   "en": "India is one of the most populous countries.",
+   "ko": "인도는 인구가 가장 많은 나라 중 하나예요."
+  }
+ ],
+ "imageSense": "대표 의미: 인기 가수 앞에 몰려든 사람들",
+ "imageCaption": "한 사람 주변으로 사람들이 우르르 몰려드는 장면을 떠올려 보세요. 사람(popul)들이 좋아하는 거예요.",
+ "movieLineEn": "Being popular is not the same as being happy.",
+ "movieLineKo": "인기 있는 것과 행복한 건 같은 게 아니야.",
+ "storyTitle": "인기 투표의 반전",
+ "story": "우리 반에서 가장 popular(인기 있는) 사람을 뽑는 투표가 열렸어요. 반 population(인구)은 30명! 다들 축구부 주장의 popularity(인기)를 예상했죠. 그런데 결과는 29표로 급식 아주머니 당선! people(사람들)은 역시 맛있는 밥 앞에서 솔직했어요. 나머지 한 표는 주장 본인 표였대요."
+}

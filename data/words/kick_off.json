@@ -1,0 +1,68 @@
+{
+ "word": "kick off",
+ "pos": "구동사",
+ "phonetic": "[kɪk ˈɔːf]",
+ "meaning": "시작하다, (축구) 경기를 시작하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "kick",
+   "meaning": "차다 (kick)",
+   "note": "공을 '뻥 차는' 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "off",
+   "meaning": "떨어져, 출발하여 (off)",
+   "note": "출발점에서 '떨어져 나가며 시작한다'는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>kick</strong> (차다) + <strong>off</strong> (출발하여) = '공을 차서 경기를 출발시키다'에서 <strong>'시작하다'</strong>",
+ "historyTitle": "축구 경기의 첫 킥",
+ "historyBody": "kick off는 19세기 축구에서 경기를 시작하며 공을 처음 차는 것을 가리키는 말이었어요. 여기서 명사 kickoff(경기 시작)도 생겼죠. 20세기 들어 '행사나 일을 시작하다'라는 뜻으로 넓어졌어요. kick 자체의 기원은 확실하지 않아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "kickoff",
+   "pos": "명사",
+   "meaning": "시작, 킥오프",
+   "en": "The kickoff is at 7 p.m.",
+   "ko": "경기 시작은 저녁 7시야."
+  },
+  {
+   "word": "start off",
+   "pos": "구동사",
+   "meaning": "시작하다",
+   "en": "Let's start off with a short quiz.",
+   "ko": "간단한 퀴즈로 시작해 보자."
+  },
+  {
+   "word": "set off",
+   "pos": "구동사",
+   "meaning": "출발하다",
+   "en": "We set off for the mountain at dawn.",
+   "ko": "우리는 새벽에 산으로 출발했어."
+  },
+  {
+   "word": "launch",
+   "pos": "동사",
+   "meaning": "시작하다, 출시하다",
+   "en": "The company launched a new phone.",
+   "ko": "그 회사는 새 휴대폰을 출시했어."
+  },
+  {
+   "word": "get started",
+   "pos": "숙어",
+   "meaning": "시작하다",
+   "en": "Let's get started on the project.",
+   "ko": "프로젝트를 시작하자."
+  }
+ ],
+ "imageSense": "대표 의미: 축구 경기 시작 휘슬과 함께 공을 차는 장면",
+ "imageCaption": "휘슬이 울리자 중앙선에서 공을 '뻥' 차며 경기가 시작되는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let's kick off this party with some music!",
+ "movieLineKo": "음악으로 이 파티를 시작해 보자!",
+ "storyTitle": "축제 개막식",
+ "story": "학교 축제를 kick off(시작하다) 하려고 교장 선생님이 공을 차기로 했어요. 모두 kickoff(킥오프)를 기다렸죠. 교장 선생님이 힘껏 start off(시작하다) 했는데, 공 대신 구두가 날아갔어요! 구두는 무대 위 징을 '쾅' 쳤고, 모두 그게 개막 신호인 줄 알았죠. 축제는 완벽하게 launch(시작하다) 되었답니다."
+}

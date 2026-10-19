@@ -1,0 +1,61 @@
+{
+ "word": "facility",
+ "pos": "명사",
+ "phonetic": "[fəˈsɪləti]",
+ "meaning": "시설, 설비, 편의, 재능",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "facil",
+   "meaning": "쉬운 (easy)",
+   "note": "라틴어 facilis(하기 쉬운)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~함, ~성 (명사형)",
+   "note": "형용사를 '그런 성질'이라는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>facil</strong> (쉬운) + <strong>-ity</strong> (성질) = '일을 쉽게 해 주는 것'에서 <strong>'시설, 편의, 재능'</strong>이 되었어요.",
+ "historyTitle": "쉬움에서 시설로 변한 단어",
+ "historyBody": "라틴어 facilitas는 '쉬움, 능숙함'이라는 뜻이었어요. 그래서 영어 facility도 처음엔 '쉽게 해내는 능력, 재능'을 뜻했죠. 20세기 들어 '일을 쉽게 해 주는 장소나 설비', 즉 '시설'이라는 뜻이 아주 흔해졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "facilitate",
+   "pos": "동사",
+   "meaning": "용이하게 하다, 촉진하다",
+   "en": "Clear rules facilitate teamwork in a club.",
+   "ko": "분명한 규칙은 동아리의 팀워크를 쉽게 만들어 줘요."
+  },
+  {
+   "word": "facilitator",
+   "pos": "명사",
+   "meaning": "진행자, 촉진자",
+   "en": "Our class facilitator kept the discussion on track.",
+   "ko": "우리 반 진행자는 토론이 주제에서 벗어나지 않게 했어요."
+  },
+  {
+   "word": "difficult",
+   "pos": "형용사",
+   "meaning": "어려운",
+   "en": "It is difficult to wake up early in winter.",
+   "ko": "겨울에는 일찍 일어나기가 어려워요."
+  },
+  {
+   "word": "difficulty",
+   "pos": "명사",
+   "meaning": "어려움",
+   "en": "She overcame many difficulties to become a doctor.",
+   "ko": "그녀는 많은 어려움을 이겨내고 의사가 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 수영장, 도서관, 체육관이 갖춰진 깔끔한 건물",
+ "imageCaption": "사람들이 편하게 운동하고 공부하도록 '쉽게 해 주는' 건물을 떠올리세요. 그게 facility예요.",
+ "movieLineEn": "Welcome to our secret research facility. Please don't touch anything.",
+ "movieLineKo": "우리 비밀 연구 시설에 오신 걸 환영합니다. 아무것도 만지지 마세요.",
+ "storyTitle": "최첨단 시설의 반전",
+ "story": "우리 학교에 최첨단 facility(시설)가 생겼어요! 공부를 facilitate(용이하게 하다)한다는 AI 독서실이래요. facilitator(진행자) 로봇이 difficult(어려운) 문제를 척척 설명해 줬죠. 아무 difficulty(어려움)도 없을 줄 알았는데, 로봇이 자꾸 졸았어요. 알고 보니 충전기가 우리 집 거였답니다."
+}

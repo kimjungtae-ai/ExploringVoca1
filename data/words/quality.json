@@ -1,0 +1,54 @@
+{
+ "word": "quality",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈkwɑːləti]",
+ "meaning": "질, 품질, 자질, 특성 / 고급의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "qual",
+   "meaning": "어떤 종류의 (of what kind)",
+   "note": "라틴어 qualis(어떤 종류의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~함, ~성 (명사)",
+   "note": "형용사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>qual</strong> (어떤 종류의) + <strong>-ity</strong> (~성) = '어떤 종류인가 하는 성질'이라는 뜻에서 <strong>'질, 특성'</strong>이 되었어요.",
+ "historyTitle": "키케로가 만든 철학 용어",
+ "historyBody": "라틴어 qualitas는 로마의 웅변가 키케로가 그리스 철학 용어 poiotes(어떤 성질)를 번역하려고 만든 말이에요. qualis(어떤 종류의)를 바탕으로 했지요. 13세기 프랑스어를 거쳐 영어에 들어왔고, '좋은 품질'이라는 뜻은 나중에 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "qualify",
+   "pos": "동사",
+   "meaning": "자격을 얻다, 자격을 주다",
+   "en": "She qualified for the national team.",
+   "ko": "그녀는 국가대표 자격을 얻었어요."
+  },
+  {
+   "word": "qualification",
+   "pos": "명사",
+   "meaning": "자격, 자격증",
+   "en": "What qualifications do you need for this job?",
+   "ko": "이 일에는 어떤 자격이 필요한가요?"
+  },
+  {
+   "word": "qualified",
+   "pos": "형용사",
+   "meaning": "자격이 있는",
+   "en": "He is a qualified nurse.",
+   "ko": "그는 자격을 갖춘 간호사예요."
+  }
+ ],
+ "imageSense": "대표 의미: 장인이 돋보기로 제품을 꼼꼼히 살피는 장면",
+ "imageCaption": "'이건 어떤 종류의 물건일까?' 하고 품질을 따져 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "It's not about quantity. It's about quality.",
+ "movieLineKo": "양이 문제가 아니야. 질이 중요하지.",
+ "storyTitle": "품질 검사관 강아지",
+ "story": "빵집 강아지는 빵의 quality(품질)를 검사하는 qualified(자격이 있는) 직원이 되고 싶었어요. qualification(자격) 시험은 냄새 맡기였죠. 강아지는 1등으로 qualify(자격을 얻다)했어요! 그런데 첫 출근 날, 검사할 빵을 모두 먹어 버려서 '시식 담당'으로 옮겨졌답니다!"
+}

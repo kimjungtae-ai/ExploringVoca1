@@ -1,0 +1,74 @@
+{
+ "word": "departure",
+ "pos": "명사",
+ "phonetic": "[dɪˈpɑːrtʃər]",
+ "meaning": "출발, 떠남, 벗어남",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져 (away)",
+   "note": "원래 자리에서 멀어지는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "part",
+   "meaning": "나누다, 부분 (divide, part)",
+   "note": "라틴어 partire(나누다), pars(부분)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 행위 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (떨어져) + <strong>part</strong> (나누다) + <strong>-ure</strong> = '갈라져 떠나감'에서 <strong>'출발, 떠남'</strong>이 되었어요.",
+ "historyTitle": "'나뉘다'가 '떠나다'가 되기까지",
+ "historyBody": "depart는 고대 프랑스어 departir(나누다, 헤어지다)에서 왔고, 뿌리는 라틴어 pars(부분)예요. 함께 있던 사람들이 둘로 나뉘면 한쪽은 떠나게 되죠. 그래서 '헤어지다'가 '출발하다'가 되었고, departure는 그 명사예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "depart",
+   "pos": "동사",
+   "meaning": "출발하다, 떠나다",
+   "en": "The train departs at seven sharp.",
+   "ko": "기차는 7시 정각에 출발해요."
+  },
+  {
+   "word": "part",
+   "pos": "명사",
+   "meaning": "부분, 역할",
+   "en": "The best part of the trip was the food.",
+   "ko": "여행의 가장 좋은 부분은 음식이었어요."
+  },
+  {
+   "word": "partial",
+   "pos": "형용사",
+   "meaning": "부분적인, 편파적인",
+   "en": "The plan was only a partial success.",
+   "ko": "그 계획은 부분적인 성공에 그쳤어요."
+  },
+  {
+   "word": "particular",
+   "pos": "형용사",
+   "meaning": "특정한, 특별한",
+   "en": "Is there a particular book you want?",
+   "ko": "특별히 원하는 책이 있나요?"
+  },
+  {
+   "word": "department",
+   "pos": "명사",
+   "meaning": "부서, 학과",
+   "en": "She works in the sales department.",
+   "ko": "그녀는 영업 부서에서 일해요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항 출발 게이트에서 손을 흔들며 비행기에 오르는 장면",
+ "imageCaption": "공항 전광판의 'Departures(출발)' 글자를 떠올려 보세요.",
+ "movieLineEn": "Our departure cannot wait any longer. We leave tonight!",
+ "movieLineKo": "출발을 더는 미룰 수 없어. 오늘 밤 떠난다!",
+ "storyTitle": "출발 게이트의 대반전",
+ "story": "수학여행 departure(출발) 날, 반장은 버스가 depart(출발하다)하기 전에 인원을 셌어요. particular(특정한) 한 명이 없었죠. 모두 department(부서)별로 흩어져 찾았는데, 그 친구는 버스 트렁크 part(부분)에서 자고 있었대요!"
+}

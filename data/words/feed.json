@@ -1,0 +1,55 @@
+{
+ "word": "feed",
+ "pos": "동사 / 명사",
+ "phonetic": "[fiːd]",
+ "meaning": "먹이를 주다, 먹여 살리다, (정보를) 공급하다 / 먹이, 사료",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "feed",
+   "meaning": "음식을 주다 (give food)",
+   "note": "고대 영어 fedan에서 왔고, food(음식)와 같은 집안이에요."
+  }
+ ],
+ "summary": "<strong>feed</strong> (음식 food를 주다) = food의 동사 짝꿍으로 <strong>'먹이를 주다'</strong>가 되었습니다.",
+ "historyTitle": "food와 feed는 형제 단어",
+ "historyBody": "feed는 고대 영어 fedan에서 왔는데, 이는 food의 고대 영어형 foda와 같은 게르만어 뿌리에서 나왔어요. 모음을 바꿔 명사(food)에서 동사(feed)를 만든 거예요. blood-bleed처럼 영어에는 이런 모음 바꾸기 짝이 여럿 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "food",
+   "pos": "명사",
+   "meaning": "음식",
+   "en": "We shared homemade food with our new neighbors.",
+   "ko": "우리는 새 이웃과 집에서 만든 음식을 나눠 먹었어요."
+  },
+  {
+   "word": "fodder",
+   "pos": "명사",
+   "meaning": "(가축의) 사료, 꼴",
+   "en": "The farmer stored fodder for the cows before winter.",
+   "ko": "농부는 겨울이 오기 전에 소에게 줄 사료를 저장했어요."
+  },
+  {
+   "word": "feedback",
+   "pos": "명사",
+   "meaning": "피드백, 의견",
+   "en": "Thanks to my teacher's feedback, my essay got much better.",
+   "ko": "선생님의 피드백 덕분에 내 에세이가 훨씬 좋아졌어요."
+  },
+  {
+   "word": "foster",
+   "pos": "동사",
+   "meaning": "기르다, 육성하다",
+   "en": "Reading together can foster a love of books in children.",
+   "ko": "함께 책을 읽으면 아이들의 책 사랑을 키울 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이가 공원에서 오리에게 빵 부스러기를 주는 장면",
+ "imageCaption": "꽥꽥 몰려든 오리들에게 손바닥 위 food를 나눠 주는 모습이 바로 feed예요.",
+ "movieLineEn": "Don't feed the dragon after midnight!",
+ "movieLineKo": "자정 이후엔 용한테 먹이 주지 마!",
+ "storyTitle": "고양이에게 받은 피드백",
+ "story": "지민이는 매일 고양이에게 food(음식)를 feed(먹이를 주다)했어요. 어느 날 비싼 fodder(사료)를 샀더니 고양이가 고개를 돌렸죠. 고양이의 feedback(피드백)을 존중해 다시 원래 사료를 줬어요. 그런데 다음 날 아침, 고양이가 지민이 침대 위에 생선 한 마리를 놓고 갔어요. 고양이도 지민이를 foster(돌보다)하고 싶었나 봐요!"
+}

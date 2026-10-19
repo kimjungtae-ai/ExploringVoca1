@@ -1,0 +1,74 @@
+{
+ "word": "upcoming",
+ "pos": "형용사",
+ "phonetic": "[ˈʌpkʌmɪŋ]",
+ "meaning": "다가오는, 곧 있을",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "up-",
+   "meaning": "위로, 완전히 (up)",
+   "note": "위쪽 방향이나 '끝까지, 완전히'라는 느낌을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "come",
+   "meaning": "오다 (come)",
+   "note": "고대 영어 cuman(오다)에서 온 순수 영어 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하고 있는 (형용사형)",
+   "note": "지금 진행 중인 모습을 나타내요."
+  }
+ ],
+ "summary": "<strong>up</strong> (위로, 가까이) + <strong>come</strong> (오다) + <strong>-ing</strong> = 가까이 다가오고 있는, 즉 <strong>'곧 있을, 다가오는'</strong>이 되었어요.",
+ "historyTitle": "다가오는 것을 그린 순수 영어",
+ "historyBody": "come은 고대 영어 'cuman(오다)'에서 온 아주 오래된 게르만어 단어예요. 'come up(다가오다, 생기다)'이라는 표현이 형용사로 굳어 upcoming이 되었고, 19세기 무렵부터 '곧 있을'이라는 뜻으로 많이 쓰였어요. 오늘날에는 'upcoming event(곧 있을 행사)'처럼 아주 흔하게 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "come",
+   "pos": "동사",
+   "meaning": "오다",
+   "en": "Can you come to my house this weekend?",
+   "ko": "이번 주말에 우리 집에 올 수 있어?"
+  },
+  {
+   "word": "income",
+   "pos": "명사",
+   "meaning": "수입, 소득",
+   "en": "Her monthly income increased after she changed jobs.",
+   "ko": "직장을 옮긴 뒤 그녀의 월 소득이 늘었어요."
+  },
+  {
+   "word": "outcome",
+   "pos": "명사",
+   "meaning": "결과",
+   "en": "Nobody could predict the outcome of the game.",
+   "ko": "아무도 그 경기의 결과를 예측할 수 없었어요."
+  },
+  {
+   "word": "overcome",
+   "pos": "동사",
+   "meaning": "극복하다",
+   "en": "She worked hard to overcome her fear of water.",
+   "ko": "그녀는 물에 대한 두려움을 극복하려고 열심히 노력했어요."
+  },
+  {
+   "word": "become",
+   "pos": "동사",
+   "meaning": "~이 되다",
+   "en": "He wants to become a doctor someday.",
+   "ko": "그는 언젠가 의사가 되고 싶어 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력에 동그라미 친 다음 주 시험 날짜",
+ "imageCaption": "달력에 빨갛게 동그라미 친 날이 점점 가까이 다가오는 모습을 떠올려 보세요.",
+ "movieLineEn": "Prepare yourselves for the upcoming battle!",
+ "movieLineKo": "곧 있을 전투에 대비하라!",
+ "storyTitle": "다가오는 시험의 공포",
+ "story": "upcoming(다가오는) 시험 때문에 준호는 잠을 못 잤어요. 시험의 outcome(결과)이 걱정됐거든요. 준호는 두려움을 overcome(극복하다)하기 위해 밤새 공부했죠. 그리고 시험 날, 자신감 넘치게 학교에 come(오다)했는데, 교문이 닫혀 있었어요. 시험은 다음 주였답니다!"
+}

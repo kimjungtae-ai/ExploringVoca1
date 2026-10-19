@@ -1,0 +1,81 @@
+{
+ "word": "aspiring",
+ "pos": "형용사",
+ "phonetic": "[əˈspaɪərɪŋ]",
+ "meaning": "장차 ~가 되려는, ~을 열망하는, 포부가 큰",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "a- (ad-)",
+   "meaning": "~을 향해 (toward)",
+   "note": "ad-가 s 앞에서 a-로 줄었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spir (spirare)",
+   "meaning": "숨 쉬다 (breathe)",
+   "note": "spirit, inspire와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (형용사형)",
+   "note": "현재분사로 '~하고 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>a-</strong> (~을 향해) + <strong>spir</strong> (숨 쉬다) + <strong>-ing</strong> = '목표를 향해 숨을 내쉬며 애쓰는'에서 <strong>'~가 되려는, 열망하는'</strong>이 되었어요.",
+ "historyTitle": "숨을 내쉬며 꿈을 향하다",
+ "historyBody": "aspire는 라틴어 'aspirare'에서 왔는데, ad-(~을 향해)와 'spirare(숨 쉬다)'가 합쳐진 말이에요. 무언가를 간절히 원하면 그쪽을 향해 숨을 몰아쉬게 된다는 느낌에서 '열망하다'라는 뜻이 생겼어요. 그래서 aspiring writer는 '작가 지망생'이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "aspire",
+   "pos": "동사",
+   "meaning": "열망하다, 갈망하다",
+   "en": "She aspires to become a doctor.",
+   "ko": "그녀는 의사가 되기를 열망해요."
+  },
+  {
+   "word": "aspiration",
+   "pos": "명사",
+   "meaning": "열망, 포부",
+   "en": "His aspiration is to travel the world.",
+   "ko": "그의 포부는 세계를 여행하는 거예요."
+  },
+  {
+   "word": "inspire",
+   "pos": "동사",
+   "meaning": "영감을 주다, 고무하다",
+   "en": "Her speech inspired many students.",
+   "ko": "그녀의 연설은 많은 학생에게 영감을 주었어요."
+  },
+  {
+   "word": "spirit",
+   "pos": "명사",
+   "meaning": "정신, 기운, 영혼",
+   "en": "The team showed great spirit in the final game.",
+   "ko": "그 팀은 결승전에서 대단한 투지를 보여 줬어요."
+  },
+  {
+   "word": "respiration",
+   "pos": "명사",
+   "meaning": "호흡",
+   "en": "Plants take in carbon dioxide through respiration and photosynthesis.",
+   "ko": "식물은 호흡과 광합성을 통해 이산화탄소를 주고받아요."
+  },
+  {
+   "word": "expire",
+   "pos": "동사",
+   "meaning": "만료되다, 끝나다",
+   "en": "My passport expires next month.",
+   "ko": "내 여권은 다음 달에 만료돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 방에서 밤늦게까지 노래 연습을 하는 가수 지망생",
+ "imageCaption": "작은 연습실에서 땀을 흘리며 데뷔를 꿈꾸는 연습생을 떠올려 보세요. 꿈을 향해 숨 가쁘게 달려가는 사람이 aspiring이에요.",
+ "movieLineEn": "Every aspiring hero needs a mentor. I'll be yours.",
+ "movieLineKo": "영웅을 꿈꾸는 모든 이에겐 스승이 필요하지. 내가 네 스승이 되어 주마.",
+ "storyTitle": "가수 지망생 앵무새",
+ "story": "aspiring(가수가 되려는) 앵무새 초코는 아이돌을 보며 inspire(영감을 받다)되었어요. 초코는 큰 aspiration(포부)을 품고 매일 respiration(호흡) 연습을 했죠. 마침내 오디션 날, 초코는 멋지게 노래했어요. 그런데 심사위원이 말했어요. '그건 우리 오디션 광고 노래잖아요!'"
+}

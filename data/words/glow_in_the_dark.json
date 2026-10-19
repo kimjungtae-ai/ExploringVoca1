@@ -1,0 +1,74 @@
+{
+ "word": "glow in the dark",
+ "pos": "형용사구 / 동사구",
+ "phonetic": "[ɡloʊ ɪn ðə dɑːrk]",
+ "meaning": "어둠 속에서 빛나다; 야광의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "glow",
+   "meaning": "은은하게 빛나다 (glow)",
+   "note": "불꽃 없이 은은하게 빛을 내는 모습이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 속에서 (in)",
+   "note": "어떤 환경 '안에서'를 나타내요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "dark",
+   "meaning": "어둠 (dark)",
+   "note": "빛이 없는 깜깜한 상태예요."
+  }
+ ],
+ "summary": "<strong>glow</strong> (은은하게 빛나다) + <strong>in the dark</strong> (어둠 속에서) = '어둠 속에서 은은하게 빛나는'이라서 <strong>'야광의'</strong>예요.",
+ "historyTitle": "불꽃 없이 빛나는 glow",
+ "historyBody": "glow는 고대 영어 glowan(빨갛게 달아오르다)에서 온 말로, 숯불처럼 불꽃 없이 은은하게 빛나는 것을 뜻해요. 형용사로 쓸 때는 glow-in-the-dark stars처럼 하이픈으로 연결해요. 야광 물질은 빛을 흡수했다가 어둠 속에서 천천히 내보내요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "glowing",
+   "pos": "형용사",
+   "meaning": "빛나는; 극찬하는",
+   "en": "She received glowing reviews for her book.",
+   "ko": "그녀는 책으로 극찬을 받았어요."
+  },
+  {
+   "word": "shine",
+   "pos": "동사",
+   "meaning": "빛나다",
+   "en": "The stars shine brightly tonight.",
+   "ko": "오늘 밤 별이 밝게 빛나요."
+  },
+  {
+   "word": "in the dark",
+   "pos": "숙어",
+   "meaning": "모르는, 깜깜한",
+   "en": "They kept me in the dark about the party.",
+   "ko": "그들은 파티에 대해 나에게 비밀로 했어요."
+  },
+  {
+   "word": "firefly",
+   "pos": "명사",
+   "meaning": "반딧불이",
+   "en": "Fireflies light up the summer night.",
+   "ko": "반딧불이가 여름밤을 밝혀요."
+  },
+  {
+   "word": "twinkle",
+   "pos": "동사",
+   "meaning": "반짝이다",
+   "en": "Little lights twinkled on the Christmas tree.",
+   "ko": "크리스마스트리에서 작은 불빛들이 반짝였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 불을 끄자 천장에 붙인 별 스티커가 초록빛으로 빛나는 장면",
+ "imageCaption": "깜깜한 방에서 은은하게 빛나는 야광 별을 떠올려 보세요.",
+ "movieLineEn": "Look at the ceiling! The stars glow in the dark!",
+ "movieLineKo": "천장 좀 봐! 별들이 어둠 속에서 빛나!",
+ "storyTitle": "야광 동생",
+ "story": "동생이 방 천장에 glow in the dark(야광의) 별 스티커를 붙였어요. 불을 끄자 별들이 twinkle(반짝이다)했죠. firefly(반딧불이) 같다며 신났어요. 그런데 밤중에 화장실 가다 비명을 질렀어요. 거울 속 동생 얼굴이 초록색으로 shine(빛나다)하고 있었거든요! 야광 물감으로 팩을 했대요. 우리는 그 일을 엄마에게 in the dark(모르는) 상태로 두기로 했어요."
+}

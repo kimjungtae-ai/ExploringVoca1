@@ -1,0 +1,68 @@
+{
+ "word": "congrats on",
+ "pos": "숙어",
+ "phonetic": "[kənˈɡræts ɑːn]",
+ "meaning": "~을 축하해(요)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "congrats",
+   "meaning": "축하해 (congratulations의 줄임말)",
+   "note": "congratulations를 친근하게 줄인 구어 표현이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~에 대해 (on)",
+   "note": "무엇을 축하하는지 그 '대상'에 딱 붙어요."
+  }
+ ],
+ "summary": "<strong>congrats</strong> (축하해) + <strong>on</strong> (~에 대해) = '~에 대해 축하해'에서 <strong>'~을 축하해!'</strong>",
+ "historyTitle": "'함께 기뻐하다' congratulari",
+ "historyBody": "congratulation은 라틴어 'com-(함께)'와 'gratulari(기쁨을 표하다)'가 합쳐진 congratulari에서 왔어요. gratulari는 'gratus(기쁜, 고마운)'와 관련 있고, grateful(감사하는), gratitude(감사)도 같은 가족이에요. congrats는 20세기에 널리 쓰이게 된 친근한 줄임말로, 축하 대상 앞에 on을 쓴다는 점이 중요해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "congratulate",
+   "pos": "동사",
+   "meaning": "축하하다",
+   "en": "We congratulated her on winning the prize.",
+   "ko": "우리는 그녀가 상 받은 것을 축하했어."
+  },
+  {
+   "word": "congratulations",
+   "pos": "명사",
+   "meaning": "축하 (인사)",
+   "en": "Congratulations on your graduation!",
+   "ko": "졸업 축하해!"
+  },
+  {
+   "word": "grateful",
+   "pos": "형용사",
+   "meaning": "감사하는",
+   "en": "I'm grateful for your help.",
+   "ko": "도와줘서 고마워."
+  },
+  {
+   "word": "gratitude",
+   "pos": "명사",
+   "meaning": "감사",
+   "en": "She expressed her gratitude with a letter.",
+   "ko": "그녀는 편지로 감사를 표했어."
+  },
+  {
+   "word": "well done",
+   "pos": "숙어",
+   "meaning": "잘했어",
+   "en": "Well done! You passed the test.",
+   "ko": "잘했어! 시험에 붙었구나."
+  }
+ ],
+ "imageSense": "대표 의미: 합격 소식을 들은 친구에게 꽃다발을 건네는 장면",
+ "imageCaption": "친구가 합격 문자를 보여 주자 다 같이 박수 치며 '축하해!' 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Congrats on your new job! Let's celebrate tonight.",
+ "movieLineKo": "새 직장 축하해! 오늘 밤 축하하자.",
+ "storyTitle": "축하의 반전",
+ "story": "내가 대회에서 우승하자 친구들이 \"congrats on(~을 축하해) 우승!\"이라고 외쳤어요. 선생님도 \"congratulations(축하해)!\"라며 congratulate(축하하다)하셨죠. 나는 grateful(감사하는) 마음으로 고개를 숙였어요. 그런데 트로피를 받으러 가다 넘어져 트로피가 반으로 쪼개졌어요. 친구들은 다시 외쳤어요. \"트로피가 두 개 된 것도 축하해!\""
+}

@@ -1,0 +1,68 @@
+{
+ "word": "fire department",
+ "pos": "명사구",
+ "phonetic": "[ˈfaɪər dɪpɑːrtmənt]",
+ "meaning": "소방서, 소방국",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "fire",
+   "meaning": "불, 화재 (fire)",
+   "note": "무엇을 담당하는 부서인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "department",
+   "meaning": "부서, 국 (department)",
+   "note": "de-(떨어져) + part(나누다) + -ment로 '나눠진 부분'이라는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>fire</strong> (화재) + <strong>department</strong> (나눠 맡은 부서) = '화재를 맡은 부서'라서 <strong>'소방서'</strong>예요.",
+ "historyTitle": "나누어 맡은 부서, department",
+ "historyBody": "fire는 고대 영어 fyr에서 온 아주 오래된 게르만어로, 그리스어 pyr(불)와도 먼 친척이에요. department는 프랑스어 département에서 왔고, 라틴어 dispartire(나누다)와 관련 있어요. 큰 조직을 일 별로 '나눈 부분'이라서 부서라는 뜻이 되었고, 백화점(department store)도 물건 종류별로 나뉜 가게라서 이렇게 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "firefighter",
+   "pos": "명사",
+   "meaning": "소방관",
+   "en": "The firefighter rescued a cat from the roof.",
+   "ko": "소방관이 지붕에서 고양이를 구했어요."
+  },
+  {
+   "word": "fire station",
+   "pos": "명사구",
+   "meaning": "소방서 (건물)",
+   "en": "There is a fire station near my school.",
+   "ko": "우리 학교 근처에 소방서가 있어요."
+  },
+  {
+   "word": "police department",
+   "pos": "명사구",
+   "meaning": "경찰서",
+   "en": "The police department opened a new office downtown.",
+   "ko": "경찰서는 시내에 새 사무실을 열었어요."
+  },
+  {
+   "word": "department store",
+   "pos": "명사구",
+   "meaning": "백화점",
+   "en": "We bought shoes at the department store.",
+   "ko": "우리는 백화점에서 신발을 샀어요."
+  },
+  {
+   "word": "put out",
+   "pos": "구동사",
+   "meaning": "(불을) 끄다",
+   "en": "It took two hours to put out the fire.",
+   "ko": "불을 끄는 데 두 시간이 걸렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 빨간 소방차들이 줄지어 서 있는 소방서",
+ "imageCaption": "사이렌이 울리면 소방관들이 순식간에 출동하는 모습을 그려 보세요.",
+ "movieLineEn": "Call the fire department! The kitchen is on fire!",
+ "movieLineKo": "소방서에 전화해! 부엌에 불났어!",
+ "storyTitle": "고양이 구조 작전",
+ "story": "우리 집 고양이가 나무 위에서 내려오지 못했어요. 결국 fire department(소방서)에 전화했죠. 멋진 firefighter(소방관)가 사다리를 타고 올라갔어요. 그런데 고양이는 휙 뛰어내려 department store(백화점) 쪽으로 도망갔어요. 이번엔 소방관이 나무에서 못 내려왔어요! 결국 fire station(소방서)에서 다른 소방차가 또 출동했답니다."
+}

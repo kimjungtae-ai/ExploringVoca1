@@ -1,0 +1,54 @@
+{
+ "word": "rebuild",
+ "pos": "동사",
+ "phonetic": "[ˌriːˈbɪld]",
+ "meaning": "재건하다, 다시 짓다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "같은 일을 한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "build",
+   "meaning": "짓다 (build)",
+   "note": "고대 영어 byldan(집을 짓다)에서 온 토박이 단어예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>build</strong> (짓다) = 무너진 것을 다시 짓는다는 뜻에서 <strong>'재건하다'</strong>가 되었어요.",
+ "historyTitle": "'집(bold)'에서 온 build",
+ "historyBody": "build는 고대 영어 byldan(집을 짓다)에서 왔는데, 이는 bold(집, 거처)라는 명사에서 나온 말이에요. 여기에 라틴어 계열 접두사 re-(다시)가 붙어 18세기 무렵부터 rebuild가 널리 쓰였어요. 전쟁이나 재난 뒤의 '재건'을 이야기할 때 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "build",
+   "pos": "동사",
+   "meaning": "짓다, 쌓다",
+   "en": "They plan to build a new bridge over the river.",
+   "ko": "그들은 강 위에 새 다리를 지을 계획이에요."
+  },
+  {
+   "word": "building",
+   "pos": "명사",
+   "meaning": "건물",
+   "en": "The tallest building in the city has 100 floors.",
+   "ko": "그 도시에서 가장 높은 건물은 100층이에요."
+  },
+  {
+   "word": "builder",
+   "pos": "명사",
+   "meaning": "건축업자, 만드는 사람",
+   "en": "The builder finished the house in six months.",
+   "ko": "건축업자는 6개월 만에 집을 완성했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무너진 마을에 사람들이 함께 벽돌을 다시 쌓는 장면",
+ "imageCaption": "폭풍이 지나간 뒤 이웃들이 힘을 모아 집을 다시 세우는 모습을 떠올려 보세요.",
+ "movieLineEn": "They destroyed our home, but we will rebuild it together.",
+ "movieLineKo": "그들이 우리 집을 부쉈지만, 우리는 함께 다시 지을 거야.",
+ "storyTitle": "모래성 재건 위원회",
+ "story": "바닷가에서 동생이 만든 모래성이 파도에 무너졌어요. 동생은 울다가 '다시 rebuild(재건하다)할 거야!'라고 외쳤죠. 동네 아이들이 모두 builder(건축업자)로 참여해 거대한 building(건물)을 build(짓다)했어요. 완성하자마자 또 파도가 왔지만, 이번엔 다 같이 웃었대요. 내일 또 지으면 되니까요!"
+}

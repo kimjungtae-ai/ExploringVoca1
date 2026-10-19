@@ -1,0 +1,55 @@
+{
+ "word": "lock",
+ "pos": "명사 / 동사",
+ "phonetic": "[lɑːk]",
+ "meaning": "자물쇠 / 잠그다, 고정하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "lock",
+   "meaning": "잠금장치, 빗장 (fastening)",
+   "note": "고대 영어 loc(빗장, 잠금장치)에서 온 짧은 게르만어예요."
+  }
+ ],
+ "summary": "<strong>lock</strong>은 더 쪼갤 수 없는 짧은 단어로, 빗장을 뜻하던 말에서 <strong>'자물쇠, 잠그다'</strong>가 되었습니다.",
+ "historyTitle": "빗장에서 디지털 도어락까지",
+ "historyBody": "lock은 고대 영어 loc(빗장, 잠금장치)에서 왔고, 독일어·네덜란드어 등 다른 게르만어에도 비슷한 말이 있어요. 머리카락 한 '타래'를 뜻하는 lock은 철자는 같지만 전혀 다른 기원의 단어랍니다. 운하의 '수문'도 lock이라고 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "unlock",
+   "pos": "동사",
+   "meaning": "열다, 잠금을 풀다",
+   "en": "Use your fingerprint to unlock the phone.",
+   "ko": "휴대폰 잠금을 풀려면 지문을 사용하세요."
+  },
+  {
+   "word": "locker",
+   "pos": "명사",
+   "meaning": "사물함",
+   "en": "I left my textbook in my locker.",
+   "ko": "나는 교과서를 사물함에 두고 왔어요."
+  },
+  {
+   "word": "padlock",
+   "pos": "명사",
+   "meaning": "맹꽁이자물쇠",
+   "en": "He put a padlock on the garden gate.",
+   "ko": "그는 정원 문에 자물쇠를 채웠어요."
+  },
+  {
+   "word": "lockdown",
+   "pos": "명사",
+   "meaning": "봉쇄, 이동 제한",
+   "en": "During the lockdown, people stayed at home.",
+   "ko": "봉쇄 기간 동안 사람들은 집에 머물렀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 현관문에 철컥 잠긴 커다란 자물쇠",
+ "imageCaption": "문에 철컥 걸린 자물쇠 소리를 떠올려 보세요. 열쇠 없이는 아무도 못 여는 그 상태가 lock이에요.",
+ "movieLineEn": "Lock the door. Nobody gets in tonight.",
+ "movieLineKo": "문 잠가. 오늘 밤엔 아무도 못 들어와.",
+ "storyTitle": "사물함의 미스터리",
+ "story": "현우는 locker(사물함)에 새 padlock(자물쇠)을 달고 단단히 lock(잠그다)했어요. 다음 날 아무리 해도 unlock(잠금을 풀다)이 안 됐죠. 학교 전체가 lockdown(봉쇄)처럼 소란스러워졌어요. 결국 경비 아저씨가 와서 보니, 현우가 남의 사물함을 잠근 거였답니다."
+}

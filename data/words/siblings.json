@@ -1,0 +1,53 @@
+{
+ "word": "siblings",
+ "pos": "명사 (복수)",
+ "phonetic": "[ˈsɪblɪŋz]",
+ "meaning": "형제자매",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sib",
+   "meaning": "친족 (kin, relative)",
+   "note": "고대 영어 'sibb(친척, 혈족)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ling",
+   "meaning": "작은 것, ~에 속한 사람",
+   "note": "사람이나 작은 것을 나타내는 접미사예요. (예: duckling)"
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "복수형",
+   "note": "여러 명을 나타내요."
+  }
+ ],
+ "summary": "<strong>sib</strong> (친족) + <strong>-ling</strong> (~에 속한 사람) = 같은 핏줄에 속한 사람, 즉 <strong>'형제자매'</strong>예요.",
+ "historyTitle": "천 년 만에 부활한 단어",
+ "historyBody": "고대 영어 'sibling'은 원래 '친척'이라는 넓은 뜻이었지만, 중세 이후 거의 사라졌어요. 그러다 1900년대 초 학자들이 '형제와 자매를 성별 구분 없이 함께 부르는 말'로 되살려 썼답니다. 재미있게도 gossip(수다)도 '하나님 안의 친척(god-sib, 대부모)'에서 나온 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sibling",
+   "pos": "명사",
+   "meaning": "형제자매 (한 명)",
+   "en": "Do you have any siblings?",
+   "ko": "너는 형제자매가 있니?"
+  },
+  {
+   "word": "gossip",
+   "pos": "명사 / 동사",
+   "meaning": "험담, 수다 / 남 이야기를 하다",
+   "en": "Don't believe the gossip you hear at school.",
+   "ko": "학교에서 듣는 소문을 믿지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 형, 누나, 동생이 함께 소파에 앉아 티격태격하는 장면",
+ "imageCaption": "가족사진 속에서 어깨동무한 언니와 남동생의 모습을 떠올려 보세요.",
+ "movieLineEn": "We're siblings. We fight, but we always have each other's backs.",
+ "movieLineKo": "우린 형제자매야. 싸워도 늘 서로 편이 되어 주지.",
+ "storyTitle": "남매의 리모컨 전쟁",
+ "story": "우리 집 siblings(형제자매)는 리모컨 전쟁 중이에요. 누나는 드라마, 나는 축구를 보고 싶었죠. 동네 아줌마들 gossip(수다)에 오를 정도로 시끄러웠어요. 그때 막내 sibling(동생)이 리모컨을 들고 사라졌어요. 결국 셋이서 막내의 만화를 봤답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "cross-body bag",
+ "pos": "명사구",
+ "phonetic": "[ˈkrɔːs bɑːdi bæɡ]",
+ "meaning": "크로스백, 몸에 대각선으로 메는 가방",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "cross-body",
+   "meaning": "몸을 가로지르는 (cross-body)",
+   "note": "cross(가로지르다)+body(몸)로 '몸에 대각선으로 걸치는'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "bag",
+   "meaning": "가방 (bag)",
+   "note": "물건을 넣어 들고 다니는 주머니예요."
+  }
+ ],
+ "summary": "<strong>cross-body</strong> (몸을 가로지르는) + <strong>bag</strong> (가방) = '몸을 대각선으로 가로질러 메는 가방'에서 <strong>'크로스백'</strong>",
+ "historyTitle": "우리말 '크로스백'의 원래 이름",
+ "historyBody": "우리가 흔히 '크로스백'이라고 부르는 가방을 영어로는 cross-body bag 또는 crossbody bag이라고 해요. cross는 라틴어 'crux(십자가)'에서 온 말로 '가로지르다'라는 뜻이고, bag은 고대 노르드어 'baggi(꾸러미)'에서 온 것으로 보는 견해가 일반적이에요. 끈이 어깨에서 반대쪽 허리로 몸을 가로지르는 모양에서 이름이 붙었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "shoulder bag",
+   "pos": "명사구",
+   "meaning": "숄더백, 어깨에 메는 가방",
+   "en": "She carries a leather shoulder bag.",
+   "ko": "그녀는 가죽 숄더백을 메고 다녀."
+  },
+  {
+   "word": "backpack",
+   "pos": "명사",
+   "meaning": "배낭, 백팩",
+   "en": "My backpack is full of books.",
+   "ko": "내 배낭은 책으로 가득해."
+  },
+  {
+   "word": "purse",
+   "pos": "명사",
+   "meaning": "지갑, 핸드백",
+   "en": "She took some coins out of her purse.",
+   "ko": "그녀는 지갑에서 동전 몇 개를 꺼냈어."
+  },
+  {
+   "word": "strap",
+   "pos": "명사",
+   "meaning": "끈, 줄",
+   "en": "The strap of my bag broke.",
+   "ko": "내 가방끈이 끊어졌어."
+  },
+  {
+   "word": "across",
+   "pos": "전치사",
+   "meaning": "~을 가로질러",
+   "en": "We walked across the bridge.",
+   "ko": "우리는 다리를 건너 걸어갔어."
+  }
+ ],
+ "imageSense": "대표 의미: 여행자가 작은 가방을 몸에 대각선으로 메고 걷는 모습",
+ "imageCaption": "어깨에서 반대쪽 허리로 끈이 사선으로 지나가는 작은 가방을 떠올려 보세요.",
+ "movieLineEn": "Keep your passport in your cross-body bag.",
+ "movieLineKo": "여권은 크로스백에 넣어 둬.",
+ "storyTitle": "소매치기를 이긴 가방",
+ "story": "여행 간 소율이는 cross-body bag(크로스백)을 멨어요. 친구는 shoulder bag(숄더백), 동생은 backpack(배낭)을 멨죠. 시장에서 누군가 소율이의 strap(끈)을 잡아당겼어요! 하지만 가방이 몸을 across(가로질러) 단단히 걸쳐 있어서 꿈쩍도 안 했어요. 돌아보니 범인은 가방 속 과자 냄새를 맡은 강아지였어요."
+}

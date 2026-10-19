@@ -1,0 +1,82 @@
+{
+ "word": "conveniently",
+ "pos": "부사",
+ "phonetic": "[kənˈviːniəntli]",
+ "meaning": "편리하게, 알맞게, 공교롭게도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "convenient",
+   "meaning": "편리한 (con- + ven 오다 + -ient)",
+   "note": "딱 맞게 함께 온다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "부사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>convenient</strong> (편리한) + <strong>-ly</strong> (~하게) = <strong>'편리하게, 알맞게'</strong>라는 뜻이에요.",
+ "historyTitle": "라틴어 convenire, '함께 와서 딱 맞다'",
+ "historyBody": "convenience는 라틴어 convenire(함께 오다, 잘 맞다)에서 왔어요. 여러 것이 한곳에 '딱 맞게 모여 오는' 상태가 '편리함'이 된 것이에요. 같은 어근 ven(오다)이 event, prevent, adventure, avenue에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "convenient",
+   "pos": "형용사",
+   "meaning": "편리한",
+   "en": "This app is convenient for ordering food.",
+   "ko": "이 앱은 음식 주문하기에 편리해요."
+  },
+  {
+   "word": "convenience",
+   "pos": "명사",
+   "meaning": "편리, 편의",
+   "en": "Many people buy snacks at a convenience store.",
+   "ko": "많은 사람들이 편의점에서 간식을 사요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회, 협약",
+   "en": "The science convention brought together experts from many countries.",
+   "ko": "그 과학 대회에는 여러 나라 전문가들이 모였어요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Washing your hands can prevent colds.",
+   "ko": "손을 씻으면 감기를 예방할 수 있어요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "행사, 사건",
+   "en": "The school festival is the biggest event of the year.",
+   "ko": "학교 축제는 일 년 중 가장 큰 행사예요."
+  },
+  {
+   "word": "adventure",
+   "pos": "명사",
+   "meaning": "모험",
+   "en": "Reading books is like going on an adventure.",
+   "ko": "책을 읽는 건 모험을 떠나는 것과 같아요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다, 끼어들다",
+   "en": "The teacher intervened to stop the fight.",
+   "ko": "선생님이 싸움을 말리려고 끼어드셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지하철역 바로 옆에 있는 학원 건물",
+ "imageCaption": "출구를 나오자마자 보이는 건물을 떠올려 보세요. 딱 알맞은 곳에 '편리하게' 있는 모습이에요.",
+ "movieLineEn": "He conveniently forgot his wallet again.",
+ "movieLineKo": "그는 공교롭게도 또 지갑을 잊어버렸지.",
+ "storyTitle": "지갑을 잊는 친구",
+ "story": "민수는 밥 먹을 때마다 conveniently(공교롭게도) 지갑을 잊었어요. 정말 convenient(편리한) 기억력이었죠. 친구들은 이 event(사건)를 prevent(막다)하려고 작전을 짰어요. 민수에게 계산을 맡겼더니, 그날따라 지갑을 챙겨 왔는데 텅 비어 있었대요!"
+}

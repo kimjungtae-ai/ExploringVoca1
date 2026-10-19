@@ -1,0 +1,68 @@
+{
+ "word": "consume",
+ "pos": "동사",
+ "phonetic": "[kənˈsuːm]",
+ "meaning": "소비하다, 먹다, (시간·에너지를) 소모하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sume",
+   "meaning": "취하다, 가져가다 (take)",
+   "note": "라틴어 sumere(취하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>sume</strong> (취하다) = '남김없이 다 가져가 버리다'에서 <strong>'소비하다, 다 써 버리다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 sumere, '집어 들다'",
+ "historyBody": "consume은 라틴어 consumere(다 써 버리다, 먹어 치우다)에서 왔어요. 원래는 불이 모든 것을 '태워 없애다'라는 뜻으로도 쓰였어요. 오늘날에는 경제 용어로 '소비하다'라는 뜻으로 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "consumer",
+   "pos": "명사",
+   "meaning": "소비자",
+   "en": "Consumers want cheaper and better products.",
+   "ko": "소비자들은 더 싸고 좋은 제품을 원해요."
+  },
+  {
+   "word": "consumption",
+   "pos": "명사",
+   "meaning": "소비, 섭취",
+   "en": "Sugar consumption among children is increasing.",
+   "ko": "어린이들의 설탕 섭취가 늘고 있어요."
+  },
+  {
+   "word": "assume",
+   "pos": "동사",
+   "meaning": "가정하다, 추정하다",
+   "en": "I assumed that she was a teacher.",
+   "ko": "나는 그녀가 선생님이라고 생각했어요."
+  },
+  {
+   "word": "resume",
+   "pos": "동사",
+   "meaning": "재개하다, 다시 시작하다",
+   "en": "The game will resume after the rain stops.",
+   "ko": "비가 그치면 경기가 재개될 거예요."
+  },
+  {
+   "word": "presume",
+   "pos": "동사",
+   "meaning": "추정하다",
+   "en": "I presume you are tired after the long trip.",
+   "ko": "긴 여행 후라 피곤하시겠죠."
+  }
+ ],
+ "imageSense": "대표 의미: 거대한 햄버거를 순식간에 먹어 치우는 장면",
+ "imageCaption": "접시 위 음식이 한 입에 사라지는 모습을 떠올려 보세요. 남김없이 다 써 버리는 것이 consume이에요.",
+ "movieLineEn": "This machine consumes too much power. Turn it off!",
+ "movieLineKo": "이 기계는 전기를 너무 많이 먹어. 꺼!",
+ "storyTitle": "먹보 판다의 대나무 사건",
+ "story": "판다 뚠뚠은 하루에 대나무를 엄청나게 consume(먹다)했어요. 동물원은 대나무 consumption(소비)을 걱정했죠. 사육사는 뚠뚠이 아픈 거라고 assume(추정하다)했어요. 하지만 검사 결과는 정상! 뚠뚠은 다시 식사를 resume(재개하다)했고, 알고 보니 친구 판다 몫까지 몰래 먹고 있었대요!"
+}

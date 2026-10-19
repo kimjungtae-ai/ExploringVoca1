@@ -1,0 +1,74 @@
+{
+ "word": "a variety of",
+ "pos": "숙어",
+ "phonetic": "[ə vəˈraɪəti əv]",
+ "meaning": "다양한, 여러 가지의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "a",
+   "meaning": "하나의 (one)",
+   "note": "'한 묶음의 다양함'이라는 덩어리를 만들어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "variety",
+   "meaning": "다양성, 종류 (diversity)",
+   "note": "라틴어 varius(여러 가지의)에서 왔어요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의 (of)",
+   "note": "어떤 것들이 다양한지 뒤에서 알려 줘요."
+  }
+ ],
+ "summary": "<strong>a</strong> (하나의) + <strong>variety</strong> (다양함) + <strong>of</strong> (~의) = '~의 다양한 모음'에서 <strong>'다양한, 여러 가지의'</strong>가 되었어요.",
+ "historyTitle": "라틴어 varius, '얼룩덜룩한 여러 색'",
+ "historyBody": "variety는 라틴어 varietas에서 왔고, 그 뿌리 varius는 '여러 가지의, 얼룩덜룩한'이라는 뜻이었어요. 프랑스어 variété를 거쳐 16세기에 영어로 들어왔답니다. vary, various, variable이 모두 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "various",
+   "pos": "형용사",
+   "meaning": "다양한",
+   "en": "The library offers various programs for teenagers.",
+   "ko": "그 도서관은 십 대를 위한 다양한 프로그램을 제공해요."
+  },
+  {
+   "word": "vary",
+   "pos": "동사",
+   "meaning": "다르다, 다양하다",
+   "en": "Prices vary depending on the season.",
+   "ko": "가격은 계절에 따라 달라요."
+  },
+  {
+   "word": "variable",
+   "pos": "형용사 / 명사",
+   "meaning": "변하기 쉬운 / 변수",
+   "en": "The weather in spring is highly variable.",
+   "ko": "봄 날씨는 매우 변덕스러워요."
+  },
+  {
+   "word": "a wide range of",
+   "pos": "숙어",
+   "meaning": "광범위한, 다양한",
+   "en": "The store sells a wide range of sports goods.",
+   "ko": "그 가게는 다양한 스포츠 용품을 팔아요."
+  },
+  {
+   "word": "variation",
+   "pos": "명사",
+   "meaning": "변화, 변형",
+   "en": "There is little variation in his daily routine.",
+   "ko": "그의 하루 일과에는 변화가 거의 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뷔페 테이블에 여러 나라 음식이 가득 차려진 장면",
+ "imageCaption": "한 접시에 여러 색깔 음식이 담긴 모습을 떠올려 보세요. 그게 바로 'a variety of'예요.",
+ "movieLineEn": "This town has a variety of secrets, kid. Choose carefully.",
+ "movieLineKo": "이 마을엔 다양한 비밀이 있단다, 꼬마야. 신중하게 골라.",
+ "storyTitle": "뷔페의 반전",
+ "story": "지호는 a variety of(다양한) 음식이 있는 뷔페에 갔어요. 메뉴는 계절마다 vary(달라지다)했고 various(다양한) 디저트도 있었죠. a wide range of(광범위한) 음식을 다 먹겠다고 다짐했지만, 첫 접시에 밥만 세 그릇 담아 배가 불러 버렸답니다!"
+}

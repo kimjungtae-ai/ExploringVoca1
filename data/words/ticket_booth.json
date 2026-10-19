@@ -1,0 +1,68 @@
+{
+ "word": "ticket booth",
+ "pos": "명사구",
+ "phonetic": "[ˈtɪkɪt buːθ]",
+ "meaning": "매표소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "ticket",
+   "meaning": "표, 입장권 (ticket)",
+   "note": "무엇을 파는 곳인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "booth",
+   "meaning": "작은 칸막이 공간, 부스 (booth)",
+   "note": "사람이 들어가 일하는 작은 칸이에요."
+  }
+ ],
+ "summary": "<strong>ticket</strong> (표) + <strong>booth</strong> (작은 칸막이 공간) = '표를 파는 작은 공간'에서 <strong>'매표소'</strong>",
+ "historyTitle": "'붙이는 쪽지'였던 ticket",
+ "historyBody": "ticket은 고대 프랑스어 estiquet(붙이는 쪽지, 표찰)에서 왔고, 예절을 뜻하는 etiquette과 같은 뿌리예요. booth는 중세 영어 bothe(임시 오두막)에서 왔으며 북유럽어(고대 덴마크어·노르드어 계열)와 관련이 있어요. 시장의 임시 가판대가 오늘날의 작은 부스가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "box office",
+   "pos": "명사구",
+   "meaning": "매표소, 흥행 성적",
+   "en": "The movie was a huge hit at the box office.",
+   "ko": "그 영화는 흥행에서 대성공을 거뒀어요."
+  },
+  {
+   "word": "phone booth",
+   "pos": "명사구",
+   "meaning": "공중전화 부스",
+   "en": "There are few phone booths left in the city.",
+   "ko": "도시에 공중전화 부스는 거의 남아 있지 않아요."
+  },
+  {
+   "word": "ticket",
+   "pos": "명사",
+   "meaning": "표, 딱지",
+   "en": "I bought two tickets for the concert.",
+   "ko": "나는 콘서트 표 두 장을 샀어요."
+  },
+  {
+   "word": "etiquette",
+   "pos": "명사",
+   "meaning": "예절",
+   "en": "Table etiquette differs from country to country.",
+   "ko": "식사 예절은 나라마다 달라요."
+  },
+  {
+   "word": "admission",
+   "pos": "명사",
+   "meaning": "입장(료)",
+   "en": "Admission is free for children under seven.",
+   "ko": "7세 미만 어린이는 입장료가 무료예요."
+  }
+ ],
+ "imageSense": "대표 의미: 놀이공원 입구 작은 창구에서 표를 사는 장면",
+ "imageCaption": "놀이공원 입구 작은 창문 너머로 표를 건네주는 직원을 떠올려 보세요.",
+ "movieLineEn": "Meet me at the ticket booth at six o'clock.",
+ "movieLineKo": "6시에 매표소에서 만나.",
+ "storyTitle": "긴 줄의 비밀",
+ "story": "놀이공원 ticket booth(매표소) 앞에 줄이 끝없이 길었어요. 나는 한 시간 기다려 ticket(표)을 샀죠. 그런데 admission(입장)하려는 순간 직원이 말했어요. \"어린이는 무료예요!\" 키가 작아서 어린이로 보였나 봐요. 나는 etiquette(예절)을 지켜 웃었지만 속으로는 울었답니다."
+}

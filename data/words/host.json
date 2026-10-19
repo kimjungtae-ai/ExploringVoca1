@@ -1,0 +1,68 @@
+{
+ "word": "host",
+ "pos": "명사 / 동사",
+ "phonetic": "[hoʊst]",
+ "meaning": "주인, 주최자, 진행자 / 주최하다, 진행하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "host (← hospes)",
+   "meaning": "손님을 맞는 주인, 손님 (host, guest)",
+   "note": "라틴어 hospes는 '주인'과 '손님'을 모두 뜻했어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "(-t)",
+   "meaning": "(어미가 줄어든 형태)",
+   "note": "hospes·hospitem이 고대 프랑스어 hoste로 줄어든 거예요. 따로 뜻은 없어요."
+  }
+ ],
+ "summary": "<strong>host</strong>는 라틴어 hospes(<strong>손님을 맞는 주인</strong>)에서 와서 <strong>'주인, 주최하다, 진행자'</strong>가 되었어요.",
+ "historyTitle": "주인과 손님이 같은 단어였던 시절",
+ "historyBody": "host는 고대 프랑스어 hoste를 거쳐 라틴어 hospes에서 왔어요. 재미있게도 hospes는 '주인'과 '손님'을 모두 뜻했죠. 같은 뿌리에서 hospital(원래는 손님·나그네를 돌보던 곳), hospitality(환대), hotel, hostel이 나왔어요. '많은 무리(a host of)'라는 뜻의 host는 라틴어 hostis(적, 군대)에서 온 다른 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hostess",
+   "pos": "명사",
+   "meaning": "여주인, 안주인",
+   "en": "The hostess welcomed us with warm tea.",
+   "ko": "안주인은 따뜻한 차로 우리를 맞아 주었어."
+  },
+  {
+   "word": "hospital",
+   "pos": "명사",
+   "meaning": "병원",
+   "en": "He was taken to the hospital after the accident.",
+   "ko": "그는 사고 후 병원으로 옮겨졌어."
+  },
+  {
+   "word": "hospitality",
+   "pos": "명사",
+   "meaning": "환대, 접대",
+   "en": "We were moved by the hospitality of the villagers.",
+   "ko": "우리는 마을 사람들의 환대에 감동했어."
+  },
+  {
+   "word": "hotel",
+   "pos": "명사",
+   "meaning": "호텔",
+   "en": "We stayed at a small hotel near the beach.",
+   "ko": "우리는 해변 근처 작은 호텔에 묵었어."
+  },
+  {
+   "word": "hostel",
+   "pos": "명사",
+   "meaning": "(저렴한) 숙소, 호스텔",
+   "en": "Many backpackers stay at hostels to save money.",
+   "ko": "많은 배낭여행객들이 돈을 아끼려고 호스텔에 묵어."
+  }
+ ],
+ "imageSense": "대표 의미: 파티를 연 주인이 문 앞에서 손님을 반갑게 맞이하는 장면",
+ "imageCaption": "손님을 맞이하고 행사를 이끄는 사람, 즉 무대 위 진행자나 파티 주인을 떠올려 보세요.",
+ "movieLineEn": "Tonight, I'll be your host. Enjoy the show!",
+ "movieLineKo": "오늘 밤 제가 여러분의 진행자예요. 쇼를 즐기세요!",
+ "storyTitle": "최고의 집주인",
+ "story": "곰은 숲속 파티의 host(주인)였어요. 손님들에게 hotel(호텔)급 hospitality(환대)를 보여 주겠다며 꿀을 잔뜩 준비했죠. 그런데 손님들이 꿀을 너무 많이 먹어 배탈이 났어요. 결국 파티는 hospital(병원)에서 끝났대요. 다음 해, 곰은 '건강 꿀 파티'를 다시 host(주최하다)했답니다."
+}

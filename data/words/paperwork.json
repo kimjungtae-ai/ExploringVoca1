@@ -1,0 +1,61 @@
+{
+ "word": "paperwork",
+ "pos": "명사",
+ "phonetic": "[ˈpeɪpərwɜːrk]",
+ "meaning": "서류 작업, 문서 업무",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "paper",
+   "meaning": "종이 (paper)",
+   "note": "그리스어 papyros(파피루스)에서 라틴어를 거쳐 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "work",
+   "meaning": "일 (work)",
+   "note": "고대 영어 weorc(일)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>paper</strong> (종이) + <strong>work</strong> (일) = '종이로 하는 일'이라는 뜻에서 <strong>'서류 작업'</strong>이 되었어요.",
+ "historyTitle": "나일강 갈대에서 온 종이",
+ "historyBody": "paper는 그리스어 papyros에서 라틴어 papyrus, 프랑스어를 거쳐 영어에 들어왔어요. 파피루스는 고대 이집트 나일강가의 갈대로, 이것을 얇게 펴서 글을 썼답니다. paperwork는 '종이로 하는 일'에서 오늘날 '서류 작업'이라는 뜻으로 자리 잡았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "paper",
+   "pos": "명사",
+   "meaning": "종이, 신문, 논문",
+   "en": "Please write your name on the paper.",
+   "ko": "종이에 이름을 써 주세요."
+  },
+  {
+   "word": "newspaper",
+   "pos": "명사",
+   "meaning": "신문",
+   "en": "My grandfather reads the newspaper every morning.",
+   "ko": "할아버지는 매일 아침 신문을 읽으세요."
+  },
+  {
+   "word": "papyrus",
+   "pos": "명사",
+   "meaning": "파피루스",
+   "en": "Ancient Egyptians wrote on papyrus.",
+   "ko": "고대 이집트인들은 파피루스에 글을 썼어요."
+  },
+  {
+   "word": "wallpaper",
+   "pos": "명사",
+   "meaning": "벽지, 배경 화면",
+   "en": "We chose blue wallpaper for my new room.",
+   "ko": "우리는 내 새 방에 파란 벽지를 골랐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 서류가 산더미처럼 쌓여 있고 그 뒤에 사람이 파묻힌 장면",
+ "imageCaption": "도장을 찍고 또 찍어도 줄지 않는 서류 더미를 떠올려 보세요. 그게 paperwork예요.",
+ "movieLineEn": "Saving the world is easy. It's the paperwork that kills me.",
+ "movieLineKo": "세상 구하는 건 쉬워. 날 죽이는 건 서류 작업이야.",
+ "storyTitle": "슈퍼히어로의 고민",
+ "story": "슈퍼히어로가 악당을 물리친 뒤 paperwork(서류 작업)를 시작했어요. paper(종이)가 끝도 없이 나왔죠. 다음 날 newspaper(신문)에는 '영웅, 악당 아닌 서류에 패배!'라는 기사가 실렸어요. 그 서류는 사실 악당이 몰래 보낸 거였어요. 진짜 악당은 따로 있었네요!"
+}

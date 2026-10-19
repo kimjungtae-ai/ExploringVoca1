@@ -1,0 +1,61 @@
+{
+ "word": "plaza",
+ "pos": "명사",
+ "phonetic": "[ˈplɑːzə]",
+ "meaning": "광장, 쇼핑센터",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "plaz",
+   "meaning": "넓은 길, 광장 (broad street)",
+   "note": "스페인어 plaza에서 왔고, 라틴어 platea(넓은 거리)와 그리스어 platys(넓은)까지 거슬러 올라가요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-a",
+   "meaning": "(스페인어 명사 끝)",
+   "note": "스페인어 명사 끝 모양이에요."
+  }
+ ],
+ "summary": "<strong>plaz-</strong> (넓은 길) + <strong>-a</strong> = 사람들이 모이는 넓은 공간, 곧 <strong>'광장'</strong>이에요.",
+ "historyTitle": "스페인 마을 한가운데의 넓은 마당",
+ "historyBody": "plaza는 1680년대 스페인어 plaza(광장)에서 영어에 들어왔어요. 그 뿌리는 라틴어 platea(넓은 거리, 마당)이고, 다시 그리스어 plateia hodos(넓은 길), platys(넓은)로 이어져요. 같은 라틴어 platea가 프랑스어를 거쳐 영어 place(장소)가 되었으니 plaza와 place는 형제랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "place",
+   "pos": "명사",
+   "meaning": "장소, 곳",
+   "en": "This café is my favorite place to study.",
+   "ko": "이 카페는 내가 공부하기 가장 좋아하는 곳이에요."
+  },
+  {
+   "word": "plate",
+   "pos": "명사",
+   "meaning": "접시, 판",
+   "en": "She put the pancakes on a big plate.",
+   "ko": "그녀는 팬케이크를 큰 접시에 담았어요."
+  },
+  {
+   "word": "platform",
+   "pos": "명사",
+   "meaning": "승강장, 단, 플랫폼",
+   "en": "We waited for the train on platform three.",
+   "ko": "우리는 3번 승강장에서 기차를 기다렸어요."
+  },
+  {
+   "word": "plateau",
+   "pos": "명사",
+   "meaning": "고원, 정체기",
+   "en": "My test scores reached a plateau this month.",
+   "ko": "이번 달 내 시험 점수는 정체기에 들어섰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 분수대 주변에 사람들이 모인 넓은 광장",
+ "imageCaption": "도시 한가운데 분수가 있고 사람들이 북적이는 넓은 광장을 떠올려 보세요.",
+ "movieLineEn": "Meet me at the plaza at noon. Don't be late!",
+ "movieLineKo": "정오에 광장에서 만나. 늦지 마!",
+ "storyTitle": "광장의 비둘기 왕",
+ "story": "plaza(광장)의 비둘기 왕은 자기 place(자리)가 분수대 꼭대기라고 믿었어요. 매일 platform(단상) 같은 그곳에서 연설을 했죠. 사람들이 plate(접시)에 빵을 올려 주자 왕은 감동했어요. 그런데 사실 그 빵은 비둘기 사진을 찍으려는 관광객의 미끼였답니다!"
+}

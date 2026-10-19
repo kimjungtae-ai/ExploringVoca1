@@ -1,0 +1,54 @@
+{
+ "word": "parasol",
+ "pos": "명사",
+ "phonetic": "[ˈpærəsɔːl]",
+ "meaning": "양산, 파라솔",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "para-",
+   "meaning": "막다, 피하다 (shield against)",
+   "note": "이탈리아어 parare(막다, 준비하다)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sol",
+   "meaning": "해 (sun)",
+   "note": "라틴어 sol(해)에서 온 이탈리아어 sole예요."
+  }
+ ],
+ "summary": "<strong>para-</strong> (막다) + <strong>sol</strong> (해) = '햇볕을 막는 것'이라는 뜻에서 <strong>'양산, 파라솔'</strong>이 되었어요.",
+ "historyTitle": "이탈리아에서 건너온 햇빛 방패",
+ "historyBody": "parasol은 이탈리아어 parasole에서 프랑스어를 거쳐 17세기 영어에 들어왔어요. para-는 '막다'라는 뜻의 parare에서, sole는 라틴어 sol(해)에서 왔어요. 같은 para-가 parachute(낙하산, 떨어짐을 막는 것)에도 들어 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "solar",
+   "pos": "형용사",
+   "meaning": "태양의",
+   "en": "Solar energy is clean and renewable.",
+   "ko": "태양 에너지는 깨끗하고 재생 가능해요."
+  },
+  {
+   "word": "solstice",
+   "pos": "명사",
+   "meaning": "(하지·동지의) 지점",
+   "en": "The summer solstice is the longest day of the year.",
+   "ko": "하지는 일 년 중 낮이 가장 긴 날이에요."
+  },
+  {
+   "word": "parachute",
+   "pos": "명사",
+   "meaning": "낙하산 (떨어짐을 막는 것)",
+   "en": "The pilot landed safely with his parachute.",
+   "ko": "조종사는 낙하산으로 안전하게 착륙했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뜨거운 햇볕 아래 해변에 펼쳐진 커다란 파라솔",
+ "imageCaption": "쨍쨍한 해를 '막아 주는' 둥근 그늘을 떠올려 보세요. 해를 막는 방패, 그게 parasol이에요.",
+ "movieLineEn": "Open the parasol, darling. The sun is merciless today.",
+ "movieLineKo": "파라솔 좀 펴 줘, 자기야. 오늘 햇볕이 무자비하네.",
+ "storyTitle": "해를 막는 발명왕",
+ "story": "발명왕 할아버지는 solar(태양의) 열을 막으려고 거대한 parasol(파라솔)을 만들었어요. solstice(하지)에 펼쳤더니 마을 전체가 그늘이 됐죠. 그런데 바람이 불자 파라솔이 하늘로 날아갔어요. 할아버지는 웃으며 말했죠. '사실 parachute(낙하산)를 만들려던 거야!'"
+}

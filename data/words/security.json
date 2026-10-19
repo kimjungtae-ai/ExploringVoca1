@@ -1,0 +1,74 @@
+{
+ "word": "security",
+ "pos": "명사",
+ "phonetic": "[sɪˈkjʊrəti]",
+ "meaning": "안전, 보안, 안정, 경비",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "se-",
+   "meaning": "~없이 (without)",
+   "note": "'떨어져, ~없이'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cur",
+   "meaning": "걱정 (care)",
+   "note": "라틴어 'cura(걱정)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 상태 (명사)",
+   "note": "형용사를 '상태'를 나타내는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>se-</strong> (~없이) + <strong>cur</strong> (걱정) + <strong>-ity</strong> (상태) = 걱정이 없는 상태, 즉 <strong>'안전, 보안'</strong>이에요.",
+ "historyTitle": "마음의 평화에서 공항 보안까지",
+ "historyBody": "라틴어 'securitas'는 원래 '걱정 없는 마음의 평온'을 뜻했어요. 시간이 흐르며 '위험으로부터의 보호'라는 뜻이 강해졌죠. 오늘날엔 공항 보안, 정보 보안처럼 지키는 일 자체를 가리키기도 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "secure",
+   "pos": "형용사",
+   "meaning": "안전한, 안정된",
+   "en": "Make sure your password is secure.",
+   "ko": "비밀번호가 안전한지 꼭 확인하세요."
+  },
+  {
+   "word": "insecure",
+   "pos": "형용사",
+   "meaning": "불안정한, 자신감 없는",
+   "en": "He felt insecure about his new job at first.",
+   "ko": "그는 처음에 새 직장에 대해 불안해했어요."
+  },
+  {
+   "word": "cure",
+   "pos": "동사 / 명사",
+   "meaning": "치료하다 / 치료법",
+   "en": "Scientists are looking for a cure for the disease.",
+   "ko": "과학자들은 그 병의 치료법을 찾고 있어요."
+  },
+  {
+   "word": "curious",
+   "pos": "형용사",
+   "meaning": "호기심 많은",
+   "en": "The curious child asked questions all day long.",
+   "ko": "호기심 많은 아이는 하루 종일 질문을 했어요."
+  },
+  {
+   "word": "accurate",
+   "pos": "형용사",
+   "meaning": "정확한",
+   "en": "Please give me accurate information about the schedule.",
+   "ko": "일정에 대한 정확한 정보를 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항 보안 검색대에서 가방을 검사하는 장면",
+ "imageCaption": "경비원이 건물 입구를 지키고 있어 모두가 안심하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Call security! Someone is trying to break in!",
+ "movieLineKo": "경비원 불러! 누가 침입하려고 해!",
+ "storyTitle": "공항 검색대의 범인",
+ "story": "공항 security(보안) 검색대에서 내 가방이 삑 울렸어요. 직원은 curious(호기심 많은) 눈빛으로 가방을 열었죠. 나는 insecure(불안한) 마음에 땀을 흘렸어요. 꺼낸 건 엄마가 몰래 넣은 쇠 숟가락! 직원이 웃으며 말했어요. \"secure(안전한) 숟가락이네요.\""
+}

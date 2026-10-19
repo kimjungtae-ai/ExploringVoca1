@@ -1,0 +1,68 @@
+{
+ "word": "tooth decay",
+ "pos": "명사구",
+ "phonetic": "[tuːθ dɪˈkeɪ]",
+ "meaning": "충치, 치아 부식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "tooth",
+   "meaning": "이, 치아 (tooth)",
+   "note": "어디가 썩는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "decay",
+   "meaning": "부패, 썩음 (decay)",
+   "note": "점점 무너지고 썩어 가는 것을 뜻해요."
+  }
+ ],
+ "summary": "<strong>tooth</strong> (이) + <strong>decay</strong> (썩음) = '이가 썩어 가는 것'에서 <strong>'충치'</strong>",
+ "historyTitle": "'아래로 떨어지다'에서 온 decay",
+ "historyBody": "tooth는 고대 영어 toð에서 왔어요. decay는 고대 북부 프랑스어 decair에서 왔고, 라틴어 de-(아래로)와 cadere(떨어지다)가 뿌리예요. 좋은 상태에서 '아래로 떨어져' 무너진다는 뜻이 '썩다, 쇠퇴하다'가 된 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "decay",
+   "pos": "동사 / 명사",
+   "meaning": "썩다, 쇠퇴하다 / 부패",
+   "en": "Fallen leaves decay and enrich the soil.",
+   "ko": "떨어진 잎은 썩어서 흙을 기름지게 해요."
+  },
+  {
+   "word": "cavity",
+   "pos": "명사",
+   "meaning": "충치 구멍",
+   "en": "The dentist found two cavities in my teeth.",
+   "ko": "치과 의사가 내 이에서 충치 두 개를 발견했어요."
+  },
+  {
+   "word": "toothache",
+   "pos": "명사",
+   "meaning": "치통",
+   "en": "I couldn't sleep because of a toothache.",
+   "ko": "치통 때문에 잠을 못 잤어요."
+  },
+  {
+   "word": "dental",
+   "pos": "형용사",
+   "meaning": "치아의",
+   "en": "Regular dental checkups are important.",
+   "ko": "정기적인 치과 검진은 중요해요."
+  },
+  {
+   "word": "decline",
+   "pos": "동사 / 명사",
+   "meaning": "감소하다 / 쇠퇴",
+   "en": "The number of bees is declining.",
+   "ko": "벌의 수가 줄어들고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 사탕을 많이 먹어 이에 까만 구멍이 생긴 장면",
+ "imageCaption": "하얀 이에 세균 벌레들이 곡괭이로 구멍을 파는 그림을 떠올려 보세요.",
+ "movieLineEn": "Stop eating candy before bed, or you'll get tooth decay!",
+ "movieLineKo": "자기 전에 사탕 그만 먹어, 안 그러면 충치 생겨!",
+ "storyTitle": "사탕 왕의 최후",
+ "story": "사탕을 사랑한 동생은 양치를 늘 건너뛰었어요. 결국 toothache(치통)로 밤새 울었고, dental(치아의) 검진에서 tooth decay(충치)와 cavity(충치 구멍) 다섯 개가 나왔죠. 치과 의사가 \"사탕을 끊으세요\"라고 하자 동생은 결심했어요. \"앞으로는 젤리만 먹을게요!\""
+}

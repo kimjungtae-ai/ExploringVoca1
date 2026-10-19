@@ -1,0 +1,67 @@
+{
+ "word": "innocence",
+ "pos": "명사",
+ "phonetic": "[ˈɪnəsəns]",
+ "meaning": "결백, 무죄, 순수함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "noc",
+   "meaning": "해치다 (harm)",
+   "note": "라틴어 nocere(해치다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~한 상태 (명사)",
+   "note": "상태를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>noc</strong> (해치다) + <strong>-ence</strong> (상태) = '아무도 해치지 않은 상태'라는 뜻에서 <strong>'결백, 순수함'</strong>이 되었습니다.",
+ "historyTitle": "해치지 않는 사람",
+ "historyBody": "라틴어 'innocens'는 '해를 끼치지 않는'이라는 뜻이었어요. 아무 잘못도 하지 않았다는 법적인 의미의 '무죄'와, 세상의 때가 묻지 않은 '순수함'이라는 뜻이 모두 여기서 나왔죠. 성가신 것을 뜻하는 nuisance도 같은 nocere에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "innocent",
+   "pos": "형용사",
+   "meaning": "무죄의, 순진한",
+   "en": "The man said he was innocent.",
+   "ko": "그 남자는 자신이 무죄라고 말했어요."
+  },
+  {
+   "word": "innocently",
+   "pos": "부사",
+   "meaning": "순진하게, 천진하게",
+   "en": "The child smiled innocently at me.",
+   "ko": "아이가 나를 보며 천진하게 웃었어요."
+  },
+  {
+   "word": "nuisance",
+   "pos": "명사",
+   "meaning": "골칫거리, 성가신 것",
+   "en": "The loud music next door is a nuisance.",
+   "ko": "옆집의 시끄러운 음악은 골칫거리예요."
+  },
+  {
+   "word": "noxious",
+   "pos": "형용사",
+   "meaning": "유해한, 독성의",
+   "en": "The factory released noxious gases.",
+   "ko": "그 공장은 유해 가스를 배출했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 법정에서 결백을 증명하고 눈물 흘리는 사람",
+ "imageCaption": "누구도 해친 적 없는 아기의 맑은 눈을 떠올려 보세요. 그 깨끗함이 innocence예요.",
+ "movieLineEn": "I will prove my innocence, no matter what.",
+ "movieLineKo": "무슨 일이 있어도 내 결백을 증명하겠어.",
+ "storyTitle": "강아지의 결백",
+ "story": "소파 쿠션이 찢어지자 엄마는 강아지를 의심했어요. 강아지는 innocent(순진한) 눈빛으로 자신의 innocence(결백)를 호소했죠. 그 모습이 너무 innocently(천진하게) 귀여워서 다들 믿었어요. 그런데 다음 날 CCTV에 진짜 nuisance(골칫거리)가 찍혔어요. 범인은 쿠션 속에서 자던 고양이였대요!"
+}

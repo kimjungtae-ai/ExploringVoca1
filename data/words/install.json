@@ -1,0 +1,54 @@
+{
+ "word": "install",
+ "pos": "동사",
+ "phonetic": "[ɪnˈstɔːl]",
+ "meaning": "설치하다, 설비하다, 취임시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에 (in)",
+   "note": "어떤 자리 안에 놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "stall",
+   "meaning": "자리, 좌석 (place, stall)",
+   "note": "중세 라틴어 stallum(자리)에서 왔는데, 원래는 게르만어에서 빌려 온 말이에요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>stall</strong> (자리) = '정해진 자리에 앉히다'라는 뜻에서 <strong>'설치하다'</strong>가 되었습니다.",
+ "historyTitle": "성직자를 의자에 앉히던 의식",
+ "historyBody": "중세 라틴어 'installare'는 성당의 성직자석(stall)에 새 성직자를 앉혀 정식으로 임명한다는 뜻이었어요. 사람을 자리에 앉히던 말이 17세기 무렵 기계나 장치를 제자리에 놓는다는 뜻으로 넓어졌죠. 지금은 앱을 설치할 때도 쓰는 말이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "installation",
+   "pos": "명사",
+   "meaning": "설치, 설비",
+   "en": "The installation of the new air conditioner took an hour.",
+   "ko": "새 에어컨 설치는 한 시간이 걸렸어요."
+  },
+  {
+   "word": "installment",
+   "pos": "명사",
+   "meaning": "할부(금), (연재물의) 1회분",
+   "en": "I paid for the laptop in monthly installments.",
+   "ko": "나는 노트북을 월 할부로 샀어요."
+  },
+  {
+   "word": "stall",
+   "pos": "명사",
+   "meaning": "노점, 가판대",
+   "en": "She bought fruit from a street stall.",
+   "ko": "그녀는 길거리 노점에서 과일을 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 기사님이 벽에 새 에어컨을 딱 맞게 다는 장면",
+ "imageCaption": "새 기계를 들고 와 꼭 맞는 자리에 쏙 끼워 넣는 모습을 떠올려 보세요. 그게 install이에요.",
+ "movieLineEn": "Install the program, and the door will open.",
+ "movieLineKo": "프로그램을 설치하면 문이 열릴 거야.",
+ "storyTitle": "할아버지의 앱 설치",
+ "story": "할아버지가 스마트폰에 게임 앱을 install(설치하다)하고 싶어 하셨어요. installation(설치)이 끝나자 할아버지는 밤새 게임을 하셨죠. 그러다 아이템을 installment(할부)로 사셨대요! 다음 날 할아버지는 시장 stall(노점)에서 귤을 팔아 할부금을 갚고 계셨어요."
+}

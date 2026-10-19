@@ -1,0 +1,68 @@
+{
+ "word": "liven up",
+ "pos": "구동사",
+ "phonetic": "[ˈlaɪvn ʌp]",
+ "meaning": "활기를 띠게 하다, 활기차지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "liven",
+   "meaning": "활기 있게 하다 (make lively)",
+   "note": "live(살아 있는)+-en(~하게 만들다)으로 '생기 있게 만든다'는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 완전히 (up)",
+   "note": "분위기를 '위로 끌어올린다'는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>live</strong> (살아 있는) + <strong>-en</strong> (~하게 하다) + <strong>up</strong> (위로) = '생기 있게 위로 끌어올리다'에서 <strong>'활기를 띠게 하다'</strong>",
+ "historyTitle": "형용사 + -en 동사 만들기",
+ "historyBody": "liven은 18세기 무렵 형용사 live(살아 있는)에 동사를 만드는 -en이 붙어 생긴 말이에요. brighten(밝게 하다), widen(넓히다)과 같은 방식이죠. 보통 up과 함께 'liven up the party(파티 분위기를 띄우다)'처럼 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lively",
+   "pos": "형용사",
+   "meaning": "활기찬",
+   "en": "The market was lively and noisy.",
+   "ko": "시장은 활기차고 시끌벅적했어."
+  },
+  {
+   "word": "cheer up",
+   "pos": "구동사",
+   "meaning": "기운을 내다, 격려하다",
+   "en": "Cheer up! You'll do better next time.",
+   "ko": "힘내! 다음엔 더 잘할 거야."
+  },
+  {
+   "word": "brighten up",
+   "pos": "구동사",
+   "meaning": "밝아지다, 밝게 하다",
+   "en": "Flowers brighten up the room.",
+   "ko": "꽃이 방을 환하게 해 줘."
+  },
+  {
+   "word": "alive",
+   "pos": "형용사",
+   "meaning": "살아 있는",
+   "en": "The fish is still alive.",
+   "ko": "그 물고기는 아직 살아 있어."
+  },
+  {
+   "word": "lighten up",
+   "pos": "구동사",
+   "meaning": "기분을 풀다, 진지함을 덜다",
+   "en": "Lighten up! It's just a game.",
+   "ko": "좀 편하게 해! 그냥 게임이잖아."
+  }
+ ],
+ "imageSense": "대표 의미: 조용하던 교실에 음악이 나오자 다들 신나는 장면",
+ "imageCaption": "축 처진 분위기에 풍선과 음악이 더해져 생기가 도는 모습을 떠올려 보세요.",
+ "movieLineEn": "This party is dead. Let's liven it up!",
+ "movieLineKo": "이 파티 너무 썰렁해. 분위기 좀 띄워 보자!",
+ "storyTitle": "썰렁한 생일 파티",
+ "story": "삼촌 생일 파티가 너무 조용해서 내가 liven up(활기를 띠게 하다) 하기로 했어요. 신나는 음악으로 분위기를 brighten up(밝게 하다) 하고, 개그로 다들 cheer up(기운을 내다) 하게 했죠. 파티가 lively(활기찬) 해지자 삼촌이 갑자기 일어나 춤을 췄어요. 알고 보니 삼촌은 전직 댄스 가수였답니다!"
+}

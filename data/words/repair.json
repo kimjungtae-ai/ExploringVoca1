@@ -1,0 +1,68 @@
+{
+ "word": "repair",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈper]",
+ "meaning": "수리하다, 고치다, 회복하다 / 수리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "원래 상태로 되돌린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pair",
+   "meaning": "준비하다, 갖추다 (make ready)",
+   "note": "라틴어 parare(준비하다)에서 왔어요. '한 쌍(pair)'과는 다른 말이에요!"
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>pair</strong> (준비하다) = '다시 쓸 수 있게 갖추다'에서 <strong>'수리하다'</strong>가 되었어요.",
+ "historyTitle": "pair는 '한 쌍'이 아니에요",
+ "historyBody": "repair는 라틴어 reparare(회복하다, 다시 준비하다)가 고대 프랑스어 reparer를 거쳐 14세기에 영어로 들어온 말이에요. 뿌리 parare(준비하다)는 prepare(준비하다), separate(분리하다)에도 숨어 있어요. 철자 때문에 '한 쌍(pair)'으로 착각하기 쉬우니 조심하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "We prepared snacks for the class party.",
+   "ko": "우리는 학급 파티를 위해 간식을 준비했어요."
+  },
+  {
+   "word": "preparation",
+   "pos": "명사",
+   "meaning": "준비",
+   "en": "Good preparation is the key to a successful exam.",
+   "ko": "철저한 준비가 시험 성공의 열쇠예요."
+  },
+  {
+   "word": "separate",
+   "pos": "동사 / 형용사",
+   "meaning": "분리하다 / 분리된",
+   "en": "Please separate plastic bottles from paper.",
+   "ko": "플라스틱 병을 종이와 분리해 주세요."
+  },
+  {
+   "word": "apparatus",
+   "pos": "명사",
+   "meaning": "기구, 장치",
+   "en": "The scientists set up a special apparatus for the test.",
+   "ko": "과학자들은 실험을 위해 특수 장치를 설치했어요."
+  },
+  {
+   "word": "reparation",
+   "pos": "명사",
+   "meaning": "배상, 보상",
+   "en": "The company offered reparation to the people it had harmed.",
+   "ko": "그 회사는 피해를 입힌 사람들에게 배상을 제안했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고장 난 자전거를 공구로 고치는 장면",
+ "imageCaption": "체인이 빠진 자전거를 렌치로 조여 다시 달릴 수 있게 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Give me one hour, and I can repair this spaceship.",
+ "movieLineKo": "한 시간만 줘. 이 우주선 고칠 수 있어.",
+ "storyTitle": "만능 수리공 할아버지",
+ "story": "할아버지는 뭐든 repair(수리하다)하는 달인이에요. 늘 공구를 prepare(준비하다)해 두시죠. 오늘은 고장 난 라디오를 분해해 부품을 separate(분리하다)하셨어요. 완벽한 preparation(준비) 끝에 조립 완료! 그런데 라디오에서 나사 다섯 개가 남았어요. 그래도 소리는 더 잘 나더래요."
+}

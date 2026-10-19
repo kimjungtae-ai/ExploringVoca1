@@ -1,0 +1,41 @@
+{
+ "word": "rot",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɑːt]",
+ "meaning": "썩다, 부패하다 / 부패",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rot (rotian)",
+   "meaning": "썩다 (decay)",
+   "note": "고대 영어 rotian에서 온 게르만계 토박이 단어예요."
+  }
+ ],
+ "summary": "<strong>rot</strong>는 고대 영어 rotian에서 온 말로 <strong>'썩다, 부패하다'</strong>를 뜻해요.",
+ "historyTitle": "썩어 가는 것들의 오래된 이름",
+ "historyBody": "rot는 고대 영어 rotian(썩다)에서 왔고, 네덜란드어 rotten과 같은 게르만어 뿌리를 가졌어요. 형용사 rotten(썩은)은 고대 노르드어 rotinn의 영향을 받아 생긴 말이에요. 요즘은 'brain rot(뇌 썩음)'처럼 자극적인 콘텐츠의 해로움을 말할 때도 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rotten",
+   "pos": "형용사",
+   "meaning": "썩은, 형편없는",
+   "en": "The apples in the box were rotten.",
+   "ko": "상자 안의 사과들이 썩어 있었어요."
+  },
+  {
+   "word": "rotting",
+   "pos": "형용사",
+   "meaning": "썩어 가는",
+   "en": "The smell of rotting leaves filled the forest.",
+   "ko": "썩어 가는 낙엽 냄새가 숲을 가득 채웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 냉장고 구석에서 잊힌 채 썩어 가는 바나나",
+ "imageCaption": "노랗던 바나나가 갈색, 검은색으로 변해 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Leave it here, and it'll rot in a week.",
+ "movieLineKo": "여기 두면 일주일 안에 썩을 거야.",
+ "storyTitle": "냉장고 탐험대",
+ "story": "엄마가 냉장고 청소를 선언하셨어요. 구석에서 rotten(썩은) 양파와 rotting(썩어 가는) 두부가 나왔죠. \"이게 다 rot(썩다)할 때까지 뭐 했니?\" 나는 smell(냄새)에 코를 막고 garbage(쓰레기)를 버렸어요. 그런데 가장 깊은 곳에서 나온 건, 작년에 아빠가 숨겨 둔 케이크였답니다."
+}

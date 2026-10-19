@@ -1,0 +1,87 @@
+{
+ "word": "accessibility",
+ "pos": "명사",
+ "phonetic": "[əkˌsesəˈbɪləti]",
+ "meaning": "접근성, 이용 가능성, 이해하기 쉬움",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~쪽으로 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cess",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는",
+   "note": "'~할 수 있는'이라는 형용사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~성, ~함 (명사)",
+   "note": "형용사를 '성질'을 뜻하는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~쪽으로) + <strong>cess</strong> (가다) + <strong>-ible</strong> (~할 수 있는) + <strong>-ity</strong> (~성) = '다가갈 수 있는 정도'에서 <strong>'접근성'</strong>이 되었어요.",
+ "historyTitle": "'다가가다'라는 라틴어 accedere",
+ "historyBody": "라틴어 accedere는 ad(~쪽으로)와 cedere(가다)가 합쳐져 '다가가다'라는 뜻이었어요. 여기서 access(접근)와 accessible(접근 가능한)이 생겼고, 요즘은 장애인이나 노인도 쉽게 이용할 수 있는 정도를 말할 때 accessibility라는 말을 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "access",
+   "pos": "명사/동사",
+   "meaning": "접근 / 접근하다",
+   "en": "Students have free access to the school library.",
+   "ko": "학생들은 학교 도서관을 자유롭게 이용할 수 있어요."
+  },
+  {
+   "word": "accessible",
+   "pos": "형용사",
+   "meaning": "접근 가능한, 이해하기 쉬운",
+   "en": "The museum is accessible to people in wheelchairs.",
+   "ko": "그 박물관은 휠체어를 탄 사람도 이용할 수 있어요."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 진행하다",
+   "en": "Please proceed to the next question.",
+   "ko": "다음 문제로 넘어가세요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "The cost should not exceed 100 dollars.",
+   "ko": "비용이 100달러를 넘어서는 안 돼요."
+  },
+  {
+   "word": "succeed",
+   "pos": "동사",
+   "meaning": "성공하다, 뒤를 잇다",
+   "en": "If you keep trying, you will succeed.",
+   "ko": "계속 노력하면 성공할 거예요."
+  },
+  {
+   "word": "process",
+   "pos": "명사",
+   "meaning": "과정, 절차",
+   "en": "Learning a language is a slow process.",
+   "ko": "언어를 배우는 것은 느린 과정이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 계단 옆에 경사로와 엘리베이터가 있는 건물 입구",
+ "imageCaption": "휠체어도 유모차도 쉽게 들어갈 수 있는 입구를 떠올려 보세요. 누구나 '다가갈 수 있는' 정도가 접근성이에요.",
+ "movieLineEn": "This app was built with accessibility in mind for everyone.",
+ "movieLineKo": "이 앱은 모두를 위한 접근성을 생각해서 만들어졌어.",
+ "storyTitle": "엘리베이터 달린 개집",
+ "story": "부잣집 강아지는 3층짜리 개집을 갖고 있었어요. 하지만 accessibility(접근성)가 나빠 할머니 개는 2층에 access(접근)할 수 없었죠. 주인은 공사를 proceed(진행하다)했고, 예산을 exceed(초과하다)했지만 결국 succeed(성공하다)! 엘리베이터가 생겼는데, 강아지들은 계속 1층 소파에서만 잤대요."
+}

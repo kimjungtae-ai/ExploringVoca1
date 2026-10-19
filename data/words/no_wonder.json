@@ -1,0 +1,68 @@
+{
+ "word": "no wonder",
+ "pos": "숙어",
+ "phonetic": "[noʊ ˈwʌndər]",
+ "meaning": "~하는 것도 당연하다, 놀랄 일이 아니다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "no",
+   "meaning": "~이 아닌, 없는 (no)",
+   "note": "뒤의 명사를 완전히 부정해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "wonder",
+   "meaning": "놀라움, 경이 (wonder)",
+   "note": "고대 영어 wundor(놀라운 일)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>no</strong> (없는) + <strong>wonder</strong> (놀라움) = '놀랄 것이 없다'에서 <strong>'~하는 게 당연하다'</strong>",
+ "historyTitle": "'It is no wonder'가 줄어든 말",
+ "historyBody": "no wonder는 'It is no wonder (that) ~(~은 놀랄 일이 아니다)'에서 앞부분이 생략된 표현이에요. wonder는 고대 영어 wundor(경이, 기적)에서 왔어요. 이유를 알게 되어 '아, 그래서 그랬구나!' 할 때 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "wonder",
+   "pos": "동사 / 명사",
+   "meaning": "궁금해하다 / 경이",
+   "en": "I wonder why the sky is blue.",
+   "ko": "하늘이 왜 파란지 궁금해요."
+  },
+  {
+   "word": "wonderful",
+   "pos": "형용사",
+   "meaning": "훌륭한, 멋진",
+   "en": "We had a wonderful time at the beach.",
+   "ko": "우리는 해변에서 멋진 시간을 보냈어요."
+  },
+  {
+   "word": "no doubt",
+   "pos": "숙어",
+   "meaning": "틀림없이",
+   "en": "No doubt she will pass the exam.",
+   "ko": "틀림없이 그녀는 시험에 합격할 거예요."
+  },
+  {
+   "word": "no longer",
+   "pos": "숙어",
+   "meaning": "더 이상 ~않다",
+   "en": "He no longer lives in this town.",
+   "ko": "그는 더 이상 이 마을에 살지 않아요."
+  },
+  {
+   "word": "wondrous",
+   "pos": "형용사",
+   "meaning": "경이로운",
+   "en": "The children watched the wondrous fireworks.",
+   "ko": "아이들은 경이로운 불꽃놀이를 바라봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구가 밤새 게임했다는 말을 듣고 '그래서 졸렸구나' 하는 장면",
+ "imageCaption": "친구의 피곤한 얼굴을 보고 이유를 알게 되어 고개를 끄덕이는 모습을 떠올려 보세요.",
+ "movieLineEn": "You haven't slept in three days? No wonder you look terrible.",
+ "movieLineKo": "사흘이나 못 잤다고? 어쩐지 얼굴이 엉망이더라.",
+ "storyTitle": "사라진 케이크의 진실",
+ "story": "냉장고 케이크가 사라졌어요. 나는 I wonder(궁금해하다) 하며 범인을 찾았죠. 강아지 입가에 크림이 묻어 있었어요. no wonder(당연하다) 아까부터 꼬리를 흔들더라니! no doubt(틀림없이) 범인이라 생각했는데, 사실 아빠가 먹고 강아지에게 묻혀 둔 거였어요."
+}

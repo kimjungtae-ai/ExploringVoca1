@@ -1,0 +1,80 @@
+{
+ "word": "give it another shot",
+ "pos": "숙어",
+ "phonetic": "[ɡɪv ɪt əˈnʌðər ʃɑːt]",
+ "meaning": "한 번 더 시도해 보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "give",
+   "meaning": "주다, 하다 (give)",
+   "note": "give a try처럼 '한 번 해 보다'라는 행동을 나타내요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "it",
+   "meaning": "그것 (it)",
+   "note": "시도하려는 일을 가리켜요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "another",
+   "meaning": "또 하나의 (another)",
+   "note": "an + other로 '하나 더'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "shot",
+   "meaning": "발사; 시도 (shot)",
+   "note": "총이나 공을 '한 번 쏘는 것'에서 '한 번의 시도'가 됐어요."
+  }
+ ],
+ "summary": "<strong>give it</strong> (그것에 해 보다) + <strong>another shot</strong> (한 번 더 쏘기) = '한 번 더 쏴 보다'라서 <strong>'한 번 더 시도해 보다'</strong>예요.",
+ "historyTitle": "한 번 더 쏘아 보는 기회",
+ "historyBody": "shot은 고대 영어 sceot(쏘기)에서 왔고, shoot(쏘다)와 같은 뿌리예요. 활이나 총을 '한 발 쏘는 것'이 '한 번의 시도'라는 뜻으로 넓어져, give it a shot(한번 해 보다)이라는 구어 표현이 생겼어요. another가 붙으면 실패 후 '한 번 더'라는 뜻이 돼요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "give it a try",
+   "pos": "숙어",
+   "meaning": "한번 해 보다",
+   "en": "The food looks strange, but I'll give it a try.",
+   "ko": "음식이 이상해 보이지만 한번 먹어 볼게요."
+  },
+  {
+   "word": "have a go",
+   "pos": "숙어",
+   "meaning": "시도해 보다",
+   "en": "Can I have a go on your skateboard?",
+   "ko": "네 스케이트보드 한번 타 봐도 돼?"
+  },
+  {
+   "word": "try again",
+   "pos": "숙어",
+   "meaning": "다시 해 보다",
+   "en": "If you fail, just try again.",
+   "ko": "실패하면 다시 해 보면 돼요."
+  },
+  {
+   "word": "long shot",
+   "pos": "명사구",
+   "meaning": "가능성이 희박한 시도",
+   "en": "Winning the lottery is a long shot.",
+   "ko": "복권 당첨은 가능성이 아주 낮은 일이에요."
+  },
+  {
+   "word": "second chance",
+   "pos": "명사구",
+   "meaning": "두 번째 기회",
+   "en": "Everyone deserves a second chance.",
+   "ko": "누구나 두 번째 기회를 받을 자격이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 농구 슛을 놓친 뒤 다시 공을 잡는 선수",
+ "imageCaption": "한 번 빗나갔지만 숨을 고르고 다시 슛을 던지는 순간을 떠올려 보세요.",
+ "movieLineEn": "We failed once. So what? Let's give it another shot.",
+ "movieLineKo": "한 번 실패했어. 그래서 뭐? 한 번 더 해 보자.",
+ "storyTitle": "달걀 프라이 도전기",
+ "story": "나는 달걀 프라이를 처음 만들었다가 새까맣게 태웠어요. 엄마가 \"give it another shot(한 번 더 시도해 보다)!\"이라며 응원했죠. 나는 try again(다시 해 보다)했지만 또 실패! 세 번째로 give it a try(한번 해 보다)했을 때 드디어 완벽한 프라이가 됐어요. 기뻐서 접시를 들고 뛰다가 바닥에 떨어뜨렸죠. 다시 second chance(두 번째 기회)가 필요해요!"
+}

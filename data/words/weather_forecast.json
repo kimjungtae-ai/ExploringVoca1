@@ -1,0 +1,68 @@
+{
+ "word": "weather forecast",
+ "pos": "명사구",
+ "phonetic": "[ˈweðər ˈfɔːrkæst]",
+ "meaning": "일기 예보",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "weather",
+   "meaning": "날씨 (weather)",
+   "note": "무엇을 예측하는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "forecast",
+   "meaning": "예보, 예측 (forecast)",
+   "note": "fore-(미리) + cast(던지다)로, 앞일을 미리 내다보는 것이에요."
+  }
+ ],
+ "summary": "<strong>weather</strong> (날씨) + <strong>fore-</strong> (미리) + <strong>cast</strong> (던지다) = '날씨를 미리 내다보다'에서 <strong>'일기 예보'</strong>",
+ "historyTitle": "피츠로이 제독의 '예보'",
+ "historyBody": "forecast는 fore(미리)와 cast(던지다, 계산하다)가 합쳐진 말로 15세기부터 쓰였어요. 1860년대 영국 기상청을 이끌던 로버트 피츠로이(Robert FitzRoy) 제독이 날씨 예측에 'forecast'라는 말을 쓰며 신문에 일기 예보를 싣기 시작했어요. weather는 고대 영어 weder에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "forecast",
+   "pos": "동사",
+   "meaning": "예보하다, 예측하다",
+   "en": "Experts forecast a hot summer this year.",
+   "ko": "전문가들은 올해 더운 여름을 예측해요."
+  },
+  {
+   "word": "predict",
+   "pos": "동사",
+   "meaning": "예측하다",
+   "en": "No one can predict the future perfectly.",
+   "ko": "누구도 미래를 완벽히 예측할 수 없어요."
+  },
+  {
+   "word": "weather report",
+   "pos": "명사구",
+   "meaning": "일기 예보, 기상 보도",
+   "en": "The weather report said it would snow.",
+   "ko": "일기 예보에서 눈이 올 거라고 했어요."
+  },
+  {
+   "word": "foresee",
+   "pos": "동사",
+   "meaning": "예견하다",
+   "en": "Nobody foresaw the sudden storm.",
+   "ko": "아무도 갑작스러운 폭풍을 예견하지 못했어요."
+  },
+  {
+   "word": "meteorologist",
+   "pos": "명사",
+   "meaning": "기상학자",
+   "en": "The meteorologist explained the typhoon's path.",
+   "ko": "기상학자가 태풍의 경로를 설명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: TV 기상 캐스터가 지도 앞에서 내일 날씨를 알려 주는 장면",
+ "imageCaption": "화면 속 해와 구름, 우산 아이콘이 지도 위에 줄지어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "The weather forecast said sunny. So why am I soaking wet?",
+ "movieLineKo": "일기 예보에선 맑다고 했는데, 난 왜 흠뻑 젖은 거야?",
+ "storyTitle": "우산의 저주",
+ "story": "weather forecast(일기 예보)에서 비가 온다고 해서 나는 우산을 챙겼어요. 그날은 하루 종일 맑았죠. 다음 날 meteorologist(기상학자)가 맑음을 forecast(예보하다)해서 우산을 두고 갔더니 폭우가 쏟아졌어요. 이제 나는 날씨를 predict(예측하다)하는 법을 알아요. 내가 우산을 챙기면 무조건 맑아요!"
+}

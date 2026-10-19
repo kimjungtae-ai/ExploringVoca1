@@ -1,0 +1,62 @@
+{
+ "word": "bottom",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈbɑːtəm]",
+ "meaning": "맨 아래, 바닥, 밑부분 / 맨 아래의",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bottom (← botm)",
+   "meaning": "바닥, 밑 (ground, foundation)",
+   "note": "고대 영어 botm에서 온 말로, 라틴어 fundus(바닥)와 먼 친척이에요."
+  }
+ ],
+ "summary": "<strong>bottom</strong>은 고대 영어 <strong>botm</strong>(바닥)에서 와서 지금도 그대로 <strong>'맨 아래, 바닥'</strong>을 뜻해요.",
+ "historyTitle": "영어 bottom과 라틴어 fundus는 사촌",
+ "historyBody": "bottom은 고대 영어 botm에서 온 게르만어예요. 어원 사전에 따르면 이 말은 '바닥'을 뜻하는 인도유럽어 뿌리에서 나왔는데, 같은 뿌리에서 라틴어 fundus(바닥)도 나왔어요. 그래서 fundamental(근본적인), foundation(기초) 같은 단어들이 bottom과 먼 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bottomless",
+   "pos": "형용사",
+   "meaning": "바닥이 없는, 끝없는",
+   "en": "The cave looked like a bottomless hole.",
+   "ko": "그 동굴은 바닥이 없는 구멍처럼 보였어."
+  },
+  {
+   "word": "fundamental",
+   "pos": "형용사",
+   "meaning": "근본적인, 기본적인",
+   "en": "Trust is fundamental to any friendship.",
+   "ko": "신뢰는 모든 우정의 기본이에요."
+  },
+  {
+   "word": "foundation",
+   "pos": "명사",
+   "meaning": "기초, 토대, 재단",
+   "en": "Reading is the foundation of good writing.",
+   "ko": "독서는 좋은 글쓰기의 기초예요."
+  },
+  {
+   "word": "profound",
+   "pos": "형용사",
+   "meaning": "깊은, 심오한",
+   "en": "The trip had a profound effect on my life.",
+   "ko": "그 여행은 내 인생에 깊은 영향을 주었어."
+  },
+  {
+   "word": "fund",
+   "pos": "명사 / 동사",
+   "meaning": "기금, 자금 / 자금을 대다",
+   "en": "The school raised funds for a new library.",
+   "ko": "학교는 새 도서관을 위한 기금을 모았어."
+  }
+ ],
+ "imageSense": "대표 의미: 깊은 바다의 맨 밑바닥에 가라앉은 보물 상자",
+ "imageCaption": "컵 맨 밑에 깔린 설탕이나 바다 밑바닥의 보물 상자를 떠올려 보세요.",
+ "movieLineEn": "Thank you from the bottom of my heart.",
+ "movieLineKo": "진심으로, 마음 깊은 곳에서부터 고마워.",
+ "storyTitle": "바닥의 보물",
+ "story": "잠수부 민호는 bottomless(바닥이 없는)라는 소문이 있는 호수에 들어갔어요. 한참 내려가 드디어 bottom(바닥)에 닿았죠! 거기엔 보물 상자가 있었어요. 학교 fund(기금)로 쓰겠다며 열어 보니, 안에는 '수영 연습의 foundation(기초)은 숨쉬기'라는 쪽지뿐이었답니다."
+}

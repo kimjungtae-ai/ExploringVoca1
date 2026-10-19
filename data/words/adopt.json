@@ -1,0 +1,61 @@
+{
+ "word": "adopt",
+ "pos": "동사",
+ "phonetic": "[əˈdɑːpt]",
+ "meaning": "입양하다, 채택하다, 받아들이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~을, ~쪽으로 (to)",
+   "note": "선택하는 대상을 향한 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "opt",
+   "meaning": "선택하다 (choose)",
+   "note": "라틴어 optare(고르다, 바라다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~을) + <strong>opt</strong> (선택하다) = '골라서 내 것으로 삼다'에서 <strong>'입양하다, 채택하다'</strong>가 되었어요.",
+ "historyTitle": "로마 시대의 '선택된 자식'",
+ "historyBody": "라틴어 adoptare는 '골라서 받아들이다'라는 뜻이었어요. 고대 로마에서는 후계자를 입양하는 일이 흔했는데, 초대 황제 아우구스투스도 카이사르에게 입양된 사람이었어요. 지금은 아이나 동물뿐 아니라 의견, 방법을 '채택하다'라는 뜻으로도 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "adoption",
+   "pos": "명사",
+   "meaning": "입양, 채택",
+   "en": "The adoption of the new law took two years.",
+   "ko": "새 법이 채택되기까지 2년이 걸렸어요."
+  },
+  {
+   "word": "option",
+   "pos": "명사",
+   "meaning": "선택, 선택권",
+   "en": "We have two options: stay or leave.",
+   "ko": "우리에겐 남거나 떠나는 두 가지 선택이 있어요."
+  },
+  {
+   "word": "optional",
+   "pos": "형용사",
+   "meaning": "선택적인",
+   "en": "Wearing a uniform is optional on Fridays.",
+   "ko": "금요일에는 교복 착용이 선택이에요."
+  },
+  {
+   "word": "opt",
+   "pos": "동사",
+   "meaning": "선택하다",
+   "en": "Many students opt to study abroad.",
+   "ko": "많은 학생이 해외 유학을 선택해요."
+  }
+ ],
+ "imageSense": "대표 의미: 보호소에서 강아지를 골라 따뜻하게 안고 집으로 데려가는 장면",
+ "imageCaption": "수많은 선택지 중에서 '너로 정했어!' 하고 품에 안는 모습을 떠올려 보세요.",
+ "movieLineEn": "We decided to adopt this little puppy.",
+ "movieLineKo": "우리는 이 작은 강아지를 입양하기로 했어.",
+ "storyTitle": "고양이의 입양 면접",
+ "story": "유기묘 보호소에서 고양이 치즈는 가족을 adopt(입양하다)하기로 했어요. 여러 option(선택)을 살펴봤죠. 면접은 optional(선택적인)이 아니었어요! 면접 질문은 '참치 캔 몇 개 줄 수 있어요?' 결국 치즈는 우리 가족을 선택했어요. 엄마는 말했어요. '우리가 입양한 줄 알았는데, adoption(입양)당한 건 우리였구나!'"
+}

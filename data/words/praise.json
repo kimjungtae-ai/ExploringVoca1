@@ -1,0 +1,62 @@
+{
+ "word": "praise",
+ "pos": "동사 / 명사",
+ "phonetic": "[preɪz]",
+ "meaning": "칭찬하다, 찬양하다 / 칭찬, 찬사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "prais",
+   "meaning": "값, 가치 (price, value)",
+   "note": "라틴어 pretium(값, 가치)에서 고대 프랑스어 preisier(값을 매기다)를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>prais</strong> (값, 가치) = 누군가의 가치를 높이 매겨 주다, 곧 <strong>'칭찬하다'</strong>예요.",
+ "historyTitle": "값을 매기는 일이 칭찬이 되기까지",
+ "historyBody": "praise는 고대 프랑스어 preisier(값을 매기다, 높이 평가하다)에서 왔고, 그 뿌리는 라틴어 pretium(값)이에요. 무엇의 가치를 높게 매기는 것이 곧 칭찬이었던 거죠. 그래서 praise는 price, precious, appreciate와 같은 집안 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격, 대가",
+   "en": "The price of apples went up this week.",
+   "ko": "이번 주에 사과 가격이 올랐어요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "Time with family is precious.",
+   "ko": "가족과 보내는 시간은 소중해요."
+  },
+  {
+   "word": "appreciate",
+   "pos": "동사",
+   "meaning": "감사하다, 진가를 알아보다",
+   "en": "I really appreciate your help.",
+   "ko": "도와줘서 정말 고마워요."
+  },
+  {
+   "word": "priceless",
+   "pos": "형용사",
+   "meaning": "값을 매길 수 없는, 대단히 귀중한",
+   "en": "Her advice was priceless to me.",
+   "ko": "그녀의 조언은 나에게 값을 매길 수 없을 만큼 귀했어요."
+  },
+  {
+   "word": "appraise",
+   "pos": "동사",
+   "meaning": "평가하다, 감정하다",
+   "en": "An expert appraised the old painting.",
+   "ko": "전문가가 그 오래된 그림을 감정했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 학생의 어깨를 두드리며 칭찬하는 모습",
+ "imageCaption": "\"정말 잘했어!\" 하며 엄지를 척 들어 주는 선생님을 떠올려 보세요.",
+ "movieLineEn": "Don't praise me yet. I haven't finished.",
+ "movieLineKo": "아직 칭찬하지 마. 아직 안 끝났어.",
+ "storyTitle": "칭찬 감정사",
+ "story": "칭찬에 목마른 민호는 매일 praise(칭찬)를 받고 싶었어요. 그래서 엄마 말씀을 appreciate(감사하다)하고 설거지도 했죠. 엄마는 감동해 민호를 precious(소중한) 아들이라 불렀어요. 신이 난 민호가 칭찬의 price(가격)를 물었어요. \"용돈 천 원 추가요!\" 칭찬은 그날로 끝났대요."
+}

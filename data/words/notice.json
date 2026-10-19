@@ -1,0 +1,68 @@
+{
+ "word": "notice",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈnoʊtɪs]",
+ "meaning": "알아차리다, 주목하다 / 공지, 통지, 주목",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "not",
+   "meaning": "알다 (know)",
+   "note": "라틴어 noscere(알게 되다)의 과거분사 notus(알려진)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ice",
+   "meaning": "~하는 것 (명사)",
+   "note": "라틴어 -itia에서 온 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>not</strong> (알다) + <strong>-ice</strong> (~하는 것) = 알게 되는 것이라서 <strong>'알아차리다, 공지'</strong>가 되었어요.",
+ "historyTitle": "'알려진 것'에서 온 공지",
+ "historyBody": "notice는 라틴어 notitia(알려진 상태, 앎)에서 고대 프랑스어를 거쳐 들어왔어요. 사람들에게 '알게 하는 것'이 공지이고, 내가 '알게 되는 것'이 알아차림이죠. 같은 뿌리 noscere에서 recognize(알아보다)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "noticeable",
+   "pos": "형용사",
+   "meaning": "눈에 띄는, 뚜렷한",
+   "en": "There was a noticeable change in his attitude.",
+   "ko": "그의 태도에 눈에 띄는 변화가 있었어요."
+  },
+  {
+   "word": "notify",
+   "pos": "동사",
+   "meaning": "통지하다, 알리다",
+   "en": "The school will notify parents about the schedule change.",
+   "ko": "학교는 학부모들에게 일정 변경을 알릴 거예요."
+  },
+  {
+   "word": "notion",
+   "pos": "명사",
+   "meaning": "개념, 생각",
+   "en": "The notion of time travel fascinates many people.",
+   "ko": "시간 여행이라는 개념은 많은 사람을 매료시켜요."
+  },
+  {
+   "word": "notorious",
+   "pos": "형용사",
+   "meaning": "악명 높은",
+   "en": "This road is notorious for traffic jams.",
+   "ko": "이 도로는 교통 체증으로 악명 높아요."
+  },
+  {
+   "word": "recognize",
+   "pos": "동사",
+   "meaning": "알아보다, 인정하다",
+   "en": "I didn't recognize you with your new haircut.",
+   "ko": "새 머리 모양 때문에 너를 못 알아봤어."
+  }
+ ],
+ "imageSense": "대표 의미: 게시판에 붙은 공지를 보고 깜짝 놀라는 학생",
+ "imageCaption": "복도 게시판의 '내일 시험' 공지를 발견하고 눈이 동그래지는 순간을 떠올려 보세요.",
+ "movieLineEn": "Did you notice anything strange about him?",
+ "movieLineKo": "그 사람한테서 뭔가 이상한 점 눈치챘어?",
+ "storyTitle": "아무도 모른 변신",
+ "story": "엄마가 미용실에서 머리를 바꿨는데 아무도 notice(알아차리다)하지 못했어요. 아빠는 noticeable(눈에 띄는) 변화가 없다며 고개를 저었죠. 화가 난 엄마가 냉장고에 notice(공지)를 붙였어요. '오늘 저녁 없음.' 그제야 모두가 엄마를 recognize(알아보다)했답니다."
+}

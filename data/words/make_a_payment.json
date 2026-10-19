@@ -1,0 +1,68 @@
+{
+ "word": "make a payment",
+ "pos": "동사구",
+ "phonetic": "[meɪk ə ˈpeɪmənt]",
+ "meaning": "지불하다, 결제하다, 돈을 내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "make",
+   "meaning": "하다, 만들다 (make)",
+   "note": "명사와 함께 '그 행동을 하다'라는 뜻을 만들어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "payment",
+   "meaning": "지불, 결제 (payment)",
+   "note": "pay(지불하다) + -ment(명사)로 '돈을 내는 일'이에요."
+  }
+ ],
+ "summary": "<strong>make</strong> (하다) + <strong>a payment</strong> (지불) = '지불이라는 행동을 하다'에서 <strong>'결제하다, 돈을 내다'</strong>",
+ "historyTitle": "'달래다'에서 온 pay",
+ "historyBody": "pay는 라틴어 pacare(평화롭게 하다, 달래다)에서 고대 프랑스어 paier를 거쳐 왔어요. 빚을 갚아 상대를 '달래고 만족시킨다'는 생각에서 '지불하다'가 되었죠. peace(평화)와 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pay",
+   "pos": "동사",
+   "meaning": "지불하다",
+   "en": "I paid ten dollars for this book.",
+   "ko": "나는 이 책에 10달러를 냈어요."
+  },
+  {
+   "word": "pay off",
+   "pos": "구동사",
+   "meaning": "(빚을) 다 갚다, 성과를 내다",
+   "en": "Her hard work finally paid off.",
+   "ko": "그녀의 노력이 마침내 성과를 거뒀어요."
+  },
+  {
+   "word": "make a reservation",
+   "pos": "동사구",
+   "meaning": "예약하다",
+   "en": "We made a reservation for four people.",
+   "ko": "우리는 네 명 자리를 예약했어요."
+  },
+  {
+   "word": "down payment",
+   "pos": "명사구",
+   "meaning": "계약금, 착수금",
+   "en": "They saved money for a down payment on a house.",
+   "ko": "그들은 집 계약금을 위해 돈을 모았어요."
+  },
+  {
+   "word": "payable",
+   "pos": "형용사",
+   "meaning": "지불해야 하는",
+   "en": "The fee is payable at the front desk.",
+   "ko": "요금은 안내 데스크에서 지불하시면 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 카드 단말기에 카드를 꽂아 결제하는 장면",
+ "imageCaption": "계산대에서 '삑!' 하고 결제가 완료되는 순간을 떠올려 보세요.",
+ "movieLineEn": "You have until midnight to make a payment.",
+ "movieLineKo": "자정까지 돈을 내야 한다.",
+ "storyTitle": "결제의 순간",
+ "story": "민지는 콘서트 티켓을 위해 make a payment(결제하다)하려고 했어요. 전날 make a reservation(예약하다)도 해 두었죠. 용돈을 모은 노력이 pay off(성과를 내다)되는 순간! 그런데 결제 버튼을 누르자 화면에 '엄마 카드 승인 대기 중'이 떴어요."
+}

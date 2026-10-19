@@ -1,0 +1,55 @@
+{
+ "word": "look",
+ "pos": "동사 / 명사",
+ "phonetic": "[lʊk]",
+ "meaning": "보다, ~해 보이다 / 봄, 외모, 표정",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "look",
+   "meaning": "보다 (see)",
+   "note": "고대 영어 lōcian(보다)에서 온 짧은 게르만어예요."
+  }
+ ],
+ "summary": "<strong>look</strong>은 더 쪼갤 수 없는 짧은 단어로, 시선을 향하는 동작에서 <strong>'보다, ~해 보이다'</strong>라는 뜻이 되었습니다.",
+ "historyTitle": "고대 영어 '로키안'",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 왔어요. 고대 독일어에도 비슷한 말이 있었지만, 그보다 더 오래된 기원은 확실하지 않답니다. 'look after(돌보다)', 'look into(조사하다)'처럼 다양한 구동사로 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "outlook",
+   "pos": "명사",
+   "meaning": "전망, 관점",
+   "en": "She has a positive outlook on life.",
+   "ko": "그녀는 삶에 대해 긍정적인 관점을 가지고 있어요."
+  },
+  {
+   "word": "overlook",
+   "pos": "동사",
+   "meaning": "간과하다, 내려다보다",
+   "en": "Don't overlook small mistakes in your essay.",
+   "ko": "에세이의 작은 실수를 놓치지 마세요."
+  },
+  {
+   "word": "onlooker",
+   "pos": "명사",
+   "meaning": "구경꾼",
+   "en": "A crowd of onlookers gathered around the street artist.",
+   "ko": "길거리 예술가 주위로 구경꾼들이 모여들었어요."
+  },
+  {
+   "word": "good-looking",
+   "pos": "형용사",
+   "meaning": "잘생긴, 보기 좋은",
+   "en": "The actor is good-looking and very kind.",
+   "ko": "그 배우는 잘생기고 아주 친절해요."
+  }
+ ],
+ "imageSense": "대표 의미: 창밖을 가만히 바라보는 아이의 옆모습",
+ "imageCaption": "눈길을 어딘가로 '향하는' 동작을 떠올려 보세요. 그냥 보이는 see와 달리, 일부러 보는 것이 look이에요.",
+ "movieLineEn": "Look at me. Everything is going to be okay.",
+ "movieLineKo": "날 봐. 다 괜찮아질 거야.",
+ "storyTitle": "구경꾼의 착각",
+ "story": "길거리에 onlooker(구경꾼)들이 잔뜩 모여 있었어요. 도윤이도 look(보다)하려고 끼어들었죠. 사람들은 good-looking(잘생긴) 마술사를 보고 있었어요. 마술사가 \"제 모자를 overlook(간과하다)하지 마세요!\"라고 외치는 순간, 모자에서 나온 비둘기가 도윤이 머리 위에 앉았어요. 오늘의 outlook(전망)은 흐림이었답니다."
+}

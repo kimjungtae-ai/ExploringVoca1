@@ -1,0 +1,75 @@
+{
+ "word": "sponsor",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈspɑːnsər]",
+ "meaning": "후원자, 광고주 / 후원하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "spons",
+   "meaning": "약속하다, 보증하다 (pledge)",
+   "note": "라틴어 spondere(엄숙하게 약속하다)의 과거분사 sponsus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-or",
+   "meaning": "~하는 사람 (명사)",
+   "note": "'약속해 주는 사람, 보증인'이 돼요."
+  }
+ ],
+ "summary": "<strong>spons</strong> (약속하다) + <strong>-or</strong> (~하는 사람) = '책임지겠다고 약속한 보증인'에서 <strong>'후원자, 후원하다'</strong>가 되었습니다.",
+ "historyTitle": "엄숙한 약속을 한 사람",
+ "historyBody": "라틴어 spondere는 '엄숙하게 약속하다, 보증하다'라는 뜻이었고, sponsor는 다른 사람의 빚이나 의무를 책임지겠다고 나서는 보증인이었어요. 교회에서는 세례 받는 아이의 대부모를 뜻하기도 했고, 20세기에 방송 광고주라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sponsorship",
+   "pos": "명사",
+   "meaning": "후원",
+   "en": "The festival got sponsorship from a local bank.",
+   "ko": "그 축제는 지역 은행의 후원을 받았어요."
+  },
+  {
+   "word": "respond",
+   "pos": "동사",
+   "meaning": "대답하다, 반응하다",
+   "en": "She didn't respond to my message.",
+   "ko": "그녀는 내 메시지에 답하지 않았어요."
+  },
+  {
+   "word": "response",
+   "pos": "명사",
+   "meaning": "반응, 응답",
+   "en": "The audience's response to the show was amazing.",
+   "ko": "그 공연에 대한 관객의 반응은 놀라웠어요."
+  },
+  {
+   "word": "responsible",
+   "pos": "형용사",
+   "meaning": "책임이 있는",
+   "en": "Each student is responsible for cleaning the classroom.",
+   "ko": "각 학생은 교실 청소에 책임이 있어요."
+  },
+  {
+   "word": "correspond",
+   "pos": "동사",
+   "meaning": "일치하다, 편지를 주고받다",
+   "en": "His words do not correspond with his actions.",
+   "ko": "그의 말은 행동과 일치하지 않아요."
+  },
+  {
+   "word": "spouse",
+   "pos": "명사",
+   "meaning": "배우자",
+   "en": "You can bring your spouse to the party.",
+   "ko": "파티에 배우자를 데려와도 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 운동선수 유니폼에 후원 기업 로고가 붙어 있는 장면",
+ "imageCaption": "'내가 책임지고 도와줄게!'라고 약속하며 선수 뒤에 든든히 서 있는 후원자를 떠올려 보세요.",
+ "movieLineEn": "Thanks to our sponsor, the concert is free tonight!",
+ "movieLineKo": "후원사 덕분에 오늘 밤 콘서트는 무료예요!",
+ "storyTitle": "달팽이 선수의 후원사",
+ "story": "달리기 대회에 나간 달팽이에게 sponsor(후원자)가 생겼어요. 소금 회사였죠. 달팽이는 sponsorship(후원)에 감사하며 responsible(책임 있는) 선수가 되겠다고 했어요. 관중의 response(반응)는 뜨거웠어요. 그런데 회사가 \"우리 제품을 한 번 몸에 뿌려 주세요\"라고 하자, 달팽이는 respond(대답하다)했어요. \"계약 취소요!\""
+}

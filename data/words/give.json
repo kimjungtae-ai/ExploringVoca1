@@ -1,0 +1,55 @@
+{
+ "word": "give",
+ "pos": "동사",
+ "phonetic": "[ɡɪv]",
+ "meaning": "주다, 제공하다, (행동을) 하다, 내주다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "give",
+   "meaning": "주다 (give)",
+   "note": "고대 영어 giefan과 고대 노르드어 gefa에서 왔어요."
+  }
+ ],
+ "summary": "<strong>give</strong> (주다) = 아주 오래된 게르만어 토박이 단어로 <strong>'주다, 제공하다'</strong>라는 뜻이에요.",
+ "historyTitle": "고대 영어 'yive'가 'give'가 되기까지",
+ "historyBody": "고대 영어에서 '주다'는 giefan이었고, 중세에는 yive처럼 발음되기도 했어요. 오늘날의 g 소리는 고대 노르드어 gefa의 영향으로 굳어진 것으로 보여요. 독일어 geben과도 형제 단어이고, gift(선물)도 같은 뿌리에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gift",
+   "pos": "명사",
+   "meaning": "선물, 재능",
+   "en": "He has a gift for making people laugh.",
+   "ko": "그는 사람들을 웃게 만드는 재능이 있어요."
+  },
+  {
+   "word": "gifted",
+   "pos": "형용사",
+   "meaning": "재능 있는",
+   "en": "The school runs a program for gifted students.",
+   "ko": "그 학교는 영재 학생을 위한 프로그램을 운영해요."
+  },
+  {
+   "word": "forgive",
+   "pos": "동사",
+   "meaning": "용서하다",
+   "en": "It takes courage to forgive someone.",
+   "ko": "누군가를 용서하는 데는 용기가 필요해요."
+  },
+  {
+   "word": "giver",
+   "pos": "명사",
+   "meaning": "주는 사람",
+   "en": "She is a generous giver who helps her community.",
+   "ko": "그녀는 지역 사회를 돕는 너그러운 기부자예요."
+  }
+ ],
+ "imageSense": "대표 의미: 손을 내밀어 친구에게 무언가를 건네주는 장면",
+ "imageCaption": "내 우산을 비 맞는 친구에게 '자, 써!' 하고 건네주는 모습을 떠올려 보세요.",
+ "movieLineEn": "Never give up. We're almost there!",
+ "movieLineKo": "절대 포기하지 마. 거의 다 왔어!",
+ "storyTitle": "포기하지 않는 할머니",
+ "story": "할머니는 손자에게 매년 생일 gift(선물)를 give(주다)하셨어요. 올해는 직접 뜬 목도리였죠. 그런데 손자가 \"할머니, 지금 여름이에요\"라고 했어요. 할머니는 손자를 forgive(용서하다)하시고 말씀하셨죠. \"그럼 겨울까지 기다려!\" 할머니는 정말 gifted(재능 있는) giver(주는 사람)였어요."
+}

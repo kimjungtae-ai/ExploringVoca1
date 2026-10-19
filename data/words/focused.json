@@ -1,0 +1,61 @@
+{
+ "word": "focused",
+ "pos": "형용사",
+ "phonetic": "[ˈfoʊkəst]",
+ "meaning": "집중한, 초점이 맞춰진",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "focus",
+   "meaning": "화로, 난로 (hearth)",
+   "note": "라틴어 focus(화로, 난로)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "과거분사형 꼬리로 '~된 상태'를 나타내요."
+  }
+ ],
+ "summary": "<strong>focus</strong> (화로 → 빛이 모이는 점) + <strong>-ed</strong> (~된) = '한 점에 모인 상태'에서 <strong>'집중한, 초점이 맞춰진'</strong>이 되었습니다.",
+ "historyTitle": "집 안의 중심이던 화로",
+ "historyBody": "라틴어 focus는 원래 '화로, 난로'라는 뜻으로, 집 안 사람들이 모이는 중심이었어요. 1604년 천문학자 케플러가 렌즈로 빛이 모이는 '타는 점'을 focus라고 부르면서 '초점'이라는 뜻이 생겼어요. 거기서 '마음을 한 점에 모으다(집중하다)'라는 뜻으로 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "focus",
+   "pos": "동사 / 명사",
+   "meaning": "집중하다 / 초점, 중심",
+   "en": "Turn off your phone and focus on your studies.",
+   "ko": "휴대폰을 끄고 공부에 집중하세요."
+  },
+  {
+   "word": "unfocused",
+   "pos": "형용사",
+   "meaning": "초점이 안 맞는, 집중하지 못한",
+   "en": "I felt tired and unfocused after staying up late.",
+   "ko": "늦게까지 깨어 있었더니 피곤하고 집중이 안 됐어요."
+  },
+  {
+   "word": "refocus",
+   "pos": "동사",
+   "meaning": "다시 집중하다",
+   "en": "After the break, the team refocused on the goal.",
+   "ko": "휴식 후에 팀은 목표에 다시 집중했어요."
+  },
+  {
+   "word": "focal",
+   "pos": "형용사",
+   "meaning": "초점의, 중심의",
+   "en": "The fountain is the focal point of the park.",
+   "ko": "그 분수는 공원의 중심이 되는 곳이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 돋보기로 햇빛을 한 점에 모으는 장면",
+ "imageCaption": "돋보기로 햇빛을 모아 종이 위 작은 점에 빛을 집중시키는 모습을 떠올려 보세요.",
+ "movieLineEn": "Stay focused. The real test starts now.",
+ "movieLineKo": "집중해. 진짜 시험은 지금부터야.",
+ "storyTitle": "집중력 대장 강아지",
+ "story": "우리 집 강아지는 간식 앞에서만 엄청 focused(집중한)해져요. 공부하는 나를 보면 unfocused(집중 못 하는)하게 하품만 하죠. 그래서 나도 간식을 책 옆에 두고 focus(집중하다)해 봤어요. 강아지는 간식에 refocus(다시 집중하다)하고, 나도 공부에 몰두했죠. 그런데 시험 당일, 내 머릿속엔 간식만 떠올랐어요!"
+}

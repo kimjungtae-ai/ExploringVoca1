@@ -1,0 +1,68 @@
+{
+ "word": "diverse",
+ "pos": "형용사",
+ "phonetic": "[daɪˈvɜːrs]",
+ "meaning": "다양한, 여러 가지의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "di-",
+   "meaning": "따로, 떨어져 (apart)",
+   "note": "dis-의 변형으로 '다른 쪽으로'라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vers",
+   "meaning": "돌리다 (turn)",
+   "note": "라틴어 vertere(돌리다)의 과거분사 versus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>di-</strong> (따로) + <strong>vers</strong> (돌리다) = '서로 다른 방향으로 돌아선'에서 <strong>'다양한'</strong>이 되었어요.",
+ "historyTitle": "각자 다른 방향으로 돌아선 것들",
+ "historyBody": "diverse는 라틴어 diversus(다른 방향으로 돌아선, 서로 다른)에서 왔어요. di(따로)와 vertere(돌리다)가 합쳐진 말이에요. 모두가 다른 쪽을 향하고 있으니 '여러 가지의, 다양한'이 된 거죠. reverse, convert, version도 같은 vertere 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "diversity",
+   "pos": "명사",
+   "meaning": "다양성",
+   "en": "Our school values cultural diversity.",
+   "ko": "우리 학교는 문화적 다양성을 소중히 여겨요."
+  },
+  {
+   "word": "diversify",
+   "pos": "동사",
+   "meaning": "다양화하다",
+   "en": "Farmers diversify their crops to reduce risk.",
+   "ko": "농부들은 위험을 줄이려고 작물을 다양화해요."
+  },
+  {
+   "word": "reverse",
+   "pos": "동사 / 형용사",
+   "meaning": "뒤바꾸다 / 반대의",
+   "en": "Write the numbers in reverse order.",
+   "ko": "숫자를 거꾸로 된 순서로 쓰세요."
+  },
+  {
+   "word": "convert",
+   "pos": "동사",
+   "meaning": "전환하다, 바꾸다",
+   "en": "Solar panels convert sunlight into electricity.",
+   "ko": "태양광 패널은 햇빛을 전기로 바꿔요."
+  },
+  {
+   "word": "version",
+   "pos": "명사",
+   "meaning": "판, 버전",
+   "en": "I prefer the original version of the song.",
+   "ko": "나는 그 노래의 원곡 버전이 더 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 나라 학생들이 각자 다른 옷차림으로 모인 교실",
+ "imageCaption": "모두 다른 방향을 바라보며 각자의 색을 뽐내는 친구들을 떠올려 보세요. 그게 diverse예요.",
+ "movieLineEn": "Our team is diverse, and that's our strength.",
+ "movieLineKo": "우리 팀은 다양해. 그게 우리의 힘이지.",
+ "storyTitle": "다양한 반찬의 비밀",
+ "story": "급식실 아주머니는 메뉴를 diversify(다양화하다)하기로 했어요. 오늘의 diverse(다양한) 반찬은 무려 20가지였죠! 학생들은 diversity(다양성)에 감탄했어요. 그런데 맛을 보니 전부 김치를 convert(바꾸다)한 것이었어요. 김치전, 김치볶음, 김치 아이스크림까지. 김치의 새로운 version(버전)이었답니다."
+}

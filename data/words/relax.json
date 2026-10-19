@@ -1,0 +1,68 @@
+{
+ "word": "relax",
+ "pos": "동사",
+ "phonetic": "[rɪˈlæks]",
+ "meaning": "휴식을 취하다, 긴장을 풀다, 완화하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "팽팽했던 것을 원래대로 되돌린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lax",
+   "meaning": "느슨한 (loose)",
+   "note": "라틴어 laxus(느슨한)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>lax</strong> (느슨한) = 팽팽했던 것을 다시 느슨하게 하다, 즉 <strong>'긴장을 풀다, 쉬다'</strong>예요.",
+ "historyTitle": "팽팽한 줄을 다시 느슨하게",
+ "historyBody": "라틴어 relaxare는 re-(다시, 뒤로)와 laxare(느슨하게 하다)가 합쳐진 말이고, laxare는 laxus(느슨한)에서 왔어요. 이 말이 중세 영어 relaxen으로 들어왔고, 처음엔 '팽팽한 것을 늦추다'라는 뜻이었어요. 재미있게도 release(풀어 주다)도 고대 프랑스어를 거친 같은 relaxare의 후손이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relaxation",
+   "pos": "명사",
+   "meaning": "휴식, 완화",
+   "en": "Music is a great way of relaxation.",
+   "ko": "음악은 훌륭한 휴식 방법이에요."
+  },
+  {
+   "word": "relaxing",
+   "pos": "형용사",
+   "meaning": "편안하게 해 주는",
+   "en": "We spent a relaxing weekend at the beach.",
+   "ko": "우리는 해변에서 편안한 주말을 보냈어요."
+  },
+  {
+   "word": "relaxed",
+   "pos": "형용사",
+   "meaning": "느긋한, 긴장이 풀린",
+   "en": "She looked relaxed after the exam.",
+   "ko": "그녀는 시험이 끝나고 편안해 보였어요."
+  },
+  {
+   "word": "lax",
+   "pos": "형용사",
+   "meaning": "느슨한, 해이한",
+   "en": "Security at the gate was surprisingly lax.",
+   "ko": "정문 보안이 놀랄 만큼 허술했어요."
+  },
+  {
+   "word": "release",
+   "pos": "동사 / 명사",
+   "meaning": "풀어 주다, 출시하다 / 석방, 출시",
+   "en": "The band will release a new album next month.",
+   "ko": "그 밴드는 다음 달에 새 앨범을 낼 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 해먹에 누워 몸을 축 늘어뜨린 채 쉬는 모습",
+ "imageCaption": "어깨에 힘이 꽉 들어갔다가 해먹에 누워 '휴~' 하고 온몸이 풀리는 순간을 그려 보세요. 그게 relax예요.",
+ "movieLineEn": "Relax. Everything is under control.",
+ "movieLineKo": "진정해. 모든 게 통제되고 있어.",
+ "storyTitle": "긴장 풀기 대회",
+ "story": "시험 전날 친구가 relax(긴장을 풀다)하는 법을 알려 줬어요. relaxing(편안하게 해 주는) 음악을 틀고 몸을 lax(느슨한)하게 늘어뜨렸죠. 나는 완전히 relaxed(느긋한) 상태가 되었어요. 너무 편안해서 그대로 잠들었고, 눈을 떠 보니 시험 시작 10분 전이었어요. 다시 긴장하는 데는 1초도 안 걸렸답니다."
+}

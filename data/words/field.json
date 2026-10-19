@@ -1,0 +1,55 @@
+{
+ "word": "field",
+ "pos": "명사 / 동사",
+ "phonetic": "[fiːld]",
+ "meaning": "들판, 분야, 경기장, 현장 / (질문 등을) 받아넘기다, (공을) 수비하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "field",
+   "meaning": "평평한 땅 (open, flat land)",
+   "note": "고대 영어 feld(탁 트인 땅)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>field</strong> (고대 영어 feld, 평평한 땅) = 탁 트인 넓은 땅에서 '활동하는 영역'으로 넓어져 <strong>'들판, 분야, 현장'</strong>이 되었습니다.",
+ "historyTitle": "숲을 베어 낸 '탁 트인 땅'",
+ "historyBody": "field는 고대 영어 feld에서 왔고, 독일어 Feld, 네덜란드어 veld와 형제예요. 원래 숲이 없는 '평평하고 탁 트인 땅'을 뜻했어요. 이후 '전쟁터', '경기장'을 거쳐 '학문이나 일의 분야'라는 뜻까지 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "battlefield",
+   "pos": "명사",
+   "meaning": "전쟁터",
+   "en": "Many soldiers lost their lives on that battlefield.",
+   "ko": "그 전쟁터에서 많은 병사들이 목숨을 잃었어요."
+  },
+  {
+   "word": "airfield",
+   "pos": "명사",
+   "meaning": "비행장",
+   "en": "The small plane landed safely at the airfield.",
+   "ko": "작은 비행기가 비행장에 안전하게 착륙했어요."
+  },
+  {
+   "word": "fieldwork",
+   "pos": "명사",
+   "meaning": "현장 조사, 현장 연구",
+   "en": "The scientists did fieldwork in the rainforest for a month.",
+   "ko": "과학자들은 한 달 동안 열대 우림에서 현장 조사를 했어요."
+  },
+  {
+   "word": "minefield",
+   "pos": "명사",
+   "meaning": "지뢰밭, 위험 요소가 많은 상황",
+   "en": "Choosing a gift for her was a minefield.",
+   "ko": "그녀에게 줄 선물을 고르는 건 지뢰밭 같았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없이 펼쳐진 초록 들판",
+ "imageCaption": "바람이 부는 넓은 초록 들판 한가운데 서 있다고 상상해 보세요. 그곳이 바로 field예요.",
+ "movieLineEn": "Meet me in the field behind the old barn at sunset.",
+ "movieLineKo": "해 질 녘에 낡은 헛간 뒤 들판에서 만나.",
+ "storyTitle": "현장 조사 중 생긴 일",
+ "story": "곤충 박사는 field(들판)로 fieldwork(현장 조사)를 떠났어요. 그 field(분야)의 최고 전문가였거든요. 그런데 들판이 소들의 battlefield(전쟁터)였어요. 소 떼를 피해 airfield(비행장)까지 도망쳤는데, 숨을 고르고 보니 찾던 희귀 딱정벌레가 박사 모자 위에 앉아 있었대요!"
+}

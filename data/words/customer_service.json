@@ -1,0 +1,68 @@
+{
+ "word": "customer service",
+ "pos": "명사구",
+ "phonetic": "[ˈkʌstəmər ˈsɜːrvɪs]",
+ "meaning": "고객 서비스, 고객 센터",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "customer",
+   "meaning": "고객, 손님 (customer)",
+   "note": "custom(습관)+-er로, 원래 '늘 찾아오는 단골'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "service",
+   "meaning": "서비스, 봉사 (service)",
+   "note": "라틴어 servus(노예, 하인)에서 온, 남을 위해 일하는 것을 뜻해요."
+  }
+ ],
+ "summary": "<strong>customer</strong> (고객) + <strong>service</strong> (서비스) = '고객을 위해 돕는 일'에서 <strong>'고객 서비스, 고객 센터'</strong>",
+ "historyTitle": "'습관처럼 오는 사람' customer",
+ "historyBody": "customer는 custom(관습, 습관)에서 나온 말로, 원래 '습관적으로 찾아오는 단골손님'을 뜻했어요. custom은 라틴어 'consuetudo(습관)'에서 왔어요. service는 라틴어 'servus(하인)'에서 나온 servitium에서 왔고, serve(섬기다, 제공하다), servant(하인)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "serve",
+   "pos": "동사",
+   "meaning": "(음식을) 제공하다, 섬기다",
+   "en": "The restaurant serves Italian food.",
+   "ko": "그 식당은 이탈리아 음식을 제공해요."
+  },
+  {
+   "word": "custom",
+   "pos": "명사",
+   "meaning": "관습, 풍습",
+   "en": "Bowing is a Korean custom.",
+   "ko": "절하는 것은 한국의 풍습이에요."
+  },
+  {
+   "word": "complaint",
+   "pos": "명사",
+   "meaning": "불평, 항의",
+   "en": "The store received many complaints.",
+   "ko": "그 가게는 많은 항의를 받았어요."
+  },
+  {
+   "word": "refund",
+   "pos": "명사",
+   "meaning": "환불",
+   "en": "I asked for a refund for the broken toy.",
+   "ko": "나는 고장 난 장난감을 환불해 달라고 했어."
+  },
+  {
+   "word": "customize",
+   "pos": "동사",
+   "meaning": "주문 제작하다, 맞춤화하다",
+   "en": "You can customize your sneakers online.",
+   "ko": "온라인에서 운동화를 맞춤 제작할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 헤드셋을 쓴 상담원이 친절하게 전화를 받는 장면",
+ "imageCaption": "\"무엇을 도와드릴까요?\" 하며 미소 짓는 콜센터 상담원을 떠올려 보세요.",
+ "movieLineEn": "Please call customer service if you have any problems.",
+ "movieLineKo": "문제가 있으면 고객 센터로 전화해 주세요.",
+ "storyTitle": "고객 센터의 친절한 목소리",
+ "story": "아빠가 고장 난 청소기 때문에 customer service(고객 센터)에 전화했어요. complaint(불평)를 쏟아내며 refund(환불)를 요구했죠. 상담원은 친절하게 serve(응대하다)하며 물었어요. \"혹시 전원 플러그는 꽂으셨나요?\" 잠시 침묵… 아빠는 조용히 플러그를 꽂았어요. 청소기는 우렁차게 돌아갔답니다."
+}

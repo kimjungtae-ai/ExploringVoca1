@@ -1,0 +1,75 @@
+{
+ "word": "remote",
+ "pos": "형용사",
+ "phonetic": "[rɪˈmoʊt]",
+ "meaning": "외딴, 멀리 떨어진, 원격의, (가능성이) 희박한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back), 멀리",
+   "note": "원래 자리에서 뒤로 물러난다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mot",
+   "meaning": "움직이다 (move)",
+   "note": "라틴어 movere(움직이다)의 과거분사 motus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>mot</strong> (움직이다) = '뒤로 옮겨져 멀어진'이라는 뜻에서 <strong>'외딴, 멀리 떨어진'</strong>이 되었어요.",
+ "historyTitle": "멀리 치워 버린 곳, remotus",
+ "historyBody": "라틴어 removere(치우다, 멀리 옮기다)의 과거분사 remotus는 '멀리 옮겨진, 떨어진'이라는 뜻이었어요. 이 말이 중세 영어로 들어와 remote가 되었고, 20세기에 TV '리모컨(remote control)'처럼 '원격의'라는 뜻으로도 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "remove",
+   "pos": "동사",
+   "meaning": "제거하다, 치우다",
+   "en": "Please remove your shoes before entering the room.",
+   "ko": "방에 들어가기 전에 신발을 벗어 주세요."
+  },
+  {
+   "word": "move",
+   "pos": "동사",
+   "meaning": "움직이다, 이사하다",
+   "en": "My family moved to a small town last year.",
+   "ko": "우리 가족은 작년에 작은 마을로 이사했어요."
+  },
+  {
+   "word": "motion",
+   "pos": "명사",
+   "meaning": "움직임, 동작",
+   "en": "The camera can detect even a small motion.",
+   "ko": "그 카메라는 아주 작은 움직임도 감지할 수 있어요."
+  },
+  {
+   "word": "emotion",
+   "pos": "명사",
+   "meaning": "감정",
+   "en": "Music can express emotions that words cannot.",
+   "ko": "음악은 말로 할 수 없는 감정을 표현할 수 있어요."
+  },
+  {
+   "word": "promote",
+   "pos": "동사",
+   "meaning": "촉진하다, 승진시키다",
+   "en": "The campaign promotes healthy eating habits among teenagers.",
+   "ko": "그 캠페인은 십 대들의 건강한 식습관을 장려해요."
+  },
+  {
+   "word": "motive",
+   "pos": "명사",
+   "meaning": "동기, 이유",
+   "en": "Curiosity was his main motive for studying science.",
+   "ko": "호기심이 그가 과학을 공부한 주된 동기였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 산 너머 아무도 없는 외딴 오두막",
+ "imageCaption": "지도 끝자락, 사람이 거의 닿지 않는 곳에 오두막 하나가 뚝 떨어져 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "This village is so remote that the mail comes only once a month.",
+ "movieLineKo": "이 마을은 너무 외져서 우편이 한 달에 한 번만 와.",
+ "storyTitle": "리모컨 실종 사건",
+ "story": "아빠는 remote(리모컨)가 없어지자 소파를 remove(치우다)했어요. 온 가족이 motion(움직임) 감지기처럼 집을 뒤졌죠. 아빠의 emotion(감정)이 폭발 직전일 때, 강아지가 꼬리를 흔들며 나타났어요. 리모컨은 강아지 집 안에 있었고, 채널은 '동물의 왕국'에 맞춰져 있었답니다!"
+}

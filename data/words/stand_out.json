@@ -1,0 +1,68 @@
+{
+ "word": "stand out",
+ "pos": "구동사",
+ "phonetic": "[stænd aʊt]",
+ "meaning": "눈에 띄다, 두드러지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stand",
+   "meaning": "서다 (stand)",
+   "note": "제자리에 '서 있는' 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로 (out)",
+   "note": "무리에서 '밖으로' 튀어나온 이미지예요."
+  }
+ ],
+ "summary": "<strong>stand</strong> (서다) + <strong>out</strong> (밖으로) = '무리 밖으로 튀어나와 서 있다'에서 <strong>'눈에 띄다, 두드러지다'</strong>가 되었어요.",
+ "historyTitle": "줄 밖으로 튀어나온 사람",
+ "historyBody": "stand는 고대 영어 'standan(서다)'에서 왔고, 라틴어 'stare(서다)'와 같은 아주 오래된 뿌리를 공유해요. stand out은 원래 '앞으로 튀어나오다, 돌출하다'라는 뜻이었어요. 줄 서 있는 사람들 중 한 명이 밖으로 튀어나와 있으면 눈에 띄겠죠? 그래서 '두드러지다'가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "outstanding",
+   "pos": "형용사",
+   "meaning": "뛰어난, 두드러진",
+   "en": "She is an outstanding student in math.",
+   "ko": "그녀는 수학에서 뛰어난 학생이에요."
+  },
+  {
+   "word": "stand for",
+   "pos": "구동사",
+   "meaning": "~을 나타내다, 상징하다",
+   "en": "What does 'UN' stand for?",
+   "ko": "'UN'은 무엇을 나타내나요?"
+  },
+  {
+   "word": "stand up for",
+   "pos": "구동사",
+   "meaning": "~을 지지하다, 옹호하다",
+   "en": "Always stand up for your friends.",
+   "ko": "항상 친구들 편을 들어 주세요."
+  },
+  {
+   "word": "stick out",
+   "pos": "구동사",
+   "meaning": "튀어나오다, 눈에 띄다",
+   "en": "His red hat stuck out in the crowd.",
+   "ko": "그의 빨간 모자는 군중 속에서 눈에 띄었어요."
+  },
+  {
+   "word": "noticeable",
+   "pos": "형용사",
+   "meaning": "눈에 띄는, 뚜렷한",
+   "en": "There was a noticeable change in his attitude.",
+   "ko": "그의 태도에 눈에 띄는 변화가 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 검은 옷 군중 속에서 노란 우산 하나가 눈에 띄는 장면",
+ "imageCaption": "비 오는 날 검은 우산들 사이에 노란 우산 하나가 툭 튀어나와 보이는 모습을 떠올려 보세요.",
+ "movieLineEn": "If you want to stand out, you have to be yourself.",
+ "movieLineKo": "눈에 띄고 싶다면, 너 자신이 되어야 해.",
+ "storyTitle": "튀고 싶은 날",
+ "story": "졸업 사진 날, 나는 stand out(눈에 띄다)하고 싶어서 형광 분홍 가발을 썼어요. 모두가 내가 outstanding(뛰어난) 패션이라고 했죠. 그런데 사진을 받아 보니 다들 같은 생각을 했는지 반 전체가 형광 가발! 오히려 가발 안 쓴 담임쌤이 가장 stick out(눈에 띄다)했어요."
+}

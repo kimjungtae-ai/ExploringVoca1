@@ -1,0 +1,68 @@
+{
+ "word": "potted",
+ "pos": "형용사",
+ "phonetic": "[ˈpɑːtɪd]",
+ "meaning": "화분에 심은, (음식이) 단지에 저장한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pot",
+   "meaning": "단지, 화분 (pot)",
+   "note": "후기 고대 영어 pott에서 왔고, 중세 라틴어 pottus와 관련 있지만 더 오래된 기원은 확실하지 않아요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~한, ~된 (형용사)",
+   "note": "과거분사 꼴로 '~에 담긴'이라는 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>pot</strong> (화분) + <strong>-ed</strong> (~에 담긴) = <strong>'화분에 심은'</strong>이라는 뜻이에요.",
+ "historyTitle": "기원이 수수께끼인 '단지'",
+ "historyBody": "pot은 후기 고대 영어 pott에서 왔고, 비슷한 말이 중세 라틴어 pottus와 여러 게르만어에도 있어요. 하지만 누가 누구에게서 빌렸는지는 확실하지 않아 학자들도 '기원 불명'이라고 해요. potted는 1600년대에 '단지에 저장한 음식'을 뜻하다가, 나중에 '화분에 심은 식물'에 널리 쓰였어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "pot",
+   "pos": "명사",
+   "meaning": "냄비, 화분, 항아리",
+   "en": "My mom made soup in a big pot.",
+   "ko": "엄마가 큰 냄비에 국을 끓이셨어요."
+  },
+  {
+   "word": "pottery",
+   "pos": "명사",
+   "meaning": "도자기, 도예",
+   "en": "We learned to make pottery in art class.",
+   "ko": "우리는 미술 시간에 도자기 만드는 법을 배웠어요."
+  },
+  {
+   "word": "potter",
+   "pos": "명사",
+   "meaning": "도공, 도예가",
+   "en": "The potter shaped the clay with his hands.",
+   "ko": "도예가는 손으로 진흙 모양을 빚었어요."
+  },
+  {
+   "word": "flowerpot",
+   "pos": "명사",
+   "meaning": "화분",
+   "en": "I broke a flowerpot while playing soccer.",
+   "ko": "축구하다가 화분을 깨뜨렸어요."
+  },
+  {
+   "word": "teapot",
+   "pos": "명사",
+   "meaning": "찻주전자",
+   "en": "Grandma poured tea from an old teapot.",
+   "ko": "할머니는 오래된 찻주전자로 차를 따르셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 창가에 놓인 작은 화분 속 선인장",
+ "imageCaption": "햇살 드는 창가에 줄지어 놓인 작은 화분들을 떠올려 보세요.",
+ "movieLineEn": "Who keeps a potted cactus in the bathroom?",
+ "movieLineKo": "누가 화장실에 선인장 화분을 둬?",
+ "storyTitle": "말하는 화분",
+ "story": "할아버지가 potter(도예가) 친구에게 받은 flowerpot(화분)에 선인장을 심었어요. 그 potted(화분에 심은) 선인장은 매일 \"물 줘!\"라고 말하는 것 같았죠. 알고 보니 옆의 teapot(찻주전자)에서 김이 새는 소리였어요. 할아버지는 웃으며 선인장 대신 주전자에 물을 주셨대요."
+}

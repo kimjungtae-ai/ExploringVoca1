@@ -1,0 +1,68 @@
+{
+ "word": "prevent",
+ "pos": "동사",
+ "phonetic": "[prɪˈvent]",
+ "meaning": "막다, 방지하다, 예방하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "미리, 앞서 (before)",
+   "note": "어떤 일보다 먼저라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vent",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요. event의 vent와 같아요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (미리) + <strong>vent</strong> (오다) = 일이 생기기 전에 먼저 와서 막는다는 뜻에서 <strong>'막다, 예방하다'</strong>가 되었어요.",
+ "historyTitle": "'먼저 와서' 길목을 막다",
+ "historyBody": "라틴어 praevenire는 prae-(앞서)와 venire(오다)가 합쳐져 '먼저 오다, 앞지르다'라는 뜻이었어요. 15세기 영어에 들어왔을 때도 '앞서가다, 기대하다'라는 뜻이었는데, 16세기에 '앞질러 가서 막다→방지하다'라는 뜻이 자리 잡았어요. 'prevent A from -ing(A가 ~하는 것을 막다)' 구문이 수능 필수예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prevention",
+   "pos": "명사",
+   "meaning": "예방, 방지",
+   "en": "Prevention is better than cure.",
+   "ko": "예방이 치료보다 나아요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "사건, 행사",
+   "en": "The school event was a huge success.",
+   "ko": "학교 행사는 대성공이었어요."
+  },
+  {
+   "word": "adventure",
+   "pos": "명사",
+   "meaning": "모험",
+   "en": "Reading a good book is like going on an adventure.",
+   "ko": "좋은 책을 읽는 것은 모험을 떠나는 것과 같아요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회",
+   "en": "Shaking hands is a common social convention.",
+   "ko": "악수는 흔한 사회적 관습이에요."
+  },
+  {
+   "word": "invent",
+   "pos": "동사",
+   "meaning": "발명하다",
+   "en": "Who invented the telephone?",
+   "ko": "누가 전화기를 발명했나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 우산을 미리 펴서 비를 막는 장면",
+ "imageCaption": "비가 쏟아지기 전에 미리 우산을 펼쳐 옷이 젖는 걸 막는 모습을 떠올려 보세요.",
+ "movieLineEn": "We have to prevent the dragon from reaching the city!",
+ "movieLineKo": "용이 도시에 닿지 못하게 막아야 해!",
+ "storyTitle": "감기 예방 대작전",
+ "story": "엄마는 감기를 prevent(예방하다)하려고 나를 이불로 꽁꽁 감쌌어요. 철저한 prevention(예방)이었죠! 덕분에 학교 event(행사)에 눈사람처럼 등장했어요. 친구들은 새로운 패션을 invent(발명하다)했다며 따라 했고, 다음 날 반 전체가 이불을 두르고 등교했대요. 감기 걸린 사람은 선생님뿐이었답니다."
+}

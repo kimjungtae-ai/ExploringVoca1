@@ -1,0 +1,68 @@
+{
+ "word": "break room",
+ "pos": "명사구",
+ "phonetic": "[breɪk ruːm]",
+ "meaning": "휴게실",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "break",
+   "meaning": "휴식, 쉬는 시간 (rest)",
+   "note": "일을 '끊고' 잠깐 쉬는 시간이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "room",
+   "meaning": "방 (room)",
+   "note": "고대 영어 rūm(공간)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>break</strong> (쉬는 시간) + <strong>room</strong> (방) = <strong>'쉬는 시간에 쓰는 방, 휴게실'</strong>이에요.",
+ "historyTitle": "일을 '끊는' 시간, break",
+ "historyBody": "break는 원래 '깨다, 끊다'라는 뜻이에요. 일의 흐름을 잠깐 끊는 것이라서 '휴식'이라는 뜻이 생겼죠. room은 고대 영어 rūm(공간, 여유)에서 왔는데, 그래서 'make room'은 '자리를 만들다'라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "take a break",
+   "pos": "숙어",
+   "meaning": "잠깐 쉬다",
+   "en": "Let's take a break for ten minutes.",
+   "ko": "10분 동안 쉬자."
+  },
+  {
+   "word": "lunch break",
+   "pos": "명사구",
+   "meaning": "점심시간",
+   "en": "I read a book during my lunch break.",
+   "ko": "나는 점심시간에 책을 읽어요."
+  },
+  {
+   "word": "lounge",
+   "pos": "명사",
+   "meaning": "라운지, 휴게실",
+   "en": "Students can relax in the lounge.",
+   "ko": "학생들은 라운지에서 쉴 수 있어요."
+  },
+  {
+   "word": "make room for",
+   "pos": "숙어",
+   "meaning": "~을 위해 자리를 만들다",
+   "en": "Please make room for the new desk.",
+   "ko": "새 책상을 놓을 자리를 만들어 주세요."
+  },
+  {
+   "word": "breakthrough",
+   "pos": "명사",
+   "meaning": "돌파구, 획기적 발견",
+   "en": "The vaccine was a medical breakthrough.",
+   "ko": "그 백신은 의학적 돌파구였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회사 휴게실에서 커피를 마시며 쉬는 직원들",
+ "imageCaption": "일하다 잠깐 숨 돌리러 들어가는 아늑한 방을 떠올려 보세요.",
+ "movieLineEn": "Meet me in the break room. We need to talk.",
+ "movieLineKo": "휴게실에서 만나. 할 얘기가 있어.",
+ "storyTitle": "휴게실의 주인",
+ "story": "아빠 회사 break room(휴게실)에 놀러 갔어요. 직원들은 take a break(잠깐 쉬다)하며 커피를 마셨죠. 그런데 가장 좋은 소파는 늘 비어 있었어요. 이유를 물으니 lunch break(점심시간)마다 사장님 고양이가 그 자리에서 낮잠을 주무신대요!"
+}

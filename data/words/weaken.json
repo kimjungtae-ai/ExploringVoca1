@@ -1,0 +1,54 @@
+{
+ "word": "weaken",
+ "pos": "동사",
+ "phonetic": "[ˈwiːkən]",
+ "meaning": "약화시키다, 약해지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "weak",
+   "meaning": "약한 (weak)",
+   "note": "고대 노르드어 veikr(휘기 쉬운, 약한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 만들다 (동사)",
+   "note": "형용사를 '~하게 만들다'라는 동사로 바꿔요. (strengthen, widen과 같아요)"
+  }
+ ],
+ "summary": "<strong>weak</strong> (약한) + <strong>-en</strong> (~하게 만들다) = <strong>'약하게 만들다, 약해지다'</strong>가 되었어요.",
+ "historyTitle": "바이킹이 남긴 단어",
+ "historyBody": "weak는 바이킹의 언어인 고대 노르드어 veikr(잘 휘는, 약한)에서 13세기 무렵 영어에 들어왔어요. 여기에 동사를 만드는 -en이 붙어 weaken이 되었죠. 반대말 strengthen(강화하다)도 같은 방식으로 만들어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "weak",
+   "pos": "형용사",
+   "meaning": "약한",
+   "en": "I felt weak after the long illness.",
+   "ko": "오랜 병을 앓고 나서 몸이 약해졌어요."
+  },
+  {
+   "word": "weakness",
+   "pos": "명사",
+   "meaning": "약점, 약함",
+   "en": "Chocolate is my biggest weakness.",
+   "ko": "초콜릿은 나의 가장 큰 약점이에요."
+  },
+  {
+   "word": "weakly",
+   "pos": "부사",
+   "meaning": "약하게, 힘없이",
+   "en": "The tired puppy wagged its tail weakly.",
+   "ko": "지친 강아지가 힘없이 꼬리를 흔들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비바람에 점점 휘어지는 나뭇가지",
+ "imageCaption": "강한 바람이 계속 불어 나뭇가지가 점점 힘을 잃고 휘어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't let fear weaken your heart.",
+ "movieLineKo": "두려움이 네 마음을 약하게 만들게 두지 마.",
+ "storyTitle": "슈퍼히어로의 약점",
+ "story": "슈퍼히어로 강철맨에겐 weakness(약점)가 하나 있었어요. 악당들은 그를 weaken(약화시키다)하려고 온갖 방법을 썼죠. 결국 알아낸 비밀은 '엄마의 잔소리'였어요. 엄마 목소리만 들리면 강철맨은 weak(약한) 아이처럼 weakly(힘없이) 방 청소를 시작했답니다."
+}

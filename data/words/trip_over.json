@@ -1,0 +1,68 @@
+{
+ "word": "trip over",
+ "pos": "구동사",
+ "phonetic": "[trɪp ˈoʊvər]",
+ "meaning": "~에 걸려 넘어지다, ~에 발이 걸리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "trip",
+   "meaning": "발이 걸리다, 헛디디다 (stumble)",
+   "note": "발이 무언가에 탁 걸리는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "over",
+   "meaning": "~ 위로 넘어 (over)",
+   "note": "걸린 물건 '위로' 몸이 넘어가는 이미지예요."
+  }
+ ],
+ "summary": "<strong>trip</strong> (발이 걸리다) + <strong>over</strong> (~ 위로 넘어) = '~에 발이 걸려 그 위로 넘어가다'에서 <strong>'~에 걸려 넘어지다'</strong>",
+ "historyTitle": "가볍게 '발을 놀리던' trip",
+ "historyBody": "trip은 고대 프랑스어 triper(발을 구르다, 춤추다)에서 왔고, 그 뿌리는 게르만어로 보여요. 가볍게 발을 놀린다는 뜻에서 '발이 걸리다'와 '짧은 여행'이라는 뜻이 모두 생겼어요. over가 붙어 무언가 위로 넘어지는 모습을 생생하게 표현해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trip",
+   "pos": "명사 / 동사",
+   "meaning": "여행 / 발이 걸리다",
+   "en": "We took a school trip to Gyeongju.",
+   "ko": "우리는 경주로 수학여행을 갔어요."
+  },
+  {
+   "word": "stumble",
+   "pos": "동사",
+   "meaning": "비틀거리다, 발이 걸리다",
+   "en": "He stumbled on the dark stairs.",
+   "ko": "그는 어두운 계단에서 발을 헛디뎠어요."
+  },
+  {
+   "word": "fall over",
+   "pos": "구동사",
+   "meaning": "넘어지다",
+   "en": "The vase fell over and broke.",
+   "ko": "꽃병이 넘어져 깨졌어요."
+  },
+  {
+   "word": "slip",
+   "pos": "동사",
+   "meaning": "미끄러지다",
+   "en": "Be careful not to slip on the ice.",
+   "ko": "얼음 위에서 미끄러지지 않게 조심하세요."
+  },
+  {
+   "word": "run over",
+   "pos": "구동사",
+   "meaning": "(차가) ~을 치다, 넘치다",
+   "en": "The bath water ran over the edge.",
+   "ko": "목욕물이 가장자리로 넘쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 바닥에 놓인 가방에 발이 걸려 앞으로 넘어지는 장면",
+ "imageCaption": "복도에 놓인 가방에 발끝이 '탁' 걸리고 몸이 앞으로 기우는 순간을 떠올려 보세요.",
+ "movieLineEn": "Watch your step! Don't trip over the cables.",
+ "movieLineKo": "발밑 조심해! 전선에 걸려 넘어지지 마.",
+ "storyTitle": "레드카펫의 굴욕",
+ "story": "배우가 시상식 레드카펫에서 긴 드레스에 trip over(~에 걸려 넘어지다)했어요. stumble(비틀거리다)하다 결국 fall over(넘어지다)했죠. 사람들은 놀랐지만 그녀는 일어나 춤을 추듯 slip(미끄러지다)하는 척했어요. 다음 날 신문 제목은 '올해 최고의 댄스'였답니다."
+}

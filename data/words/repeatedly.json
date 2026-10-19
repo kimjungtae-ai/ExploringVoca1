@@ -1,0 +1,87 @@
+{
+ "word": "repeatedly",
+ "pos": "부사",
+ "phonetic": "[rɪˈpiːtɪdli]",
+ "meaning": "반복해서, 되풀이하여, 여러 차례",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "peat",
+   "meaning": "추구하다, 찾아가다 (seek)",
+   "note": "라틴어 petere(찾다, 향해 가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사를 만듦)",
+   "note": "repeated(반복된)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사를 만듦)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>peat</strong> (찾아가다) + <strong>-ed</strong> + <strong>-ly</strong> = '거듭 다시 찾아가듯이'에서 <strong>'반복해서'</strong>가 되었어요.",
+ "historyTitle": "다시 찾아가고 또 찾아가다",
+ "historyBody": "repeat은 라틴어 repetere(다시 찾아가다, 다시 하다)가 고대 프랑스어 repeter를 거쳐 영어로 들어온 말이에요. 뿌리 petere(찾다, 향해 가다)는 compete(경쟁하다), appetite(식욕)에도 들어 있어요. 여기에 -ed와 -ly가 붙어 '반복해서'라는 부사가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "repeat",
+   "pos": "동사",
+   "meaning": "반복하다",
+   "en": "Could you repeat the question, please?",
+   "ko": "질문을 다시 한번 말씀해 주시겠어요?"
+  },
+  {
+   "word": "repetition",
+   "pos": "명사",
+   "meaning": "반복",
+   "en": "Repetition helps you remember new words.",
+   "ko": "반복은 새 단어를 기억하는 데 도움이 돼요."
+  },
+  {
+   "word": "compete",
+   "pos": "동사",
+   "meaning": "경쟁하다",
+   "en": "Ten teams will compete in the final round.",
+   "ko": "열 팀이 결승전에서 경쟁할 거예요."
+  },
+  {
+   "word": "competition",
+   "pos": "명사",
+   "meaning": "경쟁, 대회",
+   "en": "She won first prize in the singing competition.",
+   "ko": "그녀는 노래 대회에서 1등을 했어요."
+  },
+  {
+   "word": "appetite",
+   "pos": "명사",
+   "meaning": "식욕, 욕구",
+   "en": "After swimming, I always have a big appetite.",
+   "ko": "수영하고 나면 나는 늘 식욕이 왕성해요."
+  },
+  {
+   "word": "petition",
+   "pos": "명사",
+   "meaning": "청원, 탄원",
+   "en": "Students signed a petition for a longer lunch break.",
+   "ko": "학생들은 점심시간 연장을 위한 청원서에 서명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 알람 버튼을 계속 눌러 끄는 아침 장면",
+ "imageCaption": "울리고 또 울리는 알람을 몇 번이고 다시 누르는 손을 떠올려 보세요.",
+ "movieLineEn": "I've told you repeatedly: don't open that door!",
+ "movieLineKo": "내가 몇 번이나 말했잖아. 그 문 열지 마!",
+ "storyTitle": "앵무새의 반복 학습",
+ "story": "앵무새 초코는 영어 단어를 repeatedly(반복해서) 따라 했어요. 선생님은 repetition(반복)이 최고라며 repeat(반복하다)을 외치게 했죠. 결국 초코는 앵무새 말하기 competition(대회)에서 우승! 그런데 수상 소감은 \"간식 줘\"를 백 번 repeat(반복하다)한 것뿐이었답니다."
+}

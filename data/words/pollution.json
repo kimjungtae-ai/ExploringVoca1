@@ -1,0 +1,67 @@
+{
+ "word": "pollution",
+ "pos": "명사",
+ "phonetic": "[pəˈluːʃn]",
+ "meaning": "오염, 공해, 오염 물질",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pol-",
+   "meaning": "앞에, 완전히 (before, thoroughly)",
+   "note": "라틴어 por-(pro-와 비슷한 접두사)가 변한 것으로 보지만 확실하지 않아요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lu",
+   "meaning": "더럽히다 (smear)",
+   "note": "라틴어 polluere 안의 -luere(더럽히다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>pol-</strong> (완전히) + <strong>lu</strong> (더럽히다) + <strong>-tion</strong> (명사) = 온통 더럽힌 상태, 곧 <strong>'오염'</strong>이에요.",
+ "historyTitle": "신성한 곳을 더럽히던 로마의 죄",
+ "historyBody": "pollution은 라틴어 pollutio에서 왔고, 동사 polluere는 '더럽히다, 신성을 모독하다'라는 뜻이었어요. 처음 영어에서는 종교적·도덕적 '더럽힘'을 뜻했고, 환경 오염이라는 뜻은 1800년대 후반에야 흔해졌어요. polluere를 por-(앞에) + luere(더럽히다)로 나누는 설명이 있지만 학자마다 의견이 달라서 기억용으로만 활용하세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "pollute",
+   "pos": "동사",
+   "meaning": "오염시키다",
+   "en": "Factories polluted the river for many years.",
+   "ko": "공장들이 수년 동안 강을 오염시켰어요."
+  },
+  {
+   "word": "pollutant",
+   "pos": "명사",
+   "meaning": "오염 물질",
+   "en": "Cars release pollutants into the air.",
+   "ko": "자동차는 공기 중에 오염 물질을 내뿜어요."
+  },
+  {
+   "word": "polluted",
+   "pos": "형용사",
+   "meaning": "오염된",
+   "en": "We should not swim in polluted water.",
+   "ko": "오염된 물에서는 수영하면 안 돼요."
+  },
+  {
+   "word": "polluter",
+   "pos": "명사",
+   "meaning": "오염 유발자",
+   "en": "Big polluters should pay for the damage.",
+   "ko": "오염을 많이 일으키는 곳이 피해를 보상해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 공장 굴뚝에서 회색 연기가 뿜어져 나오는 하늘",
+ "imageCaption": "뿌연 회색 하늘과 쓰레기가 떠다니는 강을 떠올려 보세요.",
+ "movieLineEn": "Pollution is turning our blue sky gray.",
+ "movieLineKo": "오염이 우리의 파란 하늘을 회색으로 바꾸고 있어.",
+ "storyTitle": "물고기의 이사",
+ "story": "강물이 polluted(오염된) 상태가 되자 물고기 가족은 이사를 결심했어요. 공장이 pollute(오염시키다)한 물에는 pollutant(오염 물질)가 가득했죠. 아빠 물고기가 말했어요. \"pollution(오염) 없는 곳으로 가자!\" 그렇게 도착한 곳은 맑고 깨끗한 수족관. 대신 매일 관광객이 쳐다봐서 사생활이 없었대요."
+}

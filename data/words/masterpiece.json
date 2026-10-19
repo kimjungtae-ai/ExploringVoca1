@@ -1,0 +1,61 @@
+{
+ "word": "masterpiece",
+ "pos": "명사",
+ "phonetic": "[ˈmæstərpiːs]",
+ "meaning": "걸작, 명작",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "master",
+   "meaning": "장인, 대가 (master)",
+   "note": "라틴어 magister(우두머리, 선생)에서 온 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "piece",
+   "meaning": "작품, 조각 (piece)",
+   "note": "고대 프랑스어 piece(조각, 한 개)에서 온 단어예요."
+  }
+ ],
+ "summary": "<strong>master</strong> (장인) + <strong>piece</strong> (작품) = '장인이 되었음을 증명하는 작품'이라는 뜻에서 <strong>'걸작, 명작'</strong>이 되었습니다.",
+ "historyTitle": "중세 장인 시험의 졸업 작품",
+ "historyBody": "masterpiece는 17세기 초 네덜란드어·독일어의 비슷한 말(meesterstuk, Meisterstück)을 본뜬 것으로 여겨져요. 중세 길드에서 견습생이 '장인(master)' 자격을 얻으려면 직접 만든 작품을 제출해야 했는데, 그 작품을 이렇게 불렀대요. master는 라틴어 magister(우두머리, 선생)에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "master",
+   "pos": "명사/동사",
+   "meaning": "대가, 주인 / 숙달하다",
+   "en": "It takes years to master a foreign language.",
+   "ko": "외국어를 완전히 익히려면 몇 년이 걸려요."
+  },
+  {
+   "word": "mastery",
+   "pos": "명사",
+   "meaning": "숙달, 통달",
+   "en": "His mastery of the piano surprised everyone.",
+   "ko": "그의 피아노 실력은 모두를 놀라게 했어요."
+  },
+  {
+   "word": "masterful",
+   "pos": "형용사",
+   "meaning": "능수능란한, 대가다운",
+   "en": "The chef gave a masterful cooking show.",
+   "ko": "그 요리사는 능수능란한 요리 쇼를 보여 줬어요."
+  },
+  {
+   "word": "piece",
+   "pos": "명사",
+   "meaning": "조각, 작품",
+   "en": "Can I have a piece of cake?",
+   "ko": "케이크 한 조각 먹어도 될까요?"
+  }
+ ],
+ "imageSense": "대표 의미: 미술관 벽에 걸린 '모나리자' 앞에 모인 관람객들",
+ "imageCaption": "평생 실력을 갈고닦은 장인이 내놓은 단 하나의 작품을 떠올려 보세요. 그게 masterpiece예요.",
+ "movieLineEn": "This cake isn't food. It's a masterpiece!",
+ "movieLineKo": "이 케이크는 음식이 아니야. 걸작이라고!",
+ "storyTitle": "미술관의 걸작 소동",
+ "story": "미술 시간에 하늘이는 낙서 같은 그림을 그렸어요. 선생님은 그것을 masterpiece(걸작)라며 미술관에 전시했죠. 평론가들은 '색채의 mastery(숙달)'라며 masterful(대가다운) 작품이라고 극찬했어요. 사실 그건 하늘이의 강아지가 물감 위를 뛰어다닌 piece(작품)였답니다."
+}

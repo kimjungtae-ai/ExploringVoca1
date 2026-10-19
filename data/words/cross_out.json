@@ -1,0 +1,68 @@
+{
+ "word": "cross out",
+ "pos": "구동사",
+ "phonetic": "[krɔːs aʊt]",
+ "meaning": "(줄을 그어) 지우다, 삭제하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "cross",
+   "meaning": "가로지르다; X표를 하다 (cross)",
+   "note": "글자 위로 선을 가로질러 긋는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 없애 (out)",
+   "note": "목록에서 '빼내어 없앤다'는 이미지예요."
+  }
+ ],
+ "summary": "<strong>cross</strong> (선을 가로질러 긋다) + <strong>out</strong> (없애) = '줄을 그어 빼 버리다'에서 <strong>'줄을 그어 지우다'</strong>",
+ "historyTitle": "십자가에서 온 cross",
+ "historyBody": "cross는 라틴어 'crux(십자가)'가 고대 아일랜드어와 고대 노르드어를 거쳐 영어로 들어온 말이에요. 십자 모양처럼 '가로지르다'라는 뜻이 생겼죠. 글자 위에 선을 가로질러 그어 목록에서 빼 버린다는 데서 cross out이 나왔어요. crucial(결정적인)도 crux와 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cross off",
+   "pos": "구동사",
+   "meaning": "(목록에서) 지우다",
+   "en": "I crossed his name off the list.",
+   "ko": "나는 목록에서 그의 이름을 지웠어."
+  },
+  {
+   "word": "erase",
+   "pos": "동사",
+   "meaning": "지우다",
+   "en": "She erased the wrong answer.",
+   "ko": "그녀는 틀린 답을 지웠어."
+  },
+  {
+   "word": "rule out",
+   "pos": "구동사",
+   "meaning": "배제하다",
+   "en": "The doctor ruled out a serious illness.",
+   "ko": "의사는 심각한 병의 가능성을 배제했어."
+  },
+  {
+   "word": "crossroads",
+   "pos": "명사",
+   "meaning": "교차로, 갈림길",
+   "en": "We stopped at the crossroads.",
+   "ko": "우리는 교차로에서 멈췄어."
+  },
+  {
+   "word": "crucial",
+   "pos": "형용사",
+   "meaning": "결정적인, 아주 중요한",
+   "en": "Sleep is crucial for good health.",
+   "ko": "잠은 건강에 아주 중요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 할 일 목록의 항목에 하나씩 줄을 긋는 장면",
+ "imageCaption": "끝낸 숙제를 목록에서 쭉쭉 줄 그어 지울 때의 시원한 기분을 떠올려 보세요.",
+ "movieLineEn": "Cross out every wrong answer and try again.",
+ "movieLineKo": "틀린 답에 전부 줄 긋고 다시 해 봐.",
+ "storyTitle": "할 일 목록의 반전",
+ "story": "지수는 할 일 목록을 만들고 끝낼 때마다 cross out(줄을 그어 지우다)했어요. 숙제도 cross off(지우다), 청소도 지웠죠. 마지막 항목은 crucial(아주 중요한)이라고 적힌 '엄마 생신 선물'! 지수는 이것도 erase(지우다)하려다 멈췄어요. 오늘이 바로 그날이었거든요. 지수는 부랴부랴 꽃집으로 달렸답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "break down",
+ "pos": "구동사",
+ "phonetic": "[breɪk daʊn]",
+ "meaning": "고장 나다, 무너지다, 분해하다, (감정이) 무너지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "break",
+   "meaning": "부수다, 깨지다 (break)",
+   "note": "고대 영어 brecan에서 온 게르만어 단어예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 완전히 (down)",
+   "note": "무너져 내려앉거나 잘게 쪼개지는 그림이에요."
+  }
+ ],
+ "summary": "<strong>break</strong> (깨지다) + <strong>down</strong> (아래로) = '깨져서 아래로 주저앉다'에서 <strong>'고장 나다, 무너지다, 분해하다'</strong>예요.",
+ "historyTitle": "깨져서 주저앉는 그림",
+ "historyBody": "break는 고대 영어 brecan(부수다)에서 왔어요. down이 붙으면 기계가 '털썩 주저앉듯' 멈추거나, 사람이 감정적으로 무너지거나, 물질이 잘게 '분해되는' 뜻이 돼요. 과학 지문에서는 'Bacteria break down waste'(박테리아가 쓰레기를 분해한다)처럼 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "breakdown",
+   "pos": "명사",
+   "meaning": "고장, 붕괴, 분석",
+   "en": "The car had a breakdown on the way.",
+   "ko": "차가 가는 길에 고장 났어요."
+  },
+  {
+   "word": "break out",
+   "pos": "구동사",
+   "meaning": "발생하다, 일어나다",
+   "en": "A fire broke out in the kitchen.",
+   "ko": "부엌에서 불이 났어요."
+  },
+  {
+   "word": "break into",
+   "pos": "구동사",
+   "meaning": "침입하다",
+   "en": "Someone broke into the store last night.",
+   "ko": "어젯밤 누군가 가게에 침입했어요."
+  },
+  {
+   "word": "break up",
+   "pos": "구동사",
+   "meaning": "헤어지다, 부서지다",
+   "en": "The band broke up after ten years.",
+   "ko": "그 밴드는 10년 후 해체했어요."
+  },
+  {
+   "word": "decompose",
+   "pos": "동사",
+   "meaning": "분해되다",
+   "en": "Leaves decompose and enrich the soil.",
+   "ko": "나뭇잎은 분해되어 흙을 비옥하게 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 도로 한가운데서 연기를 내뿜으며 멈춰 선 낡은 자동차",
+ "imageCaption": "연기 나는 차가 털썩 주저앉는 모습을 떠올리면 'break down'이 딱이에요.",
+ "movieLineEn": "Don't break down now. We're so close!",
+ "movieLineKo": "지금 무너지면 안 돼. 거의 다 왔어!",
+ "storyTitle": "고장 난 로봇",
+ "story": "내가 만든 청소 로봇이 첫날 break down(고장 나다)했어요. 원인을 찾으려 로봇을 하나하나 분해했죠. breakdown(고장)의 이유는 과자 부스러기였어요. 로봇이 청소 대신 과자를 몰래 '먹다가' 배탈이 났던 거예요. 하마터면 나도 break down(무너지다)할 뻔했어요!"
+}

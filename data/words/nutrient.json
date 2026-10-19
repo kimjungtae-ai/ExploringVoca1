@@ -1,0 +1,68 @@
+{
+ "word": "nutrient",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈnuːtriənt]",
+ "meaning": "영양소, 영양분 / 영양이 되는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "nutri",
+   "meaning": "영양을 주다, 기르다 (nourish)",
+   "note": "라틴어 nutrire(먹여 기르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 (것)",
+   "note": "라틴어 현재분사에서 온 접미사로 '~하는 것'을 나타내요."
+  }
+ ],
+ "summary": "<strong>nutri</strong> (영양을 주다) + <strong>-ent</strong> (~하는 것) = 몸에 영양을 주는 것이라서 <strong>'영양소'</strong>가 되었어요.",
+ "historyTitle": "젖을 먹이던 라틴어 nutrire",
+ "historyBody": "라틴어 nutrire는 원래 '아기에게 젖을 먹이다'라는 뜻이었어요. nutrient는 그 현재분사형 nutrientem(영양을 주는)에서 17세기에 영어로 들어왔죠. 단백질, 비타민, 무기질처럼 몸이 자라는 데 필요한 성분을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nutrition",
+   "pos": "명사",
+   "meaning": "영양, 영양 섭취",
+   "en": "Good nutrition helps you focus in class.",
+   "ko": "좋은 영양 섭취는 수업에 집중하는 데 도움이 돼요."
+  },
+  {
+   "word": "nutritious",
+   "pos": "형용사",
+   "meaning": "영양가 높은",
+   "en": "Brown rice is more nutritious than white rice.",
+   "ko": "현미가 백미보다 영양가가 더 높아요."
+  },
+  {
+   "word": "nutritional",
+   "pos": "형용사",
+   "meaning": "영양의",
+   "en": "Check the nutritional information on the label.",
+   "ko": "라벨에 있는 영양 정보를 확인해 봐."
+  },
+  {
+   "word": "malnutrition",
+   "pos": "명사",
+   "meaning": "영양실조",
+   "en": "Many children suffer from malnutrition in poor areas.",
+   "ko": "가난한 지역의 많은 아이가 영양실조를 겪어요."
+  },
+  {
+   "word": "nourish",
+   "pos": "동사",
+   "meaning": "영양분을 주다",
+   "en": "Rain nourishes the soil and the crops.",
+   "ko": "비는 흙과 농작물에 영양분을 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 채소와 과일 속 영양소가 몸속으로 들어가는 모습",
+ "imageCaption": "브로콜리에서 작은 비타민 캐릭터들이 뛰어나와 몸을 튼튼하게 해 주는 그림을 떠올려 보세요.",
+ "movieLineEn": "This plant needs more nutrients, or it won't survive.",
+ "movieLineKo": "이 식물은 영양분이 더 필요해. 안 그러면 살아남지 못할 거야.",
+ "storyTitle": "영양소 요정들",
+ "story": "편식쟁이 동수의 몸속에서 nutrient(영양소) 요정들이 파업을 했어요. \"nutrition(영양)이 부족해서 일 못 해!\" 동수는 malnutrition(영양실조) 직전이었죠. 결국 엄마의 nutritious(영양가 높은) 시금치 볶음을 먹었더니, 요정들이 춤을 추며 근육을 만들어 줬답니다."
+}

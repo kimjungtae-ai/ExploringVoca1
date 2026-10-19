@@ -1,0 +1,68 @@
+{
+ "word": "weight training",
+ "pos": "명사구",
+ "phonetic": "[weɪt ˈtreɪnɪŋ]",
+ "meaning": "웨이트 트레이닝, 근력 운동",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "weight",
+   "meaning": "무게, 중량 (weight)",
+   "note": "무엇을 이용한 훈련인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "training",
+   "meaning": "훈련, 연습 (training)",
+   "note": "몸이나 기술을 반복해 단련하는 일이에요."
+  }
+ ],
+ "summary": "<strong>weight</strong> (무게) + <strong>training</strong> (훈련) = '무거운 것을 들며 하는 훈련'에서 <strong>'근력 운동'</strong>",
+ "historyTitle": "'끌어당기다'에서 온 train",
+ "historyBody": "weight는 고대 영어 gewiht에서 왔고, weigh(무게를 달다)와 같은 뿌리예요. train은 고대 프랑스어 trainer(끌다)에서 왔고 라틴어 trahere(끌다)와 관련이 있어요. 식물이나 동물을 원하는 방향으로 '끌어' 기르던 뜻에서 '훈련하다'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "weigh",
+   "pos": "동사",
+   "meaning": "무게가 ~이다, 무게를 달다",
+   "en": "The baby weighs about four kilograms.",
+   "ko": "아기는 몸무게가 약 4킬로그램이에요."
+  },
+  {
+   "word": "trainer",
+   "pos": "명사",
+   "meaning": "트레이너, 훈련시키는 사람",
+   "en": "My trainer showed me how to lift safely.",
+   "ko": "트레이너가 안전하게 드는 법을 알려 주셨어요."
+  },
+  {
+   "word": "lift weights",
+   "pos": "숙어",
+   "meaning": "역기를 들다, 근력 운동을 하다",
+   "en": "He lifts weights three times a week.",
+   "ko": "그는 일주일에 세 번 근력 운동을 해요."
+  },
+  {
+   "word": "muscle",
+   "pos": "명사",
+   "meaning": "근육",
+   "en": "Exercise helps build strong muscles.",
+   "ko": "운동은 튼튼한 근육을 만드는 데 도움이 돼요."
+  },
+  {
+   "word": "work out",
+   "pos": "구동사",
+   "meaning": "운동하다",
+   "en": "I work out at the gym after school.",
+   "ko": "나는 방과 후에 체육관에서 운동해요."
+  }
+ ],
+ "imageSense": "대표 의미: 체육관에서 덤벨을 들어 올리며 근육을 키우는 장면",
+ "imageCaption": "무거운 덤벨을 들어 올릴 때 팔 근육이 불끈 솟는 모습을 떠올려 보세요.",
+ "movieLineEn": "Three months of weight training, and I still can't open this jar!",
+ "movieLineKo": "석 달이나 근력 운동했는데, 아직도 이 병을 못 열어!",
+ "storyTitle": "근육의 쓸모",
+ "story": "형은 여름 내내 weight training(근력 운동)에 빠졌어요. 매일 lift weights(역기를 들다)하며 muscle(근육)을 키웠고 trainer(트레이너)에게 칭찬도 받았죠. 개학 날 형은 자신감 넘치게 교실 문을 밀었는데, 꿈쩍도 안 했어요. 알고 보니 당기는 문이었답니다!"
+}

@@ -1,0 +1,48 @@
+{
+ "word": "mist",
+ "pos": "명사 / 동사",
+ "phonetic": "[mɪst]",
+ "meaning": "안개, 연무 / 흐려지다, 뿌옇게 되다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mist",
+   "meaning": "옅은 안개 (mist)",
+   "note": "고대 영어 mist(어둠, 흐릿함)에서 온 게르만어 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>mist</strong>는 공기 중에 떠 있는 아주 작은 물방울, 즉 <strong>'옅은 안개'</strong>를 뜻해요.",
+ "historyTitle": "어둠을 뜻하던 고대 영어",
+ "historyBody": "mist는 고대 영어에서 '흐릿함, 어둠'을 뜻했고 네덜란드어 mist(안개)와 같은 뿌리예요. 눈이 침침해지는 것도 mist라고 불렀어요. 보통 mist는 fog보다 옅어서 앞이 조금 더 잘 보이는 안개를 말해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "misty",
+   "pos": "형용사",
+   "meaning": "안개 낀, (눈물로) 흐릿한",
+   "en": "We walked along the misty river early in the morning.",
+   "ko": "우리는 이른 아침 안개 낀 강을 따라 걸었어요."
+  },
+  {
+   "word": "mistiness",
+   "pos": "명사",
+   "meaning": "안개가 낌, 흐릿함",
+   "en": "The mistiness of the valley made it look like a dream.",
+   "ko": "골짜기에 낀 안개 때문에 그곳은 꿈속처럼 보였어요."
+  },
+  {
+   "word": "mist up",
+   "pos": "동사구",
+   "meaning": "(유리가) 뿌옇게 되다",
+   "en": "My glasses mist up when I wear a mask.",
+   "ko": "마스크를 쓰면 안경이 뿌옇게 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 이른 아침 호수 위로 하얗게 피어오른 옅은 안개",
+ "imageCaption": "해 뜨기 직전 호수 위에 하얀 솜사탕 같은 안개가 낮게 깔린 장면을 떠올려 보세요.",
+ "movieLineEn": "Something is moving in the mist. Stay close.",
+ "movieLineKo": "안개 속에서 뭔가 움직이고 있어. 가까이 붙어 있어.",
+ "storyTitle": "안개 속의 괴물",
+ "story": "캠핑장에 짙은 mist(안개)가 꼈어요. misty(안개 낀) 숲에서 커다란 그림자가 보이자 모두 비명을 질렀죠. 안경이 mist up(뿌옇게 되다)되어 아무것도 안 보였던 아빠가 용감하게 다가갔어요. 정체는 텐트에 걸어 둔 엄마의 대형 수건이었답니다!"
+}

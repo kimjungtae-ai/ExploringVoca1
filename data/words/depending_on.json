@@ -1,0 +1,68 @@
+{
+ "word": "depending on",
+ "pos": "전치사구",
+ "phonetic": "[dɪˈpendɪŋ ɑːn]",
+ "meaning": "~에 따라, ~에 따라서 달리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "depending",
+   "meaning": "의존하는, 달린 (depend)",
+   "note": "de-(아래로)+pendere(매달리다)로 '~에 매달려 있다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~에 (on)",
+   "note": "무엇에 '매달려' 결정되는지 그 기준을 가리켜요."
+  }
+ ],
+ "summary": "<strong>depending</strong> (매달린) + <strong>on</strong> (~에) = '~에 매달려 결정되는'에서 <strong>'~에 따라'</strong>",
+ "historyTitle": "'아래로 매달리다' dependere",
+ "historyBody": "depend는 라틴어 'de-(아래로)'와 'pendere(매달리다)'가 합쳐진 dependere에서 왔어요. 결과가 어떤 조건에 '매달려' 있다는 데서 '~에 달려 있다'가 되었죠. pendant(목걸이 펜던트), pendulum(시계추)도 매달린 모양이라 같은 뿌리예요. depending on은 '~에 따라'라는 전치사처럼 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "depend on",
+   "pos": "구동사",
+   "meaning": "~에 달려 있다, ~에 의존하다",
+   "en": "The price depends on the size.",
+   "ko": "가격은 크기에 따라 달라요."
+  },
+  {
+   "word": "according to",
+   "pos": "전치사구",
+   "meaning": "~에 따르면, ~에 따라",
+   "en": "According to the news, it will snow tomorrow.",
+   "ko": "뉴스에 따르면 내일 눈이 온대."
+  },
+  {
+   "word": "independent",
+   "pos": "형용사",
+   "meaning": "독립적인",
+   "en": "She wants to be independent from her parents.",
+   "ko": "그녀는 부모님으로부터 독립하고 싶어 해."
+  },
+  {
+   "word": "pendulum",
+   "pos": "명사",
+   "meaning": "(시계의) 추",
+   "en": "The pendulum of the old clock swung slowly.",
+   "ko": "오래된 시계의 추가 천천히 흔들렸어."
+  },
+  {
+   "word": "it depends",
+   "pos": "숙어",
+   "meaning": "상황에 따라 달라",
+   "en": "\"Will you come?\" \"It depends on the weather.\"",
+   "ko": "\"올 거야?\" \"날씨에 따라 달라.\""
+  }
+ ],
+ "imageSense": "대표 의미: 날씨에 따라 우산과 선글라스가 바뀌는 그림",
+ "imageCaption": "같은 외출이라도 비가 오면 우산, 해가 나면 선글라스. '날씨에 따라' 달라지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Depending on what you choose, the ending will change.",
+ "movieLineKo": "네가 무엇을 고르느냐에 따라 결말이 바뀔 거야.",
+ "storyTitle": "그때그때 달라요",
+ "story": "친구가 \"주말에 뭐 해?\"라고 묻자 나는 \"it depends(상황에 따라 달라)\"라고 했어요. 계획은 날씨에 depending on(~에 따라) 달라지거든요. 일기 예보에 according to(~에 따르면) 비가 온대서 집에 있기로 했죠. 결과는 엄마 기분에 depend on(달려 있다)했어요. 엄마는 결국 나에게 대청소를 맡기셨답니다."
+}

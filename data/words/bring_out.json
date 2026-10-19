@@ -1,0 +1,68 @@
+{
+ "word": "bring out",
+ "pos": "구동사",
+ "phonetic": "[brɪŋ aʊt]",
+ "meaning": "끌어내다, 드러내다, (제품을) 출시하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "bring",
+   "meaning": "가져오다 (bring)",
+   "note": "고대 영어 bringan에서 온 단어예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로 (out)",
+   "note": "안에 숨어 있던 것을 '밖으로' 꺼내는 그림이에요."
+  }
+ ],
+ "summary": "<strong>bring</strong> (가져오다) + <strong>out</strong> (밖으로) = '밖으로 가져오다'에서 <strong>'드러내다, 끌어내다, 출시하다'</strong>예요.",
+ "historyTitle": "숨어 있던 것을 꺼내는 out",
+ "historyBody": "bring은 고대 영어 bringan(가져오다)에서 온 게르만어 단어예요. out이 붙으면 숨어 있던 재능이나 맛을 '밖으로 꺼내 드러내다', 또는 새 제품을 '세상 밖으로 내놓다'라는 뜻이 돼요. 'Salt brings out the flavor'(소금은 맛을 살려 준다)가 대표 예문이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bring up",
+   "pos": "구동사",
+   "meaning": "(아이를) 기르다, (화제를) 꺼내다",
+   "en": "She was brought up by her grandparents.",
+   "ko": "그녀는 조부모님 손에 자랐어요."
+  },
+  {
+   "word": "bring about",
+   "pos": "구동사",
+   "meaning": "~을 일으키다",
+   "en": "Technology has brought about big changes.",
+   "ko": "기술은 큰 변화를 가져왔어요."
+  },
+  {
+   "word": "bring back",
+   "pos": "구동사",
+   "meaning": "되돌려 주다, 떠올리게 하다",
+   "en": "This song brings back old memories.",
+   "ko": "이 노래는 옛 추억을 떠올리게 해요."
+  },
+  {
+   "word": "bring in",
+   "pos": "구동사",
+   "meaning": "들여오다, 도입하다",
+   "en": "The school brought in a new lunch menu.",
+   "ko": "학교는 새로운 점심 메뉴를 도입했어요."
+  },
+  {
+   "word": "reveal",
+   "pos": "동사",
+   "meaning": "드러내다",
+   "en": "The test revealed her true talent.",
+   "ko": "그 시험은 그녀의 진짜 재능을 드러냈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 요리사가 소금 한 꼬집으로 음식 맛을 살리는 장면",
+ "imageCaption": "숨어 있던 맛이나 재능이 '짠!' 하고 밖으로 나오는 모습을 떠올리세요.",
+ "movieLineEn": "This competition brings out the best in people... and the worst.",
+ "movieLineKo": "이 대회는 사람들의 최고의 모습을 끌어내지... 그리고 최악의 모습도.",
+ "storyTitle": "숨은 재능",
+ "story": "음악 선생님은 내 숨은 재능을 bring out(끌어내다)하고 싶다고 하셨어요. 노래를 시키시자 옛 추억을 bring back(떠올리게 하다)하는 트로트를 불렀죠. 반 친구들은 감동했고, 다음 날 선생님은 수업에 트로트를 bring in(도입하다)하셨어요!"
+}

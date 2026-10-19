@@ -1,0 +1,74 @@
+{
+ "word": "translation",
+ "pos": "명사",
+ "phonetic": "[trænsˈleɪʃn]",
+ "meaning": "번역, 통역, 번역본",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "trans-",
+   "meaning": "가로질러, 저쪽으로 (across)",
+   "note": "한쪽에서 다른 쪽으로 건너간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lat (← latus)",
+   "meaning": "옮겨진 (carried)",
+   "note": "라틴어 ferre(나르다)의 과거분사 latus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작을 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>trans-</strong> (건너) + <strong>lat</strong> (옮겨진) + <strong>-ion</strong> (~하는 것) = 말을 다른 언어로 옮기는 것, 즉 <strong>'번역'</strong>이 되었어요.",
+ "historyTitle": "모양이 바뀌는 라틴어 동사",
+ "historyBody": "translation은 라틴어 'translatio(옮김)'에서 왔고, 이는 'transferre(건너 나르다)'의 과거분사 'translatus'에서 나왔어요. 라틴어 ferre는 과거분사가 latus로 바뀌기 때문에 transfer와 translate가 사실 같은 동사에서 나온 형제랍니다. 중세 영국에서 성경이 라틴어에서 영어로 번역되면서 이 말이 널리 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "translate",
+   "pos": "동사",
+   "meaning": "번역하다",
+   "en": "Can you translate this sentence into English?",
+   "ko": "이 문장을 영어로 번역해 줄 수 있어요?"
+  },
+  {
+   "word": "translator",
+   "pos": "명사",
+   "meaning": "번역가, 통역사",
+   "en": "The translator helped the tourists talk with the guide.",
+   "ko": "통역사가 관광객들이 가이드와 대화하도록 도와주었어요."
+  },
+  {
+   "word": "relate",
+   "pos": "동사",
+   "meaning": "관련시키다, 공감하다",
+   "en": "Many teenagers can relate to this song.",
+   "ko": "많은 십 대들이 이 노래에 공감할 수 있어요."
+  },
+  {
+   "word": "relation",
+   "pos": "명사",
+   "meaning": "관계",
+   "en": "The two countries have a friendly relation.",
+   "ko": "두 나라는 우호적인 관계를 맺고 있어요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사 / 명사",
+   "meaning": "옮기다 / 이동, 환승",
+   "en": "You need to transfer to line 2 at the next station.",
+   "ko": "다음 역에서 2호선으로 갈아타야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 한글 책 옆에 영어 번역본이 나란히 놓인 모습",
+ "imageCaption": "같은 이야기가 한국어 책과 영어 책으로 나란히 놓인 모습을 떠올려 보세요. 말을 건너 옮긴 결과가 translation이에요.",
+ "movieLineEn": "Something got lost in translation, and now we're married!",
+ "movieLineKo": "번역 중에 뭔가 잘못돼서, 이제 우리가 결혼한 사이가 됐어!",
+ "storyTitle": "할머니의 영어 문자",
+ "story": "할머니가 외국 친구에게 \"밥 먹었어?\"를 translate(번역하다)해 보냈어요. 앱의 translation(번역)은 \"Did you eat rice?\"였죠. 친구는 쌀만 먹었냐며 걱정했어요. 손녀가 translator(통역사) 역할을 하며 relation(관계)을 지켰고, 친구는 \"Korean love = rice\"라고 배웠답니다."
+}

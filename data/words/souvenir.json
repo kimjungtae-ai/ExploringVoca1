@@ -1,0 +1,75 @@
+{
+ "word": "souvenir",
+ "pos": "명사",
+ "phonetic": "[ˌsuːvəˈnɪr]",
+ "meaning": "기념품, 추억거리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sou- (sub-)",
+   "meaning": "아래에서, 위로 (under, up to)",
+   "note": "라틴어 sub-가 프랑스어에서 sou-로 변했어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "venir",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 온 프랑스어예요."
+  }
+ ],
+ "summary": "<strong>sou-</strong> (아래에서 위로) + <strong>venir</strong> (오다) = '기억이 마음속에 떠오르다'에서 <strong>'추억이 떠오르게 하는 물건, 기념품'</strong>이 되었습니다.",
+ "historyTitle": "마음에 떠오르는 프랑스어 '기억'",
+ "historyBody": "라틴어 subvenire는 '아래에서 올라오다, 마음에 떠오르다'라는 뜻이었어요. 이것이 프랑스어 동사 se souvenir(기억하다)가 되었고, 그 명사형 souvenir(기억)가 18세기에 영어로 들어와 '추억을 떠올리게 하는 물건'을 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "행사, 사건",
+   "en": "The school festival is the biggest event of the year.",
+   "ko": "학교 축제는 일 년 중 가장 큰 행사예요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Washing your hands can prevent many diseases.",
+   "ko": "손을 씻으면 많은 질병을 예방할 수 있어요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회",
+   "en": "It is a convention to shake hands when you meet someone.",
+   "ko": "누군가를 만나면 악수하는 것이 관습이에요."
+  },
+  {
+   "word": "venue",
+   "pos": "명사",
+   "meaning": "장소, 개최지",
+   "en": "The venue for the concert was changed at the last minute.",
+   "ko": "콘서트 장소가 막판에 바뀌었어요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다, 끼어들다",
+   "en": "The teacher had to intervene when the students argued.",
+   "ko": "학생들이 다투자 선생님이 개입해야 했어요."
+  },
+  {
+   "word": "adventure",
+   "pos": "명사",
+   "meaning": "모험",
+   "en": "Traveling alone was a great adventure for me.",
+   "ko": "혼자 여행하는 것은 내게 멋진 모험이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행지에서 산 열쇠고리와 엽서를 책상에 올려 둔 장면",
+ "imageCaption": "책상 위 에펠탑 열쇠고리를 볼 때마다 파리의 추억이 떠오르는 모습을 그려 보세요.",
+ "movieLineEn": "Take this as a souvenir. You'll never forget this adventure.",
+ "movieLineKo": "이걸 기념품으로 가져가. 넌 이 모험을 절대 못 잊을 거야.",
+ "storyTitle": "할머니의 특별한 기념품",
+ "story": "할머니는 세계 adventure(모험)에서 돌아와 souvenir(기념품)를 나눠 주셨어요. \"이건 큰 event(행사)장에서 산 거란다.\" 손주들은 신났죠. 엄마가 끼어들려 intervene(개입하다)했지만 할머니는 막았어요. 포장을 뜯자 나온 건 공항 venue(장소) 이름이 적힌 비행기 땅콩 봉지였어요. \"제일 비싼 추억이야!\""
+}

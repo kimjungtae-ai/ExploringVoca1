@@ -1,0 +1,68 @@
+{
+ "word": "generate",
+ "pos": "동사",
+ "phonetic": "[ˈdʒenəreɪt]",
+ "meaning": "발생시키다, 만들어 내다, (전기를) 생산하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "gener",
+   "meaning": "낳다, 종류 (birth, kind)",
+   "note": "라틴어 genus(태생, 종류)와 generare(낳다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "라틴어 동사 과거분사형 -atus에서 온 동사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>gener</strong> (낳다) + <strong>-ate</strong> (~하게 하다) = '낳게 하다'에서 <strong>'발생시키다, 만들어 내다'</strong>가 되었습니다.",
+ "historyTitle": "'낳다'에서 '전기 생산'까지",
+ "historyBody": "라틴어 generare는 '낳다, 생기게 하다'라는 뜻으로, genus(태생, 종류)에서 왔어요. 처음엔 '자손을 낳다'는 뜻이었지만, 지금은 전기, 아이디어, 이익 등을 '만들어 내다'라는 뜻으로 널리 쓰여요. gen-은 수능 어휘에서 가장 많은 가족을 거느린 뿌리 중 하나랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "generation",
+   "pos": "명사",
+   "meaning": "세대, 발생",
+   "en": "My parents' generation grew up without smartphones.",
+   "ko": "우리 부모님 세대는 스마트폰 없이 자랐어요."
+  },
+  {
+   "word": "generator",
+   "pos": "명사",
+   "meaning": "발전기, 생성기",
+   "en": "The hospital uses a generator during power outages.",
+   "ko": "그 병원은 정전 때 발전기를 사용해요."
+  },
+  {
+   "word": "gene",
+   "pos": "명사",
+   "meaning": "유전자",
+   "en": "Eye color is decided by our genes.",
+   "ko": "눈 색깔은 유전자에 의해 결정돼요."
+  },
+  {
+   "word": "generous",
+   "pos": "형용사",
+   "meaning": "관대한, 너그러운",
+   "en": "She was generous enough to share her lunch with me.",
+   "ko": "그녀는 너그럽게 내게 점심을 나눠 줬어요."
+  },
+  {
+   "word": "genre",
+   "pos": "명사",
+   "meaning": "장르, 종류",
+   "en": "Fantasy is my favorite genre of movies.",
+   "ko": "판타지는 내가 가장 좋아하는 영화 장르예요."
+  }
+ ],
+ "imageSense": "대표 의미: 풍력 발전기가 돌며 전기를 만들어 내는 장면",
+ "imageCaption": "바닷가 언덕 위 커다란 바람개비가 빙글빙글 돌며 전기를 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "This machine can generate enough power for the whole city!",
+ "movieLineKo": "이 기계는 도시 전체에 충분한 전력을 만들어 낼 수 있어!",
+ "storyTitle": "아이디어 발전기 할머니",
+ "story": "할머니는 아이디어를 generate(만들어 내다)하는 천재였어요. 우리 generation(세대)보다 똑똑하다고 다들 감탄했죠. 할머니는 자전거로 돌리는 generator(발전기)를 만들어 이웃에게 generous(너그러운)하게 전기를 나눠 줬어요. 그런데 비결을 묻자 할머니가 웃으셨어요. \"페달은 손자가 밟지!\""
+}

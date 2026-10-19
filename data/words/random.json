@@ -1,0 +1,48 @@
+{
+ "word": "random",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈrændəm]",
+ "meaning": "무작위의, 임의의, 아무렇게나 하는",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "random (← 고대 프랑스어 randon)",
+   "meaning": "격렬한 속도, 돌진 (speed, rush)",
+   "note": "'빠르게 달리다'라는 뜻의 고대 프랑스어 randir에서 왔어요."
+  }
+ ],
+ "summary": "<strong>random</strong>은 고대 프랑스어 <strong>randon</strong> (격렬한 돌진)에서 와서 '마구 달려 방향을 정하지 않은'이라는 뜻의 <strong>'무작위의'</strong>가 되었어요.",
+ "historyTitle": "말을 타고 마구 달리던 기세",
+ "historyBody": "고대 프랑스어 randon은 '거센 속도, 맹렬한 돌진'을 뜻했어요. 중세 영어 at randon은 '전속력으로, 마구'라는 뜻이었는데, 여기서 '목표 없이, 아무렇게나'라는 뜻이 생겼어요. 통계에서 '무작위의'라는 뜻은 19세기 말부터 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "randomly",
+   "pos": "부사",
+   "meaning": "무작위로",
+   "en": "The winners were randomly chosen.",
+   "ko": "당첨자들은 무작위로 뽑혔어요."
+  },
+  {
+   "word": "randomness",
+   "pos": "명사",
+   "meaning": "무작위성",
+   "en": "The randomness of the weather makes farming difficult.",
+   "ko": "날씨의 예측 불가능함은 농사를 어렵게 해요."
+  },
+  {
+   "word": "randomize",
+   "pos": "동사",
+   "meaning": "무작위로 하다",
+   "en": "The computer randomizes the order of the questions.",
+   "ko": "컴퓨터가 문제 순서를 무작위로 섞어요."
+  }
+ ],
+ "imageSense": "대표 의미: 통 안에서 번호 공이 마구 섞여 하나가 튀어나오는 추첨 장면",
+ "imageCaption": "말이 아무 방향으로나 마구 달려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "It wasn't random. Someone planned all of this.",
+ "movieLineKo": "그건 우연이 아니었어. 누군가 이 모든 걸 계획했어.",
+ "storyTitle": "무작위 자리 바꾸기",
+ "story": "선생님이 자리를 random(무작위의) 방식으로 바꾸겠다고 하셨어요. 컴퓨터가 순서를 randomize(무작위로 하다)했죠. 이름이 randomly(무작위로) 화면에 떴는데, 모두 지난번과 같은 자리였어요! randomness(무작위성)를 의심한 반장이 확인해 보니, 선생님이 버튼 대신 '되돌리기 undo(되돌리기)'를 누르셨답니다!"
+}

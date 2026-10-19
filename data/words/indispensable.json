@@ -1,0 +1,80 @@
+{
+ "word": "indispensable",
+ "pos": "형용사",
+ "phonetic": "[ˌɪndɪˈspensəbl]",
+ "meaning": "없어서는 안 될, 필수적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "따로, 나누어 (apart)",
+   "note": "나누어 준다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pens",
+   "meaning": "무게를 달다 (weigh)",
+   "note": "라틴어 pensare(무게를 달다)에서 왔어요. 옛날엔 돈을 무게로 달아 나눠 줬어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는",
+   "note": "가능을 나타내요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>dis-</strong> (따로) + <strong>pens</strong> (무게 달다) + <strong>-able</strong> = '떼어 놓고 지낼 수 없는'이라는 뜻에서 <strong>'없어서는 안 될'</strong>이 되었습니다.",
+ "historyTitle": "저울로 돈을 나눠 주던 시대",
+ "historyBody": "라틴어 'dispensare'는 '무게를 달아 나눠 주다'라는 뜻이었어요. 중세 교회에서는 규칙을 면제해 주는 것을 dispense라고 했는데, 여기서 dispense with가 '~없이 지내다'라는 뜻이 되었죠. 그래서 indispensable은 '없이는 지낼 수 없는, 필수적인'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dispense",
+   "pos": "동사",
+   "meaning": "나누어 주다, 조제하다",
+   "en": "The machine dispenses cold drinks.",
+   "ko": "그 기계는 차가운 음료를 내줘요."
+  },
+  {
+   "word": "expense",
+   "pos": "명사",
+   "meaning": "비용, 지출",
+   "en": "Living in the city is a big expense.",
+   "ko": "도시에 사는 것은 큰 비용이 들어요."
+  },
+  {
+   "word": "expensive",
+   "pos": "형용사",
+   "meaning": "비싼",
+   "en": "This bag is too expensive for me.",
+   "ko": "이 가방은 나에게 너무 비싸요."
+  },
+  {
+   "word": "compensate",
+   "pos": "동사",
+   "meaning": "보상하다",
+   "en": "The company will compensate you for the damage.",
+   "ko": "회사가 손해를 보상해 드릴 거예요."
+  },
+  {
+   "word": "pension",
+   "pos": "명사",
+   "meaning": "연금",
+   "en": "My grandfather lives on a pension.",
+   "ko": "우리 할아버지는 연금으로 생활하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 사막 한가운데서 물병을 꼭 껴안은 여행자",
+ "imageCaption": "이것 하나 없으면 아무것도 할 수 없는 물건을 떠올려 보세요. 사막의 물처럼 꼭 필요한 것, 그게 indispensable이에요.",
+ "movieLineEn": "You're indispensable to this team, Sam.",
+ "movieLineKo": "샘, 넌 이 팀에 없어서는 안 될 사람이야.",
+ "storyTitle": "필수품의 정체",
+ "story": "캠핑을 떠난 아빠는 indispensable(없어서는 안 될) 물건만 챙긴다며 큰소리쳤어요. expensive(비싼) 텐트도, 물을 dispense(나누어 주다)하는 통도 두고 왔죠. 밤이 되자 추위에 떨던 아빠가 가방에서 꺼낸 단 하나의 필수품은… 휴대폰 충전기였어요. 엄마는 그 expense(비용)로 호텔을 예약했대요."
+}

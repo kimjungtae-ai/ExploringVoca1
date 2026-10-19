@@ -1,0 +1,55 @@
+{
+ "word": "show",
+ "pos": "동사 / 명사",
+ "phonetic": "[ʃoʊ]",
+ "meaning": "보여 주다, 나타내다, 증명하다 / 공연, 쇼, 전시",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "show",
+   "meaning": "보다, 보여 주다 (look at)",
+   "note": "고대 영어 'scēawian(바라보다, 살펴보다)'에서 온 게르만계 단어라 더 쪼개지 않아요."
+  }
+ ],
+ "summary": "<strong>show</strong> (바라보다 → 보게 하다) = 남이 보도록 내보이다, 즉 <strong>'보여 주다'</strong>예요.",
+ "historyTitle": "'보다'가 '보여 주다'로",
+ "historyBody": "고대 영어 'scēawian'은 원래 '바라보다, 살펴보다'라는 뜻이었어요. 독일어 'schauen(보다)'과 같은 뿌리예요. 그런데 중세 영어 시기에 뜻이 뒤집혀 '남이 보게 하다', 즉 '보여 주다'가 되었어요. 수능에서는 'Studies show that...(연구에 따르면)'처럼 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "showcase",
+   "pos": "명사 / 동사",
+   "meaning": "진열장, 공개 행사 / 선보이다",
+   "en": "The festival is a showcase for young artists.",
+   "ko": "그 축제는 젊은 예술가들을 위한 무대예요."
+  },
+  {
+   "word": "showroom",
+   "pos": "명사",
+   "meaning": "전시실",
+   "en": "We looked at new cars in the showroom.",
+   "ko": "우리는 전시실에서 새 차들을 구경했어요."
+  },
+  {
+   "word": "show-off",
+   "pos": "명사",
+   "meaning": "자랑쟁이",
+   "en": "Don't be such a show-off about your new shoes.",
+   "ko": "새 신발 가지고 너무 자랑하지 마."
+  },
+  {
+   "word": "showing",
+   "pos": "명사",
+   "meaning": "상영, 전시, 성적",
+   "en": "The first showing of the movie starts at ten.",
+   "ko": "그 영화의 첫 상영은 10시에 시작해요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이가 친구에게 새 장난감을 자랑스럽게 보여 주는 장면",
+ "imageCaption": "무대 위 마술사가 \"짜잔!\" 하고 모자 속 토끼를 보여 주는 순간을 떠올려 보세요.",
+ "movieLineEn": "Show me what you've got!",
+ "movieLineKo": "네 실력을 보여 줘!",
+ "storyTitle": "자랑쟁이의 최후",
+ "story": "반에서 유명한 show-off(자랑쟁이) 민호가 새 시계를 show(보여 주다)했어요. 다음 날엔 집을 showroom(전시실)처럼 꾸몄다며 사진을 보여 줬죠. 친구들은 지쳐서 아무도 안 봤어요. 그러자 민호는 학예회 showcase(공개 무대)에서 혼자 마술쇼를 했대요. 관객은 엄마뿐!"
+}

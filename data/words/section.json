@@ -1,0 +1,68 @@
+{
+ "word": "section",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈsekʃən]",
+ "meaning": "부분, 구역, (책의) 절, 부서 / 구분하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sect",
+   "meaning": "자르다 (cut)",
+   "note": "라틴어 'secare(자르다)'의 과거분사 'sectus'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작이나 그 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sect</strong> (자르다) + <strong>-ion</strong> (~한 것) = 잘라 낸 것, 즉 <strong>'부분, 구역'</strong>이에요.",
+ "historyTitle": "칼로 나눈 조각에서 온 말",
+ "historyBody": "라틴어 'sectio'는 '자르기, 잘라 낸 조각'을 뜻했어요. 케이크를 칼로 나누듯, 큰 것을 잘라 나눈 한 부분이 section이 된 거죠. 같은 뿌리에서 '몸이 마디마디 잘린 벌레'인 insect(곤충)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sector",
+   "pos": "명사",
+   "meaning": "부문, 분야",
+   "en": "The tourism sector grew quickly after the pandemic.",
+   "ko": "관광 부문은 팬데믹 이후 빠르게 성장했어요."
+  },
+  {
+   "word": "insect",
+   "pos": "명사",
+   "meaning": "곤충",
+   "en": "Bees are useful insects that help flowers grow.",
+   "ko": "벌은 꽃이 자라도록 돕는 유익한 곤충이에요."
+  },
+  {
+   "word": "intersection",
+   "pos": "명사",
+   "meaning": "교차로",
+   "en": "Turn left at the next intersection.",
+   "ko": "다음 교차로에서 왼쪽으로 도세요."
+  },
+  {
+   "word": "dissect",
+   "pos": "동사",
+   "meaning": "해부하다, 상세히 분석하다",
+   "en": "In biology class, we dissected a fish.",
+   "ko": "생물 시간에 우리는 물고기를 해부했어요."
+  },
+  {
+   "word": "segment",
+   "pos": "명사",
+   "meaning": "부분, 조각",
+   "en": "Each segment of the orange was sweet and juicy.",
+   "ko": "오렌지 조각 하나하나가 달고 즙이 많았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 신문을 스포츠, 경제, 문화 면으로 나눈 장면",
+ "imageCaption": "커다란 피자를 칼로 잘라 여러 조각으로 나눈 모습을 떠올려 보세요. 그 한 조각이 section이에요.",
+ "movieLineEn": "Meet me in section B of the stadium after the game.",
+ "movieLineKo": "경기 끝나고 경기장 B구역에서 만나.",
+ "storyTitle": "곤충 박물관의 미로",
+ "story": "곤충 박물관의 insect(곤충) section(구역)에서 길을 잃었어요. 지도를 segment(부분)별로 봐도 똑같은 intersection(교차로)만 나왔죠. 결국 안내원을 불렀더니, 그분도 길을 잃은 지 세 시간째래요. 우리는 함께 사마귀 전시실에서 점심을 먹었어요."
+}

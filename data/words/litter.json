@@ -1,0 +1,41 @@
+{
+ "word": "litter",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈlɪtər]",
+ "meaning": "쓰레기 / (쓰레기를) 버리다, 어지르다 / (동물의) 한 배 새끼",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "litter",
+   "meaning": "침상, 잠자리 (bed)",
+   "note": "라틴어 lectus(침대)에서 고대 프랑스어 litiere(잠자리)를 거쳐 온 말이에요."
+  }
+ ],
+ "summary": "<strong>litter</strong> (잠자리, 짚 깔개)에서 '여기저기 흩어진 짚' → <strong>'쓰레기, 어지르다'</strong>라는 뜻이 되었습니다.",
+ "historyTitle": "침대에서 쓰레기가 되기까지",
+ "historyBody": "litter는 라틴어 lectus(침대)에서 나온 고대 프랑스어 litiere(잠자리, 가마)가 어원이에요. 동물 잠자리로 까는 짚을 뜻하게 되면서, 짚이 여기저기 흩어진 모습에서 '어질러진 쓰레기'라는 뜻이 생겼어요. 짚 위에서 태어난 '한 배의 새끼들'이라는 뜻도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "littering",
+   "pos": "명사",
+   "meaning": "쓰레기 투기",
+   "en": "Littering in the park can lead to a fine.",
+   "ko": "공원에 쓰레기를 버리면 벌금을 낼 수 있어요."
+  },
+  {
+   "word": "litterbug",
+   "pos": "명사",
+   "meaning": "쓰레기를 함부로 버리는 사람",
+   "en": "Don't be a litterbug; use the trash can.",
+   "ko": "쓰레기를 아무 데나 버리지 말고 쓰레기통을 사용하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 소풍 후 잔디밭에 과자 봉지가 여기저기 흩어진 장면",
+ "imageCaption": "짚더미가 바람에 흩날려 마당 여기저기 널린 모습을 떠올려 보세요. 그렇게 흩어진 것이 litter예요.",
+ "movieLineEn": "Pick that up. No one litters on my street!",
+ "movieLineKo": "그거 주워. 내 거리에선 아무도 쓰레기 안 버려!",
+ "storyTitle": "강아지 탐정의 추리",
+ "story": "공원 곳곳에 litter(쓰레기)가 널려 있었어요. 관리인은 범인 litterbug(쓰레기 버리는 사람)를 잡겠다며 잠복했죠. 밤이 되자 범인이 나타났어요! 그런데 범인은 사람이 아니라 litter(한 배 새끼) 다섯 마리의 아기 너구리였어요. littering(쓰레기 투기)의 진짜 이유는 간식 찾기였답니다."
+}

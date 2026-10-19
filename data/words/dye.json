@@ -1,0 +1,48 @@
+{
+ "word": "dye",
+ "pos": "명사 / 동사",
+ "phonetic": "[daɪ]",
+ "meaning": "염료, 염색약 / 염색하다, 물들이다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dye (deag)",
+   "meaning": "색, 빛깔 (color, hue)",
+   "note": "고대 영어 deag(색깔)에서 왔고, 그 이전 기원은 알려져 있지 않아요."
+  }
+ ],
+ "summary": "<strong>dye</strong>는 '색깔'이라는 옛말에서 와서 <strong>'염료, 염색하다'</strong>가 되었어요.",
+ "historyTitle": "die와 헷갈리지 않으려고 바꾼 철자",
+ "historyBody": "dye는 고대 영어 deag(색, 빛깔)와 deagian(물들이다)에서 왔지만, 그보다 더 오래된 기원은 확실히 알려져 있지 않아요. 예전에는 die(죽다)와 같은 철자로 쓰기도 했는데, 19세기 무렵 헷갈리지 않도록 dye로 구별해 쓰는 것이 자리 잡았답니다. 옛날 사람들은 꽃, 뿌리, 조개 등에서 염료를 얻었어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "dyed",
+   "pos": "형용사",
+   "meaning": "염색한",
+   "en": "She has dyed pink hair.",
+   "ko": "그녀는 분홍색으로 염색한 머리를 하고 있어요."
+  },
+  {
+   "word": "dyeing",
+   "pos": "명사",
+   "meaning": "염색 (작업)",
+   "en": "Natural dyeing uses plants and flowers.",
+   "ko": "천연 염색은 식물과 꽃을 사용해요."
+  },
+  {
+   "word": "dyer",
+   "pos": "명사",
+   "meaning": "염색공, 염색하는 사람",
+   "en": "The dyer dipped the cloth into blue water.",
+   "ko": "염색공이 천을 파란 물에 담갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 하얀 천을 쪽빛 염료 통에 담가 파랗게 물들이는 장면",
+ "imageCaption": "새하얀 천이 파란 물에 들어갔다 나오면서 하늘빛으로 바뀌는 모습을 떠올려 보세요.",
+ "movieLineEn": "If you dye your hair green, Dad will faint.",
+ "movieLineKo": "너 머리를 초록색으로 염색하면 아빠 기절하실 거야.",
+ "storyTitle": "수능 끝난 날의 염색",
+ "story": "수능이 끝나자 서연이는 머리를 dye(염색하다)하기로 했어요. 미용실 dyer(염색하는 사람) 언니가 염료를 바르는 동안 서연이는 깜빡 잠들었죠. 일어나 보니 dyed(염색한) 머리가 무지개색이었어요! 알고 보니 언니가 새로운 dyeing(염색) 기법을 연습했대요. 서연이는 그날 동네 스타가 되었답니다."
+}

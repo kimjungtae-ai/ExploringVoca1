@@ -1,0 +1,75 @@
+{
+ "word": "vision",
+ "pos": "명사",
+ "phonetic": "[ˈvɪʒn]",
+ "meaning": "시력, 시야, 비전(미래상), 환상",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vis",
+   "meaning": "보다 (see)",
+   "note": "라틴어 videre(보다)의 과거분사 visus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작이나 상태를 나타내는 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>vis</strong> (보다) + <strong>-ion</strong> (~하는 것) = '보는 것'이라는 뜻에서 <strong>'시력, 비전'</strong>이 되었어요.",
+ "historyTitle": "보는 힘에서 미래를 보는 눈으로",
+ "historyBody": "라틴어 visio는 '보는 것, 보이는 것'이라는 뜻이었어요. 13세기 영어에 처음 들어왔을 때는 꿈이나 계시 속 '환상'을 주로 뜻했고, 이후 '시력', 그리고 '미래를 내다보는 눈(비전)'이라는 뜻으로 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "visible",
+   "pos": "형용사",
+   "meaning": "눈에 보이는",
+   "en": "The island was visible from the top of the hill.",
+   "ko": "언덕 꼭대기에서 그 섬이 보였어요."
+  },
+  {
+   "word": "visual",
+   "pos": "형용사",
+   "meaning": "시각의",
+   "en": "Artists are good at visual thinking.",
+   "ko": "예술가들은 시각적 사고에 능해요."
+  },
+  {
+   "word": "revise",
+   "pos": "동사",
+   "meaning": "수정하다, 복습하다",
+   "en": "I need to revise my essay before Friday.",
+   "ko": "금요일 전에 에세이를 수정해야 해요."
+  },
+  {
+   "word": "supervise",
+   "pos": "동사",
+   "meaning": "감독하다",
+   "en": "Teachers supervise students during lunch.",
+   "ko": "선생님들은 점심시간에 학생들을 감독해요."
+  },
+  {
+   "word": "television",
+   "pos": "명사",
+   "meaning": "텔레비전",
+   "en": "My grandparents watch the news on television every night.",
+   "ko": "조부모님은 매일 밤 텔레비전으로 뉴스를 보세요."
+  },
+  {
+   "word": "provide",
+   "pos": "동사",
+   "meaning": "제공하다",
+   "en": "The school provides free lunch for all students.",
+   "ko": "학교는 모든 학생에게 무료 점심을 제공해요."
+  }
+ ],
+ "imageSense": "대표 의미: 안경을 쓰고 먼 곳을 바라보며 미래를 그리는 모습",
+ "imageCaption": "언덕 위에서 멀리 도시를 바라보며 꿈을 그리는 사람을 떠올려 보세요. 눈으로 보는 것과 마음으로 보는 것 모두 vision이에요.",
+ "movieLineEn": "I had a vision. One day, this city will shine again.",
+ "movieLineKo": "나는 비전을 봤어. 언젠가 이 도시는 다시 빛날 거야.",
+ "storyTitle": "CEO 강아지의 비전",
+ "story": "강아지 뭉치는 회사를 세우며 큰 vision(비전)을 발표했어요. \"모든 개에게 간식을 provide(제공하다)하겠다!\" 직원 고양이들이 계획을 revise(수정하다)하고 supervise(감독하다)했죠. 그런데 첫 광고가 television(텔레비전)에 나가자마자 뭉치가 사라졌어요. 창고에서 간식을 다 먹고 자고 있었거든요."
+}

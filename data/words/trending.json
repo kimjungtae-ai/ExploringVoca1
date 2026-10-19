@@ -1,0 +1,54 @@
+{
+ "word": "trending",
+ "pos": "형용사 / 동사",
+ "phonetic": "[ˈtrendɪŋ]",
+ "meaning": "인기 급상승 중인, 화제가 되는 / (특정 방향으로) 향하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "trend",
+   "meaning": "돌다 → 흐름, 경향 (turn → tendency)",
+   "note": "고대 영어 trendan(돌다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하고 있는 (진행·형용사형)",
+   "note": "지금 진행 중인 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>trend</strong> (흐름) + <strong>-ing</strong> (~하고 있는) = 지금 흐름을 타고 있는, 즉 <strong>'인기 급상승 중인'</strong>이 되었어요.",
+ "historyTitle": "SNS가 만든 새로운 뜻",
+ "historyBody": "trend는 고대 영어 'trendan(돌다, 구르다)'에서 온 말로, 원래 '어떤 방향으로 향하다'라는 뜻이었어요. 2010년 무렵 트위터 같은 SNS가 '지금 많이 언급되는 주제'를 'trending'이라고 표시하면서 '인기 급상승 중인'이라는 뜻이 널리 퍼졌답니다. 오래된 단어가 인터넷 덕분에 새 옷을 입은 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trend",
+   "pos": "명사",
+   "meaning": "경향, 유행",
+   "en": "There is a growing trend toward eating less meat.",
+   "ko": "고기를 덜 먹는 경향이 커지고 있어요."
+  },
+  {
+   "word": "trendy",
+   "pos": "형용사",
+   "meaning": "최신 유행의",
+   "en": "That café is popular because of its trendy design.",
+   "ko": "그 카페는 유행하는 디자인 때문에 인기가 많아요."
+  },
+  {
+   "word": "trendsetter",
+   "pos": "명사",
+   "meaning": "유행을 선도하는 사람",
+   "en": "Teenagers are often trendsetters in fashion.",
+   "ko": "십 대들은 종종 패션에서 유행을 이끌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰 화면 속 '실시간 인기' 목록 1위에 오른 영상",
+ "imageCaption": "휴대폰 화면의 '지금 뜨는 영상' 목록 맨 위에 불꽃 아이콘이 붙은 모습을 떠올려 보세요.",
+ "movieLineEn": "Our dance video is trending! We're famous!",
+ "movieLineKo": "우리 춤 영상이 인기 급상승 중이야! 우리 유명해졌어!",
+ "storyTitle": "우리 집 고양이 스타",
+ "story": "동생이 찍은 고양이 하품 영상이 trending(인기 급상승 중인)이 되었어요. 고양이는 하루아침에 trendsetter(유행 선도자)가 되었죠. 사람들은 하품 따라 하기를 새로운 trend(유행)로 만들었어요. 그런데 정작 고양이는 그 trendy(유행하는) 하품을 한 뒤 3일 내내 잠만 잤답니다."
+}

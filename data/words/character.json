@@ -1,0 +1,55 @@
+{
+ "word": "character",
+ "pos": "명사",
+ "phonetic": "[ˈkærəktər]",
+ "meaning": "성격, 특징, 등장인물, 문자",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "character",
+   "meaning": "새긴 자국, 도장 (engraved mark) — 그리스어 kharaktēr",
+   "note": "그리스어 kharassein(새기다)에서 온 말이라 영어에서는 하나의 덩어리로 보는 게 좋아요."
+  }
+ ],
+ "summary": "<strong>character</strong>는 그리스어 <strong>kharaktēr</strong>(새긴 자국, 도장)에서 와서 '사람에게 새겨진 특징'인 <strong>'성격, 특징'</strong>이 되었어요.",
+ "historyTitle": "도장으로 새긴 자국",
+ "historyBody": "그리스어 kharaktēr는 동전이나 도장에 무늬를 새기는 도구, 또는 그렇게 새겨진 자국을 뜻했어요. 그래서 '글자'라는 뜻이 생겼고, 사람마다 새겨진 고유한 특징이라는 의미에서 '성격'이 되었어요. 17세기 이후에는 연극이나 소설의 '등장인물'이라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "characteristic",
+   "pos": "명사 / 형용사",
+   "meaning": "특징 / 특유의",
+   "en": "Curiosity is a common characteristic of young children.",
+   "ko": "호기심은 어린아이들의 공통된 특징이에요."
+  },
+  {
+   "word": "characterize",
+   "pos": "동사",
+   "meaning": "특징짓다, 묘사하다",
+   "en": "The city is characterized by its old buildings.",
+   "ko": "그 도시는 오래된 건물들이 특징이에요."
+  },
+  {
+   "word": "characterization",
+   "pos": "명사",
+   "meaning": "성격 묘사",
+   "en": "The novel is famous for its rich characterization.",
+   "ko": "그 소설은 풍부한 인물 묘사로 유명해요."
+  },
+  {
+   "word": "uncharacteristic",
+   "pos": "형용사",
+   "meaning": "평소답지 않은",
+   "en": "It was uncharacteristic of him to arrive late.",
+   "ko": "그가 늦게 오는 것은 평소답지 않은 일이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도장에 새겨진 고유한 무늬처럼 사람마다 다른 성격",
+ "imageCaption": "사람 마음속에 꾹 찍힌 도장 자국을 떠올려 보세요. 쉽게 지워지지 않는 그 자국이 character예요.",
+ "movieLineEn": "In this story, you're not the main character. I am.",
+ "movieLineKo": "이 이야기에서 주인공은 네가 아니야. 바로 나지.",
+ "storyTitle": "주인공이 되고 싶은 엑스트라",
+ "story": "연극 동아리 지민이는 조용한 character(성격) 때문에 늘 나무 역할만 맡았어요. 조용함이 지민이의 characteristic(특징)이었죠. 그런데 공연 날, 지민이가 uncharacteristic(평소답지 않은)하게 무대 중앙으로 뛰어나와 춤을 췄어요! 관객은 열광했고, 그 장면이 지민이를 '춤추는 나무'로 characterize(특징짓다)했어요. 다음 공연부터 나무가 주인공이 되었답니다."
+}

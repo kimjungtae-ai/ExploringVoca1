@@ -1,0 +1,73 @@
+{
+ "word": "stay in touch with",
+ "pos": "숙어",
+ "phonetic": "[steɪ ɪn tʌtʃ wɪð]",
+ "meaning": "~와 연락하고 지내다, ~와 계속 연락하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stay",
+   "meaning": "계속 ~한 상태로 있다 (remain)",
+   "note": "상태를 쭉 유지한다는 의미예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "'닿아 있는 상태' 안에 있다는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "touch",
+   "meaning": "접촉, 연락 (contact)",
+   "note": "서로 연결된 상태를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께 (with)",
+   "note": "연락하는 상대를 이어 주는 말이에요."
+  }
+ ],
+ "summary": "<strong>stay in touch</strong> (연락하고 지내다) + <strong>with</strong> (~와) = <strong>'~와 계속 연락하고 지내다'</strong>",
+ "historyTitle": "상대를 붙여 주는 with",
+ "historyBody": "stay in touch 뒤에 with를 붙이면 연락하는 상대를 구체적으로 말할 수 있어요. stay는 라틴어 stare(서다)에서, touch는 고대 프랑스어 tochier(닿다)에서 왔어요. 몸이 닿는다는 뜻이 '소식이 닿는다'는 뜻으로 넓어진 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "keep in touch with",
+   "pos": "숙어",
+   "meaning": "~와 연락을 유지하다",
+   "en": "She keeps in touch with her host family in Canada.",
+   "ko": "그녀는 캐나다의 홈스테이 가족과 연락을 유지해요."
+  },
+  {
+   "word": "get in touch with",
+   "pos": "숙어",
+   "meaning": "~와 연락하다",
+   "en": "I finally got in touch with the hotel manager.",
+   "ko": "마침내 호텔 매니저와 연락이 됐어요."
+  },
+  {
+   "word": "lose touch with",
+   "pos": "숙어",
+   "meaning": "~와 연락이 끊기다",
+   "en": "Many people lose touch with nature in big cities.",
+   "ko": "많은 사람들이 대도시에서 자연과 단절돼요."
+  },
+  {
+   "word": "communicate with",
+   "pos": "구동사",
+   "meaning": "~와 소통하다",
+   "en": "Dolphins communicate with each other using sounds.",
+   "ko": "돌고래는 소리를 이용해 서로 소통해요."
+  }
+ ],
+ "imageSense": "대표 의미: 해외로 떠난 친구와 영상 통화를 하는 장면",
+ "imageCaption": "노트북 화면 속 외국에 사는 친구와 손을 흔들며 대화하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I promise I'll stay in touch with you every week.",
+ "movieLineKo": "매주 너와 꼭 연락하고 지낼게, 약속해.",
+ "storyTitle": "할머니와의 연락 작전",
+ "story": "지수는 시골 할머니와 stay in touch with(~와 연락하고 지내다)하려고 영상 통화를 알려 드렸어요. 할머니는 금세 이웃들과도 keep in touch with(~와 연락을 유지하다)하며 communicate with(~와 소통하다)하셨죠. 그런데 이제 지수가 전화하면 늘 통화 중이에요. 오히려 지수가 lose touch with(~와 연락이 끊기다)될 판이에요!"
+}

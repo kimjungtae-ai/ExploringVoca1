@@ -1,0 +1,74 @@
+{
+ "word": "rewarding",
+ "pos": "형용사",
+ "phonetic": "[rɪˈwɔːrdɪŋ]",
+ "meaning": "보람 있는, 수익이 되는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "강조, 되돌려 (back)",
+   "note": "되돌려 준다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ward",
+   "meaning": "지켜보다, 돌보다 (watch, guard)",
+   "note": "프랑크어 *wardon(지키다)에서 온 게르만계 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사)",
+   "note": "'~하게 만드는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> + <strong>ward</strong> (지켜보다) + <strong>-ing</strong> = '보상(reward)을 되돌려 주는'에서 <strong>'보람 있는'</strong>이 되었어요.",
+ "historyTitle": "regard와 쌍둥이인 reward",
+ "historyBody": "reward는 앵글로노르만어 rewarder에서 왔는데, 이는 고대 프랑스어 regarder(바라보다, 주목하다)의 북부 방언 형태였어요. 그래서 '주목해 보다'에서 '공을 알아주고 갚다'라는 뜻이 생겼죠. ward와 guard는 같은 게르만 뿌리에서 나온 한 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reward",
+   "pos": "명사 / 동사",
+   "meaning": "보상 / 보상하다",
+   "en": "The reward for finding the dog is 100 dollars.",
+   "ko": "강아지를 찾은 사람에 대한 보상은 100달러예요."
+  },
+  {
+   "word": "regard",
+   "pos": "동사 / 명사",
+   "meaning": "여기다, 간주하다 / 존중",
+   "en": "Many people regard him as a hero.",
+   "ko": "많은 사람들이 그를 영웅으로 여겨요."
+  },
+  {
+   "word": "guard",
+   "pos": "명사 / 동사",
+   "meaning": "경비원 / 지키다",
+   "en": "A guard stood at the gate all night.",
+   "ko": "경비원이 밤새 문 앞에 서 있었어요."
+  },
+  {
+   "word": "award",
+   "pos": "명사 / 동사",
+   "meaning": "상 / 수여하다",
+   "en": "She won an award for her painting.",
+   "ko": "그녀는 그림으로 상을 받았어요."
+  },
+  {
+   "word": "warden",
+   "pos": "명사",
+   "meaning": "관리인, 교도소장",
+   "en": "The park warden told us to stay on the path.",
+   "ko": "공원 관리인이 우리에게 길을 벗어나지 말라고 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 봉사활동을 마치고 아이들의 웃음에 뿌듯해하는 장면",
+ "imageCaption": "땀 흘려 도운 뒤 감사 인사를 받으며 마음이 꽉 차오르는 순간을 떠올려 보세요.",
+ "movieLineEn": "Being a hero isn't easy, but it's rewarding.",
+ "movieLineKo": "영웅이 되는 건 쉽지 않지만, 보람 있어.",
+ "storyTitle": "보람찬 경비원",
+ "story": "공원 guard(경비원) 아저씨는 일이 정말 rewarding(보람 있는)하다고 했어요. 길 잃은 오리를 찾아 주고 reward(보상)로 깃털을 받았죠. 시장님은 그를 영웅으로 regard(여기다)하며 award(상)를 주었어요. 그런데 상패를 받자마자 오리들이 그걸 둥지로 가져갔대요!"
+}

@@ -1,0 +1,67 @@
+{
+ "word": "alternative",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ɔːlˈtɜːrnətɪv]",
+ "meaning": "대안, 선택 가능한 것 / 대안의, 대체의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "alter",
+   "meaning": "다른, (둘 중) 다른 하나 (other)",
+   "note": "라틴어 alter(둘 중 다른 하나)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-n-ate",
+   "meaning": "번갈아 하다 (동사)",
+   "note": "라틴어 alternare(번갈아 하다)의 형태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 성질의",
+   "note": "형용사·명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>alter</strong> (다른 하나) + <strong>-nate</strong> (번갈아 하다) + <strong>-ive</strong> = '번갈아 고를 수 있는 다른 것'에서 <strong>'대안, 대체의'</strong>가 되었어요.",
+ "historyTitle": "둘 중 '다른 하나'를 뜻하던 라틴어 alter",
+ "historyBody": "라틴어 alter는 '둘 중 다른 하나'라는 뜻이었고, alternare는 '번갈아 하다'였어요. 중세 라틴어 alternativus를 거쳐 영어 alternative가 생겼는데, 원래는 '둘 중 하나를 고르는'이라는 뜻이었어요. 지금은 '대안'이라는 뜻으로 수능 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "alter",
+   "pos": "동사",
+   "meaning": "바꾸다, 변경하다",
+   "en": "The tailor altered my school uniform.",
+   "ko": "재단사가 내 교복을 수선해 주었어요."
+  },
+  {
+   "word": "alternate",
+   "pos": "동사/형용사",
+   "meaning": "번갈아 하다 / 번갈아 하는",
+   "en": "We alternate cleaning duties every week.",
+   "ko": "우리는 매주 청소 당번을 번갈아 해요."
+  },
+  {
+   "word": "alteration",
+   "pos": "명사",
+   "meaning": "변경, 수정",
+   "en": "They made a few alterations to the plan.",
+   "ko": "그들은 계획을 몇 가지 수정했어요."
+  },
+  {
+   "word": "alternatively",
+   "pos": "부사",
+   "meaning": "그 대신에, 또는",
+   "en": "Alternatively, you can take the subway.",
+   "ko": "아니면 지하철을 타도 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 길이 막혀서 지도에서 다른 길을 찾는 장면",
+ "imageCaption": "원래 길이 막혔을 때 고를 수 있는 '다른 하나'를 떠올려 보세요.",
+ "movieLineEn": "We have no alternative. We must cross the river.",
+ "movieLineKo": "다른 방법이 없어. 강을 건너야 해.",
+ "storyTitle": "엘리베이터 고장의 대안",
+ "story": "엘리베이터가 고장 나자 경비원 아저씨는 alternative(대안)를 내놨어요. 바로 미끄럼틀! 계단과 미끄럼틀을 alternate(번갈아 하다)하며 내려가면 됐죠. 주민들은 alteration(변경)이 필요하다며 계획을 alter(바꾸다)하자고 했지만, 아이들은 대환영! 엘리베이터가 고쳐진 후에도 아무도 안 탔대요."
+}

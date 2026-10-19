@@ -1,0 +1,48 @@
+{
+ "word": "gear",
+ "pos": "명사 / 동사",
+ "phonetic": "[ɡɪr]",
+ "meaning": "장비, 기어(톱니바퀴), 의복 / (~에) 맞추다, 대비하게 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "gear",
+   "meaning": "장비, 의복 (equipment, apparel)",
+   "note": "고대 노르드어 gørvi(장비, 의복)에서 온 것으로 보여요."
+  }
+ ],
+ "summary": "<strong>gear</strong> (고대 노르드어 gørvi, 장비) = 필요한 도구나 옷이라는 뜻에서 <strong>'장비, 기어'</strong>가 되었습니다.",
+ "historyTitle": "바이킹의 장비에서 자동차 기어로",
+ "historyBody": "gear는 13세기 무렵 고대 노르드어 gørvi(장비, 의복)에서 영어로 들어온 것으로 보여요. 처음엔 '갑옷, 장비, 옷'을 뜻했고, 16세기 이후 '기계 장치'를 거쳐 '톱니바퀴(기어)'라는 뜻이 생겼어요. 지금도 camping gear(캠핑 장비)처럼 '장비'라는 뜻으로 많이 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gearbox",
+   "pos": "명사",
+   "meaning": "변속기, 기어 박스",
+   "en": "The mechanic fixed the car's gearbox.",
+   "ko": "정비사가 자동차의 변속기를 고쳤어요."
+  },
+  {
+   "word": "gear up",
+   "pos": "동사구",
+   "meaning": "준비하다, 대비하다",
+   "en": "The school is gearing up for the sports festival.",
+   "ko": "학교는 체육 대회를 준비하고 있어요."
+  },
+  {
+   "word": "headgear",
+   "pos": "명사",
+   "meaning": "모자, 머리 보호구",
+   "en": "Wear proper headgear when you ride a bike.",
+   "ko": "자전거를 탈 때는 알맞은 머리 보호구를 쓰세요."
+  }
+ ],
+ "imageSense": "대표 의미: 등산 가방, 텐트, 헬멧 등 캠핑 장비를 펼쳐 놓은 장면",
+ "imageCaption": "캠핑 가기 전 거실 바닥에 텐트, 랜턴, 침낭을 쭉 펼쳐 놓은 모습을 떠올려 보세요.",
+ "movieLineEn": "Grab your gear. We leave at dawn.",
+ "movieLineKo": "장비 챙겨. 새벽에 출발한다.",
+ "storyTitle": "장비만 프로",
+ "story": "삼촌은 등산을 위해 최고급 gear(장비)를 샀어요. 반짝이는 headgear(머리 보호구)에, 산악자전거 gearbox(변속기)까지 최신형이었죠. 일주일 내내 gear up(준비하다)하며 사진도 찍었어요. 드디어 산 입구에 도착한 삼촌은 장비가 너무 무거워서 report(알리다)했대요. \"오늘은 여기까지! 정상은 사진으로 보자!\""
+}

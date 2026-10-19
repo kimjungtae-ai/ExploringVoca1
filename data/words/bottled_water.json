@@ -1,0 +1,68 @@
+{
+ "word": "bottled water",
+ "pos": "명사구",
+ "phonetic": "[ˈbɑːtld ˈwɔːtər]",
+ "meaning": "병에 든 물, 생수",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "bottled",
+   "meaning": "병에 담긴 (in a bottle)",
+   "note": "bottle(병)을 동사로 써서 -ed를 붙였어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "water",
+   "meaning": "물 (water)",
+   "note": "고대 영어 wæter에서 온 아주 오래된 단어예요."
+  }
+ ],
+ "summary": "<strong>bottled</strong> (병에 담긴) + <strong>water</strong> (물) = <strong>'병에 담아 파는 물, 생수'</strong>예요.",
+ "historyTitle": "가죽 주머니에서 페트병까지",
+ "historyBody": "bottle은 옛 프랑스어 boteille에서 왔고, 중세 라틴어 butticula(작은 통)가 뿌리예요. 옛날 병은 가죽이나 나무로 만들기도 했죠. 오늘날 수능 지문에서는 플라스틱 생수병 쓰레기 같은 환경 문제와 함께 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tap water",
+   "pos": "명사구",
+   "meaning": "수돗물",
+   "en": "Tap water in this city is safe to drink.",
+   "ko": "이 도시의 수돗물은 마셔도 안전해요."
+  },
+  {
+   "word": "bottleneck",
+   "pos": "명사",
+   "meaning": "병목, 장애물",
+   "en": "The narrow bridge creates a traffic bottleneck.",
+   "ko": "좁은 다리 때문에 교통 정체가 생겨요."
+  },
+  {
+   "word": "plastic bottle",
+   "pos": "명사구",
+   "meaning": "플라스틱 병",
+   "en": "Please recycle your plastic bottles.",
+   "ko": "플라스틱 병은 재활용해 주세요."
+  },
+  {
+   "word": "refillable",
+   "pos": "형용사",
+   "meaning": "다시 채울 수 있는",
+   "en": "Bring a refillable bottle to the festival.",
+   "ko": "축제에는 다시 채울 수 있는 병을 가져오세요."
+  },
+  {
+   "word": "waterproof",
+   "pos": "형용사",
+   "meaning": "방수의",
+   "en": "My new watch is waterproof.",
+   "ko": "내 새 시계는 방수가 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 편의점 냉장고에 줄지어 놓인 생수병",
+ "imageCaption": "목마를 때 손에 쥐는 시원한 생수 한 병을 떠올려 보세요.",
+ "movieLineEn": "Give me that bottled water. I haven't had a drink in days!",
+ "movieLineKo": "그 생수 줘. 며칠째 아무것도 못 마셨어!",
+ "storyTitle": "생수의 정체",
+ "story": "나는 비싼 bottled water(생수)만 마셨어요. 친구는 tap water(수돗물)도 깨끗하다며 refillable(다시 채울 수 있는) 병을 쓰라고 했죠. 그래서 블라인드 테스트를 했는데, 내가 '역시 고급 물!'이라고 고른 건 친구가 화장실 수도에서 받은 물이었어요!"
+}

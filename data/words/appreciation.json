@@ -1,0 +1,74 @@
+{
+ "word": "appreciation",
+ "pos": "명사",
+ "phonetic": "[əˌpriːʃiˈeɪʃn]",
+ "meaning": "감사, 진가의 인정, 감상, 이해, (가치의) 상승",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "대상을 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "preci (pretium)",
+   "meaning": "값, 가치 (price)",
+   "note": "price, precious와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>preci</strong> (값) + <strong>-ation</strong> (명사) = '가치를 제대로 매김'에서 <strong>'감사, 진가의 인정, 감상'</strong>이 되었어요.",
+ "historyTitle": "가치를 알아보는 마음",
+ "historyBody": "appreciation은 라틴어 'pretium(값)'에서 온 appreciate의 명사형이에요. 17세기 무렵 영어에 들어와 처음엔 '가치 평가'를 뜻했고, 곧 '좋은 점을 알아보고 고마워함'이라는 뜻으로 넓어졌어요. art appreciation(미술 감상)처럼 '감상'의 뜻으로도 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appreciate",
+   "pos": "동사",
+   "meaning": "고마워하다, 진가를 알아보다",
+   "en": "I appreciate your honest advice.",
+   "ko": "솔직한 조언 고마워요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "귀중한, 소중한",
+   "en": "These old photos are precious to my grandmother.",
+   "ko": "이 오래된 사진들은 할머니께 소중해요."
+  },
+  {
+   "word": "price",
+   "pos": "명사",
+   "meaning": "가격, 대가",
+   "en": "The price of fruit goes up in winter.",
+   "ko": "겨울에는 과일 가격이 올라요."
+  },
+  {
+   "word": "prize",
+   "pos": "명사",
+   "meaning": "상, 상품",
+   "en": "She won first prize in the speech contest.",
+   "ko": "그녀는 말하기 대회에서 1등 상을 받았어요."
+  },
+  {
+   "word": "praise",
+   "pos": "동사/명사",
+   "meaning": "칭찬하다 / 칭찬",
+   "en": "The coach praised us for our teamwork.",
+   "ko": "코치님은 우리의 팀워크를 칭찬하셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 음악회가 끝난 뒤 연주자에게 감사의 꽃다발을 건네는 장면",
+ "imageCaption": "연주를 마친 피아니스트에게 꽃다발을 건네며 '정말 멋졌어요'라고 말하는 장면을 떠올려 보세요. 가치를 알아보고 고마워하는 마음이 appreciation이에요.",
+ "movieLineEn": "Here's a small token of our appreciation, captain.",
+ "movieLineKo": "선장님, 저희의 작은 감사의 표시입니다.",
+ "storyTitle": "감사장을 받은 고양이",
+ "story": "우리 집 고양이는 매일 쥐 인형을 물어 와요. 엄마는 그 노력을 appreciate(고마워하다)해서 고양이에게 appreciation(감사) 상장을 만들어 주셨어요. 고양이는 그 prize(상)를 precious(소중한) 보물처럼 여겼죠. 다음 날, 상장은 갈기갈기 찢겨 고양이 침대가 되어 있었답니다."
+}

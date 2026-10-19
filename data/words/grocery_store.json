@@ -1,0 +1,68 @@
+{
+ "word": "grocery store",
+ "pos": "명사구",
+ "phonetic": "[ˈɡroʊsəri stɔːr]",
+ "meaning": "식료품점, 슈퍼마켓",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "grocery",
+   "meaning": "식료품 (groceries)",
+   "note": "가게에서 파는 물건이 '식료품'이라는 걸 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "store",
+   "meaning": "가게, 상점 (shop)",
+   "note": "물건을 사고파는 '가게'라는 중심 뜻을 맡아요."
+  }
+ ],
+ "summary": "<strong>grocery</strong> (식료품) + <strong>store</strong> (가게) = '식료품을 파는 가게'에서 <strong>'식료품점, 슈퍼마켓'</strong>",
+ "historyTitle": "'큰 덩어리로 파는 상인'에서 온 grocer",
+ "historyBody": "grocery는 grocer(식료품 상인)에서 왔는데, grocer는 고대 프랑스어 grossier, 중세 라틴어 grossarius(도매상)에서 나왔어요. 원래 '큰 단위(gross)로 물건을 파는 상인'을 뜻했고, 나중에 향신료·설탕 같은 식료품을 파는 상인을 가리키게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "groceries",
+   "pos": "명사",
+   "meaning": "식료품, 장 본 것",
+   "en": "I helped my mom carry the groceries into the kitchen.",
+   "ko": "나는 엄마가 장 본 것을 부엌으로 옮기는 걸 도와드렸어."
+  },
+  {
+   "word": "grocer",
+   "pos": "명사",
+   "meaning": "식료품 상인",
+   "en": "The local grocer knows every customer by name.",
+   "ko": "동네 식료품 상인은 손님 모두의 이름을 알아."
+  },
+  {
+   "word": "convenience store",
+   "pos": "명사구",
+   "meaning": "편의점",
+   "en": "I bought a snack at the convenience store after school.",
+   "ko": "나는 방과 후에 편의점에서 간식을 샀어."
+  },
+  {
+   "word": "department store",
+   "pos": "명사구",
+   "meaning": "백화점",
+   "en": "The department store is crowded during the holiday sale.",
+   "ko": "백화점은 연휴 세일 기간에 붐벼."
+  },
+  {
+   "word": "in store",
+   "pos": "숙어",
+   "meaning": "~을 기다리고 있는, 닥쳐올",
+   "en": "Nobody knows what the future has in store for us.",
+   "ko": "미래가 우리에게 무엇을 준비해 두었는지 아무도 몰라."
+  }
+ ],
+ "imageSense": "대표 의미: 채소와 우유가 진열된 동네 슈퍼마켓 장면",
+ "imageCaption": "장바구니를 들고 채소 코너와 우유 냉장고 사이를 걷는 모습을 떠올려 보세요.",
+ "movieLineEn": "Run to the grocery store and grab some milk before it closes!",
+ "movieLineKo": "가게 문 닫기 전에 식료품점에 뛰어가서 우유 좀 사 와!",
+ "storyTitle": "우유 심부름의 반전",
+ "story": "민수는 엄마 부탁으로 grocery store(식료품점)에 갔어요. 가는 길에 convenience store(편의점)에서 간식을 사고, department store(백화점) 구경까지 했죠. 결국 groceries(식료품)는 하나도 못 사고 집에 왔는데, 엄마가 웃으며 말했어요. \"괜찮아, 우유는 아까 grocer(식료품 상인) 아저씨가 배달해 주셨어.\""
+}

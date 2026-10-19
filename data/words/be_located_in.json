@@ -1,0 +1,68 @@
+{
+ "word": "be located in",
+ "pos": "숙어",
+ "phonetic": "[bi ˈloʊkeɪtɪd ɪn]",
+ "meaning": "~에 위치하다, ~에 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "located",
+   "meaning": "위치한 (situated)",
+   "note": "라틴어 locus(장소)에서 온 locate의 과거분사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "어느 지역 안에 있는지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be located</strong> (위치해 있다) + <strong>in</strong> (~ 안에) = <strong>'~에 위치하다'</strong>예요.",
+ "historyTitle": "라틴어 locus, '장소'",
+ "historyBody": "locate는 라틴어 locare(두다, 배치하다)에서 왔고, 그 뿌리는 locus(장소)예요. local(지역의), location(위치)이 모두 같은 가족이죠. 수능 실용문에서 '행사 장소'를 말할 때 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "location",
+   "pos": "명사",
+   "meaning": "위치, 장소",
+   "en": "The hotel is in a great location.",
+   "ko": "그 호텔은 위치가 아주 좋아요."
+  },
+  {
+   "word": "local",
+   "pos": "형용사",
+   "meaning": "지역의, 현지의",
+   "en": "We bought fruit from a local farm.",
+   "ko": "우리는 지역 농장에서 과일을 샀어요."
+  },
+  {
+   "word": "be situated in",
+   "pos": "숙어",
+   "meaning": "~에 위치하다",
+   "en": "The village is situated in a valley.",
+   "ko": "그 마을은 계곡에 자리 잡고 있어요."
+  },
+  {
+   "word": "relocate",
+   "pos": "동사",
+   "meaning": "이전하다",
+   "en": "The company relocated to Seoul.",
+   "ko": "그 회사는 서울로 이전했어요."
+  },
+  {
+   "word": "locate",
+   "pos": "동사",
+   "meaning": "위치를 찾아내다",
+   "en": "I couldn't locate my keys.",
+   "ko": "열쇠가 어디 있는지 찾을 수 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위에 핀이 꽂혀 장소를 가리키는 장면",
+ "imageCaption": "지도 앱의 빨간 핀이 '여기!'라고 콕 찍는 모습을 떠올리세요.",
+ "movieLineEn": "The secret base is located in the mountains. Nobody knows.",
+ "movieLineKo": "비밀 기지는 산속에 있어. 아무도 몰라.",
+ "storyTitle": "보물 지도의 위치",
+ "story": "할아버지의 보물 지도에는 보물이 뒷산에 be located in(~에 위치하다)한다고 적혀 있었어요. location(위치)을 locate(찾아내다)하려고 local(지역의) 주민들에게 물었죠. 땅을 파 보니 상자 속엔 할아버지의 어릴 적 성적표가 있었어요!"
+}

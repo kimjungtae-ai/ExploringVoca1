@@ -1,0 +1,61 @@
+{
+ "word": "overripe",
+ "pos": "형용사",
+ "phonetic": "[ˌoʊvərˈraɪp]",
+ "meaning": "너무 익은, 농익은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ripe",
+   "meaning": "익은 (ripe)",
+   "note": "고대 영어 ripe(익은, 수확할 때가 된)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>over-</strong> (지나치게) + <strong>ripe</strong> (익은) = <strong>'너무 익은'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "수확할 때를 넘긴 과일",
+ "historyBody": "ripe는 고대 영어 ripe에서 왔고 '수확할 때가 된'이라는 뜻의 게르만계 단어예요. 여기에 over-(지나치게)가 붙어 17세기 무렵 overripe가 쓰였어요. 너무 익은 바나나는 버리기보다 바나나빵에 쓰면 딱이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ripe",
+   "pos": "형용사",
+   "meaning": "익은",
+   "en": "These strawberries are ripe and sweet.",
+   "ko": "이 딸기들은 잘 익어서 달아요."
+  },
+  {
+   "word": "ripen",
+   "pos": "동사",
+   "meaning": "익다, 익히다",
+   "en": "Tomatoes ripen faster in warm weather.",
+   "ko": "토마토는 따뜻한 날씨에 더 빨리 익어요."
+  },
+  {
+   "word": "unripe",
+   "pos": "형용사",
+   "meaning": "덜 익은",
+   "en": "Unripe bananas are green and hard.",
+   "ko": "덜 익은 바나나는 초록색이고 딱딱해요."
+  },
+  {
+   "word": "ripeness",
+   "pos": "명사",
+   "meaning": "익음, 성숙",
+   "en": "Farmers check the ripeness of the grapes every morning.",
+   "ko": "농부들은 매일 아침 포도가 얼마나 익었는지 확인해요."
+  }
+ ],
+ "imageSense": "대표 의미: 검은 점이 가득하고 물렁해진 바나나 한 송이",
+ "imageCaption": "껍질이 까맣게 변하고 말랑말랑해진 바나나를 떠올려 보세요. 익을 때를 넘어선 게 overripe예요.",
+ "movieLineEn": "These bananas are overripe. Perfect for my secret recipe.",
+ "movieLineKo": "이 바나나들 너무 익었네. 내 비밀 레시피에 딱이야.",
+ "storyTitle": "바나나의 반전",
+ "story": "할머니 댁 바나나가 overripe(너무 익은) 상태가 됐어요. 나는 unripe(덜 익은) 바나나가 더 좋다며 투덜댔죠. 할머니는 바나나가 ripen(익다)할수록 달다며 빵을 구우셨어요. 한 입 먹고 깜짝 놀랐어요. 세상에서 제일 맛있는 바나나빵이었거든요."
+}

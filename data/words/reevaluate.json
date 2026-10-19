@@ -1,0 +1,87 @@
+{
+ "word": "reevaluate",
+ "pos": "동사",
+ "phonetic": "[ˌriːɪˈvæljueɪt]",
+ "meaning": "재평가하다, 다시 검토하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e-",
+   "meaning": "밖으로 (out)",
+   "note": "ex-의 줄임 꼴로, 프랑스어 é-에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "valu",
+   "meaning": "가치, 값 (value / 라틴어 valere: 힘이 있다)",
+   "note": "value(가치)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "단어를 동사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>e-</strong> (밖으로) + <strong>valu</strong> (가치) + <strong>-ate</strong> = 가치를 다시 끄집어내 따져 보다, 즉 <strong>'재평가하다'</strong>예요.",
+ "historyTitle": "'힘이 있다'에서 시작된 가치",
+ "historyBody": "evaluate는 프랑스어 évaluer(값을 매기다)에서 왔고, 그 뿌리는 라틴어 valere(힘이 있다, 가치가 있다)예요. 힘이 센 것이 곧 가치 있는 것이라고 여긴 거죠. 여기에 re-(다시)가 붙어 '다시 평가하다'가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "Teachers evaluate students' projects at the end of the term.",
+   "ko": "선생님들은 학기 말에 학생들의 프로젝트를 평가해요."
+  },
+  {
+   "word": "value",
+   "pos": "명사 / 동사",
+   "meaning": "가치 / 소중히 여기다",
+   "en": "I really value your honest advice.",
+   "ko": "너의 솔직한 조언을 정말 소중히 여겨."
+  },
+  {
+   "word": "valuable",
+   "pos": "형용사",
+   "meaning": "귀중한, 값비싼",
+   "en": "Time is the most valuable thing we have.",
+   "ko": "시간은 우리가 가진 가장 귀중한 것이에요."
+  },
+  {
+   "word": "evaluation",
+   "pos": "명사",
+   "meaning": "평가",
+   "en": "The evaluation showed that the program was effective.",
+   "ko": "평가 결과 그 프로그램은 효과적인 것으로 나타났어요."
+  },
+  {
+   "word": "valid",
+   "pos": "형용사",
+   "meaning": "타당한, 유효한",
+   "en": "Your ticket is valid for one month.",
+   "ko": "네 표는 한 달 동안 유효해."
+  },
+  {
+   "word": "available",
+   "pos": "형용사",
+   "meaning": "이용 가능한, 시간이 있는",
+   "en": "Is this seat available?",
+   "ko": "이 자리 비어 있나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 지난 계획표를 다시 꺼내 빨간 펜으로 고치는 학생",
+ "imageCaption": "모의고사 성적표를 받고 공부 계획표를 다시 펼쳐 하나하나 점검하는 모습을 떠올려 보세요. 그게 reevaluate예요.",
+ "movieLineEn": "Maybe it's time to reevaluate your plan, captain.",
+ "movieLineKo": "선장님, 계획을 재검토할 때가 된 것 같습니다.",
+ "storyTitle": "보물 상자의 진실",
+ "story": "할머니 다락방에서 상자를 발견한 우리는 감정사에게 evaluate(평가하다)를 맡겼어요. 'valuable(귀중한) 골동품이네요!' 하지만 다음 날 그는 다시 reevaluate(재평가하다)하겠다며 전화했어요. 새 evaluation(평가)은 충격적이었죠. 상자 속 진짜 보물은 할머니의 1988년 짝사랑 편지였답니다."
+}

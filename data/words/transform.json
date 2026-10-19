@@ -1,0 +1,75 @@
+{
+ "word": "transform",
+ "pos": "동사",
+ "phonetic": "[trænsˈfɔːrm]",
+ "meaning": "변형시키다, 완전히 바꾸다, 변신하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "trans-",
+   "meaning": "가로질러, 저쪽으로 (across)",
+   "note": "한쪽에서 다른 쪽으로 건너간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "form",
+   "meaning": "모양, 형태 (shape)",
+   "note": "라틴어 forma(모양, 틀)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>trans-</strong> (저쪽으로) + <strong>form</strong> (모양) = 모양을 다른 쪽으로 넘기다, 즉 <strong>'완전히 바꾸다, 변형시키다'</strong>가 되었어요.",
+ "historyTitle": "모양을 건너뛰게 하는 마법",
+ "historyBody": "transform은 라틴어 'transformare(모양을 바꾸다)'에서 왔어요. 고대 로마 시인 오비디우스는 사람이 나무나 동물로 변하는 이야기를 모은 『변신 이야기(Metamorphoses)』를 썼는데, 그런 변신이 바로 transform이에요. 'forma'는 '틀, 모양'이라서 form, formal, uniform이 모두 같은 집안이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "form",
+   "pos": "명사 / 동사",
+   "meaning": "형태, 양식 / 형성하다",
+   "en": "Water can take the form of ice, liquid, or gas.",
+   "ko": "물은 얼음, 액체, 기체의 형태를 띨 수 있어요."
+  },
+  {
+   "word": "formal",
+   "pos": "형용사",
+   "meaning": "격식을 차린, 공식적인",
+   "en": "You should wear formal clothes to the wedding.",
+   "ko": "결혼식에는 격식 있는 옷을 입어야 해요."
+  },
+  {
+   "word": "inform",
+   "pos": "동사",
+   "meaning": "알리다",
+   "en": "Please inform us if you change your address.",
+   "ko": "주소가 바뀌면 저희에게 알려 주세요."
+  },
+  {
+   "word": "reform",
+   "pos": "명사 / 동사",
+   "meaning": "개혁 / 개혁하다",
+   "en": "The government promised to reform the education system.",
+   "ko": "정부는 교육 제도를 개혁하겠다고 약속했어요."
+  },
+  {
+   "word": "uniform",
+   "pos": "명사 / 형용사",
+   "meaning": "교복, 제복 / 획일적인",
+   "en": "Our school uniform is navy blue.",
+   "ko": "우리 학교 교복은 남색이에요."
+  },
+  {
+   "word": "transformation",
+   "pos": "명사",
+   "meaning": "변화, 변신",
+   "en": "The caterpillar's transformation into a butterfly is amazing.",
+   "ko": "애벌레가 나비로 변하는 과정은 놀라워요."
+  }
+ ],
+ "imageSense": "대표 의미: 애벌레가 고치를 거쳐 나비로 변하는 모습",
+ "imageCaption": "꼬물꼬물 애벌레가 고치 속에서 화려한 나비로 바뀌어 나오는 장면을 떠올려 보세요. 모양이 완전히 건너간 거예요.",
+ "movieLineEn": "With this ring, I can transform into anything I want!",
+ "movieLineKo": "이 반지만 있으면 난 원하는 무엇으로든 변신할 수 있어!",
+ "storyTitle": "교복 변신 대작전",
+ "story": "민호는 school uniform(교복)을 멋지게 transform(변형시키다)하고 싶었어요. 넥타이로 망토를 만들어 formal(격식 있는) 히어로가 되었죠. 친구들에게 이 transformation(변신)을 inform(알리다)했는데, 교감 선생님이 오셨어요. \"멋지구나! 대신 다시 원래 form(형태)으로!\""
+}

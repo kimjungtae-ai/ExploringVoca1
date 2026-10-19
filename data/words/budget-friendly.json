@@ -1,0 +1,74 @@
+{
+ "word": "budget-friendly",
+ "pos": "형용사",
+ "phonetic": "[ˈbʌdʒɪt ˈfrendli]",
+ "meaning": "저렴한, 주머니 사정에 맞는, 가성비 좋은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "budget",
+   "meaning": "예산 (budget)",
+   "note": "고대 프랑스어 bougette(작은 가죽 주머니)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "friend",
+   "meaning": "친구 (friend)",
+   "note": "고대 영어 frēond에서 왔고, '사랑하다'라는 뜻의 동사와 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~한",
+   "note": "명사 뒤에 붙어 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>budget</strong> (예산) + <strong>friendly</strong> (친화적인) = '예산에 친절한', 즉 <strong>'저렴한, 가성비 좋은'</strong>이에요.",
+ "historyTitle": "'사랑하는 사람'이었던 friend",
+ "historyBody": "friend는 고대 영어 frēond에서 왔는데, '사랑하다'를 뜻하는 동사 frēogan의 현재분사로 '사랑하는 사람'이라는 뜻이었어요. free(자유로운)도 같은 뿌리에서 나왔다고 봐요. 오늘날 '-friendly'는 user-friendly, eco-friendly처럼 '~에 좋은, ~에 친화적인'이라는 말을 만드는 데 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "budget",
+   "pos": "명사",
+   "meaning": "예산",
+   "en": "Our club has a small budget for the festival.",
+   "ko": "우리 동아리는 축제 예산이 적어."
+  },
+  {
+   "word": "friendly",
+   "pos": "형용사",
+   "meaning": "친절한, 친화적인",
+   "en": "The staff at the hotel were very friendly.",
+   "ko": "호텔 직원들이 아주 친절했어."
+  },
+  {
+   "word": "user-friendly",
+   "pos": "형용사",
+   "meaning": "사용하기 쉬운",
+   "en": "This app is simple and user-friendly.",
+   "ko": "이 앱은 단순하고 사용하기 쉬워."
+  },
+  {
+   "word": "eco-friendly",
+   "pos": "형용사",
+   "meaning": "친환경적인",
+   "en": "We use eco-friendly bags instead of plastic ones.",
+   "ko": "우리는 비닐봉지 대신 친환경 가방을 써요."
+  },
+  {
+   "word": "friendship",
+   "pos": "명사",
+   "meaning": "우정",
+   "en": "Their friendship began in kindergarten.",
+   "ko": "그들의 우정은 유치원 때 시작됐어."
+  }
+ ],
+ "imageSense": "대표 의미: 학생 주머니 사정에도 부담 없는 가성비 맛집",
+ "imageCaption": "적은 돈으로도 배부르게 먹을 수 있는 학교 앞 분식집을 떠올려 보세요. 예산(budget)에 친절한 곳이에요.",
+ "movieLineEn": "Don't worry, this trip will be totally budget-friendly.",
+ "movieLineKo": "걱정 마, 이번 여행은 완전 가성비 좋을 거야.",
+ "storyTitle": "가성비 여행의 끝",
+ "story": "친구들과 budget-friendly(저렴한) 여행을 계획했어요. budget(예산)은 단 5만 원! friendly(친절한) 민박 주인 덕분에 숙소도 싸게 구했죠. 마지막 날 남은 돈으로 eco-friendly(친환경적인) 기념품을 사려다 보니 돈이 그대로였어요. 알고 보니 민박 주인이 친구 삼촌이라 다 공짜였던 거예요!"
+}

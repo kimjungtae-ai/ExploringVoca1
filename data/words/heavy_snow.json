@@ -1,0 +1,68 @@
+{
+ "word": "heavy snow",
+ "pos": "명사구",
+ "phonetic": "[ˈhevi snoʊ]",
+ "meaning": "폭설, 많은 눈",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "heavy",
+   "meaning": "무거운, 심한 (heavy)",
+   "note": "양이나 정도가 '많고 심하다'는 뜻을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "snow",
+   "meaning": "눈 (snow)",
+   "note": "내리는 '눈'이라는 중심 의미예요."
+  }
+ ],
+ "summary": "<strong>heavy</strong> (무거운, 심한) + <strong>snow</strong> (눈) = '무겁게 많이 내리는 눈'에서 <strong>'폭설'</strong>",
+ "historyTitle": "'들어 올리기 힘든'에서 '심한'으로",
+ "historyBody": "heavy는 고대 영어 hefig에서 왔고 heave(들어 올리다)와 관련이 있어요. '들어 올리기 힘들 만큼 무거운'에서 '양이 많은, 심한'이라는 뜻으로 넓어졌죠. 그래서 heavy rain(폭우), heavy traffic(교통 체증)처럼 써요. snow는 고대 영어 snāw에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "heavy rain",
+   "pos": "명사구",
+   "meaning": "폭우",
+   "en": "Heavy rain caused flooding in the city.",
+   "ko": "폭우로 도시에 홍수가 났어."
+  },
+  {
+   "word": "heavy traffic",
+   "pos": "명사구",
+   "meaning": "교통 체증",
+   "en": "We were late because of heavy traffic.",
+   "ko": "우리는 교통 체증 때문에 늦었어."
+  },
+  {
+   "word": "snowstorm",
+   "pos": "명사",
+   "meaning": "눈보라",
+   "en": "The snowstorm closed all the roads.",
+   "ko": "눈보라 때문에 모든 도로가 폐쇄되었어."
+  },
+  {
+   "word": "snowfall",
+   "pos": "명사",
+   "meaning": "강설(량)",
+   "en": "Last night's snowfall was the heaviest this year.",
+   "ko": "어젯밤 강설량이 올해 가장 많았어."
+  },
+  {
+   "word": "heavily",
+   "pos": "부사",
+   "meaning": "심하게, 많이",
+   "en": "It snowed heavily all night.",
+   "ko": "밤새 눈이 펑펑 내렸어."
+  }
+ ],
+ "imageSense": "대표 의미: 자동차가 눈에 파묻힐 정도로 눈이 쌓인 장면",
+ "imageCaption": "무거운 눈이 지붕 위에 수북이 쌓여 나뭇가지가 휘는 모습을 떠올려 보세요.",
+ "movieLineEn": "Heavy snow is coming. Nobody leaves this cabin tonight.",
+ "movieLineKo": "폭설이 오고 있어. 오늘 밤엔 아무도 이 오두막을 나가지 마.",
+ "storyTitle": "휴교령의 반전",
+ "story": "일기 예보에서 heavy snow(폭설)가 온다고 했어요. 학생들은 snowstorm(눈보라)으로 휴교하길 빌며 잠들었죠. 밤새 눈이 heavily(펑펑) 내렸고 snowfall(강설량)은 역대 최고였어요. 아침에 학교 문자가 왔어요. \"오늘은 휴교 대신 운동장 눈사람 만들기 수업을 합니다. 장갑 필수!\""
+}

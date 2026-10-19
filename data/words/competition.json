@@ -1,0 +1,74 @@
+{
+ "word": "competition",
+ "pos": "명사",
+ "phonetic": "[ˌkɑːmpəˈtɪʃn]",
+ "meaning": "경쟁, 대회, 시합",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pet",
+   "meaning": "추구하다, 향하다 (seek, strive)",
+   "note": "라틴어 petere(찾다, 향해 가다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ition",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 행동이나 결과를 나타내는 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>pet</strong> (추구하다) + <strong>-ition</strong> (것) = '같은 것을 함께 쫓는 것'이라는 데서 <strong>'경쟁, 대회'</strong>가 되었습니다.",
+ "historyTitle": "하나의 목표를 함께 쫓다",
+ "historyBody": "라틴어 competere는 '함께 향해 가다, 같은 것을 함께 얻으려 하다'라는 뜻이었어요. 후기 라틴어 competitio는 '경쟁, 다툼'을 뜻했고, 17세기 초 영어에 들어왔답니다. 같은 상을 향해 여러 사람이 달려가는 장면이 바로 이 단어의 그림이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "compete",
+   "pos": "동사",
+   "meaning": "경쟁하다",
+   "en": "Students from 20 schools will compete in the contest.",
+   "ko": "20개 학교 학생들이 그 대회에서 경쟁할 거예요."
+  },
+  {
+   "word": "competitive",
+   "pos": "형용사",
+   "meaning": "경쟁적인, 경쟁력 있는",
+   "en": "The job market is very competitive these days.",
+   "ko": "요즘 취업 시장은 아주 경쟁이 치열해요."
+  },
+  {
+   "word": "competitor",
+   "pos": "명사",
+   "meaning": "경쟁자",
+   "en": "Our team beat every competitor in the league.",
+   "ko": "우리 팀은 리그의 모든 경쟁자를 이겼어요."
+  },
+  {
+   "word": "appetite",
+   "pos": "명사",
+   "meaning": "식욕, 욕구",
+   "en": "She lost her appetite before the big exam.",
+   "ko": "그녀는 중요한 시험 전에 식욕을 잃었어요."
+  },
+  {
+   "word": "repeat",
+   "pos": "동사",
+   "meaning": "반복하다",
+   "en": "History tends to repeat itself.",
+   "ko": "역사는 반복되는 경향이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 결승선을 향해 여러 선수가 동시에 달려가는 장면",
+ "imageCaption": "모두가 같은 목표를 향해(pet) 함께(com-) 달리는 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't just a game. It's a competition!",
+ "movieLineKo": "이건 그냥 게임이 아니야. 시합이라고!",
+ "storyTitle": "먹방 대회의 반전",
+ "story": "동네 라면 먹기 competition(대회)이 열렸어요. competitive(경쟁적인) 분위기 속에 competitor(경쟁자)들이 줄줄이 쓰러졌죠. 마지막에 남은 건 우리 할머니! 할머니의 appetite(식욕)는 끝이 없었어요. 우승 상품은 바로 라면 1년 치였답니다."
+}

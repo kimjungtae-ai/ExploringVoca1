@@ -1,0 +1,61 @@
+{
+ "word": "fitness",
+ "pos": "명사",
+ "phonetic": "[ˈfɪtnəs]",
+ "meaning": "건강, 신체 단련, 적합성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fit",
+   "meaning": "맞다, 건강한 (fit)",
+   "note": "중세 영어 fit에서 왔지만 그 이전 기원은 불확실해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~한 상태 (명사)",
+   "note": "형용사를 '상태'를 뜻하는 명사로 바꿔요. kindness처럼요."
+  }
+ ],
+ "summary": "<strong>fit</strong> (알맞은, 건강한) + <strong>-ness</strong> (상태) = '몸이 알맞게 좋은 상태'에서 <strong>'건강, 신체 단련, 적합성'</strong>이 되었습니다.",
+ "historyTitle": "'적자생존'의 그 fitness",
+ "historyBody": "fitness는 16세기부터 '알맞음, 적합성'이라는 뜻으로 쓰였어요. 다윈의 진화론과 함께 퍼진 'survival of the fittest(적자생존)'에서도 fit은 '환경에 가장 잘 맞는'이라는 뜻이에요. 다만 바탕 단어 fit 자체의 기원은 확실히 밝혀지지 않았어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "fit",
+   "pos": "형용사 / 동사",
+   "meaning": "건강한, 적합한 / 맞다",
+   "en": "Walking every day helps you stay fit.",
+   "ko": "매일 걸으면 건강을 유지하는 데 도움이 돼요."
+  },
+  {
+   "word": "unfit",
+   "pos": "형용사",
+   "meaning": "부적합한",
+   "en": "This water is unfit to drink.",
+   "ko": "이 물은 마시기에 부적합해요."
+  },
+  {
+   "word": "fitting",
+   "pos": "형용사",
+   "meaning": "적절한, 어울리는",
+   "en": "Her speech was a fitting tribute to her teacher.",
+   "ko": "그녀의 연설은 선생님께 어울리는 헌사였어요."
+  },
+  {
+   "word": "outfit",
+   "pos": "명사",
+   "meaning": "옷 한 벌",
+   "en": "I need a warm outfit for the ski trip.",
+   "ko": "스키 여행에 입을 따뜻한 옷이 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 헬스장에서 땀 흘리며 운동하는 장면",
+ "imageCaption": "러닝머신 위를 달리고 아령을 드는 사람들로 가득한 헬스장을 떠올려 보세요.",
+ "movieLineEn": "Your fitness test starts now. Run!",
+ "movieLineKo": "너의 체력 테스트는 지금 시작이다. 달려!",
+ "storyTitle": "아빠의 운동 결심",
+ "story": "아빠는 새해에 fitness(신체 단련)를 시작하겠다고 선언했어요. 비싼 운동 outfit(복장)도 사고, fit(건강한)한 몸을 꿈꿨죠. 첫날 헬스장에 가서 열심히 사진을 찍고 SNS에 report(알리다)했어요. 그런데 다음 날부터 아빠는 '근육통 때문에 운동하기 unfit(부적합한)하다'며 소파와 한 몸이 되었대요!"
+}

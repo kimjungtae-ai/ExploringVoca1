@@ -1,0 +1,68 @@
+{
+ "word": "employee",
+ "pos": "명사",
+ "phonetic": "[ɪmˈplɔɪiː]",
+ "meaning": "직원, 종업원, 피고용인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "employ",
+   "meaning": "고용하다 (employ)",
+   "note": "라틴어 implicare(안으로 접어 넣다)에서 온 동사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ee",
+   "meaning": "~을 당하는 사람 (person affected)",
+   "note": "프랑스어 -é에서 온 꼬리표로, '~되는 사람'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>employ</strong> (고용하다) + <strong>-ee</strong> (~되는 사람) = '고용된 사람'이라는 뜻에서 <strong>'직원'</strong>이 되었어요.",
+ "historyTitle": "-er과 -ee의 차이",
+ "historyBody": "employee는 프랑스어 employé(고용된 사람)에서 19세기 초에 영어로 들어왔어요. -ee는 '~을 받는 사람'이라는 뜻이라, employer(고용하는 사람)와 짝을 이룬답니다. interviewer(면접관)와 interviewee(면접 보는 사람)도 같은 원리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "employ",
+   "pos": "동사",
+   "meaning": "고용하다",
+   "en": "The bakery employs ten workers.",
+   "ko": "그 빵집은 직원 열 명을 고용하고 있어요."
+  },
+  {
+   "word": "employer",
+   "pos": "명사",
+   "meaning": "고용주",
+   "en": "Employers want workers who can solve problems.",
+   "ko": "고용주들은 문제를 해결할 수 있는 직원을 원해요."
+  },
+  {
+   "word": "employment",
+   "pos": "명사",
+   "meaning": "고용, 취업",
+   "en": "She found employment at a local hospital.",
+   "ko": "그녀는 지역 병원에 취업했어요."
+  },
+  {
+   "word": "unemployment",
+   "pos": "명사",
+   "meaning": "실업",
+   "en": "Unemployment is a serious problem for young people.",
+   "ko": "실업은 젊은이들에게 심각한 문제예요."
+  },
+  {
+   "word": "imply",
+   "pos": "동사",
+   "meaning": "암시하다",
+   "en": "His silence implied that he was upset.",
+   "ko": "그의 침묵은 화가 났다는 걸 암시했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 명찰을 단 직원들이 아침 회의에 모인 장면",
+ "imageCaption": "같은 유니폼에 명찰을 달고 출근 도장을 찍는 직원들을 떠올려 보세요.",
+ "movieLineEn": "I'm just an employee. I don't make the rules!",
+ "movieLineKo": "전 그냥 직원이에요. 규칙은 제가 만든 게 아니라고요!",
+ "storyTitle": "이달의 직원",
+ "story": "편의점에서 '이달의 employee(직원)'를 뽑았어요. 사장님, 즉 employer(고용주)는 성실한 민수를 뽑았죠. 그런데 수상 소감에서 민수가 말했어요. \"사실 저는 손님인데요, 매일 와서 정리를 도왔을 뿐이에요.\" 사장님은 감동해서 즉시 민수를 employ(고용하다)했어요. 민수의 첫 employment(취업)는 이렇게 시작됐답니다."
+}

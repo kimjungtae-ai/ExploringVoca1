@@ -1,0 +1,67 @@
+{
+ "word": "enchanting",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈtʃæntɪŋ]",
+ "meaning": "매혹적인, 황홀한, 마법 같은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en- (in-)",
+   "meaning": "안에, 위에 (in, upon)",
+   "note": "라틴어 in-이 프랑스어에서 en-이 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "chant (cantare)",
+   "meaning": "노래하다 (sing)",
+   "note": "라틴어 cantare(노래하다)가 프랑스어 chanter로 변한 거예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사형)",
+   "note": "'~하게 만드는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (위에) + <strong>chant</strong> (노래하다) + <strong>-ing</strong> = '주문을 노래로 걸어 홀리게 하는'이라는 뜻에서 <strong>'매혹적인'</strong>이 되었어요.",
+ "historyTitle": "노래로 거는 마법 주문",
+ "historyBody": "라틴어 incantare는 '~에게 주문을 노래로 읊다', 즉 마법을 거는 것을 뜻했어요. 이 말이 고대 프랑스어 enchanter를 거쳐 14세기 영어 enchant가 되었답니다. 옛사람들은 마법사가 주문을 '노래'처럼 읊는다고 생각했거든요. 그래서 enchanting은 '마법에 걸린 듯 매혹적인'이라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "enchant",
+   "pos": "동사",
+   "meaning": "매혹하다, 마법을 걸다",
+   "en": "The singer enchanted the audience with her voice.",
+   "ko": "그 가수는 목소리로 관객을 매혹했어요."
+  },
+  {
+   "word": "enchantment",
+   "pos": "명사",
+   "meaning": "매혹, 마법",
+   "en": "The old castle was full of mystery and enchantment.",
+   "ko": "그 오래된 성은 신비로움과 마법으로 가득했어요."
+  },
+  {
+   "word": "chant",
+   "pos": "동사/명사",
+   "meaning": "구호를 외치다 / 구호, 성가",
+   "en": "The fans chanted the team's name loudly.",
+   "ko": "팬들이 팀 이름을 크게 외쳤어요."
+  },
+  {
+   "word": "accent",
+   "pos": "명사",
+   "meaning": "말투, 억양, 강세 (말에 더한 노래)",
+   "en": "She speaks English with a British accent.",
+   "ko": "그녀는 영국식 억양으로 영어를 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 반딧불이 반짝이는 밤 숲속의 신비로운 풍경",
+ "imageCaption": "수천 마리 반딧불이가 별처럼 깜빡이는 숲길을 떠올려 보세요. 마법에 걸린 듯 넋을 잃게 돼요.",
+ "movieLineEn": "What an enchanting night. I wish it would never end.",
+ "movieLineKo": "정말 황홀한 밤이야. 영원히 끝나지 않았으면 좋겠어.",
+ "storyTitle": "마법 같은 노래의 반전",
+ "story": "버스킹 가수의 목소리는 정말 enchanting(매혹적인)했어요. 지나가던 사람들은 마법에 걸린 듯 enchant(매혹하다)되었죠. 관객들은 앙코르를 chant(외치다)했어요. 그런데 노래가 끝나자 가수가 독특한 accent(억양)로 말했어요. \"감사합니다. 사실 저 립싱크였어요!\" 그 enchantment(마법)는 3초 만에 풀렸답니다."
+}

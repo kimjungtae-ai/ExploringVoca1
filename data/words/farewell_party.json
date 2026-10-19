@@ -1,0 +1,68 @@
+{
+ "word": "farewell party",
+ "pos": "명사구",
+ "phonetic": "[ˌferˈwel ˈpɑːrti]",
+ "meaning": "송별회, 환송회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "farewell",
+   "meaning": "작별 (farewell)",
+   "note": "fare(가다, 지내다) + well(잘)로 '잘 가요'라는 인사에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "party",
+   "meaning": "파티, 모임 (party)",
+   "note": "사람들이 함께 모이는 자리예요."
+  }
+ ],
+ "summary": "<strong>farewell</strong> (잘 가요, 작별) + <strong>party</strong> (모임) = '잘 가라고 인사하는 모임'이라서 <strong>'송별회'</strong>예요.",
+ "historyTitle": "'잘 지내요'에서 나온 작별 인사",
+ "historyBody": "farewell은 중세 영어 fare wel에서 왔는데, fare는 '가다, 지내다'라는 옛 동사예요. 그래서 farewell은 원래 '잘 가세요, 잘 지내세요'라는 명령형 인사였어요. 지금도 '요금'을 뜻하는 fare와 welfare(복지, 잘 지냄)에 그 흔적이 남아 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "welcome party",
+   "pos": "명사구",
+   "meaning": "환영회",
+   "en": "We had a welcome party for the new teacher.",
+   "ko": "우리는 새 선생님을 위해 환영회를 열었어요."
+  },
+  {
+   "word": "say goodbye",
+   "pos": "숙어",
+   "meaning": "작별 인사를 하다",
+   "en": "It was hard to say goodbye to my friends.",
+   "ko": "친구들에게 작별 인사를 하기가 힘들었어요."
+  },
+  {
+   "word": "welfare",
+   "pos": "명사",
+   "meaning": "복지, 행복",
+   "en": "The government cares about the welfare of children.",
+   "ko": "정부는 아이들의 복지에 신경을 써요."
+  },
+  {
+   "word": "throw a party",
+   "pos": "숙어",
+   "meaning": "파티를 열다",
+   "en": "Let's throw a party for Mom's birthday.",
+   "ko": "엄마 생신에 파티를 열자."
+  },
+  {
+   "word": "see off",
+   "pos": "구동사",
+   "meaning": "배웅하다",
+   "en": "We went to the airport to see her off.",
+   "ko": "우리는 그녀를 배웅하러 공항에 갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 전학 가는 친구를 위해 풍선과 케이크로 꾸민 교실",
+ "imageCaption": "'잘 가, 잊지 마!'라고 쓴 칠판 앞에서 다 같이 사진을 찍는 장면이에요.",
+ "movieLineEn": "This isn't a goodbye. It's just a farewell party with cake.",
+ "movieLineKo": "이건 이별이 아니야. 그냥 케이크 있는 송별회일 뿐이야.",
+ "storyTitle": "끝나지 않는 송별회",
+ "story": "전학 가는 현우를 위해 반 친구들이 farewell party(송별회)를 열었어요. 다들 울면서 say goodbye(작별 인사를 하다)했죠. 다음 날 공항까지 see off(배웅하다)도 했어요. 그런데 다음 주 월요일, 현우가 교실에 앉아 있었어요! 이사가 미뤄졌대요. 친구들은 한숨 쉬며 다시 welcome party(환영회)를 throw a party(파티를 열다)했답니다."
+}

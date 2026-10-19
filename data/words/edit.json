@@ -1,0 +1,61 @@
+{
+ "word": "edit",
+ "pos": "동사",
+ "phonetic": "[ˈedɪt]",
+ "meaning": "편집하다, 수정하다, 교정하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex(밖으로)가 짧아진 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "dit (dare)",
+   "meaning": "주다 (give)",
+   "note": "라틴어 dare(주다)가 변한 모양이에요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>dit</strong> (주다) = '세상 밖으로 내주다, 출판하다'라는 뜻에서 <strong>'편집하다'</strong>가 되었어요.",
+ "historyTitle": "편집자(editor)에서 거꾸로 만든 동사",
+ "historyBody": "라틴어 edere는 e-(밖으로)와 dare(주다)가 합쳐져 '내놓다, 출판하다'라는 뜻이었어요. 영어에서는 editor(편집자, 출판자)라는 명사가 먼저 쓰였고, edit는 18세기 말에 editor에서 거꾸로 만들어진 동사예요. 프랑스어 éditer(출판하다)의 영향도 받았답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "editor",
+   "pos": "명사",
+   "meaning": "편집자",
+   "en": "The editor fixed some mistakes in my article.",
+   "ko": "편집자가 내 기사의 실수 몇 개를 고쳐 줬어요."
+  },
+  {
+   "word": "edition",
+   "pos": "명사",
+   "meaning": "(출판물의) 판, 호",
+   "en": "The new edition of the book has color pictures.",
+   "ko": "그 책의 새 판에는 컬러 사진이 있어요."
+  },
+  {
+   "word": "editorial",
+   "pos": "명사/형용사",
+   "meaning": "사설 / 편집의",
+   "en": "I read an interesting editorial about school life.",
+   "ko": "학교생활에 관한 흥미로운 사설을 읽었어요."
+  },
+  {
+   "word": "editing",
+   "pos": "명사",
+   "meaning": "편집 (작업)",
+   "en": "Video editing takes a lot of time.",
+   "ko": "영상 편집은 시간이 많이 걸려요."
+  }
+ ],
+ "imageSense": "대표 의미: 컴퓨터로 영상을 자르고 붙이며 편집하는 장면",
+ "imageCaption": "화면 속 영상 조각을 잘라 이어 붙이고, 글자에 빨간 펜으로 고치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't edit the truth. Tell me what really happened.",
+ "movieLineKo": "진실을 편집하지 마. 실제로 무슨 일이 있었는지 말해.",
+ "storyTitle": "유튜버 도윤이의 편집 지옥",
+ "story": "도윤이는 첫 브이로그를 edit(편집하다)하느라 밤을 새웠어요. editing(편집)을 마치고 보니 영상은 단 10초! 너무 많이 잘라낸 거죠. 학교 신문 editor(편집자)인 친구가 말했어요. \"이번 edition(호)에 실을게, 제목은 '세상에서 가장 짧은 브이로그'!\" 그 영상은 오히려 조회수 1등이 되었답니다."
+}

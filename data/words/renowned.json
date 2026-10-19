@@ -1,0 +1,74 @@
+{
+ "word": "renowned",
+ "pos": "형용사",
+ "phonetic": "[rɪˈnaʊnd]",
+ "meaning": "유명한, 명성 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 거듭 (again)",
+   "note": "이름이 반복해서 불린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nown",
+   "meaning": "이름 (name)",
+   "note": "라틴어 nomen(이름)에서 온 고대 프랑스어 nomer(이름 짓다)가 바탕이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사를 만듦)",
+   "note": "'~한 상태의'라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (거듭) + <strong>nown</strong> (이름) + <strong>-ed</strong> (~된) = '이름이 거듭 불리는'에서 <strong>'유명한'</strong>이 되었어요.",
+ "historyTitle": "이름이 다시, 또다시 불리다",
+ "historyBody": "renowned는 고대 프랑스어 renomer(명성을 떨치게 하다)에서 온 renown(명성)에 -ed가 붙은 말이에요. renomer는 re-(거듭)와 nomer(이름 짓다, 라틴어 nominare)가 합쳐진 말이죠. 사람들 입에서 이름이 계속 오르내리면 유명해진다는 생각이 담겨 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renown",
+   "pos": "명사",
+   "meaning": "명성",
+   "en": "The chef gained renown for his creative dishes.",
+   "ko": "그 요리사는 창의적인 요리로 명성을 얻었어요."
+  },
+  {
+   "word": "noun",
+   "pos": "명사",
+   "meaning": "명사",
+   "en": "A noun is a word that names a person or thing.",
+   "ko": "명사는 사람이나 사물의 이름을 나타내는 단어예요."
+  },
+  {
+   "word": "pronoun",
+   "pos": "명사",
+   "meaning": "대명사",
+   "en": "Use a pronoun so you don't repeat the same name.",
+   "ko": "같은 이름을 반복하지 않도록 대명사를 쓰세요."
+  },
+  {
+   "word": "nominate",
+   "pos": "동사",
+   "meaning": "(후보로) 지명하다",
+   "en": "Our class nominated Jisu for student president.",
+   "ko": "우리 반은 지수를 학생회장 후보로 추천했어요."
+  },
+  {
+   "word": "nominee",
+   "pos": "명사",
+   "meaning": "후보자, 지명된 사람",
+   "en": "Each nominee gave a short speech to the students.",
+   "ko": "각 후보자가 학생들 앞에서 짧은 연설을 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 많은 사람이 이름을 외치는 무대 위의 유명 피아니스트",
+ "imageCaption": "공연이 끝나자 관객들이 피아니스트의 이름을 계속 외치는 장면을 떠올려 보세요.",
+ "movieLineEn": "She's a renowned scientist, and she needs our help.",
+ "movieLineKo": "그녀는 저명한 과학자이고, 우리 도움이 필요해.",
+ "storyTitle": "유명해지는 법",
+ "story": "동네 고양이 나비는 renowned(유명한) 스타가 되고 싶었어요. 그래서 반장 선거 nominee(후보자)처럼 매일 담벼락에서 연설했죠. 사람들은 나비를 nominate(지명하다)하진 않았지만, 시끄럽다고 이름을 자꾸 불렀어요. 결국 나비는 renown(명성)을 얻었어요. '동네 최고 소음 고양이'로요!"
+}

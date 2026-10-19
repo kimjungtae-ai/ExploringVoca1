@@ -1,0 +1,80 @@
+{
+ "word": "complicated",
+ "pos": "형용사",
+ "phonetic": "[ˈkɑːmplɪkeɪtɪd]",
+ "meaning": "복잡한, 뒤얽힌",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plic",
+   "meaning": "접다 (fold)",
+   "note": "라틴어 plicare(접다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사형)",
+   "note": "어근을 동사로 만들어 줘요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사형)",
+   "note": "동사를 '~된 상태의' 형용사로 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>plic</strong> (접다) + <strong>-ate</strong> + <strong>-ed</strong> = '여러 번 함께 접힌'이라는 데서 <strong>'복잡한'</strong>이 되었습니다.",
+ "historyTitle": "접고 또 접은 종이",
+ "historyBody": "라틴어 complicare는 '함께 접다, 말아 넣다'라는 뜻이었어요. 종이를 여러 번 겹쳐 접으면 펼치기 어렵잖아요? 그래서 17세기 영어에서 '뒤얽힌, 복잡한'이라는 뜻이 되었답니다. 반대로 접힌 것을 '밖으로' 펴는 것이 explicit(명백한)의 그림이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "complicate",
+   "pos": "동사",
+   "meaning": "복잡하게 만들다",
+   "en": "Bad weather may complicate our travel plans.",
+   "ko": "나쁜 날씨가 우리 여행 계획을 복잡하게 만들 수 있어요."
+  },
+  {
+   "word": "complication",
+   "pos": "명사",
+   "meaning": "복잡한 문제, 합병증",
+   "en": "There was a small complication during the surgery.",
+   "ko": "수술 중에 작은 문제가 생겼어요."
+  },
+  {
+   "word": "apply",
+   "pos": "동사",
+   "meaning": "적용하다, 지원하다",
+   "en": "She applied for a job at the museum.",
+   "ko": "그녀는 박물관 일자리에 지원했어요."
+  },
+  {
+   "word": "imply",
+   "pos": "동사",
+   "meaning": "암시하다, 함축하다",
+   "en": "His smile implied that he knew the answer.",
+   "ko": "그의 미소는 그가 답을 안다는 걸 암시했어요."
+  },
+  {
+   "word": "explicit",
+   "pos": "형용사",
+   "meaning": "명백한, 분명한",
+   "en": "The teacher gave explicit instructions for the test.",
+   "ko": "선생님은 시험에 대해 분명한 지시를 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 번 접힌 지도를 펼치지 못해 쩔쩔매는 여행자",
+ "imageCaption": "함께(com-) 접고(plic) 또 접어서 풀기 힘든 종이를 떠올려 보세요.",
+ "movieLineEn": "Love is complicated. Math is easier.",
+ "movieLineKo": "사랑은 복잡해. 수학이 더 쉬워.",
+ "storyTitle": "종이접기 학",
+ "story": "수아는 종이학을 접다가 너무 complicated(복잡한) 단계에서 막혔어요. 설명서는 explicit(명백한)하지 않았고, 그림은 이상한 걸 imply(암시하다)했죠. complication(문제)이 계속 생겼어요. 결국 완성된 건 학이 아니라 개구리! 그런데 그게 진짜로 폴짝 뛰었대요."
+}

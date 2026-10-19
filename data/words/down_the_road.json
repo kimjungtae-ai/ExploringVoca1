@@ -1,0 +1,68 @@
+{
+ "word": "down the road",
+ "pos": "숙어",
+ "phonetic": "[daʊn ðə roʊd]",
+ "meaning": "앞으로, 장차, 나중에; 길 아래쪽에, 조금 떨어진 곳에",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 따라서 (down)",
+   "note": "길을 '따라 쭉 내려가는' 방향을 나타내요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "the road",
+   "meaning": "길 (road)",
+   "note": "시간이 흘러가는 길로 비유돼요."
+  }
+ ],
+ "summary": "<strong>down</strong> (따라서) + <strong>the road</strong> (길) = '길을 따라 쭉 가다 보면'에서 <strong>'앞으로, 나중에'</strong>",
+ "historyTitle": "길을 시간으로 본 표현",
+ "historyBody": "road는 고대 영어 'rād(말 타고 가기, 여행)'에서 왔고, ride(타다)와 같은 뿌리예요. down the road는 원래 '길을 따라 조금 내려간 곳에'라는 장소의 뜻인데, 시간을 길처럼 생각해 '앞으로 언젠가, 나중에'라는 뜻으로도 쓰이게 됐어요. 'a few years down the road(몇 년 후에)'처럼 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in the long run",
+   "pos": "숙어",
+   "meaning": "결국에는, 장기적으로",
+   "en": "Hard work pays off in the long run.",
+   "ko": "노력은 결국에는 보상받아요."
+  },
+  {
+   "word": "later on",
+   "pos": "숙어",
+   "meaning": "나중에",
+   "en": "I'll explain it to you later on.",
+   "ko": "나중에 설명해 줄게."
+  },
+  {
+   "word": "in the future",
+   "pos": "숙어",
+   "meaning": "미래에",
+   "en": "I want to travel to space in the future.",
+   "ko": "나는 미래에 우주여행을 하고 싶어."
+  },
+  {
+   "word": "down the street",
+   "pos": "숙어",
+   "meaning": "길 아래쪽에",
+   "en": "There's a bakery down the street.",
+   "ko": "길 아래쪽에 빵집이 있어."
+  },
+  {
+   "word": "on the road",
+   "pos": "숙어",
+   "meaning": "여행 중인, 이동 중인",
+   "en": "The band is on the road for a month.",
+   "ko": "그 밴드는 한 달 동안 투어 중이야."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없이 이어진 길 위로 멀리 보이는 미래의 집",
+ "imageCaption": "길을 따라 쭉 가면 저 멀리 보이는 곳, 그곳이 바로 '앞으로의 미래'예요.",
+ "movieLineEn": "Who knows what will happen down the road?",
+ "movieLineKo": "앞으로 무슨 일이 일어날지 누가 알겠어?",
+ "storyTitle": "미래의 나에게",
+ "story": "나는 \"down the road(앞으로) 꼭 유명한 요리사가 될 거야!\"라고 말했어요. 엄마는 \"in the long run(결국에는) 노력이 중요해\"라고 하셨죠. 나는 later on(나중에) 요리 학교에 가겠다며 매일 라면을 연습했어요. 10년 후, 나는 정말 유명해졌어요. down the street(길 아래쪽에) 있는 '라면 장인' 분식집 사장으로요!"
+}

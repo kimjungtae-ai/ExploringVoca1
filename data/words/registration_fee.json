@@ -1,0 +1,68 @@
+{
+ "word": "registration fee",
+ "pos": "명사구",
+ "phonetic": "[ˌredʒɪˈstreɪʃən fiː]",
+ "meaning": "등록비, 참가비",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "registration",
+   "meaning": "등록 (registration)",
+   "note": "register(등록하다)의 명사형으로 '이름을 명단에 올리는 일'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "fee",
+   "meaning": "요금, 수수료 (fee)",
+   "note": "서비스나 자격을 얻기 위해 내는 돈이에요."
+  }
+ ],
+ "summary": "<strong>registration</strong> (등록) + <strong>fee</strong> (요금) = '등록할 때 내는 돈'이라서 <strong>'등록비, 참가비'</strong>예요.",
+ "historyTitle": "봉토에서 요금으로, fee",
+ "historyBody": "fee는 앵글로-프랑스어 'fee/fief(봉토, 영지)'에서 왔고, 중세 봉건 제도에서 영주가 주는 땅이나 그 대가를 뜻했어요. 시간이 지나면서 '서비스에 대한 대가로 내는 돈'이라는 뜻이 되었어요. register는 중세 라틴어 'registrum(기록부)'에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "entrance fee",
+   "pos": "명사구",
+   "meaning": "입장료",
+   "en": "The entrance fee for the museum is free on Sundays.",
+   "ko": "일요일에는 박물관 입장료가 무료예요."
+  },
+  {
+   "word": "tuition fee",
+   "pos": "명사구",
+   "meaning": "수업료, 등록금",
+   "en": "Tuition fees at the university went up this year.",
+   "ko": "올해 그 대학의 등록금이 올랐어요."
+  },
+  {
+   "word": "register",
+   "pos": "동사",
+   "meaning": "등록하다",
+   "en": "Over 200 students registered for the contest.",
+   "ko": "200명이 넘는 학생이 대회에 등록했어요."
+  },
+  {
+   "word": "charge",
+   "pos": "명사/동사",
+   "meaning": "요금 / 청구하다",
+   "en": "There is no extra charge for delivery.",
+   "ko": "배송에 추가 요금은 없어요."
+  },
+  {
+   "word": "free of charge",
+   "pos": "숙어",
+   "meaning": "무료로",
+   "en": "Children can enter the park free of charge.",
+   "ko": "어린이는 공원에 무료로 입장할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 대회 접수처에서 참가비를 내고 이름표를 받는 장면",
+ "imageCaption": "마라톤 접수처에서 돈을 내고 번호표를 받는 모습을 떠올려 보세요. 등록하려면 내야 하는 요금이 registration fee예요.",
+ "movieLineEn": "No registration fee? Then count me in!",
+ "movieLineKo": "등록비가 없다고? 그럼 나도 낄게!",
+ "storyTitle": "무료의 함정",
+ "story": "도윤이는 마라톤에 register(등록하다)하려다 registration fee(등록비)가 3만 원이라 망설였어요. 그때 '어린이는 free of charge(무료로)!'라는 문구를 발견했죠. 키를 낮추려고 쪼그려 앉아 접수했지만, 접수원이 웃으며 entrance fee(입장료)까지 합쳐 계산서를 내밀었어요."
+}

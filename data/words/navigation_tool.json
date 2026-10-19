@@ -1,0 +1,68 @@
+{
+ "word": "navigation tool",
+ "pos": "명사구",
+ "phonetic": "[ˌnævɪˈɡeɪʃən tuːl]",
+ "meaning": "길 안내 도구, 내비게이션 도구, 항해 도구",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "navigation",
+   "meaning": "항해, 길 찾기 (navigation)",
+   "note": "라틴어 navis(배) + agere(몰다)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "tool",
+   "meaning": "도구 (tool)",
+   "note": "고대 영어 tol(도구)에서 온 기본 단어예요."
+  }
+ ],
+ "summary": "<strong>navigation</strong> (길 찾기, 항해) + <strong>tool</strong> (도구) = '길을 찾아가는 데 쓰는 도구'에서 <strong>'길 안내 도구'</strong>",
+ "historyTitle": "배를 몰던 사람들의 말",
+ "historyBody": "navigate는 라틴어 navigare(배를 몰다)에서 왔어요. navis(배)와 agere(몰다, 움직이다)가 합쳐진 말이죠. 옛날엔 나침반과 별이 항해 도구였다면, 지금은 GPS 앱이 대표적인 navigation tool이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "navigate",
+   "pos": "동사",
+   "meaning": "길을 찾다, 항해하다",
+   "en": "Sailors used the stars to navigate at night.",
+   "ko": "선원들은 밤에 별을 보고 길을 찾았어요."
+  },
+  {
+   "word": "navy",
+   "pos": "명사",
+   "meaning": "해군",
+   "en": "My uncle served in the navy for three years.",
+   "ko": "삼촌은 해군에서 3년간 복무했어요."
+  },
+  {
+   "word": "compass",
+   "pos": "명사",
+   "meaning": "나침반",
+   "en": "Always carry a compass when hiking in the mountains.",
+   "ko": "산에서 하이킹할 땐 항상 나침반을 챙기세요."
+  },
+  {
+   "word": "tool kit",
+   "pos": "명사구",
+   "meaning": "공구 세트",
+   "en": "Dad keeps a tool kit in the car.",
+   "ko": "아빠는 차에 공구 세트를 두세요."
+  },
+  {
+   "word": "naval",
+   "pos": "형용사",
+   "meaning": "해군의",
+   "en": "The city has an old naval base.",
+   "ko": "그 도시에는 오래된 해군 기지가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 스마트폰 지도 앱이 '200m 앞 우회전'을 알려주는 장면",
+ "imageCaption": "휴대폰 화면 속 파란 화살표가 길을 안내하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Our navigation tool is broken. We're lost at sea!",
+ "movieLineKo": "항해 도구가 고장 났어. 우리 바다에서 길을 잃었어!",
+ "storyTitle": "믿을 수 없는 길잡이",
+ "story": "캠핑 가는 길, 아빠는 navigation tool(길 안내 도구)만 믿었어요. 엄마는 compass(나침반)를 꺼냈지만 아빠는 앱으로 navigate(길을 찾다)하겠다고 했죠. 세 시간 뒤 도착한 곳은 캠핑장이 아니라 navy(해군) 기지 정문이었어요!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "megaphone",
+ "pos": "명사",
+ "phonetic": "[ˈmeɡəfoʊn]",
+ "meaning": "확성기, 메가폰",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mega-",
+   "meaning": "큰 (great, large)",
+   "note": "그리스어 megas에서 온, '아주 크다'는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "phone",
+   "meaning": "소리, 목소리 (sound, voice)",
+   "note": "그리스어 phōnē에서 왔어요. telephone의 phone과 같아요."
+  }
+ ],
+ "summary": "<strong>mega</strong> (큰) + <strong>phone</strong> (소리) = 소리를 크게 만드는 도구라서 <strong>'확성기'</strong>가 되었어요.",
+ "historyTitle": "에디슨 시대에 만들어진 새 단어",
+ "historyBody": "megaphone은 그리스어 megas(큰)와 phōnē(소리)를 조합해 1878년 무렵 영어에서 새로 만든 단어예요. 토머스 에디슨이 멀리까지 소리를 전하는 장치에 이 이름을 붙인 것으로 알려져 있어요. 지금은 원뿔 모양 확성기 전체를 가리키죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "microphone",
+   "pos": "명사",
+   "meaning": "마이크",
+   "en": "She tapped the microphone before her speech.",
+   "ko": "그녀는 연설 전에 마이크를 톡톡 두드렸어요."
+  },
+  {
+   "word": "telephone",
+   "pos": "명사",
+   "meaning": "전화기",
+   "en": "My grandfather still uses an old telephone at home.",
+   "ko": "할아버지는 집에서 아직 오래된 전화기를 쓰세요."
+  },
+  {
+   "word": "symphony",
+   "pos": "명사",
+   "meaning": "교향곡",
+   "en": "The orchestra played a famous symphony last night.",
+   "ko": "오케스트라가 어젯밤 유명한 교향곡을 연주했어요."
+  },
+  {
+   "word": "phonetic",
+   "pos": "형용사",
+   "meaning": "음성의, 발음의",
+   "en": "The dictionary shows the phonetic symbols for each word.",
+   "ko": "사전에는 단어마다 발음 기호가 나와 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 운동장에서 선생님이 확성기로 크게 외치는 장면",
+ "imageCaption": "체육대회 날 선생님이 원뿔 모양 확성기를 입에 대고 '집합!'이라고 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Grab the megaphone and tell everyone to evacuate now!",
+ "movieLineKo": "확성기 들고 모두에게 지금 대피하라고 알려!",
+ "storyTitle": "속삭이는 응원단장",
+ "story": "목소리가 작은 응원단장이 megaphone(확성기)을 샀어요. microphone(마이크)까지 연결했죠. 하지만 너무 커서 옆 동네 telephone(전화기)까지 울렸어요. 다음 날 그는 응원 대신 symphony(교향곡) 지휘자로 스카우트되었답니다. 손짓만 하면 되거든요!"
+}

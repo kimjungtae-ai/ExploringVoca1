@@ -1,0 +1,74 @@
+{
+ "word": "satisfying",
+ "pos": "형용사",
+ "phonetic": "[ˈsætɪsfaɪɪŋ]",
+ "meaning": "만족스러운, 충분한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "satis",
+   "meaning": "충분한 (enough)",
+   "note": "라틴어 satis(충분히)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fy",
+   "meaning": "하다, 만들다 (make, do)",
+   "note": "라틴어 facere(하다)에서 온 동사 어미예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사를 만듦)",
+   "note": "'그런 느낌을 주는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>satis</strong> (충분한) + <strong>fy</strong> (만들다) + <strong>-ing</strong> = '충분하게 해 주는'에서 <strong>'만족스러운'</strong>이 되었어요.",
+ "historyTitle": "'충분히 했다'는 로마의 법률 용어",
+ "historyBody": "satisfy는 라틴어 satisfacere(충분히 하다, 빚을 갚다)가 고대 프랑스어를 거쳐 15세기에 영어로 들어왔어요. 원래는 빚이나 의무를 '충분히 채워 갚다'라는 법률적 의미가 강했죠. 여기에 -ing가 붙어 '만족감을 주는'이라는 형용사가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "satisfy",
+   "pos": "동사",
+   "meaning": "만족시키다, 충족시키다",
+   "en": "The new menu will satisfy both kids and adults.",
+   "ko": "새 메뉴는 아이와 어른 모두를 만족시킬 거예요."
+  },
+  {
+   "word": "satisfaction",
+   "pos": "명사",
+   "meaning": "만족",
+   "en": "She smiled with satisfaction after finishing the puzzle.",
+   "ko": "그녀는 퍼즐을 다 맞춘 뒤 만족스럽게 웃었어요."
+  },
+  {
+   "word": "satisfactory",
+   "pos": "형용사",
+   "meaning": "만족스러운, 충분한",
+   "en": "His test results were satisfactory.",
+   "ko": "그의 시험 결과는 만족스러웠어요."
+  },
+  {
+   "word": "satisfied",
+   "pos": "형용사",
+   "meaning": "만족한",
+   "en": "Are you satisfied with your new phone?",
+   "ko": "새 휴대폰에 만족하니?"
+  },
+  {
+   "word": "dissatisfied",
+   "pos": "형용사",
+   "meaning": "불만족한",
+   "en": "Many customers were dissatisfied with the slow service.",
+   "ko": "많은 손님이 느린 서비스에 불만족했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 오래 공들인 퍼즐의 마지막 조각을 끼우는 순간",
+ "imageCaption": "'딸깍!' 마지막 퍼즐 조각이 딱 맞아 들어가는 순간의 뿌듯함을 떠올려 보세요.",
+ "movieLineEn": "Victory has never felt this satisfying.",
+ "movieLineKo": "승리가 이렇게 만족스러웠던 적은 없었어.",
+ "storyTitle": "만족의 끝판왕",
+ "story": "형은 뽁뽁이를 터뜨리는 게 세상에서 가장 satisfying(만족스러운) 일이래요. 한 장을 다 터뜨리고 satisfaction(만족) 가득한 얼굴로 누웠죠. 그런데 엄마는 dissatisfied(불만족한) 표정이었어요. 그 뽁뽁이는 택배로 보낼 satisfactory(충분한) 포장재였거든요. 엄마의 화를 satisfy(충족시키다)할 방법은 없었답니다."
+}

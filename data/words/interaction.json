@@ -1,0 +1,81 @@
+{
+ "word": "interaction",
+ "pos": "명사",
+ "phonetic": "[ˌɪntərˈækʃən]",
+ "meaning": "상호 작용, 교류, 소통",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "사이에, 서로 (between)",
+   "note": "둘 이상이 서로 주고받는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "act",
+   "meaning": "행하다 (do, act)",
+   "note": "라틴어 agere(하다, 움직이다)의 과거분사 actus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (서로) + <strong>act</strong> (행하다) + <strong>-ion</strong> (~것) = '서로 사이에서 주고받는 행동'이라는 뜻에서 <strong>'상호 작용'</strong>이 되었습니다.",
+ "historyTitle": "서로 주고받는 행동",
+ "historyBody": "act는 라틴어 'agere(하다, 움직이다)'에서 왔어요. interaction은 19세기 무렵 과학에서 물질이나 힘이 서로 영향을 주고받는 것을 가리키며 널리 쓰였죠. 지금은 사람 사이의 소통이나 사회적 교류를 말할 때 수능 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "interact",
+   "pos": "동사",
+   "meaning": "상호 작용하다, 교류하다",
+   "en": "Children learn by interacting with others.",
+   "ko": "아이들은 다른 사람과 교류하며 배워요."
+  },
+  {
+   "word": "act",
+   "pos": "동사 / 명사",
+   "meaning": "행동하다 / 행동",
+   "en": "We must act quickly to save the planet.",
+   "ko": "지구를 구하려면 빨리 행동해야 해요."
+  },
+  {
+   "word": "action",
+   "pos": "명사",
+   "meaning": "행동, 조치",
+   "en": "Actions speak louder than words.",
+   "ko": "행동이 말보다 더 중요해요."
+  },
+  {
+   "word": "react",
+   "pos": "동사",
+   "meaning": "반응하다",
+   "en": "How did she react to the news?",
+   "ko": "그녀는 그 소식에 어떻게 반응했어요?"
+  },
+  {
+   "word": "active",
+   "pos": "형용사",
+   "meaning": "활동적인, 적극적인",
+   "en": "My grandmother is still very active.",
+   "ko": "우리 할머니는 아직도 아주 활동적이세요."
+  },
+  {
+   "word": "interactive",
+   "pos": "형용사",
+   "meaning": "상호적인, 쌍방향의",
+   "en": "The museum has many interactive displays.",
+   "ko": "그 박물관에는 체험형 전시물이 많아요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구들이 마주 보고 웃으며 대화를 주고받는 장면",
+ "imageCaption": "탁구공이 네트 사이를 왔다 갔다 하듯 말과 행동이 오가는 모습을 떠올려 보세요. 그게 interaction이에요.",
+ "movieLineEn": "Every interaction with you is a surprise.",
+ "movieLineKo": "너랑 주고받는 모든 순간이 놀라움이야.",
+ "storyTitle": "로봇과의 첫 교류",
+ "story": "학교에 새 로봇이 왔어요. 학생들은 로봇과 interact(교류하다)하려고 줄을 섰죠. 로봇은 아주 active(활동적인)해서 모든 말에 react(반응하다)했어요. 첫 interaction(상호 작용)은 성공! 그런데 '안녕'이라고 하자 로봇이 '숙제 검사를 시작합니다'라고 말해 모두 도망갔대요."
+}

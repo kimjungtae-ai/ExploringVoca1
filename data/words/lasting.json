@@ -1,0 +1,61 @@
+{
+ "word": "lasting",
+ "pos": "형용사",
+ "phonetic": "[ˈlæstɪŋ]",
+ "meaning": "오래 지속되는, 영속적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "last",
+   "meaning": "지속되다 (endure)",
+   "note": "고대 영어 læstan(따라가다, 이어 가다, 견디다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (that is ~ing)",
+   "note": "동사를 형용사처럼 쓰게 해 줘요."
+  }
+ ],
+ "summary": "<strong>last</strong> (지속되다) + <strong>-ing</strong> (~하는) = '계속 이어지는'이라서 <strong>'오래 지속되는'</strong>이에요.",
+ "historyTitle": "발자국을 따라가던 단어",
+ "historyBody": "동사 last는 고대 영어 læstan에서 왔는데, 원래 '누군가의 발자국을 따라가다'라는 뜻이었어요. 고대 영어 last는 '발자국'을 뜻했거든요. 길을 계속 따라간다는 뜻에서 '이어 가다, 견디다, 오래가다'가 되었고, 여기에 -ing가 붙어 '오래 지속되는'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "last",
+   "pos": "동사",
+   "meaning": "지속되다, 오래가다",
+   "en": "The meeting lasted for three hours.",
+   "ko": "회의는 세 시간 동안 계속되었어요."
+  },
+  {
+   "word": "everlasting",
+   "pos": "형용사",
+   "meaning": "영원한",
+   "en": "The story is about everlasting love.",
+   "ko": "그 이야기는 영원한 사랑에 관한 거예요."
+  },
+  {
+   "word": "long-lasting",
+   "pos": "형용사",
+   "meaning": "오래 지속되는",
+   "en": "This battery is long-lasting and cheap.",
+   "ko": "이 배터리는 오래가고 값도 싸요."
+  },
+  {
+   "word": "outlast",
+   "pos": "동사",
+   "meaning": "~보다 오래가다",
+   "en": "Good habits will outlast any diet plan.",
+   "ko": "좋은 습관은 어떤 다이어트 계획보다 오래가요."
+  }
+ ],
+ "imageSense": "대표 의미: 어린 시절 친구와 찍은 사진이 수십 년 지나도 소중히 남아 있는 장면",
+ "imageCaption": "시간이 흘러도 바래지 않고 계속 이어지는 우정이나 추억을 떠올려 보세요.",
+ "movieLineEn": "I want to make a lasting difference in this world.",
+ "movieLineKo": "나는 이 세상에 오래 남는 변화를 만들고 싶어.",
+ "storyTitle": "오래가는 껌",
+ "story": "과자 회사가 맛이 last(지속되다)하는 껌을 만들었어요. 광고에는 '이 lasting(오래 지속되는) 맛은 everlasting(영원한)!'이라고 썼죠. 소비자들은 열광했어요. 정말 long-lasting(오래가는) 껌이었거든요. 문제는 3년째 씹어도 안 끝나서 아무도 다른 껌을 안 산다는 거였답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "at a distance",
+ "pos": "전치사구",
+ "phonetic": "[æt ə ˈdɪstəns]",
+ "meaning": "멀리서, 조금 떨어져서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "at",
+   "meaning": "~에서 (at)",
+   "note": "어느 지점에 있는지 콕 찍어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "distance",
+   "meaning": "거리 (distance)",
+   "note": "라틴어 dis-(떨어져)+stare(서다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>at</strong> (~에서) + <strong>a distance</strong> (어떤 거리) = '떨어진 거리에서'라는 뜻에서 <strong>'멀리서, 조금 떨어져서'</strong>예요.",
+ "historyTitle": "떨어져 서 있는 distance",
+ "historyBody": "distance는 라틴어 distantia에서 왔는데, dis-(떨어져)와 stare(서다)가 합쳐진 말이에요. '서로 떨어져 서 있음'이 곧 '거리'가 된 거죠. distant(먼), stand(서다)와 같은 그림이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in the distance",
+   "pos": "전치사구",
+   "meaning": "저 멀리에",
+   "en": "We saw a castle in the distance.",
+   "ko": "우리는 저 멀리 성을 보았어요."
+  },
+  {
+   "word": "keep one's distance",
+   "pos": "숙어",
+   "meaning": "거리를 두다",
+   "en": "Keep your distance from wild animals.",
+   "ko": "야생 동물과는 거리를 두세요."
+  },
+  {
+   "word": "distant",
+   "pos": "형용사",
+   "meaning": "먼",
+   "en": "He moved to a distant city.",
+   "ko": "그는 먼 도시로 이사했어요."
+  },
+  {
+   "word": "from a distance",
+   "pos": "전치사구",
+   "meaning": "멀리서",
+   "en": "From a distance, the hill looked like a sleeping cat.",
+   "ko": "멀리서 보니 그 언덕은 잠자는 고양이처럼 보였어요."
+  },
+  {
+   "word": "long-distance",
+   "pos": "형용사",
+   "meaning": "장거리의",
+   "en": "She is in a long-distance relationship.",
+   "ko": "그녀는 장거리 연애 중이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 멀찍이 떨어져서 친구를 지켜보는 장면",
+ "imageCaption": "망원경 없이도 보이지만 손은 닿지 않는 그 거리감을 떠올려 보세요.",
+ "movieLineEn": "Watch them at a distance. Don't let them see you.",
+ "movieLineKo": "멀리서 지켜봐. 그들에게 들키지 마.",
+ "storyTitle": "멀리서 본 사람",
+ "story": "공원에서 at a distance(멀리서) 보니 잘생긴 사람이 손을 흔들었어요. in the distance(저 멀리에) 있던 그 사람에게 설레며 다가갔죠. 그런데 가까이서 보니 그건 바람에 흔들리는 허수아비였어요. 역시 keep one's distance(거리를 두다)가 필요했나 봐요!"
+}

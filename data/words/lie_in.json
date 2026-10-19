@@ -1,0 +1,68 @@
+{
+ "word": "lie in",
+ "pos": "구동사",
+ "phonetic": "[laɪ ɪn]",
+ "meaning": "~에 있다(원인·답이 ~에 놓여 있다), (영) 늦잠 자다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "lie",
+   "meaning": "놓여 있다, 눕다 (lie)",
+   "note": "어딘가에 '놓여 있다'는 핵심 뜻을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "무엇 '안에' 놓여 있는지 연결해요."
+  }
+ ],
+ "summary": "<strong>lie</strong> (놓여 있다) + <strong>in</strong> (~ 안에) = '~ 안에 놓여 있다'에서 <strong>'(원인·답이) ~에 있다'</strong>, 침대 안에 누워 있다에서 <strong>'늦잠 자다'</strong>",
+ "historyTitle": "고대 영어 licgan, '눕다'",
+ "historyBody": "lie(눕다, 놓여 있다)는 고대 영어 licgan에서 왔고, lay(놓다)와 짝을 이루는 말이에요. 수능에서는 'The problem lies in ~(문제는 ~에 있다)'처럼 원인이나 핵심이 어디에 있는지 말할 때 자주 나와요. 영국 영어에서는 'lie in'이 '아침에 늦게까지 누워 있다'라는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "consist in",
+   "pos": "구동사",
+   "meaning": "~에 있다, ~에 존재하다",
+   "en": "Happiness consists in being content.",
+   "ko": "행복은 만족하는 데 있어."
+  },
+  {
+   "word": "lie down",
+   "pos": "구동사",
+   "meaning": "눕다",
+   "en": "I need to lie down for a while.",
+   "ko": "잠시 누워야겠어."
+  },
+  {
+   "word": "sleep in",
+   "pos": "구동사",
+   "meaning": "늦잠 자다",
+   "en": "I slept in on Sunday morning.",
+   "ko": "나는 일요일 아침에 늦잠을 잤어."
+  },
+  {
+   "word": "lay",
+   "pos": "동사",
+   "meaning": "놓다, (알을) 낳다",
+   "en": "Hens lay eggs almost every day.",
+   "ko": "암탉은 거의 매일 알을 낳아."
+  },
+  {
+   "word": "result from",
+   "pos": "구동사",
+   "meaning": "~에서 비롯되다",
+   "en": "The accident resulted from careless driving.",
+   "ko": "그 사고는 부주의한 운전에서 비롯됐어."
+  }
+ ],
+ "imageSense": "대표 의미: 열쇠가 상자 안에 놓여 있는 장면",
+ "imageCaption": "문제의 답이 상자 '안에' 조용히 놓여 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "The secret of the treasure lies in this old map.",
+ "movieLineKo": "보물의 비밀은 이 낡은 지도 안에 있어.",
+ "storyTitle": "성공의 비결",
+ "story": "기자가 1등 학생에게 비결을 물었어요. \"제 성공의 비결은 잠에 lie in(~에 있다) 해요.\" 주말엔 sleep in(늦잠 자다) 하고, 공부 중에도 피곤하면 lie down(눕다) 한대요. 모두 놀랐는데 학생이 덧붙였어요. \"꿈속에서 공부하거든요.\" 알고 보니 그의 성적은 꿈속 시험 결과였답니다."
+}

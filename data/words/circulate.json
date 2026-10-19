@@ -1,0 +1,61 @@
+{
+ "word": "circulate",
+ "pos": "동사",
+ "phonetic": "[ˈsɜːrkjəleɪt]",
+ "meaning": "순환하다, 유포되다, 돌다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "circul",
+   "meaning": "작은 원, 고리 (small circle)",
+   "note": "라틴어 circulus(작은 원)에서 왔고, circus(원, 고리)의 작은 형태예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "명사나 어근을 동사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>circul</strong> (원) + <strong>-ate</strong> (~하다) = '원을 그리며 돌다'라는 데서 <strong>'순환하다, 유포되다'</strong>가 되었습니다.",
+ "historyTitle": "피가 몸을 도는 발견",
+ "historyBody": "라틴어 circulari는 '원을 이루다, 모여 둘러서다'라는 뜻이었어요. 17세기 영국 의사 윌리엄 하비가 피가 몸속을 돈다는 '혈액 순환'을 밝힌 뒤, circulate와 circulation은 피, 공기, 소문, 돈이 도는 것에 두루 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "circle",
+   "pos": "명사/동사",
+   "meaning": "원, 집단 / 돌다",
+   "en": "We sat in a circle around the campfire.",
+   "ko": "우리는 모닥불 주위에 둥글게 앉았어."
+  },
+  {
+   "word": "circulation",
+   "pos": "명사",
+   "meaning": "순환, 유통, 발행 부수",
+   "en": "Walking every day improves blood circulation.",
+   "ko": "매일 걷는 것은 혈액 순환을 좋게 해요."
+  },
+  {
+   "word": "circular",
+   "pos": "형용사",
+   "meaning": "원형의, 순환하는",
+   "en": "The museum has a circular hall with a glass roof.",
+   "ko": "그 박물관에는 유리 지붕이 있는 원형 홀이 있어."
+  },
+  {
+   "word": "circus",
+   "pos": "명사",
+   "meaning": "서커스",
+   "en": "The children laughed at the clowns in the circus.",
+   "ko": "아이들은 서커스의 광대들을 보고 웃었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 혈관을 따라 피가 빙글빙글 온몸을 도는 그림",
+ "imageCaption": "동그란 원(circle)을 따라 끊임없이 도는 흐름을 떠올려 보세요.",
+ "movieLineEn": "Open the windows and let the air circulate.",
+ "movieLineKo": "창문을 열어서 공기가 돌게 해.",
+ "storyTitle": "소문의 속도",
+ "story": "\"교장 선생님이 circus(서커스) 단원 출신이래!\" 이 소문이 반에서 circulate(퍼지다)하기 시작했어요. circle(원)을 그리듯 학교 전체를 돌았죠. 소문의 circulation(유포) 속도는 혈액보다 빨랐어요. 다음 날 교장 선생님이 조회 때 진짜로 외발자전거를 타고 등장하셨답니다!"
+}

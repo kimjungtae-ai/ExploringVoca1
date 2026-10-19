@@ -1,0 +1,55 @@
+{
+ "word": "wonder",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈwʌndər]",
+ "meaning": "궁금해하다, 놀라다 / 경이, 놀라움",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "wonder (← 고대 영어 wundor)",
+   "meaning": "놀라운 것, 경이 (marvel)",
+   "note": "고대 영어 wundor에서 왔지만, 그 이전의 기원은 알려져 있지 않아요."
+  }
+ ],
+ "summary": "고대 영어 <strong>wundor</strong> (놀라운 것)에서 '놀라서 궁금해하다'라는 뜻이 생겨 <strong>'궁금해하다, 경이'</strong>가 되었어요.",
+ "historyTitle": "기원조차 놀라운 단어",
+ "historyBody": "wonder는 고대 영어 wundor(놀라운 것, 기적)에서 왔고, 독일어 Wunder와 같은 게르만어 단어예요. 하지만 그보다 더 오래된 기원은 학자들도 밝혀내지 못했어요. '놀라서 바라보다'에서 '궁금해하다'라는 뜻으로 넓어졌답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "wonderful",
+   "pos": "형용사",
+   "meaning": "멋진, 훌륭한",
+   "en": "We had a wonderful time at the beach.",
+   "ko": "우리는 해변에서 멋진 시간을 보냈어요."
+  },
+  {
+   "word": "wondrous",
+   "pos": "형용사",
+   "meaning": "경이로운",
+   "en": "The northern lights are a wondrous sight.",
+   "ko": "오로라는 경이로운 광경이에요."
+  },
+  {
+   "word": "wonderland",
+   "pos": "명사",
+   "meaning": "동화의 나라, 별천지",
+   "en": "The park became a winter wonderland after the snow.",
+   "ko": "눈이 온 뒤 공원은 겨울 별천지가 되었어요."
+  },
+  {
+   "word": "wonderfully",
+   "pos": "부사",
+   "meaning": "훌륭하게, 놀랍도록",
+   "en": "The team worked wonderfully together.",
+   "ko": "그 팀은 놀랍도록 훌륭하게 협력했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 밤하늘의 별을 올려다보며 궁금해하는 아이",
+ "imageCaption": "별이 쏟아지는 밤하늘을 보며 \"저 너머엔 뭐가 있을까?\" 하고 생각하는 아이를 떠올려 보세요.",
+ "movieLineEn": "I wonder what's behind that door.",
+ "movieLineKo": "저 문 뒤에 뭐가 있는지 궁금해.",
+ "storyTitle": "앨리스의 진짜 고민",
+ "story": "수아는 늘 하늘을 보며 wonder(궁금해하다)했어요. \"저 구름 위엔 wonderland(동화의 나라)가 있을까?\" 어느 날 비행기를 타고 구름 위로 올라갔죠. 정말 wondrous(경이로운) 풍경이었어요! 그런데 기내식을 먹고 나니 다시 궁금해졌어요. \"구름도 솜사탕 맛일까?\" 정말 wonderful(멋진) 상상력이죠!"
+}

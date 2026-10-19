@@ -1,0 +1,61 @@
+{
+ "word": "conflict",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈkɑːnflɪkt] / [kənˈflɪkt]",
+ "meaning": "갈등, 충돌, 분쟁 / 상충하다, 충돌하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께, 서로 (together)",
+   "note": "서로 맞부딪친다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "flict",
+   "meaning": "치다, 때리다 (strike)",
+   "note": "라틴어 fligere(치다)의 과거분사 flictus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (서로) + <strong>flict</strong> (치다) = '서로 치고받다'에서 <strong>'갈등, 충돌'</strong>이 되었어요.",
+ "historyTitle": "로마 전쟁터의 '서로 치기'",
+ "historyBody": "conflict는 라틴어 confligere(서로 부딪치다, 싸우다)에서 왔어요. con(함께)과 fligere(치다)가 합쳐진 말이죠. 원래는 실제 전투를 뜻했지만, 지금은 의견이나 이해관계가 부딪치는 '갈등'에도 널리 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inflict",
+   "pos": "동사",
+   "meaning": "(피해를) 가하다",
+   "en": "The storm inflicted serious damage on the town.",
+   "ko": "폭풍이 그 마을에 심각한 피해를 입혔어요."
+  },
+  {
+   "word": "afflict",
+   "pos": "동사",
+   "meaning": "괴롭히다",
+   "en": "Many people are afflicted by allergies in spring.",
+   "ko": "봄에는 많은 사람이 알레르기로 고생해요."
+  },
+  {
+   "word": "affliction",
+   "pos": "명사",
+   "meaning": "고통, 고난",
+   "en": "Poverty is a serious affliction in some areas.",
+   "ko": "어떤 지역에서는 가난이 심각한 고통이에요."
+  },
+  {
+   "word": "conflicting",
+   "pos": "형용사",
+   "meaning": "상충하는, 모순되는",
+   "en": "We heard conflicting reports about the accident.",
+   "ko": "우리는 그 사고에 대해 서로 모순되는 보도를 들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 줄다리기에서 두 팀이 서로 반대로 당기는 장면",
+ "imageCaption": "두 사람이 서로 다른 방향으로 힘을 주며 부딪치는 모습을 떠올려 보세요. 그게 conflict예요.",
+ "movieLineEn": "There's no way to avoid this conflict. We have to fight.",
+ "movieLineKo": "이 충돌은 피할 수 없어. 우린 싸워야 해.",
+ "storyTitle": "리모컨 전쟁",
+ "story": "형과 나는 리모컨을 두고 큰 conflict(갈등)를 겪었어요. 서로 conflicting(상충하는) 의견으로 싸우다가 소파에 큰 피해를 inflict(가하다)했죠. 엄마는 이 affliction(고통)을 끝내려고 리모컨을 숨기셨어요. 그날 밤, 엄마는 혼자 드라마를 즐기셨답니다."
+}

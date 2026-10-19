@@ -1,0 +1,62 @@
+{
+ "word": "fit",
+ "pos": "동사 / 형용사 / 명사",
+ "phonetic": "[fɪt]",
+ "meaning": "(크기·모양이) 맞다, 어울리다 / 적합한, 건강한 / (병의) 발작, 격발",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fit",
+   "meaning": "꼭 맞다 (suit, be suitable)",
+   "note": "중세 영어 fit에서 왔지만, 그 이전 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>fit</strong> (꼭 맞다) = 크기나 조건이 딱 들어맞는다는 뜻에서 <strong>'맞다, 적합한, 건강한'</strong>이 되었습니다.",
+ "historyTitle": "기원이 수수께끼인 짧은 단어",
+ "historyBody": "fit은 14세기 중세 영어에서 '알맞은'이라는 뜻으로 나타났는데, 어디서 왔는지는 확실하지 않아요. 중세 네덜란드어 vitten(맞추다)과 관련이 있다는 설도 있지만 확정된 건 아니에요. '건강한'이라는 뜻은 '활동하기에 알맞은 몸 상태'에서 나왔답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "fitness",
+   "pos": "명사",
+   "meaning": "건강, 신체 단련, 적합성",
+   "en": "She goes to a fitness class three times a week.",
+   "ko": "그녀는 일주일에 세 번 피트니스 수업에 가요."
+  },
+  {
+   "word": "fitting",
+   "pos": "형용사 / 명사",
+   "meaning": "적절한 / (옷의) 가봉, 부속품",
+   "en": "It was a fitting end to a wonderful trip.",
+   "ko": "그건 멋진 여행에 어울리는 마무리였어요."
+  },
+  {
+   "word": "unfit",
+   "pos": "형용사",
+   "meaning": "부적합한, 건강하지 못한",
+   "en": "The old bridge was unfit for heavy trucks.",
+   "ko": "그 낡은 다리는 무거운 트럭이 다니기에 부적합했어요."
+  },
+  {
+   "word": "outfit",
+   "pos": "명사",
+   "meaning": "옷 한 벌, 복장",
+   "en": "He wore a cool outfit to the school festival.",
+   "ko": "그는 학교 축제에 멋진 옷을 입고 왔어요."
+  },
+  {
+   "word": "misfit",
+   "pos": "명사",
+   "meaning": "부적응자, 잘 안 맞는 사람",
+   "en": "He felt like a misfit at his new school.",
+   "ko": "그는 새 학교에서 겉도는 사람처럼 느꼈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 퍼즐 조각이 딱 맞게 끼워지는 장면",
+ "imageCaption": "마지막 퍼즐 조각이 '딸깍' 하고 빈칸에 꼭 들어가는 순간을 떠올려 보세요.",
+ "movieLineEn": "These shoes fit perfectly. It must be fate!",
+ "movieLineKo": "이 신발 완벽하게 맞아. 이건 운명이야!",
+ "storyTitle": "신데렐라 언니의 운동",
+ "story": "신데렐라 언니는 유리 구두가 fit(맞다)하지 않아 속상했어요. 그래서 fitness(신체 단련) 센터에 등록했죠. 매일 운동해 몸이 fit(건강한)해졌고, 새 outfit(옷)도 샀어요. 다시 구두를 신어 봤지만 여전히 작았어요. 알고 보니 문제는 발 크기였거든요. 결국 언니는 왕자 대신 헬스장 관장이 되었대요!"
+}

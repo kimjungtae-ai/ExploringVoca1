@@ -1,0 +1,61 @@
+{
+ "word": "weekday",
+ "pos": "명사",
+ "phonetic": "[ˈwiːkdeɪ]",
+ "meaning": "평일 (월요일~금요일)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "week",
+   "meaning": "주, 일주일 (week)",
+   "note": "고대 영어 wice에서 온 말로, 원래 '차례, 순서'와 관련 있었어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "day",
+   "meaning": "날, 하루 (day)",
+   "note": "고대 영어 dæg에서 왔어요."
+  }
+ ],
+ "summary": "<strong>week</strong> (주) + <strong>day</strong> (날) = '한 주 안의 (일하는) 날'이라는 뜻에서 <strong>'평일'</strong>이 되었어요.",
+ "historyTitle": "차례대로 돌아오는 날들",
+ "historyBody": "week는 고대 영어 wice에서 왔는데, '차례, 순서'라는 뜻과 관련된 게르만어 단어로 보고 있어요. 일곱 날이 차례로 돌아오는 단위를 뜻하게 된 거죠. weekday는 원래 '일요일이 아닌 날'을 뜻했고, 지금은 주로 월요일부터 금요일을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "week",
+   "pos": "명사",
+   "meaning": "주, 일주일",
+   "en": "We have a math test next week.",
+   "ko": "우리는 다음 주에 수학 시험이 있어요."
+  },
+  {
+   "word": "weekend",
+   "pos": "명사",
+   "meaning": "주말",
+   "en": "I usually sleep late on weekends.",
+   "ko": "나는 주말에는 보통 늦잠을 자요."
+  },
+  {
+   "word": "weekly",
+   "pos": "형용사 / 부사",
+   "meaning": "매주의 / 매주",
+   "en": "We have a weekly meeting on Mondays.",
+   "ko": "우리는 월요일마다 주간 회의를 해요."
+  },
+  {
+   "word": "midweek",
+   "pos": "명사 / 부사",
+   "meaning": "주중, 주 중반에",
+   "en": "The store is less crowded midweek.",
+   "ko": "그 가게는 주 중반에 덜 붐벼요."
+  }
+ ],
+ "imageSense": "대표 의미: 월요일 아침 교복을 입고 바쁘게 등교하는 학생들",
+ "imageCaption": "알람 소리에 깨서 허둥지둥 교복을 입고 나가는 아침, 그게 바로 weekday의 풍경이에요.",
+ "movieLineEn": "On weekdays, I'm a student. On weekends, I'm a hero.",
+ "movieLineKo": "평일엔 학생이고, 주말엔 영웅이지.",
+ "storyTitle": "요일 착각 사건",
+ "story": "민서는 weekday(평일) 내내 weekend(주말)만 기다렸어요. 드디어 토요일! 늦잠을 자고 일어나 weekly(매주의) 예능을 보며 뒹굴었죠. 그런데 엄마가 소리쳤어요. \"너 학교 안 가니?\" 알고 보니 오늘은 week(주)의 한가운데, 수요일이었어요. 민서는 꿈에서 주말을 보낸 거였답니다."
+}

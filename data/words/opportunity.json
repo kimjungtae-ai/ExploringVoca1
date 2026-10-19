@@ -1,0 +1,67 @@
+{
+ "word": "opportunity",
+ "pos": "명사",
+ "phonetic": "[ˌɑːpərˈtuːnəti]",
+ "meaning": "기회, 호기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "op- (ob-)",
+   "meaning": "~을 향하여 (toward)",
+   "note": "뒤에 오는 p 때문에 ob-가 op-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "port",
+   "meaning": "항구 (harbor)",
+   "note": "배가 들어가 쉬는 항구를 뜻해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-unity (-une + -ity)",
+   "meaning": "~한 상태 (state)",
+   "note": "'알맞은'이라는 형용사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>op-</strong> (~을 향하여) + <strong>port</strong> (항구) + <strong>-unity</strong> (상태) = '바람이 항구 쪽으로 알맞게 부는 때'라는 뜻에서 <strong>'기회'</strong>가 되었어요.",
+ "historyTitle": "항구로 부는 순풍, 기회의 시작",
+ "historyBody": "라틴어 opportunus는 원래 '항구 쪽으로 (바람이) 부는', 즉 '때마침 알맞은'이라는 뜻이었어요. 여기서 명사 opportunitas(알맞은 때, 기회)가 나왔고, 고대 프랑스어를 거쳐 14세기 영어에 들어왔어요. 배를 띄우던 사람들에게 항구로 부는 바람은 놓치면 안 되는 진짜 기회였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "port",
+   "pos": "명사",
+   "meaning": "항구",
+   "en": "The ship finally arrived at the port after a long voyage.",
+   "ko": "그 배는 긴 항해 끝에 마침내 항구에 도착했어요."
+  },
+  {
+   "word": "airport",
+   "pos": "명사",
+   "meaning": "공항",
+   "en": "We got to the airport two hours before our flight.",
+   "ko": "우리는 비행기 출발 두 시간 전에 공항에 도착했어요."
+  },
+  {
+   "word": "passport",
+   "pos": "명사",
+   "meaning": "여권",
+   "en": "Don't forget to bring your passport when you travel abroad.",
+   "ko": "해외여행 갈 때 여권 챙기는 거 잊지 마세요."
+  },
+  {
+   "word": "opportune",
+   "pos": "형용사",
+   "meaning": "시기가 좋은, 적절한",
+   "en": "She waited for an opportune moment to ask her boss for a day off.",
+   "ko": "그녀는 상사에게 휴가를 요청할 적절한 순간을 기다렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 배 한 척이 순풍을 받아 항구로 들어오는 장면",
+ "imageCaption": "돛이 바람을 가득 안고 항구로 미끄러지듯 들어가는 배를 떠올려 보세요. 바로 그 순간이 '기회'예요!",
+ "movieLineEn": "This is the opportunity of a lifetime. Don't let it slip away!",
+ "movieLineKo": "이건 일생일대의 기회야. 놓치지 마!",
+ "storyTitle": "순풍을 기다린 해적 선장",
+ "story": "해적 선장은 port(항구)로 부는 바람만 기다렸어요. 드디어 opportunity(기회)가 왔다며 외쳤죠. 그런데 passport(여권)를 집에 두고 왔지 뭐예요! 결국 opportune(적절한) 순간에 배는 airport(공항) 옆 주차장에 멈춰 섰답니다. 선장의 배는 사실 바퀴 달린 놀이기구였거든요."
+}

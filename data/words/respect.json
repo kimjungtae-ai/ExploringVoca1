@@ -1,0 +1,82 @@
+{
+ "word": "respect",
+ "pos": "명사 / 동사",
+ "phonetic": "[rɪˈspekt]",
+ "meaning": "존경, 존중, (측)면 / 존경하다, 존중하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "뒤돌아본다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spect",
+   "meaning": "보다 (look) ← specere",
+   "note": "라틴어 specere(보다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>spect</strong> (보다) = '다시 돌아볼 만큼 소중히 여기다'에서 <strong>'존경하다, 존중하다'</strong>가 되었어요.",
+ "historyTitle": "다시 돌아보게 되는 사람",
+ "historyBody": "라틴어 respicere는 '뒤돌아보다, 주목하다, 고려하다'라는 뜻이었어요. 그 명사 respectus가 영어 respect가 되었죠. 그래서 '존경' 외에 'in this respect(이 점에서)'처럼 '측면'이라는 뜻도 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "검사하다, 점검하다",
+   "en": "The officer inspected our bags at the airport.",
+   "ko": "공항에서 직원이 우리 가방을 검사했어요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중",
+   "en": "Thousands of spectators watched the final game.",
+   "ko": "수천 명의 관중이 결승전을 지켜봤어요."
+  },
+  {
+   "word": "perspective",
+   "pos": "명사",
+   "meaning": "관점, 시각",
+   "en": "Traveling gives you a new perspective on life.",
+   "ko": "여행은 삶에 대한 새로운 관점을 줘요."
+  },
+  {
+   "word": "prospect",
+   "pos": "명사",
+   "meaning": "전망, 가능성",
+   "en": "The prospect of a holiday made us happy.",
+   "ko": "휴가에 대한 전망에 우리는 행복해졌어요."
+  },
+  {
+   "word": "aspect",
+   "pos": "명사",
+   "meaning": "측면, 양상",
+   "en": "Music is an important aspect of our culture.",
+   "ko": "음악은 우리 문화의 중요한 측면이에요."
+  },
+  {
+   "word": "expect",
+   "pos": "동사",
+   "meaning": "기대하다, 예상하다",
+   "en": "I expect to finish my homework by nine.",
+   "ko": "나는 9시까지 숙제를 끝낼 것으로 예상해요."
+  },
+  {
+   "word": "respectful",
+   "pos": "형용사",
+   "meaning": "공손한, 존중하는",
+   "en": "Be respectful to your teachers.",
+   "ko": "선생님께 공손하게 대하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 지나가던 사람이 존경하는 선생님을 다시 돌아보며 인사하는 장면",
+ "imageCaption": "길에서 마주친 은사님을 한 번 더 돌아보고 고개 숙여 인사하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Respect the forest, and it will protect you.",
+ "movieLineKo": "숲을 존중해. 그러면 숲이 너를 지켜 줄 거야.",
+ "storyTitle": "존경받는 심판",
+ "story": "축구 심판 김 선생님은 모두의 respect(존경)를 받았어요. 경기 전 공을 inspect(검사하다)하고, spectator(관중)의 perspective(관점)도 이해했죠. 다들 공정한 판정을 expect(기대하다)했어요. 그런데 알고 보니 선생님은 안경을 집에 두고 와서 아무것도 안 보였대요!"
+}

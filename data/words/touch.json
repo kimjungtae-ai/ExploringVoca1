@@ -1,0 +1,55 @@
+{
+ "word": "touch",
+ "pos": "동사 / 명사",
+ "phonetic": "[tʌtʃ]",
+ "meaning": "만지다, 닿다, 감동시키다 / 촉감, 접촉, 연락",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "touch (← tochier)",
+   "meaning": "치다, 두드리다 (strike lightly)",
+   "note": "고대 프랑스어 tochier에서 온 말로, 영어 안에서는 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "고대 프랑스어 <strong>tochier</strong> (톡 치다)에서 와서 <strong>'만지다, 닿다, 감동시키다'</strong>가 되었어요.",
+ "historyTitle": "'톡톡' 소리를 흉내 낸 말?",
+ "historyBody": "touch는 고대 프랑스어 'tochier(만지다, 치다)'에서 왔고, 이는 속라틴어 '*toccare(두드리다)'로 거슬러 올라가요. 많은 사전은 이 말이 '톡' 하고 두드리는 소리를 흉내 낸 의성어였을 것이라고 보지만, 확실하지는 않아요. 마음을 건드린다는 '감동시키다'의 뜻은 14세기쯤부터 쓰였답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "touching",
+   "pos": "형용사",
+   "meaning": "감동적인",
+   "en": "The movie had a touching ending about a lost dog.",
+   "ko": "그 영화는 길 잃은 개에 대한 감동적인 결말이었어요."
+  },
+  {
+   "word": "touched",
+   "pos": "형용사",
+   "meaning": "감동한",
+   "en": "I was touched by my friend's handwritten letter.",
+   "ko": "나는 친구의 손편지에 감동받았어요."
+  },
+  {
+   "word": "touchscreen",
+   "pos": "명사",
+   "meaning": "터치스크린",
+   "en": "Most phones now use a touchscreen instead of buttons.",
+   "ko": "요즘 대부분의 휴대폰은 버튼 대신 터치스크린을 써요."
+  },
+  {
+   "word": "untouched",
+   "pos": "형용사",
+   "meaning": "손대지 않은, 그대로인",
+   "en": "He left his dinner untouched because he was upset.",
+   "ko": "그는 속상해서 저녁을 손도 대지 않았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손가락 끝으로 스마트폰 화면을 살짝 누르는 모습",
+ "imageCaption": "손끝으로 화면을 톡 건드리는 모습, 그리고 따뜻한 말이 마음을 톡 건드리는 모습을 함께 떠올려 보세요.",
+ "movieLineEn": "Don't touch that button unless you want to fly!",
+ "movieLineKo": "날고 싶지 않으면 그 버튼은 만지지 마!",
+ "storyTitle": "만지지 마시오",
+ "story": "박물관에 \"touch(만지다) 금지\" 표지판이 있었어요. 로봇 청소기는 그 앞의 케이크를 untouched(손대지 않은) 채로 지나쳤죠. 관람객들은 그 모습이 너무 touching(감동적인)이라며 박수를 쳤어요. 사실 로봇은 touchscreen(터치스크린)이 고장 나서 멈춘 것뿐이었답니다!"
+}

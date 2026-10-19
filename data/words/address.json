@@ -1,0 +1,68 @@
+{
+ "word": "address",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈædres / əˈdres]",
+ "meaning": "주소, 연설 / 다루다, 해결하다, 연설하다, 말을 걸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~쪽으로 (to)",
+   "note": "고대 프랑스어 a-에 라틴어식 d가 덧붙어 ad-가 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "dress",
+   "meaning": "곧게 하다, 바로 향하게 하다 (straighten)",
+   "note": "고대 프랑스어 dresser에서 왔고, 라틴어 directus(곧은)가 뿌리예요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~쪽으로) + <strong>dress</strong> (곧게 향하게 하다) = '~쪽으로 똑바로 향하게 하다'에서 <strong>'말을 걸다, (문제를) 다루다, 주소'</strong>가 되었어요.",
+ "historyTitle": "'똑바로 향하게' 하던 고대 프랑스어 adresser",
+ "historyBody": "고대 프랑스어 adresser는 '곧게 하다, ~로 향하게 하다'라는 뜻이었고, 라틴어 directus(곧은)에서 왔어요. 말을 누군가에게 똑바로 향하게 하면 '말을 걸다, 연설하다', 편지를 똑바로 보내는 곳은 '주소'가 되었어요. 수능에서는 '(문제를) 다루다, 해결하다'라는 뜻이 특히 중요해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dress",
+   "pos": "동사/명사",
+   "meaning": "옷을 입다 / 원피스",
+   "en": "She dressed quickly and ran to school.",
+   "ko": "그녀는 서둘러 옷을 입고 학교로 달려갔어요."
+  },
+  {
+   "word": "direct",
+   "pos": "형용사/동사",
+   "meaning": "직접적인 / 지시하다",
+   "en": "This is the most direct route to the station.",
+   "ko": "이게 역으로 가는 가장 빠른 길이에요."
+  },
+  {
+   "word": "direction",
+   "pos": "명사",
+   "meaning": "방향, 지시",
+   "en": "We walked in the wrong direction for an hour.",
+   "ko": "우리는 한 시간 동안 엉뚱한 방향으로 걸었어요."
+  },
+  {
+   "word": "correct",
+   "pos": "형용사/동사",
+   "meaning": "옳은 / 바로잡다",
+   "en": "Please correct the mistakes in your essay.",
+   "ko": "에세이의 실수를 고쳐 주세요."
+  },
+  {
+   "word": "regular",
+   "pos": "형용사",
+   "meaning": "규칙적인, 정기적인",
+   "en": "Regular exercise keeps you healthy.",
+   "ko": "규칙적인 운동은 건강을 지켜 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 시장이 마이크 앞에서 시민들에게 문제 해결을 약속하는 장면",
+ "imageCaption": "청중을 '똑바로 향해' 말하며 문제를 해결하겠다고 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We must address this problem before it's too late.",
+ "movieLineKo": "너무 늦기 전에 이 문제를 해결해야 해.",
+ "storyTitle": "주소를 잘못 쓴 편지",
+ "story": "산타는 편지의 address(주소)를 잘못 읽고 엉뚱한 direction(방향)으로 날아갔어요. 도착한 곳은 남극의 펭귄 마을! 산타는 펭귄들에게 address(연설하다)했어요. '이 문제는 내가 address(해결하다)하겠다!' 그리고 선물로 dress(옷)를 줬는데, 펭귄들이 그걸 입고 정장 패션쇼를 열었대요."
+}

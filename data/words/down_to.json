@@ -1,0 +1,68 @@
+{
+ "word": "down to",
+ "pos": "전치사구",
+ "phonetic": "[daʊn tuː]",
+ "meaning": "~까지(아래로), (be down to) ~에 달려 있다, ~ 때문이다, ~만 남다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로 (down)",
+   "note": "위에서 아래로 쭉 내려가는 방향이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~까지 (to)",
+   "note": "내려가서 '도착하는 끝 지점'을 가리켜요."
+  }
+ ],
+ "summary": "<strong>down</strong> (아래로) + <strong>to</strong> (~까지) = '아래로 쭉 내려가 ~까지'에서 <strong>'~까지, ~에 달려 있다, ~만 남다'</strong>",
+ "historyTitle": "끝까지 내려가면 남는 것",
+ "historyBody": "down은 고대 영어 'of dūne(언덕에서 내려와)'이 줄어든 말이에요. 원래 '언덕(dūn)'에서 아래로 내려온다는 뜻이었죠. down to는 '아래로 ~까지'라는 뜻에서, 'It's down to you.(너에게 달렸어)'처럼 마지막으로 남은 책임이나 원인을 가리키고, 'down to the last dollar(마지막 1달러만 남은)'처럼 '~만 남다'의 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be up to",
+   "pos": "숙어",
+   "meaning": "~에게 달려 있다",
+   "en": "It's up to you to decide.",
+   "ko": "결정은 너에게 달려 있어."
+  },
+  {
+   "word": "come down to",
+   "pos": "구동사",
+   "meaning": "결국 ~이 되다, ~으로 요약되다",
+   "en": "It all comes down to practice.",
+   "ko": "결국 모든 건 연습에 달려 있어."
+  },
+  {
+   "word": "get down to",
+   "pos": "구동사",
+   "meaning": "~에 착수하다, 본격적으로 시작하다",
+   "en": "Let's get down to business.",
+   "ko": "본격적으로 일을 시작하자."
+  },
+  {
+   "word": "down to earth",
+   "pos": "숙어",
+   "meaning": "현실적인, 소탈한",
+   "en": "The famous actor is very down to earth.",
+   "ko": "그 유명 배우는 아주 소탈해."
+  },
+  {
+   "word": "due to",
+   "pos": "전치사구",
+   "meaning": "~ 때문에",
+   "en": "The game was canceled due to rain.",
+   "ko": "경기는 비 때문에 취소됐어."
+  }
+ ],
+ "imageSense": "대표 의미: 계단을 맨 아래 층까지 내려가는 장면, 마지막 남은 동전 하나",
+ "imageCaption": "계단을 끝까지 내려가거나, 지갑에 동전 하나만 남은 모습을 떠올려 보세요.",
+ "movieLineEn": "We're down to our last bottle of water.",
+ "movieLineKo": "우리 이제 물이 딱 한 병 남았어.",
+ "storyTitle": "마지막 한 조각",
+ "story": "피자가 down to(~만 남다) 한 조각만 남았어요. 형은 \"이건 실력이 down to(~에 달려 있다)야\"라며 가위바위보를 하자고 했죠. 결국 모든 게 운으로 come down to(결국 ~이 되다)했어요. 나는 이겨서 get down to(착수하다) 먹으려 했어요. 그런데 그 사이 강아지가 피자를 물고 도망갔어요. 승자는 강아지였답니다."
+}

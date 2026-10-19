@@ -1,0 +1,55 @@
+{
+ "word": "limit",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈlɪmɪt]",
+ "meaning": "한계, 제한 / 제한하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "limit",
+   "meaning": "경계, 국경 (boundary)",
+   "note": "라틴어 limes(경계선, 국경 길)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>limit</strong> (경계선) = '여기까지만 갈 수 있는 선'이라는 뜻에서 <strong>'한계, 제한하다'</strong>가 되었습니다.",
+ "historyTitle": "로마 제국의 국경선 '리메스'",
+ "historyBody": "라틴어 limes(소유격 limitis)는 밭과 밭 사이의 경계 길이나 로마 제국의 국경 방어선을 가리켰어요. 이 말이 고대 프랑스어 limite를 거쳐 14세기쯤 영어에 들어와 '넘을 수 없는 선, 한계'라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "limited",
+   "pos": "형용사",
+   "meaning": "제한된, 한정된",
+   "en": "We have limited time, so let's focus on the main points.",
+   "ko": "시간이 한정되어 있으니 핵심에 집중하자."
+  },
+  {
+   "word": "unlimited",
+   "pos": "형용사",
+   "meaning": "무제한의",
+   "en": "This phone plan gives you unlimited data.",
+   "ko": "이 요금제는 데이터를 무제한으로 제공해요."
+  },
+  {
+   "word": "limitation",
+   "pos": "명사",
+   "meaning": "제한, 한계",
+   "en": "Every research method has its own limitations.",
+   "ko": "모든 연구 방법에는 저마다의 한계가 있어요."
+  },
+  {
+   "word": "limitless",
+   "pos": "형용사",
+   "meaning": "무한한, 끝없는",
+   "en": "Children often have limitless energy.",
+   "ko": "아이들은 종종 끝없는 에너지를 가지고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도로 위 '속도 제한 60' 표지판 앞에서 멈칫하는 자동차",
+ "imageCaption": "땅 위에 그어진 선 하나를 떠올려 보세요. 그 선을 넘지 못하게 하는 것이 바로 limit예요.",
+ "movieLineEn": "Don't push yourself past your limit.",
+ "movieLineKo": "네 한계를 넘어서까지 무리하지 마.",
+ "storyTitle": "무한 리필 고깃집의 반전",
+ "story": "민수는 unlimited(무제한의) 고깃집에서 limitless(끝없는) 식욕을 자랑했어요. 그런데 벽에 '시간 limit(제한) 90분'이 붙어 있었죠. 민수는 limited(한정된) 시간 안에 20인분을 먹고 자신의 limitation(한계)을 넘었다며 환호했어요. 사장님이 다가와 말했죠. \"손님, 여긴 무제한 '샐러드'예요.\""
+}

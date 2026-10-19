@@ -1,0 +1,75 @@
+{
+ "word": "impress",
+ "pos": "동사",
+ "phonetic": "[ɪmˈpres]",
+ "meaning": "깊은 인상을 주다, 감동시키다, 새기다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "im- (in-)",
+   "meaning": "~에, 안으로 (in, into)",
+   "note": "in-이 p 앞에서 im-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "press",
+   "meaning": "누르다 (press)",
+   "note": "라틴어 premere(누르다)의 과거분사 pressus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>im-</strong> (안으로) + <strong>press</strong> (누르다) = '꾹 눌러 자국을 남기다'라는 뜻에서 <strong>'깊은 인상을 주다'</strong>가 되었어요.",
+ "historyTitle": "도장을 꾹 누르듯 마음에 새기다",
+ "historyBody": "라틴어 imprimere는 in(안으로) + premere(누르다)로, 밀랍에 도장을 꾹 눌러 자국을 남기는 것을 뜻했어요. 그래서 impress는 처음에 '자국을 찍다'였고, 나중에 '마음에 자국을 남기다', 즉 '감동시키다'가 되었죠. 인쇄(print)도 같은 말에서 갈라져 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "impression",
+   "pos": "명사",
+   "meaning": "인상, 느낌",
+   "en": "First impressions are important in a job interview.",
+   "ko": "면접에서는 첫인상이 중요해요."
+  },
+  {
+   "word": "impressive",
+   "pos": "형용사",
+   "meaning": "인상적인, 감명 깊은",
+   "en": "Her speech at the graduation was very impressive.",
+   "ko": "졸업식에서 그녀의 연설은 정말 인상적이었어요."
+  },
+  {
+   "word": "express",
+   "pos": "동사",
+   "meaning": "표현하다",
+   "en": "It's okay to express your feelings to your friends.",
+   "ko": "친구에게 감정을 표현해도 괜찮아요."
+  },
+  {
+   "word": "pressure",
+   "pos": "명사",
+   "meaning": "압력, 압박",
+   "en": "Many students feel pressure before the exam.",
+   "ko": "많은 학생이 시험 전에 압박감을 느껴요."
+  },
+  {
+   "word": "depress",
+   "pos": "동사",
+   "meaning": "우울하게 하다, 누르다",
+   "en": "Rainy days sometimes depress me.",
+   "ko": "비 오는 날은 가끔 나를 우울하게 해요."
+  },
+  {
+   "word": "compress",
+   "pos": "동사",
+   "meaning": "압축하다",
+   "en": "You can compress large files before sending them.",
+   "ko": "큰 파일은 보내기 전에 압축할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 말랑한 점토에 손바닥을 꾹 눌러 자국을 남기는 장면",
+ "imageCaption": "손자국이 점토에 남듯 마음에 '꾹' 남는 느낌, 그게 impress예요.",
+ "movieLineEn": "I have to say, I'm impressed. You actually did it.",
+ "movieLineKo": "솔직히 감동했어. 네가 진짜 해냈구나.",
+ "storyTitle": "첫인상 대작전",
+ "story": "전학 첫날, 저는 친구들을 impress(감동시키다)하고 싶었어요. pressure(압박감)를 이겨내고 impressive(인상적인) 마술을 준비했죠. 감정을 express(표현하다)하며 멋지게 카드를 뽑았는데, 카드가 다 쏟아졌어요. 저는 depress(우울하게 하다)되었지만, 친구들은 웃음을 터뜨렸어요. 덕분에 '웃긴 애'라는 impression(인상)으로 인기 스타가 됐어요!"
+}

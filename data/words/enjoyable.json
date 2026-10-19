@@ -1,0 +1,74 @@
+{
+ "word": "enjoyable",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈdʒɔɪəbl]",
+ "meaning": "즐거운, 재미있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~안에, ~하게 만들다 (in, make)",
+   "note": "'기쁨 안에 있게 하다'라는 느낌을 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "joy",
+   "meaning": "기쁨 (joy)",
+   "note": "고대 프랑스어 joie에서, 더 거슬러 라틴어 gaudium(기쁨)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는, ~할 만한",
+   "note": "'그렇게 할 만한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (안에) + <strong>joy</strong> (기쁨) + <strong>-able</strong> (~할 만한) = '기쁨을 누릴 만한'이라는 뜻에서 <strong>'즐거운'</strong>이 되었어요.",
+ "historyTitle": "라틴어 gaudium에서 온 기쁨",
+ "historyBody": "joy는 고대 프랑스어 joie에서 왔고, 그 뿌리는 라틴어 gaudium(기쁨)이에요. 고대 프랑스어 enjoir는 '기쁨을 주다, 누리다'라는 뜻이었고, 이것이 영어 enjoy가 되었어요. 여기에 -able이 붙어 '즐길 만한'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "enjoy",
+   "pos": "동사",
+   "meaning": "즐기다",
+   "en": "We enjoyed a picnic by the lake on Sunday.",
+   "ko": "우리는 일요일에 호숫가에서 소풍을 즐겼어요."
+  },
+  {
+   "word": "joy",
+   "pos": "명사",
+   "meaning": "기쁨",
+   "en": "The baby's laugh filled the house with joy.",
+   "ko": "아기의 웃음소리가 집 안을 기쁨으로 가득 채웠어요."
+  },
+  {
+   "word": "joyful",
+   "pos": "형용사",
+   "meaning": "기쁜, 즐거운",
+   "en": "It was a joyful day when our team won the final.",
+   "ko": "우리 팀이 결승에서 이긴 날은 기쁜 하루였어요."
+  },
+  {
+   "word": "enjoyment",
+   "pos": "명사",
+   "meaning": "즐거움, 기쁨",
+   "en": "Reading gives me great enjoyment after school.",
+   "ko": "방과 후 독서는 나에게 큰 즐거움을 줘요."
+  },
+  {
+   "word": "rejoice",
+   "pos": "동사",
+   "meaning": "크게 기뻐하다",
+   "en": "The whole village rejoiced at the good news.",
+   "ko": "온 마을이 그 좋은 소식에 크게 기뻐했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구들과 웃으며 놀이공원을 즐기는 장면",
+ "imageCaption": "롤러코스터에서 소리 지르며 웃는 친구들을 떠올려 보세요. '즐길 만한' 시간이 바로 enjoyable이에요.",
+ "movieLineEn": "Well, that was an enjoyable little adventure, wasn't it?",
+ "movieLineKo": "음, 꽤 즐거운 모험이었지, 안 그래?",
+ "storyTitle": "가장 즐거운 수학 시간",
+ "story": "수학 시간이 enjoyable(즐거운) 시간이 될 줄은 몰랐어요. 선생님이 문제를 맞히면 간식을 주셨거든요. 모두 joyful(기쁜) 얼굴로 문제를 enjoy(즐기다)했고, 교실은 joy(기쁨)로 가득했어요. 정답이 나올 때마다 다 함께 rejoice(크게 기뻐하다)했죠. 그런데 선생님이 말했어요. \"오늘 먹은 간식 칼로리 계산이 숙제야!\""
+}

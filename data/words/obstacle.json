@@ -1,0 +1,74 @@
+{
+ "word": "obstacle",
+ "pos": "명사",
+ "phonetic": "[ˈɑːbstəkl]",
+ "meaning": "장애물, 방해물",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ob-",
+   "meaning": "~에 맞서, 앞을 막아 (against, in the way)",
+   "note": "앞을 가로막는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sta",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-cle",
+   "meaning": "~하는 것 (라틴어 -culum)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>ob-</strong> (앞을 막아) + <strong>sta</strong> (서다) + <strong>-cle</strong> (~하는 것) = 앞을 막고 서 있는 것이라서 <strong>'장애물'</strong>이 되었어요.",
+ "historyTitle": "길 앞에 '서 있는' 것",
+ "historyBody": "라틴어 obstaculum은 obstare(앞에 서서 막다)에서 왔어요. 길 앞에 떡하니 버티고 서 있는 것이 장애물인 셈이죠. stare(서다) 가족에는 stable, distance, constant처럼 '서 있음'과 관련된 단어가 아주 많아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stable",
+   "pos": "형용사",
+   "meaning": "안정된",
+   "en": "The patient's condition is now stable.",
+   "ko": "환자의 상태는 이제 안정적이에요."
+  },
+  {
+   "word": "distance",
+   "pos": "명사",
+   "meaning": "거리",
+   "en": "The distance between the two cities is 300 kilometers.",
+   "ko": "두 도시 사이의 거리는 300킬로미터예요."
+  },
+  {
+   "word": "constant",
+   "pos": "형용사",
+   "meaning": "끊임없는, 일정한",
+   "en": "The baby needs constant attention.",
+   "ko": "아기는 끊임없는 관심이 필요해요."
+  },
+  {
+   "word": "circumstance",
+   "pos": "명사",
+   "meaning": "상황, 환경",
+   "en": "Under the circumstances, we had to cancel the trip.",
+   "ko": "그런 상황에서 우리는 여행을 취소해야 했어요."
+  },
+  {
+   "word": "stance",
+   "pos": "명사",
+   "meaning": "입장, 자세",
+   "en": "The mayor took a strong stance against the plan.",
+   "ko": "시장은 그 계획에 강하게 반대하는 입장을 취했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 달리기 트랙 위에 놓인 허들을 뛰어넘는 선수",
+ "imageCaption": "결승선 앞에 줄지어 선 허들을 하나씩 뛰어넘는 선수를 떠올려 보세요.",
+ "movieLineEn": "No obstacle can stop us now!",
+ "movieLineKo": "이제 어떤 장애물도 우리를 막을 수 없어!",
+ "storyTitle": "등굣길 장애물 경주",
+ "story": "지각 직전인 하준이 앞에 obstacle(장애물)이 끝없이 나타났어요. 공사장, 고양이 떼, 수다쟁이 이웃까지! 하준이는 constant(끊임없는) 달리기로 distance(거리)를 줄였죠. 결국 교문을 통과했지만, 그날은 토요일이라는 마지막 장애물이 기다리고 있었답니다."
+}

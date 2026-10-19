@@ -1,0 +1,55 @@
+{
+ "word": "span",
+ "pos": "명사 / 동사",
+ "phonetic": "[spæn]",
+ "meaning": "기간, 폭, 범위 / (기간·범위에) 걸치다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "span (spann)",
+   "meaning": "뼘, 손을 편 길이 (hand's width)",
+   "note": "고대 영어 spann은 엄지와 새끼손가락을 쫙 편 길이, 즉 '한 뼘'이었어요."
+  }
+ ],
+ "summary": "<strong>span</strong> (고대 영어 spann: 한 뼘) = 손을 쫙 편 길이에서 <strong>'폭, 기간, 범위'</strong>가 되었습니다.",
+ "historyTitle": "손바닥 한 뼘의 길이",
+ "historyBody": "고대 영어 spann은 손을 활짝 펼쳤을 때 엄지 끝에서 새끼손가락 끝까지의 길이, 즉 약 23cm의 한 뼘을 뜻했어요. 길이를 재던 이 단위가 '어떤 것이 걸쳐 있는 거리나 시간'으로 넓어져 lifespan(수명), attention span(집중 시간)처럼 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lifespan",
+   "pos": "명사",
+   "meaning": "수명",
+   "en": "The average lifespan of a dog is about 12 years.",
+   "ko": "개의 평균 수명은 약 12년이에요."
+  },
+  {
+   "word": "timespan",
+   "pos": "명사",
+   "meaning": "기간",
+   "en": "The project was completed within a short timespan.",
+   "ko": "그 프로젝트는 짧은 기간 안에 완료되었어요."
+  },
+  {
+   "word": "attention span",
+   "pos": "명사",
+   "meaning": "집중 시간",
+   "en": "Young children have a short attention span.",
+   "ko": "어린아이들은 집중 시간이 짧아요."
+  },
+  {
+   "word": "wingspan",
+   "pos": "명사",
+   "meaning": "날개 길이",
+   "en": "The eagle has a wingspan of two meters.",
+   "ko": "그 독수리는 날개 길이가 2미터예요."
+  }
+ ],
+ "imageSense": "대표 의미: 강 이쪽에서 저쪽까지 길게 걸친 다리",
+ "imageCaption": "손을 쫙 펴서 책상 길이를 한 뼘씩 재는 모습을 떠올려 보세요.",
+ "movieLineEn": "Our friendship has spanned twenty years, and you still forget my birthday.",
+ "movieLineKo": "우리 우정이 20년이나 됐는데, 넌 아직도 내 생일을 까먹는구나.",
+ "storyTitle": "금붕어의 집중 시간",
+ "story": "금붕어 골디는 attention span(집중 시간)이 3초라는 소문에 화가 났어요. \"내 lifespan(수명) 동안 그 오해를 풀겠어!\" 골디는 긴 timespan(기간)에 걸쳐 span(걸치다)하는 대작 소설을 쓰기 시작했어요. 첫 문장을 쓰고 나서 골디가 말했어요. \"어? 내가 뭐 하고 있었지? 아, 수영하자!\""
+}

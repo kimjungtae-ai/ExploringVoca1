@@ -1,0 +1,67 @@
+{
+ "word": "analysis",
+ "pos": "명사",
+ "phonetic": "[əˈnæləsɪs]",
+ "meaning": "분석, 분해",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ana-",
+   "meaning": "위로, 완전히 (up, throughout)",
+   "note": "그리스어 접두사로 '처음부터 끝까지'라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lys",
+   "meaning": "풀다, 느슨하게 하다 (loosen)",
+   "note": "그리스어 lyein(풀다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-is",
+   "meaning": "~하는 일 (명사)",
+   "note": "그리스어 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ana-</strong> (완전히) + <strong>lys</strong> (풀다) + <strong>-is</strong> = '완전히 풀어 헤침'에서 <strong>'분석'</strong>이 되었어요.",
+ "historyTitle": "엉킨 매듭을 푸는 그리스어 analyein",
+ "historyBody": "그리스어 analysis는 analyein(풀다)에서 왔는데, ana-(위로, 완전히)와 lyein(느슨하게 하다)이 합쳐진 말이에요. 엉킨 매듭을 하나하나 풀듯 복잡한 것을 부분으로 나누어 살펴본다는 뜻이에요. 몸의 기능이 '풀려 버린' 상태인 paralysis(마비)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "analyze",
+   "pos": "동사",
+   "meaning": "분석하다",
+   "en": "Scientists analyzed the water samples.",
+   "ko": "과학자들이 물 샘플을 분석했어요."
+  },
+  {
+   "word": "analyst",
+   "pos": "명사",
+   "meaning": "분석가",
+   "en": "The analyst predicted a rise in prices.",
+   "ko": "그 분석가는 가격 상승을 예측했어요."
+  },
+  {
+   "word": "analytical",
+   "pos": "형용사",
+   "meaning": "분석적인",
+   "en": "She has strong analytical skills.",
+   "ko": "그녀는 분석 능력이 뛰어나요."
+  },
+  {
+   "word": "paralysis",
+   "pos": "명사",
+   "meaning": "마비",
+   "en": "The accident caused paralysis in his legs.",
+   "ko": "그 사고로 그의 다리가 마비되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 탐정이 돋보기로 단서를 하나하나 살펴보는 장면",
+ "imageCaption": "엉킨 실타래를 한 가닥씩 '풀어서' 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "My analysis shows the thief left through the window.",
+ "movieLineKo": "내 분석에 따르면 도둑은 창문으로 나갔어.",
+ "storyTitle": "과자 봉지 분석 보고서",
+ "story": "analyst(분석가) 지호는 과자 봉지 속 공기를 analysis(분석)했어요. 분석 결과, 과자 30%, 공기 70%! 지호는 analytical(분석적인) 보고서를 써서 과자 회사에 보냈죠. 회사는 그 보고서를 직접 analyze(분석하다)한 뒤 놀라운 답장을 보냈어요. '공기도 저희 제품입니다. 맛있게 드세요.'"
+}

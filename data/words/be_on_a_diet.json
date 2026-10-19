@@ -1,0 +1,68 @@
+{
+ "word": "be on a diet",
+ "pos": "숙어",
+ "phonetic": "[bi ɑːn ə ˈdaɪət]",
+ "meaning": "다이어트 중이다, 식이 요법을 하고 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~ 중인 (on)",
+   "note": "어떤 상태 '위에 올라 있는', 즉 진행 중인 느낌이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "diet",
+   "meaning": "식단, 식이 요법 (diet)",
+   "note": "그리스어 diaita(생활 방식)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>be on</strong> (~ 중이다) + <strong>a diet</strong> (식이 요법) = <strong>'식이 요법 중이다, 다이어트 중이다'</strong>예요.",
+ "historyTitle": "그리스어 diaita, '생활 방식'",
+ "historyBody": "diet는 그리스어 diaita에서 왔는데, 원래 '삶의 방식, 생활 습관'이라는 넓은 뜻이었어요. 라틴어와 프랑스어를 거치며 '정해진 식단'이라는 뜻이 되었죠. 그래서 diet는 '살 빼기'뿐 아니라 '평소 식단'이라는 뜻으로도 수능에 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "go on a diet",
+   "pos": "숙어",
+   "meaning": "다이어트를 시작하다",
+   "en": "I'm going on a diet next Monday.",
+   "ko": "나는 다음 주 월요일부터 다이어트를 시작해요."
+  },
+  {
+   "word": "balanced diet",
+   "pos": "명사구",
+   "meaning": "균형 잡힌 식단",
+   "en": "A balanced diet keeps you healthy.",
+   "ko": "균형 잡힌 식단은 건강을 지켜 줘요."
+  },
+  {
+   "word": "on duty",
+   "pos": "전치사구",
+   "meaning": "근무 중인",
+   "en": "The nurse is on duty tonight.",
+   "ko": "그 간호사는 오늘 밤 근무 중이에요."
+  },
+  {
+   "word": "on sale",
+   "pos": "전치사구",
+   "meaning": "할인 중인, 판매 중인",
+   "en": "These shoes are on sale this week.",
+   "ko": "이 신발은 이번 주에 할인 중이에요."
+  },
+  {
+   "word": "dietary",
+   "pos": "형용사",
+   "meaning": "식사의, 식이의",
+   "en": "Do you have any dietary restrictions?",
+   "ko": "식사 제한 사항이 있나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 샐러드 접시 앞에서 케이크를 애써 외면하는 사람",
+ "imageCaption": "샐러드를 먹으며 케이크를 곁눈질하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm on a diet. So... just one more slice of pizza.",
+ "movieLineKo": "나 다이어트 중이야. 그러니까... 피자 딱 한 조각만 더.",
+ "storyTitle": "다이어트 첫날",
+ "story": "엄마는 오늘부터 be on a diet(다이어트 중이다)하신대요. balanced diet(균형 잡힌 식단)을 위해 샐러드만 드셨죠. 그런데 저녁에 치킨이 on sale(할인 중인)이라는 문자를 보시고는 '내일 go on a diet(다이어트를 시작하다)하면 돼'라며 두 마리를 시키셨어요!"
+}

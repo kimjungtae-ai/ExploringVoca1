@@ -1,0 +1,47 @@
+{
+ "word": "rarely",
+ "pos": "부사",
+ "phonetic": "[ˈrerli]",
+ "meaning": "드물게, 좀처럼 ~않는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "rare",
+   "meaning": "드문, 희귀한 (thin, scattered)",
+   "note": "라틴어 rarus(성긴, 드문드문한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>rare</strong> (드문) + <strong>-ly</strong> (~하게) = '드문드문하게'라는 뜻에서 <strong>'좀처럼 ~않는'</strong>이 되었어요.",
+ "historyTitle": "성기게 흩어진 것",
+ "historyBody": "라틴어 rarus는 '성긴, 드문드문 흩어진'이라는 뜻이었어요. 그래서 공기가 '희박한' 것도 rare라고 했죠. 스테이크를 '덜 익힌'이라는 rare는 고대 영어 hrere에서 온 전혀 다른 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rare",
+   "pos": "형용사",
+   "meaning": "드문, 희귀한",
+   "en": "Pandas are rare animals.",
+   "ko": "판다는 희귀한 동물이에요."
+  },
+  {
+   "word": "rarity",
+   "pos": "명사",
+   "meaning": "희귀함, 희귀한 것",
+   "en": "Snow is a rarity in this southern city.",
+   "ko": "이 남부 도시에서 눈은 드문 일이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 넓은 밤하늘에 별이 아주 드문드문 떠 있는 장면",
+ "imageCaption": "넓은 들판에 꽃이 몇 송이만 띄엄띄엄 핀 모습을 떠올려 보세요.",
+ "movieLineEn": "He rarely smiles, but when he does, the whole room lights up.",
+ "movieLineKo": "그는 좀처럼 웃지 않지만, 웃을 땐 방 전체가 환해져.",
+ "storyTitle": "희귀한 미소",
+ "story": "우리 담임 선생님은 rarely(좀처럼 ~않는) 웃으세요. 선생님의 미소는 정말 rare(희귀한) 일이라 반 아이들은 그 rarity(희귀함)를 사진으로 남기려 했죠. 드디어 선생님이 활짝 웃으신 날, 다들 smile(미소)을 찍으려 휴대폰을 들었어요. 바로 그 순간 '휴대폰 다 걷어!'라는 말이 나왔답니다!"
+}

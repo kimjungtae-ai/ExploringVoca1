@@ -1,0 +1,61 @@
+{
+ "word": "tempting",
+ "pos": "형용사",
+ "phonetic": "[ˈtemptɪŋ]",
+ "meaning": "유혹하는, 솔깃한, 구미가 당기는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tempt",
+   "meaning": "시험하다, 유혹하다 (try, test)",
+   "note": "라틴어 temptare(만져 보다, 시험하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사형)",
+   "note": "'~하게 만드는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>tempt</strong> (시험하다, 유혹하다) + <strong>-ing</strong> (~하게 하는) = '마음을 시험하게 하는'에서 <strong>'유혹적인, 솔깃한'</strong>이 되었어요.",
+ "historyTitle": "'시험해 보다'에서 '유혹하다'로",
+ "historyBody": "라틴어 temptare는 '만져 보다, 시험해 보다'라는 뜻이었어요. 성경에서 악마가 사람의 믿음을 '시험하는' 장면에 쓰이면서 '나쁜 쪽으로 꾀다', 즉 유혹하다라는 뜻이 강해졌죠. attempt(시도하다)도 '~을 향해 시험해 보다'라는 뜻의 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tempt",
+   "pos": "동사",
+   "meaning": "유혹하다, 꾀다",
+   "en": "The smell of fried chicken tempted me.",
+   "ko": "치킨 냄새가 나를 유혹했어요."
+  },
+  {
+   "word": "temptation",
+   "pos": "명사",
+   "meaning": "유혹",
+   "en": "It's hard to resist the temptation of sweets.",
+   "ko": "단 음식의 유혹을 참기는 어려워요."
+  },
+  {
+   "word": "attempt",
+   "pos": "동사 / 명사",
+   "meaning": "시도하다 / 시도",
+   "en": "He attempted to climb the mountain alone.",
+   "ko": "그는 혼자 그 산을 오르려고 시도했어요."
+  },
+  {
+   "word": "tentative",
+   "pos": "형용사",
+   "meaning": "잠정적인, 망설이는",
+   "en": "We made a tentative plan for the weekend.",
+   "ko": "우리는 주말 계획을 잠정적으로 세웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 다이어트 중에 눈앞에 놓인 케이크",
+ "imageCaption": "다이어트 중인데 눈앞에 초콜릿 케이크가 놓여 있는 장면을 떠올려 보세요. 마음이 흔들리죠? 그게 tempting이에요.",
+ "movieLineEn": "It's a tempting offer, but I have to say no.",
+ "movieLineKo": "솔깃한 제안이지만 거절해야겠어요.",
+ "storyTitle": "유혹의 치킨",
+ "story": "다이어트 중인 형 앞에 tempting(유혹적인) 치킨이 배달됐어요. 형은 temptation(유혹)을 이기려고 눈을 감았죠. 세 번이나 참으려고 attempt(시도하다)했지만, 냄새가 계속 형을 tempt(유혹하다)했어요. 결국 형은 \"한 조각만\"이라며 먹기 시작했고, 상자엔 뼈만 남았답니다!"
+}

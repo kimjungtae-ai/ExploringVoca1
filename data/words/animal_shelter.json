@@ -1,0 +1,68 @@
+{
+ "word": "animal shelter",
+ "pos": "명사구",
+ "phonetic": "[ˈænɪml ˈʃeltər]",
+ "meaning": "동물 보호소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "animal",
+   "meaning": "동물 (animal)",
+   "note": "라틴어 anima(숨, 생명)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "shelter",
+   "meaning": "보호소, 피난처 (refuge)",
+   "note": "비바람을 피하게 해 주는 안전한 곳이에요."
+  }
+ ],
+ "summary": "<strong>animal</strong> (동물) + <strong>shelter</strong> (보호소) = <strong>'동물을 보호하는 곳'</strong>이에요.",
+ "historyTitle": "숨 쉬는 존재, animal",
+ "historyBody": "animal은 라틴어 animal(숨 쉬는 존재)에서 왔고, 그 뿌리 anima는 '숨, 생명'이라는 뜻이에요. shelter의 어원은 확실하지 않은데, 16세기에 나타난 말로 '방패로 막아 줌'과 관련 있다는 설이 있어요. 수능 지문에선 유기 동물 입양이나 봉사 활동 이야기에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "homeless shelter",
+   "pos": "명사구",
+   "meaning": "노숙인 쉼터",
+   "en": "She volunteers at a homeless shelter every Sunday.",
+   "ko": "그녀는 일요일마다 노숙인 쉼터에서 봉사해요."
+  },
+  {
+   "word": "adopt",
+   "pos": "동사",
+   "meaning": "입양하다",
+   "en": "We adopted a puppy from the shelter.",
+   "ko": "우리는 보호소에서 강아지를 입양했어요."
+  },
+  {
+   "word": "stray",
+   "pos": "형용사",
+   "meaning": "길 잃은, 떠도는",
+   "en": "A stray cat followed me home.",
+   "ko": "길고양이 한 마리가 집까지 나를 따라왔어요."
+  },
+  {
+   "word": "animate",
+   "pos": "동사",
+   "meaning": "생기를 불어넣다",
+   "en": "Her smile animated the whole room.",
+   "ko": "그녀의 미소가 방 전체에 생기를 불어넣었어요."
+  },
+  {
+   "word": "take shelter",
+   "pos": "숙어",
+   "meaning": "피신하다",
+   "en": "We took shelter from the rain under a tree.",
+   "ko": "우리는 나무 아래서 비를 피했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 보호소 우리 안에서 꼬리를 흔들며 새 가족을 기다리는 강아지",
+ "imageCaption": "비를 피할 지붕 아래 모인 동물들을 떠올리면 'shelter'가 쉽게 기억나요.",
+ "movieLineEn": "Every dog in this animal shelter deserves a second chance.",
+ "movieLineKo": "이 동물 보호소의 모든 개는 두 번째 기회를 받을 자격이 있어.",
+ "storyTitle": "누가 누구를 입양했나",
+ "story": "나는 animal shelter(동물 보호소)에서 봉사했어요. stray(떠도는) 고양이들을 돌보다가 한 마리를 adopt(입양하다)하기로 했죠. 그런데 집에 오니 그 고양이가 내 침대를 차지하고 나를 소파로 보냈어요. 아무래도 고양이가 나를 입양한 것 같아요!"
+}

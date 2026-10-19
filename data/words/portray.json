@@ -1,0 +1,75 @@
+{
+ "word": "portray",
+ "pos": "동사",
+ "phonetic": "[pɔːrˈtreɪ]",
+ "meaning": "묘사하다, 그리다, (배역을) 연기하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "por-",
+   "meaning": "앞으로 (forth)",
+   "note": "라틴어 pro-(앞으로)가 프랑스어에서 por-로 변했어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tray",
+   "meaning": "끌다 (draw)",
+   "note": "라틴어 trahere(끌다)가 고대 프랑스어 traire를 거쳐 변한 모양이에요."
+  }
+ ],
+ "summary": "<strong>por-</strong> (앞으로) + <strong>tray</strong> (끌다) = 모습을 앞으로 끌어내 보여 주다, 곧 <strong>'묘사하다, 연기하다'</strong>예요.",
+ "historyTitle": "선을 끌어 모습을 드러내다",
+ "historyBody": "portray는 1300년 무렵 고대 프랑스어 portraire(그리다, 묘사하다)에서 들어왔고, 라틴어 protrahere(앞으로 끌어내다)가 뿌리예요. 처음에는 '그림으로 그리다'라는 뜻이었다가 '글로 묘사하다', '배우가 인물을 연기하다'로 뜻이 넓어졌어요. 명사형 portrait(초상화)와 한 가족이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "portrait",
+   "pos": "명사",
+   "meaning": "초상화",
+   "en": "A portrait of the king hangs in the hall.",
+   "ko": "홀에는 왕의 초상화가 걸려 있어요."
+  },
+  {
+   "word": "portrayal",
+   "pos": "명사",
+   "meaning": "묘사, 연기",
+   "en": "Her portrayal of the old queen won an award.",
+   "ko": "늙은 여왕을 연기한 그녀는 상을 받았어요."
+  },
+  {
+   "word": "trait",
+   "pos": "명사",
+   "meaning": "특징, 특성",
+   "en": "Kindness is her best trait.",
+   "ko": "친절함이 그녀의 가장 좋은 특성이에요."
+  },
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다, 마음을 끌다",
+   "en": "The bright lights attract many insects.",
+   "ko": "밝은 불빛은 많은 곤충을 끌어들여요."
+  },
+  {
+   "word": "extract",
+   "pos": "동사",
+   "meaning": "뽑아내다, 추출하다",
+   "en": "The dentist had to extract my tooth.",
+   "ko": "치과 의사 선생님이 내 이를 뽑아야 했어요."
+  },
+  {
+   "word": "tractor",
+   "pos": "명사",
+   "meaning": "트랙터",
+   "en": "The farmer drove his tractor across the field.",
+   "ko": "농부가 트랙터를 몰고 밭을 가로질렀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 위에서 배우가 역사 속 인물을 연기하는 모습",
+ "imageCaption": "배우가 수염을 붙이고 세종대왕을 연기하는 장면을 떠올려 보세요. 인물을 '앞으로 끌어내' 보여 주는 거예요.",
+ "movieLineEn": "The news portrayed me as a hero, but I just tripped.",
+ "movieLineKo": "뉴스는 나를 영웅으로 그렸지만 난 그냥 넘어졌을 뿐이야.",
+ "storyTitle": "악당 전문 배우",
+ "story": "착한 배우 민호는 늘 악당을 portray(연기하다)했어요. 그의 portrayal(연기)이 너무 실감 나서 관객을 attract(끌다)했죠. 그런데 시장에 가면 할머니들이 혼을 내셨어요. 민호는 착한 trait(성격)를 알리려고 자기 portrait(초상화)에 천사 날개를 그렸어요. 다들 \"악당이 변장했다!\"고 했대요."
+}

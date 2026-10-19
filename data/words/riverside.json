@@ -1,0 +1,68 @@
+{
+ "word": "riverside",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈrɪvərsaɪd]",
+ "meaning": "강가, 강변 / 강변의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "river",
+   "meaning": "강 (river) ← 라틴어 ripa(강둑)",
+   "note": "고대 프랑스어 riviere를 거쳐 라틴어 ripa(강둑)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "side",
+   "meaning": "옆, 쪽 (side)",
+   "note": "고대 영어 side(옆구리, 옆)에서 온 순수 영어예요."
+  }
+ ],
+ "summary": "<strong>river</strong> (강) + <strong>side</strong> (옆) = <strong>'강가, 강변'</strong>이라는 뜻의 합성어예요.",
+ "historyTitle": "강둑에서 시작된 river",
+ "historyBody": "river는 고대 프랑스어 riviere(강, 강가)에서 왔고, 라틴어 riparius(강둑의)와 ripa(강둑)로 거슬러 올라가요. 원래는 '강가'를 가리키던 말이 '강' 자체를 뜻하게 된 셈이죠. 재미있게도 arrive(도착하다)도 원래 '배가 강가(ripa)에 닿다'라는 뜻이었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "river",
+   "pos": "명사",
+   "meaning": "강",
+   "en": "The river flows into the sea.",
+   "ko": "그 강은 바다로 흘러가요."
+  },
+  {
+   "word": "riverbank",
+   "pos": "명사",
+   "meaning": "강둑",
+   "en": "We had a picnic on the riverbank.",
+   "ko": "우리는 강둑에서 소풍을 했어요."
+  },
+  {
+   "word": "arrive",
+   "pos": "동사",
+   "meaning": "도착하다",
+   "en": "The bus will arrive in ten minutes.",
+   "ko": "버스는 10분 후에 도착할 거예요."
+  },
+  {
+   "word": "seaside",
+   "pos": "명사",
+   "meaning": "해변",
+   "en": "They spent the summer at the seaside.",
+   "ko": "그들은 여름을 해변에서 보냈어요."
+  },
+  {
+   "word": "roadside",
+   "pos": "명사",
+   "meaning": "길가",
+   "en": "Flowers were growing by the roadside.",
+   "ko": "길가에 꽃이 피어 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강가 산책로에서 자전거를 타는 사람들",
+ "imageCaption": "반짝이는 강물 옆으로 길게 뻗은 산책로를 떠올려 보세요.",
+ "movieLineEn": "Meet me at the riverside at midnight. Come alone.",
+ "movieLineKo": "자정에 강가에서 만나. 혼자 와.",
+ "storyTitle": "강변의 낚시왕",
+ "story": "할아버지는 매일 riverside(강변)에서 낚시를 했어요. riverbank(강둑)에 앉아 river(강)를 바라보며 물고기가 arrive(도착하다)하길 기다렸죠. 10년 동안 한 마리도 못 잡았는데, 알고 보니 낚싯바늘을 한 번도 단 적이 없었대요. 할아버지 왈, \"난 물고기 말고 평화를 낚는 중이야!\""
+}

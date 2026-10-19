@@ -1,0 +1,68 @@
+{
+ "word": "organizing committee",
+ "pos": "명사구",
+ "phonetic": "[ˈɔːrɡənaɪzɪŋ kəˈmɪti]",
+ "meaning": "조직 위원회, 준비 위원회",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "organizing",
+   "meaning": "조직하는, 준비하는 (organizing)",
+   "note": "organize(조직하다, 준비하다)에 -ing가 붙은 꾸밈말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "committee",
+   "meaning": "위원회 (committee)",
+   "note": "commit(맡기다) + -ee(맡겨진 사람)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>organizing</strong> (준비하는) + <strong>committee</strong> (위원회) = '행사를 준비·조직하는 위원회'에서 <strong>'조직 위원회'</strong>",
+ "historyTitle": "일을 '맡겨진' 사람들, committee",
+ "historyBody": "committee는 commit(맡기다, 위임하다)에서 나온 말로, 원래는 '일을 맡겨진 사람'을 뜻했어요. commit은 라틴어 committere(함께 보내다, 맡기다)에서 왔죠. organize는 그리스어 organon(도구, 기관)에서 온 organ과 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "organize",
+   "pos": "동사",
+   "meaning": "조직하다, 준비하다",
+   "en": "Our class organized a charity concert.",
+   "ko": "우리 반은 자선 음악회를 준비했어요."
+  },
+  {
+   "word": "organization",
+   "pos": "명사",
+   "meaning": "조직, 단체",
+   "en": "She works for an international aid organization.",
+   "ko": "그녀는 국제 구호 단체에서 일해요."
+  },
+  {
+   "word": "commit",
+   "pos": "동사",
+   "meaning": "저지르다, 전념하다, 맡기다",
+   "en": "He committed himself to helping others.",
+   "ko": "그는 다른 사람을 돕는 일에 전념했어요."
+  },
+  {
+   "word": "commission",
+   "pos": "명사",
+   "meaning": "위원회, 수수료, 의뢰",
+   "en": "The commission studied the safety problem.",
+   "ko": "위원회가 안전 문제를 조사했어요."
+  },
+  {
+   "word": "organ",
+   "pos": "명사",
+   "meaning": "장기, 기관, 오르간",
+   "en": "The heart is a vital organ.",
+   "ko": "심장은 생명에 필수적인 장기예요."
+  }
+ ],
+ "imageSense": "대표 의미: 축제를 앞두고 위원들이 회의 테이블에 모여 계획을 짜는 장면",
+ "imageCaption": "긴 회의 테이블 위에 축제 포스터와 일정표가 펼쳐진 모습을 떠올려 보세요.",
+ "movieLineEn": "The organizing committee has made its final decision.",
+ "movieLineKo": "조직 위원회가 최종 결정을 내렸습니다.",
+ "storyTitle": "축제 준비의 함정",
+ "story": "학교 축제 organizing committee(조직 위원회)가 꾸려졌어요. 위원들은 축제를 organize(준비하다)하는 데 모든 힘을 commit(전념하다)했죠. 무대, 음식, 공연까지 완벽했어요. 그런데 축제 당일, 아무도 학생들에게 날짜를 알려주지 않았다는 걸 깨달았어요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "socializing",
+ "pos": "명사 / 동사(-ing형)",
+ "phonetic": "[ˈsoʊʃəlaɪzɪŋ]",
+ "meaning": "사교 활동, 사람들과 어울리기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "socialize",
+   "meaning": "사람들과 어울리다 (mix with people)",
+   "note": "social(사회의) + -ize(동사)로 된 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것, ~하는 중",
+   "note": "동사를 '하는 일'이라는 명사나 진행형으로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>socialize</strong> (어울리다) + <strong>-ing</strong> (~하는 것) = <strong>'사람들과 어울리는 일, 사교 활동'</strong>입니다.",
+ "historyTitle": "동료를 뜻하던 라틴어 socius",
+ "historyBody": "뿌리는 라틴어 socius(동료)예요. 여기서 social이, 다시 socialize가 나왔고, -ing가 붙어 '사람들과 어울리는 활동'을 가리키게 되었어요. 수능 지문에서는 사교 활동이 행복과 건강에 미치는 영향을 다룰 때 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "socialize",
+   "pos": "동사",
+   "meaning": "사람들과 어울리다",
+   "en": "Elderly people who socialize often tend to stay healthier.",
+   "ko": "자주 사람들과 어울리는 노인들은 더 건강을 유지하는 경향이 있어요."
+  },
+  {
+   "word": "social",
+   "pos": "형용사",
+   "meaning": "사회의, 사교적인",
+   "en": "Humans are social animals who need friends.",
+   "ko": "인간은 친구가 필요한 사회적 동물이에요."
+  },
+  {
+   "word": "society",
+   "pos": "명사",
+   "meaning": "사회",
+   "en": "Our society is changing quickly because of technology.",
+   "ko": "우리 사회는 기술 때문에 빠르게 변하고 있어요."
+  },
+  {
+   "word": "sociable",
+   "pos": "형용사",
+   "meaning": "사교적인, 붙임성 있는",
+   "en": "My cousin is so sociable that everyone likes her.",
+   "ko": "내 사촌은 아주 붙임성이 좋아서 모두가 그녀를 좋아해요."
+  },
+  {
+   "word": "associate",
+   "pos": "동사",
+   "meaning": "연관 짓다, 어울리다",
+   "en": "Many people associate summer with the beach.",
+   "ko": "많은 사람들은 여름을 해변과 연관 지어요."
+  }
+ ],
+ "imageSense": "대표 의미: 카페에 친구들이 모여 수다를 떠는 장면",
+ "imageCaption": "주말에 친구들과 모여 이야기꽃을 피우는 시간이 바로 socializing이에요.",
+ "movieLineEn": "Socializing is exhausting. I need a nap.",
+ "movieLineKo": "사람들이랑 어울리는 건 진이 빠져. 낮잠이 필요해.",
+ "storyTitle": "사교왕 거북이의 비밀",
+ "story": "거북이는 숲에서 socializing(사교 활동)의 왕이었어요. 매일 socialize(어울리다)하고, 모든 society(사회) 행사에 참석했죠. 다들 \"정말 sociable(사교적인) 거북이야!\"라고 칭찬했어요. 비결을 묻자 거북이가 말했어요. \"너무 느려서 파티가 끝나기 전에 집에 도착한 적이 없어서 그래.\""
+}

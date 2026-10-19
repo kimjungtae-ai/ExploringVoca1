@@ -1,0 +1,68 @@
+{
+ "word": "vice-principal",
+ "pos": "명사",
+ "phonetic": "[ˌvaɪs ˈprɪnsəpl]",
+ "meaning": "교감 (선생님), 부교장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "vice-",
+   "meaning": "대신하는, 부(副)~ (in place of)",
+   "note": "라틴어 vice(~의 자리에, 대신에)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "principal",
+   "meaning": "교장, 주요한 (principal)",
+   "note": "라틴어 principalis(첫째의)에서 온 단어로, princeps(첫째인 사람)와 관련 있어요."
+  }
+ ],
+ "summary": "<strong>vice-</strong> (대신하는) + <strong>principal</strong> (교장) = '교장을 대신하는 사람'이라는 뜻에서 <strong>'교감'</strong>이 되었어요.",
+ "historyTitle": "첫째를 대신하는 사람",
+ "historyBody": "vice-는 라틴어 vice(~의 자리에)에서 와서 '부(副)~'라는 뜻을 만들어요. principal은 라틴어 principalis(첫째의, 으뜸의)에서 온 말로, 학교의 '으뜸인 사람', 즉 교장을 뜻하게 되었어요. 두 말이 합쳐져 '교장을 대신하는 사람'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vice-president",
+   "pos": "명사",
+   "meaning": "부통령, 부회장",
+   "en": "The vice-president gave a speech at the event.",
+   "ko": "부통령이 행사에서 연설을 했어요."
+  },
+  {
+   "word": "vice versa",
+   "pos": "부사",
+   "meaning": "반대로도 마찬가지로",
+   "en": "I help my brother, and vice versa.",
+   "ko": "나는 동생을 돕고, 동생도 나를 도와요."
+  },
+  {
+   "word": "principal",
+   "pos": "명사 / 형용사",
+   "meaning": "교장 / 주요한",
+   "en": "The principal welcomed the new students.",
+   "ko": "교장 선생님이 신입생들을 환영했어요."
+  },
+  {
+   "word": "principle",
+   "pos": "명사",
+   "meaning": "원칙, 원리",
+   "en": "Honesty is my most important principle.",
+   "ko": "정직은 나의 가장 중요한 원칙이에요."
+  },
+  {
+   "word": "prince",
+   "pos": "명사",
+   "meaning": "왕자",
+   "en": "The prince left the castle to see the world.",
+   "ko": "왕자는 세상을 보려고 성을 떠났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교무실에서 교장 선생님 대신 회의를 이끄는 선생님",
+ "imageCaption": "교장 선생님이 출장 가신 날, 대신 아침 조회를 맡으신 교감 선생님을 떠올려 보세요.",
+ "movieLineEn": "The vice-principal is coming! Everybody, back to your seats!",
+ "movieLineKo": "교감 선생님 오신다! 다들 자리로 돌아가!",
+ "storyTitle": "교감 선생님의 비밀",
+ "story": "vice-principal(교감) 선생님은 늘 엄격한 principle(원칙)을 지키셨어요. principal(교장) 선생님이 안 계시면 더 무서웠죠. 그런데 축제 날, 무대에 prince(왕자) 복장을 한 댄서가 나타났어요. 가면을 벗자 모두 비명을 질렀어요. 교감 선생님이었거든요!"
+}

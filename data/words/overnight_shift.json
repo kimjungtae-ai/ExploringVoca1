@@ -1,0 +1,68 @@
+{
+ "word": "overnight shift",
+ "pos": "명사구",
+ "phonetic": "[ˌoʊvərˈnaɪt ʃɪft]",
+ "meaning": "야간 근무, 밤샘 교대 근무",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "overnight",
+   "meaning": "밤새의, 하룻밤 사이의 (overnight)",
+   "note": "over(~에 걸쳐) + night(밤)로 '밤 내내'예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "shift",
+   "meaning": "교대 근무, 이동 (shift)",
+   "note": "고대 영어 sciftan(나누다, 정리하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>overnight</strong> (밤새) + <strong>shift</strong> (교대 근무) = '밤새 일하는 교대 근무'에서 <strong>'야간 근무'</strong>",
+ "historyTitle": "'나누다'에서 '교대 근무'로",
+ "historyBody": "shift는 고대 영어 sciftan(나누다, 배분하다)에서 왔어요. 하루를 몇 개로 '나누어' 사람들이 번갈아 일하는 것에서 '교대 근무'라는 뜻이 생겼고, '옮기다, 바꾸다'라는 뜻도 함께 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "night shift",
+   "pos": "명사구",
+   "meaning": "야간 근무",
+   "en": "My mom is a nurse who often works the night shift.",
+   "ko": "엄마는 야간 근무를 자주 하는 간호사예요."
+  },
+  {
+   "word": "shift",
+   "pos": "동사 / 명사",
+   "meaning": "옮기다, 바꾸다 / 변화",
+   "en": "There has been a shift in public opinion.",
+   "ko": "여론에 변화가 있었어요."
+  },
+  {
+   "word": "overnight",
+   "pos": "부사 / 형용사",
+   "meaning": "밤새 / 하룻밤 사이에",
+   "en": "She became famous overnight.",
+   "ko": "그녀는 하룻밤 사이에 유명해졌어요."
+  },
+  {
+   "word": "work in shifts",
+   "pos": "숙어",
+   "meaning": "교대로 일하다",
+   "en": "The factory workers work in shifts.",
+   "ko": "공장 근로자들은 교대로 일해요."
+  },
+  {
+   "word": "day shift",
+   "pos": "명사구",
+   "meaning": "주간 근무",
+   "en": "He switched to the day shift last month.",
+   "ko": "그는 지난달에 주간 근무로 바꿨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 모두가 잠든 밤, 편의점 계산대를 지키는 직원",
+ "imageCaption": "창밖은 깜깜한데 불 켜진 병원이나 편의점에서 일하는 사람을 떠올려 보세요.",
+ "movieLineEn": "I'm on the overnight shift. Wake me if anything happens.",
+ "movieLineKo": "나 밤샘 근무야. 무슨 일 생기면 깨워.",
+ "storyTitle": "야간 근무자의 손님",
+ "story": "삼촌은 편의점 overnight shift(야간 근무)를 맡았어요. day shift(주간 근무)보다 조용할 줄 알았죠. 새벽 3시, 매일 같은 손님이 와서 컵라면 하나를 사 갔어요. 사람들은 귀신이라 수군댔지만, 알고 보니 옆 병원 night shift(야간 근무) 간호사였답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "be associated with",
+ "pos": "숙어",
+ "phonetic": "[bi əˈsoʊʃieɪtɪd wɪð]",
+ "meaning": "~와 관련되다, ~와 연관되다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "associated",
+   "meaning": "연관된 (connected)",
+   "note": "라틴어 ad-(~에)+socius(동료)에서 온 associate의 과거분사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께 (with)",
+   "note": "무엇과 짝지어지는지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be associated</strong> (연관되다) + <strong>with</strong> (~와 함께) = '~와 동료로 묶이다'에서 <strong>'~와 관련되다'</strong>예요.",
+ "historyTitle": "라틴어 socius, '동료'",
+ "historyBody": "associate는 라틴어 associare에서 왔고, ad-(~에)와 socius(동료, 친구)가 합쳐졌어요. 둘을 '동료로 묶는다'는 뜻이라 '연관 짓다'가 되었죠. social(사회의), society(사회)도 socius에서 나온 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "associate A with B",
+   "pos": "숙어",
+   "meaning": "A를 B와 연관 짓다",
+   "en": "People often associate red with love.",
+   "ko": "사람들은 흔히 빨간색을 사랑과 연관 지어요."
+  },
+  {
+   "word": "association",
+   "pos": "명사",
+   "meaning": "협회, 연관",
+   "en": "She joined the student association.",
+   "ko": "그녀는 학생 협회에 가입했어요."
+  },
+  {
+   "word": "be related to",
+   "pos": "숙어",
+   "meaning": "~와 관련 있다",
+   "en": "Stress is related to poor sleep.",
+   "ko": "스트레스는 수면 부족과 관련이 있어요."
+  },
+  {
+   "word": "society",
+   "pos": "명사",
+   "meaning": "사회",
+   "en": "We live in a digital society.",
+   "ko": "우리는 디지털 사회에 살아요."
+  },
+  {
+   "word": "be linked to",
+   "pos": "숙어",
+   "meaning": "~와 연결되어 있다",
+   "en": "Exercise is linked to better mood.",
+   "ko": "운동은 더 좋은 기분과 연결되어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 빨간 하트와 '사랑'이라는 단어가 선으로 연결된 그림",
+ "imageCaption": "두 생각이 손을 잡고 짝꿍처럼 붙어 다니는 모습을 떠올려 보세요.",
+ "movieLineEn": "His name is associated with danger. Stay away from him.",
+ "movieLineKo": "그 사람 이름은 위험과 연관돼 있어. 가까이하지 마.",
+ "storyTitle": "연관 검색어",
+ "story": "우리 반에서 내 이름은 늘 '지각'과 be associated with(~와 관련되다)해요. 친구들은 나를 지각과 associate A with B(A를 B와 연관 짓다)하죠. 억울해서 매일 일찍 왔더니, 이제 내 이름은 '수상할 만큼 일찍 오는 애'와 be linked to(~와 연결되다)되었어요!"
+}

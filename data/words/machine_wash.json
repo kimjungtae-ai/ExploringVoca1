@@ -1,0 +1,68 @@
+{
+ "word": "machine wash",
+ "pos": "동사구 / 명사구",
+ "phonetic": "[məˈʃiːn wɑːʃ]",
+ "meaning": "세탁기로 빨다, 세탁기 세탁(가능)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "machine",
+   "meaning": "기계, 세탁기 (machine)",
+   "note": "여기서는 '세탁기'를 줄여 말한 거예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "wash",
+   "meaning": "씻다, 빨다 (wash)",
+   "note": "고대 영어 wascan에서 온 아주 오래된 게르만어 단어예요."
+  }
+ ],
+ "summary": "<strong>machine</strong> (기계) + <strong>wash</strong> (빨다) = '기계로 빨다'에서 <strong>'세탁기로 세탁하다(세탁기 사용 가능)'</strong>",
+ "historyTitle": "옷 라벨에 적힌 짧은 표현",
+ "historyBody": "machine은 그리스어 mēkhanē(장치, 도구)가 라틴어와 프랑스어를 거쳐 들어온 말이에요. wash는 고대 영어 wascan에서 왔고 water(물)와 같은 뿌리예요. 옷 관리 라벨에 'machine wash cold(찬물 세탁기 세탁)'처럼 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hand wash",
+   "pos": "동사구 / 명사구",
+   "meaning": "손빨래하다, 손세탁",
+   "en": "This sweater should be hand washed in cool water.",
+   "ko": "이 스웨터는 시원한 물에 손빨래해야 해요."
+  },
+  {
+   "word": "washable",
+   "pos": "형용사",
+   "meaning": "물빨래가 가능한",
+   "en": "Choose a washable rug if you have pets.",
+   "ko": "반려동물이 있다면 물빨래가 가능한 깔개를 고르세요."
+  },
+  {
+   "word": "dry clean",
+   "pos": "동사구",
+   "meaning": "드라이클리닝하다",
+   "en": "My father dry cleans his suit once a month.",
+   "ko": "아빠는 한 달에 한 번 정장을 드라이클리닝해요."
+  },
+  {
+   "word": "washing machine",
+   "pos": "명사구",
+   "meaning": "세탁기",
+   "en": "Our washing machine broke down last night.",
+   "ko": "어젯밤 우리 세탁기가 고장 났어요."
+  },
+  {
+   "word": "mechanical",
+   "pos": "형용사",
+   "meaning": "기계의, 기계적인",
+   "en": "The car stopped because of a mechanical problem.",
+   "ko": "차가 기계적인 문제로 멈췄어요."
+  }
+ ],
+ "imageSense": "대표 의미: 셔츠 라벨에 '세탁기 세탁 가능' 표시가 있는 장면",
+ "imageCaption": "빙글빙글 도는 세탁기 안에 옷을 던져 넣어도 괜찮다는 라벨을 떠올려 보세요.",
+ "movieLineEn": "Relax, it's machine wash. Just throw it in!",
+ "movieLineKo": "걱정 마, 세탁기 돌려도 되는 거야. 그냥 넣어!",
+ "storyTitle": "라벨을 안 읽은 대가",
+ "story": "지호는 엄마의 비싼 니트를 machine wash(세탁기 세탁)했어요. 라벨엔 hand wash(손빨래)와 dry clean(드라이클리닝)만 적혀 있었죠. washing machine(세탁기)에서 나온 니트는 강아지 옷이 됐어요. 그런데 강아지가 너무 좋아해서 엄마도 웃고 말았답니다!"
+}

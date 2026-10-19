@@ -1,0 +1,68 @@
+{
+ "word": "toxic",
+ "pos": "형용사",
+ "phonetic": "[ˈtɑːksɪk]",
+ "meaning": "유독성의, 독이 있는, (관계·분위기가) 해로운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "tox",
+   "meaning": "독, (원래) 활 (bow → poison)",
+   "note": "그리스어 toxon(활)에서 왔어요. 화살에 바르던 독을 가리키게 되었죠."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의, ~한 성질의",
+   "note": "형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>tox</strong> (화살 독) + <strong>-ic</strong> (~의) = 독의 성질을 지닌, 즉 <strong>'유독한, 해로운'</strong>이 되었어요.",
+ "historyTitle": "활에서 독으로 바뀐 이야기",
+ "historyBody": "그리스어 'toxon'은 '활'이었고, 'toxikon pharmakon'은 '화살에 바르는 독'이라는 뜻이었어요. 그런데 라틴어로 넘어가면서 '활'이라는 부분은 잊히고 'toxicum(독)'만 남았답니다. 그래서 오늘날 toxic은 '독이 있는'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "toxin",
+   "pos": "명사",
+   "meaning": "독소",
+   "en": "Some plants produce toxins to protect themselves.",
+   "ko": "어떤 식물들은 자신을 지키기 위해 독소를 만들어요."
+  },
+  {
+   "word": "toxicity",
+   "pos": "명사",
+   "meaning": "독성",
+   "en": "Scientists tested the toxicity of the new chemical.",
+   "ko": "과학자들은 새 화학 물질의 독성을 검사했어요."
+  },
+  {
+   "word": "intoxicate",
+   "pos": "동사",
+   "meaning": "취하게 하다, 중독시키다",
+   "en": "Even a small amount of this gas can intoxicate a person.",
+   "ko": "이 가스는 아주 적은 양으로도 사람을 중독시킬 수 있어요."
+  },
+  {
+   "word": "detox",
+   "pos": "명사 / 동사",
+   "meaning": "해독, 디톡스 / 해독하다",
+   "en": "I'm doing a digital detox and turning off my phone this weekend.",
+   "ko": "나는 이번 주말에 디지털 디톡스를 하며 휴대폰을 꺼 둘 거예요."
+  },
+  {
+   "word": "nontoxic",
+   "pos": "형용사",
+   "meaning": "무독성의",
+   "en": "These crayons are nontoxic, so they are safe for kids.",
+   "ko": "이 크레용은 무독성이라 아이들에게 안전해요."
+  }
+ ],
+ "imageSense": "대표 의미: 해골 그림이 붙은 초록색 화학 약품 병",
+ "imageCaption": "해골 경고 표시가 그려진 병, 또는 끝이 독에 젖은 화살을 떠올려 보세요. 둘 다 toxic이에요.",
+ "movieLineEn": "Stay back! This swamp is full of toxic gas!",
+ "movieLineKo": "물러서! 이 늪은 독가스로 가득해!",
+ "storyTitle": "마녀의 다이어트",
+ "story": "마녀는 toxic(유독한) 약을 끓이다가 스스로 detox(해독)를 결심했어요. 독사과의 toxin(독소)을 다 빼고 nontoxic(무독성의) 사과 주스를 만들었죠. 백설공주에게 건넸더니 공주가 말했어요. \"와, 너무 맛있어요! 가게 차리세요!\" 마녀는 지금 유명한 주스 가게 사장님이랍니다."
+}

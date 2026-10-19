@@ -1,0 +1,67 @@
+{
+ "word": "determined",
+ "pos": "형용사",
+ "phonetic": "[dɪˈtɜːrmɪnd]",
+ "meaning": "단단히 결심한, 단호한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "완전히 (completely)",
+   "note": "의미를 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "termin",
+   "meaning": "경계, 끝 (boundary, end)",
+   "note": "라틴어 terminus(경계, 끝)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "'마음이 정해진' 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>termin</strong> (경계) + <strong>-ed</strong> = '마음의 경계가 확실히 정해진'에서 <strong>'단단히 결심한'</strong>이 되었어요.",
+ "historyTitle": "경계를 그은 마음",
+ "historyBody": "determine은 라틴어 determinare(경계를 정하다, 한정하다)에서 왔어요. 경계가 정해지면 더는 흔들리지 않죠. 그래서 determined는 '마음이 확실히 정해져 흔들리지 않는'이라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "determine",
+   "pos": "동사",
+   "meaning": "결정하다",
+   "en": "Scientists are trying to determine the cause of the disease.",
+   "ko": "과학자들은 그 병의 원인을 알아내려 하고 있어요."
+  },
+  {
+   "word": "determination",
+   "pos": "명사",
+   "meaning": "결심, 결단력",
+   "en": "His determination helped him win the race.",
+   "ko": "그의 결단력이 경주에서 이기는 데 도움이 되었어요."
+  },
+  {
+   "word": "terminate",
+   "pos": "동사",
+   "meaning": "끝내다, 종료하다",
+   "en": "The contract will terminate next year.",
+   "ko": "그 계약은 내년에 종료될 거예요."
+  },
+  {
+   "word": "terminal",
+   "pos": "명사",
+   "meaning": "터미널, 종점",
+   "en": "The airport has two terminals.",
+   "ko": "그 공항에는 터미널이 두 개 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어져도 다시 일어나 산 정상을 향해 오르는 등산가",
+ "imageCaption": "주먹을 꽉 쥐고 '반드시 해낸다'라고 말하는 사람을 떠올려 보세요.",
+ "movieLineEn": "I'm determined to find the truth, no matter what.",
+ "movieLineKo": "무슨 일이 있어도 진실을 찾아내고 말 거야.",
+ "storyTitle": "단호한 고양이",
+ "story": "우리 집 고양이는 냉장고 위에 오르겠다고 determined(단단히 결심한) 상태였어요. 엄청난 determination(결단력)으로 매일 점프했죠. 엄마가 놀이를 terminate(끝내다)하려 해도 소용없었어요. 결국 성공! 그런데 내려오는 방법은 determine(결정하다)하지 못했대요."
+}

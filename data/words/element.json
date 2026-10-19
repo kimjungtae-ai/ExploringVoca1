@@ -1,0 +1,41 @@
+{
+ "word": "element",
+ "pos": "명사",
+ "phonetic": "[ˈelɪmənt]",
+ "meaning": "요소, 성분, (화학) 원소, 기본 원리",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "element (elementum)",
+   "meaning": "기본 요소, 첫 원리 (first principle)",
+   "note": "라틴어 elementum에서 왔지만, 그 기원은 확실하지 않아 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>element</strong>는 라틴어 elementum(기본 요소)에서 와서 <strong>'요소, 원소'</strong>가 되었어요.",
+ "historyTitle": "기원이 수수께끼인 단어",
+ "historyBody": "element는 라틴어 elementum(기본 요소, 알파벳 글자)에서 왔어요. 고대 그리스에서는 세상이 흙, 물, 공기, 불의 네 가지 원소로 이루어졌다고 믿었고, 로마인들은 이것을 elementum이라고 불렀어요. 알파벳 L-M-N에서 왔다는 재미있는 설도 있지만, elementum의 진짜 기원은 아직 밝혀지지 않았답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "elementary",
+   "pos": "형용사",
+   "meaning": "기초의, 초보의",
+   "en": "My little brother goes to elementary school.",
+   "ko": "내 남동생은 초등학교에 다녀요."
+  },
+  {
+   "word": "elemental",
+   "pos": "형용사",
+   "meaning": "기본적인, 자연력의",
+   "en": "Fire is one of the elemental forces of nature.",
+   "ko": "불은 자연의 기본적인 힘 중 하나예요."
+  }
+ ],
+ "imageSense": "대표 의미: 화학 시간에 보는 주기율표의 원소 칸들",
+ "imageCaption": "H, O, C 같은 기호가 칸칸이 채워진 주기율표를 떠올려 보세요. 세상을 이루는 가장 기본 조각들이에요.",
+ "movieLineEn": "Surprise is the most important element of our plan.",
+ "movieLineKo": "기습이 우리 계획에서 가장 중요한 요소야.",
+ "storyTitle": "원소 탐험대",
+ "story": "elementary(초등학교) 과학 시간, 선생님이 물었어요. \"물을 이루는 element(원소)는 무엇일까요?\" 민준이가 손을 번쩍 들었어요. \"H와 O, 그리고 사랑이요!\" 반 친구들이 웃었죠. 선생님은 웃으며 말했어요. \"사랑은 원소는 아니지만 우리 반의 중요한 element(요소)야.\" 그날 민준이는 elemental(기본적인) 진리를 배웠답니다."
+}

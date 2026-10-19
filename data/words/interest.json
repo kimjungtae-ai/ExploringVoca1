@@ -1,0 +1,68 @@
+{
+ "word": "interest",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪntrəst]",
+ "meaning": "관심, 흥미, 이익, 이자 / 관심을 끌다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "사이에 (between)",
+   "note": "무언가의 사이에 있다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "est",
+   "meaning": "~이다, 있다 (be)",
+   "note": "라틴어 esse(있다)의 3인칭 형태 est(그것은 ~이다)예요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (사이에) + <strong>est</strong> (있다) = '나와 그 일 사이에 무언가가 걸려 있다'라는 뜻에서 <strong>'관심, 이익'</strong>이 되었습니다.",
+ "historyTitle": "나와 상관이 있는 일",
+ "historyBody": "라틴어 'interest'는 '그것은 사이에 있다', 즉 '중요하다, 상관이 있다'라는 뜻이었어요. 나와 관계된 일에는 이익이 걸려 있고, 그래서 관심이 가게 되죠. 중세에 돈을 빌려주고 받는 손해 보상의 뜻이 생겨 '이자'라는 의미도 얻었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "interesting",
+   "pos": "형용사",
+   "meaning": "흥미로운",
+   "en": "This book is really interesting.",
+   "ko": "이 책은 정말 흥미로워요."
+  },
+  {
+   "word": "interested",
+   "pos": "형용사",
+   "meaning": "관심 있는",
+   "en": "I'm interested in learning Spanish.",
+   "ko": "나는 스페인어를 배우는 데 관심이 있어요."
+  },
+  {
+   "word": "absent",
+   "pos": "형용사",
+   "meaning": "결석한, 없는 (떨어져 있는)",
+   "en": "Three students were absent today.",
+   "ko": "오늘 학생 세 명이 결석했어요."
+  },
+  {
+   "word": "present",
+   "pos": "형용사 / 명사",
+   "meaning": "출석한, 현재의 / 선물 (앞에 있는)",
+   "en": "All the members were present at the meeting.",
+   "ko": "모든 회원이 회의에 참석했어요."
+  },
+  {
+   "word": "essence",
+   "pos": "명사",
+   "meaning": "본질, 정수 (있음)",
+   "en": "Kindness is the essence of friendship.",
+   "ko": "친절은 우정의 본질이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 은행 통장에 이자가 붙고, 눈이 반짝이며 책에 빠진 아이",
+ "imageCaption": "나와 그 일 사이에 끈이 하나 연결된 모습을 떠올려 보세요. 끈이 당기면 눈길이 가죠. 그게 interest예요.",
+ "movieLineEn": "I have no interest in your money.",
+ "movieLineKo": "난 네 돈에는 관심 없어.",
+ "storyTitle": "이자의 비밀",
+ "story": "동생은 저금통에 interest(이자)가 붙는다고 믿었어요. 그래서 매일 저금통을 흔들며 interested(관심 있는) 눈으로 봤죠. 어느 날 진짜 동전이 늘어 있었어요! 정말 interesting(흥미로운) 일이었죠. 비밀은 아빠였어요. 아빠가 몰래 present(선물)로 동전을 넣었던 거예요. 진짜 이자는 아빠의 사랑이었답니다."
+}

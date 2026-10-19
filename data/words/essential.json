@@ -1,0 +1,74 @@
+{
+ "word": "essential",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ɪˈsenʃl]",
+ "meaning": "필수적인, 본질적인 / 필수 요소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ess",
+   "meaning": "존재하다 (be)",
+   "note": "라틴어 esse(~이다, 존재하다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~인 것 (명사형)",
+   "note": "essence(본질)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의 (형용사형)",
+   "note": "'본질에 관한'이라는 형용사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ess</strong> (존재하다) + <strong>-ence</strong> (명사) + <strong>-ial</strong> (형용사) = '존재의 핵심에 관한'에서 <strong>'본질적인, 필수적인'</strong>이 되었어요.",
+ "historyTitle": "철학자들의 '존재' 단어",
+ "historyBody": "라틴어 'essentia(본질)'는 동사 esse(존재하다)에서 만들어졌는데, 그리스 철학 용어 'ousia(존재, 본질)'를 옮기기 위해 쓰였다고 해요. 어떤 것이 그것이게 하는 핵심이 '본질'이니, 그것 없이는 안 되는 '필수적인'이라는 뜻으로 이어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "essence",
+   "pos": "명사",
+   "meaning": "본질, 핵심, 진액",
+   "en": "The essence of friendship is trust.",
+   "ko": "우정의 본질은 신뢰예요."
+  },
+  {
+   "word": "essentially",
+   "pos": "부사",
+   "meaning": "본질적으로, 근본적으로",
+   "en": "The two plans are essentially the same.",
+   "ko": "두 계획은 본질적으로 똑같아요."
+  },
+  {
+   "word": "present",
+   "pos": "형용사 / 명사",
+   "meaning": "출석한, 현재의 / 선물",
+   "en": "All the students were present at the meeting.",
+   "ko": "모든 학생이 그 모임에 참석했어요."
+  },
+  {
+   "word": "absent",
+   "pos": "형용사",
+   "meaning": "결석한, 없는",
+   "en": "He was absent from school because of a cold.",
+   "ko": "그는 감기 때문에 학교에 결석했어요."
+  },
+  {
+   "word": "interest",
+   "pos": "명사 / 동사",
+   "meaning": "관심, 이자 / 관심을 끌다",
+   "en": "She has a strong interest in space science.",
+   "ko": "그녀는 우주 과학에 큰 관심이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 캠핑 가방에 물, 손전등, 구급약을 꼭 챙기는 장면",
+ "imageCaption": "이것 없으면 절대 안 되는 생존 필수품을 떠올려 보세요.",
+ "movieLineEn": "Water is essential. Without it, we won't last three days.",
+ "movieLineKo": "물은 필수야. 그게 없으면 우린 사흘도 못 버텨.",
+ "storyTitle": "필수품 목록",
+ "story": "무인도 체험에 가는 민지는 essential(필수적인) 물건만 챙기라는 말을 들었어요. 민지가 생각한 essence(핵심)는 바로 충전기! 친구들은 absent(없는) 콘센트를 걱정했죠. 섬에 도착하자 민지는 essentially(본질적으로) 깨달았어요. 섬엔 전기도, 와이파이도 없다는 걸요."
+}

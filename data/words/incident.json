@@ -1,0 +1,74 @@
+{
+ "word": "incident",
+ "pos": "명사",
+ "phonetic": "[ˈɪnsɪdənt]",
+ "meaning": "사건, 일어난 일, 사고",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "위에 (on, upon)",
+   "note": "무엇 위로 떨어진다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cid",
+   "meaning": "떨어지다 (fall)",
+   "note": "라틴어 cadere(떨어지다)가 모양이 바뀐 거예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ent",
+   "meaning": "~하는 (것)",
+   "note": "명사나 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (위에) + <strong>cid</strong> (떨어지다) + <strong>-ent</strong> = '갑자기 뚝 떨어진 일'이라는 뜻에서 <strong>'사건'</strong>이 되었습니다.",
+ "historyTitle": "하늘에서 떨어지듯 생기는 일",
+ "historyBody": "라틴어 'incidere'는 '~위에 떨어지다, 우연히 일어나다'라는 뜻이었어요. 예상하지 못한 일이 갑자기 떨어지듯 생긴다는 느낌이죠. accident(사고)와 coincidence(우연의 일치)도 같은 '떨어지다' 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accident",
+   "pos": "명사",
+   "meaning": "사고, 우연 (~에게 떨어진 일)",
+   "en": "He broke his leg in a car accident.",
+   "ko": "그는 교통사고로 다리가 부러졌어요."
+  },
+  {
+   "word": "coincidence",
+   "pos": "명사",
+   "meaning": "우연의 일치",
+   "en": "What a coincidence to meet you here!",
+   "ko": "여기서 너를 만나다니 정말 우연이다!"
+  },
+  {
+   "word": "incidentally",
+   "pos": "부사",
+   "meaning": "그런데, 덧붙여 말하자면",
+   "en": "Incidentally, have you finished your homework?",
+   "ko": "그런데 말이야, 숙제는 다 했니?"
+  },
+  {
+   "word": "occasion",
+   "pos": "명사",
+   "meaning": "경우, 행사, 때",
+   "en": "A birthday is a special occasion.",
+   "ko": "생일은 특별한 날이에요."
+  },
+  {
+   "word": "decay",
+   "pos": "동사 / 명사",
+   "meaning": "썩다, 부패하다 / 부패",
+   "en": "Sugar can make your teeth decay.",
+   "ko": "설탕은 이를 썩게 할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교실에 갑자기 벌어진 소동을 기자가 취재하는 장면",
+ "imageCaption": "평범한 하루에 무언가가 갑자기 툭 떨어져 벌어지는 일을 떠올려 보세요. 그게 incident예요.",
+ "movieLineEn": "The police are investigating the incident.",
+ "movieLineKo": "경찰이 그 사건을 조사하고 있어.",
+ "storyTitle": "급식실 미스터리 사건",
+ "story": "급식실에서 이상한 incident(사건)가 일어났어요. 푸딩이 모두 사라진 거예요! accident(사고)일까, 단순한 coincidence(우연의 일치)일까? 탐정 지민이 조사했죠. incidentally(그런데) 교장 선생님 입가에 푸딩이 묻어 있었대요. 범인은 바로 교장 선생님!"
+}

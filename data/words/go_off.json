@@ -1,0 +1,68 @@
+{
+ "word": "go off",
+ "pos": "구동사",
+ "phonetic": "[ɡoʊ ɔːf]",
+ "meaning": "(경보·알람이) 울리다; (폭탄이) 터지다; (불이) 꺼지다; (음식이) 상하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "go",
+   "meaning": "가다, 작동하다 (go)",
+   "note": "어떤 상태로 '되어 가다'를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "off",
+   "meaning": "떨어져, 갑자기 시작하여 (off)",
+   "note": "정지 상태에서 '확 튀어 나가는' 느낌이에요."
+  }
+ ],
+ "summary": "<strong>go</strong> (가다) + <strong>off</strong> (떨어져 튀어 나가) = '갑자기 확 작동하여 튀어 나가다'라서 <strong>'(알람이) 울리다, 터지다'</strong>예요.",
+ "historyTitle": "총에서 시작된 go off",
+ "historyBody": "go는 고대 영어 gan에서 온 아주 오래된 게르만어예요. 과거형 went는 원래 wend(가다, 돌다)라는 다른 동사의 과거형을 빌려 온 것이랍니다. go off는 원래 총이 '발사되다'라는 뜻으로 쓰였고, 여기서 알람이 울리거나 폭탄이 터지는 뜻이 나왔어요. 반대로 전기가 '꺼지다', 음식이 '상하다'라는 뜻도 있어서 문맥으로 판단해야 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "go on",
+   "pos": "구동사",
+   "meaning": "계속하다; (불이) 켜지다",
+   "en": "The lights went on at six.",
+   "ko": "6시에 불이 켜졌어요."
+  },
+  {
+   "word": "set off",
+   "pos": "구동사",
+   "meaning": "출발하다; (경보를) 울리게 하다",
+   "en": "Smoke from the toast set off the alarm.",
+   "ko": "토스트 연기 때문에 경보가 울렸어요."
+  },
+  {
+   "word": "go out",
+   "pos": "구동사",
+   "meaning": "(불이) 꺼지다; 외출하다",
+   "en": "The candle went out in the wind.",
+   "ko": "바람에 촛불이 꺼졌어요."
+  },
+  {
+   "word": "explode",
+   "pos": "동사",
+   "meaning": "폭발하다",
+   "en": "The fireworks exploded over the river.",
+   "ko": "불꽃놀이가 강 위에서 터졌어요."
+  },
+  {
+   "word": "alarm clock",
+   "pos": "명사구",
+   "meaning": "자명종",
+   "en": "My alarm clock goes off at 6:30.",
+   "ko": "내 알람 시계는 6시 30분에 울려요."
+  }
+ ],
+ "imageSense": "대표 의미: 아침에 자명종이 요란하게 울리는 장면",
+ "imageCaption": "조용하던 방에서 갑자기 '따르릉!' 하고 알람이 터지는 순간을 떠올려 보세요.",
+ "movieLineEn": "When the alarm goes off, you run. Got it?",
+ "movieLineKo": "알람이 울리면 뛰는 거야. 알겠지?",
+ "storyTitle": "울리지 않은 알람",
+ "story": "시험 날 아침, 알람이 go off(울리다)하지 않았어요! 나는 허겁지겁 일어나 뛰어나갔어요. 학교 앞에서 화재 경보가 set off(울리게 하다)되는 바람에 시험이 한 시간 미뤄졌대요. 덕분에 지각을 면했죠. 그런데 그 경보를 울린 범인은 바로 alarm clock(자명종) 대신 토스트를 태운 우리 담임 선생님이었어요!"
+}

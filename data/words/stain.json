@@ -1,0 +1,54 @@
+{
+ "word": "stain",
+ "pos": "명사 / 동사",
+ "phonetic": "[steɪn]",
+ "meaning": "얼룩, 오점 / 얼룩지게 하다, 더럽히다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "s- (dis-)",
+   "meaning": "떨어져, 빼앗아 (away)",
+   "note": "옛말 distain(색을 빼다)의 dis-가 줄어 s-만 남았다고 봐요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tain (teindre)",
+   "meaning": "물들이다 (dye)",
+   "note": "라틴어 tingere(적시다, 물들이다)에서 고대 프랑스어 teindre를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>s- (dis-)</strong> (빼앗아) + <strong>tain</strong> (물들이다) = '원래 색을 빼앗고 다른 색이 들다'에서 <strong>'얼룩, 얼룩지게 하다'</strong>가 되었습니다.",
+ "historyTitle": "색을 빼앗는 distain",
+ "historyBody": "stain은 14세기 영어 distain(색을 바래게 하다)이 줄어든 말로 보는 것이 일반적이에요. distain은 고대 프랑스어 desteindre(색을 빼다)에서 왔고, 그 뿌리는 라틴어 tingere(물들이다)예요. 고대 노르드어 steina(칠하다)의 영향도 있었다는 의견이 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stainless",
+   "pos": "형용사",
+   "meaning": "얼룩지지 않는, 녹슬지 않는",
+   "en": "We use stainless steel spoons at home.",
+   "ko": "우리 집에서는 스테인리스 숟가락을 써요."
+  },
+  {
+   "word": "tint",
+   "pos": "명사 / 동사",
+   "meaning": "엷은 색 / 색을 넣다",
+   "en": "The windows of the car have a dark tint.",
+   "ko": "그 차의 창문에는 짙은 색이 들어가 있어요."
+  },
+  {
+   "word": "tinge",
+   "pos": "명사",
+   "meaning": "엷은 색조, 기미",
+   "en": "There was a tinge of sadness in her voice.",
+   "ko": "그녀의 목소리에는 슬픔의 기미가 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 하얀 셔츠에 떨어진 커피 얼룩을 보고 깜짝 놀라는 장면",
+ "imageCaption": "새 흰 티셔츠에 짜장면 소스가 툭 떨어진 순간을 떠올려 보세요.",
+ "movieLineEn": "This stain won't come out. It's like my past mistakes.",
+ "movieLineKo": "이 얼룩은 안 지워져. 내 과거의 실수처럼.",
+ "storyTitle": "얼룩 지우기 대작전",
+ "story": "민지는 새 흰 원피스에 케첩 stain(얼룩)을 묻혔어요. 엄마는 stainless(녹슬지 않는) 냄비에 물을 끓이고 세제를 풀었죠. 빨고 나니 원피스에 분홍빛 tint(엷은 색)가 남았어요. 슬픔의 tinge(기미)가 민지 얼굴에 스쳤는데, 친구들이 \"와, 분홍 원피스 예쁘다!\"라고 해서 민지는 일부러 케첩을 또 사러 갔대요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "hot air balloon",
+ "pos": "명사구",
+ "phonetic": "[hɑːt ˈer bəluːn]",
+ "meaning": "열기구",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "hot",
+   "meaning": "뜨거운 (hot)",
+   "note": "공기가 '뜨겁다'는 성질을 알려 줘요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "air",
+   "meaning": "공기 (air)",
+   "note": "풍선 안을 채우는 것이 '공기'임을 보여 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "balloon",
+   "meaning": "풍선 (balloon)",
+   "note": "중심 의미인 '큰 풍선'이에요."
+  }
+ ],
+ "summary": "<strong>hot</strong> (뜨거운) + <strong>air</strong> (공기) + <strong>balloon</strong> (풍선) = '뜨거운 공기로 뜨는 풍선'에서 <strong>'열기구'</strong>",
+ "historyTitle": "1783년 몽골피에 형제의 비행",
+ "historyBody": "1783년 프랑스의 몽골피에(Montgolfier) 형제가 뜨거운 공기를 채운 풍선으로 사람을 태운 최초의 비행을 성공시켰어요. balloon은 이탈리아어 pallone(큰 공)에서 왔고, ball(공)과 관련 있어요. 데워진 공기가 주변 공기보다 가벼워 떠오르는 원리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ballot",
+   "pos": "명사",
+   "meaning": "투표(용지)",
+   "en": "Each student cast a ballot for class president.",
+   "ko": "학생들은 각자 반장 선거에 투표했어."
+  },
+  {
+   "word": "air conditioner",
+   "pos": "명사구",
+   "meaning": "에어컨",
+   "en": "Turn on the air conditioner. It's too hot.",
+   "ko": "에어컨 켜. 너무 더워."
+  },
+  {
+   "word": "airplane",
+   "pos": "명사",
+   "meaning": "비행기",
+   "en": "The airplane landed safely in Jeju.",
+   "ko": "비행기가 제주에 안전하게 착륙했어."
+  },
+  {
+   "word": "float",
+   "pos": "동사",
+   "meaning": "뜨다, 떠다니다",
+   "en": "Clouds floated slowly across the sky.",
+   "ko": "구름이 하늘을 천천히 떠다녔어."
+  },
+  {
+   "word": "hot spring",
+   "pos": "명사구",
+   "meaning": "온천",
+   "en": "We relaxed in a hot spring in Japan.",
+   "ko": "우리는 일본의 온천에서 쉬었어."
+  }
+ ],
+ "imageSense": "대표 의미: 알록달록한 열기구가 새벽 하늘로 떠오르는 장면",
+ "imageCaption": "불꽃이 '화르륵' 커지면 거대한 풍선이 천천히 떠오르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Hold on to the basket! This hot air balloon is going higher!",
+ "movieLineKo": "바구니 꽉 잡아! 열기구가 더 높이 올라가고 있어!",
+ "storyTitle": "열기구 여행의 반전",
+ "story": "카파도키아에서 우리 가족은 hot air balloon(열기구)을 탔어요. 하늘에 float(떠다니다) 하니 airplane(비행기)보다 멋졌죠. 그런데 아빠가 너무 신나 불을 세게 켜는 바람에 기구가 계속 올라갔어요. 결국 착륙한 곳은 hot spring(온천) 한가운데! 덕분에 공짜 온천욕까지 했답니다."
+}

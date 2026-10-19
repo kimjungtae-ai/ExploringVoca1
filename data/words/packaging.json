@@ -1,0 +1,67 @@
+{
+ "word": "packaging",
+ "pos": "명사",
+ "phonetic": "[ˈpækɪdʒɪŋ]",
+ "meaning": "포장, 포장재, 포장 방식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pack",
+   "meaning": "꾸러미, 싸다 (pack)",
+   "note": "중세 네덜란드어나 저지 독일어 pak(꾸러미)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-age",
+   "meaning": "~하는 것, 결과물 (명사)",
+   "note": "package(꾸러미, 포장물)를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "행위나 그 재료를 나타내요."
+  }
+ ],
+ "summary": "<strong>pack</strong> (싸다) + <strong>-age</strong> + <strong>-ing</strong> (~하는 것) = '물건을 싸는 일과 그 재료'라는 뜻에서 <strong>'포장, 포장재'</strong>가 되었어요.",
+ "historyTitle": "상자와 봉지의 시대",
+ "historyBody": "pack은 13세기 무렵 중세 네덜란드어나 저지 독일어 pak(꾸러미)에서 영어로 들어왔는데, 그보다 더 오래된 기원은 확실하지 않아요. package는 16세기에 '짐 싸기'라는 뜻으로 쓰였고, 이후 '포장된 물건'이 되었어요. packaging은 20세기 초 상품 포장 산업이 커지면서 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pack",
+   "pos": "동사 / 명사",
+   "meaning": "싸다, 챙기다 / 꾸러미, 무리",
+   "en": "Did you pack your swimsuit for the trip?",
+   "ko": "여행 갈 때 수영복 챙겼니?"
+  },
+  {
+   "word": "package",
+   "pos": "명사",
+   "meaning": "소포, 포장물, 일괄",
+   "en": "A package arrived for you this morning.",
+   "ko": "오늘 아침에 너한테 소포가 왔어."
+  },
+  {
+   "word": "unpack",
+   "pos": "동사",
+   "meaning": "(짐을) 풀다",
+   "en": "I was too tired to unpack after the trip.",
+   "ko": "여행 후에 너무 피곤해서 짐을 풀 수가 없었어요."
+  },
+  {
+   "word": "backpack",
+   "pos": "명사",
+   "meaning": "배낭",
+   "en": "She carries a heavy backpack to school every day.",
+   "ko": "그녀는 매일 무거운 배낭을 메고 학교에 가요."
+  }
+ ],
+ "imageSense": "대표 의미: 선물 상자를 예쁜 포장지와 리본으로 감싸는 장면",
+ "imageCaption": "내용물을 보호하고 눈길을 끌도록 꼼꼼히 감싼 상자를 떠올려 보세요. 그게 packaging이에요.",
+ "movieLineEn": "Don't judge the gift by its packaging. Open it!",
+ "movieLineKo": "포장만 보고 선물을 판단하지 마. 열어 봐!",
+ "storyTitle": "화려한 포장의 정체",
+ "story": "생일에 친구가 화려한 packaging(포장)의 package(선물 꾸러미)를 줬어요. 두근두근 unpack(풀다)해 보니 또 작은 상자가 있었죠. 몇 번을 풀자 마지막엔 쪽지만 있었어요. '네 backpack(배낭)을 봐!' 열어 보니 내가 갖고 싶던 운동화가 들어 있었어요."
+}

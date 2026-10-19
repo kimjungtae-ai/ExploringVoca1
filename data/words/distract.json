@@ -1,0 +1,68 @@
+{
+ "word": "distract",
+ "pos": "동사",
+ "phonetic": "[dɪˈstrækt]",
+ "meaning": "(주의를) 흐트러뜨리다, 산만하게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "떨어져, 여러 방향으로 (apart)",
+   "note": "여기저기로 갈라지는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tract",
+   "meaning": "끌다 (draw, drag)",
+   "note": "라틴어 trahere(끌다)의 과거분사 tractus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (여러 방향으로) + <strong>tract</strong> (끌다) = '마음을 이리저리 끌어당기다'에서 <strong>'산만하게 하다'</strong>가 되었어요.",
+ "historyTitle": "여러 방향으로 끌려가는 마음",
+ "historyBody": "distract는 라틴어 distrahere(갈라 끌다, 찢어 놓다)의 과거분사 distractus에서 왔어요. 원래는 '찢어 놓다'에 가까웠는데, 마음이 여러 방향으로 끌려가 집중하지 못하는 상태를 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다, 매혹하다",
+   "en": "The festival attracts many tourists every year.",
+   "ko": "그 축제는 매년 많은 관광객을 끌어모아요."
+  },
+  {
+   "word": "extract",
+   "pos": "동사",
+   "meaning": "추출하다, 뽑아내다",
+   "en": "The dentist extracted my bad tooth.",
+   "ko": "치과 의사가 내 썩은 이를 뽑았어요."
+  },
+  {
+   "word": "contract",
+   "pos": "명사",
+   "meaning": "계약",
+   "en": "The player signed a three-year contract.",
+   "ko": "그 선수는 3년 계약을 맺었어요."
+  },
+  {
+   "word": "tractor",
+   "pos": "명사",
+   "meaning": "트랙터",
+   "en": "The farmer drove his tractor across the field.",
+   "ko": "농부가 트랙터를 몰고 들판을 가로질렀어요."
+  },
+  {
+   "word": "abstract",
+   "pos": "형용사",
+   "meaning": "추상적인",
+   "en": "Love is an abstract idea.",
+   "ko": "사랑은 추상적인 개념이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 공부하는데 휴대폰 알림이 계속 울려 시선이 빼앗기는 장면",
+ "imageCaption": "책을 보는데 여기저기서 손이 내 고개를 잡아당기는 모습을 상상해 보세요.",
+ "movieLineEn": "Don't let them distract you. Focus on the target!",
+ "movieLineKo": "저들한테 정신 팔리지 마. 목표에 집중해!",
+ "storyTitle": "집중력 실험",
+ "story": "수진이는 공부할 때 아무것도 자신을 distract(산만하게 하다)할 수 없다고 했어요. 친구가 치킨 냄새로 attract(유혹하다)해도, 재미있는 영상을 틀어도 꿈쩍 안 했죠. 친구는 결국 계약서 contract(계약)까지 썼어요. 반전은 수진이 귀에 이어폰이, 눈엔 안대가!"
+}

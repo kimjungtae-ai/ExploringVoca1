@@ -1,0 +1,74 @@
+{
+ "word": "refreshed",
+ "pos": "형용사",
+ "phonetic": "[rɪˈfreʃt]",
+ "meaning": "상쾌한, 기운을 되찾은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 새롭게 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fresh",
+   "meaning": "신선한 (fresh)",
+   "note": "게르만어 계통의 말로, 프랑스어를 거쳐 들어왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~한 상태의 (형용사)",
+   "note": "사람이 그런 상태가 '된' 것을 나타내요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>fresh</strong> (신선한) + <strong>-ed</strong> (~된) = 다시 신선해진 상태, 즉 <strong>'상쾌한, 기운을 되찾은'</strong>이에요.",
+ "historyTitle": "-ed와 -ing, 누가 상쾌한 걸까?",
+ "historyBody": "refresh는 고대 프랑스어 refreschier(다시 시원하게 하다)에서 왔어요. refreshed처럼 -ed가 붙으면 '사람이 상쾌함을 느끼는' 상태를, refreshing처럼 -ing가 붙으면 '상쾌함을 주는' 대상을 나타내요. 수능 어법에서 자주 나오는 구별이니 꼭 기억해요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refresh",
+   "pos": "동사",
+   "meaning": "상쾌하게 하다, 새로 고치다",
+   "en": "Open the window to refresh the air in the room.",
+   "ko": "방 안 공기를 상쾌하게 하려면 창문을 열어요."
+  },
+  {
+   "word": "fresh",
+   "pos": "형용사",
+   "meaning": "신선한, 새로운",
+   "en": "We need fresh ideas for the school festival.",
+   "ko": "학교 축제를 위해 새로운 아이디어가 필요해요."
+  },
+  {
+   "word": "refreshment",
+   "pos": "명사",
+   "meaning": "다과, 원기 회복",
+   "en": "Light refreshments are available in the lobby.",
+   "ko": "로비에서 가벼운 다과를 드실 수 있어요."
+  },
+  {
+   "word": "freshman",
+   "pos": "명사",
+   "meaning": "신입생",
+   "en": "Every freshman gets a campus map on the first day.",
+   "ko": "모든 신입생은 첫날 캠퍼스 지도를 받아요."
+  },
+  {
+   "word": "refreshing",
+   "pos": "형용사",
+   "meaning": "상쾌하게 하는",
+   "en": "The cool breeze was really refreshing.",
+   "ko": "시원한 바람이 정말 상쾌했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 푹 자고 일어나 기지개를 켜는 학생",
+ "imageCaption": "알람 없이 푹 자고 일어나 창문을 열고 '아~ 개운해!' 하며 기지개를 켜는 모습을 그려 보세요. 그 개운한 내가 refreshed예요.",
+ "movieLineEn": "I feel so refreshed after that swim!",
+ "movieLineKo": "수영하고 나니까 정말 개운해!",
+ "storyTitle": "주말의 기적",
+ "story": "토요일에 12시간을 잔 준호는 완전히 refreshed(상쾌한) 기분이었어요. refreshing(상쾌하게 하는) 주스를 마시고 fresh(새로운) 마음으로 공부를 시작했죠. 책을 펴며 기운이 refresh(새로워지다)되는 걸 느꼈어요. 그런데 달력을 보니 토요일이 아니라 시험이 끝난 월요일 오후였답니다."
+}

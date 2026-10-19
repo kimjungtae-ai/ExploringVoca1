@@ -1,0 +1,48 @@
+{
+ "word": "wagon",
+ "pos": "명사",
+ "phonetic": "[ˈwæɡən]",
+ "meaning": "짐마차, 화물차, 수레",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "wagon (← 네덜란드어 wagen)",
+   "meaning": "수레, 탈것 (cart)",
+   "note": "네덜란드어 wagen에서 왔고, '나르다, 움직이다'를 뜻하는 아주 오래된 뿌리와 연결돼요."
+  }
+ ],
+ "summary": "네덜란드어 <strong>wagen</strong> (수레)이 그대로 들어와 <strong>'짐마차, 수레'</strong>가 되었어요.",
+ "historyTitle": "네덜란드에서 온 수레",
+ "historyBody": "wagon은 16세기에 네덜란드어 wagen(수레)에서 영어로 들어왔어요. 이 말은 '나르다, 움직이다'를 뜻하는 인도유럽어 뿌리 *wegh-에서 왔는데, 영어 way, weigh와 라틴어에서 온 vehicle도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "way",
+   "pos": "명사",
+   "meaning": "길, 방법",
+   "en": "Is this the right way to the station?",
+   "ko": "이게 역으로 가는 맞는 길인가요?"
+  },
+  {
+   "word": "weigh",
+   "pos": "동사",
+   "meaning": "무게가 ~이다, 무게를 달다",
+   "en": "The baby weighs about four kilograms.",
+   "ko": "그 아기는 무게가 약 4킬로그램이에요."
+  },
+  {
+   "word": "vehicle",
+   "pos": "명사",
+   "meaning": "차량, 탈것",
+   "en": "Electric vehicles are becoming more popular.",
+   "ko": "전기차가 점점 인기를 얻고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 말이 끄는 나무 짐마차가 흙길을 달리는 장면",
+ "imageCaption": "서부 영화에서 말이 끄는 큰 짐마차가 먼지를 일으키며 달리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Load the wagon! We leave at sunrise!",
+ "movieLineKo": "마차에 짐 실어! 해 뜨면 출발한다!",
+ "storyTitle": "마차 여행의 결말",
+ "story": "카우보이 톰은 wagon(짐마차)에 짐을 가득 실었어요. 너무 무거워 짐이 몇 킬로그램이나 weigh(무게가 ~이다)하는지 재 보니 1톤! 그래도 새로운 way(길)를 찾아 떠났죠. 3일 뒤 도착한 곳은... 출발지였어요. 말이 집으로 가는 vehicle(탈것) 역할만 충실히 했거든요."
+}

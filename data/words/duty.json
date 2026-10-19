@@ -1,0 +1,61 @@
+{
+ "word": "duty",
+ "pos": "명사",
+ "phonetic": "[ˈduːti]",
+ "meaning": "의무, 책임, 직무, 임무 / 관세, 세금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "du(e)",
+   "meaning": "빚지다, 마땅히 해야 할 (owe)",
+   "note": "라틴어 debere(빚지다)가 고대 프랑스어 deu(빚진)로 변한 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ty",
+   "meaning": "~것, 상태 (명사형)",
+   "note": "명사를 만드는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>due</strong> (마땅히 갚아야 할) + <strong>-ty</strong> (~것) = '마땅히 갚아야 할 것'이라는 뜻에서 <strong>'의무, 관세'</strong>가 되었어요.",
+ "historyTitle": "빚진 것을 갚는 일",
+ "historyBody": "duty는 앵글로·프랑스어 duete(마땅히 해야 할 것)에서 왔고, 그 뿌리는 라틴어 debere(빚지다)예요. 처음에는 '윗사람에게 바쳐야 할 것'이었다가, '해야 할 일'과 '나라에 내는 세금(관세)'이라는 뜻이 생겼어요. 그래서 공항 면세점을 duty-free shop이라고 부른답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "due",
+   "pos": "형용사",
+   "meaning": "~하기로 되어 있는, 마땅한, 기한인",
+   "en": "The report is due next Friday.",
+   "ko": "보고서는 다음 주 금요일까지예요."
+  },
+  {
+   "word": "debt",
+   "pos": "명사",
+   "meaning": "빚, 부채",
+   "en": "He worked hard to pay off his debt.",
+   "ko": "그는 빚을 갚으려고 열심히 일했어요."
+  },
+  {
+   "word": "dutiful",
+   "pos": "형용사",
+   "meaning": "충실한, 본분을 다하는",
+   "en": "She is a dutiful daughter who visits her parents often.",
+   "ko": "그녀는 부모님을 자주 찾아뵙는 효성스러운 딸이에요."
+  },
+  {
+   "word": "duty-free",
+   "pos": "형용사",
+   "meaning": "면세의",
+   "en": "We bought some duty-free chocolate at the airport.",
+   "ko": "우리는 공항에서 면세 초콜릿을 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 제복을 입은 소방관이 사이렌 소리에 뛰어나가는 장면",
+ "imageCaption": "편히 쉬다가도 벨이 울리면 '내 할 일'이라며 출동하는 소방관을 떠올려 보세요.",
+ "movieLineEn": "I'm not a hero. I was just doing my duty.",
+ "movieLineKo": "난 영웅이 아니야. 내 의무를 다했을 뿐이지.",
+ "storyTitle": "주번의 무거운 임무",
+ "story": "오늘은 내가 주번이에요. 칠판 지우기가 나의 duty(의무)죠. 숙제는 내일이 due(기한인)인데, 친구에게 지우개를 빌려서 debt(빚)까지 생겼어요. 그래도 dutiful(충실한) 주번답게 칠판을 반짝반짝 닦았죠. 그런데 선생님이 들어와서 외쳤어요. \"누가 내 시험 문제 지웠어?!\""
+}

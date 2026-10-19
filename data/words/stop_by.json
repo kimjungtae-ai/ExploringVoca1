@@ -1,0 +1,68 @@
+{
+ "word": "stop by",
+ "pos": "구동사",
+ "phonetic": "[stɑːp baɪ]",
+ "meaning": "잠깐 들르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stop",
+   "meaning": "멈추다 (stop)",
+   "note": "가던 길을 잠시 멈춘다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "by",
+   "meaning": "~ 옆에, 곁을 지나 (by)",
+   "note": "어떤 곳 '옆으로' 지나가다 들르는 이미지예요."
+  }
+ ],
+ "summary": "<strong>stop</strong> (멈추다) + <strong>by</strong> (~ 곁에) = '지나가다 곁에 잠깐 멈추다'에서 <strong>'잠깐 들르다'</strong>",
+ "historyTitle": "구멍을 막던 stop",
+ "historyBody": "stop은 고대 영어 -stoppian에서 왔는데, 라틴어 stuppa(삼 부스러기)와 관련이 있어 원래 '틈을 메워 막다'라는 뜻이었어요. 막는다는 뜻에서 '멈추다'라는 뜻이 나왔어요. stop by는 가던 길에 잠깐 멈춰 들른다는 뜻으로 주로 미국 영어에서 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "drop by",
+   "pos": "구동사",
+   "meaning": "잠깐 들르다",
+   "en": "Feel free to drop by my office anytime.",
+   "ko": "언제든 제 사무실에 편하게 들르세요."
+  },
+  {
+   "word": "drop in",
+   "pos": "구동사",
+   "meaning": "불쑥 들르다",
+   "en": "My aunt dropped in for a cup of tea.",
+   "ko": "이모가 차 한 잔 하러 불쑥 들르셨어요."
+  },
+  {
+   "word": "come by",
+   "pos": "구동사",
+   "meaning": "들르다, 얻다",
+   "en": "Could you come by after school?",
+   "ko": "방과 후에 잠깐 들를 수 있니?"
+  },
+  {
+   "word": "stop over",
+   "pos": "구동사",
+   "meaning": "(여행 중) 잠시 머물다",
+   "en": "We stopped over in Tokyo on our way to Hawaii.",
+   "ko": "하와이 가는 길에 도쿄에 잠시 머물렀어요."
+  },
+  {
+   "word": "pass by",
+   "pos": "구동사",
+   "meaning": "옆을 지나가다",
+   "en": "I pass by the bakery every morning.",
+   "ko": "나는 매일 아침 그 빵집 옆을 지나가요."
+  }
+ ],
+ "imageSense": "대표 의미: 집에 가는 길에 편의점에 잠깐 들르는 장면",
+ "imageCaption": "가던 길 옆에 잠깐 멈춰 문을 열고 들어가는 모습을 그려 보세요.",
+ "movieLineEn": "Stop by my place tonight. I made too much pizza.",
+ "movieLineKo": "오늘 밤 우리 집에 잠깐 들러. 피자를 너무 많이 만들었어.",
+ "storyTitle": "5분만 들른다더니",
+ "story": "삼촌이 \"근처에 왔으니 잠깐 stop by(들르다)할게!\"라고 했어요. 그냥 pass by(지나가다)할 줄 알았는데 진짜 drop in(불쑥 들르다)했죠. 5분만 있겠다더니 저녁을 먹고, 게임을 하고, 결국 하룻밤 stop over(잠시 머물다)했어요. 다음 날 아침 삼촌이 말했어요. \"내일 또 들를게!\""
+}

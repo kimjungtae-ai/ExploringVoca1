@@ -1,0 +1,68 @@
+{
+ "word": "medication",
+ "pos": "명사",
+ "phonetic": "[ˌmedɪˈkeɪʃn]",
+ "meaning": "약, 약물, 약물 치료",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "medic",
+   "meaning": "치료하다, 의사 (heal, physician)",
+   "note": "라틴어 medicus(의사), medicari(치료하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>medic</strong> (치료하다) + <strong>-ation</strong> (것) = '치료하는 것'이라는 뜻에서 <strong>'약, 약물 치료'</strong>가 되었어요.",
+ "historyTitle": "로마의 의사 medicus",
+ "historyBody": "라틴어 medicus는 '의사', medicari는 '치료하다'라는 뜻이었어요. 여기서 medicatio(치료)가 나와 15세기에 영어 medication이 되었죠. 오늘날 medication은 주로 의사가 처방한 '약'을 가리킬 때 많이 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "medicine",
+   "pos": "명사",
+   "meaning": "약, 의학",
+   "en": "Take this medicine three times a day after meals.",
+   "ko": "이 약은 하루 세 번 식후에 드세요."
+  },
+  {
+   "word": "medical",
+   "pos": "형용사",
+   "meaning": "의학의, 의료의",
+   "en": "She wants to go to medical school in the future.",
+   "ko": "그녀는 나중에 의대에 가고 싶어 해요."
+  },
+  {
+   "word": "medicinal",
+   "pos": "형용사",
+   "meaning": "약용의, 약효가 있는",
+   "en": "Ginger has medicinal uses for colds.",
+   "ko": "생강은 감기에 쓰이는 약효가 있어요."
+  },
+  {
+   "word": "remedy",
+   "pos": "명사",
+   "meaning": "치료법, 해결책",
+   "en": "Hot tea with honey is a good remedy for a sore throat.",
+   "ko": "꿀을 넣은 따뜻한 차는 목 아플 때 좋은 치료법이에요."
+  },
+  {
+   "word": "medic",
+   "pos": "명사",
+   "meaning": "의무병, 의료인",
+   "en": "The medic ran to help the injured player.",
+   "ko": "의료진이 다친 선수를 도우러 달려갔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 약국에서 약사가 약 봉투를 건네며 복용법을 설명하는 장면",
+ "imageCaption": "'아침, 점심, 저녁' 칸이 나뉜 약 봉투를 떠올리세요. 그게 medication이에요.",
+ "movieLineEn": "Did you take your medication this morning?",
+ "movieLineKo": "오늘 아침에 약 먹었어?",
+ "storyTitle": "할머니의 비밀 처방",
+ "story": "감기에 걸리자 엄마는 병원 medication(약)을 주셨어요. 그런데 할머니는 medical(의학의) 지식보다 생강차가 최고의 remedy(치료법)라고 하셨죠. 생강은 medicinal(약효가 있는) 식물이라나요. 엄마와 할머니는 medicine(약) 대결을 벌였어요. 결국 저는 둘 다 먹었고, 감기는 하루 만에 나았답니다. 누구 덕분인지는 아직도 비밀이에요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "appearance",
+ "pos": "명사",
+ "phonetic": "[əˈpɪrəns]",
+ "meaning": "외모, 겉모습, 출현, 나타남",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~쪽으로 (to)",
+   "note": "뒤에 오는 p에 맞춰 ad-가 ap-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pear (parere)",
+   "meaning": "보이다, 나타나다 (come into view)",
+   "note": "눈앞에 모습이 드러난다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작이나 상태를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~쪽으로) + <strong>pear</strong> (나타나다) + <strong>-ance</strong> (명사) = '눈앞에 나타나 보이는 것'에서 <strong>'외모, 출현'</strong>이 되었어요.",
+ "historyTitle": "눈앞에 '짠' 하고 나타나는 말",
+ "historyBody": "라틴어 'apparere(나타나다, 보이다)'는 ad-(~쪽으로)와 'parere(보이다)'가 합쳐진 말이에요. 이 말이 고대 프랑스어 'aparoir'를 거쳐 중세 영어 'appear'가 되었어요. 여기에 명사 어미 -ance가 붙어 '나타남, 겉모습'이라는 뜻의 appearance가 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appear",
+   "pos": "동사",
+   "meaning": "나타나다, ~처럼 보이다",
+   "en": "A rainbow appeared in the sky after the rain.",
+   "ko": "비가 그친 뒤 하늘에 무지개가 나타났어요."
+  },
+  {
+   "word": "disappear",
+   "pos": "동사",
+   "meaning": "사라지다",
+   "en": "My cat disappeared under the bed when the guests arrived.",
+   "ko": "손님들이 오자 우리 고양이가 침대 밑으로 사라졌어요."
+  },
+  {
+   "word": "apparent",
+   "pos": "형용사",
+   "meaning": "분명한, 명백한, 외견상의",
+   "en": "It was apparent that he had not slept well.",
+   "ko": "그가 잠을 잘 못 잤다는 게 분명했어요."
+  },
+  {
+   "word": "apparently",
+   "pos": "부사",
+   "meaning": "보아하니, 듣자 하니",
+   "en": "Apparently, the store is closed on Mondays.",
+   "ko": "듣자 하니 그 가게는 월요일마다 문을 닫는대요."
+  },
+  {
+   "word": "transparent",
+   "pos": "형용사",
+   "meaning": "투명한, 명료한",
+   "en": "The water in the lake was clear and transparent.",
+   "ko": "호수의 물은 맑고 투명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울 앞에서 옷매무새를 다듬는 사람의 겉모습",
+ "imageCaption": "무대 커튼이 열리며 배우가 '짠' 하고 모습을 드러내는 순간을 떠올려 보세요. '눈에 보이는 모습'이 바로 appearance예요.",
+ "movieLineEn": "Don't judge a man by his appearance, kid.",
+ "movieLineKo": "얘야, 겉모습으로 사람을 판단하지 마.",
+ "storyTitle": "투명 망토를 산 마술사",
+ "story": "마술사는 무대에 appear(나타나다)하자마자 투명 망토로 disappear(사라지다)하는 마술을 준비했어요. 그런데 망토가 너무 transparent(투명한)해서 관객들 눈에 그의 appearance(외모)가 다 보였죠. apparently(보아하니) 산 건 망토가 아니라 비닐 우비였대요!"
+}

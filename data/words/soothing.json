@@ -1,0 +1,54 @@
+{
+ "word": "soothing",
+ "pos": "형용사",
+ "phonetic": "[ˈsuːðɪŋ]",
+ "meaning": "달래는, 진정시키는, 마음을 편안하게 하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "soothe",
+   "meaning": "달래다, 진정시키다 (calm)",
+   "note": "고대 영어 sōþian(진실임을 증명하다)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 (형용사)",
+   "note": "'달래 주는'이라는 형용사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>soothe</strong> (달래다) + <strong>-ing</strong> (~하는) = <strong>'마음을 달래 주는, 진정시키는'</strong>입니다.",
+ "historyTitle": "'진실'에서 '위로'로 바뀐 단어",
+ "historyBody": "soothe는 고대 영어 sōþ(진실)에서 나온 sōþian(진실임을 증명하다)에서 왔어요. 상대의 말이 맞다고 맞장구쳐 주다 보니 '기분을 맞춰 주다, 달래다'라는 뜻으로 변했답니다. 옛 영어 forsooth(참으로)에도 같은 sooth(진실)가 남아 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "soothe",
+   "pos": "동사",
+   "meaning": "달래다, 진정시키다",
+   "en": "The mother sang softly to soothe her crying baby.",
+   "ko": "엄마는 우는 아기를 달래려고 부드럽게 노래를 불렀어요."
+  },
+  {
+   "word": "soothingly",
+   "pos": "부사",
+   "meaning": "달래듯이, 부드럽게",
+   "en": "The nurse spoke soothingly to the nervous patient.",
+   "ko": "간호사는 긴장한 환자에게 달래듯이 말했어요."
+  },
+  {
+   "word": "soother",
+   "pos": "명사",
+   "meaning": "달래 주는 것, (아기) 공갈젖꼭지",
+   "en": "Warm tea is a great soother for a sore throat.",
+   "ko": "따뜻한 차는 아픈 목을 달래는 데 아주 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 잔잔한 음악과 따뜻한 차로 마음이 차분해지는 장면",
+ "imageCaption": "비 오는 밤, 잔잔한 피아노 소리에 긴장이 스르르 풀리는 느낌을 떠올려 보세요.",
+ "movieLineEn": "Your voice is so soothing. Keep talking, I'm almost asleep.",
+ "movieLineKo": "네 목소리 정말 편안하다. 계속 말해 줘, 거의 잠들었어.",
+ "storyTitle": "자장가 로봇의 반전",
+ "story": "아기 곰이 울자 로봇이 soothing(달래 주는) 노래를 틀었어요. 로봇은 soothingly(부드럽게) 흔들며 아기를 soothe(달래다)하려 했죠. 엄마 곰은 \"최고의 soother(달래 주는 것)네!\"라고 감탄했어요. 그런데 아기는 금방 잠들고, 노래에 취한 엄마 곰과 아빠 곰까지 코를 골았어요. 결국 혼자 깬 건 로봇뿐이었대요!"
+}

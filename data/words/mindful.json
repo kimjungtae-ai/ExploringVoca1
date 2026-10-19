@@ -1,0 +1,68 @@
+{
+ "word": "mindful",
+ "pos": "형용사",
+ "phonetic": "[ˈmaɪndfəl]",
+ "meaning": "마음에 두는, 유념하는, 의식하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mind",
+   "meaning": "마음, 정신 (mind)",
+   "note": "생각하고 느끼는 마음을 뜻해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ful",
+   "meaning": "~로 가득한 (full of)",
+   "note": "'가득 찬'이라는 뜻을 더해 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>mind</strong> (마음) + <strong>-ful</strong> (가득한) = 마음이 가득 담긴 상태라서 <strong>'유념하는, 의식하는'</strong>이 되었어요.",
+ "historyTitle": "기억을 뜻하던 고대 영어 gemynd",
+ "historyBody": "mind는 고대 영어 'gemynd(기억, 생각)'에서 왔어요. 그래서 원래 mindful은 '잊지 않고 기억하는'이라는 뜻이었답니다. 요즘은 명상 문화와 함께 '지금 이 순간을 의식하는'이라는 의미로 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mind",
+   "pos": "명사 / 동사",
+   "meaning": "마음, 정신 / 신경 쓰다, 꺼리다",
+   "en": "Do you mind if I open the window?",
+   "ko": "창문을 열어도 괜찮을까요?"
+  },
+  {
+   "word": "mindfulness",
+   "pos": "명사",
+   "meaning": "마음 챙김, 주의 깊음",
+   "en": "Mindfulness can help students reduce stress before exams.",
+   "ko": "마음 챙김은 학생들이 시험 전 스트레스를 줄이는 데 도움이 될 수 있어요."
+  },
+  {
+   "word": "mindset",
+   "pos": "명사",
+   "meaning": "사고방식, 마음가짐",
+   "en": "A positive mindset makes hard tasks feel easier.",
+   "ko": "긍정적인 마음가짐은 어려운 일을 더 쉽게 느끼게 해요."
+  },
+  {
+   "word": "remind",
+   "pos": "동사",
+   "meaning": "상기시키다, 생각나게 하다",
+   "en": "Please remind me to call my grandmother tonight.",
+   "ko": "오늘 밤 할머니께 전화하라고 나에게 상기시켜 줘."
+  },
+  {
+   "word": "reminder",
+   "pos": "명사",
+   "meaning": "상기시키는 것, 알림",
+   "en": "My phone sent me a reminder about the meeting.",
+   "ko": "휴대폰이 회의에 대한 알림을 보내 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 조용히 숨을 고르며 지금 이 순간에 집중하는 모습",
+ "imageCaption": "눈을 감고 천천히 숨 쉬며 주변 소리와 내 감정을 하나하나 느끼는 학생을 떠올려 보세요.",
+ "movieLineEn": "Be mindful of your words. They can hurt people.",
+ "movieLineKo": "말을 조심해. 말은 사람에게 상처를 줄 수 있어.",
+ "storyTitle": "명상하는 고양이",
+ "story": "고양이 나비는 mindfulness(마음 챙김) 수업을 들었어요. 선생님이 \"지금 이 순간에 mindful(의식하는)하세요\"라고 하자, 나비는 생선 냄새에만 집중했죠. 알람이 reminder(알림)를 울려도 꿈쩍 않던 나비, 결국 마음이 아니라 mind(마음)속 냉장고를 열고 말았답니다!"
+}

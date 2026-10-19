@@ -1,0 +1,68 @@
+{
+ "word": "renew",
+ "pos": "동사",
+ "phonetic": "[rɪˈnuː]",
+ "meaning": "갱신하다, 연장하다, 새롭게 하다, 재개하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "new",
+   "meaning": "새로운 (new)",
+   "note": "고대 영어 niwe에서 온, 아주 오래된 영어 단어예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>new</strong> (새로운) = '다시 새롭게 만들다'에서 <strong>'갱신하다, 연장하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 접두사와 영어 토박이 단어의 만남",
+ "historyBody": "renew는 라틴어에서 온 접두사 re-와 고대 영어 niwe(새로운)에서 온 new가 합쳐진 '혼종어'예요. 14세기 무렵부터 쓰였는데, 이는 라틴어 renovare(새롭게 하다)를 본떠 만든 것으로 보여요. 그래서 renew와 renovate는 뜻이 비슷한 사촌 같은 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "new",
+   "pos": "형용사",
+   "meaning": "새로운",
+   "en": "She bought a new bike for her birthday.",
+   "ko": "그녀는 생일에 새 자전거를 샀어요."
+  },
+  {
+   "word": "renewal",
+   "pos": "명사",
+   "meaning": "갱신, 재개",
+   "en": "The renewal of my passport took two weeks.",
+   "ko": "내 여권 갱신은 2주가 걸렸어요."
+  },
+  {
+   "word": "renewable",
+   "pos": "형용사",
+   "meaning": "재생 가능한, 갱신 가능한",
+   "en": "Solar power is a clean, renewable source of energy.",
+   "ko": "태양광은 깨끗하고 재생 가능한 에너지원이에요."
+  },
+  {
+   "word": "news",
+   "pos": "명사",
+   "meaning": "소식, 뉴스",
+   "en": "I heard the good news from my friend.",
+   "ko": "나는 친구에게서 좋은 소식을 들었어요."
+  },
+  {
+   "word": "newly",
+   "pos": "부사",
+   "meaning": "새로, 최근에",
+   "en": "The newly opened library is full of students.",
+   "ko": "새로 문을 연 도서관이 학생들로 가득해요."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 카드의 만료일을 연장하는 장면",
+ "imageCaption": "오래된 회원 카드에 새 날짜 도장을 '쾅' 찍어 다시 새것처럼 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "I need to renew my library card before it expires.",
+ "movieLineKo": "카드가 만료되기 전에 도서관 카드를 갱신해야 해.",
+ "storyTitle": "도서관 카드의 반전",
+ "story": "민수는 도서관 카드를 renew(갱신하다)하러 갔어요. 사서 선생님이 good news(소식)를 전했죠. \"renewal(갱신) 기념으로 new(새로운) 카드를 드려요!\" 신난 민수가 카드를 받아 보니, 사진 칸에는 민수 대신 졸고 있는 사서 선생님 얼굴이 인쇄되어 있었답니다."
+}

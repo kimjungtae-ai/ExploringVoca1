@@ -1,0 +1,68 @@
+{
+ "word": "workout equipment",
+ "pos": "명사구",
+ "phonetic": "[ˈwɜːrkaʊt ɪˈkwɪpmənt]",
+ "meaning": "운동 기구, 운동 장비",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "workout",
+   "meaning": "운동 (workout)",
+   "note": "어떤 용도의 장비인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "equipment",
+   "meaning": "장비, 기구 (equipment)",
+   "note": "어떤 일에 필요한 도구들을 통틀어 말해요."
+  }
+ ],
+ "summary": "<strong>workout</strong> (운동) + <strong>equipment</strong> (장비) = '운동할 때 쓰는 장비'에서 <strong>'운동 기구'</strong>",
+ "historyTitle": "배를 꾸리던 equip?",
+ "historyBody": "equipment는 동사 equip에서 왔고, equip은 프랑스어 équiper(갖추다)에서 왔어요. 이 말은 고대 프랑스어 esquiper(배에 짐을 싣고 출항 준비를 하다)에서 왔으며, 고대 노르드어 skipa(배를 갖추다)와 관련 있다고 보는 설명이 많지만 확실하지는 않아요. workout은 동사구 work out에서 나온 명사예요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "equip",
+   "pos": "동사",
+   "meaning": "갖추게 하다",
+   "en": "The classroom is equipped with a projector.",
+   "ko": "교실에는 프로젝터가 갖춰져 있어요."
+  },
+  {
+   "word": "equipment",
+   "pos": "명사",
+   "meaning": "장비 (셀 수 없는 명사)",
+   "en": "The camping equipment was heavy to carry.",
+   "ko": "캠핑 장비는 들고 다니기 무거웠어요."
+  },
+  {
+   "word": "treadmill",
+   "pos": "명사",
+   "meaning": "러닝머신",
+   "en": "I run on the treadmill when it rains.",
+   "ko": "비가 오면 나는 러닝머신에서 달려요."
+  },
+  {
+   "word": "gym",
+   "pos": "명사",
+   "meaning": "체육관, 헬스장",
+   "en": "The new gym opens at six in the morning.",
+   "ko": "새 헬스장은 아침 6시에 문을 열어요."
+  },
+  {
+   "word": "device",
+   "pos": "명사",
+   "meaning": "장치, 기기",
+   "en": "This device measures your heart rate.",
+   "ko": "이 기기는 심박수를 측정해요."
+  }
+ ],
+ "imageSense": "대표 의미: 헬스장에 러닝머신과 덤벨 같은 운동 기구가 늘어선 장면",
+ "imageCaption": "줄지어 선 러닝머신과 반짝이는 덤벨 선반을 떠올려 보세요.",
+ "movieLineEn": "I bought all this workout equipment, and now it holds my laundry.",
+ "movieLineKo": "이 운동 기구를 다 샀는데, 지금은 빨래 걸이가 됐어.",
+ "storyTitle": "최고의 빨래 건조대",
+ "story": "엄마는 홈쇼핑에서 비싼 workout equipment(운동 기구)를 샀어요. 거실이 작은 gym(체육관)처럼 equip(갖추다)되었죠. 첫 주엔 매일 treadmill(러닝머신)을 달렸어요. 한 달 뒤, 러닝머신은 집에서 가장 쓸모 있는 device(기기)가 됐어요. 바로 빨래 건조대로요!"
+}

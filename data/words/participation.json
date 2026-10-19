@@ -1,0 +1,87 @@
+{
+ "word": "participation",
+ "pos": "명사",
+ "phonetic": "[pɑːrˌtɪsɪˈpeɪʃn]",
+ "meaning": "참여, 참가",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "parti- (pars)",
+   "meaning": "부분 (part)",
+   "note": "라틴어 pars, partis(부분, 몫)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cip (capere)",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "라틴어 capere(잡다)가 단어 속에서 cip으로 모양이 바뀌었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>parti</strong> (부분) + <strong>cip</strong> (취하다) + <strong>-ation</strong> (~하는 것) = '한 몫을 취하는 것'이라는 뜻에서 <strong>'참여'</strong>가 되었어요.",
+ "historyTitle": "'몫을 나눠 갖는 사람'에서 온 말",
+ "historyBody": "라틴어 particeps는 pars(부분, 몫)와 capere(취하다)가 합쳐져 '몫을 취하는 사람'이라는 뜻이었어요. 여기서 동사 participare(참여하다)가 나왔고, 15세기 무렵 영어에 들어왔어요. participation은 라틴어 participatio에서 왔고, 14세기 후반부터 영어에 쓰였어요. 수능 지문에서는 '시민 참여', '수업 참여' 같은 맥락에서 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "participate",
+   "pos": "동사",
+   "meaning": "참여하다",
+   "en": "All students are encouraged to participate in the debate.",
+   "ko": "모든 학생이 토론에 참여하도록 권장돼요."
+  },
+  {
+   "word": "participant",
+   "pos": "명사",
+   "meaning": "참가자",
+   "en": "Each participant received a free T-shirt.",
+   "ko": "참가자마다 무료 티셔츠를 받았어요."
+  },
+  {
+   "word": "part",
+   "pos": "명사",
+   "meaning": "부분, 역할",
+   "en": "She played an important part in the project.",
+   "ko": "그녀는 그 프로젝트에서 중요한 역할을 했어요."
+  },
+  {
+   "word": "partial",
+   "pos": "형용사",
+   "meaning": "부분적인, 편파적인",
+   "en": "The plan was only a partial success.",
+   "ko": "그 계획은 부분적으로만 성공했어요."
+  },
+  {
+   "word": "particle",
+   "pos": "명사",
+   "meaning": "입자, 작은 조각",
+   "en": "Tiny particles of dust floated in the sunlight.",
+   "ko": "작은 먼지 입자들이 햇빛 속에 떠다녔어요."
+  },
+  {
+   "word": "portion",
+   "pos": "명사",
+   "meaning": "부분, 몫, 1인분",
+   "en": "A large portion of the budget was spent on books.",
+   "ko": "예산의 큰 부분이 책 구입에 쓰였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교실에서 학생들이 너도나도 손을 번쩍 드는 장면",
+ "imageCaption": "선생님 질문에 모두가 손을 드는 활기찬 교실을 떠올려 보세요. 각자 한 몫을 하는 것, 그게 participation이에요.",
+ "movieLineEn": "Your participation is not optional. Everyone fights tonight.",
+ "movieLineKo": "너희의 참여는 선택이 아니야. 오늘 밤엔 모두 싸운다.",
+ "storyTitle": "참여 점수의 비밀",
+ "story": "선생님이 수업 participation(참여) 점수를 준다고 하셨어요. 모두가 participate(참여하다)하려고 손을 들었죠. 아주 작은 particle(입자) 같은 질문에도요. 그런데 한 participant(참가자)가 질문했어요. '점심 메뉴 뭐예요?' 그 친구가 만점을 받았어요. 모두가 궁금했던 질문이었거든요!"
+}

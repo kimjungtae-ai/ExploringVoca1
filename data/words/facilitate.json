@@ -1,0 +1,61 @@
+{
+ "word": "facilitate",
+ "pos": "동사",
+ "phonetic": "[fəˈsɪlɪteɪt]",
+ "meaning": "용이하게 하다, 촉진하다, 돕다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "facil",
+   "meaning": "쉬운 (easy)",
+   "note": "라틴어 facilis(하기 쉬운)에서 왔어요. facilis는 facere(하다)와 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "형용사나 명사를 '그렇게 만들다'라는 동사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>facil</strong> (쉬운) + <strong>-ate</strong> (~하게 하다) = '쉽게 만들다'라는 뜻에서 <strong>'용이하게 하다, 촉진하다'</strong>가 되었어요.",
+ "historyTitle": "하기 쉬운 것, 라틴어 facilis",
+ "historyBody": "라틴어 facilis는 '하기 쉬운'이라는 뜻으로, facere(하다, 만들다)에서 나온 말이에요. 이것이 프랑스어 faciliter(쉽게 하다)를 거쳐 17세기에 영어 facilitate가 되었어요. 반대로 dis-(아님)가 붙으면 difficult(어려운)가 된답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "facility",
+   "pos": "명사",
+   "meaning": "시설, 편의, 재능",
+   "en": "The school built a new sports facility for students.",
+   "ko": "학교는 학생들을 위해 새 체육 시설을 지었어요."
+  },
+  {
+   "word": "facilitator",
+   "pos": "명사",
+   "meaning": "진행자, 촉진자",
+   "en": "The facilitator helped everyone share their ideas.",
+   "ko": "진행자는 모두가 생각을 나누도록 도왔어요."
+  },
+  {
+   "word": "difficult",
+   "pos": "형용사",
+   "meaning": "어려운",
+   "en": "The last question on the test was really difficult.",
+   "ko": "시험의 마지막 문제는 정말 어려웠어요."
+  },
+  {
+   "word": "difficulty",
+   "pos": "명사",
+   "meaning": "어려움, 곤란",
+   "en": "He had difficulty sleeping before the big exam.",
+   "ko": "그는 큰 시험을 앞두고 잠들기 힘들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무거운 짐을 옮기도록 경사로와 바퀴를 놓아 주는 장면",
+ "imageCaption": "계단 옆에 경사로를 깔아 주면 이동이 쉬워지죠. 이렇게 '쉽게 만들어 주는' 것이 facilitate예요.",
+ "movieLineEn": "My job is to facilitate the mission, not to complete it for you.",
+ "movieLineKo": "내 일은 임무를 수월하게 돕는 거지, 대신 해 주는 게 아니야.",
+ "storyTitle": "너무 쉬운 조별 과제",
+ "story": "조별 과제가 너무 difficult(어려운) 하다는 말에 반장이 facilitator(진행자)를 자처했어요. 반장은 토론을 facilitate(촉진하다)하려고 학교 회의 facility(시설)까지 빌렸죠. 덕분에 아무 difficulty(어려움) 없이 과제가 끝났어요. 그런데 발표 날 알고 보니 반장 혼자 다 써 왔더라고요!"
+}

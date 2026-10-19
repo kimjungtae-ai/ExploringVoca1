@@ -1,0 +1,61 @@
+{
+ "word": "imitate",
+ "pos": "동사",
+ "phonetic": "[ˈɪmɪteɪt]",
+ "meaning": "모방하다, 흉내 내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "imit",
+   "meaning": "본뜨다, 따라 하다 (copy)",
+   "note": "라틴어 imitari(본뜨다)에서 왔어요. image의 라틴어 imago와 관련 있다고 봐요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사형)",
+   "note": "라틴어 과거분사 꼬리 -atus에서 온 동사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>imit</strong> (본뜨다) + <strong>-ate</strong> (~하다) = '본떠서 똑같이 하다'라는 뜻에서 <strong>'모방하다, 흉내 내다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 imitari, 따라 그리기",
+ "historyBody": "imitate는 라틴어 imitari(본뜨다, 따라 하다)에서 16세기에 영어로 들어왔어요. imitari는 '닮은 모습'을 뜻하는 imago(이미지)와 같은 뿌리로 여겨져요. 그래서 imitation과 image는 '닮은 모습'이라는 공통점이 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "imitation",
+   "pos": "명사",
+   "meaning": "모방, 모조품",
+   "en": "This bag is a cheap imitation of a famous brand.",
+   "ko": "이 가방은 유명 브랜드의 값싼 모조품이에요."
+  },
+  {
+   "word": "imitator",
+   "pos": "명사",
+   "meaning": "모방자, 흉내 내는 사람",
+   "en": "He is a great imitator of animal sounds.",
+   "ko": "그는 동물 소리를 아주 잘 흉내 내는 사람이에요."
+  },
+  {
+   "word": "image",
+   "pos": "명사",
+   "meaning": "이미지, 모습",
+   "en": "The image of the sunset stayed in my mind.",
+   "ko": "노을의 모습이 계속 내 머릿속에 남았어요."
+  },
+  {
+   "word": "imagine",
+   "pos": "동사",
+   "meaning": "상상하다",
+   "en": "Imagine a world without smartphones.",
+   "ko": "스마트폰이 없는 세상을 상상해 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 앵무새가 사람 말을 똑같이 따라 하는 장면",
+ "imageCaption": "\"안녕하세요!\"를 그대로 따라 하는 앵무새를 떠올리세요. 그게 imitate예요.",
+ "movieLineEn": "Stop imitating me! Stop imitating me!",
+ "movieLineKo": "나 따라 하지 마! 나 따라 하지 마!",
+ "storyTitle": "흉내쟁이 앵무새",
+ "story": "우리 집 앵무새는 최고의 imitator(흉내쟁이)예요. 엄마 목소리를 완벽하게 imitate(흉내 내다)하죠. 실력이 진짜 같아서 imitation(모방)이라고 imagine(상상하다)하기 어려울 정도예요. 어느 날 앵무새가 엄마 목소리로 외쳤어요. \"공부하지 말고 게임해!\" 저는 기뻐서 게임을 켰는데, 진짜 엄마가 뒤에 서 계셨어요."
+}

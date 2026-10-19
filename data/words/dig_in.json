@@ -1,0 +1,68 @@
+{
+ "word": "dig in",
+ "pos": "구동사",
+ "phonetic": "[dɪɡ ɪn]",
+ "meaning": "(음식을) 먹기 시작하다, 열심히 하기 시작하다, 버티다, 파고들다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "dig",
+   "meaning": "파다 (dig)",
+   "note": "땅을 삽으로 파내는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "안으로 (in)",
+   "note": "음식이나 일 '안으로' 깊이 파고드는 이미지예요."
+  }
+ ],
+ "summary": "<strong>dig</strong> (파다) + <strong>in</strong> (안으로) = '삽을 푹 꽂듯 안으로 파고들다'에서 <strong>'(음식을) 먹기 시작하다, 열심히 하다'</strong>",
+ "historyTitle": "참호를 파던 군인들",
+ "historyBody": "dig는 중세 영어 diggen에서 왔는데, 정확한 기원은 확실하지 않아요. dig in은 원래 군인들이 참호를 '파고 들어가 버티다'라는 뜻으로 쓰였고, 이후 숟가락을 음식에 푹 찔러 넣듯 '먹기 시작하다'라는 뜻이 생겼어요. 식탁에서 'Dig in!'은 '자, 먹자!'라는 친근한 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dig up",
+   "pos": "구동사",
+   "meaning": "파내다, 찾아내다",
+   "en": "The dog dug up a bone.",
+   "ko": "강아지가 뼈다귀를 파냈어."
+  },
+  {
+   "word": "help yourself",
+   "pos": "숙어",
+   "meaning": "마음껏 드세요",
+   "en": "Help yourself to some cookies.",
+   "ko": "쿠키 마음껏 먹어."
+  },
+  {
+   "word": "tuck in",
+   "pos": "구동사",
+   "meaning": "맛있게 먹다",
+   "en": "The kids tucked in to the pizza.",
+   "ko": "아이들은 피자를 맛있게 먹었어."
+  },
+  {
+   "word": "dive into",
+   "pos": "구동사",
+   "meaning": "~에 뛰어들다, 몰두하다",
+   "en": "She dove into her new project.",
+   "ko": "그녀는 새 프로젝트에 몰두했어."
+  },
+  {
+   "word": "bon appétit",
+   "pos": "숙어",
+   "meaning": "맛있게 드세요",
+   "en": "Dinner is ready. Bon appétit!",
+   "ko": "저녁 준비됐어요. 맛있게 드세요!"
+  }
+ ],
+ "imageSense": "대표 의미: 김이 나는 음식 앞에서 숟가락을 푹 꽂는 장면",
+ "imageCaption": "배고픈 가족이 식탁에 앉자마자 \"Dig in!\" 하고 숟가락을 드는 모습을 떠올려 보세요.",
+ "movieLineEn": "The food's ready, everyone. Dig in!",
+ "movieLineKo": "다들 음식 준비됐어. 먹자!",
+ "storyTitle": "먹방의 순간",
+ "story": "할머니가 잡채를 내오시며 \"dig in(먹기 시작하다)!\"이라고 하셨어요. 사촌들은 \"help yourself(마음껏 먹다)\" 소리에 바로 tuck in(맛있게 먹다)했죠. 나도 접시에 dive into(뛰어들다)하듯 달려들었어요. 그런데 한 입 먹는 순간 할머니가 말씀하셨어요. \"다 먹으면 설거지도 dig in 하렴.\""
+}

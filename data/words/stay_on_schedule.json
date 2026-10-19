@@ -1,0 +1,74 @@
+{
+ "word": "stay on schedule",
+ "pos": "숙어",
+ "phonetic": "[steɪ ɑːn ˈskedʒuːl]",
+ "meaning": "일정대로 진행하다, 예정을 지키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stay",
+   "meaning": "계속 ~한 상태로 있다 (remain)",
+   "note": "벗어나지 않고 그대로 유지한다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~ 위에, ~에 맞춰 (on)",
+   "note": "정해진 선 '위에' 올라타 있는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "schedule",
+   "meaning": "일정, 예정표 (timetable)",
+   "note": "미리 정해 둔 시간표를 뜻해요."
+  }
+ ],
+ "summary": "<strong>stay</strong> (계속 있다) + <strong>on schedule</strong> (일정 위에) = '일정표 위에서 벗어나지 않고 머물다'에서 <strong>'일정대로 진행하다'</strong>",
+ "historyTitle": "작은 종이쪽지였던 schedule",
+ "historyBody": "schedule은 후기 라틴어 schedula(작은 종이쪽지)에서 왔어요. 원래는 문서에 덧붙이는 작은 쪽지나 목록을 뜻했는데, 점차 시간과 할 일을 적은 '일정표'라는 뜻이 되었어요. on schedule은 '예정대로', behind schedule은 '예정보다 늦게'라는 뜻으로 함께 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "on schedule",
+   "pos": "전치사구",
+   "meaning": "예정대로",
+   "en": "The train arrived exactly on schedule.",
+   "ko": "기차는 정확히 예정대로 도착했어요."
+  },
+  {
+   "word": "behind schedule",
+   "pos": "전치사구",
+   "meaning": "예정보다 늦게",
+   "en": "The building project is two months behind schedule.",
+   "ko": "그 건설 공사는 예정보다 두 달 늦어지고 있어요."
+  },
+  {
+   "word": "ahead of schedule",
+   "pos": "전치사구",
+   "meaning": "예정보다 빨리",
+   "en": "We finished the report ahead of schedule.",
+   "ko": "우리는 보고서를 예정보다 일찍 끝냈어요."
+  },
+  {
+   "word": "on time",
+   "pos": "전치사구",
+   "meaning": "제시간에",
+   "en": "Please hand in your homework on time.",
+   "ko": "숙제를 제시간에 제출해 주세요."
+  },
+  {
+   "word": "stay on track",
+   "pos": "숙어",
+   "meaning": "계획대로 계속 나아가다",
+   "en": "A study plan helps you stay on track.",
+   "ko": "공부 계획은 계획대로 나아가는 데 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 시계와 달력을 보며 계획표대로 일을 처리하는 장면",
+ "imageCaption": "벽에 붙은 계획표의 칸을 하나씩 체크하며 시계와 나란히 걷는 모습을 상상해 보세요.",
+ "movieLineEn": "If we want to win, we have to stay on schedule.",
+ "movieLineKo": "이기고 싶다면 우리는 일정대로 움직여야 해.",
+ "storyTitle": "완벽한 여행 계획",
+ "story": "아빠는 가족 여행에서 stay on schedule(일정대로 진행하다)하려고 분 단위 계획표를 만들었어요. 첫날은 ahead of schedule(예정보다 빨리)였지만, 둘째 날 막내가 사라져 behind schedule(예정보다 늦게)이 됐죠. 알고 보니 막내는 on time(제시간에) 맞춰 아이스크림 가게 줄을 서 있었어요. 그 줄도 계획표에 있었거든요!"
+}

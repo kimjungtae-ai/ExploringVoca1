@@ -1,0 +1,54 @@
+{
+ "word": "anxiety",
+ "pos": "명사",
+ "phonetic": "[æŋˈzaɪəti]",
+ "meaning": "불안, 걱정, 열망",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "anx",
+   "meaning": "조이다, 숨 막히게 하다 (choke, squeeze)",
+   "note": "라틴어 angere(목을 조이다)에서 나온 anxius(불안한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-iety",
+   "meaning": "~한 상태 (명사)",
+   "note": "라틴어 -ietas에서 온 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>anx</strong> (조이다) + <strong>-iety</strong> (~한 상태) = '가슴이 조여 오는 상태'에서 <strong>'불안, 걱정'</strong>이 되었어요.",
+ "historyTitle": "목이 '조여 오는' 느낌의 라틴어 angere",
+ "historyBody": "라틴어 angere는 '목을 조르다, 괴롭히다'라는 뜻이었고, 여기서 anxius(불안한)와 anxietas(불안)가 나왔어요. 걱정할 때 가슴이 답답하고 숨이 막히는 느낌을 생각하면 딱 맞죠. anguish(고뇌)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "anxious",
+   "pos": "형용사",
+   "meaning": "불안해하는, 간절히 바라는",
+   "en": "She felt anxious before her first speech.",
+   "ko": "그녀는 첫 연설 전에 불안했어요."
+  },
+  {
+   "word": "anxiously",
+   "pos": "부사",
+   "meaning": "걱정스럽게",
+   "en": "He waited anxiously for the test results.",
+   "ko": "그는 시험 결과를 걱정스럽게 기다렸어요."
+  },
+  {
+   "word": "anguish",
+   "pos": "명사",
+   "meaning": "고뇌, 극심한 고통",
+   "en": "She cried out in anguish when she heard the news.",
+   "ko": "그녀는 그 소식을 듣고 괴로움에 울부짖었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 시험 전날 밤 잠 못 들고 손톱을 깨무는 학생",
+ "imageCaption": "가슴이 꽉 '조이는' 듯한 답답한 느낌을 떠올려 보세요.",
+ "movieLineEn": "Don't let anxiety stop you from trying.",
+ "movieLineKo": "불안 때문에 도전을 멈추지 마.",
+ "storyTitle": "시험 불안의 반전",
+ "story": "수능 전날 민지는 anxiety(불안)로 잠을 못 잤어요. anxious(불안해하는) 마음에 양을 세다가 5000마리까지 셌죠. 아침이 되자 anxiously(걱정스럽게) 시험장에 갔어요. 그런데 영어 지문 첫 문장이 'Count the sheep(양을 세어라)'! 민지는 웃음을 참느라 고생했대요."
+}

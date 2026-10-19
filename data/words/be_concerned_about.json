@@ -1,0 +1,68 @@
+{
+ "word": "be concerned about",
+ "pos": "숙어",
+ "phonetic": "[bi kənˈsɜːrnd əˈbaʊt]",
+ "meaning": "~에 대해 걱정하다, ~을 염려하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "concerned",
+   "meaning": "걱정하는, 관련된 (worried)",
+   "note": "concern(걱정시키다, 관련되다)의 과거분사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "about",
+   "meaning": "~에 대해 (about)",
+   "note": "걱정의 주제를 알려 줘요."
+  }
+ ],
+ "summary": "<strong>be concerned</strong> (걱정하다) + <strong>about</strong> (~에 대해) = <strong>'~에 대해 걱정하다'</strong>예요.",
+ "historyTitle": "라틴어 concernere, '함께 체로 거르다'",
+ "historyBody": "concern은 중세 라틴어 concernere(관계하다)에서 왔고, con-(함께)와 cernere(체로 걸러 구별하다)가 합쳐진 말이에요. 무언가가 나와 '관련'되면 신경이 쓰이니 '걱정'이라는 뜻도 생겼죠. be concerned with는 '~와 관련되다'이니 전치사를 잘 구별하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "be concerned with",
+   "pos": "숙어",
+   "meaning": "~와 관련되다",
+   "en": "This chapter is concerned with climate change.",
+   "ko": "이 장은 기후 변화를 다뤄요."
+  },
+  {
+   "word": "concern",
+   "pos": "명사 / 동사",
+   "meaning": "걱정, 관심사 / 걱정시키다",
+   "en": "Safety is our main concern.",
+   "ko": "안전이 우리의 주된 관심사예요."
+  },
+  {
+   "word": "be worried about",
+   "pos": "숙어",
+   "meaning": "~을 걱정하다",
+   "en": "She is worried about the exam.",
+   "ko": "그녀는 시험을 걱정해요."
+  },
+  {
+   "word": "be anxious about",
+   "pos": "숙어",
+   "meaning": "~을 불안해하다",
+   "en": "He was anxious about his first day at work.",
+   "ko": "그는 첫 출근 날을 불안해했어요."
+  },
+  {
+   "word": "concerning",
+   "pos": "전치사",
+   "meaning": "~에 관하여",
+   "en": "I have a question concerning the schedule.",
+   "ko": "일정에 관해 질문이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 창밖 폭우를 보며 걱정하는 엄마의 얼굴",
+ "imageCaption": "이마에 주름을 지으며 무언가를 걱정하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm concerned about you. You haven't slept in days.",
+ "movieLineKo": "네가 걱정돼. 며칠째 잠을 못 잤잖아.",
+ "storyTitle": "걱정 많은 아빠",
+ "story": "아빠는 내 건강을 be concerned about(~에 대해 걱정하다)하셔서 매일 채소를 주세요. 성적에도 be worried about(~을 걱정하다)하시죠. 그런데 아빠의 진짜 concern(관심사)은 따로 있었어요. 내가 아빠 몰래 먹은 아빠의 아이스크림이었답니다!"
+}

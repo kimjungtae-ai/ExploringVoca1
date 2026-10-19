@@ -1,0 +1,68 @@
+{
+ "word": "blood vessel",
+ "pos": "명사구",
+ "phonetic": "[blʌd ˈvesl]",
+ "meaning": "혈관",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "blood",
+   "meaning": "피 (blood)",
+   "note": "고대 영어 blōd에서 온 게르만어 단어예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "vessel",
+   "meaning": "그릇, 관, 배 (container)",
+   "note": "라틴어 vascellum(작은 그릇)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>blood</strong> (피) + <strong>vessel</strong> (그릇, 관) = '피를 담아 나르는 관'에서 <strong>'혈관'</strong>이에요.",
+ "historyTitle": "작은 그릇이 혈관이 되기까지",
+ "historyBody": "vessel은 옛 프랑스어 vaissel을 거쳐 라틴어 vascellum(작은 그릇)에서 왔어요. 액체를 담는 그릇이라는 뜻에서 '배'와 '몸속의 관'이라는 뜻도 생겼죠. vase(꽃병)와 vascular(혈관의)도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vein",
+   "pos": "명사",
+   "meaning": "정맥",
+   "en": "Blood returns to the heart through veins.",
+   "ko": "피는 정맥을 통해 심장으로 돌아가요."
+  },
+  {
+   "word": "artery",
+   "pos": "명사",
+   "meaning": "동맥",
+   "en": "Arteries carry blood away from the heart.",
+   "ko": "동맥은 심장에서 피를 내보내요."
+  },
+  {
+   "word": "vase",
+   "pos": "명사",
+   "meaning": "꽃병",
+   "en": "She put the roses in a glass vase.",
+   "ko": "그녀는 장미를 유리 꽃병에 꽂았어요."
+  },
+  {
+   "word": "blood pressure",
+   "pos": "명사구",
+   "meaning": "혈압",
+   "en": "Too much salt can raise your blood pressure.",
+   "ko": "소금을 너무 많이 먹으면 혈압이 오를 수 있어요."
+  },
+  {
+   "word": "bloodstream",
+   "pos": "명사",
+   "meaning": "혈류",
+   "en": "The medicine enters the bloodstream quickly.",
+   "ko": "그 약은 빠르게 혈류로 들어가요."
+  }
+ ],
+ "imageSense": "대표 의미: 몸속을 나뭇가지처럼 뻗은 빨간 혈관 그림",
+ "imageCaption": "몸속 고속도로처럼 피를 실어 나르는 관을 떠올려 보세요.",
+ "movieLineEn": "One wrong cut and you'll hit a blood vessel. Stay focused.",
+ "movieLineKo": "한 번만 잘못 자르면 혈관을 건드려. 집중해.",
+ "storyTitle": "과학 시간의 착각",
+ "story": "과학 시간에 blood vessel(혈관)을 배웠어요. vein(정맥)과 artery(동맥)를 외우다가 vessel이 '배'라는 뜻도 있다는 걸 알았죠. 그래서 동생에게 '몸속에 작은 배가 다닌다'고 했더니, 동생은 밤새 피 속에서 노 젓는 선원을 찾으려 했어요!"
+}

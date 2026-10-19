@@ -1,0 +1,62 @@
+{
+ "word": "treat",
+ "pos": "동사 / 명사",
+ "phonetic": "[triːt]",
+ "meaning": "대하다, 다루다, 치료하다, 대접하다 / 대접, 특별한 선물",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "treat (← tractare)",
+   "meaning": "다루다, 끌고 다루다 (handle)",
+   "note": "라틴어 tractare(다루다)가 고대 프랑스어 traitier를 거쳐 줄어든 모양이라 영어에서는 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "라틴어 <strong>tractare</strong> (다루다)에서 와서 <strong>'대하다, 치료하다, 대접하다'</strong>가 되었어요.",
+ "historyTitle": "끌다에서 다루다로",
+ "historyBody": "treat은 고대 프랑스어 'traitier'에서 왔고, 그 뿌리는 라틴어 'tractare(다루다, 처리하다)'예요. tractare는 'trahere(끌다)'에서 나온 말이라 tractor, attract와 먼 친척이랍니다. 사람을 다루면 '대하다', 병을 다루면 '치료하다', 손님을 다루면 '대접하다'가 된 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "treatment",
+   "pos": "명사",
+   "meaning": "치료, 대우",
+   "en": "The patient is getting treatment for a broken leg.",
+   "ko": "그 환자는 부러진 다리를 치료받고 있어요."
+  },
+  {
+   "word": "treaty",
+   "pos": "명사",
+   "meaning": "조약",
+   "en": "The two countries signed a peace treaty.",
+   "ko": "두 나라는 평화 조약에 서명했어요."
+  },
+  {
+   "word": "mistreat",
+   "pos": "동사",
+   "meaning": "학대하다, 함부로 대하다",
+   "en": "It is wrong to mistreat animals.",
+   "ko": "동물을 함부로 대하는 것은 잘못이에요."
+  },
+  {
+   "word": "retreat",
+   "pos": "명사 / 동사",
+   "meaning": "후퇴, 휴양지 / 물러나다",
+   "en": "The soldiers had to retreat from the hill.",
+   "ko": "병사들은 언덕에서 물러나야 했어요."
+  },
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다",
+   "en": "The festival attracts thousands of visitors every year.",
+   "ko": "그 축제는 매년 수천 명의 방문객을 끌어들여요."
+  }
+ ],
+ "imageSense": "대표 의미: 강아지에게 간식을 주며 다정하게 대하는 모습",
+ "imageCaption": "간식(treat)을 주며 강아지를 다정하게 대하는(treat) 모습을 떠올려 보세요. 한 장면에 두 뜻이 다 들어 있어요.",
+ "movieLineEn": "Tonight, dinner is my treat!",
+ "movieLineKo": "오늘 저녁은 내가 쏠게!",
+ "storyTitle": "강아지의 평화 조약",
+ "story": "우리 집 강아지와 고양이는 매일 싸웠어요. 엄마는 둘을 똑같이 treat(대하다)하겠다며 간식 treat(대접)를 나눠 줬죠. 둘은 간식을 위해 treaty(조약)를 맺었어요. 하지만 간식이 떨어지자 강아지는 소파 밑으로 retreat(후퇴하다)했답니다. 평화는 간식 봉지만큼만 갔어요."
+}

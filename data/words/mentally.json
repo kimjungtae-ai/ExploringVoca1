@@ -1,0 +1,60 @@
+{
+ "word": "mentally",
+ "pos": "부사",
+ "phonetic": "[ˈmentəli]",
+ "meaning": "정신적으로, 마음속으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ment",
+   "meaning": "마음, 정신 (mind)",
+   "note": "라틴어 mens(정신)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "'정신의'라는 형용사 mental을 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>ment</strong> (마음) + <strong>-al</strong> (~의) + <strong>-ly</strong> (~하게) = 마음의 측면에서라는 뜻으로 <strong>'정신적으로'</strong>가 되었어요.",
+ "historyTitle": "mental에 -ly가 붙기까지",
+ "historyBody": "라틴어 mens(마음)에서 나온 mentalis가 영어 mental이 되었고, 17세기쯤 부사형 mentally가 쓰이기 시작했어요. 'physically and mentally(육체적으로 그리고 정신적으로)'처럼 짝지어 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mental",
+   "pos": "형용사",
+   "meaning": "정신의, 마음의",
+   "en": "Sleep is important for your mental health.",
+   "ko": "잠은 정신 건강에 중요해요."
+  },
+  {
+   "word": "mentality",
+   "pos": "명사",
+   "meaning": "사고방식",
+   "en": "He has a positive mentality about failure.",
+   "ko": "그는 실패에 대해 긍정적인 사고방식을 갖고 있어요."
+  },
+  {
+   "word": "mention",
+   "pos": "동사",
+   "meaning": "언급하다",
+   "en": "Did he mention when he would come back?",
+   "ko": "그가 언제 돌아온다고 말했니?"
+  }
+ ],
+ "imageSense": "대표 의미: 시험 전 눈을 감고 마음을 다잡는 학생",
+ "imageCaption": "몸은 가만히 있지만 머릿속으로는 열심히 준비하는 학생의 모습을 떠올려 보세요.",
+ "movieLineEn": "Physically, I'm here. Mentally, I'm already on vacation.",
+ "movieLineKo": "몸은 여기 있지만, 정신은 이미 휴가 중이야.",
+ "storyTitle": "마음만은 이미 해변",
+ "story": "수학 시간, 민수는 몸은 교실에 있지만 mentally(정신적으로)는 해변에 있었어요. 선생님이 mention(언급하다)한 공식도 못 들었죠. mental(정신의) 여행을 즐기던 순간, 선생님이 '민수야, mentality(사고방식)부터 바꾸자!'라고 하셨어요. 알고 보니 오늘 수업 주제가 '바닷물의 염도 계산'이었대요!"
+}

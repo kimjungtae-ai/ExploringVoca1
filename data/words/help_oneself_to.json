@@ -1,0 +1,74 @@
+{
+ "word": "help oneself to",
+ "pos": "숙어",
+ "phonetic": "[help wʌnˈself tuː]",
+ "meaning": "~을 마음껏 먹다, 마음대로 가져가다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "help",
+   "meaning": "돕다 (help)",
+   "note": "남이 아니라 스스로를 돕는다는 뜻을 맡아요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "oneself",
+   "meaning": "자기 자신 (oneself)",
+   "note": "돕는 대상이 '자기 자신'임을 보여 줘요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~을, ~으로 (to)",
+   "note": "무엇을 집어 먹는지 대상을 연결해요."
+  }
+ ],
+ "summary": "<strong>help</strong> (돕다) + <strong>oneself</strong> (자신을) + <strong>to</strong> (~으로) = '스스로 ~을 덜어 자신을 돕다'에서 <strong>'~을 마음껏 먹다'</strong>",
+ "historyTitle": "식탁에서 '스스로 덜어 먹는' 문화",
+ "historyBody": "help는 고대 영어 helpan에서 왔어요. 옛 영어에서는 식탁에서 음식을 덜어 주는 것을 help라고도 했는데, 그래서 지금도 '한 그릇'을 a helping이라고 해요. help oneself to는 남이 덜어 주지 않아도 '스스로 덜어 먹다'라는 뜻으로 17세기 무렵부터 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "helping",
+   "pos": "명사",
+   "meaning": "(음식의) 한 그릇, 한 접시",
+   "en": "Can I have a second helping of rice?",
+   "ko": "밥 한 그릇 더 먹어도 될까요?"
+  },
+  {
+   "word": "Help yourself.",
+   "pos": "표현",
+   "meaning": "마음껏 드세요.",
+   "en": "There are cookies on the table. Help yourself.",
+   "ko": "탁자 위에 쿠키 있어. 마음껏 먹어."
+  },
+  {
+   "word": "helpful",
+   "pos": "형용사",
+   "meaning": "도움이 되는",
+   "en": "Your advice was really helpful.",
+   "ko": "네 조언이 정말 도움이 됐어."
+  },
+  {
+   "word": "can't help doing",
+   "pos": "숙어",
+   "meaning": "~하지 않을 수 없다",
+   "en": "I couldn't help laughing at his joke.",
+   "ko": "나는 그의 농담에 웃지 않을 수 없었어."
+  },
+  {
+   "word": "serve oneself",
+   "pos": "숙어",
+   "meaning": "스스로 덜어 먹다",
+   "en": "At the buffet, guests serve themselves.",
+   "ko": "뷔페에서는 손님들이 직접 덜어 먹어."
+  }
+ ],
+ "imageSense": "대표 의미: 뷔페에서 접시에 음식을 직접 담는 장면",
+ "imageCaption": "주인이 '편하게 드세요' 하자 손님이 스스로 음식을 덜어 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Please, help yourself to anything in the fridge. Except my pudding.",
+ "movieLineKo": "냉장고에 있는 거 아무거나 마음껏 먹어. 내 푸딩만 빼고.",
+ "storyTitle": "할머니의 무한 리필",
+ "story": "할머니 댁에서 할머니는 \"help oneself to(마음껏 먹다) 하렴!\" 하셨어요. 나는 a second helping(한 그릇 더)을 먹었죠. 배가 터질 것 같아 그만 먹으려 했지만 할머니 표정을 보니 can't help doing(~하지 않을 수 없다), 또 먹었어요. 알고 보니 할머니는 남은 음식 다 먹으면 용돈 준다는 helpful(도움이 되는) 계획이 있으셨답니다."
+}

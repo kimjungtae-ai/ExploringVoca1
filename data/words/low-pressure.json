@@ -1,0 +1,81 @@
+{
+ "word": "low-pressure",
+ "pos": "형용사",
+ "phonetic": "[ˌloʊˈpreʃər]",
+ "meaning": "저압의, 부담이 적은, 강요하지 않는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "low",
+   "meaning": "낮은 (low)",
+   "note": "고대 노르드어 lágr(낮은)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "press",
+   "meaning": "누르다 (press)",
+   "note": "라틴어 premere(누르다)의 과거분사 pressus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것, 상태 (명사)",
+   "note": "pressure는 '누르는 힘'이라는 명사가 돼요."
+  }
+ ],
+ "summary": "<strong>low</strong> (낮은) + <strong>press</strong> (누르다) + <strong>-ure</strong> (~하는 것) = '누르는 힘이 낮은'이라는 뜻에서 <strong>'저압의, 부담이 적은'</strong>이 되었습니다.",
+ "historyTitle": "날씨도 마음도 '누르는 힘'",
+ "historyBody": "pressure는 라틴어 premere(누르다)에서 나온 pressura(누름)가 고대 프랑스어를 거쳐 들어온 말이에요. 기상학에서 low-pressure system은 비구름을 몰고 오는 '저기압'이고, 일상에서는 '부담을 주지 않는' 분위기를 뜻하기도 해요. 같은 뿌리에서 express, impress 같은 중요한 단어들이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pressure",
+   "pos": "명사",
+   "meaning": "압력, 압박",
+   "en": "Many students feel pressure before exams.",
+   "ko": "많은 학생들이 시험 전에 압박감을 느껴요."
+  },
+  {
+   "word": "press",
+   "pos": "동사",
+   "meaning": "누르다",
+   "en": "Press the red button to stop the machine.",
+   "ko": "기계를 멈추려면 빨간 버튼을 누르세요."
+  },
+  {
+   "word": "express",
+   "pos": "동사",
+   "meaning": "표현하다",
+   "en": "It's hard to express my feelings in words.",
+   "ko": "내 감정을 말로 표현하기는 어려워요."
+  },
+  {
+   "word": "impress",
+   "pos": "동사",
+   "meaning": "깊은 인상을 주다",
+   "en": "Her kindness impressed everyone.",
+   "ko": "그녀의 친절함은 모두에게 깊은 인상을 주었어요."
+  },
+  {
+   "word": "depress",
+   "pos": "동사",
+   "meaning": "우울하게 하다",
+   "en": "Rainy weather can depress some people.",
+   "ko": "비 오는 날씨는 어떤 사람들을 우울하게 할 수 있어요."
+  },
+  {
+   "word": "compress",
+   "pos": "동사",
+   "meaning": "압축하다",
+   "en": "You can compress large files before sending them.",
+   "ko": "큰 파일은 보내기 전에 압축할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 일기예보 지도 위에 그려진 'L(저기압)' 표시와 비구름",
+ "imageCaption": "누르는 힘이 약해서 공기가 위로 올라가 구름이 생기는 장면, 또는 부담 없이 편안한 대화를 떠올려 보세요.",
+ "movieLineEn": "Relax. This is a low-pressure interview.",
+ "movieLineKo": "긴장 풀어. 이건 부담 없는 면접이야.",
+ "storyTitle": "부담 없는 면접의 진실",
+ "story": "면접관은 \"이건 low-pressure(부담 없는) 면접이에요\"라며 웃었어요. 예린이는 pressure(압박)를 덜 느끼고 생각을 잘 express(표현하다)했죠. 면접관도 깊이 impress(감동시키다)를 받았어요. 마지막 질문은 \"이 버튼을 press(누르다)해 보세요.\" 눌렀더니 합격 축하 폭죽이 터졌답니다!"
+}

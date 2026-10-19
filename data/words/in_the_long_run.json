@@ -1,0 +1,74 @@
+{
+ "word": "in the long run",
+ "pos": "전치사구",
+ "phonetic": "[ɪn ðə lɔːŋ rʌn]",
+ "meaning": "결국에는, 장기적으로 보면",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에서 (in)",
+   "note": "'어떤 기간 안에서'라는 틀을 만들어 줘요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "long",
+   "meaning": "긴 (long)",
+   "note": "기간이 '길다'는 걸 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "run",
+   "meaning": "달리기, 흐름 (run)",
+   "note": "시간이 계속 흘러가는 '과정'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>in</strong> (~ 안에서) + <strong>the long</strong> (긴) + <strong>run</strong> (흐름) = '긴 시간의 흐름 속에서 보면'에서 <strong>'결국에는, 장기적으로'</strong>",
+ "historyTitle": "18세기부터 쓰인 표현",
+ "historyBody": "in the long run은 18세기 무렵부터 쓰인 영어 표현으로, '긴 경주(달리기)'처럼 오랜 시간이 흐른 끝을 뜻해요. 경제학자 케인스의 'In the long run we are all dead(장기적으로 보면 우리는 모두 죽는다)'라는 말로도 유명하죠. 반대말은 in the short run(단기적으로)이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in the short run",
+   "pos": "전치사구",
+   "meaning": "단기적으로",
+   "en": "In the short run, the plan may cost more.",
+   "ko": "단기적으로는 그 계획이 비용이 더 들 수도 있어."
+  },
+  {
+   "word": "in the end",
+   "pos": "전치사구",
+   "meaning": "결국",
+   "en": "In the end, we won the game.",
+   "ko": "결국 우리가 경기에서 이겼어."
+  },
+  {
+   "word": "eventually",
+   "pos": "부사",
+   "meaning": "결국, 마침내",
+   "en": "He eventually found his lost wallet.",
+   "ko": "그는 마침내 잃어버린 지갑을 찾았어."
+  },
+  {
+   "word": "long-term",
+   "pos": "형용사",
+   "meaning": "장기적인",
+   "en": "Exercise has long-term health benefits.",
+   "ko": "운동은 장기적인 건강상의 이점이 있어."
+  },
+  {
+   "word": "run out of",
+   "pos": "구동사",
+   "meaning": "~을 다 써 버리다",
+   "en": "We ran out of milk.",
+   "ko": "우유가 다 떨어졌어."
+  }
+ ],
+ "imageSense": "대표 의미: 마라톤 끝 결승선에 다다른 장면",
+ "imageCaption": "거북이가 느리지만 끝까지 달려 결승선에 닿는 모습을 떠올려 보세요.",
+ "movieLineEn": "It hurts now, but in the long run, you'll thank me.",
+ "movieLineKo": "지금은 아프겠지만, 결국엔 나한테 고마워할 거야.",
+ "storyTitle": "토끼와 거북이 2탄",
+ "story": "토끼는 in the short run(단기적으로) 빨랐지만 낮잠을 잤어요. 거북이는 in the long run(결국에는) 성실함이 이긴다고 믿었죠. 그런데 이번엔 토끼가 eventually(마침내) 잠을 참고 먼저 도착했어요. 거북이는 웃으며 말했어요. \"in the end(결국), 상금은 경기 후원자인 내 거야.\""
+}

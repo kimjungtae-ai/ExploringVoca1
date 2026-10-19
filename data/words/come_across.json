@@ -1,0 +1,68 @@
+{
+ "word": "come across",
+ "pos": "구동사",
+ "phonetic": "[kʌm əˈkrɔːs]",
+ "meaning": "우연히 마주치다, 우연히 발견하다, (~라는) 인상을 주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "come",
+   "meaning": "오다 (come)",
+   "note": "어떤 대상이 내 쪽으로 다가오는 움직임이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "across",
+   "meaning": "가로질러 (across)",
+   "note": "길을 건너다가 맞은편에서 '딱' 부딪치는 이미지예요."
+  }
+ ],
+ "summary": "<strong>come</strong> (오다) + <strong>across</strong> (가로질러) = '가다가 가로질러 마주치다'에서 <strong>'우연히 마주치다, 발견하다'</strong>",
+ "historyTitle": "길 위에서 마주치는 이미지",
+ "historyBody": "come은 고대 영어 'cuman(오다)'에서 온 기본 게르만어 동사예요. across는 'on + cross(십자가, 교차)'에서 생긴 말로, 길이 교차하는 지점을 떠올리면 쉬워요. 걷다가 교차로에서 누군가와 마주치는 모습에서 '우연히 만나다'라는 뜻이 생겼어요. 또 'He comes across as shy.'처럼 '~한 인상을 주다'로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "run into",
+   "pos": "구동사",
+   "meaning": "우연히 만나다",
+   "en": "I ran into my teacher at the mall.",
+   "ko": "쇼핑몰에서 우연히 선생님을 만났어."
+  },
+  {
+   "word": "bump into",
+   "pos": "구동사",
+   "meaning": "우연히 마주치다, 부딪치다",
+   "en": "I bumped into an old friend on the bus.",
+   "ko": "버스에서 옛 친구와 우연히 마주쳤어."
+  },
+  {
+   "word": "stumble upon",
+   "pos": "구동사",
+   "meaning": "우연히 발견하다",
+   "en": "She stumbled upon a great café downtown.",
+   "ko": "그녀는 시내에서 멋진 카페를 우연히 발견했어."
+  },
+  {
+   "word": "come up with",
+   "pos": "구동사",
+   "meaning": "(생각을) 떠올리다",
+   "en": "He came up with a brilliant idea.",
+   "ko": "그는 기발한 아이디어를 떠올렸어."
+  },
+  {
+   "word": "come across as",
+   "pos": "구동사",
+   "meaning": "~라는 인상을 주다",
+   "en": "She comes across as very confident.",
+   "ko": "그녀는 아주 자신감 있어 보여."
+  }
+ ],
+ "imageSense": "대표 의미: 다락방 상자 속에서 오래된 사진을 우연히 발견하는 장면",
+ "imageCaption": "먼지 쌓인 상자를 뒤지다가 어릴 적 사진을 '어머!' 하고 발견하는 순간을 떠올려 보세요.",
+ "movieLineEn": "I came across this old letter in Grandpa's desk.",
+ "movieLineKo": "할아버지 책상에서 이 오래된 편지를 우연히 발견했어.",
+ "storyTitle": "다락방의 보물 지도",
+ "story": "하준이는 다락방에서 보물 지도를 come across(우연히 발견하다)했어요. 지도를 들고 나가다 친구와 bump into(우연히 마주치다)했죠. 둘은 계획을 come up with(떠올리다)하고 숲으로 갔어요. 표시된 곳을 파 보니 상자가 나왔는데, 안에는 '숙제 다 했니? -엄마'라는 쪽지만 있었어요. 엄마는 정말 꾀가 많아요!"
+}

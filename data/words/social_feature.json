@@ -1,0 +1,68 @@
+{
+ "word": "social feature",
+ "pos": "명사구",
+ "phonetic": "[ˈsoʊʃəl ˈfiːtʃər]",
+ "meaning": "소셜 기능, 사회적 특징",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "social",
+   "meaning": "사회의, 사교의 (social)",
+   "note": "라틴어 socius(동료, 친구)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "feature",
+   "meaning": "특징, 기능 (feature)",
+   "note": "라틴어 factura(만듦, 모양)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>social</strong> (사람들과 어울리는) + <strong>feature</strong> (기능, 특징) = '사람들과 소통하게 해 주는 기능'이라서 <strong>'소셜 기능'</strong>이에요.",
+ "historyTitle": "친구에서 온 social, 만듦에서 온 feature",
+ "historyBody": "social은 라틴어 'socius(동료, 동반자)'에서 왔고, society(사회)도 같은 뿌리예요. feature는 고대 프랑스어 'faiture'를 거쳐 라틴어 'factura(만들기, 모양)'에서 왔어요. 원래 '얼굴 생김새'를 뜻하다가 '특징', 나아가 기계나 앱의 '기능'이라는 뜻이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "feature",
+   "pos": "동사/명사",
+   "meaning": "특징으로 하다 / 특징, 기능",
+   "en": "The new phone features a better camera.",
+   "ko": "새 휴대폰은 더 좋은 카메라가 특징이에요."
+  },
+  {
+   "word": "social media",
+   "pos": "명사구",
+   "meaning": "소셜 미디어",
+   "en": "Teens spend hours on social media every day.",
+   "ko": "십 대들은 매일 몇 시간씩 소셜 미디어를 해요."
+  },
+  {
+   "word": "society",
+   "pos": "명사",
+   "meaning": "사회",
+   "en": "We live in a diverse society.",
+   "ko": "우리는 다양한 사회에 살고 있어요."
+  },
+  {
+   "word": "function",
+   "pos": "명사",
+   "meaning": "기능",
+   "en": "This button has two functions.",
+   "ko": "이 버튼은 두 가지 기능이 있어요."
+  },
+  {
+   "word": "socialize",
+   "pos": "동사",
+   "meaning": "어울리다, 사귀다",
+   "en": "She likes to socialize with new people.",
+   "ko": "그녀는 새로운 사람들과 어울리는 걸 좋아해요."
+  }
+ ],
+ "imageSense": "대표 의미: 게임 앱에서 친구 목록과 채팅 창이 뜨는 장면",
+ "imageCaption": "앱 화면에 친구 추가, 좋아요, 댓글 버튼이 있는 모습을 떠올려 보세요. 사람들과 이어 주는 기능이 social feature예요.",
+ "movieLineEn": "This app's social feature lets you see what your friends are reading.",
+ "movieLineKo": "이 앱의 소셜 기능으로 친구들이 뭘 읽는지 볼 수 있어.",
+ "storyTitle": "너무 친절한 앱",
+ "story": "공부 앱에 새 social feature(소셜 기능)가 생겼어요. 친구들과 공부 시간을 공유하는 function(기능)이었죠. 나는 social media(소셜 미디어)처럼 신나게 친구를 추가했어요. 다음 날 담임쌤이 말씀하셨어요. '어젯밤 공부 시간 0분, 쌤도 봤다?'"
+}

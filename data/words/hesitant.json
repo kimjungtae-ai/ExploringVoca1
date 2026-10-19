@@ -1,0 +1,74 @@
+{
+ "word": "hesitant",
+ "pos": "형용사",
+ "phonetic": "[ˈhezɪtənt]",
+ "meaning": "주저하는, 망설이는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "hes (← haes)",
+   "meaning": "달라붙다 (stick)",
+   "note": "라틴어 haerere(달라붙다)에서 왔어요. 발이 땅에 붙은 것처럼 못 움직이는 느낌이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-it",
+   "meaning": "반복해서",
+   "note": "자꾸 그런다는 반복의 느낌을 더하는 라틴어 동사 어미예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ant",
+   "meaning": "~하는 (상태)",
+   "note": "형용사를 만드는 어미예요."
+  }
+ ],
+ "summary": "<strong>hes</strong> (달라붙다) + <strong>-it</strong> (반복) + <strong>-ant</strong> (~하는) = 자꾸 제자리에 붙어 있는이라는 뜻에서 <strong>'망설이는'</strong>이 되었어요.",
+ "historyTitle": "발이 딱 붙어 못 떠나는 마음",
+ "historyBody": "hesitant는 라틴어 haesitare(머뭇거리다)에서 왔는데, 이는 haerere(달라붙다)에 반복의 뜻을 더한 동사예요. 말을 더듬거나 발걸음이 떨어지지 않는 상태를 표현했죠. 같은 haerere에서 adhere(달라붙다), coherent(일관성 있는)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hesitate",
+   "pos": "동사",
+   "meaning": "망설이다, 주저하다",
+   "en": "Don't hesitate to ask me for help.",
+   "ko": "망설이지 말고 나에게 도움을 청해."
+  },
+  {
+   "word": "hesitation",
+   "pos": "명사",
+   "meaning": "망설임, 주저",
+   "en": "She agreed without hesitation.",
+   "ko": "그녀는 망설임 없이 동의했어."
+  },
+  {
+   "word": "adhere",
+   "pos": "동사",
+   "meaning": "들러붙다, 고수하다",
+   "en": "Players must adhere to the rules of the game.",
+   "ko": "선수들은 경기 규칙을 지켜야 해."
+  },
+  {
+   "word": "adhesive",
+   "pos": "명사 / 형용사",
+   "meaning": "접착제 / 들러붙는",
+   "en": "Use a strong adhesive to fix the broken vase.",
+   "ko": "깨진 꽃병을 고치려면 강력한 접착제를 써."
+  },
+  {
+   "word": "coherent",
+   "pos": "형용사",
+   "meaning": "일관성 있는, 논리 정연한",
+   "en": "Your essay needs a more coherent structure.",
+   "ko": "네 에세이는 더 일관성 있는 구조가 필요해."
+  }
+ ],
+ "imageSense": "대표 의미: 다이빙대 끝에서 뛸까 말까 발을 동동 구르는 장면",
+ "imageCaption": "수영장 다이빙대 끝에 발이 딱 붙어 버린 것처럼 망설이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Why are you so hesitant? Just tell her the truth.",
+ "movieLineKo": "왜 그렇게 망설여? 그냥 그녀에게 사실대로 말해.",
+ "storyTitle": "고백을 망설인 달팽이",
+ "story": "달팽이는 좋아하는 친구에게 고백하기가 hesitant(망설이는)했어요. 한참 hesitate(망설이다)하다 드디어 출발했죠. 하지만 몸이 땅에 adhere(달라붙다)한 듯 너무 느렸어요. 고백문은 coherent(논리 정연한)하게 준비했지만, 도착하니 일 년이 지나 있었대요. 친구는 hesitation(망설임) 없이 '나도 일 년 기다렸어!'라고 답했답니다."
+}

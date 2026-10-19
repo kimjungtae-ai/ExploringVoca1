@@ -1,0 +1,74 @@
+{
+ "word": "renewable",
+ "pos": "형용사",
+ "phonetic": "[rɪˈnuːəbl]",
+ "meaning": "재생 가능한, 갱신 가능한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "new",
+   "meaning": "새로운 (new)",
+   "note": "고대 영어 niwe에서 온 토박이 영어 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는 (able to be)",
+   "note": "동사 뒤에 붙어 '~될 수 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>new</strong> (새로운) + <strong>-able</strong> (~할 수 있는) = '다시 새로워질 수 있는'에서 <strong>'재생 가능한'</strong>이 되었어요.",
+ "historyTitle": "에너지 위기가 키운 단어",
+ "historyBody": "renewable은 18세기에 '계약 등을 갱신할 수 있는'이라는 뜻으로 쓰이기 시작했어요. 1970년대 석유 파동 이후 화석 연료를 대신할 에너지가 주목받으면서 'renewable energy(재생 에너지)'라는 표현이 널리 퍼졌답니다. 환경 지문의 단골 단어예요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renew",
+   "pos": "동사",
+   "meaning": "갱신하다, 재개하다",
+   "en": "Many people renew their goals at the start of a new year.",
+   "ko": "많은 사람이 새해가 시작될 때 목표를 새롭게 해요."
+  },
+  {
+   "word": "renewal",
+   "pos": "명사",
+   "meaning": "갱신, 부활",
+   "en": "The town went through a period of economic renewal.",
+   "ko": "그 마을은 경제 부흥기를 거쳤어요."
+  },
+  {
+   "word": "new",
+   "pos": "형용사",
+   "meaning": "새로운",
+   "en": "We tried a new restaurant near the school.",
+   "ko": "우리는 학교 근처의 새 식당에 가 봤어요."
+  },
+  {
+   "word": "news",
+   "pos": "명사",
+   "meaning": "소식, 뉴스",
+   "en": "The news about the storm worried everyone.",
+   "ko": "폭풍 소식에 모두가 걱정했어요."
+  },
+  {
+   "word": "newcomer",
+   "pos": "명사",
+   "meaning": "새로 온 사람, 신참",
+   "en": "The newcomer quickly made friends in our class.",
+   "ko": "새로 온 친구는 우리 반에서 금방 친구를 사귀었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇빛과 바람으로 계속 돌아가는 풍력 발전기와 태양광 패널",
+ "imageCaption": "써도 써도 다시 채워지는 햇빛과 바람을 떠올리면 '재생 가능한'이 바로 그려져요.",
+ "movieLineEn": "The future belongs to renewable energy, my friend.",
+ "movieLineKo": "미래는 재생 에너지의 것이라네, 친구.",
+ "storyTitle": "햇빛 충전 할아버지",
+ "story": "할아버지는 renewable(재생 가능한) 에너지의 열혈 팬이에요. newcomer(새로 온 사람)인 이웃에게도 태양광을 권하셨죠. \"매일 아침 에너지를 renew(새롭게 하다)한다네!\" 그런데 그 news(소식)의 진실은, 할아버지가 매일 햇볕 아래서 낮잠을 주무신다는 것이었답니다."
+}

@@ -1,0 +1,67 @@
+{
+ "word": "firefighter",
+ "pos": "명사",
+ "phonetic": "[ˈfaɪərfaɪtər]",
+ "meaning": "소방관",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fire",
+   "meaning": "불 (fire)",
+   "note": "고대 영어 fyr에서 온 아주 오래된 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fight",
+   "meaning": "싸우다 (fight)",
+   "note": "고대 영어 feohtan에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "동사 뒤에 붙어 '그 일을 하는 사람'을 만들어요."
+  }
+ ],
+ "summary": "<strong>fire</strong> (불) + <strong>fight</strong> (싸우다) + <strong>-er</strong> (사람) = '불과 싸우는 사람'이라는 뜻에서 <strong>'소방관'</strong>이 되었습니다.",
+ "historyTitle": "fireman에서 firefighter로",
+ "historyBody": "fire와 fight는 모두 고대 영어에서 온 토박이 단어예요. 예전에는 소방관을 주로 fireman이라고 불렀지만, 여성 소방관도 많아지면서 성별 구분이 없는 firefighter가 널리 쓰이게 되었어요. 단어 자체가 '불과 싸우는 사람'이라는 뜻이라 외우기 쉽답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fireplace",
+   "pos": "명사",
+   "meaning": "벽난로",
+   "en": "We sat by the warm fireplace and drank hot chocolate.",
+   "ko": "우리는 따뜻한 벽난로 옆에 앉아 핫초코를 마셨어요."
+  },
+  {
+   "word": "firework",
+   "pos": "명사",
+   "meaning": "불꽃놀이",
+   "en": "The fireworks lit up the night sky on New Year's Eve.",
+   "ko": "새해 전날 밤 불꽃놀이가 밤하늘을 밝혔어요."
+  },
+  {
+   "word": "fireproof",
+   "pos": "형용사",
+   "meaning": "내화성의, 불에 타지 않는",
+   "en": "Important documents are kept in a fireproof box.",
+   "ko": "중요한 서류는 불에 타지 않는 상자에 보관돼요."
+  },
+  {
+   "word": "fighter",
+   "pos": "명사",
+   "meaning": "싸우는 사람, 전투기",
+   "en": "She is a fighter who never gives up.",
+   "ko": "그녀는 절대 포기하지 않는 투사예요."
+  }
+ ],
+ "imageSense": "대표 의미: 소방복을 입고 호스로 불을 끄는 사람",
+ "imageCaption": "빨간 소방차에서 뛰어내려 거센 불길에 물줄기를 쏘는 사람을 떠올려 보세요.",
+ "movieLineEn": "Stay back! Let the firefighters do their job!",
+ "movieLineKo": "물러서요! 소방관들이 일하게 두세요!",
+ "storyTitle": "고양이 구조 대작전",
+ "story": "용감한 firefighter(소방관)가 나무 위 고양이를 구하러 출동했어요. 그 집에는 fireplace(벽난로)도, fireproof(불에 타지 않는) 금고도 있었지만 불은 없었죠. 진정한 fighter(투사)답게 사다리를 올라갔는데, 고양이는 훌쩍 뛰어내려 집으로 들어갔어요. 결국 소방관이 나무에서 못 내려와 동료들이 구조했대요!"
+}

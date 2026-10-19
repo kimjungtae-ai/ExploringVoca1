@@ -1,0 +1,88 @@
+{
+ "word": "container",
+ "pos": "명사",
+ "phonetic": "[kənˈteɪnər]",
+ "meaning": "그릇, 용기, (화물용) 컨테이너",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "한데 모아 둔다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tain",
+   "meaning": "잡다, 쥐다 (hold)",
+   "note": "라틴어 tenere(잡고 있다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것 (명사)",
+   "note": "물건이나 사람을 나타내는 접미사예요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>tain</strong> (쥐다) + <strong>-er</strong> (~것) = '여러 것을 함께 담아 쥐고 있는 것'에서 <strong>'용기, 그릇'</strong>이 되었어요.",
+ "historyTitle": "라틴어 tenere, '꽉 붙잡다'",
+ "historyBody": "container는 contain(담다)에 -er이 붙은 말이고, contain은 라틴어 continere(함께 붙들다)에서 왔어요. 그 뿌리 tenere(잡다)는 maintain, obtain, retain 같은 단어에도 숨어 있어요. 오늘날 세계 무역을 바꾼 화물 컨테이너도 이 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "contain",
+   "pos": "동사",
+   "meaning": "포함하다, 담다",
+   "en": "This drink contains a lot of sugar.",
+   "ko": "이 음료에는 설탕이 많이 들어 있어요."
+  },
+  {
+   "word": "content",
+   "pos": "명사",
+   "meaning": "내용(물), 목차",
+   "en": "The content of the book was very interesting.",
+   "ko": "그 책의 내용은 아주 흥미로웠어요."
+  },
+  {
+   "word": "maintain",
+   "pos": "동사",
+   "meaning": "유지하다",
+   "en": "It is important to maintain a healthy diet.",
+   "ko": "건강한 식단을 유지하는 것이 중요해요."
+  },
+  {
+   "word": "obtain",
+   "pos": "동사",
+   "meaning": "얻다, 획득하다",
+   "en": "You need to obtain permission to use this room.",
+   "ko": "이 방을 쓰려면 허락을 받아야 해요."
+  },
+  {
+   "word": "retain",
+   "pos": "동사",
+   "meaning": "보유하다, 유지하다",
+   "en": "Wool clothes retain heat very well.",
+   "ko": "울 옷은 열을 아주 잘 유지해요."
+  },
+  {
+   "word": "sustain",
+   "pos": "동사",
+   "meaning": "지속시키다, 떠받치다",
+   "en": "We need clean energy to sustain life on Earth.",
+   "ko": "지구의 생명을 지속시키려면 깨끗한 에너지가 필요해요."
+  },
+  {
+   "word": "entertain",
+   "pos": "동사",
+   "meaning": "즐겁게 하다",
+   "en": "The clown entertained the children with magic tricks.",
+   "ko": "광대는 마술로 아이들을 즐겁게 해 주었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 남은 음식을 플라스틱 용기에 담아 냉장고에 넣는 장면",
+ "imageCaption": "뚜껑 달린 반찬통에 음식이 꽉 담긴 모습을 떠올려 보세요. 무언가를 '담아 쥐고 있는 것'이 container예요.",
+ "movieLineEn": "Don't open that container. Whatever's inside is still alive!",
+ "movieLineKo": "그 통 열지 마. 안에 든 게 아직 살아 있어!",
+ "storyTitle": "수상한 반찬통",
+ "story": "엄마의 냉장고에는 이름 모를 container(용기)가 있었어요. 무엇을 contain(담다)하는지 아무도 몰랐죠. 아빠는 평화를 maintain(유지하다)하려고 모른 척했어요. 용감한 나는 정보를 obtain(얻다)하려고 뚜껑을 열었어요. 그 content(내용물)는... 작년 내 생일 케이크였답니다!"
+}

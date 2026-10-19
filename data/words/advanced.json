@@ -1,0 +1,74 @@
+{
+ "word": "advanced",
+ "pos": "형용사",
+ "phonetic": "[ədˈvænst]",
+ "meaning": "고급의, 선진의, 진보한, 상급의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ab-",
+   "meaning": "~에서 (from)",
+   "note": "원래 ab-였는데, 중세에 ad-로 잘못 고쳐 써서 d가 생겼어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ante",
+   "meaning": "앞에 (before)",
+   "note": "라틴어 ante(앞에)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "동사 advance를 '앞서 나간'이라는 상태로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ab-</strong> (~에서) + <strong>ante</strong> (앞에) + <strong>-ed</strong> = '앞으로 나아간'에서 <strong>'고급의, 진보한, 선진의'</strong>가 되었어요.",
+ "historyTitle": "실수로 생긴 'd' 하나",
+ "historyBody": "advance는 후기 라틴어 abante(앞에서)에서 고대 프랑스어 avancier(앞으로 나아가다)가 되었어요. 그런데 16세기 사람들이 이 av-를 라틴어 ad-로 착각해 철자에 d를 넣었고, 그게 지금까지 남았답니다. 그래서 ad-를 '~로'라고 풀면 실제 어원과 달라요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "advance",
+   "pos": "동사/명사",
+   "meaning": "나아가다, 발전하다 / 진보",
+   "en": "Technology advances very quickly these days.",
+   "ko": "요즘 기술은 매우 빠르게 발전해요."
+  },
+  {
+   "word": "advantage",
+   "pos": "명사",
+   "meaning": "이점, 유리함",
+   "en": "Being tall is an advantage in basketball.",
+   "ko": "키가 큰 것은 농구에서 유리해요."
+  },
+  {
+   "word": "ancestor",
+   "pos": "명사",
+   "meaning": "조상, 선조",
+   "en": "Our ancestors lived by farming.",
+   "ko": "우리 조상들은 농사를 지으며 살았어요."
+  },
+  {
+   "word": "ancient",
+   "pos": "형용사",
+   "meaning": "고대의, 아주 오래된",
+   "en": "We visited an ancient temple in Gyeongju.",
+   "ko": "우리는 경주의 오래된 절을 방문했어요."
+  },
+  {
+   "word": "anticipate",
+   "pos": "동사",
+   "meaning": "예상하다, 기대하다",
+   "en": "We didn't anticipate so many visitors.",
+   "ko": "우리는 그렇게 많은 방문객을 예상하지 못했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 최첨단 로봇이 일하는 미래 도시의 모습",
+ "imageCaption": "다른 사람보다 한참 '앞에' 나가 있는 기술이나 실력을 떠올려 보세요.",
+ "movieLineEn": "This is the most advanced robot ever built.",
+ "movieLineKo": "이건 지금까지 만들어진 가장 진보한 로봇이야.",
+ "storyTitle": "고급반에 간 할아버지",
+ "story": "할아버지는 advanced(고급의) 스마트폰 수업에 등록했어요. 젊은이들보다 advantage(이점)는 없었지만 열심히 advance(나아가다)했죠. 마지막 날, 할아버지는 ancestor(조상)들의 사진을 인공지능으로 움직이게 했어요! 그런데 화면 속 조상님이 말했어요. '얘야, 밥은 먹고 다니냐?'"
+}

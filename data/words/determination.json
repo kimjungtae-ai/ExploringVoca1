@@ -1,0 +1,67 @@
+{
+ "word": "determination",
+ "pos": "명사",
+ "phonetic": "[dɪˌtɜːrmɪˈneɪʃn]",
+ "meaning": "결심, 결단력, 결정",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "완전히 (completely)",
+   "note": "의미를 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "termin",
+   "meaning": "경계, 끝 (boundary, end)",
+   "note": "라틴어 terminus(경계, 끝)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>termin</strong> (경계) + <strong>-ation</strong> = '경계를 딱 정해 버림'에서 <strong>'결심, 결단력'</strong>이 되었어요.",
+ "historyTitle": "경계석의 신 테르미누스",
+ "historyBody": "determine은 라틴어 determinare(경계를 정하다)에서 왔어요. terminus는 땅의 경계를 표시하는 돌이었고, 로마에는 테르미누스라는 경계의 신까지 있었답니다. 경계를 확실히 정하듯 마음을 정하는 것이 determination이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "determine",
+   "pos": "동사",
+   "meaning": "결정하다, 알아내다",
+   "en": "Your effort will determine your future.",
+   "ko": "너의 노력이 미래를 결정할 거야."
+  },
+  {
+   "word": "determined",
+   "pos": "형용사",
+   "meaning": "단단히 결심한",
+   "en": "She was determined to pass the exam.",
+   "ko": "그녀는 시험에 꼭 합격하겠다고 결심했어요."
+  },
+  {
+   "word": "terminal",
+   "pos": "명사",
+   "meaning": "터미널, 종점",
+   "en": "Let's meet at the bus terminal.",
+   "ko": "버스 터미널에서 만나자."
+  },
+  {
+   "word": "term",
+   "pos": "명사",
+   "meaning": "기간, 용어",
+   "en": "This term I'm taking an art class.",
+   "ko": "이번 학기에 나는 미술 수업을 들어요."
+  }
+ ],
+ "imageSense": "대표 의미: 이를 악물고 결승선을 향해 달리는 선수의 눈빛",
+ "imageCaption": "'끝까지 간다!'라고 마음의 선을 딱 그은 표정을 떠올려 보세요.",
+ "movieLineEn": "With enough determination, nothing is impossible.",
+ "movieLineKo": "충분한 결단력만 있다면 불가능은 없어.",
+ "storyTitle": "다이어트 결심 1일 차",
+ "story": "삼촌은 강한 determination(결심)으로 다이어트를 시작했어요. 살을 빼겠다고 determined(단단히 결심한) 삼촌은 이번 term(기간) 목표도 정했죠. 그런데 버스 terminal(터미널)의 호떡 냄새가 삼촌의 운명을 determine(결정하다)했어요. 결심은 딱 3시간!"
+}

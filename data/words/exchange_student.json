@@ -1,0 +1,68 @@
+{
+ "word": "exchange student",
+ "pos": "명사구",
+ "phonetic": "[ɪksˈtʃeɪndʒ ˈstuːdnt]",
+ "meaning": "교환 학생",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "exchange",
+   "meaning": "교환 (exchange)",
+   "note": "ex-(밖으로) + change(바꾸다)로 '서로 주고받아 바꾸다'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "student",
+   "meaning": "학생 (student)",
+   "note": "라틴어 studere(열중하다, 공부하다)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>exchange</strong> (교환) + <strong>student</strong> (학생) = '나라끼리 서로 주고받는 학생'이라서 <strong>'교환 학생'</strong>이에요.",
+ "historyTitle": "서로 맞바꾸는 학생들",
+ "historyBody": "exchange는 고대 프랑스어 eschangier(ex- '완전히, 밖으로' + changer '바꾸다')에서 왔어요. student는 라틴어 studere(열심히 하다)에서 왔고, study와 같은 뿌리예요. 교환 학생 제도는 두 학교가 학생을 서로 보내고 받는 방식에서 이름이 붙었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "exchange",
+   "pos": "동사 / 명사",
+   "meaning": "교환하다 / 교환",
+   "en": "We exchanged phone numbers after the meeting.",
+   "ko": "우리는 모임이 끝난 뒤 전화번호를 교환했어요."
+  },
+  {
+   "word": "study abroad",
+   "pos": "숙어",
+   "meaning": "유학하다",
+   "en": "Many students dream of studying abroad.",
+   "ko": "많은 학생들이 유학을 꿈꿔요."
+  },
+  {
+   "word": "host family",
+   "pos": "명사구",
+   "meaning": "홈스테이 가정",
+   "en": "My host family made me feel very welcome.",
+   "ko": "홈스테이 가족은 저를 정말 따뜻하게 맞아 주었어요."
+  },
+  {
+   "word": "international student",
+   "pos": "명사구",
+   "meaning": "유학생",
+   "en": "Our school has many international students.",
+   "ko": "우리 학교에는 유학생이 많아요."
+  },
+  {
+   "word": "exchange rate",
+   "pos": "명사구",
+   "meaning": "환율",
+   "en": "The exchange rate changes every day.",
+   "ko": "환율은 매일 바뀌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 캐리어를 끌고 외국 학교에 처음 들어서는 학생",
+ "imageCaption": "낯선 교실에서 '안녕!'하고 인사하는 새 친구를 떠올려 보세요.",
+ "movieLineEn": "Hi, I'm the new exchange student from Seoul!",
+ "movieLineKo": "안녕, 나는 서울에서 온 새 교환 학생이야!",
+ "storyTitle": "뒤바뀐 교환 학생",
+ "story": "미나는 exchange student(교환 학생)로 캐나다에 갔어요. host family(홈스테이 가정)는 친절했고, 다른 international student(유학생)들과도 친해졌죠. 그런데 학교에 가니 모두 프랑스어만 썼어요! 알고 보니 미나는 퀘벡에 온 거였어요. 미나는 웃으며 말했죠. \"study abroad(유학하다)를 두 나라 몫으로 하네!\""
+}

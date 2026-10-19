@@ -1,0 +1,62 @@
+{
+ "word": "vary",
+ "pos": "동사",
+ "phonetic": "[ˈveri]",
+ "meaning": "다르다, 다양하다, 바꾸다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vary (← 라틴어 variare)",
+   "meaning": "다양하게 하다, 바꾸다 (change)",
+   "note": "라틴어 varius(다양한)에서 나온 동사 variare가 프랑스어 varier를 거쳐 왔어요."
+  }
+ ],
+ "summary": "라틴어 <strong>varius</strong> (다양한)에서 나온 동사 variare가 들어와 <strong>'다르다, 바꾸다'</strong>가 되었어요.",
+ "historyTitle": "색이 섞여 바뀌는 것",
+ "historyBody": "라틴어 varius는 '얼룩덜룩한, 여러 가지의'라는 뜻이었어요. 이 단어에서 '바꾸다'라는 동사 variare가 생겼고, 고대 프랑스어 varier를 거쳐 14세기 영어에 vary로 들어왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "variety",
+   "pos": "명사",
+   "meaning": "다양성, 여러 가지",
+   "en": "The store sells a variety of snacks.",
+   "ko": "그 가게는 다양한 과자를 팔아요."
+  },
+  {
+   "word": "various",
+   "pos": "형용사",
+   "meaning": "다양한",
+   "en": "People exercise for various reasons.",
+   "ko": "사람들은 여러 가지 이유로 운동을 해요."
+  },
+  {
+   "word": "variable",
+   "pos": "형용사 / 명사",
+   "meaning": "변하기 쉬운 / 변수",
+   "en": "Sleep is an important variable in learning.",
+   "ko": "수면은 학습에서 중요한 변수예요."
+  },
+  {
+   "word": "variation",
+   "pos": "명사",
+   "meaning": "변화, 변형",
+   "en": "This song is a variation of an old folk tune.",
+   "ko": "이 노래는 옛 민요를 변형한 곡이에요."
+  },
+  {
+   "word": "invariably",
+   "pos": "부사",
+   "meaning": "언제나, 변함없이",
+   "en": "Our cat invariably wakes me up at six.",
+   "ko": "우리 고양이는 언제나 여섯 시에 나를 깨워요."
+  }
+ ],
+ "imageSense": "대표 의미: 같은 나무라도 계절마다 색이 달라지는 모습",
+ "imageCaption": "봄에는 초록, 가을에는 빨강으로 변하는 나무처럼, 상황에 따라 달라지는 것을 떠올려 보세요.",
+ "movieLineEn": "The plan may vary, but our goal stays the same.",
+ "movieLineKo": "계획은 달라질 수 있지만, 우리의 목표는 그대로야.",
+ "storyTitle": "변덕쟁이 날씨 요정",
+ "story": "날씨 요정은 기분에 따라 날씨를 vary(바꾸다)했어요. 하루에도 various(다양한) 날씨가 나타났죠. 사람들은 그 variety(다양성)에 지쳐 항의했어요. 요정은 반성하고 매일 맑게 해 줬어요. 그러자 사람들이 말했죠. \"너무 지루해! 다시 variation(변화) 좀 줘!\""
+}

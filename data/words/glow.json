@@ -1,0 +1,55 @@
+{
+ "word": "glow",
+ "pos": "동사 / 명사",
+ "phonetic": "[ɡloʊ]",
+ "meaning": "빛나다, 붉어지다, 상기되다 / 불빛, 홍조",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "glow (古 glōwan)",
+   "meaning": "빛나다, 달아오르다 (shine)",
+   "note": "고대 영어 glōwan에서 온 순수 게르만계 단어라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>glow</strong>는 고대 영어 glōwan(<strong>빛나다</strong>)이 그대로 내려온 말로, 불꽃 없이 은은하게 <strong>'빛나다, 달아오르다'</strong>라는 뜻이에요.",
+ "historyTitle": "gl-로 시작하는 '빛'의 단어 가족",
+ "historyBody": "glow는 고대 영어 glōwan에서 왔고, '빛나다'를 뜻하는 인도유럽 조어 *ghel-로 거슬러 올라가요. 같은 뿌리에서 gleam, glimmer, glitter처럼 gl-로 시작하는 빛 관련 단어들이 많이 나왔어요. 심지어 gold와 yellow도 같은 뿌리로 보는 게 일반적이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "glowing",
+   "pos": "형용사",
+   "meaning": "빛나는, 극찬하는",
+   "en": "The teacher wrote a glowing review of my essay.",
+   "ko": "선생님은 내 에세이에 극찬하는 평을 써 주셨어."
+  },
+  {
+   "word": "gleam",
+   "pos": "동사 / 명사",
+   "meaning": "반짝이다 / 희미한 빛",
+   "en": "Her eyes gleamed with excitement when she saw the gift.",
+   "ko": "선물을 보자 그녀의 눈이 기쁨으로 반짝였어."
+  },
+  {
+   "word": "glimmer",
+   "pos": "명사 / 동사",
+   "meaning": "희미한 빛, 한 가닥 (희망) / 깜빡이다",
+   "en": "There is still a glimmer of hope for the team.",
+   "ko": "그 팀에게는 아직 한 가닥 희망이 있어."
+  },
+  {
+   "word": "glitter",
+   "pos": "동사 / 명사",
+   "meaning": "반짝반짝 빛나다 / 반짝이",
+   "en": "The city lights glittered below the mountain.",
+   "ko": "산 아래로 도시의 불빛이 반짝반짝 빛났어."
+  }
+ ],
+ "imageSense": "대표 의미: 어두운 방에서 반딧불이 은은하게 빛나는 장면",
+ "imageCaption": "캄캄한 밤, 불꽃 없이 따뜻하게 빛나는 반딧불이나 숯불을 떠올리면 glow가 딱 그려져요.",
+ "movieLineEn": "Look! The map is starting to glow in the dark!",
+ "movieLineKo": "봐! 지도가 어둠 속에서 빛나기 시작했어!",
+ "storyTitle": "반딧불이의 자존심",
+ "story": "반딧불이는 밤마다 glow(은은히 빛나다)했어요. 그런데 옆집 보석이 glitter(반짝이다)하며 자랑하자 기가 죽었죠. 달빛도 gleam(반짝이다)하니 남은 건 glimmer(희미한 빛)뿐. 그때 정전이 됐어요! 스스로 빛나는 건 반딧불이뿐이라, 다음 날 신문엔 glowing(극찬하는) 기사가 실렸답니다."
+}

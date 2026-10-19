@@ -1,0 +1,61 @@
+{
+ "word": "fragile",
+ "pos": "형용사",
+ "phonetic": "[ˈfrædʒəl]",
+ "meaning": "부서지기 쉬운, 연약한, 취약한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "frag",
+   "meaning": "깨다 (break)",
+   "note": "라틴어 frangere(깨다)에서 온 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ile",
+   "meaning": "~하기 쉬운 (형용사)",
+   "note": "라틴어 -ilis에서 와서 '~할 수 있는, ~하기 쉬운'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>frag</strong> (깨다) + <strong>-ile</strong> (~하기 쉬운) = '쉽게 깨지는'이라는 뜻에서 <strong>'부서지기 쉬운, 연약한'</strong>이 되었습니다.",
+ "historyTitle": "택배 상자 위의 FRAGILE",
+ "historyBody": "fragile은 라틴어 fragilis(부서지기 쉬운)에서 왔고, 그 뿌리는 frangere(깨다)예요. 같은 뿌리에서 나온 frail(허약한)은 프랑스어를 거쳐 더 일찍 영어에 들어왔어요. 택배 상자에 붙은 'FRAGILE' 스티커는 '깨지기 쉬우니 조심하세요'라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fragment",
+   "pos": "명사",
+   "meaning": "조각, 파편",
+   "en": "She found fragments of an old vase in the garden.",
+   "ko": "그녀는 정원에서 오래된 꽃병 조각을 발견했어요."
+  },
+  {
+   "word": "fracture",
+   "pos": "명사 / 동사",
+   "meaning": "골절, 균열 / 부러지다",
+   "en": "He suffered a fracture in his leg while skiing.",
+   "ko": "그는 스키를 타다가 다리가 골절됐어요."
+  },
+  {
+   "word": "fraction",
+   "pos": "명사",
+   "meaning": "부분, 분수",
+   "en": "Only a small fraction of the students failed the test.",
+   "ko": "극히 일부 학생만 시험에 떨어졌어요."
+  },
+  {
+   "word": "frail",
+   "pos": "형용사",
+   "meaning": "허약한, 노쇠한",
+   "en": "My grandfather looks frail, but he walks every day.",
+   "ko": "할아버지는 허약해 보이시지만 매일 산책하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 'FRAGILE' 스티커가 붙은 유리잔 상자",
+ "imageCaption": "얇은 유리잔이 담긴 상자를 조심조심 두 손으로 옮기는 모습을 떠올려 보세요.",
+ "movieLineEn": "Careful! That egg is fragile, and it's a dragon egg!",
+ "movieLineKo": "조심해! 그 알은 깨지기 쉬워, 게다가 용의 알이라고!",
+ "storyTitle": "깨지기 쉬운 택배",
+ "story": "택배 기사님이 'fragile(깨지기 쉬운)'이라고 적힌 상자를 조심조심 옮겼어요. 혹시 fracture(균열)라도 생길까 봐 땀을 뻘뻘 흘렸죠. 작은 fragment(조각) 하나도 깨지면 안 됐거든요. 집주인이 상자를 열자 나온 건… 쇠로 된 아령이었어요! 정말 frail(허약한) 건 기사님의 허리였대요."
+}

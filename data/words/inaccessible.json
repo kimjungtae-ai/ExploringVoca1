@@ -1,0 +1,87 @@
+{
+ "word": "inaccessible",
+ "pos": "형용사",
+ "phonetic": "[ˌɪnækˈsesəbl]",
+ "meaning": "접근할 수 없는, 가기 어려운, 이해하기 어려운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뒤의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac-",
+   "meaning": "~쪽으로 (ad-, to)",
+   "note": "ad-가 c 앞에서 ac-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cess",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는",
+   "note": "가능을 나타내는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>ac-</strong> (~로) + <strong>cess</strong> (가다) + <strong>-ible</strong> (~할 수 있는) = '다가갈 수 없는'이라는 뜻에서 <strong>'접근할 수 없는'</strong>이 되었습니다.",
+ "historyTitle": "가다(cedere)에서 태어난 단어들",
+ "historyBody": "라틴어 'accedere'는 '~쪽으로 가다, 다가가다'라는 뜻이었어요. 여기서 access(접근)가 나왔고, 15세기 무렵 부정의 in-이 붙은 inaccessible이 '닿을 수 없는'이라는 뜻으로 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "access",
+   "pos": "명사 / 동사",
+   "meaning": "접근, 이용 / 접근하다",
+   "en": "Every student should have access to the internet.",
+   "ko": "모든 학생은 인터넷을 이용할 수 있어야 해요."
+  },
+  {
+   "word": "accessible",
+   "pos": "형용사",
+   "meaning": "접근 가능한, 이용하기 쉬운",
+   "en": "The museum is accessible to wheelchair users.",
+   "ko": "그 박물관은 휠체어 이용자도 접근할 수 있어요."
+  },
+  {
+   "word": "process",
+   "pos": "명사",
+   "meaning": "과정 (앞으로 나아감)",
+   "en": "Learning a language is a slow process.",
+   "ko": "언어를 배우는 것은 느린 과정이에요."
+  },
+  {
+   "word": "success",
+   "pos": "명사",
+   "meaning": "성공 (뒤이어 오는 결과)",
+   "en": "Hard work is the key to success.",
+   "ko": "노력이 성공의 열쇠예요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "초과하다 (밖으로 넘어가다)",
+   "en": "The cost must not exceed our budget.",
+   "ko": "비용이 우리 예산을 초과해서는 안 돼요."
+  },
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 계속하다",
+   "en": "Please proceed to the next question.",
+   "ko": "다음 문제로 넘어가 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 구름 위 높은 산꼭대기의 아무도 못 가는 성",
+ "imageCaption": "길도 다리도 없는 절벽 위 성을 떠올려 보세요. 아무리 가고 싶어도 갈 수 없는 곳, 그게 inaccessible한 곳이에요.",
+ "movieLineEn": "The treasure is hidden in an inaccessible cave.",
+ "movieLineKo": "보물은 아무도 갈 수 없는 동굴에 숨겨져 있어.",
+ "storyTitle": "냉장고 꼭대기의 과자",
+ "story": "엄마는 과자를 냉장고 위 inaccessible(접근할 수 없는)한 곳에 숨겼어요. 동생은 의자를 쌓아 access(접근)를 시도했죠. 힘든 process(과정) 끝에 드디어 success(성공)! 그런데 상자 안엔 쪽지만 있었어요. '과자는 아빠가 먹었음.'"
+}

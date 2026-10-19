@@ -1,0 +1,68 @@
+{
+ "word": "refrain from",
+ "pos": "숙어",
+ "phonetic": "[rɪˈfreɪn frʌm]",
+ "meaning": "~을 삼가다, 자제하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "refrain",
+   "meaning": "삼가다, 억제하다 (hold back)",
+   "note": "라틴어 refrenare(고삐로 당기다)에서 온 말이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "from",
+   "meaning": "~로부터 (from)",
+   "note": "어떤 행동'으로부터' 떨어져 있는 이미지예요. 뒤에 명사나 -ing가 와요."
+  }
+ ],
+ "summary": "<strong>refrain</strong> (억제하다) + <strong>from</strong> (~로부터) = '어떤 행동으로부터 자신을 붙잡아 두다'에서 <strong>'~을 삼가다'</strong>가 되었어요.",
+ "historyTitle": "말의 고삐를 당기다",
+ "historyBody": "refrain(삼가다)은 라틴어 'refrenare'에서 왔는데, re-(뒤로) + frenum(재갈, 고삐)이 합쳐져 '고삐를 뒤로 당겨 말을 멈추다'라는 뜻이었어요. 그래서 자기 행동을 붙잡아 멈추는 '자제하다'가 되었죠. 참고로 노래의 '후렴(refrain)'은 다른 어원에서 온 동음이의어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "abstain from",
+   "pos": "숙어",
+   "meaning": "~을 삼가다, 절제하다",
+   "en": "He decided to abstain from sugary drinks.",
+   "ko": "그는 단 음료를 끊기로 결심했어요."
+  },
+  {
+   "word": "keep from",
+   "pos": "구동사",
+   "meaning": "~하지 않게 하다, 참다",
+   "en": "I couldn't keep from laughing at his joke.",
+   "ko": "나는 그의 농담에 웃음을 참을 수 없었어요."
+  },
+  {
+   "word": "prevent A from B",
+   "pos": "숙어",
+   "meaning": "A가 B하지 못하게 막다",
+   "en": "The rain prevented us from going hiking.",
+   "ko": "비 때문에 우리는 하이킹을 가지 못했어요."
+  },
+  {
+   "word": "hold back",
+   "pos": "구동사",
+   "meaning": "억제하다, 참다",
+   "en": "She held back her tears during the speech.",
+   "ko": "그녀는 연설하는 동안 눈물을 참았어요."
+  },
+  {
+   "word": "stop A from B",
+   "pos": "숙어",
+   "meaning": "A가 B하는 것을 막다",
+   "en": "Nothing can stop me from trying again.",
+   "ko": "어떤 것도 내가 다시 도전하는 걸 막을 수 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도서관 안내문 '대화를 삼가 주세요' 앞에서 입을 꾹 다문 장면",
+ "imageCaption": "말이 하고 싶어 입이 근질근질하지만 고삐를 당기듯 꾹 참는 모습을 떠올려 보세요.",
+ "movieLineEn": "Please refrain from talking during the show.",
+ "movieLineKo": "공연 중에는 대화를 삼가 주세요.",
+ "storyTitle": "참는 자에게 복이",
+ "story": "도서관에서 민호는 과자를 먹고 싶었지만 '음식을 refrain from(삼가다)'이라는 안내문을 봤어요. 침을 꿀꺽 삼키며 hold back(참다)했죠. 웃음도 keep from(참다)하려 애썼어요. 그런데 사서 선생님이 오시더니 도서관 행사로 과자를 나눠 주셨어요. 결국 그 과자는 민호 차지!"
+}

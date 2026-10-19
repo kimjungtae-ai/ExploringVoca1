@@ -1,0 +1,61 @@
+{
+ "word": "downtown",
+ "pos": "명사 / 부사 / 형용사",
+ "phonetic": "[ˌdaʊnˈtaʊn]",
+ "meaning": "시내, 도심(지) / 시내로, 도심에서 / 도심의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "down",
+   "meaning": "아래로, 아래쪽 (down)",
+   "note": "고대 영어 adune(언덕에서 아래로)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "town",
+   "meaning": "마을, 도시 (town)",
+   "note": "고대 영어 tun(울타리 친 곳, 마을)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>down</strong> (아래쪽) + <strong>town</strong> (도시) = '도시의 아래쪽'이라는 뜻에서 <strong>'시내, 도심'</strong>이 되었어요.",
+ "historyTitle": "뉴욕 맨해튼 아래쪽에서 생긴 말",
+ "historyBody": "downtown은 1830년대 미국 뉴욕에서 쓰이기 시작했어요. 맨해튼 섬의 남쪽 끝, 지도로 보면 '아래쪽'이 원래 도시가 시작된 곳이자 상업 중심지였거든요. 그래서 '아래 동네'가 곧 '번화한 도심'을 뜻하게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "uptown",
+   "pos": "명사/부사",
+   "meaning": "주택 지구(로), 도심 외곽(으로)",
+   "en": "They moved uptown to a quieter neighborhood.",
+   "ko": "그들은 더 조용한 외곽 주택가로 이사했어요."
+  },
+  {
+   "word": "hometown",
+   "pos": "명사",
+   "meaning": "고향",
+   "en": "I visit my hometown every Chuseok.",
+   "ko": "나는 추석마다 고향을 방문해요."
+  },
+  {
+   "word": "downstairs",
+   "pos": "부사/명사",
+   "meaning": "아래층으로 / 아래층",
+   "en": "Breakfast is ready downstairs.",
+   "ko": "아래층에 아침 식사가 준비되어 있어요."
+  },
+  {
+   "word": "download",
+   "pos": "동사",
+   "meaning": "내려받다",
+   "en": "You can download the app for free.",
+   "ko": "그 앱은 무료로 내려받을 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 빌딩과 상점, 사람들로 북적이는 도심 거리",
+ "imageCaption": "네온사인과 버스, 쇼핑하는 사람들로 붐비는 시내 한복판을 떠올려 보세요.",
+ "movieLineEn": "Meet me downtown at midnight. Come alone.",
+ "movieLineKo": "자정에 시내에서 만나. 혼자 와.",
+ "storyTitle": "시골 쥐의 도심 탐방",
+ "story": "hometown(고향)이 시골인 쥐가 처음으로 downtown(시내)에 갔어요. 빌딩 downstairs(아래층) 지하상가에서 길을 잃었죠. 지도 앱을 download(내려받다)하려는데 데이터가 없었어요. 결국 uptown(외곽 주택가)에서 온 도시 쥐가 길을 알려 줬어요. \"여기 치즈 한 조각에 만 원이야.\" 시골 쥐는 그날 밤 바로 고향으로 돌아갔답니다."
+}

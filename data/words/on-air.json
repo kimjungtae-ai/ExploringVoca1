@@ -1,0 +1,54 @@
+{
+ "word": "on-air",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ˌɑːn ˈer]",
+ "meaning": "방송 중인, 생방송의 / 방송 중에",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "on",
+   "meaning": "~위에, 작동 중 (on)",
+   "note": "'켜져 있음, 진행 중'을 나타내요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "air",
+   "meaning": "공기, 방송 (air)",
+   "note": "전파가 공기 중으로 퍼진다는 데서 '방송'이라는 뜻이 생겼어요."
+  }
+ ],
+ "summary": "<strong>on</strong> (진행 중) + <strong>air</strong> (전파, 방송) = 전파를 타고 있는 상태라서 <strong>'방송 중인'</strong>이 되었어요.",
+ "historyTitle": "라디오 시대가 만든 표현",
+ "historyBody": "air는 그리스어 aēr(공기)에서 라틴어와 프랑스어를 거쳐 영어로 들어왔어요. 1920년대 라디오 방송이 시작되면서 '전파가 공기 중으로 나간다'는 뜻으로 on the air(방송 중)라는 표현이 생겼고, 여기서 on-air라는 형용사가 굳어졌답니다. 방송국의 빨간 'ON AIR' 불빛이 바로 그거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "air",
+   "pos": "명사/동사",
+   "meaning": "공기 / 방송하다",
+   "en": "The show will air on Sunday night.",
+   "ko": "그 프로그램은 일요일 밤에 방송될 거예요."
+  },
+  {
+   "word": "airline",
+   "pos": "명사",
+   "meaning": "항공사",
+   "en": "The airline offered free meals on the flight.",
+   "ko": "그 항공사는 기내에서 무료 식사를 제공했어요."
+  },
+  {
+   "word": "airport",
+   "pos": "명사",
+   "meaning": "공항",
+   "en": "We arrived at the airport two hours early.",
+   "ko": "우리는 공항에 두 시간 일찍 도착했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 방송국 스튜디오 문 위에 빨간 'ON AIR' 불이 켜진 장면",
+ "imageCaption": "라디오 스튜디오 문 위에 빨간 불이 들어오고, 모두가 조용히 숨죽이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Quiet, everyone! We're on air in five seconds.",
+ "movieLineKo": "모두 조용! 5초 후에 방송 나갑니다.",
+ "storyTitle": "생방송 중 재채기",
+ "story": "라디오 DJ가 on-air(방송 중인) 불이 켜지자 멋지게 인사했어요. 그런데 air(공기) 중 먼지 때문에 재채기가 '에취!' 이 소리가 전국에 air(방송하다)되었죠. 다음 날 airline(항공사)에서 연락이 왔어요. '기내 안내 방송에 그 재채기를 쓰고 싶어요!' 알고 보니 엄청 귀여웠대요."
+}

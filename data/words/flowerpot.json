@@ -1,0 +1,61 @@
+{
+ "word": "flowerpot",
+ "pos": "명사",
+ "phonetic": "[ˈflaʊərpɑːt]",
+ "meaning": "화분",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "flower",
+   "meaning": "꽃 (flower)",
+   "note": "고대 프랑스어 flour(꽃)에서 왔고, 라틴어 flos가 뿌리예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pot",
+   "meaning": "단지, 냄비 (pot)",
+   "note": "후기 고대 영어 pott(단지)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>flower</strong> (꽃) + <strong>pot</strong> (단지) = '꽃을 심는 단지'라는 뜻에서 <strong>'화분'</strong>이 되었습니다.",
+ "historyTitle": "라틴어 꽃과 영어 단지의 만남",
+ "historyBody": "flower는 라틴어 flos(꽃)에서 고대 프랑스어 flour를 거쳐 들어왔어요. 재미있게도 밀가루 flour도 원래 같은 단어로, '곡식의 가장 좋은 부분(꽃)'이라는 뜻이었어요. pot은 후기 고대 영어 pott에서 왔고, 이 둘이 합쳐 '화분'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "flowery",
+   "pos": "형용사",
+   "meaning": "꽃무늬의, (말이) 화려한",
+   "en": "She wore a flowery dress to the party.",
+   "ko": "그녀는 파티에 꽃무늬 원피스를 입고 왔어요."
+  },
+  {
+   "word": "sunflower",
+   "pos": "명사",
+   "meaning": "해바라기",
+   "en": "The sunflowers in the field were taller than me.",
+   "ko": "들판의 해바라기는 나보다 키가 컸어요."
+  },
+  {
+   "word": "teapot",
+   "pos": "명사",
+   "meaning": "찻주전자",
+   "en": "Grandma poured hot tea from an old teapot.",
+   "ko": "할머니가 오래된 찻주전자로 뜨거운 차를 따르셨어요."
+  },
+  {
+   "word": "pottery",
+   "pos": "명사",
+   "meaning": "도자기, 도예",
+   "en": "We made pottery in art class today.",
+   "ko": "오늘 미술 시간에 도자기를 만들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 창가에 놓인 작은 화분 속 꽃",
+ "imageCaption": "햇살 드는 창가에 빨간 꽃이 핀 동그란 흙 화분을 떠올려 보세요.",
+ "movieLineEn": "Hide the key under the flowerpot by the door.",
+ "movieLineKo": "문 옆 화분 밑에 열쇠를 숨겨 둬.",
+ "storyTitle": "화분 속 비밀",
+ "story": "할머니는 창가의 flowerpot(화분)에 sunflower(해바라기)를 키우셨어요. 옆에는 pottery(도자기) 수업 때 만든 teapot(찻주전자)도 있었죠. 어느 날 해바라기가 쑥쑥 자라 지붕을 뚫었어요! 깜짝 놀란 이웃들이 모여들자 할머니는 flowery(화려한) 말투로 말씀하셨죠. \"얘가 원래 햇빛을 좀 좋아해요.\""
+}

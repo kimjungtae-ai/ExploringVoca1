@@ -1,0 +1,81 @@
+{
+ "word": "suspicious",
+ "pos": "형용사",
+ "phonetic": "[səˈspɪʃəs]",
+ "meaning": "의심스러운, 수상한, 의심하는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "su- (sub-)",
+   "meaning": "아래에서 (under)",
+   "note": "sub-가 s 앞에서 su-로 줄었어요. '아래에서 위로'라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spic",
+   "meaning": "보다 (look)",
+   "note": "라틴어 specere(보다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ious",
+   "meaning": "~한 성질의",
+   "note": "형용사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>su-</strong> (아래에서) + <strong>spic</strong> (보다) + <strong>-ious</strong> (~한) = '아래에서 위로 훑어보는'에서 <strong>'의심스러운, 수상한'</strong>이 되었어요.",
+ "historyTitle": "위아래로 훑어보는 눈빛",
+ "historyBody": "라틴어 suspicere는 '아래에서 올려다보다'라는 뜻이었고, 여기서 '몰래 살펴보다, 의심하다'라는 뜻이 나왔어요. suspicious는 이 말에서 온 라틴어 suspiciosus가 고대 프랑스어를 거쳐 14세기 영어로 들어온 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "suspect",
+   "pos": "동사 / 명사",
+   "meaning": "의심하다 / 용의자",
+   "en": "The police suspect that he lied.",
+   "ko": "경찰은 그가 거짓말을 했다고 의심해요."
+  },
+  {
+   "word": "suspicion",
+   "pos": "명사",
+   "meaning": "의심, 혐의",
+   "en": "She looked at the stranger with suspicion.",
+   "ko": "그녀는 의심스러운 눈으로 낯선 사람을 쳐다봤어요."
+  },
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "검사하다, 점검하다",
+   "en": "Workers inspect the machines every morning.",
+   "ko": "직원들은 매일 아침 기계를 점검해요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중",
+   "en": "Thousands of spectators filled the stadium.",
+   "ko": "수천 명의 관중이 경기장을 가득 메웠어요."
+  },
+  {
+   "word": "respect",
+   "pos": "동사 / 명사",
+   "meaning": "존경하다 / 존경",
+   "en": "I respect my teacher's honesty.",
+   "ko": "나는 선생님의 정직함을 존경해요."
+  },
+  {
+   "word": "perspective",
+   "pos": "명사",
+   "meaning": "관점, 시각",
+   "en": "Try to see the problem from a different perspective.",
+   "ko": "다른 관점에서 문제를 바라보도록 해 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈을 가늘게 뜨고 누군가를 훑어보는 장면",
+ "imageCaption": "탐정이 실눈을 뜨고 수상한 사람을 위아래로 훑어보는 모습을 떠올려 보세요.",
+ "movieLineEn": "That man in the black coat looks suspicious. Follow him.",
+ "movieLineKo": "검은 코트 입은 저 남자 수상해 보여. 따라가.",
+ "storyTitle": "수상한 냉장고 도둑",
+ "story": "아침마다 냉장고 푸딩이 사라졌어요. 엄마는 suspicious(의심스러운) 눈빛으로 나를 suspect(용의자)로 지목했죠. 나는 억울해서 직접 냉장고를 inspect(점검하다)했어요. 그날 밤 숨어서 지켜보던 spectator(관중)인 나는 범인을 발견했어요. 바로 잠결에 냉장고를 연 아빠였답니다. 본인도 기억을 못 했대요!"
+}

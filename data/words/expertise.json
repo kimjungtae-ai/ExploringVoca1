@@ -1,0 +1,61 @@
+{
+ "word": "expertise",
+ "pos": "명사",
+ "phonetic": "[ˌekspɜːrˈtiːz]",
+ "meaning": "전문 지식, 전문 기술",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "expert",
+   "meaning": "전문가 (expert)",
+   "note": "라틴어 expertus(시험해 본)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ise",
+   "meaning": "~의 성질, 능력 (명사형)",
+   "note": "프랑스어 명사 어미예요. 전문가가 가진 능력을 뜻해요."
+  }
+ ],
+ "summary": "<strong>expert</strong> (전문가) + <strong>-ise</strong> (명사) = '전문가가 가진 능력'에서 <strong>'전문 지식, 전문 기술'</strong>이 되었어요.",
+ "historyTitle": "프랑스에서 건너온 '전문가의 실력'",
+ "historyBody": "expertise는 19세기에 프랑스어 'expertise'에서 영어로 들어왔어요. 프랑스어에서는 원래 '전문가의 감정(평가)'을 뜻했는데, 영어에서는 '전문가의 지식과 기술'이라는 뜻으로 자리 잡았어요. 그래서 발음 끝도 프랑스식으로 [-tiːz]라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expert",
+   "pos": "명사 / 형용사",
+   "meaning": "전문가 / 숙련된",
+   "en": "An expert fixed our broken computer in minutes.",
+   "ko": "전문가가 고장 난 컴퓨터를 몇 분 만에 고쳤어요."
+  },
+  {
+   "word": "experience",
+   "pos": "명사",
+   "meaning": "경험",
+   "en": "Experience is the best teacher.",
+   "ko": "경험이 최고의 스승이에요."
+  },
+  {
+   "word": "experiment",
+   "pos": "명사",
+   "meaning": "실험",
+   "en": "The students designed their own experiment.",
+   "ko": "학생들은 직접 실험을 설계했어요."
+  },
+  {
+   "word": "experienced",
+   "pos": "형용사",
+   "meaning": "경험이 많은",
+   "en": "We hired an experienced guide for the trip.",
+   "ko": "우리는 여행을 위해 경험 많은 가이드를 고용했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 장인이 손끝으로 섬세하게 시계를 고치는 장면",
+ "imageCaption": "오랜 시간 쌓아 온 손기술과 지식이 빛나는 순간을 떠올려 보세요.",
+ "movieLineEn": "This job needs your expertise. Nobody else can do it.",
+ "movieLineKo": "이 일엔 네 전문 기술이 필요해. 다른 누구도 못 해.",
+ "storyTitle": "라면 전문가",
+ "story": "형은 라면 끓이기에 expertise(전문 기술)가 있다고 자랑했어요. 스스로를 expert(전문가)라 부르며 experience(경험)를 늘어놓았죠. 오늘은 새로운 experiment(실험)로 라면에 딸기잼을 넣었어요. 가족들은 한입 먹고 말없이 각자 라면을 다시 끓였답니다."
+}

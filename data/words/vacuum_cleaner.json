@@ -1,0 +1,68 @@
+{
+ "word": "vacuum cleaner",
+ "pos": "명사구",
+ "phonetic": "[ˈvækjuːm ˈkliːnər]",
+ "meaning": "진공청소기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "vacuum",
+   "meaning": "진공 (vacuum)",
+   "note": "공기를 빼내어 빨아들이는 원리를 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "cleaner",
+   "meaning": "청소기, 청소하는 것 (cleaner)",
+   "note": "clean(깨끗이 하다)+-er(~하는 것)이에요."
+  }
+ ],
+ "summary": "<strong>vacuum</strong> (진공) + <strong>cleaner</strong> (청소하는 것) = '진공의 힘으로 빨아들여 청소하는 기계'에서 <strong>'진공청소기'</strong>",
+ "historyTitle": "'텅 빈'이라는 라틴어",
+ "historyBody": "vacuum은 라틴어 vacuus(텅 빈)에서 왔고, vacant(비어 있는), vacation(일에서 비워진 시간)과 같은 뿌리예요. clean은 고대 영어 clæne에서 왔어요. 1901년 영국의 허버트 세실 부스(Hubert Cecil Booth)가 먼지를 빨아들이는 동력 청소기로 특허를 받으며 진공청소기의 역사가 본격적으로 시작됐어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vacuum",
+   "pos": "동사",
+   "meaning": "진공청소기로 청소하다",
+   "en": "I vacuum my room every Saturday.",
+   "ko": "나는 토요일마다 방을 진공청소기로 청소해요."
+  },
+  {
+   "word": "vacant",
+   "pos": "형용사",
+   "meaning": "비어 있는",
+   "en": "There are no vacant seats on the bus.",
+   "ko": "버스에 빈자리가 없어요."
+  },
+  {
+   "word": "vacation",
+   "pos": "명사",
+   "meaning": "방학, 휴가",
+   "en": "We spent our vacation at the beach.",
+   "ko": "우리는 해변에서 휴가를 보냈어요."
+  },
+  {
+   "word": "evacuate",
+   "pos": "동사",
+   "meaning": "대피시키다",
+   "en": "People were evacuated before the storm.",
+   "ko": "폭풍이 오기 전에 사람들이 대피했어요."
+  },
+  {
+   "word": "dishwasher",
+   "pos": "명사",
+   "meaning": "식기세척기",
+   "en": "Put the plates in the dishwasher.",
+   "ko": "접시를 식기세척기에 넣으세요."
+  }
+ ],
+ "imageSense": "대표 의미: 윙윙 소리를 내며 카펫 위의 먼지를 빨아들이는 청소기 장면",
+ "imageCaption": "청소기 입구로 먼지와 과자 부스러기가 '쓰읍' 빨려 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Turn off that vacuum cleaner! I'm trying to watch TV!",
+ "movieLineKo": "그 청소기 좀 꺼! 나 TV 보려고 하잖아!",
+ "storyTitle": "로봇 청소기의 반란",
+ "story": "우리 집에 새 로봇 vacuum cleaner(진공청소기)가 왔어요. 매일 거실을 vacuum(청소기로 청소하다)하며 빈 vacant(비어 있는) 방까지 돌아다녔죠. 그런데 어느 날 아빠의 양말을 빨아들이더니 고양이까지 쫓아다녔어요. 고양이는 소파 위로 evacuate(대피하다)했고, 결국 로봇이 집의 서열 1위가 됐답니다."
+}

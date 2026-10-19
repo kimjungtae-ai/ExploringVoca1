@@ -1,0 +1,61 @@
+{
+ "word": "heavily",
+ "pos": "부사",
+ "phonetic": "[ˈhevɪli]",
+ "meaning": "심하게, 많이, 무겁게, 크게",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "heavy",
+   "meaning": "무거운 (heavy)",
+   "note": "고대 영어 hefig에서 왔고, hebban(들어 올리다, heave)과 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게",
+   "note": "형용사를 부사로 바꿔 주는 어미예요."
+  }
+ ],
+ "summary": "<strong>heavy</strong> (무거운) + <strong>-ly</strong> (~하게) = 무겁게, 묵직하게라는 뜻에서 <strong>'심하게, 많이'</strong>가 되었어요.",
+ "historyTitle": "들어 올리기 힘든 것이 '무거운' 것",
+ "historyBody": "heavy는 고대 영어 hefig에서 왔는데, 이는 hebban(들어 올리다, 지금의 heave)에서 나왔어요. 즉 '들어 올리려면 힘이 많이 드는' 것이 heavy예요. 여기에 -ly가 붙은 heavily는 'rain heavily(비가 많이 오다)'처럼 정도가 심함을 나타내요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "heavy",
+   "pos": "형용사",
+   "meaning": "무거운, 심한, 많은",
+   "en": "The traffic was heavy this morning.",
+   "ko": "오늘 아침 교통이 많이 막혔어."
+  },
+  {
+   "word": "heave",
+   "pos": "동사",
+   "meaning": "(무거운 것을) 들어 올리다",
+   "en": "They heaved the box onto the truck.",
+   "ko": "그들은 상자를 트럭 위로 들어 올렸어."
+  },
+  {
+   "word": "heaviness",
+   "pos": "명사",
+   "meaning": "무거움, 답답함",
+   "en": "I felt a heaviness in my chest before the speech.",
+   "ko": "발표 전에 가슴이 답답했어."
+  },
+  {
+   "word": "heavyweight",
+   "pos": "명사",
+   "meaning": "헤비급 선수, 거물",
+   "en": "He is a heavyweight in the music industry.",
+   "ko": "그는 음악계의 거물이야."
+  }
+ ],
+ "imageSense": "대표 의미: 장대비가 쏟아지고 무거운 가방을 끙끙 메고 가는 장면",
+ "imageCaption": "하늘에서 비가 '많이, 세차게' 쏟아지는 날을 떠올리면 heavily가 바로 그려져요.",
+ "movieLineEn": "It's raining heavily. We can't go out now.",
+ "movieLineKo": "비가 엄청 쏟아지고 있어. 지금은 못 나가.",
+ "storyTitle": "역도 선수의 비밀",
+ "story": "heavyweight(헤비급 선수) 철수는 바벨을 heave(들어 올리다)하는 게 특기였어요. 그날 밖엔 비가 heavily(심하게) 내렸죠. heavy(무거운) 바벨도 번쩍 드는 철수였지만, 우산 앞에선 heaviness(무거움)를 느꼈대요. 알고 보니 철수는 비 맞으면 머리가 곱슬해지는 게 세상에서 제일 무서웠던 거예요!"
+}

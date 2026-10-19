@@ -1,0 +1,68 @@
+{
+ "word": "flower arrangement",
+ "pos": "명사구",
+ "phonetic": "[ˈflaʊər əreɪndʒmənt]",
+ "meaning": "꽃꽂이, 꽃 장식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "flower",
+   "meaning": "꽃 (flower)",
+   "note": "라틴어 flos(꽃)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "arrangement",
+   "meaning": "배열, 정리 (arrangement)",
+   "note": "a-(~으로) + range(줄, 열) + -ment로 '줄 맞춰 배치함'이에요."
+  }
+ ],
+ "summary": "<strong>flower</strong> (꽃) + <strong>arrangement</strong> (배열) = '꽃을 보기 좋게 배치한 것'이라서 <strong>'꽃꽂이, 꽃 장식'</strong>이에요.",
+ "historyTitle": "줄을 맞추는 arrange",
+ "historyBody": "flower는 고대 프랑스어 flour, 라틴어 flos(꽃)에서 왔어요. arrange는 고대 프랑스어 arangier(줄을 세우다)에서 왔는데, rang는 '줄, 열'이라는 뜻으로 range, rank와 같은 뿌리예요. 그래서 arrangement는 '줄을 맞춰 놓은 것', 즉 배열과 준비를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "arrange",
+   "pos": "동사",
+   "meaning": "배열하다, 준비하다",
+   "en": "She arranged the books by color.",
+   "ko": "그녀는 책을 색깔별로 배열했어요."
+  },
+  {
+   "word": "bouquet",
+   "pos": "명사",
+   "meaning": "꽃다발",
+   "en": "He gave her a bouquet of roses.",
+   "ko": "그는 그녀에게 장미 꽃다발을 주었어요."
+  },
+  {
+   "word": "florist",
+   "pos": "명사",
+   "meaning": "꽃집 주인, 플로리스트",
+   "en": "The florist made a beautiful wreath.",
+   "ko": "플로리스트가 아름다운 화환을 만들었어요."
+  },
+  {
+   "word": "flourish",
+   "pos": "동사",
+   "meaning": "번성하다, 잘 자라다",
+   "en": "Plants flourish in warm, wet weather.",
+   "ko": "식물은 따뜻하고 습한 날씨에 잘 자라요."
+  },
+  {
+   "word": "make arrangements",
+   "pos": "숙어",
+   "meaning": "준비하다, 계획을 세우다",
+   "en": "We made arrangements for the school trip.",
+   "ko": "우리는 수학여행을 위한 준비를 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃병에 여러 색 꽃을 균형 있게 꽂는 장면",
+ "imageCaption": "높낮이와 색을 맞춰 꽃을 하나하나 꽂아 가는 손길을 떠올려 보세요.",
+ "movieLineEn": "This flower arrangement is too beautiful to be from you.",
+ "movieLineKo": "이 꽃 장식은 네가 만들었다기엔 너무 예쁜데.",
+ "storyTitle": "꽃꽂이 대회의 반전",
+ "story": "엄마는 flower arrangement(꽃꽂이) 대회에 나가셨어요. florist(플로리스트)처럼 꽃을 arrange(배열하다)하고 멋진 bouquet(꽃다발)도 만드셨죠. 그런데 우리 집 강아지가 꽃을 몽땅 먹어 버렸어요! 엄마는 급히 브로콜리와 파로 작품을 만들었고, 그 작품이 대상을 받았어요. 심사위원 평: \"건강하고 신선하다!\""
+}

@@ -1,0 +1,48 @@
+{
+ "word": "fee",
+ "pos": "명사",
+ "phonetic": "[fiː]",
+ "meaning": "요금, 수수료, 수업료, (전문직에 주는) 보수",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fee",
+   "meaning": "재산, 가축 (property, cattle)",
+   "note": "게르만어 *fehu(가축, 재산)에서 왔어요. 옛날엔 가축이 곧 돈이었거든요."
+  }
+ ],
+ "summary": "<strong>fee</strong> (가축 → 재산) = 옛날 값어치의 상징이던 가축에서 출발해 <strong>'요금, 수수료'</strong>가 되었습니다.",
+ "historyTitle": "소가 곧 돈이던 시절",
+ "historyBody": "fee는 앵글로프랑스어 fee를 거쳐 왔는데, 그 뿌리는 '가축, 재산'을 뜻하는 게르만어 *fehu예요. 같은 뿌리를 가진 고대 영어 feoh도 '가축, 돈'을 뜻했어요. 중세에는 영주가 기사에게 주던 땅(봉토)을 가리켰고, 여기서 feudal(봉건의)이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "feudal",
+   "pos": "형용사",
+   "meaning": "봉건(제도)의",
+   "en": "In the feudal system, farmers worked the land for their lords.",
+   "ko": "봉건 제도에서 농민들은 영주를 위해 땅을 경작했어요."
+  },
+  {
+   "word": "feudalism",
+   "pos": "명사",
+   "meaning": "봉건 제도",
+   "en": "Feudalism slowly disappeared as cities and trade grew.",
+   "ko": "도시와 무역이 성장하면서 봉건 제도는 서서히 사라졌어요."
+  },
+  {
+   "word": "fief",
+   "pos": "명사",
+   "meaning": "봉토, 영지",
+   "en": "The king gave the brave knight a small fief.",
+   "ko": "왕은 용감한 기사에게 작은 영지를 하사했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 박물관 매표소에서 입장료를 내는 장면",
+ "imageCaption": "매표소 창구 위에 '입장료(Admission Fee) 5,000원'이라고 적힌 안내판을 떠올려 보세요.",
+ "movieLineEn": "There's a small fee for crossing this magic bridge.",
+ "movieLineKo": "이 마법 다리를 건너려면 약간의 통행료가 있어.",
+ "storyTitle": "소 한 마리로 수업료를 낸 학생",
+ "story": "타임머신을 타고 중세에 간 민수는 학교 fee(수업료)를 내려고 했어요. 그런데 feudal(봉건의) 시대의 선생님이 말했죠. \"돈 말고 소 한 마리!\" 옛날엔 가축이 재산이었거든요. 민수는 영주에게 fief(봉토)의 소를 빌렸고, feudalism(봉건 제도) 수업을 들었어요. 그런데 소가 반에서 1등을 했대요!"
+}

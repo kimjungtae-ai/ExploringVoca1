@@ -1,0 +1,80 @@
+{
+ "word": "keep a close eye out",
+ "pos": "숙어",
+ "phonetic": "[kiːp ə kloʊs aɪ aʊt]",
+ "meaning": "눈을 크게 뜨고 지켜보다, 잘 살피다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "keep",
+   "meaning": "유지하다 (keep)",
+   "note": "어떤 상태를 '계속 유지한다'는 뜻을 맡아요."
+  },
+  {
+   "type": "수식어 (Modifier)",
+   "part": "close",
+   "meaning": "가까운, 면밀한 (close)",
+   "note": "관찰이 '꼼꼼하고 면밀하다'는 걸 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "eye",
+   "meaning": "눈 (eye)",
+   "note": "'눈', 즉 시선과 주의를 뜻해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖으로, 바짝 (out)",
+   "note": "밖을 향해 경계하며 '찾아본다'는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>keep</strong> (유지하다) + <strong>a close eye</strong> (면밀한 눈) + <strong>out</strong> (밖을 향해) = '밖으로 면밀한 눈을 계속 두다'에서 <strong>'잘 살피다, 지켜보다'</strong>",
+ "historyTitle": "keep an eye out과 keep a close eye on의 결합",
+ "historyBody": "이 표현은 keep an eye out (for)(~을 찾아 경계하다)에 close(면밀한)가 더해진 형태예요. 보통 뒤에 for를 붙여 'keep a close eye out for ~(~이 나타나는지 잘 지켜보다)'로 써요. 비슷한 keep a close eye on은 '~을 면밀히 감시하다'라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "keep an eye on",
+   "pos": "숙어",
+   "meaning": "~을 지켜보다",
+   "en": "Can you keep an eye on my bag?",
+   "ko": "내 가방 좀 봐 줄래?"
+  },
+  {
+   "word": "look out for",
+   "pos": "구동사",
+   "meaning": "~을 경계하다, 조심하다",
+   "en": "Look out for cars when you cross.",
+   "ko": "길 건널 때 차 조심해."
+  },
+  {
+   "word": "watch out",
+   "pos": "구동사",
+   "meaning": "조심하다",
+   "en": "Watch out! The floor is wet.",
+   "ko": "조심해! 바닥이 젖었어."
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "meaning": "관찰하다",
+   "en": "Scientists observe animals in the wild.",
+   "ko": "과학자들은 야생에서 동물을 관찰해."
+  },
+  {
+   "word": "keep track of",
+   "pos": "숙어",
+   "meaning": "~을 계속 파악하다",
+   "en": "I use an app to keep track of my spending.",
+   "ko": "나는 지출을 파악하려고 앱을 써."
+  }
+ ],
+ "imageSense": "대표 의미: 망원경으로 수평선 너머를 꼼꼼히 살피는 장면",
+ "imageCaption": "눈을 부릅뜨고 사방을 두리번거리며 무언가 나타나길 지켜보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Keep a close eye out for anyone in a red hat.",
+ "movieLineKo": "빨간 모자 쓴 사람이 있는지 잘 지켜봐.",
+ "storyTitle": "택배 도둑 잡기",
+ "story": "택배가 자꾸 사라지자 동생과 나는 keep a close eye out(잘 살피다) 하기로 했어요. 한 명은 문 앞을 keep an eye on(~을 지켜보다) 하고, 한 명은 창밖을 look out for(~을 경계하다) 했죠. 드디어 범인을 observe(관찰하다) 했어요. 범인은 상자 안에서 낮잠 자는 걸 좋아하는 옆집 고양이였어요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "troubled",
+ "pos": "형용사",
+ "phonetic": "[ˈtrʌbld]",
+ "meaning": "걱정하는, 불안한, 문제가 많은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "trouble (← turbidus)",
+   "meaning": "휘젓다, 어지럽히다 (stir up, disturb)",
+   "note": "라틴어 turba(소란, 군중)에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~한 상태의 (형용사형)",
+   "note": "어떤 일을 당한 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>trouble</strong> (휘저어 어지럽히다) + <strong>-ed</strong> (~된) = 마음이 휘저어진, 즉 <strong>'걱정하는, 문제가 많은'</strong>이 되었어요.",
+ "historyTitle": "흙탕물처럼 흐려진 마음",
+ "historyBody": "trouble은 고대 프랑스어 'trubler(휘젓다)'에서 왔고, 이는 라틴어 'turbidus(흐린, 소란스러운)'와 'turba(소란, 군중)'로 거슬러 올라가요. 물을 휘저으면 흙탕물이 되듯, 마음이 어지럽혀진 상태를 troubled라고 해요. 같은 뿌리에서 disturb(방해하다), turbulent(난기류의, 격동의)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trouble",
+   "pos": "명사 / 동사",
+   "meaning": "문제, 곤란 / 괴롭히다",
+   "en": "I had trouble sleeping before the big exam.",
+   "ko": "큰 시험 전에 나는 잠드는 데 어려움을 겪었어요."
+  },
+  {
+   "word": "troublesome",
+   "pos": "형용사",
+   "meaning": "골치 아픈, 귀찮은",
+   "en": "The troublesome printer broke down again.",
+   "ko": "골치 아픈 프린터가 또 고장 났어요."
+  },
+  {
+   "word": "troublemaker",
+   "pos": "명사",
+   "meaning": "말썽꾼",
+   "en": "He used to be a troublemaker, but now he helps others.",
+   "ko": "그는 예전엔 말썽꾼이었지만 지금은 다른 사람들을 도와요."
+  },
+  {
+   "word": "disturb",
+   "pos": "동사",
+   "meaning": "방해하다",
+   "en": "Please don't disturb me while I'm studying.",
+   "ko": "내가 공부하는 동안 방해하지 말아 주세요."
+  },
+  {
+   "word": "turbulent",
+   "pos": "형용사",
+   "meaning": "격동의, 난기류의",
+   "en": "The plane shook during the turbulent flight.",
+   "ko": "비행기가 난기류 속에서 흔들렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 창가에 앉아 깊은 걱정에 잠긴 사람의 얼굴",
+ "imageCaption": "맑던 물이 휘저어져 뿌옇게 흐려진 컵, 그리고 그 컵처럼 마음이 어지러운 얼굴을 떠올려 보세요.",
+ "movieLineEn": "You look troubled. Did the dragon eat your homework again?",
+ "movieLineKo": "너 걱정이 있어 보여. 용이 또 숙제를 먹었어?",
+ "storyTitle": "말썽꾼 강아지",
+ "story": "우리 집 강아지는 동네 최고의 troublemaker(말썽꾼)예요. 오늘도 엄마의 낮잠을 disturb(방해하다)했죠. troubled(걱정하는) 얼굴로 엄마가 말했어요. \"또 무슨 trouble(문제)을 만들었니?\" 그런데 강아지가 물고 온 건 엄마가 일주일째 찾던 결혼반지였답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "free up",
+ "pos": "구동사",
+ "phonetic": "[friː ʌp]",
+ "meaning": "(시간·공간 등을) 비우다, 확보하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "free",
+   "meaning": "자유롭게 하다, 비우다 (free)",
+   "note": "묶여 있던 것을 풀어 준다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히 (up)",
+   "note": "완전히 풀어서 쓸 수 있게 만든다는 완료의 느낌이에요."
+  }
+ ],
+ "summary": "<strong>free</strong> (풀어 주다) + <strong>up</strong> (완전히) = '묶여 있던 것을 완전히 풀어 쓸 수 있게 하다'라서 <strong>'시간·공간을 확보하다'</strong>예요.",
+ "historyTitle": "사랑받는 사람이 자유롭다?",
+ "historyBody": "free는 고대 영어 freo에서 왔는데, 원래 '사랑받는, 소중한' 이라는 뜻의 뿌리와 관련이 있어요. 가족처럼 아끼는 사람은 노예가 아니라 '자유로운' 사람이었기 때문이에요. free up은 주로 시간, 공간, 저장 용량, 자원을 비워 쓸 수 있게 할 때 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "clear out",
+   "pos": "구동사",
+   "meaning": "치우다, 비우다",
+   "en": "We cleared out the garage last weekend.",
+   "ko": "우리는 지난 주말에 차고를 치웠어요."
+  },
+  {
+   "word": "make room for",
+   "pos": "숙어",
+   "meaning": "~을 위한 공간을 만들다",
+   "en": "Move your bag to make room for her.",
+   "ko": "그녀가 앉을 수 있게 가방을 옮겨 줘."
+  },
+  {
+   "word": "freedom",
+   "pos": "명사",
+   "meaning": "자유",
+   "en": "Students want more freedom to choose classes.",
+   "ko": "학생들은 수업을 고를 자유를 더 원해요."
+  },
+  {
+   "word": "set free",
+   "pos": "숙어",
+   "meaning": "풀어 주다",
+   "en": "The children set the bird free.",
+   "ko": "아이들은 새를 풀어 주었어요."
+  },
+  {
+   "word": "spare time",
+   "pos": "명사구",
+   "meaning": "여가 시간",
+   "en": "What do you do in your spare time?",
+   "ko": "여가 시간에 뭐 하세요?"
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰 저장 공간을 비우려고 사진을 지우는 장면",
+ "imageCaption": "'저장 공간 부족' 알림에 쓸데없는 파일을 지워 자리를 만드는 모습을 그려 보세요.",
+ "movieLineEn": "Cancel my meetings. I need to free up my afternoon.",
+ "movieLineKo": "회의 다 취소해. 오후 시간을 비워야 해.",
+ "storyTitle": "저장 공간의 비극",
+ "story": "휴대폰에 '저장 공간 부족'이 떴어요. 나는 공간을 free up(비우다)하려고 사진을 지우기 시작했어요. 새 사진을 위해 make room for(~을 위한 공간을 만들다)하며 앱도 clear out(비우다)했죠. 드디어 자유! freedom(자유)을 만끽하며 셀카를 찍으려는데… 카메라 앱까지 지워 버렸지 뭐예요. 이젠 spare time(여가 시간)도 남아도네요."
+}

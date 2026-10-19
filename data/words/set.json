@@ -1,0 +1,69 @@
+{
+ "word": "set",
+ "pos": "동사 / 명사 / 형용사",
+ "phonetic": "[set]",
+ "meaning": "놓다, 설정하다, (해가) 지다 / 세트, 한 벌 / 정해진, 준비된",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "set",
+   "meaning": "앉히다, 놓다 (cause to sit)",
+   "note": "고대 영어 'settan'에서 왔고, 'sittan(앉다)'의 '앉게 하다'라는 뜻의 동사예요. 더 쪼갤 수 없는 짧은 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>set</strong> (앉게 하다, 놓다) = 무언가를 제자리에 앉히다, 즉 <strong>'놓다, 설정하다'</strong>예요.",
+ "historyTitle": "sit의 짝꿍 동사",
+ "historyBody": "고대 영어 'settan'은 'sittan(앉다)'에서 만든 '앉히다'라는 뜻의 동사였어요. 그래서 set은 '무언가를 어디에 놓다, 고정하다'가 기본 의미예요. 영어에서 뜻이 가장 많은 단어 중 하나로 꼽히는데, 해가 지는 것(sunset)도 해가 땅으로 '내려앉는' 모습에서 나온 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "setting",
+   "pos": "명사",
+   "meaning": "배경, 환경, 설정",
+   "en": "The setting of the novel is a small island.",
+   "ko": "그 소설의 배경은 작은 섬이에요."
+  },
+  {
+   "word": "settle",
+   "pos": "동사",
+   "meaning": "정착하다, 해결하다",
+   "en": "They finally settled the argument peacefully.",
+   "ko": "그들은 마침내 그 다툼을 평화롭게 해결했어요."
+  },
+  {
+   "word": "sit",
+   "pos": "동사",
+   "meaning": "앉다",
+   "en": "Please sit down and relax.",
+   "ko": "앉아서 편히 쉬세요."
+  },
+  {
+   "word": "upset",
+   "pos": "형용사 / 동사",
+   "meaning": "속상한 / 속상하게 하다",
+   "en": "She was upset because she lost her phone.",
+   "ko": "그녀는 휴대폰을 잃어버려서 속상했어요."
+  },
+  {
+   "word": "outset",
+   "pos": "명사",
+   "meaning": "시작, 처음",
+   "en": "From the outset, the project seemed difficult.",
+   "ko": "처음부터 그 프로젝트는 어려워 보였어요."
+  },
+  {
+   "word": "sunset",
+   "pos": "명사",
+   "meaning": "일몰, 해 질 녘",
+   "en": "We watched a beautiful sunset at the beach.",
+   "ko": "우리는 해변에서 아름다운 일몰을 보았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 식탁 위에 접시와 숟가락을 가지런히 놓는 장면",
+ "imageCaption": "해가 바다 위로 천천히 내려앉는 모습과 식탁에 그릇을 놓는 모습을 함께 떠올려 보세요.",
+ "movieLineEn": "Ready, set, go! Run as fast as you can!",
+ "movieLineKo": "준비, 차렷, 출발! 최대한 빨리 달려!",
+ "storyTitle": "알람 설정의 비극",
+ "story": "내일 소풍을 위해 알람을 6시로 set(설정하다)했어요. 그런데 동생이 장난으로 setting(설정)을 바꿔 버렸죠. 나는 일어나 보니 이미 sunset(일몰)! 너무 upset(속상한)해서 울었는데, 알고 보니 소풍은 다음 주였어요."
+}

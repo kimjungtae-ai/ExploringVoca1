@@ -1,0 +1,75 @@
+{
+ "word": "actually",
+ "pos": "부사",
+ "phonetic": "[ˈæktʃuəli]",
+ "meaning": "실제로, 사실은, 정말로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "actual",
+   "meaning": "실제의 (real)",
+   "note": "라틴어 actus(행해진 일)에서 온 형용사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "형용사를 부사로 바꾸는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>actual</strong> (실제의) + <strong>-ly</strong> (~하게) = '실제로는'에서 <strong>'사실은, 실제로'</strong>가 되었어요.",
+ "historyTitle": "'사실은 말이야~'의 역사",
+ "historyBody": "actually는 원래 '행동으로, 실제로 행해져서'라는 뜻이었어요. 시간이 지나면서 '예상과 달리 사실은'이라는 뜻으로 많이 쓰이게 되었고, 지금은 대화에서 앞의 말을 바로잡을 때 정말 자주 쓰여요. 수능 지문에서도 반전 신호로 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "actual",
+   "pos": "형용사",
+   "meaning": "실제의",
+   "en": "The actual cost was higher than we expected.",
+   "ko": "실제 비용은 우리가 예상한 것보다 높았어요."
+  },
+  {
+   "word": "act",
+   "pos": "동사",
+   "meaning": "행동하다",
+   "en": "Think carefully before you act.",
+   "ko": "행동하기 전에 신중하게 생각하세요."
+  },
+  {
+   "word": "action",
+   "pos": "명사",
+   "meaning": "행동, 조치",
+   "en": "The government took action to reduce pollution.",
+   "ko": "정부는 오염을 줄이기 위해 조치를 취했어요."
+  },
+  {
+   "word": "activity",
+   "pos": "명사",
+   "meaning": "활동",
+   "en": "Swimming is my favorite summer activity.",
+   "ko": "수영은 내가 가장 좋아하는 여름 활동이에요."
+  },
+  {
+   "word": "react",
+   "pos": "동사",
+   "meaning": "반응하다",
+   "en": "Plants react to light and water.",
+   "ko": "식물은 빛과 물에 반응해요."
+  },
+  {
+   "word": "interact",
+   "pos": "동사",
+   "meaning": "상호 작용하다",
+   "en": "The app lets students interact with their teachers.",
+   "ko": "그 앱으로 학생들은 선생님과 소통할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무서워 보이는 개가 사실은 순한 강아지였다는 반전 장면",
+ "imageCaption": "겉모습과 다른 '진짜 사실'이 드러나는 순간을 떠올려 보세요.",
+ "movieLineEn": "Actually, I was the one who ate your cake.",
+ "movieLineKo": "사실은, 네 케이크 먹은 사람 나야.",
+ "storyTitle": "무서운 선생님의 진실",
+ "story": "새 체육 선생님은 무서운 얼굴로 유명했어요. 아이들은 겁먹고 조용히 act(행동하다)했죠. 그런데 첫 activity(활동) 시간, 선생님이 말했어요. 'Actually(사실은) 저 피구가 무서워요.' 아이들이 어떻게 react(반응하다)했냐고요? 다 같이 선생님 앞을 막아 주며 피구를 했대요!"
+}

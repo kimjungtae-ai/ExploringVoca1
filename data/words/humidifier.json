@@ -1,0 +1,67 @@
+{
+ "word": "humidifier",
+ "pos": "명사",
+ "phonetic": "[hjuːˈmɪdɪfaɪər]",
+ "meaning": "가습기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "humid",
+   "meaning": "습한 (moist)",
+   "note": "라틴어 umidus(축축한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ify",
+   "meaning": "~하게 만들다 (make)",
+   "note": "라틴어 facere(만들다)에서 온 동사 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것, ~하는 기계",
+   "note": "동사 뒤에 붙어 '그 일을 하는 사람이나 물건'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>humid</strong> (습한) + <strong>-ify</strong> (만들다) + <strong>-er</strong> (~하는 기계) = '습하게 만드는 기계'라는 뜻에서 <strong>'가습기'</strong>가 되었어요.",
+ "historyTitle": "축축하게 '만드는' 기계",
+ "historyBody": "humid는 라틴어 umidus(축축한)에서 왔고, -ify는 라틴어 facere(만들다)에서 왔어요. humidify(가습하다)에 '~하는 것'을 뜻하는 -er이 붙어 humidifier가 되었죠. 19세기 말 공장과 건물의 습도 조절 기계를 부르며 널리 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "humid",
+   "pos": "형용사",
+   "meaning": "습한",
+   "en": "Hong Kong is hot and humid in summer.",
+   "ko": "홍콩은 여름에 덥고 습해요."
+  },
+  {
+   "word": "humidity",
+   "pos": "명사",
+   "meaning": "습도",
+   "en": "The humidity is above 80 percent today.",
+   "ko": "오늘 습도는 80퍼센트가 넘어요."
+  },
+  {
+   "word": "humidify",
+   "pos": "동사",
+   "meaning": "가습하다",
+   "en": "Doctors say you should humidify the air when you have a cold.",
+   "ko": "의사들은 감기에 걸리면 공기를 가습하라고 말해요."
+  },
+  {
+   "word": "dehumidifier",
+   "pos": "명사",
+   "meaning": "제습기",
+   "en": "Our dehumidifier fills up with water every day in July.",
+   "ko": "7월에는 제습기 물통이 매일 가득 차요."
+  }
+ ],
+ "imageSense": "대표 의미: 건조한 겨울밤, 침대 옆에서 하얀 김을 뿜는 기계",
+ "imageCaption": "보글보글 하얀 수증기를 내뿜어 방을 촉촉하게 '만드는' 기계를 떠올리세요.",
+ "movieLineEn": "Who turned the humidifier into a fog machine?!",
+ "movieLineKo": "누가 가습기를 안개 기계로 만들어 놨어?!",
+ "storyTitle": "구름 속의 내 방",
+ "story": "겨울이라 공기가 너무 건조해서 humidifier(가습기)를 샀어요. 방을 humidify(가습하다)하려고 최대로 틀었죠. 금세 방은 humid(습한) 열대 우림이 되었어요. humidity(습도)가 99%! 아침에 일어나니 방에 구름이 떠 있고, 화분에서는 버섯이 자랐어요. 결국 dehumidifier(제습기)도 샀답니다."
+}

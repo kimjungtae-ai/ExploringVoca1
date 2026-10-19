@@ -1,0 +1,74 @@
+{
+ "word": "sign up for",
+ "pos": "구동사",
+ "phonetic": "[saɪn ʌp fɔːr]",
+ "meaning": "~에 등록하다, ~을 신청하다, ~에 가입하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "sign",
+   "meaning": "서명하다 (sign)",
+   "note": "이름을 적어 표시한다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 명단에 (up)",
+   "note": "명단에 이름을 '올리는' 이미지예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "for",
+   "meaning": "~을 위해 (for)",
+   "note": "무엇을 위해 신청하는지 '목적, 대상'을 나타내요."
+  }
+ ],
+ "summary": "<strong>sign up</strong> (명단에 이름을 올리다) + <strong>for</strong> (~을 위해) = '~을 하려고 명단에 이름을 올리다'에서 <strong>'~에 등록하다, 신청하다'</strong>가 되었어요.",
+ "historyTitle": "무엇을 위한 서명인가",
+ "historyBody": "sign은 라틴어 'signum(표시)'에서 왔고, sign up은 명단에 이름을 써 올리는 것이에요. 여기에 목적을 나타내는 for가 붙어 '~을 위해 등록하다'가 되었어요. sign up for a class(수업 신청), sign up for a newsletter(소식지 구독)처럼 수능 실용문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apply for",
+   "pos": "구동사",
+   "meaning": "~에 지원하다, 신청하다",
+   "en": "He applied for a part-time job.",
+   "ko": "그는 아르바이트에 지원했어요."
+  },
+  {
+   "word": "register for",
+   "pos": "구동사",
+   "meaning": "~에 등록하다",
+   "en": "You can register for the course online.",
+   "ko": "그 강좌는 온라인으로 등록할 수 있어요."
+  },
+  {
+   "word": "enroll in",
+   "pos": "구동사",
+   "meaning": "~에 등록하다, 입학하다",
+   "en": "Many adults enroll in evening classes.",
+   "ko": "많은 성인이 야간 수업에 등록해요."
+  },
+  {
+   "word": "sign up",
+   "pos": "구동사",
+   "meaning": "가입하다",
+   "en": "It only takes a minute to sign up.",
+   "ko": "가입하는 데 1분밖에 안 걸려요."
+  },
+  {
+   "word": "participate in",
+   "pos": "구동사",
+   "meaning": "~에 참가하다",
+   "en": "Over 100 students participated in the event.",
+   "ko": "100명이 넘는 학생이 그 행사에 참가했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 방과 후 수업 신청서에 원하는 과목을 체크하는 장면",
+ "imageCaption": "방과 후 수업 안내지를 보며 '요가' 칸에 체크하고 이름을 적는 모습을 떠올려 보세요.",
+ "movieLineEn": "I signed up for this mission. I'm not backing out now.",
+ "movieLineKo": "난 이 임무에 지원했어. 이제 와서 빠지지 않아.",
+ "storyTitle": "잘못된 신청",
+ "story": "나는 방과 후 요리 수업에 sign up for(신청하다)했어요. 친구도 같이 register for(등록하다)했죠. 첫날 앞치마를 두르고 participate in(참가하다)하려고 교실에 갔는데, 칠판에 '요가 수업'이라고 쓰여 있었어요. 체크 칸을 한 줄 잘못 그은 거예요. 결국 우리는 쿠키 자세를 배웠답니다."
+}

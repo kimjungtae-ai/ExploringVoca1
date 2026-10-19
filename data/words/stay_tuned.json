@@ -1,0 +1,68 @@
+{
+ "word": "stay tuned",
+ "pos": "숙어",
+ "phonetic": "[steɪ tuːnd]",
+ "meaning": "채널을 고정하다, 계속 지켜봐 주세요, (다음 소식을) 기대하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "stay",
+   "meaning": "계속 ~한 상태로 있다 (remain)",
+   "note": "그 상태를 유지하라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "tuned",
+   "meaning": "(주파수가) 맞춰진 (tuned)",
+   "note": "라디오나 TV의 주파수·채널이 맞춰져 있다는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>stay</strong> (계속 있다) + <strong>tuned</strong> (채널이 맞춰진) = '채널을 맞춘 채로 계속 있어 달라'에서 <strong>'계속 지켜봐 주세요'</strong>",
+ "historyTitle": "라디오 시대의 인사말",
+ "historyBody": "tune은 tone(음조)의 변형으로, 원래 '음을 맞추다'라는 뜻이었어요. 20세기 초 라디오가 퍼지면서 '주파수를 맞추다'라는 뜻으로 쓰였고, 방송 진행자들이 광고 전에 'Stay tuned!(채널 고정!)'라고 말하면서 유명해졌어요. 지금은 '다음 소식을 기대해 달라'는 뜻으로도 널리 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tune in",
+   "pos": "구동사",
+   "meaning": "(방송을) 청취·시청하다",
+   "en": "Millions of people tuned in to watch the final match.",
+   "ko": "수백만 명이 결승전을 보려고 채널을 맞췄어요."
+  },
+  {
+   "word": "tune",
+   "pos": "명사 / 동사",
+   "meaning": "곡조 / (악기·주파수를) 맞추다",
+   "en": "She hummed a happy tune while cooking.",
+   "ko": "그녀는 요리하면서 즐거운 곡조를 흥얼거렸어요."
+  },
+  {
+   "word": "in tune",
+   "pos": "전치사구",
+   "meaning": "음이 맞는, 조화를 이루는",
+   "en": "The singer was not in tune with the piano.",
+   "ko": "그 가수는 피아노와 음이 맞지 않았어요."
+  },
+  {
+   "word": "out of tune",
+   "pos": "전치사구",
+   "meaning": "음이 맞지 않는",
+   "en": "The old guitar was badly out of tune.",
+   "ko": "그 낡은 기타는 음이 심하게 안 맞았어요."
+  },
+  {
+   "word": "broadcast",
+   "pos": "동사 / 명사",
+   "meaning": "방송하다 / 방송",
+   "en": "The concert will be broadcast live tonight.",
+   "ko": "그 콘서트는 오늘 밤 생중계될 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: TV 진행자가 '채널 고정!'을 외치며 광고로 넘어가는 장면",
+ "imageCaption": "라디오 다이얼을 딱 맞춰 놓고 손을 떼지 말라고 부탁하는 진행자를 떠올려 보세요.",
+ "movieLineEn": "The winner will be announced after the break. Stay tuned!",
+ "movieLineKo": "우승자는 광고 후에 발표됩니다. 채널 고정하세요!",
+ "storyTitle": "끝나지 않는 예고",
+ "story": "아이돌 방송 진행자가 \"우승자 발표, stay tuned(채널 고정)!\"을 외쳤어요. 시청자들은 계속 tune in(시청하다)했죠. 광고 노래 tune(곡조)이 열 번이나 반복됐고, 그사이 방송국은 다른 프로를 broadcast(방송하다)했어요. 결국 우승자는 다음 주에 발표된대요. 진짜 stay tuned래요!"
+}

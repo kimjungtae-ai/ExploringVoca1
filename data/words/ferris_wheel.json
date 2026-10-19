@@ -1,0 +1,68 @@
+{
+ "word": "ferris wheel",
+ "pos": "명사구",
+ "phonetic": "[ˈferɪs wiːl]",
+ "meaning": "대관람차",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "Ferris",
+   "meaning": "페리스 (사람 이름)",
+   "note": "대관람차를 처음 만든 미국 기술자 George Ferris의 이름이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "wheel",
+   "meaning": "바퀴 (wheel)",
+   "note": "빙글빙글 도는 둥근 바퀴를 뜻해요."
+  }
+ ],
+ "summary": "<strong>Ferris</strong> (발명가 이름) + <strong>wheel</strong> (바퀴) = '페리스가 만든 거대한 바퀴'라서 <strong>'대관람차'</strong>예요.",
+ "historyTitle": "1893년 시카고의 거대한 바퀴",
+ "historyBody": "1893년 시카고 세계 박람회에서 미국 기술자 조지 워싱턴 게일 페리스 주니어가 거대한 회전 바퀴를 선보였어요. 파리 에펠탑에 맞설 명물을 만들려는 시도였고, 큰 인기를 끌면서 그의 이름이 붙은 Ferris wheel이 되었어요. wheel은 고대 영어 hweol에서 온 아주 오래된 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "roller coaster",
+   "pos": "명사구",
+   "meaning": "롤러코스터",
+   "en": "I screamed the whole time on the roller coaster.",
+   "ko": "나는 롤러코스터를 타는 내내 소리를 질렀어요."
+  },
+  {
+   "word": "amusement park",
+   "pos": "명사구",
+   "meaning": "놀이공원",
+   "en": "We spent all day at the amusement park.",
+   "ko": "우리는 하루 종일 놀이공원에서 보냈어요."
+  },
+  {
+   "word": "merry-go-round",
+   "pos": "명사",
+   "meaning": "회전목마",
+   "en": "Little kids love riding the merry-go-round.",
+   "ko": "어린아이들은 회전목마 타는 걸 좋아해요."
+  },
+  {
+   "word": "wheelchair",
+   "pos": "명사",
+   "meaning": "휠체어",
+   "en": "The building has ramps for wheelchairs.",
+   "ko": "그 건물에는 휠체어용 경사로가 있어요."
+  },
+  {
+   "word": "steering wheel",
+   "pos": "명사구",
+   "meaning": "(자동차) 핸들",
+   "en": "Keep both hands on the steering wheel.",
+   "ko": "핸들에 두 손을 모두 올려 두세요."
+  }
+ ],
+ "imageSense": "대표 의미: 노을 속에서 천천히 도는 거대한 관람차",
+ "imageCaption": "꼭대기에 올라 도시 전체가 내려다보이는 순간을 떠올려 보세요.",
+ "movieLineEn": "Meet me at the top of the Ferris wheel at sunset.",
+ "movieLineKo": "해 질 녘에 대관람차 꼭대기에서 만나.",
+ "storyTitle": "꼭대기에서 멈춘 고백",
+ "story": "민지는 amusement park(놀이공원)에서 ferris wheel(대관람차) 꼭대기에서 고백하려 했어요. roller coaster(롤러코스터)와 merry-go-round(회전목마)를 타며 용기를 모았죠. 드디어 꼭대기! 그 순간 관람차가 멈췄어요. 30분 동안 갇힌 둘은 할 말이 없어서 결국 끝말잇기를 했대요. 고백은 다음 기회에!"
+}

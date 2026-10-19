@@ -1,0 +1,68 @@
+{
+ "word": "adapt",
+ "pos": "동사",
+ "phonetic": "[əˈdæpt]",
+ "meaning": "적응하다, 맞추다, 각색하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~에, ~쪽으로 (to)",
+   "note": "방향이나 대상을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "apt",
+   "meaning": "맞는, 알맞은 (fit)",
+   "note": "라틴어 aptus(꼭 맞는)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~에) + <strong>apt</strong> (맞는) = '~에 꼭 맞게 하다'에서 <strong>'적응하다, 맞추다, 각색하다'</strong>가 되었어요.",
+ "historyTitle": "환경에 '딱 맞추는' 라틴어 adaptare",
+ "historyBody": "라틴어 adaptare는 '~에 맞추다'라는 뜻이었어요. 생물이 환경에 맞게 변하는 것, 소설을 영화에 맞게 바꾸는 것(각색) 모두 adapt로 표현해요. 수능 생물·환경 지문에 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "adaptation",
+   "pos": "명사",
+   "meaning": "적응, 각색",
+   "en": "The movie is an adaptation of a famous novel.",
+   "ko": "그 영화는 유명한 소설을 각색한 작품이에요."
+  },
+  {
+   "word": "adaptable",
+   "pos": "형용사",
+   "meaning": "적응할 수 있는",
+   "en": "Cats are very adaptable animals.",
+   "ko": "고양이는 적응력이 매우 좋은 동물이에요."
+  },
+  {
+   "word": "apt",
+   "pos": "형용사",
+   "meaning": "~하기 쉬운, 적절한",
+   "en": "He is apt to forget names.",
+   "ko": "그는 이름을 잘 잊어버리는 편이에요."
+  },
+  {
+   "word": "aptitude",
+   "pos": "명사",
+   "meaning": "적성, 소질",
+   "en": "She has an aptitude for music.",
+   "ko": "그녀는 음악에 소질이 있어요."
+  },
+  {
+   "word": "attitude",
+   "pos": "명사",
+   "meaning": "태도, 자세",
+   "en": "A positive attitude helps you learn faster.",
+   "ko": "긍정적인 태도는 더 빨리 배우는 데 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 북극곰이 하얀 털로 눈 덮인 환경에 맞춰 사는 장면",
+ "imageCaption": "새로운 환경에 몸과 습관을 '딱 맞춰 가는' 동물을 떠올려 보세요.",
+ "movieLineEn": "We have to adapt, or we won't survive out here.",
+ "movieLineKo": "적응해야 해, 안 그러면 여기서 살아남지 못해.",
+ "storyTitle": "남극으로 이사 간 펭귄 아닌 펭귄",
+ "story": "닭 꼬꼬는 남극으로 이사 갔어요. 처음엔 추위에 adapt(적응하다)하기 힘들었지만, 꼬꼬는 adaptable(적응력 있는)했죠. 긍정적인 attitude(태도)로 수영도 배웠어요. 알고 보니 수영 aptitude(소질)도 있었대요. 1년 뒤 펭귄들은 꼬꼬를 진짜 펭귄이라고 믿었답니다!"
+}

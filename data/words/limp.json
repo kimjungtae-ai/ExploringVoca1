@@ -1,0 +1,41 @@
+{
+ "word": "limp",
+ "pos": "동사 / 형용사",
+ "phonetic": "[lɪmp]",
+ "meaning": "절뚝거리다 / 축 늘어진, 힘없는",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "limp",
+   "meaning": "절다, 축 처지다 (limp)",
+   "note": "작은 조각으로 나누기 어려운 게르만 계열의 짧은 단어예요."
+  }
+ ],
+ "summary": "<strong>limp</strong>는 더 쪼갤 수 없는 짧은 단어로, <strong>'절뚝거리다, 축 늘어진'</strong>이라는 뜻이에요.",
+ "historyTitle": "기원이 흐릿한 '절뚝' 단어",
+ "historyBody": "동사 limp(절뚝거리다)는 고대 영어 lemphealt(절름발이의)와 관련 있다고 여겨지지만, 정확한 기원은 확실하지 않아요. 형용사 '축 늘어진'의 limp는 18세기에 나타났고, 동사와 연결되는지도 분명하지 않답니다. 그러니 억지로 쪼개지 말고 통째로 외우는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "limping",
+   "pos": "형용사",
+   "meaning": "절뚝거리는",
+   "en": "A limping dog came to our door in the rain.",
+   "ko": "비 오는 날 절뚝거리는 개 한 마리가 우리 집 문 앞에 왔어요."
+  },
+  {
+   "word": "limply",
+   "pos": "부사",
+   "meaning": "힘없이, 축 늘어져",
+   "en": "The flag hung limply on a windless day.",
+   "ko": "바람 없는 날 깃발이 축 늘어져 걸려 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 발목을 다친 축구 선수가 한쪽 다리를 절며 걸어 나가는 장면",
+ "imageCaption": "한쪽 다리에 힘이 빠져 절룩절룩 걷는 모습, 또는 물에 젖어 축 처진 상추를 떠올려 보세요.",
+ "movieLineEn": "He's limping. Get the doctor, now!",
+ "movieLineKo": "그가 절뚝거리고 있어. 당장 의사를 불러!",
+ "storyTitle": "체육대회의 연기왕",
+ "story": "철수는 체육대회 계주 직전에 limp(절뚝거리다)하기 시작했어요. 친구들이 limping(절뚝거리는) 철수를 부축하자, 철수는 limply(힘없이) 웃었죠. 그런데 결승선에 간식이 놓이자 갑자기 전력 질주! 알고 보니 limp(축 늘어진) 다리는 연기였고, 진짜 늘어진 건 그의 배였답니다."
+}

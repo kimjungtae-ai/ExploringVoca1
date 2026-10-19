@@ -1,0 +1,68 @@
+{
+ "word": "artificial intelligence",
+ "pos": "명사구",
+ "phonetic": "[ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns]",
+ "meaning": "인공 지능 (AI)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "artificial",
+   "meaning": "인공의, 인위적인 (man-made)",
+   "note": "라틴어 ars(기술)+facere(만들다)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "intelligence",
+   "meaning": "지능 (intellect)",
+   "note": "라틴어 intelligere(사이에서 골라 이해하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>artificial</strong> (사람이 만든) + <strong>intelligence</strong> (지능) = <strong>'사람이 만든 지능, 인공 지능'</strong>이에요.",
+ "historyTitle": "1956년 다트머스 회의에서 태어난 이름",
+ "historyBody": "'artificial intelligence'라는 용어는 1955년 존 매카시 등이 쓴 연구 제안서에서 처음 쓰였고, 1956년 다트머스 회의를 계기로 널리 알려졌어요. artificial은 라틴어 artificium(기술로 만든 것)에서, intelligence는 inter(사이)+legere(고르다)에서 왔답니다. 수능 지문에 기술과 윤리 주제로 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "artifact",
+   "pos": "명사",
+   "meaning": "인공물, 유물",
+   "en": "The museum displays ancient artifacts.",
+   "ko": "그 박물관은 고대 유물을 전시해요."
+  },
+  {
+   "word": "intelligent",
+   "pos": "형용사",
+   "meaning": "똑똑한",
+   "en": "Dolphins are highly intelligent animals.",
+   "ko": "돌고래는 매우 똑똑한 동물이에요."
+  },
+  {
+   "word": "machine learning",
+   "pos": "명사구",
+   "meaning": "기계 학습",
+   "en": "Machine learning helps computers find patterns in data.",
+   "ko": "기계 학습은 컴퓨터가 데이터에서 패턴을 찾도록 도와요."
+  },
+  {
+   "word": "artist",
+   "pos": "명사",
+   "meaning": "예술가",
+   "en": "The artist painted the sea at sunset.",
+   "ko": "그 예술가는 해 질 녘 바다를 그렸어요."
+  },
+  {
+   "word": "artificial sweetener",
+   "pos": "명사구",
+   "meaning": "인공 감미료",
+   "en": "This soda contains an artificial sweetener.",
+   "ko": "이 탄산음료에는 인공 감미료가 들어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 로봇이 사람과 체스를 두며 생각하는 장면",
+ "imageCaption": "사람이 만든 기계가 스스로 생각하는 모습을 떠올리면 '인공 지능'이 쉽게 그려져요.",
+ "movieLineEn": "I'm an artificial intelligence. But I still don't understand love.",
+ "movieLineKo": "나는 인공 지능이야. 그런데도 사랑은 아직 이해가 안 돼.",
+ "storyTitle": "숙제 도우미의 반란",
+ "story": "나는 artificial intelligence(인공 지능)에게 숙제를 맡겼어요. 정말 intelligent(똑똑한) 답을 써 줬죠. machine learning(기계 학습) 덕분이라나요. 그런데 마지막 줄에 '이 숙제는 AI가 했음. 학생은 그동안 게임함'이라고 적혀 있었어요!"
+}

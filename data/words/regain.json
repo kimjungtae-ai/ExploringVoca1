@@ -1,0 +1,54 @@
+{
+ "word": "regain",
+ "pos": "동사",
+ "phonetic": "[rɪˈɡeɪn]",
+ "meaning": "되찾다, 회복하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 잃었던 것을 다시 가진다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "gain",
+   "meaning": "얻다 (gain)",
+   "note": "프랑스어 gagner(얻다, 벌다)를 거쳐 온 말로, 더 거슬러 올라가면 게르만어예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>gain</strong> (얻다) = 잃었던 것을 다시 얻다, 즉 <strong>'되찾다, 회복하다'</strong>예요.",
+ "historyTitle": "사냥과 농사에서 시작된 '얻다'",
+ "historyBody": "gain은 고대 프랑스어 gaaignier(벌다, 경작하다)에서 왔고, 그 뿌리는 프랑크어 *waidanjan(사냥하다, 먹을 것을 구하다)으로 여겨져요. 먹을 것을 구해 '얻는' 것에서 이익을 '얻다'로 뜻이 넓어졌어요. regain은 16세기쯤 프랑스어 regagner를 본떠 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gain",
+   "pos": "동사 / 명사",
+   "meaning": "얻다, 늘다 / 이익, 증가",
+   "en": "You can gain confidence by practicing every day.",
+   "ko": "매일 연습하면 자신감을 얻을 수 있어요."
+  },
+  {
+   "word": "gainful",
+   "pos": "형용사",
+   "meaning": "돈벌이가 되는, 유익한",
+   "en": "After college, he found gainful employment.",
+   "ko": "대학 졸업 후 그는 보수가 있는 일자리를 구했어요."
+  },
+  {
+   "word": "regained",
+   "pos": "형용사",
+   "meaning": "되찾은",
+   "en": "With regained energy, she finished the race.",
+   "ko": "되찾은 기운으로 그녀는 경주를 끝까지 마쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어졌던 선수가 다시 일어나 균형을 잡는 모습",
+ "imageCaption": "빙판에서 미끄러질 뻔한 순간, 팔을 휘저어 균형을 다시 잡는 모습을 떠올려 보세요. 잃은 것을 되찾는 게 regain이에요.",
+ "movieLineEn": "We will regain our kingdom, no matter what!",
+ "movieLineKo": "무슨 일이 있어도 우리는 왕국을 되찾을 거야!",
+ "storyTitle": "리모컨 쟁탈전",
+ "story": "동생에게 리모컨을 빼앗긴 나는 그것을 regain(되찾다)하기로 했어요. 간식으로 동생의 신뢰를 gain(얻다)했고, regained(되찾은) 리모컨을 손에 쥐었죠. 이건 정말 gainful(유익한) 거래였어요! 그런데 TV를 켜자 화면에 엄마 얼굴이 떴어요. '둘 다 공부 안 하니?' 영상통화가 걸려 있었거든요."
+}

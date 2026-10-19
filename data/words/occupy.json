@@ -1,0 +1,68 @@
+{
+ "word": "occupy",
+ "pos": "동사",
+ "phonetic": "[ˈɑːkjupaɪ]",
+ "meaning": "차지하다, 점유하다, (마음·시간을) 사로잡다, 점령하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "oc- (ob-)",
+   "meaning": "~을 향하여, ~위에 (toward, over)",
+   "note": "ob-가 c 앞에서 oc-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cup (cap)",
+   "meaning": "잡다, 취하다 (take, seize)",
+   "note": "라틴어 capere(잡다)에서 왔어요. capture의 cap과 같아요."
+  }
+ ],
+ "summary": "<strong>oc-</strong> (~을 향해) + <strong>cup</strong> (잡다) = 어떤 자리를 붙잡아 차지한다는 뜻에서 <strong>'차지하다, 점령하다'</strong>가 되었어요.",
+ "historyTitle": "자리를 '움켜잡는' 로마 군대",
+ "historyBody": "라틴어 occupare는 ob-(~위에)와 capere(잡다)가 합쳐진 말로 '붙잡다, 점령하다'라는 뜻이었어요. 고대 프랑스어 occuper를 거쳐 14세기 영어로 들어왔어요. 땅을 차지하는 것에서 시간이나 마음을 차지한다는 뜻으로도 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "occupation",
+   "pos": "명사",
+   "meaning": "직업, 점령",
+   "en": "Please write your name and occupation on the form.",
+   "ko": "양식에 이름과 직업을 적어 주세요."
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "포착하다, 붙잡다",
+   "en": "The photo captured the beauty of the sunset.",
+   "ko": "그 사진은 노을의 아름다움을 잘 담아냈어요."
+  },
+  {
+   "word": "capable",
+   "pos": "형용사",
+   "meaning": "~할 수 있는, 유능한",
+   "en": "She is capable of solving hard problems alone.",
+   "ko": "그녀는 어려운 문제를 혼자 풀 수 있어요."
+  },
+  {
+   "word": "accept",
+   "pos": "동사",
+   "meaning": "받아들이다",
+   "en": "He accepted the invitation with a smile.",
+   "ko": "그는 웃으며 초대를 받아들였어요."
+  },
+  {
+   "word": "receive",
+   "pos": "동사",
+   "meaning": "받다",
+   "en": "I received a letter from my old friend.",
+   "ko": "나는 옛 친구에게서 편지를 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고양이가 소파 한가운데를 떡하니 차지하고 있는 장면",
+ "imageCaption": "넓은 소파의 가장 좋은 자리를 고양이가 혼자 차지하고 누워 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Our team will occupy the north tower before sunrise.",
+ "movieLineKo": "우리 팀은 해 뜨기 전에 북쪽 탑을 점령할 거야.",
+ "storyTitle": "자리 차지 대작전",
+ "story": "도서관 명당을 occupy(차지하다)하려고 민지는 새벽 6시에 갔어요. 그런데 이미 고양이가 자리를 capture(차지하다)하고 있었죠! 고양이는 비켜 달라는 부탁도 accept(받아들이다)하지 않았어요. 결국 민지는 고양이 옆에서 공부했고, 그날 '최고의 occupation(직업)은 고양이'라는 에세이로 상을 받았답니다."
+}

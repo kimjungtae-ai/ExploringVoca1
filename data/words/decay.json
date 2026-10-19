@@ -1,0 +1,61 @@
+{
+ "word": "decay",
+ "pos": "동사 / 명사",
+ "phonetic": "[dɪˈkeɪ]",
+ "meaning": "썩다, 부패하다, 쇠퇴하다 / 부패, 쇠퇴",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로 (down)",
+   "note": "아래로 내려가는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cay",
+   "meaning": "떨어지다 (fall)",
+   "note": "라틴어 cadere(떨어지다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (아래로) + <strong>cay</strong> (떨어지다) = '아래로 떨어져 무너지다'에서 <strong>'썩다, 쇠퇴하다'</strong>가 되었어요.",
+ "historyTitle": "떨어져 무너지는 것",
+ "historyBody": "decay는 고대 북부 프랑스어 decair를 거쳐 라틴어 de-(아래로) + cadere(떨어지다)에서 왔어요. 열매가 떨어져 썩어 가듯, 점점 상태가 나빠지는 것을 뜻하게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accident",
+   "pos": "명사",
+   "meaning": "사고, 우연",
+   "en": "Nobody was hurt in the car accident.",
+   "ko": "그 교통사고에서 다친 사람은 없었어요."
+  },
+  {
+   "word": "incident",
+   "pos": "명사",
+   "meaning": "사건",
+   "en": "The police are looking into the incident.",
+   "ko": "경찰이 그 사건을 조사하고 있어요."
+  },
+  {
+   "word": "occasion",
+   "pos": "명사",
+   "meaning": "경우, 행사",
+   "en": "We wear suits only on special occasions.",
+   "ko": "우리는 특별한 행사에만 정장을 입어요."
+  },
+  {
+   "word": "cascade",
+   "pos": "명사",
+   "meaning": "작은 폭포, 쏟아짐",
+   "en": "A cascade of water fell over the rocks.",
+   "ko": "바위 위로 물이 폭포처럼 쏟아졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 떨어진 사과가 시간이 지나며 갈색으로 썩어 가는 장면",
+ "imageCaption": "나무에서 떨어진 사과가 점점 시들어 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Without care, even the greatest kingdom will decay.",
+ "movieLineKo": "돌보지 않으면 가장 위대한 왕국도 쇠퇴하는 법이지.",
+ "storyTitle": "충치 요정의 반전",
+ "story": "사탕을 너무 먹은 지우의 이가 decay(썩다)하기 시작했어요. 치과에 가던 길에 작은 accident(사고)로 넘어졌는데, 그 incident(사건) 덕에 사탕이 cascade(폭포)처럼 쏟아졌죠. 치과 의사가 말했어요. \"이런 occasion(경우)엔 사탕부터 압수!\""
+}

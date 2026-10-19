@@ -1,0 +1,68 @@
+{
+ "word": "walnut",
+ "pos": "명사",
+ "phonetic": "[ˈwɔːlnʌt]",
+ "meaning": "호두, 호두나무",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "wal-",
+   "meaning": "외국의 (foreign)",
+   "note": "고대 영어 wealh(외국인, 켈트인)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "nut",
+   "meaning": "견과 (nut)",
+   "note": "딱딱한 껍데기 속 열매를 뜻하는 고대 영어 hnutu에서 왔어요."
+  }
+ ],
+ "summary": "<strong>wal-</strong> (외국의) + <strong>nut</strong> (견과) = '외국에서 온 견과'라는 뜻에서 <strong>'호두'</strong>가 되었어요.",
+ "historyTitle": "남쪽 나라에서 온 견과",
+ "historyBody": "고대 영어 walhhnutu는 '외국의 견과'라는 뜻이었어요. 게르만 사람들이 남쪽의 로마·갈리아 지역에서 들여온 호두를, 자기들 땅의 개암(hazelnut)과 구분해 이렇게 불렀대요. 웨일스(Wales)라는 이름도 같은 wealh(외국인)에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nut",
+   "pos": "명사",
+   "meaning": "견과",
+   "en": "Squirrels hide nuts for the winter.",
+   "ko": "다람쥐는 겨울을 대비해 견과를 숨겨요."
+  },
+  {
+   "word": "peanut",
+   "pos": "명사",
+   "meaning": "땅콩",
+   "en": "He is allergic to peanuts.",
+   "ko": "그는 땅콩 알레르기가 있어요."
+  },
+  {
+   "word": "coconut",
+   "pos": "명사",
+   "meaning": "코코넛",
+   "en": "We drank fresh coconut water on the beach.",
+   "ko": "우리는 해변에서 신선한 코코넛 물을 마셨어요."
+  },
+  {
+   "word": "nutshell",
+   "pos": "명사",
+   "meaning": "견과 껍데기, (in a nutshell) 요컨대",
+   "en": "In a nutshell, the plan failed.",
+   "ko": "요컨대 그 계획은 실패했어요."
+  },
+  {
+   "word": "Welsh",
+   "pos": "형용사 / 명사",
+   "meaning": "웨일스의 / 웨일스어",
+   "en": "She learned to sing a Welsh song.",
+   "ko": "그녀는 웨일스 노래 부르는 법을 배웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 단단한 껍데기를 깨면 나오는 뇌 모양 호두",
+ "imageCaption": "주름진 뇌처럼 생긴 호두 알맹이를 떠올려 보세요. 호두과자 속에도 들어 있죠!",
+ "movieLineEn": "Crack that walnut with your bare hands? Impossible!",
+ "movieLineKo": "맨손으로 저 호두를 깬다고? 불가능해!",
+ "storyTitle": "호두 깨기 챔피언",
+ "story": "다람쥐 다롱이는 walnut(호두) 깨기 대회에 나갔어요. peanut(땅콩)은 너무 쉬웠고, coconut(코코넛)은 너무 어려웠죠. 다롱이는 이를 악물고 호두를 깨물었어요. 와작! 이가 아니라 호두가 깨졌어요. in a nutshell(요컨대) 다롱이 이빨은 금메달감이었답니다."
+}

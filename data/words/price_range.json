@@ -1,0 +1,68 @@
+{
+ "word": "price range",
+ "pos": "명사구",
+ "phonetic": "[praɪs reɪndʒ]",
+ "meaning": "가격대, 가격 범위",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "price",
+   "meaning": "가격 (price)",
+   "note": "라틴어 pretium(값, 가치)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "range",
+   "meaning": "범위, 줄 (range)",
+   "note": "고대 프랑스어 rang(줄, 열)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>price</strong> (가격) + <strong>range</strong> (범위) = '가격이 오르내리는 범위'에서 <strong>'가격대'</strong>",
+ "historyTitle": "'줄 세우다'에서 '범위'로, range",
+ "historyBody": "range는 고대 프랑스어 ranger(줄 세우다)에서 왔어요. rank(계급, 순위)와 같은 뿌리죠. 줄지어 늘어선 범위라는 뜻에서 '가격대, 사정거리' 같은 뜻이 생겼어요. price는 라틴어 pretium(값)에서 왔고 precious(소중한), praise(칭찬)와 관련 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "range",
+   "pos": "명사 / 동사",
+   "meaning": "범위 / (범위가) ~에 이르다",
+   "en": "Ticket prices range from $10 to $50.",
+   "ko": "표 가격은 10달러에서 50달러까지 다양해요."
+  },
+  {
+   "word": "precious",
+   "pos": "형용사",
+   "meaning": "소중한, 귀중한",
+   "en": "Time is more precious than money.",
+   "ko": "시간은 돈보다 소중해요."
+  },
+  {
+   "word": "affordable",
+   "pos": "형용사",
+   "meaning": "(가격이) 적당한",
+   "en": "We found an affordable apartment near school.",
+   "ko": "우리는 학교 근처에서 적당한 가격의 아파트를 찾았어요."
+  },
+  {
+   "word": "budget",
+   "pos": "명사",
+   "meaning": "예산",
+   "en": "Our budget for the trip is very small.",
+   "ko": "우리 여행 예산은 아주 적어요."
+  },
+  {
+   "word": "a wide range of",
+   "pos": "숙어",
+   "meaning": "다양한",
+   "en": "The store offers a wide range of products.",
+   "ko": "그 가게는 다양한 상품을 판매해요."
+  }
+ ],
+ "imageSense": "대표 의미: 쇼핑 앱에서 '1만~3만 원' 가격 필터를 설정하는 장면",
+ "imageCaption": "가격 막대의 양 끝을 손가락으로 밀어 범위를 정하는 모습을 떠올려 보세요.",
+ "movieLineEn": "That car is way out of my price range.",
+ "movieLineKo": "저 차는 내 가격대를 한참 벗어나.",
+ "storyTitle": "예산 안의 선물",
+ "story": "친구 생일 선물을 사려고 price range(가격대)를 정했어요. budget(예산)은 만 원! affordable(적당한)한 선물을 찾다 a wide range of(다양한) 물건을 구경했죠. 결국 고른 건 직접 쓴 편지였어요. 친구는 울었는데, 감동이 아니라 내 글씨를 못 읽어서였어요."
+}

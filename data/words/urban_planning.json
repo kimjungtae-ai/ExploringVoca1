@@ -1,0 +1,68 @@
+{
+ "word": "urban planning",
+ "pos": "명사구",
+ "phonetic": "[ˈɜːrbən ˈplænɪŋ]",
+ "meaning": "도시 계획",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "urban",
+   "meaning": "도시의 (urban)",
+   "note": "무엇에 대한 계획인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "planning",
+   "meaning": "계획, 설계 (planning)",
+   "note": "미리 생각하고 설계하는 일이에요."
+  }
+ ],
+ "summary": "<strong>urban</strong> (도시의) + <strong>planning</strong> (계획하기) = '도시를 미리 설계하는 일'에서 <strong>'도시 계획'</strong>",
+ "historyTitle": "로마의 도시 urbs",
+ "historyBody": "urban은 라틴어 urbanus(도시의)에서 왔고, 그 뿌리는 urbs(도시)예요. 고대 로마 사람들은 로마시를 그냥 Urbs라고 불렀을 정도였어요. plan은 프랑스어에서 왔고, 라틴어 planum(평평한 면)과 관련 있어 '평면 위에 그린 도면'이라는 뜻에서 '계획'이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "urbanization",
+   "pos": "명사",
+   "meaning": "도시화",
+   "en": "Rapid urbanization changed the country's landscape.",
+   "ko": "급속한 도시화가 그 나라의 풍경을 바꿨어요."
+  },
+  {
+   "word": "suburban",
+   "pos": "형용사",
+   "meaning": "교외의",
+   "en": "They moved to a quiet suburban area.",
+   "ko": "그들은 조용한 교외 지역으로 이사했어요."
+  },
+  {
+   "word": "rural",
+   "pos": "형용사",
+   "meaning": "시골의",
+   "en": "Rural areas often lack public transportation.",
+   "ko": "시골 지역에는 대중교통이 부족한 경우가 많아요."
+  },
+  {
+   "word": "city planner",
+   "pos": "명사구",
+   "meaning": "도시 계획가",
+   "en": "City planners added more bike lanes downtown.",
+   "ko": "도시 계획가들은 도심에 자전거 도로를 더 만들었어요."
+  },
+  {
+   "word": "infrastructure",
+   "pos": "명사",
+   "meaning": "사회 기반 시설",
+   "en": "Good infrastructure helps a city grow.",
+   "ko": "좋은 기반 시설은 도시 성장에 도움이 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 도시 지도 위에 도로와 공원을 배치하는 장면",
+ "imageCaption": "책상 위 도시 모형에 공원, 도로, 아파트를 레고처럼 배치하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Good urban planning can make a city a happier place.",
+ "movieLineKo": "좋은 도시 계획은 도시를 더 행복한 곳으로 만들 수 있어.",
+ "storyTitle": "게임 속 시장님",
+ "story": "준서는 도시 건설 게임으로 urban planning(도시 계획)을 배웠어요. urbanization(도시화)을 위해 도로와 infrastructure(기반 시설)를 깔고, rural(시골의) 땅에는 공원을 만들었죠. 완벽한 도시였어요. 그런데 화장실을 하나도 안 만들어서 시민들이 모두 suburban(교외의) 마을로 이사 가 버렸답니다!"
+}

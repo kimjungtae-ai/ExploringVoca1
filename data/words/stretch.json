@@ -1,0 +1,55 @@
+{
+ "word": "stretch",
+ "pos": "동사 / 명사",
+ "phonetic": "[stretʃ]",
+ "meaning": "늘이다, 뻗다, 스트레칭하다 / 기간, 구간",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stretch (streccan)",
+   "meaning": "쭉 펴다, 뻗다 (extend)",
+   "note": "고대 영어 streccan에서 온 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>stretch</strong> (고대 영어 streccan: 쭉 펴다) = 몸이나 물건을 쭉 늘이는 것에서 <strong>'늘이다, 뻗다, (길게 이어진) 구간'</strong>이 되었습니다.",
+ "historyTitle": "고대 영어 streccan의 쭉 뻗기",
+ "historyBody": "stretch는 고대 영어 streccan(쭉 펴다, 뻗다)에서 왔고, 독일어 strecken과 같은 게르만 뿌리를 가지고 있어요. strong, stark와 관련 있다는 의견도 있지만 확실하지는 않아요. 시간이나 길이가 쭉 이어진 '기간, 구간'이라는 뜻도 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stretcher",
+   "pos": "명사",
+   "meaning": "들것",
+   "en": "The injured player was carried off on a stretcher.",
+   "ko": "부상당한 선수는 들것에 실려 나갔어요."
+  },
+  {
+   "word": "stretchy",
+   "pos": "형용사",
+   "meaning": "신축성 있는",
+   "en": "These stretchy pants are perfect for yoga.",
+   "ko": "이 신축성 있는 바지는 요가하기에 딱이에요."
+  },
+  {
+   "word": "outstretched",
+   "pos": "형용사",
+   "meaning": "쭉 뻗은",
+   "en": "The child ran to her mother with outstretched arms.",
+   "ko": "아이는 팔을 쭉 뻗은 채 엄마에게 달려갔어요."
+  },
+  {
+   "word": "stretching",
+   "pos": "명사",
+   "meaning": "스트레칭",
+   "en": "Stretching before running prevents injuries.",
+   "ko": "달리기 전 스트레칭은 부상을 예방해요."
+  }
+ ],
+ "imageSense": "대표 의미: 아침에 일어나 두 팔을 하늘 높이 쭉 뻗는 장면",
+ "imageCaption": "고무줄을 양손으로 쭉 잡아당기는 모습을 떠올려 보세요.",
+ "movieLineEn": "Stretch your arms, take a deep breath, and jump!",
+ "movieLineKo": "팔을 쭉 뻗고, 숨을 크게 들이쉬고, 뛰어!",
+ "storyTitle": "고양이의 스트레칭 수업",
+ "story": "고양이 선생님이 요가 수업을 열었어요. \"자, 몸을 쭉 stretch(늘이다)하세요!\" 학생들은 stretchy(신축성 있는) 옷을 입고 outstretched(쭉 뻗은) 팔로 따라 했죠. 그런데 너무 열심히 stretching(스트레칭)한 강아지가 허리를 삐끗했어요. 결국 stretcher(들것)에 실려 나가면서 말했어요. \"선생님, 이건 고양이용 수업이었군요!\""
+}

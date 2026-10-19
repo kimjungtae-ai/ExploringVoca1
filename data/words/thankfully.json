@@ -1,0 +1,67 @@
+{
+ "word": "thankfully",
+ "pos": "부사",
+ "phonetic": "[ˈθæŋkfəli]",
+ "meaning": "다행히도, 고맙게도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "thank",
+   "meaning": "감사하다 (thank)",
+   "note": "고대 영어 þanc(생각, 감사)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ful",
+   "meaning": "~으로 가득한",
+   "note": "'~이 가득한'이라는 형용사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사형)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>thank</strong> (감사) + <strong>-ful</strong> (가득한) + <strong>-ly</strong> (~하게) = '감사한 마음으로'에서 <strong>'다행히도'</strong>가 되었어요.",
+ "historyTitle": "감사는 '생각'에서 시작됐다",
+ "historyBody": "thank는 고대 영어 þanc에서 왔는데, 원래 '생각, 마음'이라는 뜻이었고 think와 같은 뿌리예요. '좋게 생각해 주는 마음'이 곧 '감사'가 된 거죠. thankfully는 원래 '감사하며'라는 뜻이었고, 20세기에 '다행히도'라는 문장 부사로 널리 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "thankful",
+   "pos": "형용사",
+   "meaning": "감사하는, 다행으로 여기는",
+   "en": "I'm thankful for my family's support.",
+   "ko": "나는 가족의 응원에 감사해요."
+  },
+  {
+   "word": "thanks",
+   "pos": "명사",
+   "meaning": "감사",
+   "en": "Thanks to your help, I passed the test.",
+   "ko": "네 도움 덕분에 시험에 합격했어."
+  },
+  {
+   "word": "thankless",
+   "pos": "형용사",
+   "meaning": "보람 없는, 고마워하지 않는",
+   "en": "Cleaning the classroom is a thankless job.",
+   "ko": "교실 청소는 알아주는 사람 없는 일이에요."
+  },
+  {
+   "word": "think",
+   "pos": "동사",
+   "meaning": "생각하다",
+   "en": "I think we should leave early.",
+   "ko": "나는 우리가 일찍 출발해야 한다고 생각해요."
+  }
+ ],
+ "imageSense": "대표 의미: 아슬아슬하게 버스를 잡고 안도하는 장면",
+ "imageCaption": "떠나려는 버스를 겨우 잡아 타고 '휴, 다행이다!' 하며 숨을 고르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Thankfully, nobody was hurt in the accident.",
+ "movieLineKo": "다행히도 그 사고로 다친 사람은 없었어요.",
+ "storyTitle": "다행인지 불행인지",
+ "story": "시험 날 아침, 나는 늦잠을 잤어요. thankfully(다행히도) 아빠가 차로 데려다주셨죠. 나는 아빠에게 정말 thankful(감사하는) 마음이었어요. 그런데 학교에 도착해 보니 문이 잠겨 있었어요. 오늘은 토요일이었던 거예요! thanks(감사) 인사가 쏙 들어가고, 나는 thankless(보람 없는) 등교를 마치고 다시 집에 가서 잤답니다."
+}

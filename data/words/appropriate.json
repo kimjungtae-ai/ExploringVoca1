@@ -1,0 +1,74 @@
+{
+ "word": "appropriate",
+ "pos": "형용사 / 동사",
+ "phonetic": "[əˈproʊpriət] (형) / [əˈproʊprieɪt] (동)",
+ "meaning": "적절한, 알맞은 / (돈 등을) 책정하다, 도용하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "무언가를 어디에 붙인다는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "propri (proprius)",
+   "meaning": "자기 자신의 (one's own)",
+   "note": "proper, property와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한, ~하다",
+   "note": "형용사나 동사를 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>propri</strong> (자기 것의) + <strong>-ate</strong> = '어떤 것에 딱 맞게 제 것으로 붙인'에서 <strong>'적절한, (제 것으로) 가져가다'</strong>가 되었어요.",
+ "historyTitle": "'내 것'에서 '알맞은'으로",
+ "historyBody": "후기 라틴어 'appropriare'는 ad-(~에)와 'proprius(자기 자신의)'가 합쳐져 '자기 것으로 만들다'라는 뜻이었어요. 그래서 동사로는 '가져가다, 책정하다'라는 뜻이 남아 있어요. 어떤 대상에 '꼭 맞게 딸린' 것이라는 느낌에서 형용사 '적절한'이라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inappropriate",
+   "pos": "형용사",
+   "meaning": "부적절한",
+   "en": "Wearing slippers to a job interview is inappropriate.",
+   "ko": "면접에 슬리퍼를 신고 가는 건 부적절해요."
+  },
+  {
+   "word": "proper",
+   "pos": "형용사",
+   "meaning": "적절한, 제대로 된",
+   "en": "You need proper shoes for hiking.",
+   "ko": "등산하려면 제대로 된 신발이 필요해요."
+  },
+  {
+   "word": "property",
+   "pos": "명사",
+   "meaning": "재산, 소유물, 특성",
+   "en": "Please don't touch other people's property.",
+   "ko": "다른 사람의 물건을 만지지 마세요."
+  },
+  {
+   "word": "properly",
+   "pos": "부사",
+   "meaning": "제대로, 적절하게",
+   "en": "Make sure you wash your hands properly.",
+   "ko": "손을 제대로 씻도록 하세요."
+  },
+  {
+   "word": "appropriately",
+   "pos": "부사",
+   "meaning": "적절하게",
+   "en": "She dressed appropriately for the cold weather.",
+   "ko": "그녀는 추운 날씨에 알맞게 옷을 입었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 결혼식에 어울리는 단정한 정장을 고르는 사람",
+ "imageCaption": "옷장 앞에서 '오늘 자리엔 이 옷이 딱 맞겠다' 하고 고르는 모습을 떠올려 보세요. 상황에 꼭 맞는 것이 appropriate예요.",
+ "movieLineEn": "That is not an appropriate thing to say to a queen!",
+ "movieLineKo": "그건 여왕에게 할 적절한 말이 아니야!",
+ "storyTitle": "면접장의 파자마",
+ "story": "민지는 면접을 위해 proper(제대로 된) 정장을 준비했어요. 그런데 늦잠을 자서 파자마 차림으로 달려갔죠. '이건 inappropriate(부적절한)한 옷이야!' 하며 울상이 된 순간, 면접관도 파자마를 입고 있었어요. 알고 보니 침구 회사 면접이라 그게 가장 appropriate(적절한) 옷이었답니다. 민지는 그 자리에서 합격했고, 회사의 property(재산)인 베개도 선물로 받았어요."
+}

@@ -1,0 +1,67 @@
+{
+ "word": "incredible",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈkredəbl]",
+ "meaning": "믿을 수 없는, 놀라운, 엄청난",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cred",
+   "meaning": "믿다 (believe)",
+   "note": "라틴어 credere(믿다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는",
+   "note": "가능을 나타내요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>cred</strong> (믿다) + <strong>-ible</strong> (~할 수 있는) = '믿을 수 없는'이라는 뜻에서 <strong>'놀라운, 엄청난'</strong>이 되었습니다.",
+ "historyTitle": "믿음(credere)에서 신용카드까지",
+ "historyBody": "라틴어 'credere'는 '믿다, 맡기다'라는 뜻이에요. 돈을 믿고 빌려주는 것이 credit(신용)이 되었죠. incredible은 원래 말 그대로 '믿기 어려운'이었는데, 지금은 '믿기 힘들 만큼 놀라운'이라는 칭찬으로 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "credit",
+   "pos": "명사",
+   "meaning": "신용, 학점, 공로",
+   "en": "She got credit for the great idea.",
+   "ko": "그녀는 그 멋진 아이디어로 공로를 인정받았어요."
+  },
+  {
+   "word": "credible",
+   "pos": "형용사",
+   "meaning": "믿을 만한",
+   "en": "We need a credible source for this report.",
+   "ko": "이 보고서에는 믿을 만한 출처가 필요해요."
+  },
+  {
+   "word": "credibility",
+   "pos": "명사",
+   "meaning": "신뢰성",
+   "en": "Lying will damage your credibility.",
+   "ko": "거짓말은 너의 신뢰성을 떨어뜨릴 거예요."
+  },
+  {
+   "word": "creed",
+   "pos": "명사",
+   "meaning": "신조, 신념",
+   "en": "Honesty is the creed of our family.",
+   "ko": "정직은 우리 가족의 신조예요."
+  }
+ ],
+ "imageSense": "대표 의미: 고양이가 피아노로 명곡을 연주하는 장면",
+ "imageCaption": "눈으로 보고도 믿을 수 없는 놀라운 광경을 떠올려 보세요. 입이 떡 벌어지는 그 순간이 incredible이에요.",
+ "movieLineEn": "That was incredible! Do it again!",
+ "movieLineKo": "그거 정말 놀라웠어! 다시 해 봐!",
+ "storyTitle": "믿을 수 없는 강아지",
+ "story": "옆집 강아지가 수학 문제를 푼다는 incredible(믿을 수 없는) 소문이 돌았어요. 다들 credible(믿을 만한)하지 않다고 했죠. 직접 가 보니 정말 정답을 짖었어요! 주인은 모든 credit(공로)을 강아지에게 돌렸어요. 알고 보니 문제는 전부 '1+1'이었고, 강아지는 두 번 짖었을 뿐이었대요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "expert",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈekspɜːrt]",
+ "meaning": "전문가 / 숙련된, 전문적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 끝까지 (out)",
+   "note": "끝까지 해 본다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pert / peri",
+   "meaning": "시험하다 (try)",
+   "note": "라틴어 experiri(시험해 보다)의 과거분사 expertus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (끝까지) + <strong>pert</strong> (시험해 본) = '여러 번 시험해 본 사람'에서 <strong>'전문가'</strong>가 되었어요.",
+ "historyTitle": "시험을 거친 사람",
+ "historyBody": "expert는 라틴어 'expertus(시험해 본, 경험 있는)'에서 왔어요. 14세기 영어에서는 '경험 많은'이라는 형용사로 먼저 쓰였고, 19세기 무렵 '전문가'라는 명사 뜻이 널리 퍼졌어요. 많이 해 본 사람이 곧 전문가라는 생각이 담겨 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expertise",
+   "pos": "명사",
+   "meaning": "전문 지식, 전문 기술",
+   "en": "We need someone with expertise in computers.",
+   "ko": "우리는 컴퓨터 전문 지식을 가진 사람이 필요해요."
+  },
+  {
+   "word": "experience",
+   "pos": "명사",
+   "meaning": "경험",
+   "en": "She has ten years of teaching experience.",
+   "ko": "그녀는 10년의 가르친 경험이 있어요."
+  },
+  {
+   "word": "experiment",
+   "pos": "명사",
+   "meaning": "실험",
+   "en": "The experiment proved his idea was right.",
+   "ko": "그 실험은 그의 생각이 옳았다는 것을 증명했어요."
+  },
+  {
+   "word": "inexperienced",
+   "pos": "형용사",
+   "meaning": "경험이 없는",
+   "en": "Inexperienced hikers should not climb alone.",
+   "ko": "경험이 없는 등산객은 혼자 산에 오르면 안 돼요."
+  },
+  {
+   "word": "peril",
+   "pos": "명사",
+   "meaning": "위험",
+   "en": "He ignored the peril and jumped into the river.",
+   "ko": "그는 위험을 무시하고 강으로 뛰어들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 흰 가운을 입은 박사가 자신 있게 설명하는 장면",
+ "imageCaption": "한 분야를 오랫동안 시험하고 공부해 온 전문가의 모습을 떠올려 보세요.",
+ "movieLineEn": "Trust me, I'm an expert at escaping.",
+ "movieLineKo": "날 믿어, 난 탈출 전문가야.",
+ "storyTitle": "맛집 전문가의 비밀",
+ "story": "유명한 맛집 expert(전문가)가 우리 동네 식당에 왔어요. 그의 expertise(전문 지식)는 대단했죠. 수많은 experience(경험) 끝에 그는 '이건 최고의 국물!'이라고 외쳤어요. 사장님은 웃으며 말했어요. '그거 설거지 experiment(실험)하던 물인데요?'"
+}

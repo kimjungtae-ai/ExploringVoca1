@@ -1,0 +1,68 @@
+{
+ "word": "picture",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈpɪktʃər]",
+ "meaning": "그림, 사진, 상황 / 상상하다, 묘사하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pict",
+   "meaning": "그리다, 칠하다 (paint)",
+   "note": "라틴어 pingere(그리다)의 과거분사 pictus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 것, 결과 (명사)",
+   "note": "동작의 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>pict</strong> (그리다) + <strong>-ure</strong> (결과물) = 그려 낸 것, 곧 <strong>'그림, 사진'</strong>이에요.",
+ "historyTitle": "물감으로 칠한 로마의 그림",
+ "historyBody": "picture는 라틴어 pictura(그림 그리기, 그림)에서 왔고, pictura는 pingere(칠하다, 그리다)에서 나왔어요. 사진기가 없던 시절에는 손으로 칠한 그림만 picture였지만, 1800년대 사진이 발명되면서 사진도 picture라 부르게 되었어요. 같은 뿌리에서 paint, pigment 같은 단어도 생겨났답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "depict",
+   "pos": "동사",
+   "meaning": "묘사하다, 그리다",
+   "en": "The novel depicts life in a small fishing village.",
+   "ko": "그 소설은 작은 어촌의 삶을 묘사해요."
+  },
+  {
+   "word": "picturesque",
+   "pos": "형용사",
+   "meaning": "그림 같은, 아름다운",
+   "en": "We stayed in a picturesque town by the lake.",
+   "ko": "우리는 호숫가의 그림 같은 마을에 머물렀어요."
+  },
+  {
+   "word": "pictorial",
+   "pos": "형용사",
+   "meaning": "그림의, 그림으로 나타낸",
+   "en": "The book gives a pictorial history of the city.",
+   "ko": "그 책은 도시의 역사를 그림으로 보여 줘요."
+  },
+  {
+   "word": "paint",
+   "pos": "동사/명사",
+   "meaning": "칠하다, 그리다 / 페인트",
+   "en": "My brother painted the fence white.",
+   "ko": "형이 울타리를 하얗게 칠했어요."
+  },
+  {
+   "word": "pigment",
+   "pos": "명사",
+   "meaning": "색소, 안료",
+   "en": "Ancient artists made pigment from colored stones.",
+   "ko": "고대 화가들은 색깔 있는 돌로 안료를 만들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 액자 속에 걸린 풍경 그림 한 장",
+ "imageCaption": "벽에 걸린 액자 속 그림을 보며 머릿속에 장면을 그려 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Picture this: a world without homework.",
+ "movieLineKo": "상상해 봐: 숙제 없는 세상을.",
+ "storyTitle": "화가 고양이의 자화상",
+ "story": "고양이 화가가 picturesque(그림 같은) 호숫가에서 자기 picture(그림)를 그렸어요. 귀한 pigment(안료)로 수염 한 올까지 depict(묘사하다)했죠. 완성작을 본 강아지가 감탄했어요. \"와, 진짜 사자 같아!\" 고양이는 화를 내려다 그냥 사자 그림이라고 하고 비싸게 팔았대요. 역시 paint(그리다)보다 말솜씨!"
+}

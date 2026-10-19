@@ -1,0 +1,47 @@
+{
+ "word": "reptile",
+ "pos": "명사",
+ "phonetic": "[ˈreptaɪl]",
+ "meaning": "파충류",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rept",
+   "meaning": "기어가다 (creep)",
+   "note": "라틴어 repere(기다)의 과거분사 reptus에서 왔어요. 접두사 re-가 아니에요!"
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ile",
+   "meaning": "~하는 (경향의)",
+   "note": "라틴어 형용사 어미 -ilis에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>rept</strong> (기어가다) + <strong>-ile</strong> (~하는) = '기어 다니는 것'에서 <strong>'파충류'</strong>가 되었어요.",
+ "historyTitle": "배로 기어 다니는 동물",
+ "historyBody": "reptile은 후기 라틴어 reptilis(기어 다니는)에서 왔고, 그 뿌리는 repere(기다)예요. 14세기 영어에서는 뱀처럼 '기어 다니는 동물' 전반을 가리켰고, 오늘날의 과학적 분류인 '파충류'의 뜻은 나중에 굳어졌어요. 앞의 re-는 '다시'라는 접두사가 아니니 헷갈리지 마세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reptilian",
+   "pos": "형용사",
+   "meaning": "파충류의, 파충류 같은",
+   "en": "The dinosaur had thick, reptilian skin.",
+   "ko": "그 공룡은 두껍고 파충류 같은 피부를 가지고 있었어요."
+  },
+  {
+   "word": "reptile house",
+   "pos": "명사",
+   "meaning": "(동물원의) 파충류관",
+   "en": "The kids loved the snakes in the reptile house.",
+   "ko": "아이들은 파충류관의 뱀들을 정말 좋아했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 배를 땅에 대고 기어가는 도마뱀과 거북",
+ "imageCaption": "햇볕 아래 바위 위를 느릿느릿 기어가는 도마뱀을 떠올려 보세요.",
+ "movieLineEn": "Don't panic. It's just a harmless little reptile.",
+ "movieLineKo": "당황하지 마. 그냥 해롭지 않은 작은 파충류일 뿐이야.",
+ "storyTitle": "파충류관의 깜짝 손님",
+ "story": "현장 학습 날, 우리는 reptile house(파충류관)에 갔어요. 선생님은 reptile(파충류)이 crawl(기다)하는 모습을 설명하셨죠. 그때 친구 민지가 \"저 reptilian(파충류 같은) 눈빛 좀 봐!\"라며 비명을 질렀어요. 알고 보니 유리창에 비친 졸린 담임 선생님의 얼굴이었답니다."
+}

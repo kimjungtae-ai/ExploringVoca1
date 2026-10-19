@@ -1,0 +1,75 @@
+{
+ "word": "shortage",
+ "pos": "명사",
+ "phonetic": "[ˈʃɔːrtɪdʒ]",
+ "meaning": "부족, 결핍, 품귀",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "short",
+   "meaning": "짧은, 모자라는 (short)",
+   "note": "고대 영어 'sceort'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-age",
+   "meaning": "~한 상태, ~의 양 (명사)",
+   "note": "상태나 양을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>short</strong> (모자라는) + <strong>-age</strong> (~한 상태) = 필요한 양보다 모자란 상태, 즉 <strong>'부족, 결핍'</strong>이에요.",
+ "historyTitle": "'짧다'에서 '모자라다'로",
+ "historyBody": "short는 고대 영어 'sceort(짧은)'에서 왔어요. 길이가 짧으면 필요한 만큼 닿지 못하니까 '모자라다'라는 뜻도 생겼죠(be short of). 여기에 -age를 붙인 shortage는 19세기 미국에서 쓰이기 시작해 '부족'을 뜻하게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "short",
+   "pos": "형용사",
+   "meaning": "짧은, 부족한",
+   "en": "Life is too short to waste time.",
+   "ko": "인생은 시간을 낭비하기엔 너무 짧아요."
+  },
+  {
+   "word": "shorten",
+   "pos": "동사",
+   "meaning": "짧게 하다, 줄이다",
+   "en": "Can you shorten your speech a little?",
+   "ko": "연설을 조금 줄여 줄 수 있나요?"
+  },
+  {
+   "word": "shortly",
+   "pos": "부사",
+   "meaning": "곧, 간단히",
+   "en": "The train will arrive shortly.",
+   "ko": "기차가 곧 도착할 거예요."
+  },
+  {
+   "word": "shorts",
+   "pos": "명사",
+   "meaning": "반바지",
+   "en": "He wore shorts and sandals to the beach.",
+   "ko": "그는 해변에 반바지와 샌들을 신고 갔어요."
+  },
+  {
+   "word": "shortcut",
+   "pos": "명사",
+   "meaning": "지름길, 손쉬운 방법",
+   "en": "We took a shortcut through the park.",
+   "ko": "우리는 공원을 가로지르는 지름길로 갔어요."
+  },
+  {
+   "word": "shortcoming",
+   "pos": "명사",
+   "meaning": "결점, 단점",
+   "en": "Everyone has some shortcomings.",
+   "ko": "누구나 몇 가지 단점이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 텅 빈 마트 진열대 앞에서 사람들이 당황하는 장면",
+ "imageCaption": "물건이 다 팔려 텅 빈 선반이나, 컵에 물이 반도 안 남은 모습을 떠올려 보세요.",
+ "movieLineEn": "There's a food shortage. We have to share everything.",
+ "movieLineKo": "식량이 부족해. 우린 모든 걸 나눠야 해.",
+ "storyTitle": "휴지 품귀 사태",
+ "story": "학교 화장실에 휴지 shortage(부족) 사태가 벌어졌어요. 수업 시간도 short(짧은)한데 줄은 끝이 없었죠. 나는 shortcut(지름길)로 교무실 화장실에 갔어요. 그런데 거기도 휴지가 없어서 선생님이 shorts(반바지) 차림으로 휴지를 사러 뛰어가고 계셨어요."
+}

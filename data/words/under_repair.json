@@ -1,0 +1,68 @@
+{
+ "word": "under repair",
+ "pos": "전치사구",
+ "phonetic": "[ˈʌndər rɪˈper]",
+ "meaning": "수리 중인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "under",
+   "meaning": "~ 아래에, ~ 중인 (under)",
+   "note": "어떤 작업이 '진행 중인' 상태 아래에 있다는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "repair",
+   "meaning": "수리 (repair)",
+   "note": "망가진 것을 고치는 일이에요."
+  }
+ ],
+ "summary": "<strong>under</strong> (~ 중인) + <strong>repair</strong> (수리) = '수리라는 작업 아래 놓인'에서 <strong>'수리 중인'</strong>",
+ "historyTitle": "'다시 준비하다'였던 repair",
+ "historyBody": "repair는 라틴어 reparare에서 왔어요. re-(다시)와 parare(준비하다, 갖추다)가 합쳐져 '다시 제대로 갖추다'라는 뜻이었죠. prepare(준비하다)와 같은 뿌리예요. under는 under construction(공사 중), under discussion(논의 중)처럼 '~이 진행 중인'이라는 뜻으로 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "under construction",
+   "pos": "전치사구",
+   "meaning": "공사 중인",
+   "en": "The new stadium is still under construction.",
+   "ko": "새 경기장은 아직 공사 중이에요."
+  },
+  {
+   "word": "out of order",
+   "pos": "전치사구",
+   "meaning": "고장 난",
+   "en": "The vending machine is out of order.",
+   "ko": "자판기가 고장 났어요."
+  },
+  {
+   "word": "repair",
+   "pos": "동사 / 명사",
+   "meaning": "수리하다 / 수리",
+   "en": "My father repaired the broken chair.",
+   "ko": "아빠가 부서진 의자를 고치셨어요."
+  },
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "We prepared snacks for the trip.",
+   "ko": "우리는 여행을 위해 간식을 준비했어요."
+  },
+  {
+   "word": "under way",
+   "pos": "전치사구",
+   "meaning": "진행 중인",
+   "en": "Plans for the festival are already under way.",
+   "ko": "축제 준비가 이미 진행 중이에요."
+  }
+ ],
+ "imageSense": "대표 의미: '수리 중' 표지판이 걸린 엘리베이터 앞 장면",
+ "imageCaption": "노란 테이프가 둘러진 엘리베이터 앞에 '수리 중' 팻말이 붙은 모습을 떠올려 보세요.",
+ "movieLineEn": "Sorry, the bridge is under repair. You'll have to swim.",
+ "movieLineKo": "미안, 다리가 수리 중이야. 헤엄쳐서 건너야 할 거야.",
+ "storyTitle": "20층의 비극",
+ "story": "아파트 엘리베이터가 under repair(수리 중인)였어요. 옆 계단 엘리베이터도 out of order(고장 난)였죠. 20층에 사는 나는 땀을 뻘뻘 흘리며 올라갔어요. 집 앞에 도착하니 문자가 왔어요. \"repair(수리) 완료!\" 나는 그대로 다시 내려가 엘리베이터를 타고 올라왔어요. 억울해서요! 옆 동은 아예 under construction(공사 중인)이라 더 심했대요."
+}

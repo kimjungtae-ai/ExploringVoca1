@@ -1,0 +1,55 @@
+{
+ "word": "spot",
+ "pos": "명사 / 동사",
+ "phonetic": "[spɑːt]",
+ "meaning": "장소, 점, 얼룩 / 발견하다, 알아채다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "spot",
+   "meaning": "작은 점, 얼룩 (small mark)",
+   "note": "중세 영어 spot에서 왔는데, 정확한 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>spot</strong> (작은 점, 얼룩) = 눈에 띄는 작은 점에서 <strong>'장소'</strong>, 그 점을 콕 찾아내는 <strong>'발견하다'</strong>가 되었습니다.",
+ "historyTitle": "기원이 불확실한 작은 점",
+ "historyBody": "spot은 12세기 무렵 중세 영어에 '작은 얼룩, 점'이라는 뜻으로 나타났어요. 중세 네덜란드어 spotte나 고대 노르드어 spotti(작은 조각)와 관련 있다고 보지만, 정확한 기원은 확실하지 않아요. 그래서 이 단어는 쪼개지 말고 통째로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "spotless",
+   "pos": "형용사",
+   "meaning": "티끌 하나 없는",
+   "en": "The hotel room was spotless and smelled nice.",
+   "ko": "호텔 방은 티끌 하나 없이 깨끗하고 좋은 냄새가 났어요."
+  },
+  {
+   "word": "spotlight",
+   "pos": "명사",
+   "meaning": "스포트라이트, 주목",
+   "en": "The singer stood in the spotlight and smiled.",
+   "ko": "가수는 스포트라이트 아래 서서 미소 지었어요."
+  },
+  {
+   "word": "spotted",
+   "pos": "형용사",
+   "meaning": "점무늬의, 얼룩진",
+   "en": "The spotted dog ran across the field.",
+   "ko": "점박이 개가 들판을 가로질러 달렸어요."
+  },
+  {
+   "word": "spotty",
+   "pos": "형용사",
+   "meaning": "얼룩덜룩한, 고르지 못한",
+   "en": "The internet connection here is spotty.",
+   "ko": "여기는 인터넷 연결이 고르지 않아요."
+  }
+ ],
+ "imageSense": "대표 의미: 군중 속에서 친구를 단번에 찾아 손을 흔드는 장면",
+ "imageCaption": "하얀 셔츠에 묻은 작은 점 하나, 그리고 그 점을 바로 찾아내는 눈을 떠올려 보세요.",
+ "movieLineEn": "I spotted him in the crowd. He's wearing a pink hat!",
+ "movieLineKo": "군중 속에서 그를 발견했어. 분홍 모자를 쓰고 있어!",
+ "storyTitle": "얼룩 탐정 달마시안",
+ "story": "달마시안 점박이는 얼룩 찾기 대회에 나갔어요. 심사위원이 spotless(티끌 하나 없는) 흰 셔츠 위의 작은 spot(얼룩)을 찾으라고 했죠. 점박이는 spotlight(스포트라이트) 아래서 금방 spot(발견하다)했다고 외쳤어요. 그런데 알고 보니 그 얼룩은 spotted(점무늬의) 점박이 자기 몸에서 떨어진 털이었대요!"
+}

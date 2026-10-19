@@ -1,0 +1,87 @@
+{
+ "word": "responsibility",
+ "pos": "명사",
+ "phonetic": "[rɪˌspɑːnsəˈbɪləti]",
+ "meaning": "책임, 책무, 의무",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "되돌려 (back)",
+   "note": "되돌려 준다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spons",
+   "meaning": "약속하다 (pledge) ← spondere",
+   "note": "라틴어 spondere(엄숙히 약속하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ible",
+   "meaning": "~할 수 있는 (형용사)",
+   "note": "가능이나 성질을 나타내요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~인 상태 (명사)",
+   "note": "형용사를 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌려) + <strong>spons</strong> (약속하다) + <strong>-ible</strong> + <strong>-ity</strong> = '약속에 응답할 수 있는 상태'에서 <strong>'책임'</strong>이 되었어요.",
+ "historyTitle": "엄숙한 약속에 대답하기",
+ "historyBody": "라틴어 respondere는 '약속으로 되갚다, 대답하다'라는 뜻이었어요. 여기서 respond와 responsible이 나왔고, responsibility는 18세기 후반에 널리 쓰이기 시작했어요. 같은 spondere에서 sponsor(후원자, 보증인)와 spouse(배우자, 원래 '약혼한 사람')도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "responsible",
+   "pos": "형용사",
+   "meaning": "책임 있는, ~의 원인이 되는",
+   "en": "Who is responsible for this mess?",
+   "ko": "이 엉망진창은 누구 책임이에요?"
+  },
+  {
+   "word": "respond",
+   "pos": "동사",
+   "meaning": "응답하다, 반응하다",
+   "en": "She didn't respond to my message.",
+   "ko": "그녀는 내 메시지에 답하지 않았어요."
+  },
+  {
+   "word": "response",
+   "pos": "명사",
+   "meaning": "응답, 반응",
+   "en": "The audience gave a warm response.",
+   "ko": "관객들은 따뜻한 반응을 보였어요."
+  },
+  {
+   "word": "correspond",
+   "pos": "동사",
+   "meaning": "일치하다, 편지를 주고받다",
+   "en": "His words do not correspond with his actions.",
+   "ko": "그의 말은 행동과 일치하지 않아요."
+  },
+  {
+   "word": "sponsor",
+   "pos": "명사 / 동사",
+   "meaning": "후원자 / 후원하다",
+   "en": "A local bank sponsored the festival.",
+   "ko": "지역 은행이 축제를 후원했어요."
+  },
+  {
+   "word": "spouse",
+   "pos": "명사",
+   "meaning": "배우자",
+   "en": "Employees may bring their spouses to the party.",
+   "ko": "직원들은 파티에 배우자를 데려올 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 반려견 산책 당번표에 자기 이름을 적는 학생",
+ "imageCaption": "'이건 내가 맡을게!'라고 손을 번쩍 드는 모습을 떠올려 보세요.",
+ "movieLineEn": "With great power comes great responsibility.",
+ "movieLineKo": "큰 힘에는 큰 책임이 따른다.",
+ "storyTitle": "햄스터 당번",
+ "story": "반장 지민이는 반 햄스터를 돌볼 responsibility(책임)를 맡았어요. 매일 밥을 주며 responsible(책임 있는)한 모습을 보였죠. 햄스터도 쳇바퀴로 respond(반응하다)했어요. 방학 동안 맡겼더니 sponsor(후원자) 할머니가 햄스터를 너무 먹여서 공처럼 굴러왔대요!"
+}

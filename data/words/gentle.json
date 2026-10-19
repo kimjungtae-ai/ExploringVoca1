@@ -1,0 +1,61 @@
+{
+ "word": "gentle",
+ "pos": "형용사",
+ "phonetic": "[ˈdʒentl]",
+ "meaning": "온화한, 부드러운, 완만한, 약한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "gent",
+   "meaning": "가문, 씨족 (clan, family)",
+   "note": "라틴어 gens(씨족, 가문)에서 왔어요. '낳다'를 뜻하는 gen-과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-le",
+   "meaning": "~의 (형용사)",
+   "note": "라틴어 -ilis에서 고대 프랑스어 -il을 거친 꼬리예요."
+  }
+ ],
+ "summary": "<strong>gent</strong> (가문) + <strong>-le</strong> (~의) = '좋은 가문 출신의'라는 뜻에서 '예의 바른'을 거쳐 <strong>'온화한, 부드러운'</strong>이 되었습니다.",
+ "historyTitle": "'좋은 집안'의 예의 바른 사람",
+ "historyBody": "라틴어 gentilis는 '같은 씨족(gens)의'라는 뜻이었고, 고대 프랑스어 gentil에서는 '귀족 태생의, 고귀한'이 되었어요. 귀족은 예의 바르고 점잖아야 한다는 생각에서 '온화한, 부드러운'이라는 뜻이 생겼죠. gentleman(신사)도 원래는 '좋은 가문 출신의 남자'라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gentleman",
+   "pos": "명사",
+   "meaning": "신사",
+   "en": "The gentleman held the door open for us.",
+   "ko": "그 신사분이 우리를 위해 문을 잡아 주셨어요."
+  },
+  {
+   "word": "gently",
+   "pos": "부사",
+   "meaning": "부드럽게, 살살",
+   "en": "She gently patted the sleeping puppy.",
+   "ko": "그녀는 잠든 강아지를 부드럽게 쓰다듬었어요."
+  },
+  {
+   "word": "gentleness",
+   "pos": "명사",
+   "meaning": "온화함, 부드러움",
+   "en": "The nurse treated the children with great gentleness.",
+   "ko": "간호사는 아이들을 아주 다정하게 대했어요."
+  },
+  {
+   "word": "generous",
+   "pos": "형용사",
+   "meaning": "관대한, 너그러운",
+   "en": "Thank you for your generous gift.",
+   "ko": "너그러운 선물 감사합니다."
+  }
+ ],
+ "imageSense": "대표 의미: 잔잔한 봄바람이 꽃잎을 살랑 흔드는 장면",
+ "imageCaption": "봄날 산들바람이 꽃잎을 살랑살랑 흔들고, 엄마가 아기를 살며시 안아 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "Be gentle with her. She's just a baby dragon.",
+ "movieLineKo": "살살 다뤄. 아직 아기 용이란 말이야.",
+ "storyTitle": "온화한 거인",
+ "story": "마을 끝에는 무시무시한 거인이 살았어요. 그런데 알고 보니 아주 gentle(온화한)한 gentleman(신사)이었죠! 거인은 새들을 gently(부드럽게) 손바닥에 올려 주었고, 아이들은 그의 gentleness(다정함)에 반했어요. 단 하나 문제는, 거인이 재채기할 때마다 마을 지붕이 전부 날아갔다는 거예요!"
+}

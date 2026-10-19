@@ -1,0 +1,68 @@
+{
+ "word": "look up",
+ "pos": "구동사",
+ "phonetic": "[lʊk ˈʌp]",
+ "meaning": "(사전 등에서) 찾아보다, 올려다보다, 나아지다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "look",
+   "meaning": "보다 (look)",
+   "note": "'보는' 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 완전히 (up)",
+   "note": "시선을 '위로' 올리거나 정보를 '끄집어 올린다'는 느낌을 줘요."
+  }
+ ],
+ "summary": "<strong>look</strong> (보다) + <strong>up</strong> (위로, 끄집어 올려) = '위로 보다 / 정보를 끄집어내 보다'에서 <strong>'올려다보다, 찾아보다'</strong>",
+ "historyTitle": "'찾아보다'와 '나아지다'",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 온 아주 오래된 영어 단어예요. 혼자서는 '보다'지만 뒤에 붙는 연결어에 따라 after(뒤를 봐주다), up(위로 찾아보다), over(훑어보다), forward(앞을 내다보다)처럼 뜻이 다양하게 바뀌어요. 그래서 수능 구동사의 단골이랍니다. 'Things are looking up.'은 '상황이 나아지고 있다'라는 뜻이고, look up to는 '~을 존경하다'예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "look up to",
+   "pos": "구동사",
+   "meaning": "~을 존경하다",
+   "en": "I look up to my older sister.",
+   "ko": "나는 우리 언니를 존경해."
+  },
+  {
+   "word": "look down on",
+   "pos": "구동사",
+   "meaning": "~을 얕보다",
+   "en": "Never look down on others.",
+   "ko": "절대 남을 얕보지 마."
+  },
+  {
+   "word": "look into",
+   "pos": "구동사",
+   "meaning": "~을 조사하다",
+   "en": "We will look into the problem.",
+   "ko": "우리가 그 문제를 조사할게요."
+  },
+  {
+   "word": "search for",
+   "pos": "구동사",
+   "meaning": "~을 찾다",
+   "en": "They searched for the missing cat all day.",
+   "ko": "그들은 하루 종일 잃어버린 고양이를 찾았어."
+  },
+  {
+   "word": "consult",
+   "pos": "동사",
+   "meaning": "(사전·전문가에게) 참고하다, 상담하다",
+   "en": "Consult a dictionary if you're not sure.",
+   "ko": "확실하지 않으면 사전을 찾아봐."
+  }
+ ],
+ "imageSense": "대표 의미: 모르는 단어를 사전에서 찾아보는 장면",
+ "imageCaption": "사전 속 단어를 손가락으로 쭉 훑다가 '찾았다!' 하는 순간을 떠올려 보세요.",
+ "movieLineEn": "Look up. The stars are watching us tonight.",
+ "movieLineKo": "위를 봐. 오늘 밤은 별들이 우리를 지켜보고 있어.",
+ "storyTitle": "사전 속 단어",
+ "story": "모르는 단어가 나오자 지훈이는 사전에서 look up(찾아보다) 했어요. 단어 옆에는 look up to(~을 존경하다), look down on(~을 얕보다)도 있었죠. 신이 나서 계속 찾다 보니 세 시간이 흘렀어요. 원래 단어는 결국 못 찾았지만, 다음 날 영어 시험에 그 세 표현이 다 나왔답니다!"
+}

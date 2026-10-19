@@ -1,0 +1,61 @@
+{
+ "word": "semester",
+ "pos": "명사",
+ "phonetic": "[sɪˈmestər]",
+ "meaning": "학기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "se(x)",
+   "meaning": "여섯 (six)",
+   "note": "라틴어 'sex(여섯)'에서 왔어요. 영어 six와 먼 친척이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mester",
+   "meaning": "달 (month)",
+   "note": "라틴어 'mensis(달, 월)'에서 왔어요. 영어 month와 먼 친척이에요."
+  }
+ ],
+ "summary": "<strong>se(x)</strong> (여섯) + <strong>mester</strong> (달) = 여섯 달 동안의 기간, 즉 <strong>'학기'</strong>예요.",
+ "historyTitle": "독일 대학에서 온 '6개월'",
+ "historyBody": "라틴어 'semestris'는 '6개월마다의'라는 뜻이었어요. 독일 대학들이 1년을 두 번의 6개월 과정으로 나누며 Semester라고 불렀고, 이 말이 19세기에 영어로 들어왔어요. 지금은 꼭 6개월이 아니어도 '학기'를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "trimester",
+   "pos": "명사",
+   "meaning": "3학기제의 한 학기, (임신) 3개월",
+   "en": "Some schools divide the year into three trimesters.",
+   "ko": "어떤 학교들은 한 해를 세 학기로 나눠요."
+  },
+  {
+   "word": "six",
+   "pos": "숫자",
+   "meaning": "여섯 (같은 뿌리의 동족어)",
+   "en": "There are six people in my family.",
+   "ko": "우리 가족은 여섯 명이에요."
+  },
+  {
+   "word": "month",
+   "pos": "명사",
+   "meaning": "달, 월 (같은 뿌리의 동족어)",
+   "en": "I visit my grandmother once a month.",
+   "ko": "나는 한 달에 한 번 할머니 댁에 가요."
+  },
+  {
+   "word": "sextet",
+   "pos": "명사",
+   "meaning": "6인조, 6중주",
+   "en": "A jazz sextet played at the school festival.",
+   "ko": "재즈 6인조 밴드가 학교 축제에서 연주했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 새 학기 첫날 교실에서 새 교과서를 받는 장면",
+ "imageCaption": "달력에 여섯 달을 묶어 동그라미 친 모습을 떠올려 보세요. 그게 한 semester예요.",
+ "movieLineEn": "This semester, I'm going to change everything about myself.",
+ "movieLineKo": "이번 학기에 나는 나에 대한 모든 걸 바꿀 거야.",
+ "storyTitle": "작심 여섯 달",
+ "story": "새 semester(학기)가 시작되자 나는 six(여섯) 가지 계획을 세웠어요. 첫 month(달)엔 매일 운동했죠. 그런데 친구들과 sextet(6인조) 밴드를 만들면서 계획은 와르르! 학기 말 성적표엔 '노래 실력 향상'만 적혀 있었어요."
+}

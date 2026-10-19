@@ -1,0 +1,55 @@
+{
+ "word": "bake",
+ "pos": "동사",
+ "phonetic": "[beɪk]",
+ "meaning": "(빵 등을) 굽다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bake",
+   "meaning": "굽다 (bake) — 고대 영어 bacan",
+   "note": "더 쪼갤 수 없는 오래된 게르만어 단어예요."
+  }
+ ],
+ "summary": "<strong>bake</strong>는 고대 영어 <strong>bacan</strong>(굽다)에서 그대로 내려온 단어로, <strong>'오븐에 굽다'</strong>라는 뜻이에요.",
+ "historyTitle": "천 년 넘게 이어진 빵 굽는 소리",
+ "historyBody": "bake는 고대 영어 bacan에서 왔고, 독일어 backen과 같은 뿌리를 가진 게르만어 단어예요. 접두사나 접미사로 나눌 수 없는 기본 단어랍니다. baker(제빵사)라는 성(姓)이 흔한 것도 옛날 마을마다 빵 굽는 사람이 꼭 있었기 때문이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "baker",
+   "pos": "명사",
+   "meaning": "제빵사",
+   "en": "The baker wakes up at four to make fresh bread.",
+   "ko": "그 제빵사는 신선한 빵을 만들려고 새벽 4시에 일어나요."
+  },
+  {
+   "word": "bakery",
+   "pos": "명사",
+   "meaning": "빵집",
+   "en": "There is a small bakery next to our school.",
+   "ko": "우리 학교 옆에 작은 빵집이 있어요."
+  },
+  {
+   "word": "baking",
+   "pos": "명사",
+   "meaning": "제빵, 굽기",
+   "en": "Baking cookies with my grandmother is my favorite hobby.",
+   "ko": "할머니와 쿠키를 굽는 것이 내가 제일 좋아하는 취미예요."
+  },
+  {
+   "word": "baked",
+   "pos": "형용사",
+   "meaning": "구운",
+   "en": "We had baked potatoes for dinner.",
+   "ko": "우리는 저녁으로 구운 감자를 먹었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 오븐에서 노릇노릇 구워지는 빵",
+ "imageCaption": "오븐 창문 너머로 빵이 부풀어 오르고 고소한 냄새가 퍼지는 장면을 떠올려 보세요.",
+ "movieLineEn": "I'll bake you the best cake in the whole kingdom.",
+ "movieLineKo": "온 왕국에서 최고의 케이크를 구워 줄게.",
+ "storyTitle": "용감한 제빵사의 실수",
+ "story": "동네 bakery(빵집)의 baker(제빵사) 아저씨는 생일 케이크를 bake(굽다)하다 깜빡 잠들었어요. 깨어 보니 케이크가 까맣게 baked(구운) 상태였죠! 아저씨는 '초콜릿 케이크예요'라고 우겼어요. 그런데 손님들이 맛있다며 줄을 섰대요. 지금은 그게 대표 메뉴랍니다."
+}

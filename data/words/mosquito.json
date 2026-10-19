@@ -1,0 +1,54 @@
+{
+ "word": "mosquito",
+ "pos": "명사",
+ "phonetic": "[məˈskiːtoʊ]",
+ "meaning": "모기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mosc",
+   "meaning": "파리 (fly)",
+   "note": "스페인어·포르투갈어 mosca(파리)에서 왔고, 라틴어 musca(파리)가 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ito",
+   "meaning": "작은 (작은 것을 나타냄)",
+   "note": "스페인어에서 '작은'이라는 뜻을 붙이는 지소 접미사예요."
+  }
+ ],
+ "summary": "<strong>mosc</strong> (파리) + <strong>-ito</strong> (작은) = '작은 파리'라는 뜻에서 <strong>'모기'</strong>가 되었어요.",
+ "historyTitle": "스페인 탐험가들이 가져온 '작은 파리'",
+ "historyBody": "mosquito는 16세기에 스페인어·포르투갈어에서 영어로 들어왔어요. 원래 뜻은 '작은 파리'였죠. 아메리카 대륙에 간 탐험가들이 이 말을 쓰면서 영어에도 자리 잡았답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "mosquito net",
+   "pos": "명사",
+   "meaning": "모기장",
+   "en": "We slept under a mosquito net during the trip.",
+   "ko": "우리는 여행 중에 모기장 아래에서 잤어요."
+  },
+  {
+   "word": "mosquito-borne",
+   "pos": "형용사",
+   "meaning": "모기가 옮기는",
+   "en": "Malaria is a mosquito-borne disease.",
+   "ko": "말라리아는 모기가 옮기는 질병이에요."
+  },
+  {
+   "word": "musket",
+   "pos": "명사",
+   "meaning": "머스킷 총 (옛날 소총)",
+   "en": "Soldiers in the 1700s carried heavy muskets.",
+   "ko": "1700년대 군인들은 무거운 머스킷 총을 들고 다녔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한여름 밤 귓가에서 윙윙거리는 작은 모기",
+ "imageCaption": "불을 끄자마자 귓가에서 '위잉~' 소리가 나는 짜증 나는 순간을 떠올려 보세요.",
+ "movieLineEn": "There's a mosquito in here! I can't sleep!",
+ "movieLineKo": "여기 모기가 있어! 잠을 못 자겠어!",
+ "storyTitle": "모기와의 전쟁",
+ "story": "여름밤, 아빠는 mosquito(모기)와 전쟁을 선포했어요. mosquito net(모기장)을 치고 mosquito-borne(모기가 옮기는) 병 예방 스프레이까지 뿌렸죠. 마치 musket(머스킷 총)을 든 장군 같았어요. 그런데 아침에 보니 모기장 안에 모기와 아빠만 사이좋게 갇혀 있었답니다."
+}

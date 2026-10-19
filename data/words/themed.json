@@ -1,0 +1,68 @@
+{
+ "word": "themed",
+ "pos": "형용사",
+ "phonetic": "[θiːmd]",
+ "meaning": "특정 주제로 꾸민, ~을 테마로 한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "theme",
+   "meaning": "주제 (theme)",
+   "note": "그리스어 thema(놓인 것)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~을 갖춘",
+   "note": "명사에 붙어 '그것을 갖춘'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>theme</strong> (주제) + <strong>-ed</strong> (~을 갖춘) = '주제를 갖춘'에서 <strong>'~을 테마로 꾸민'</strong>이 되었어요.",
+ "historyTitle": "테마파크 시대의 단어",
+ "historyBody": "theme은 그리스어 thema(놓인 것, 주제)에서 왔어요. themed는 20세기 후반, 특히 테마파크와 테마 식당이 유행하면서 'space-themed(우주 테마의)'처럼 하이픈과 함께 자주 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "theme",
+   "pos": "명사",
+   "meaning": "주제",
+   "en": "Friendship is the main theme of the novel.",
+   "ko": "우정이 그 소설의 주된 주제예요."
+  },
+  {
+   "word": "theme park",
+   "pos": "명사",
+   "meaning": "테마파크, 놀이공원",
+   "en": "We rode a roller coaster at the theme park.",
+   "ko": "우리는 테마파크에서 롤러코스터를 탔어요."
+  },
+  {
+   "word": "thematic",
+   "pos": "형용사",
+   "meaning": "주제의",
+   "en": "The books are arranged in thematic order.",
+   "ko": "책들은 주제별로 정리되어 있어요."
+  },
+  {
+   "word": "thesis",
+   "pos": "명사",
+   "meaning": "논문, 논제",
+   "en": "His thesis argues that sleep improves memory.",
+   "ko": "그의 논문은 수면이 기억력을 높인다고 주장해요."
+  },
+  {
+   "word": "hypothesis",
+   "pos": "명사",
+   "meaning": "가설",
+   "en": "Her hypothesis turned out to be correct.",
+   "ko": "그녀의 가설은 옳은 것으로 밝혀졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 우주선처럼 꾸민 테마 카페",
+ "imageCaption": "벽에는 별이 빛나고 직원들이 우주복을 입은 우주 테마 카페를 떠올려 보세요.",
+ "movieLineEn": "Welcome to our pirate-themed restaurant. Arr!",
+ "movieLineKo": "해적 테마 식당에 오신 걸 환영합니다. 아르르!",
+ "storyTitle": "공룡 테마 생일",
+ "story": "동생은 dinosaur-themed(공룡 테마의) 생일 파티를 원했어요. 엄마는 theme(주제)에 맞춰 공룡 케이크까지 준비했죠. 그런데 theme park(테마파크)에서 산 공룡 옷을 입은 아빠가 등장하자 동생이 울음을 터뜨렸어요. 내 hypothesis(가설)는 맞았어요. 동생은 공룡을 좋아하는 게 아니라 무서워서 이겨 보고 싶었던 거예요!"
+}

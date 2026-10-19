@@ -1,0 +1,61 @@
+{
+ "word": "firefly",
+ "pos": "명사",
+ "phonetic": "[ˈfaɪərflaɪ]",
+ "meaning": "반딧불이, 개똥벌레",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fire",
+   "meaning": "불 (fire)",
+   "note": "빛을 내는 모습을 '불'에 비유했어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fly",
+   "meaning": "날다, 날벌레 (fly)",
+   "note": "고대 영어 fleoge(날벌레)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>fire</strong> (불) + <strong>fly</strong> (날벌레) = '불빛을 내며 나는 벌레'라는 뜻에서 <strong>'반딧불이'</strong>가 되었습니다.",
+ "historyTitle": "사실은 파리가 아닌 딱정벌레",
+ "historyBody": "firefly는 fire와 fly를 합친 말로 17세기 무렵부터 쓰였어요. 하지만 반딧불이는 사실 파리가 아니라 딱정벌레의 한 종류예요. butterfly(나비), dragonfly(잠자리)처럼 영어에서는 날아다니는 곤충 이름에 fly를 넓게 붙였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "butterfly",
+   "pos": "명사",
+   "meaning": "나비",
+   "en": "A yellow butterfly landed on my shoulder.",
+   "ko": "노란 나비 한 마리가 내 어깨에 앉았어요."
+  },
+  {
+   "word": "dragonfly",
+   "pos": "명사",
+   "meaning": "잠자리",
+   "en": "A dragonfly flew over the pond in the afternoon.",
+   "ko": "오후에 잠자리 한 마리가 연못 위를 날아갔어요."
+  },
+  {
+   "word": "fireworks",
+   "pos": "명사",
+   "meaning": "불꽃놀이",
+   "en": "Thousands of people gathered to watch the fireworks.",
+   "ko": "수천 명의 사람들이 불꽃놀이를 보려고 모였어요."
+  },
+  {
+   "word": "flyer",
+   "pos": "명사",
+   "meaning": "전단지, 비행사",
+   "en": "I picked up a flyer about the school festival.",
+   "ko": "나는 학교 축제에 관한 전단지를 하나 집었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 여름밤 풀숲 위로 반짝반짝 떠다니는 작은 불빛들",
+ "imageCaption": "캄캄한 시골 밤, 풀숲 위를 둥둥 떠다니는 초록빛 점들이 바로 firefly예요.",
+ "movieLineEn": "Look! The fireflies are lighting the path for us.",
+ "movieLineKo": "봐! 반딧불이들이 우리 길을 밝혀 주고 있어.",
+ "storyTitle": "반딧불이의 질투",
+ "story": "반딧불이 firefly(반딧불이)는 butterfly(나비)의 화려한 날개가 부러웠어요. dragonfly(잠자리)는 빠른 속도를 자랑했죠. 우울해진 반딧불이가 숲을 날던 밤, 마을에서 fireworks(불꽃놀이)가 터졌어요. 모두 감탄할 때 꼬마가 외쳤죠. \"불꽃보다 반딧불이가 더 예뻐!\" 반딧불이는 너무 기뻐 엉덩이가 더 밝아졌대요."
+}

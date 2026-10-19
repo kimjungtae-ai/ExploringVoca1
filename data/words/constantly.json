@@ -1,0 +1,87 @@
+{
+ "word": "constantly",
+ "pos": "부사",
+ "phonetic": "[ˈkɑːnstəntli]",
+ "meaning": "끊임없이, 계속해서, 항상",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께, 완전히 (together, thoroughly)",
+   "note": "뜻을 강하게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "st(a)",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ant",
+   "meaning": "~하는 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사)",
+   "note": "부사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>sta</strong> (서다) + <strong>-ant</strong> + <strong>-ly</strong> = '변함없이 굳게 서 있게'라는 뜻에서 <strong>'끊임없이, 항상'</strong>이 되었어요.",
+ "historyTitle": "라틴어 constare, '굳게 서 있다'",
+ "historyBody": "constant는 라틴어 constare(굳게 서 있다, 변하지 않다)의 현재분사 constans에서 왔어요. '변하지 않는'이라는 뜻이 '계속되는'으로 이어졌고, -ly가 붙어 '끊임없이'가 되었어요. 같은 어근 sta가 stable, status, distance에도 숨어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "constant",
+   "pos": "형용사",
+   "meaning": "끊임없는, 변함없는",
+   "en": "The baby needs constant care.",
+   "ko": "아기는 끊임없는 보살핌이 필요해요."
+  },
+  {
+   "word": "distant",
+   "pos": "형용사",
+   "meaning": "먼, 거리가 있는",
+   "en": "We saw lights from a distant village.",
+   "ko": "우리는 먼 마을의 불빛을 보았어요."
+  },
+  {
+   "word": "instant",
+   "pos": "형용사",
+   "meaning": "즉각적인",
+   "en": "Instant noodles are quick but not very healthy.",
+   "ko": "즉석 라면은 빠르지만 건강에 그다지 좋진 않아요."
+  },
+  {
+   "word": "stable",
+   "pos": "형용사",
+   "meaning": "안정된",
+   "en": "He finally found a stable job.",
+   "ko": "그는 마침내 안정된 직장을 구했어요."
+  },
+  {
+   "word": "status",
+   "pos": "명사",
+   "meaning": "지위, 상태",
+   "en": "Smartphones became a status symbol for teenagers.",
+   "ko": "스마트폰은 십 대들의 지위 상징이 되었어요."
+  },
+  {
+   "word": "obstacle",
+   "pos": "명사",
+   "meaning": "장애물",
+   "en": "Fear can be the biggest obstacle to success.",
+   "ko": "두려움이 성공의 가장 큰 장애물일 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 쉴 새 없이 울리는 휴대폰 알림 장면",
+ "imageCaption": "하루 종일 쉬지 않고 깜빡이는 휴대폰 화면을 떠올려 보세요. 끊임없이 계속되는 모습이 constantly예요.",
+ "movieLineEn": "You're constantly telling me what to do!",
+ "movieLineKo": "넌 항상 나한테 이래라저래라 하잖아!",
+ "storyTitle": "수다쟁이 앵무새",
+ "story": "앵무새 초코는 constantly(끊임없이) 떠들었어요. 그 constant(끊임없는) 소리는 distant(먼) 마을까지 들렸죠. 이웃들은 instant(즉각적인) 귀마개를 샀어요. 그런데 어느 날 초코가 조용해지자 모두 걱정했대요. 알고 보니 목이 쉬어서 '휴가 중'이라는 쪽지를 들고 있었답니다!"
+}

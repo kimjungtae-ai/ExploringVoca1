@@ -1,0 +1,60 @@
+{
+ "word": "prestigious",
+ "pos": "형용사",
+ "phonetic": "[preˈstɪdʒəs]",
+ "meaning": "명망 있는, 일류의, 권위 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre- (prae-)",
+   "meaning": "앞에서 (before)",
+   "note": "눈앞을 가린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "stig (← stringere)",
+   "meaning": "묶다, 조이다 (bind, tie)",
+   "note": "라틴어 praestringere(눈을 가리다, 현혹하다)의 stringere에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ious",
+   "meaning": "~한 성질의 (형용사)",
+   "note": "'~이 가득한'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (앞에서) + <strong>stig</strong> (묶다, 가리다) + <strong>-ious</strong> (~한) = 눈을 현혹할 만큼 대단한 것이라서 <strong>'명망 있는'</strong>이 되었어요.",
+ "historyTitle": "마술사의 '눈속임'에서 '명성'으로",
+ "historyBody": "라틴어 praestigiae는 '마술사의 속임수'라는 뜻으로, praestringere(눈을 가리다, 현혹하다)에서 왔어요. 그래서 prestigious도 16세기 영어에서는 '속임수의, 기만적인'이라는 나쁜 뜻이었어요. 19세기 prestige가 '사람을 홀리는 매력→명성'의 뜻으로 바뀌면서, 20세기에 prestigious도 '명망 있는'이라는 좋은 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prestige",
+   "pos": "명사",
+   "meaning": "명성, 위신",
+   "en": "The university has great prestige around the world.",
+   "ko": "그 대학은 전 세계적으로 큰 명성을 가지고 있어요."
+  },
+  {
+   "word": "strict",
+   "pos": "형용사",
+   "meaning": "엄격한",
+   "en": "Our coach is strict about being on time.",
+   "ko": "우리 코치님은 시간 약속에 엄격하세요."
+  },
+  {
+   "word": "restrict",
+   "pos": "동사",
+   "meaning": "제한하다",
+   "en": "The city restricts car use in the downtown area.",
+   "ko": "시는 도심 지역의 차량 이용을 제한해요."
+  }
+ ],
+ "imageSense": "대표 의미: 금빛 트로피와 오래된 대학 건물이 빛나는 장면",
+ "imageCaption": "모두가 우러러보는 웅장한 대학 정문과 반짝이는 상패를 떠올려 보세요.",
+ "movieLineEn": "She won the most prestigious award in music.",
+ "movieLineKo": "그녀는 음악계에서 가장 권위 있는 상을 받았어요.",
+ "storyTitle": "명문 학원의 비밀",
+ "story": "동네에 prestigious(명망 있는) 학원이 생겼어요. 그 prestige(명성)의 비결은 strict(엄격한) 규칙! 간식도 restrict(제한하다)하고 휴대폰도 금지였죠. 학생들은 성적이 쑥쑥 올랐는데, 알고 보니 원장님은 마술사 출신이었어요. 진짜 마법은 '공부밖에 할 게 없는 교실'이었답니다!"
+}

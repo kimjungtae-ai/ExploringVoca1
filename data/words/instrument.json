@@ -1,0 +1,74 @@
+{
+ "word": "instrument",
+ "pos": "명사",
+ "phonetic": "[ˈɪnstrəmənt]",
+ "meaning": "악기, 도구, 기구, 수단",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에, 위에 (in, on)",
+   "note": "안쪽에 갖춘다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "stru",
+   "meaning": "쌓다, 갖추다 (build, arrange)",
+   "note": "라틴어 struere(쌓다, 갖추다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사)",
+   "note": "결과물이나 수단을 나타내요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>stru</strong> (갖추다) + <strong>-ment</strong> (것) = '일을 하려고 갖춰 놓은 것'이라는 뜻에서 <strong>'도구, 악기'</strong>가 되었습니다.",
+ "historyTitle": "준비물에서 악기까지",
+ "historyBody": "라틴어 'instrumentum'은 '도구, 장비, 갖춰 놓은 것'이라는 뜻이었어요. instruere(갖추다, 준비하다)에서 나온 말이죠. 처음엔 모든 도구를 뜻했고, 13세기 무렵부터 음악을 만드는 도구, 즉 악기라는 뜻으로도 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "instrumental",
+   "pos": "형용사",
+   "meaning": "중요한 역할을 하는, 기악의",
+   "en": "She was instrumental in winning the game.",
+   "ko": "그녀는 경기 승리에 중요한 역할을 했어요."
+  },
+  {
+   "word": "instruct",
+   "pos": "동사",
+   "meaning": "가르치다, 지시하다",
+   "en": "The teacher instructed us to read chapter five.",
+   "ko": "선생님은 우리에게 5장을 읽으라고 지시하셨어요."
+  },
+  {
+   "word": "structure",
+   "pos": "명사",
+   "meaning": "구조, 건축물",
+   "en": "The structure of this sentence is complex.",
+   "ko": "이 문장의 구조는 복잡해요."
+  },
+  {
+   "word": "construct",
+   "pos": "동사",
+   "meaning": "건설하다, 구성하다",
+   "en": "Workers are constructing a new bridge.",
+   "ko": "인부들이 새 다리를 건설하고 있어요."
+  },
+  {
+   "word": "destruction",
+   "pos": "명사",
+   "meaning": "파괴",
+   "en": "The war caused great destruction.",
+   "ko": "전쟁은 엄청난 파괴를 일으켰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 위 바이올린, 북, 피아노가 함께 연주되는 오케스트라",
+ "imageCaption": "목수의 망치부터 연주자의 바이올린까지, 무언가를 해내기 위해 갖춘 도구들을 떠올려 보세요. 그게 instrument예요.",
+ "movieLineEn": "Music is my weapon, and this guitar is my instrument.",
+ "movieLineKo": "음악은 나의 무기고, 이 기타는 나의 악기야.",
+ "storyTitle": "냄비 오케스트라",
+ "story": "음악 선생님이 각자 instrument(악기)를 가져오라고 instruct(지시하다)하셨어요. 나는 악기가 없어서 냄비를 가져갔죠. 친구들은 비웃었지만 내 냄비 연주는 공연 성공에 instrumental(중요한 역할을 하는)했어요. 공연 후 선생님이 물으셨어요. '그 냄비, 오늘 저녁 라면용이지?' 맞아요."
+}

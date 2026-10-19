@@ -1,0 +1,68 @@
+{
+ "word": "school id",
+ "pos": "명사구",
+ "phonetic": "[skuːl ˌaɪˈdiː]",
+ "meaning": "학생증",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "school",
+   "meaning": "학교 (school)",
+   "note": "그리스어 skholē(여가)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "ID",
+   "meaning": "신분증 (identification)",
+   "note": "identification(신분 확인)의 줄임말이에요."
+  }
+ ],
+ "summary": "<strong>school</strong> (학교) + <strong>ID</strong> (신분증) = '학교에서 발급한 신분증'이라서 <strong>'학생증'</strong>이에요.",
+ "historyTitle": "여가에서 학교로, 같은 것에서 신분으로",
+ "historyBody": "school은 라틴어 'schola'를 거쳐 그리스어 'skholē'에서 왔는데, 원래 '여가, 한가한 시간'이라는 뜻이었어요. 고대 그리스에서는 여가 시간에 토론하고 배웠기 때문이에요. ID는 identification의 줄임말로, 라틴어 'idem(같은)'에서 온 identity(동일함, 신원)와 관련 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ID card",
+   "pos": "명사구",
+   "meaning": "신분증",
+   "en": "Please show your ID card at the entrance.",
+   "ko": "입구에서 신분증을 보여 주세요."
+  },
+  {
+   "word": "identity",
+   "pos": "명사",
+   "meaning": "신원, 정체성",
+   "en": "The police checked the man's identity.",
+   "ko": "경찰이 그 남자의 신원을 확인했어요."
+  },
+  {
+   "word": "identify",
+   "pos": "동사",
+   "meaning": "확인하다, 알아보다",
+   "en": "Can you identify the person in this photo?",
+   "ko": "이 사진 속 사람을 알아볼 수 있나요?"
+  },
+  {
+   "word": "student discount",
+   "pos": "명사구",
+   "meaning": "학생 할인",
+   "en": "Show your school ID to get a student discount.",
+   "ko": "학생증을 보여 주면 학생 할인을 받을 수 있어요."
+  },
+  {
+   "word": "issue",
+   "pos": "동사",
+   "meaning": "발급하다",
+   "en": "The school issues new IDs every March.",
+   "ko": "학교는 매년 3월에 새 학생증을 발급해요."
+  }
+ ],
+ "imageSense": "대표 의미: 목에 건 학생증을 도서관 출입구에 찍는 장면",
+ "imageCaption": "도서관 입구에서 목걸이 학생증을 '삑' 찍고 들어가는 모습을 떠올려 보세요. 내가 이 학교 학생이라는 증명이에요.",
+ "movieLineEn": "No school ID, no entry. Rules are rules.",
+ "movieLineKo": "학생증 없으면 출입 불가. 규칙은 규칙이야.",
+ "storyTitle": "학생증의 비밀",
+ "story": "영화관에서 school ID(학생증)를 내밀어 student discount(학생 할인)를 받으려던 순간, 직원이 identify(알아보다)하듯 사진과 내 얼굴을 번갈아 봤어요. 중학교 때 issue(발급하다)된 거라 사진 속 나는 동글동글! 직원이 웃으며 말했죠. '동생 거 가져오셨어요?'"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "decline",
+ "pos": "동사 / 명사",
+ "phonetic": "[dɪˈklaɪn]",
+ "meaning": "감소하다, 쇠퇴하다, 거절하다 / 감소, 쇠퇴",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로 (down)",
+   "note": "아래쪽으로 향하는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cline",
+   "meaning": "기울다, 구부리다 (bend, lean)",
+   "note": "라틴어 clinare(기울이다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (아래로) + <strong>cline</strong> (기울다) = '아래로 기울다'에서 <strong>'감소하다, 거절하다'</strong>가 되었어요.",
+ "historyTitle": "아래로 기우는 그래프",
+ "historyBody": "decline은 라틴어 declinare(옆으로 비키다, 아래로 기울이다)에서 왔어요. 아래로 기우는 것이 '줄어들다, 쇠퇴하다'가 되었고, 제안에서 몸을 비켜 피한다는 느낌에서 '정중히 거절하다'라는 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "incline",
+   "pos": "동사 / 명사",
+   "meaning": "기울다, ~하고 싶게 하다 / 경사",
+   "en": "The road inclines steeply near the top of the hill.",
+   "ko": "언덕 꼭대기 근처에서 길이 가파르게 기울어져요."
+  },
+  {
+   "word": "inclined",
+   "pos": "형용사",
+   "meaning": "~하는 경향이 있는",
+   "en": "I'm inclined to agree with you.",
+   "ko": "나는 네 말에 동의하고 싶어지네."
+  },
+  {
+   "word": "recline",
+   "pos": "동사",
+   "meaning": "뒤로 기대다, 눕다",
+   "en": "You can recline your seat during the flight.",
+   "ko": "비행 중에는 좌석을 뒤로 젖힐 수 있어요."
+  },
+  {
+   "word": "inclination",
+   "pos": "명사",
+   "meaning": "경향, 성향",
+   "en": "She has a natural inclination toward music.",
+   "ko": "그녀는 타고난 음악적 성향이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 그래프 선이 오른쪽 아래로 쭉 내려가는 장면",
+ "imageCaption": "판매량 그래프가 미끄럼틀처럼 아래로 기울어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm afraid I must decline your kind offer.",
+ "movieLineKo": "유감이지만 당신의 친절한 제안을 거절해야겠군요.",
+ "storyTitle": "소파 왕의 몰락",
+ "story": "준호는 운동 제안을 늘 decline(거절하다)했어요. 소파에 recline(뒤로 기대다)하는 게 최고라고 inclined(~하는 경향이 있는)했거든요. 그런데 체력이 decline(감소하다)해서 계단 incline(경사)도 못 올라가게 됐죠. 결심한 준호, 오늘부터 운동…은 내일부터!"
+}

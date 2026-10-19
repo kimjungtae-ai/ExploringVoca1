@@ -1,0 +1,74 @@
+{
+ "word": "finalize",
+ "pos": "동사",
+ "phonetic": "[ˈfaɪnəlaɪz]",
+ "meaning": "마무리 짓다, 최종 확정하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fin",
+   "meaning": "끝 (end)",
+   "note": "라틴어 finis(끝, 경계)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "final = '끝의, 마지막의'."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하게 만들다 (동사)",
+   "note": "형용사를 '~로 만들다'라는 동사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>fin</strong> (끝) + <strong>-al</strong> (~의) + <strong>-ize</strong> (~하게 만들다) = '마지막 상태로 만들다'에서 <strong>'마무리 짓다, 최종 확정하다'</strong>가 되었습니다.",
+ "historyTitle": "로마의 경계선 finis",
+ "historyBody": "라틴어 finis는 '끝'뿐 아니라 땅의 '경계선'도 뜻했어요. 여기서 final(마지막의)이 나왔고, 20세기 초 미국에서 -ize를 붙인 finalize가 널리 쓰이게 되었어요. 처음엔 '새로 만든 말'이라며 싫어하는 사람도 있었지만 지금은 아주 흔한 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "final",
+   "pos": "형용사 / 명사",
+   "meaning": "마지막의 / 결승전",
+   "en": "We watched the final match together at the stadium.",
+   "ko": "우리는 경기장에서 함께 결승전을 봤어요."
+  },
+  {
+   "word": "finish",
+   "pos": "동사",
+   "meaning": "끝내다",
+   "en": "I finished my homework before dinner.",
+   "ko": "나는 저녁 먹기 전에 숙제를 끝냈어요."
+  },
+  {
+   "word": "infinite",
+   "pos": "형용사",
+   "meaning": "무한한",
+   "en": "The universe seems to have infinite space.",
+   "ko": "우주는 무한한 공간을 가진 것 같아요."
+  },
+  {
+   "word": "define",
+   "pos": "동사",
+   "meaning": "정의하다 (경계를 정하다)",
+   "en": "It is hard to define happiness in one word.",
+   "ko": "행복을 한 단어로 정의하기는 어려워요."
+  },
+  {
+   "word": "confine",
+   "pos": "동사",
+   "meaning": "제한하다, 가두다",
+   "en": "The dog was confined to the yard during the storm.",
+   "ko": "폭풍이 치는 동안 개는 마당에 갇혀 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 계약서에 마지막 도장을 쾅 찍는 장면",
+ "imageCaption": "회의 끝에 모두가 고개를 끄덕이고 계약서에 서명하는 순간이 finalize예요.",
+ "movieLineEn": "Let's finalize the plan tonight. Tomorrow, we move.",
+ "movieLineKo": "오늘 밤 계획을 확정하자. 내일 우리는 움직인다.",
+ "storyTitle": "끝나지 않는 여행 계획",
+ "story": "가족은 여행 계획을 finalize(최종 확정하다)하기로 했어요. 아빠가 final(마지막) 일정이라며 발표했지만, 엄마가 또 바꿨죠. 동생은 '즐거움'을 define(정의하다)해야 한다며 끼어들었어요. 계획 수정은 infinite(무한한)하게 이어졌고, 결국 finish(끝내다)하고 보니 방학이 끝나 있었대요!"
+}

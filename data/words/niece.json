@@ -1,0 +1,41 @@
+{
+ "word": "niece",
+ "pos": "명사",
+ "phonetic": "[niːs]",
+ "meaning": "(여자) 조카",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "niece",
+   "meaning": "손녀, 조카딸 (neptis)",
+   "note": "라틴어 neptis(손녀)가 고대 프랑스어 niece를 거쳐 들어온 말이라 영어 안에서는 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>niece</strong>는 라틴어 neptis(<strong>손녀, 조카딸</strong>)에서 왔고, 형제자매의 딸인 <strong>'여자 조카'</strong>를 뜻해요.",
+ "historyTitle": "nephew의 여동생 같은 단어",
+ "historyBody": "niece는 라틴어 neptis(손녀)에서 왔는데, 이는 nephew의 뿌리인 nepos(손자, 조카)의 여성형이에요. 중세 영어에서는 niece가 '손녀'를 뜻하기도 했어요. 지금은 형제자매의 딸만을 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nephew",
+   "pos": "명사",
+   "meaning": "(남자) 조카",
+   "en": "My nephew loves dinosaurs and soccer.",
+   "ko": "내 남자 조카는 공룡과 축구를 정말 좋아해요."
+  },
+  {
+   "word": "nepotism",
+   "pos": "명사",
+   "meaning": "친족 등용, 연고주의",
+   "en": "People complained about nepotism in the city government.",
+   "ko": "사람들은 시 정부의 연고주의에 대해 불평했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 이모와 어린 여자 조카가 손잡고 걷는 모습",
+ "imageCaption": "이모 손을 잡고 놀이공원에 간 꼬마 여자아이를 떠올려 보세요.",
+ "movieLineEn": "My niece is the smartest kid I know.",
+ "movieLineKo": "내 조카딸은 내가 아는 가장 똑똑한 아이야.",
+ "storyTitle": "조카의 숙제 도우미",
+ "story": "이모는 niece(여자 조카) 지우의 숙제를 도와주기로 했어요. nephew(남자 조카) 준우도 끼어들었죠. 이모는 \"이건 nepotism(연고주의)이 아니라 사랑이야\"라며 열심히 풀었어요. 그런데 정답은 지우가 다 맞히고, 이모만 niece(조카)에게 혼났답니다."
+}

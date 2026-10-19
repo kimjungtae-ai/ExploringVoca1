@@ -1,0 +1,61 @@
+{
+ "word": "ballet",
+ "pos": "명사",
+ "phonetic": "[bæˈleɪ]",
+ "meaning": "발레",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ball",
+   "meaning": "춤추다 (dance) — 라틴어 ballare",
+   "note": "'무도회'의 ball과 같은 뿌리로, 춤을 뜻해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-et",
+   "meaning": "작은 것 (small)",
+   "note": "이탈리아어 -etto, 프랑스어 -et처럼 '작은'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>ball</strong> (춤) + <strong>-et</strong> (작은) = '작은 춤'에서 무대 위의 <strong>'발레'</strong>가 되었어요.",
+ "historyTitle": "이탈리아 궁정에서 프랑스 무대로",
+ "historyBody": "ballet는 이탈리아어 balletto(작은 춤)가 프랑스어로 들어가 생긴 말이에요. 그 뿌리는 후기 라틴어 ballare(춤추다)예요. 르네상스 시대 이탈리아 궁정의 춤이 프랑스 루이 14세 시절 전문 무용으로 발전했고, 그래서 발레 용어는 지금도 대부분 프랑스어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ball",
+   "pos": "명사",
+   "meaning": "무도회",
+   "en": "Cinderella lost her glass shoe at the royal ball.",
+   "ko": "신데렐라는 왕실 무도회에서 유리 구두를 잃어버렸어요."
+  },
+  {
+   "word": "ballroom",
+   "pos": "명사",
+   "meaning": "무도회장",
+   "en": "The wedding party was held in a large ballroom.",
+   "ko": "결혼 피로연은 큰 무도회장에서 열렸어요."
+  },
+  {
+   "word": "ballerina",
+   "pos": "명사",
+   "meaning": "발레리나",
+   "en": "The young ballerina practiced for hours every day.",
+   "ko": "그 어린 발레리나는 매일 몇 시간씩 연습했어요."
+  },
+  {
+   "word": "ballad",
+   "pos": "명사",
+   "meaning": "발라드, 민요",
+   "en": "She sang a sad ballad about lost love.",
+   "ko": "그녀는 잃어버린 사랑에 관한 슬픈 발라드를 불렀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 위에서 발끝으로 서서 우아하게 도는 무용수",
+ "imageCaption": "토슈즈를 신고 사뿐사뿐 도는 무용수를 떠올려 보세요. '작은 춤'이 모여 큰 무대가 돼요.",
+ "movieLineEn": "I don't want to box, Dad. I want to dance ballet!",
+ "movieLineKo": "아빠, 저 권투 안 할래요. 발레를 하고 싶어요!",
+ "storyTitle": "발레하는 곰",
+ "story": "숲속 ballroom(무도회장)에서 ball(무도회)이 열렸어요. 곰 아저씨는 ballet(발레)를 배워 왔다며 빙글빙글 돌았죠. 토끼 ballerina(발레리나)는 깜짝 놀랐어요. 곰이 너무 무거워 마루가 쿵쿵 울렸거든요! 결국 무도회는 곰이 부르는 ballad(발라드) 노래자랑으로 바뀌었답니다."
+}

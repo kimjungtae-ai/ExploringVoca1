@@ -1,0 +1,81 @@
+{
+ "word": "rectangular",
+ "pos": "형용사",
+ "phonetic": "[rekˈtæŋɡjələr]",
+ "meaning": "직사각형의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "rect-",
+   "meaning": "곧은, 똑바른, 직각의 (straight, right)",
+   "note": "라틴어 rectus(곧은)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "angul",
+   "meaning": "각, 모서리 (angle)",
+   "note": "라틴어 angulus(모서리)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar",
+   "meaning": "~의, ~ 모양의 (형용사)",
+   "note": "명사를 형용사로 만들어요."
+  }
+ ],
+ "summary": "<strong>rect</strong> (곧은, 직각) + <strong>angul</strong> (각) + <strong>-ar</strong> (~의) = 네 각이 모두 직각인, 즉 <strong>'직사각형의'</strong>예요.",
+ "historyTitle": "직각(right angle)을 품은 도형",
+ "historyBody": "중세 라틴어 rectangulum은 '직각을 가진 도형'을 뜻했어요. rectus는 '곧은, 바른'이라는 뜻이라 correct(바른), direct(곧장)에도 숨어 있어요. 그래서 rectangle은 '바른 각 네 개'를 가진 도형이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rectangle",
+   "pos": "명사",
+   "meaning": "직사각형",
+   "en": "Draw a rectangle and divide it into four parts.",
+   "ko": "직사각형을 하나 그리고 네 부분으로 나누세요."
+  },
+  {
+   "word": "angle",
+   "pos": "명사",
+   "meaning": "각도, 관점",
+   "en": "Try to look at the problem from a different angle.",
+   "ko": "그 문제를 다른 각도에서 보려고 해 보세요."
+  },
+  {
+   "word": "correct",
+   "pos": "형용사 / 동사",
+   "meaning": "올바른 / 바로잡다",
+   "en": "Please correct the mistakes in your essay.",
+   "ko": "에세이에 있는 실수를 바로잡아 주세요."
+  },
+  {
+   "word": "direct",
+   "pos": "형용사 / 동사",
+   "meaning": "직접적인 / 지휘하다, 향하게 하다",
+   "en": "There is a direct flight from Seoul to Paris.",
+   "ko": "서울에서 파리로 가는 직항편이 있어요."
+  },
+  {
+   "word": "erect",
+   "pos": "동사 / 형용사",
+   "meaning": "세우다 / 똑바로 선",
+   "en": "The town erected a statue in honor of the hero.",
+   "ko": "그 마을은 영웅을 기리기 위해 동상을 세웠어요."
+  },
+  {
+   "word": "rectify",
+   "pos": "동사",
+   "meaning": "바로잡다, 수정하다",
+   "en": "The company promised to rectify the error quickly.",
+   "ko": "그 회사는 오류를 빨리 바로잡겠다고 약속했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 반듯한 직사각형 모양의 책상과 칠판",
+ "imageCaption": "교실 칠판, 휴대폰 화면, 교과서까지 모두 네 귀퉁이가 반듯한 직각이죠. 그 반듯한 모양이 rectangular예요.",
+ "movieLineEn": "Find the rectangular box with the golden lock.",
+ "movieLineKo": "금 자물쇠가 달린 직사각형 상자를 찾아.",
+ "storyTitle": "완벽주의 고양이",
+ "story": "우리 고양이는 rectangular(직사각형의) 상자만 좋아해요. 둥근 상자를 주면 angle(각도)을 재듯 노려보죠. 아빠가 상자 모서리를 correct(바로잡다)해 완벽한 rectangle(직사각형)을 만들어 줬어요. 고양이는 만족한 듯 쏙 들어갔는데, 그 상자는 아빠의 새 노트북 상자였답니다."
+}

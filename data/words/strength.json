@@ -1,0 +1,61 @@
+{
+ "word": "strength",
+ "pos": "명사",
+ "phonetic": "[streŋθ]",
+ "meaning": "힘, 강점, 세기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "strong",
+   "meaning": "강한 (strong)",
+   "note": "고대 영어 strang(강한)에서 온 게르만계 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-th",
+   "meaning": "~한 상태 (명사)",
+   "note": "형용사를 명사로 바꿔요. 이때 모음이 strong → streng으로 바뀌었어요."
+  }
+ ],
+ "summary": "<strong>strong</strong> (강한) + <strong>-th</strong> (상태) = <strong>'강한 상태, 힘, 강점'</strong>입니다.",
+ "historyTitle": "strong이 변신한 strength",
+ "historyBody": "strength는 고대 영어 strengþu에서 왔는데, strang(강한)에 명사를 만드는 -þu가 붙은 말이에요. long → length, wide → width처럼 형용사에 -th가 붙으면서 모음이 바뀌는 현상이 같이 일어났답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "strong",
+   "pos": "형용사",
+   "meaning": "강한, 튼튼한",
+   "en": "You need strong legs to climb this mountain.",
+   "ko": "이 산을 오르려면 튼튼한 다리가 필요해요."
+  },
+  {
+   "word": "strengthen",
+   "pos": "동사",
+   "meaning": "강화하다, 튼튼하게 하다",
+   "en": "Reading every day strengthens your vocabulary.",
+   "ko": "매일 책을 읽으면 어휘력이 강화돼요."
+  },
+  {
+   "word": "strongly",
+   "pos": "부사",
+   "meaning": "강하게, 강력히",
+   "en": "I strongly believe that honesty is important.",
+   "ko": "나는 정직이 중요하다고 강하게 믿어요."
+  },
+  {
+   "word": "stronghold",
+   "pos": "명사",
+   "meaning": "요새, 본거지",
+   "en": "The castle was the king's last stronghold.",
+   "ko": "그 성은 왕의 마지막 요새였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 역도 선수가 무거운 바벨을 번쩍 들어 올리는 장면",
+ "imageCaption": "팔에 힘을 꽉 주고 무거운 상자를 들어 올리는 순간을 떠올려 보세요.",
+ "movieLineEn": "Your kindness is your greatest strength.",
+ "movieLineKo": "너의 친절함이 너의 가장 큰 강점이야.",
+ "storyTitle": "개미의 숨은 힘",
+ "story": "개미 왕국에서 힘자랑 대회가 열렸어요. strong(강한) 딱정벌레가 우승을 자신했죠. 그런데 작은 개미가 자기 몸무게의 50배를 들어 올렸어요. 모두가 개미의 strength(힘)에 놀랐어요. 개미는 \"매일 근육을 strengthen(강화하다)했어요\"라고 말했죠. 하지만 사실 그 바벨은 strongly(강하게) 부풀린 풍선이었대요!"
+}

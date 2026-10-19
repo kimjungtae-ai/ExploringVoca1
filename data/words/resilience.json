@@ -1,0 +1,67 @@
+{
+ "word": "resilience",
+ "pos": "명사",
+ "phonetic": "[rɪˈzɪliəns]",
+ "meaning": "회복력, 탄력성, 끈기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "원래 자리로 돌아온다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sil",
+   "meaning": "뛰다 (jump, leap) ← salire",
+   "note": "라틴어 salire(뛰다)가 모양이 바뀐 것이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 성질 (명사)",
+   "note": "성질이나 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>sil</strong> (뛰다) + <strong>-ence</strong> (성질) = '다시 튀어 오르는 성질'에서 <strong>'회복력'</strong>이 되었어요.",
+ "historyTitle": "용수철처럼 튀어 오르는 힘",
+ "historyBody": "라틴어 resilire는 '뒤로 튀어 오르다'라는 뜻이었어요. 17세기 영어에서 resilience는 물체가 튕겨 나오는 성질을 가리켰고, 19세기 이후 '어려움에서 다시 일어서는 힘'이라는 뜻으로 넓어졌어요. 같은 뿌리에서 result(결과, 원래 '튀어 돌아오다')도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "resilient",
+   "pos": "형용사",
+   "meaning": "회복력 있는, 탄력 있는",
+   "en": "Children are often more resilient than adults.",
+   "ko": "아이들은 종종 어른보다 회복력이 더 강해요."
+  },
+  {
+   "word": "result",
+   "pos": "명사 / 동사",
+   "meaning": "결과 / 결과로 생기다",
+   "en": "The result of the test surprised everyone.",
+   "ko": "시험 결과에 모두가 놀랐어요."
+  },
+  {
+   "word": "insult",
+   "pos": "동사 / 명사",
+   "meaning": "모욕하다 / 모욕",
+   "en": "He didn't mean to insult you.",
+   "ko": "그는 너를 모욕할 생각은 없었어."
+  },
+  {
+   "word": "assault",
+   "pos": "명사 / 동사",
+   "meaning": "폭행, 공격 / 공격하다",
+   "en": "The soldiers prepared for the assault.",
+   "ko": "병사들은 공격에 대비했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꾹 눌렀다가 다시 퐁 튀어 오르는 고무공",
+ "imageCaption": "바닥에 떨어져도 다시 튀어 오르는 고무공처럼, 넘어져도 일어서는 힘을 떠올려 보세요.",
+ "movieLineEn": "Resilience isn't about never falling. It's about getting up.",
+ "movieLineKo": "회복력은 절대 넘어지지 않는 게 아니야. 다시 일어나는 거지.",
+ "storyTitle": "오뚝이 수험생",
+ "story": "수아는 모의고사 result(결과)가 나쁠 때마다 오뚝이처럼 일어섰어요. 친구가 insult(모욕하다)해도 웃었죠. 선생님은 그녀의 resilience(회복력)를 칭찬하며 정말 resilient(회복력 있는)하다고 했어요. 비결을 묻자 수아가 말했어요. \"사실 넘어질 때마다 그냥 잠들어서 기억이 안 나요!\""
+}

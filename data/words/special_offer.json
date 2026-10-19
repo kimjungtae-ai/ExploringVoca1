@@ -1,0 +1,68 @@
+{
+ "word": "special offer",
+ "pos": "명사구",
+ "phonetic": "[ˈspeʃəl ˈɔːfər]",
+ "meaning": "특가 판매, 특별 할인 행사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "special",
+   "meaning": "특별한 (special)",
+   "note": "평소와 다른 '특별한'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "offer",
+   "meaning": "제안, 할인 (offer)",
+   "note": "라틴어 offerre(앞에 내놓다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>special</strong> (특별한) + <strong>offer</strong> (내놓은 제안) = '특별히 좋은 조건으로 내놓은 제안'이라서 <strong>'특가 판매'</strong>예요.",
+ "historyTitle": "앞으로 가져다 내밀기",
+ "historyBody": "offer는 고대 영어 'offrian(제물을 바치다)'과 고대 프랑스어 'offrir'를 거쳐 라틴어 'offerre'에서 왔어요. ob-(앞으로) + ferre(가져오다)로, '앞으로 가져다 내밀다'라는 뜻이에요. 그래서 가게가 손님 앞에 내미는 좋은 조건을 special offer라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "offer",
+   "pos": "동사",
+   "meaning": "제공하다, 제안하다",
+   "en": "The hotel offers free breakfast.",
+   "ko": "그 호텔은 무료 아침 식사를 제공해요."
+  },
+  {
+   "word": "special deal",
+   "pos": "명사구",
+   "meaning": "특가",
+   "en": "I got a special deal on my new laptop.",
+   "ko": "새 노트북을 특가로 샀어요."
+  },
+  {
+   "word": "limited time",
+   "pos": "명사구",
+   "meaning": "기간 한정",
+   "en": "This price is for a limited time only.",
+   "ko": "이 가격은 기간 한정이에요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사",
+   "meaning": "옮기다, 이동하다",
+   "en": "He transferred to a new school last year.",
+   "ko": "그는 작년에 새 학교로 전학 갔어요."
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참고하다",
+   "en": "Please refer to the guide for details.",
+   "ko": "자세한 내용은 안내서를 참고하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 상점 유리창에 '특가! 50% 할인' 포스터가 붙은 장면",
+ "imageCaption": "상점 유리창에 커다란 '오늘만 특가!' 포스터가 붙어 있고 사람들이 줄을 선 모습을 떠올려 보세요.",
+ "movieLineEn": "This is a special offer, and it ends at midnight!",
+ "movieLineKo": "이건 특가 판매이고, 자정에 끝납니다!",
+ "storyTitle": "한정 특가",
+ "story": "홈쇼핑 진행자가 외쳤어요. 'special offer(특가 판매)! limited time(기간 한정)!' 아빠는 전화기를 들었죠. 진행자는 사은품까지 offer(제공하다)한다며 3분 남았다고 했어요. 아빠는 겨우 주문에 성공! 그런데 상자를 열어 보니 지난달 아빠가 산 똑같은 안마의자였어요."
+}

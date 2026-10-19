@@ -1,0 +1,68 @@
+{
+ "word": "faulty",
+ "pos": "형용사",
+ "phonetic": "[ˈfɔːlti]",
+ "meaning": "결함이 있는, 잘못된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fault",
+   "meaning": "결함, 잘못 (lack, failing)",
+   "note": "라틴어 fallere(속이다, 실패하다)에서 고대 프랑스어 faute(부족, 잘못)를 거쳐 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~가 있는 (형용사형)",
+   "note": "명사 뒤에 붙어 '그런 성질이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>fault</strong> (결함, 잘못) + <strong>-y</strong> (~가 있는) = '결함이 있는'이라는 뜻에서 <strong>'결함 있는, 잘못된'</strong>이 되었어요.",
+ "historyTitle": "숨어 있던 글자 l의 비밀",
+ "historyBody": "fault는 고대 프랑스어 faute(부족, 실수)에서 왔고, 그 뿌리는 라틴어 fallere(속이다, 실패하다)예요. 원래 영어에서도 faute로 썼는데, 15세기 사람들이 라틴어를 닮게 하려고 l을 다시 넣었어요. 그래서 fail, false와 fault가 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fault",
+   "pos": "명사",
+   "meaning": "잘못, 결함",
+   "en": "It's not your fault that the bus was late.",
+   "ko": "버스가 늦은 건 네 잘못이 아니야."
+  },
+  {
+   "word": "default",
+   "pos": "명사",
+   "meaning": "기본값, 채무 불이행",
+   "en": "The default language of this phone is English.",
+   "ko": "이 휴대폰의 기본 언어는 영어예요."
+  },
+  {
+   "word": "fail",
+   "pos": "동사",
+   "meaning": "실패하다",
+   "en": "Don't be afraid to fail when you try something new.",
+   "ko": "새로운 걸 시도할 때 실패를 두려워하지 마세요."
+  },
+  {
+   "word": "failure",
+   "pos": "명사",
+   "meaning": "실패",
+   "en": "Failure is often the first step to success.",
+   "ko": "실패는 종종 성공의 첫걸음이에요."
+  },
+  {
+   "word": "false",
+   "pos": "형용사",
+   "meaning": "거짓의, 틀린",
+   "en": "The rumor about the test turned out to be false.",
+   "ko": "시험에 관한 소문은 거짓으로 밝혀졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 연기가 피어오르며 고장 난 토스터",
+ "imageCaption": "버튼을 눌렀는데 빵 대신 연기가 나오는 기계를 떠올리세요. 그게 faulty예요.",
+ "movieLineEn": "The alarm didn't ring because the wiring was faulty!",
+ "movieLineKo": "배선에 결함이 있어서 경보가 안 울린 거야!",
+ "storyTitle": "고장 난 로봇의 변명",
+ "story": "우리 집 청소 로봇이 faulty(결함 있는) 판정을 받았어요. 청소에 fail(실패하다)하고 거실을 엉망으로 만들었거든요. 로봇이 말했어요. \"제 fault(잘못)가 아닙니다. default(기본값) 설정 탓이에요.\" 거짓말 같았지만 false(거짓의)는 아니었어요. 확인해 보니 설정이 '고양이 모드'로 되어 있었답니다."
+}

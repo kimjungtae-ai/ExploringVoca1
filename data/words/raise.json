@@ -1,0 +1,48 @@
+{
+ "word": "raise",
+ "pos": "동사 / 명사",
+ "phonetic": "[reɪz]",
+ "meaning": "올리다, 들어 올리다, 기르다, (돈을) 모으다, (문제를) 제기하다 / 인상",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "raise (← 고대 노르드어 reisa)",
+   "meaning": "일으키다, 들어 올리다 (cause to rise)",
+   "note": "rise(오르다)를 '오르게 하다'로 바꾼 노르드어 동사에서 왔어요."
+  }
+ ],
+ "summary": "<strong>raise</strong>는 고대 노르드어 <strong>reisa</strong> (오르게 하다)에서 와서 <strong>'올리다, 기르다'</strong>가 되었어요.",
+ "historyTitle": "바이킹이 남긴 '올리다'",
+ "historyBody": "raise는 12세기쯤 고대 노르드어 reisa에서 영어로 들어왔어요. reisa는 rísa(오르다)를 '오르게 하다'로 만든 동사예요. 영어 고유어 rear(기르다)도 같은 게르만 뿌리에서 나온 친척이라, raise에도 '아이를 기르다'라는 뜻이 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rise",
+   "pos": "동사 / 명사",
+   "meaning": "오르다, 일어나다 / 상승",
+   "en": "The sun rises in the east.",
+   "ko": "해는 동쪽에서 떠요."
+  },
+  {
+   "word": "arise",
+   "pos": "동사",
+   "meaning": "생기다, 발생하다",
+   "en": "Problems may arise if we don't plan carefully.",
+   "ko": "신중하게 계획하지 않으면 문제가 생길 수 있어요."
+  },
+  {
+   "word": "rear",
+   "pos": "동사 / 명사",
+   "meaning": "기르다 / 뒤쪽",
+   "en": "They rear sheep on their farm.",
+   "ko": "그들은 농장에서 양을 길러요."
+  }
+ ],
+ "imageSense": "대표 의미: 교실에서 학생이 손을 번쩍 드는 장면",
+ "imageCaption": "무언가를 아래에서 위로 '번쩍' 들어 올리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Raise your hand if you know the answer!",
+ "movieLineKo": "답을 아는 사람은 손을 들어!",
+ "storyTitle": "손 드는 고양이",
+ "story": "할머니는 시골에서 고양이를 raise(기르다)하셨어요. 그 고양이는 해가 rise(떠오르다)하면 앞발을 번쩍 들었죠. 동네 사람들은 신기해서 고양이에게 질문을 했어요. 문제가 arise(생기다)하면 고양이가 발을 들어 답을 알려 줬거든요. 사실은 그냥 기지개를 켜는 거였답니다!"
+}

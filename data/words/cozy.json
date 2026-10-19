@@ -1,0 +1,41 @@
+{
+ "word": "cozy",
+ "pos": "형용사",
+ "phonetic": "[ˈkoʊzi]",
+ "meaning": "아늑한, 편안한, 포근한",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cozy (colsie)",
+   "meaning": "아늑한, 편안한 (snug)",
+   "note": "18세기 스코틀랜드어 colsie에서 처음 보이는데, 그 이전 기원은 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>cozy</strong>는 쪼개지지 않는 단어로, <strong>'아늑한, 포근한'</strong>이라는 뜻이에요.",
+ "historyTitle": "스코틀랜드에서 온 포근한 단어",
+ "historyBody": "cozy는 18세기 초 스코틀랜드 영어에서 colsie라는 형태로 처음 기록되었어요. 노르웨이어 koselig(아늑한)처럼 북유럽 말과 관련이 있다는 추측이 있지만, 사전들은 기원이 확실하지 않다고 해요. 영국에서는 cosy라고 써요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "cozily",
+   "pos": "부사",
+   "meaning": "아늑하게, 포근하게",
+   "en": "The cat slept cozily by the fireplace.",
+   "ko": "고양이가 벽난로 옆에서 포근하게 잠들었어요."
+  },
+  {
+   "word": "coziness",
+   "pos": "명사",
+   "meaning": "아늑함",
+   "en": "I love the coziness of my room in winter.",
+   "ko": "나는 겨울철 내 방의 아늑함이 정말 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 비 오는 날 담요를 덮고 코코아를 마시는 장면",
+ "imageCaption": "창밖엔 비가 오고, 담요를 두른 채 따뜻한 코코아를 마시는 모습을 떠올려 보세요. 그 따뜻한 느낌이 cozy예요.",
+ "movieLineEn": "This little cabin is cozy. Let's stay here tonight.",
+ "movieLineKo": "이 작은 오두막 아늑하다. 오늘 밤엔 여기 머물자.",
+ "storyTitle": "아늑함 중독 고양이",
+ "story": "고양이 모모는 cozy(아늑한) 곳만 찾아다녔어요. 담요 속에서 cozily(포근하게) 자는 게 취미였죠. 그 coziness(아늑함)를 지키려고 하루 20시간을 잤어요. 어느 날 더 cozy(아늑한) 곳을 발견했는데, 바로 빨래 바구니! 엄마가 모르고 세탁기로 가져갈 뻔했대요."
+}

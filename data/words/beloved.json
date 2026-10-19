@@ -1,0 +1,67 @@
+{
+ "word": "beloved",
+ "pos": "형용사 / 명사",
+ "phonetic": "[bɪˈlʌvɪd]",
+ "meaning": "사랑받는, 소중한 / 사랑하는 사람",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "be-",
+   "meaning": "완전히, 철저히 (thoroughly)",
+   "note": "동사의 뜻을 더 강하게 만들어 줘요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "love",
+   "meaning": "사랑하다 (love)",
+   "note": "마음 깊이 아끼는 마음이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~받는 (과거분사)",
+   "note": "'사랑받는'이라는 수동의 뜻을 만들어요."
+  }
+ ],
+ "summary": "<strong>be-</strong> (완전히) + <strong>love</strong> (사랑하다) + <strong>-ed</strong> (~받는) = '깊이 사랑받는'에서 <strong>'소중한, 사랑받는'</strong>이 되었어요.",
+ "historyTitle": "중세 영어의 '깊이 사랑하다'",
+ "historyBody": "중세 영어에는 bilufien(깊이 사랑하다)이라는 동사가 있었고, beloved는 그 과거분사예요. 동사는 사라졌지만 beloved는 살아남아 '몹시 사랑받는'이라는 뜻으로 쓰여요. 편지, 시, 묘비 등에서 소중한 사람을 부를 때 자주 볼 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "love",
+   "pos": "동사 / 명사",
+   "meaning": "사랑하다 / 사랑",
+   "en": "I love reading books on rainy days.",
+   "ko": "나는 비 오는 날 책 읽는 것을 좋아해요."
+  },
+  {
+   "word": "lovely",
+   "pos": "형용사",
+   "meaning": "사랑스러운, 아름다운",
+   "en": "What a lovely garden you have!",
+   "ko": "정말 아름다운 정원을 가지셨네요!"
+  },
+  {
+   "word": "loving",
+   "pos": "형용사",
+   "meaning": "다정한, 애정 어린",
+   "en": "She grew up in a warm and loving family.",
+   "ko": "그녀는 따뜻하고 다정한 가정에서 자랐어요."
+  },
+  {
+   "word": "lovable",
+   "pos": "형용사",
+   "meaning": "사랑스러운, 귀여운",
+   "en": "The puppy is so lovable that everyone wants to hug it.",
+   "ko": "그 강아지는 너무 사랑스러워서 모두가 안아 주고 싶어 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 가족 모두에게 사랑받는 늙은 강아지",
+ "imageCaption": "온 가족이 둘러앉아 쓰다듬어 주는 오래된 반려견을 떠올려 보세요. 그 강아지가 바로 beloved예요.",
+ "movieLineEn": "Farewell, my beloved. I'll come back for you.",
+ "movieLineKo": "잘 있어요, 내 사랑. 꼭 데리러 올게요.",
+ "storyTitle": "사랑받는 고양이의 반전",
+ "story": "할머니의 beloved(사랑받는) 고양이 치즈는 lovely(사랑스러운) 외모로 동네 스타였어요. 모두 치즈를 love(사랑하다)했죠. loving(다정한) 이웃들이 매일 간식을 줬는데, 치즈는 집집마다 다른 이름으로 불리고 있었어요. 알고 보니 다섯 집의 고양이였답니다!"
+}

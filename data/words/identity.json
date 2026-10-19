@@ -1,0 +1,61 @@
+{
+ "word": "identity",
+ "pos": "명사",
+ "phonetic": "[aɪˈdentəti]",
+ "meaning": "정체성, 신원, 동일함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ident (idem)",
+   "meaning": "같은 (same)",
+   "note": "라틴어 idem(같은)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~성, ~함 (명사형)",
+   "note": "'그런 성질'을 뜻하는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ident</strong> (같은) + <strong>-ity</strong> (성질) = '늘 같은 나로 있는 성질'에서 <strong>'정체성, 신원'</strong>이 되었어요.",
+ "historyTitle": "어제도 오늘도 '같은' 나",
+ "historyBody": "identity는 후기 라틴어 identitas(같음)에서 왔고, 그 뿌리는 idem(같은)이에요. 처음엔 '똑같음, 동일성'이라는 철학 용어였죠. 시간이 지나도 변하지 않는 '나다운 나'라는 뜻에서 오늘날 '정체성, 신원'으로 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "identify",
+   "pos": "동사",
+   "meaning": "확인하다, 식별하다",
+   "en": "The police quickly identified the stolen car.",
+   "ko": "경찰은 도난 차량을 빠르게 확인했어요."
+  },
+  {
+   "word": "identical",
+   "pos": "형용사",
+   "meaning": "똑같은",
+   "en": "My answer was identical to my friend's answer.",
+   "ko": "내 답은 친구의 답과 똑같았어요."
+  },
+  {
+   "word": "identification",
+   "pos": "명사",
+   "meaning": "신분 증명, 확인",
+   "en": "Please show your identification at the front desk.",
+   "ko": "안내 데스크에서 신분증을 보여 주세요."
+  },
+  {
+   "word": "identifiable",
+   "pos": "형용사",
+   "meaning": "식별 가능한",
+   "en": "Each runner wore an identifiable number on the shirt.",
+   "ko": "모든 주자는 셔츠에 알아볼 수 있는 번호를 달았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울 앞에서 '나는 누구일까' 생각하는 학생",
+ "imageCaption": "어떤 옷을 입어도, 어디에 있어도 변하지 않는 '같은 나'를 떠올리세요. 그게 identity예요.",
+ "movieLineEn": "Nobody can know my secret identity. Not even you.",
+ "movieLineKo": "아무도 내 비밀 정체를 알면 안 돼. 너조차도.",
+ "storyTitle": "슈퍼히어로의 정체",
+ "story": "우리 반 철수는 자기가 비밀 identity(정체)를 가진 히어로라고 주장했어요. 그래서 identification(신분증)을 보여 달라고 했죠. 철수는 identical(똑같은) 망토 두 개를 꺼냈어요. 아무도 그의 정체를 identify(확인하다)할 수 없었죠. 그날 밤, 옥상에서 identifiable(식별 가능한) 빨간 망토가 날았어요. 연에 묶인 채로요."
+}

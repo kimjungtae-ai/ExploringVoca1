@@ -1,0 +1,61 @@
+{
+ "word": "magnetic",
+ "pos": "형용사",
+ "phonetic": "[mæɡˈnetɪk]",
+ "meaning": "자석의, 자기의, 사람을 끄는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "magnet",
+   "meaning": "자석 (magnet)",
+   "note": "그리스 지명 마그네시아(Magnesia)에서 온 '자석 돌'이라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~의, ~적인 (형용사)",
+   "note": "scientific, electric처럼 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>magnet</strong> (자석) + <strong>-ic</strong> (~의) = '자석처럼 끌어당기는'이라는 뜻에서 <strong>'자석의, 사람을 끄는'</strong>이 되었습니다.",
+ "historyTitle": "마그네시아 지방의 신기한 돌",
+ "historyBody": "고대 그리스에서는 철을 끌어당기는 돌을 'Magnēs lithos(마그네시아의 돌)'라고 불렀어요. 마그네시아는 그리스의 한 지방 이름으로, 그곳에서 이런 돌이 나왔기 때문이에요. 같은 지명에서 원소 이름 magnesium(마그네슘)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "magnet",
+   "pos": "명사",
+   "meaning": "자석, 사람을 끄는 것",
+   "en": "The new park became a magnet for families.",
+   "ko": "새 공원은 가족들을 끌어모으는 명소가 되었어요."
+  },
+  {
+   "word": "magnetism",
+   "pos": "명사",
+   "meaning": "자성, (사람의) 매력",
+   "en": "The singer has a natural magnetism on stage.",
+   "ko": "그 가수는 무대 위에서 타고난 매력을 지녔어요."
+  },
+  {
+   "word": "magnetize",
+   "pos": "동사",
+   "meaning": "자성을 띠게 하다, 끌다",
+   "en": "You can magnetize a needle by rubbing it with a magnet.",
+   "ko": "바늘을 자석으로 문지르면 자성을 띠게 할 수 있어요."
+  },
+  {
+   "word": "electromagnetic",
+   "pos": "형용사",
+   "meaning": "전자기의",
+   "en": "Light is a type of electromagnetic wave.",
+   "ko": "빛은 전자기파의 한 종류예요."
+  }
+ ],
+ "imageSense": "대표 의미: 자석에 쇠못들이 우르르 달라붙는 장면",
+ "imageCaption": "자석에 클립들이 착착 붙는 모습을 떠올려 보세요. 사람도 그렇게 끌어당기는 매력을 magnetic하다고 해요.",
+ "movieLineEn": "She has a magnetic smile. Everyone loves her.",
+ "movieLineKo": "그녀는 사람을 끄는 미소를 가졌어. 모두가 그녀를 좋아해.",
+ "storyTitle": "자석 인간의 하루",
+ "story": "전학생 유나는 magnetic(사람을 끄는) 매력으로 반 친구들을 사로잡았어요. 다들 그녀의 magnetism(매력)이 비결이라고 했죠. 그런데 과학 시간에 magnet(자석)을 꺼내자 유나의 머리핀, 시계, 필통이 전부 달라붙었어요. 그녀는 진짜로 magnetize(자성을 띠게 하다)된 물건을 좋아했던 거예요!"
+}

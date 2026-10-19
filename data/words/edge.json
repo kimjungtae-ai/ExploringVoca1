@@ -1,0 +1,48 @@
+{
+ "word": "edge",
+ "pos": "명사 / 동사",
+ "phonetic": "[edʒ]",
+ "meaning": "가장자리, 모서리, (칼의) 날, 우위 / 조금씩 움직이다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "edge (ecg)",
+   "meaning": "날, 모서리 (sharp side)",
+   "note": "고대 영어 ecg(칼날, 모서리)에서 온 게르만어라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>edge</strong>는 '칼날'이라는 옛말에서 와서 <strong>'가장자리, 날, 우위'</strong>가 되었어요.",
+ "historyTitle": "칼날에서 경쟁의 우위까지",
+ "historyBody": "edge는 고대 영어 ecg에서 왔는데, '칼날, 모서리'는 물론 시에서는 '칼' 자체를 뜻하기도 했어요. 날카로운 칼날처럼 상대보다 앞서는 '우위'라는 뜻도 생겼답니다. cutting-edge(최첨단의)는 '가장 날카로운 날 끝'이라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "edgy",
+   "pos": "형용사",
+   "meaning": "초조한, 날카로운; 최신 유행의",
+   "en": "I always feel edgy before an important test.",
+   "ko": "나는 중요한 시험 전에는 늘 초조해요."
+  },
+  {
+   "word": "cutting-edge",
+   "pos": "형용사",
+   "meaning": "최첨단의",
+   "en": "The lab uses cutting-edge technology.",
+   "ko": "그 연구소는 최첨단 기술을 사용해요."
+  },
+  {
+   "word": "on edge",
+   "pos": "형용사구",
+   "meaning": "신경이 곤두선, 불안한",
+   "en": "Everyone was on edge while waiting for the results.",
+   "ko": "결과를 기다리는 동안 모두가 신경이 곤두서 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 절벽 끝 가장자리에 아슬아슬하게 서 있는 장면",
+ "imageCaption": "발끝 바로 앞이 낭떠러지인 절벽 가장자리를 떠올려 보세요.",
+ "movieLineEn": "We're standing on the edge of history, my friend.",
+ "movieLineKo": "친구, 우리는 지금 역사의 끝자락에 서 있는 거야.",
+ "storyTitle": "책상 끝의 컵",
+ "story": "수진이는 책상 edge(가장자리)에 우유 컵을 올려 두는 버릇이 있어요. 엄마는 늘 on edge(신경이 곤두선) 상태였죠. 그래서 아빠가 cutting-edge(최첨단의) 컵을 사 왔어요. 떨어지면 알람이 울리는 컵이었죠. 덕분에 수진이는 edgy(초조한) 대신 편안해졌는데, 이번엔 알람 소리에 고양이가 우유를 엎었답니다!"
+}

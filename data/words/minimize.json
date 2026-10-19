@@ -1,0 +1,68 @@
+{
+ "word": "minimize",
+ "pos": "동사",
+ "phonetic": "[ˈmɪnɪmaɪz]",
+ "meaning": "최소화하다, 축소하다, 과소평가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "minim",
+   "meaning": "가장 작은 (smallest)",
+   "note": "라틴어 minimus(가장 작은)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하게 만들다 (make)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>minim</strong> (가장 작은) + <strong>-ize</strong> (~하게 하다) = 가장 작게 만들다라서 <strong>'최소화하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 '작은' 가족 min-",
+ "historyBody": "라틴어 minor(더 작은), minimus(가장 작은)가 이 단어의 뿌리예요. minimize는 19세기 초 영국 철학자 벤담이 쓰면서 널리 퍼진 것으로 알려져 있어요. 반대말 maximize도 라틴어 maximus(가장 큰)에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "minimum",
+   "pos": "명사 / 형용사",
+   "meaning": "최소, 최저 / 최소의",
+   "en": "You need a minimum of three people to play this game.",
+   "ko": "이 게임을 하려면 최소 세 명이 필요해요."
+  },
+  {
+   "word": "minimal",
+   "pos": "형용사",
+   "meaning": "최소의, 아주 적은",
+   "en": "The storm caused only minimal damage to the school.",
+   "ko": "폭풍은 학교에 아주 적은 피해만 입혔어요."
+  },
+  {
+   "word": "minor",
+   "pos": "형용사 / 명사",
+   "meaning": "작은, 사소한 / 미성년자",
+   "en": "Don't worry about minor mistakes in your first draft.",
+   "ko": "초안의 사소한 실수는 걱정하지 마."
+  },
+  {
+   "word": "minority",
+   "pos": "명사",
+   "meaning": "소수, 소수 집단",
+   "en": "Only a minority of students voted against the plan.",
+   "ko": "소수의 학생만 그 계획에 반대표를 던졌어요."
+  },
+  {
+   "word": "diminish",
+   "pos": "동사",
+   "meaning": "줄어들다, 줄이다",
+   "en": "His fear diminished as he got used to the dark.",
+   "ko": "어둠에 익숙해지면서 그의 두려움이 줄어들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 커다란 위험 표시를 손으로 꾹 눌러 작게 줄이는 모습",
+ "imageCaption": "큰 문제 덩어리를 압축기로 눌러 콩알만 하게 만드는 장면을 떠올려 보세요.",
+ "movieLineEn": "We need to minimize the risk before anyone gets hurt.",
+ "movieLineKo": "누가 다치기 전에 위험을 최소화해야 해.",
+ "storyTitle": "숙제를 줄이는 마법사",
+ "story": "마법사 민이는 숙제를 minimize(최소화하다)하는 주문을 외웠어요. 숙제가 minimum(최소) 한 장으로 줄었고, 실수도 minor(사소한) 수준이 됐죠. 그런데 주문이 너무 세서 방학까지 diminish(줄어들다)해 버렸답니다. 친구들의 원성이 maximum이 됐어요!"
+}

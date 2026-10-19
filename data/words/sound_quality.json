@@ -1,0 +1,68 @@
+{
+ "word": "sound quality",
+ "pos": "명사구",
+ "phonetic": "[saʊnd ˈkwɑːləti]",
+ "meaning": "음질, 소리의 질",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "sound",
+   "meaning": "소리 (sound)",
+   "note": "라틴어 sonus(소리)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "quality",
+   "meaning": "질, 품질 (quality)",
+   "note": "라틴어 qualis(어떤 종류의)에서 온 말로 '어떠함'이에요."
+  }
+ ],
+ "summary": "<strong>sound</strong> (소리) + <strong>quality</strong> (질) = '소리가 얼마나 좋은지'라서 <strong>'음질'</strong>이에요.",
+ "historyTitle": "'어떠한가'를 묻는 quality",
+ "historyBody": "quality는 고대 프랑스어 'qualite'를 거쳐 라틴어 'qualitas'에서 왔어요. 이 말은 키케로가 그리스어 'poiotēs(어떠함)'를 번역하려고 qualis(어떤 종류의)에서 만든 것으로 알려져 있어요. sound는 라틴어 'sonus(소리)'에서 왔고, sonic(소리의), sonar(수중 음파 탐지기)와 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "quality",
+   "pos": "명사/형용사",
+   "meaning": "질 / 양질의",
+   "en": "They only sell high-quality products.",
+   "ko": "그들은 고품질 제품만 팔아요."
+  },
+  {
+   "word": "quantity",
+   "pos": "명사",
+   "meaning": "양",
+   "en": "Quality is more important than quantity.",
+   "ko": "양보다 질이 더 중요해요."
+  },
+  {
+   "word": "sound effect",
+   "pos": "명사구",
+   "meaning": "음향 효과",
+   "en": "The movie's sound effects were amazing.",
+   "ko": "그 영화의 음향 효과는 놀라웠어요."
+  },
+  {
+   "word": "image quality",
+   "pos": "명사구",
+   "meaning": "화질",
+   "en": "This camera has excellent image quality.",
+   "ko": "이 카메라는 화질이 훌륭해요."
+  },
+  {
+   "word": "speaker",
+   "pos": "명사",
+   "meaning": "스피커, 연설자",
+   "en": "Turn up the speaker so everyone can hear.",
+   "ko": "모두 들을 수 있게 스피커 소리를 키워 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 헤드폰을 끼고 눈을 감은 채 음악에 빠진 장면",
+ "imageCaption": "좋은 헤드폰을 끼고 눈을 감자 악기 하나하나 소리가 또렷하게 들리는 순간을 떠올려 보세요.",
+ "movieLineEn": "The sound quality in this theater is unbelievable!",
+ "movieLineKo": "이 극장 음질은 믿을 수가 없어!",
+ "storyTitle": "최고의 음질",
+ "story": "형이 비싼 speaker(스피커)를 사서 sound quality(음질)를 자랑했어요. quantity(양)보다 quality(질)라며 볼륨을 키웠죠. 웅장한 sound effect(음향 효과)에 감탄하던 순간, 소리가 형 휴대폰에서 나오고 있다는 걸 알았어요. 스피커는 아직 상자 안에 있었거든요!"
+}

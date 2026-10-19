@@ -1,0 +1,68 @@
+{
+ "word": "garbage collector",
+ "pos": "명사구",
+ "phonetic": "[ˈɡɑːrbɪdʒ kəlektər]",
+ "meaning": "환경미화원, 쓰레기 수거원",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "garbage",
+   "meaning": "쓰레기 (garbage)",
+   "note": "원래 '동물의 내장, 부스러기'를 뜻하던 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "collector",
+   "meaning": "모으는 사람 (collector)",
+   "note": "collect(모으다) + -or(~하는 사람)예요."
+  }
+ ],
+ "summary": "<strong>garbage</strong> (쓰레기) + <strong>collector</strong> (모으는 사람) = '쓰레기를 모아 가는 사람'이라서 <strong>'환경미화원'</strong>이에요.",
+ "historyTitle": "모으는 사람, collector",
+ "historyBody": "garbage는 중세 영어에서 '닭이나 동물의 내장'을 뜻했는데, 정확한 기원은 확실하지 않아요. collect는 라틴어 colligere(col- '함께' + legere '모으다')에서 왔어요. 미국 영어에서 garbage는 음식물 같은 쓰레기, trash는 일반 쓰레기를 가리키는 경향이 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "collect",
+   "pos": "동사",
+   "meaning": "모으다, 수집하다",
+   "en": "He collects old coins from around the world.",
+   "ko": "그는 전 세계의 옛 동전을 모아요."
+  },
+  {
+   "word": "collection",
+   "pos": "명사",
+   "meaning": "수집(품)",
+   "en": "The museum has a huge collection of paintings.",
+   "ko": "그 박물관에는 그림 소장품이 아주 많아요."
+  },
+  {
+   "word": "recycling bin",
+   "pos": "명사구",
+   "meaning": "재활용 통",
+   "en": "Put the cans in the recycling bin.",
+   "ko": "캔은 재활용 통에 넣어 주세요."
+  },
+  {
+   "word": "throw away",
+   "pos": "구동사",
+   "meaning": "버리다",
+   "en": "Don't throw away that box. I need it.",
+   "ko": "그 상자 버리지 마. 내가 필요해."
+  },
+  {
+   "word": "sanitation worker",
+   "pos": "명사구",
+   "meaning": "환경미화원",
+   "en": "Sanitation workers start very early in the morning.",
+   "ko": "환경미화원들은 아침 아주 일찍 일을 시작해요."
+  }
+ ],
+ "imageSense": "대표 의미: 새벽에 쓰레기차와 함께 골목을 도는 환경미화원",
+ "imageCaption": "모두가 잠든 새벽, 거리를 깨끗하게 만드는 고마운 손길을 떠올려 보세요.",
+ "movieLineEn": "The garbage collector is the real hero of this city.",
+ "movieLineKo": "환경미화원이야말로 이 도시의 진짜 영웅이야.",
+ "storyTitle": "보물을 찾은 미화원",
+ "story": "새벽마다 garbage collector(환경미화원) 아저씨가 우리 골목을 청소해요. 어느 날 내가 실수로 일기장을 throw away(버리다)했어요. 다음 날 아저씨가 recycling bin(재활용 통) 옆에서 일기장을 돌려주며 웃으셨어요. \"참 재밌는 collection(수집품)이더라.\" 알고 보니 아저씨는 이미 3쪽까지 읽으셨대요. 내 짝사랑 이야기까지요!"
+}

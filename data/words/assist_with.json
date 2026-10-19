@@ -1,0 +1,68 @@
+{
+ "word": "assist with",
+ "pos": "구동사",
+ "phonetic": "[əˈsɪst wɪð]",
+ "meaning": "~을 돕다, ~에 도움을 주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "assist",
+   "meaning": "돕다 (help)",
+   "note": "라틴어 ad-(옆에)+sistere(서다), '옆에 서 주다'예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~에 관해 (with)",
+   "note": "무슨 일을 돕는지 함께 붙여 줘요."
+  }
+ ],
+ "summary": "<strong>assist</strong> (옆에 서서 돕다) + <strong>with</strong> (~에 관해) = <strong>'~을 돕다'</strong>예요.",
+ "historyTitle": "옆에 서 주는 사람",
+ "historyBody": "assist는 라틴어 assistere에서 왔는데, ad-(~옆에)와 sistere(서다)가 합쳐진 말이에요. 원래 '곁에 서 있다'라는 뜻이었고, 거기서 '돕다'가 되었죠. 축구에서 골을 도운 패스를 '어시스트'라고 하는 것도 같은 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "assistant",
+   "pos": "명사",
+   "meaning": "조수, 보조원",
+   "en": "The teacher's assistant handed out the papers.",
+   "ko": "선생님의 조수가 시험지를 나눠 주었어요."
+  },
+  {
+   "word": "assistance",
+   "pos": "명사",
+   "meaning": "도움, 지원",
+   "en": "If you need assistance, please ask the staff.",
+   "ko": "도움이 필요하면 직원에게 물어보세요."
+  },
+  {
+   "word": "help with",
+   "pos": "구동사",
+   "meaning": "~을 돕다",
+   "en": "Can you help me with this heavy box?",
+   "ko": "이 무거운 상자 좀 같이 들어 줄래?"
+  },
+  {
+   "word": "insist",
+   "pos": "동사",
+   "meaning": "주장하다",
+   "en": "He insisted on paying for dinner.",
+   "ko": "그는 저녁값을 내겠다고 고집했어요."
+  },
+  {
+   "word": "resist",
+   "pos": "동사",
+   "meaning": "저항하다, 참다",
+   "en": "I couldn't resist the smell of fresh bread.",
+   "ko": "갓 구운 빵 냄새를 참을 수 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 봉사자가 어르신 옆에서 짐 드는 것을 도와주는 장면",
+ "imageCaption": "누군가의 '옆에 서서' 손을 보태는 모습을 떠올리세요.",
+ "movieLineEn": "I'm here to assist with the mission. Just tell me what to do.",
+ "movieLineKo": "나는 임무를 돕기 위해 왔어. 무엇을 할지만 말해 줘.",
+ "storyTitle": "최고의 조수",
+ "story": "나는 과학 실험을 assist with(~을 돕다)하는 assistant(조수)가 되었어요. 선생님이 assistance(도움)가 필요하다며 비커를 달라고 하셨죠. 나는 최선을 다해 도왔고, 실수로 넣은 소금 덕분에 실험이 대성공했어요. 선생님은 그걸 '발견'이라고 부르셨답니다!"
+}

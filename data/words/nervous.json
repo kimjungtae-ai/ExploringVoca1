@@ -1,0 +1,61 @@
+{
+ "word": "nervous",
+ "pos": "형용사",
+ "phonetic": "[ˈnɜːrvəs]",
+ "meaning": "긴장한, 불안해하는, 신경의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "nerv",
+   "meaning": "신경, 힘줄 (sinew)",
+   "note": "라틴어 nervus(힘줄, 신경)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ous",
+   "meaning": "~이 가득한 (형용사)",
+   "note": "성질이 가득하다는 형용사 접미사예요."
+  }
+ ],
+ "summary": "<strong>nerv</strong> (신경) + <strong>-ous</strong> (가득한) = 신경이 잔뜩 곤두선 상태라서 <strong>'긴장한, 불안한'</strong>이 되었어요.",
+ "historyTitle": "원래는 '힘센'이라는 뜻",
+ "historyBody": "라틴어 nervosus는 원래 '힘줄이 많은, 튼튼한'이라는 뜻이었어요. 그래서 옛 영어에서 nervous는 '힘센'을 뜻하기도 했죠. 18세기 무렵부터 신경에 관한 의학 지식이 퍼지면서 '신경이 예민한, 긴장한'이라는 뜻이 자리 잡았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nerve",
+   "pos": "명사",
+   "meaning": "신경, 용기",
+   "en": "It took a lot of nerve to speak in front of the whole school.",
+   "ko": "전교생 앞에서 말하는 데는 큰 용기가 필요했어요."
+  },
+  {
+   "word": "nervously",
+   "pos": "부사",
+   "meaning": "초조하게",
+   "en": "He nervously waited for his test results.",
+   "ko": "그는 초조하게 시험 결과를 기다렸어요."
+  },
+  {
+   "word": "nervousness",
+   "pos": "명사",
+   "meaning": "긴장, 초조",
+   "en": "Deep breathing can reduce nervousness before a speech.",
+   "ko": "깊은 호흡은 발표 전 긴장을 줄여 줄 수 있어요."
+  },
+  {
+   "word": "unnerve",
+   "pos": "동사",
+   "meaning": "불안하게 만들다",
+   "en": "The strange noise unnerved everyone in the room.",
+   "ko": "이상한 소리가 방 안의 모두를 불안하게 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 발표 직전 손에 땀을 쥐고 다리를 떠는 학생",
+ "imageCaption": "무대 뒤에서 대본을 꽉 쥔 채 심장이 쿵쾅거리는 학생을 떠올려 보세요.",
+ "movieLineEn": "I'm so nervous. What if I forget my lines?",
+ "movieLineKo": "너무 긴장돼. 대사를 까먹으면 어떡하지?",
+ "storyTitle": "떨리는 고백",
+ "story": "민호는 고백을 앞두고 너무 nervous(긴장한) 상태였어요. nervously(초조하게) 꽃다발을 쥔 손은 땀범벅이었죠. 겨우 nerve(용기)를 내어 \"좋아해!\"라고 외쳤는데, 그녀가 이어폰을 빼며 물었어요. \"응? 뭐라고?\" 민호의 nervousness(긴장)는 두 배가 됐답니다."
+}

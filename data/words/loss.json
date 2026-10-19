@@ -1,0 +1,48 @@
+{
+ "word": "loss",
+ "pos": "명사",
+ "phonetic": "[lɔːs]",
+ "meaning": "손실, 상실, 분실, 패배",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "loss",
+   "meaning": "잃음, 파괴 (losing)",
+   "note": "고대 영어 los(파괴, 손실)에서 온 짧은 단어예요."
+  }
+ ],
+ "summary": "<strong>loss</strong>는 더 쪼갤 수 없는 단어로, lose(잃다)와 짝을 이루어 <strong>'손실, 상실'</strong>을 뜻합니다.",
+ "historyTitle": "lose와 lost가 만든 명사",
+ "historyBody": "고대 영어 los는 '파괴'를 뜻했는데, 일찍 쓰이지 않게 되었어요. 오늘날 '잃음'이라는 뜻의 loss는 14세기쯤 lost(잃어버린)의 영향으로 다시 살아난 것으로 여겨져요. 동사 lose는 고대 영어 losian(망하다, 잃다)에서 왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lose",
+   "pos": "동사",
+   "meaning": "잃다, 지다",
+   "en": "Don't lose your ticket before the concert.",
+   "ko": "콘서트 전에 표를 잃어버리지 마세요."
+  },
+  {
+   "word": "lost",
+   "pos": "형용사",
+   "meaning": "길을 잃은, 잃어버린",
+   "en": "A lost child was crying at the station.",
+   "ko": "길 잃은 아이가 역에서 울고 있었어요."
+  },
+  {
+   "word": "loser",
+   "pos": "명사",
+   "meaning": "패자, 지는 사람",
+   "en": "There is no loser in a friendly game.",
+   "ko": "친선 경기에는 패자가 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 손에서 빠져나간 풍선이 하늘로 멀어지는 장면",
+ "imageCaption": "꽉 쥐고 있던 것이 손에서 빠져나가는 순간을 떠올려 보세요. 그 '잃음'이 loss예요.",
+ "movieLineEn": "It's not a loss if you learn something.",
+ "movieLineKo": "뭔가 배웠다면 그건 패배가 아니야.",
+ "storyTitle": "지갑 분실 사건",
+ "story": "서준이는 지갑을 lose(잃다)하고 큰 loss(손실)에 빠졌어요. lost(잃어버린) 물건 센터에 가 봤지만 없었죠. 스스로 인생의 loser(패자)라며 한숨 쉬던 그때, 엄마에게 전화가 왔어요. \"냉장고에 웬 지갑이 들어 있니?\" 우유를 꺼내다 넣어 둔 거였어요."
+}

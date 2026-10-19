@@ -1,0 +1,75 @@
+{
+ "word": "unique",
+ "pos": "형용사",
+ "phonetic": "[juˈniːk]",
+ "meaning": "독특한, 유일한, 고유한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "uni",
+   "meaning": "하나 (one)",
+   "note": "라틴어 unus(하나)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-que (← -icus)",
+   "meaning": "~의, ~한 성질의",
+   "note": "라틴어 형용사 꼬리 -icus가 프랑스어를 거쳐 -que가 되었어요."
+  }
+ ],
+ "summary": "<strong>uni</strong> (하나) + <strong>-que</strong> (~의) = 오직 하나뿐인, 즉 <strong>'유일한, 독특한'</strong>이 되었어요.",
+ "historyTitle": "세상에 단 하나",
+ "historyBody": "unique는 라틴어 'unicus(유일한, 단 하나의)'에서 프랑스어를 거쳐 17세기에 영어로 들어왔어요. 'unus(하나)'에서 온 말이라 unit, union, uniform과 모두 한 집안이죠. 원래는 '오직 하나뿐인'이라는 엄격한 뜻이었는데, 지금은 '독특한, 특별한'이라는 뜻으로도 널리 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "unit",
+   "pos": "명사",
+   "meaning": "단위, 한 개",
+   "en": "The meter is a unit of length.",
+   "ko": "미터는 길이의 단위예요."
+  },
+  {
+   "word": "unite",
+   "pos": "동사",
+   "meaning": "연합하다, 하나로 합치다",
+   "en": "The whole class united to help the sick student.",
+   "ko": "반 전체가 아픈 친구를 돕기 위해 하나로 뭉쳤어요."
+  },
+  {
+   "word": "union",
+   "pos": "명사",
+   "meaning": "연합, 조합",
+   "en": "The European Union has many member countries.",
+   "ko": "유럽 연합에는 많은 회원국이 있어요."
+  },
+  {
+   "word": "uniform",
+   "pos": "명사 / 형용사",
+   "meaning": "교복, 제복 / 획일적인",
+   "en": "The players wore red uniforms.",
+   "ko": "선수들은 빨간 유니폼을 입었어요."
+  },
+  {
+   "word": "unity",
+   "pos": "명사",
+   "meaning": "통합, 단결",
+   "en": "Unity is important for a successful team.",
+   "ko": "성공적인 팀에는 단결이 중요해요."
+  },
+  {
+   "word": "universe",
+   "pos": "명사",
+   "meaning": "우주",
+   "en": "There are billions of stars in the universe.",
+   "ko": "우주에는 수십억 개의 별이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 똑같은 눈송이들 사이에서 반짝이는 단 하나의 특별한 눈송이",
+ "imageCaption": "세상에 똑같은 눈송이가 하나도 없듯, 오직 하나뿐인 특별함을 떠올려 보세요.",
+ "movieLineEn": "Every snowflake is unique, just like you.",
+ "movieLineKo": "모든 눈송이는 독특해. 너처럼 말이야.",
+ "storyTitle": "단 하나뿐인 교복",
+ "story": "우리 학교는 모두 똑같은 uniform(교복)을 입어요. 그런데 지우의 교복만 unique(독특한)했어요. 단추가 무지개색이었거든요! 선생님은 학교의 unity(단결)를 해친다며 걱정하셨죠. 하지만 다음 날 반 친구들 모두 무지개 단추를 달고 와서 하나로 unite(뭉치다)했답니다. 결국 무지개 반이 탄생했어요."
+}

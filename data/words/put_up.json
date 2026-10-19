@@ -1,0 +1,68 @@
+{
+ "word": "put up",
+ "pos": "구동사",
+ "phonetic": "[pʊt ʌp]",
+ "meaning": "올리다, 세우다, 게시하다, 묵게 하다, (put up with) 참다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "put",
+   "meaning": "놓다, 두다 (place)",
+   "note": "무엇을 어떤 자리에 두는 기본 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로 (up)",
+   "note": "위로 올리는 이미지예요. 텐트를 '세우고', 포스터를 '높이 붙이는' 그림이에요."
+  }
+ ],
+ "summary": "<strong>put</strong> (두다) + <strong>up</strong> (위로) = '위로 올려 두다'에서 <strong>'세우다, 게시하다, 올리다'</strong>가 되었어요.",
+ "historyTitle": "위로 세워 올리는 그림",
+ "historyBody": "put과 up은 둘 다 오래된 영어 단어로, 합쳐서 '위로 두다'라는 뜻을 만들어요. 여기서 건물이나 텐트를 '세우다', 벽에 공지를 '붙이다', 손님을 '재워 주다'라는 뜻이 나왔어요. 'put up with'는 '~을 참다'라는 뜻으로 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "put up with",
+   "pos": "숙어",
+   "meaning": "~을 참다, 견디다",
+   "en": "I can't put up with the noise anymore.",
+   "ko": "나는 그 소음을 더 이상 참을 수 없어요."
+  },
+  {
+   "word": "put down",
+   "pos": "구동사",
+   "meaning": "내려놓다, 적어 두다",
+   "en": "She put down her bag and sat on the sofa.",
+   "ko": "그녀는 가방을 내려놓고 소파에 앉았어요."
+  },
+  {
+   "word": "set up",
+   "pos": "구동사",
+   "meaning": "설치하다, 세우다",
+   "en": "We set up a booth for the school festival.",
+   "ko": "우리는 학교 축제를 위해 부스를 설치했어요."
+  },
+  {
+   "word": "put away",
+   "pos": "구동사",
+   "meaning": "치우다, 정리하다",
+   "en": "Please put away your toys after playing.",
+   "ko": "놀고 나서 장난감을 치워 주세요."
+  },
+  {
+   "word": "hang up",
+   "pos": "구동사",
+   "meaning": "걸다, 전화를 끊다",
+   "en": "He hung up his jacket by the door.",
+   "ko": "그는 문 옆에 재킷을 걸었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 게시판에 포스터를 높이 붙이는 장면",
+ "imageCaption": "학생회 친구가 까치발을 하고 게시판 위쪽에 축제 포스터를 붙이는 모습을 떠올려 보세요. '위로 올려 두는' 것이 put up이에요.",
+ "movieLineEn": "Put up your hands where I can see them!",
+ "movieLineKo": "내가 볼 수 있게 손 들어!",
+ "storyTitle": "포스터 대소동",
+ "story": "지우는 축제 포스터를 복도에 put up(게시하다)했어요. 바람에 자꾸 떨어져서 결국 put down(내려놓다)하고 테이프로 다시 set up(설치하다)했죠. 친구들의 놀림을 put up with(참다)하며 버틴 끝에 완성! 그런데 다음 날 보니 축제 날짜를 작년 걸로 적었지 뭐예요."
+}

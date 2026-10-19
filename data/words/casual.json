@@ -1,0 +1,68 @@
+{
+ "word": "casual",
+ "pos": "형용사",
+ "phonetic": "[ˈkæʒuəl]",
+ "meaning": "평상시의, 격식 없는, 우연한, 무심한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cas",
+   "meaning": "떨어지다, 일어나다 (fall, happen)",
+   "note": "라틴어 cadere(떨어지다)의 과거분사 casus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ual",
+   "meaning": "~의, ~한 (형용사)",
+   "note": "명사를 형용사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>cas</strong> (떨어지다, 우연히 일어나다) + <strong>-ual</strong> (~한) = '우연히 일어난'에서 <strong>'우연한 → 격식 없는, 평상시의'</strong>가 되었어요.",
+ "historyTitle": "우연히 떨어진 일",
+ "historyBody": "casual은 라틴어 casualis(우연에 의한)에서 왔고, 그 뿌리는 casus(떨어짐, 우연한 일)예요. 처음엔 '우연한'이라는 뜻이었지만, '계획 없이 되는 대로'라는 느낌에서 '격식 없는, 편한'이라는 뜻이 생겼어요. 그래서 편한 옷을 casual wear라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "case",
+   "pos": "명사",
+   "meaning": "경우, 사례, 사건",
+   "en": "In that case, we will cancel the trip.",
+   "ko": "그런 경우라면 우리는 여행을 취소할 거예요."
+  },
+  {
+   "word": "casualty",
+   "pos": "명사",
+   "meaning": "사상자, 피해자",
+   "en": "There were no casualties in the small earthquake.",
+   "ko": "그 작은 지진으로 사상자는 없었어요."
+  },
+  {
+   "word": "occasion",
+   "pos": "명사",
+   "meaning": "경우, 행사",
+   "en": "A birthday is a special occasion for the family.",
+   "ko": "생일은 가족에게 특별한 행사예요."
+  },
+  {
+   "word": "accident",
+   "pos": "명사",
+   "meaning": "사고, 우연",
+   "en": "I met my old friend by accident at the station.",
+   "ko": "나는 역에서 옛 친구를 우연히 만났어요."
+  },
+  {
+   "word": "decay",
+   "pos": "동사 / 명사",
+   "meaning": "썩다, 쇠퇴하다 / 부패",
+   "en": "Sugar can make your teeth decay.",
+   "ko": "설탕은 이를 썩게 할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 청바지와 티셔츠 차림으로 편하게 대화하는 친구들",
+ "imageCaption": "정장을 벗고 티셔츠와 운동화 차림으로 편하게 웃는 모습을 떠올려 보세요.",
+ "movieLineEn": "Relax, it's just a casual dinner. No suits needed.",
+ "movieLineKo": "긴장 풀어, 그냥 편한 저녁 식사야. 정장은 필요 없어.",
+ "storyTitle": "캐주얼 데이의 사고",
+ "story": "회사에 casual(격식 없는) 복장의 날이 생겼어요. 부장님은 특별한 occasion(행사)이라며 하와이 셔츠를 입고 왔죠. 그런데 accident(사고)로 커피를 쏟아 셔츠가 얼룩졌어요. 이 case(사건) 이후 부장님은 정장만 입었대요. 직원들은 오히려 아쉬워했답니다."
+}

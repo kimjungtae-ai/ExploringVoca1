@@ -1,0 +1,75 @@
+{
+ "word": "object",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɑːbdʒɪkt] / [əbˈdʒekt]",
+ "meaning": "물체, 대상, 목적 / 반대하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ob-",
+   "meaning": "~에 맞서, 앞에 (against, in front of)",
+   "note": "앞을 가로막거나 맞선다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ject",
+   "meaning": "던지다 (throw)",
+   "note": "라틴어 iacere(던지다)의 과거분사 iectus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ob-</strong> (앞에, 맞서) + <strong>ject</strong> (던지다) = 눈앞에 던져진 것은 <strong>'물체, 대상'</strong>, 맞서서 말을 던지면 <strong>'반대하다'</strong>가 되었어요.",
+ "historyTitle": "눈앞에 '던져진' 것",
+ "historyBody": "라틴어 obicere는 '앞에 던지다, 가로막다'라는 뜻이었어요. 중세 철학자들은 눈앞에 놓인 사물을 objectum이라고 불렀죠. 같은 ject 가족으로 '아래로 던져진' subject, '뒤로 던진' reject, '앞으로 던진' project가 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "objective",
+   "pos": "명사 / 형용사",
+   "meaning": "목표 / 객관적인",
+   "en": "Our main objective is to finish the project by Friday.",
+   "ko": "우리의 주된 목표는 금요일까지 프로젝트를 끝내는 거예요."
+  },
+  {
+   "word": "objection",
+   "pos": "명사",
+   "meaning": "반대, 이의",
+   "en": "Does anyone have an objection to this plan?",
+   "ko": "이 계획에 반대 의견 있는 사람 있나요?"
+  },
+  {
+   "word": "subject",
+   "pos": "명사",
+   "meaning": "과목, 주제",
+   "en": "Math is my favorite subject.",
+   "ko": "수학은 내가 가장 좋아하는 과목이에요."
+  },
+  {
+   "word": "reject",
+   "pos": "동사",
+   "meaning": "거절하다",
+   "en": "The company rejected his job application.",
+   "ko": "그 회사는 그의 입사 지원을 거절했어요."
+  },
+  {
+   "word": "project",
+   "pos": "명사 / 동사",
+   "meaning": "과제, 계획 / 투사하다",
+   "en": "We are working on a science project together.",
+   "ko": "우리는 함께 과학 과제를 하고 있어요."
+  },
+  {
+   "word": "inject",
+   "pos": "동사",
+   "meaning": "주사하다, 주입하다",
+   "en": "The nurse injected the medicine into his arm.",
+   "ko": "간호사가 그의 팔에 약을 주사했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 탁자 위에 놓인 정체불명의 물체를 관찰하는 모습",
+ "imageCaption": "책상 위의 수상한 상자를 돋보기로 들여다보는 탐정을 떠올려 보세요.",
+ "movieLineEn": "I object, Your Honor! That's not true!",
+ "movieLineKo": "재판장님, 이의 있습니다! 그건 사실이 아니에요!",
+ "storyTitle": "미확인 물체",
+ "story": "교실에 정체불명의 object(물체)가 나타났어요. 모두 무서워했지만 과학반 반장은 이걸 project(과제) 주제로 삼자고 했죠. 몇몇은 objection(반대)을 외쳤지만 반장은 reject(거절하다)했어요. 조사 결과, 그 물체는 한 달 전 사라진 선생님의 도시락이었답니다."
+}

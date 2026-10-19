@@ -1,0 +1,74 @@
+{
+ "word": "extensive",
+ "pos": "형용사",
+ "phonetic": "[ɪkˈstensɪv]",
+ "meaning": "광범위한, 대규모의, 폭넓은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "바깥쪽으로 쭉 뻗어 나간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tend / tens",
+   "meaning": "뻗다, 당기다 (stretch)",
+   "note": "라틴어 tendere(뻗다, 늘이다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~한 성질의 (형용사형)",
+   "note": "성질이나 경향을 나타내는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>tens</strong> (뻗다) + <strong>-ive</strong> (형용사) = '밖으로 넓게 뻗어 있는'에서 <strong>'광범위한'</strong>이 되었어요.",
+ "historyTitle": "넓게 뻗어 나간 것",
+ "historyBody": "extensive는 후기 라틴어 'extensivus'에서 왔고, 이는 extendere(밖으로 뻗다)의 과거분사 extensus에서 만들어졌어요. 15세기 무렵 영어에 들어와 넓이, 양, 범위가 크다는 뜻으로 쓰이게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "extend",
+   "pos": "동사",
+   "meaning": "연장하다, 늘이다",
+   "en": "They extended the road to the next village.",
+   "ko": "그들은 도로를 옆 마을까지 연장했어요."
+  },
+  {
+   "word": "extent",
+   "pos": "명사",
+   "meaning": "정도, 범위",
+   "en": "I was surprised by the extent of his knowledge.",
+   "ko": "나는 그의 지식의 범위에 놀랐어요."
+  },
+  {
+   "word": "extension",
+   "pos": "명사",
+   "meaning": "연장, 확장",
+   "en": "The museum opened a new extension.",
+   "ko": "박물관이 새 별관을 열었어요."
+  },
+  {
+   "word": "intensive",
+   "pos": "형용사",
+   "meaning": "집중적인",
+   "en": "She took an intensive English course.",
+   "ko": "그녀는 집중 영어 강좌를 들었어요."
+  },
+  {
+   "word": "tension",
+   "pos": "명사",
+   "meaning": "긴장",
+   "en": "There was tension between the two teams.",
+   "ko": "두 팀 사이에 긴장감이 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 끝없이 펼쳐진 넓은 녹차밭",
+ "imageCaption": "눈앞에 넓고 넓게 펼쳐진 풍경을 떠올려 보세요.",
+ "movieLineEn": "The damage is extensive. We need more doctors!",
+ "movieLineKo": "피해가 광범위해. 의사가 더 필요해!",
+ "storyTitle": "끝없는 조사",
+ "story": "탐정은 사라진 양말 사건을 extensive(광범위한)하게 조사했어요. 집 전체로 조사 범위를 extend(확대하다)했죠. intensive(집중적인) 수사 끝에 tension(긴장)이 최고조에 달했어요. 범인은 바로 세탁기! 세탁기 고무 틈에서 양말 열두 짝이 나왔대요."
+}

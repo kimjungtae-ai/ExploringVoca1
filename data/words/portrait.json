@@ -1,0 +1,75 @@
+{
+ "word": "portrait",
+ "pos": "명사",
+ "phonetic": "[ˈpɔːrtrət]",
+ "meaning": "초상화, 인물 사진, 묘사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "por-",
+   "meaning": "앞으로 (forth)",
+   "note": "라틴어 pro-(앞으로)가 프랑스어에서 por-로 변했어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "trait",
+   "meaning": "끌다, 선을 긋다 (draw)",
+   "note": "라틴어 trahere(끌다)의 과거분사 tractus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>por-</strong> (앞으로) + <strong>trait</strong> (끌어 그리다) = 모습을 앞으로 끌어내 그린 것, 곧 <strong>'초상화'</strong>예요.",
+ "historyTitle": "선을 끌어 그린 얼굴",
+ "historyBody": "portrait는 고대 프랑스어 portraire(그리다, 묘사하다)의 과거분사에서 왔고, 그 뿌리는 라틴어 protrahere(앞으로 끌어내다)예요. 붓으로 선을 '끌어' 사람의 모습을 '앞으로' 드러내는 것이 그림이라고 본 거죠. 영어 draw도 '끌다'와 '그리다'라는 두 뜻을 가진 것과 비슷한 발상이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "portray",
+   "pos": "동사",
+   "meaning": "묘사하다, 연기하다",
+   "en": "The actor portrayed a brave soldier.",
+   "ko": "그 배우는 용감한 군인을 연기했어요."
+  },
+  {
+   "word": "trait",
+   "pos": "명사",
+   "meaning": "특징, 특성",
+   "en": "Kindness is her best trait.",
+   "ko": "친절함이 그녀의 가장 좋은 특성이에요."
+  },
+  {
+   "word": "attract",
+   "pos": "동사",
+   "meaning": "끌어당기다, 마음을 끌다",
+   "en": "The bright lights attract many insects.",
+   "ko": "밝은 불빛은 많은 곤충을 끌어들여요."
+  },
+  {
+   "word": "extract",
+   "pos": "동사",
+   "meaning": "뽑아내다, 추출하다",
+   "en": "The dentist had to extract my tooth.",
+   "ko": "치과 의사 선생님이 내 이를 뽑아야 했어요."
+  },
+  {
+   "word": "tractor",
+   "pos": "명사",
+   "meaning": "트랙터",
+   "en": "The farmer drove his tractor across the field.",
+   "ko": "농부가 트랙터를 몰고 밭을 가로질렀어요."
+  },
+  {
+   "word": "distract",
+   "pos": "동사",
+   "meaning": "주의를 흐트러뜨리다",
+   "en": "Loud music can distract you from studying.",
+   "ko": "시끄러운 음악은 공부에 집중하지 못하게 할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 미술관 벽에 걸린 귀족의 초상화",
+ "imageCaption": "금빛 액자 속에서 근엄한 표정으로 앉아 있는 사람의 초상화를 떠올려 보세요.",
+ "movieLineEn": "Paint my portrait, but make me look ten years younger.",
+ "movieLineKo": "내 초상화를 그려 줘. 근데 열 살 어려 보이게.",
+ "storyTitle": "왕의 초상화 대작전",
+ "story": "왕이 화가에게 portrait(초상화)를 주문했어요. \"내 멋진 trait(특징)를 잘 portray(묘사하다)하게!\" 화가는 왕의 큰 코를 작게 그려 왕의 마음을 attract(끌다)했죠. 그런데 그림을 본 신하들이 아무도 왕을 알아보지 못했어요. 결국 그 그림은 '이웃 나라 왕자'로 팔렸대요."
+}

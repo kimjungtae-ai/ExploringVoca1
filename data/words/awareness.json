@@ -1,0 +1,61 @@
+{
+ "word": "awareness",
+ "pos": "명사",
+ "phonetic": "[əˈwernəs]",
+ "meaning": "인식, 자각, 의식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "aware",
+   "meaning": "알고 있는, 깨어 있는 (aware)",
+   "note": "무언가를 알아차리고 깨어 있는 상태를 말해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~한 상태 (state)",
+   "note": "형용사 뒤에 붙어 '그런 상태'라는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>aware</strong> (알고 있는) + <strong>-ness</strong> (상태) = '무언가를 알고 깨어 있는 상태'에서 <strong>'인식, 자각'</strong>이 되었어요.",
+ "historyTitle": "조심하던 사람에서 '아는 사람'으로",
+ "historyBody": "aware는 고대 영어 gewær(조심하는, 경계하는)에서 왔어요. wær는 '주의하다'라는 뜻으로, wary(조심스러운)와 beware(조심하다)에도 남아 있어요. 조심해서 살피다 보니 '알아차리다'라는 뜻으로 발전했답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "aware",
+   "pos": "형용사",
+   "meaning": "알고 있는, 의식하는",
+   "en": "Many people are not aware of how much sugar is in soda.",
+   "ko": "많은 사람들은 탄산음료에 설탕이 얼마나 들어 있는지 알지 못해요."
+  },
+  {
+   "word": "unaware",
+   "pos": "형용사",
+   "meaning": "알지 못하는",
+   "en": "He was unaware that his phone was still recording.",
+   "ko": "그는 휴대폰이 여전히 녹음 중이라는 걸 몰랐어요."
+  },
+  {
+   "word": "beware",
+   "pos": "동사",
+   "meaning": "조심하다, 주의하다",
+   "en": "Beware of the dog when you open the gate.",
+   "ko": "문을 열 때 개를 조심하세요."
+  },
+  {
+   "word": "wary",
+   "pos": "형용사",
+   "meaning": "경계하는, 조심하는",
+   "en": "Wild animals are often wary of strangers.",
+   "ko": "야생 동물들은 종종 낯선 사람을 경계해요."
+  }
+ ],
+ "imageSense": "대표 의미: 캠페인 포스터를 보고 환경 문제를 깨닫는 학생들",
+ "imageCaption": "'아, 이런 문제가 있었구나!' 하고 눈이 번쩍 뜨이는 순간을 떠올려 보세요. 그게 바로 awareness예요.",
+ "movieLineEn": "We need to raise awareness before it's too late.",
+ "movieLineKo": "너무 늦기 전에 사람들의 인식을 높여야 해.",
+ "storyTitle": "조심성 많은 고양이의 깨달음",
+ "story": "wary(경계하는) 고양이 나비는 늘 '개를 beware(조심하다)!'라고 외쳤어요. 그런데 옆집 개가 사실 채식주의자라는 걸 전혀 unaware(알지 못하는)했죠. 어느 날 개가 상추를 나눠 주자 나비의 awareness(인식)가 확 바뀌었어요. 이제 둘은 함께 샐러드 가게를 운영한답니다!"
+}

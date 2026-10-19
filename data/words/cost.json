@@ -1,0 +1,55 @@
+{
+ "word": "cost",
+ "pos": "명사 / 동사",
+ "phonetic": "[kɔːst]",
+ "meaning": "비용, 값, 대가 / (비용이) 들다, 희생시키다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "constare (라틴어)",
+   "meaning": "값이 ~이다, 굳게 서다 (stand firm, cost)",
+   "note": "con-(함께) + stare(서다)가 합쳐진 말이 줄어들어 cost가 되었어요."
+  }
+ ],
+ "summary": "라틴어 <strong>constare</strong> (con- 함께 + stare 서다)가 '값이 ~에 정해져 있다'라는 뜻으로 쓰이다가 줄어들어 <strong>'비용, (비용이) 들다'</strong>가 되었어요.",
+ "historyTitle": "'굳게 서 있다'에서 '값이 얼마다'로",
+ "historyBody": "cost는 고대 프랑스어 coster를 거쳐 라틴어 constare에서 왔어요. constare는 '굳게 서 있다'라는 뜻 외에 '값이 ~이다'라는 뜻으로도 쓰였는데, 값이 그 자리에 '정해져 서 있다'는 느낌이에요. 오늘날 영어 cost는 한 덩어리 단어라서 더 쪼개기는 어려워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "costly",
+   "pos": "형용사",
+   "meaning": "값비싼, 대가가 큰",
+   "en": "Fixing the roof was a costly job.",
+   "ko": "지붕을 고치는 것은 돈이 많이 드는 일이었어요."
+  },
+  {
+   "word": "cost-efficient",
+   "pos": "형용사",
+   "meaning": "비용 효율이 높은",
+   "en": "LED lights are more cost-efficient than old bulbs.",
+   "ko": "LED 전등은 옛날 전구보다 비용 효율이 높아요."
+  },
+  {
+   "word": "constant",
+   "pos": "형용사",
+   "meaning": "끊임없는, 변함없는",
+   "en": "The room was kept at a constant temperature.",
+   "ko": "그 방은 일정한 온도로 유지되었어요."
+  },
+  {
+   "word": "stable",
+   "pos": "형용사",
+   "meaning": "안정된",
+   "en": "Prices have been stable this year.",
+   "ko": "올해는 물가가 안정적이었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가격표를 보고 깜짝 놀라는 손님",
+ "imageCaption": "옷에 달린 가격표를 뒤집어 보고 눈이 휘둥그레지는 모습을 떠올려 보세요. 무언가를 얻는 데 드는 값이 cost예요.",
+ "movieLineEn": "Winning at all costs is not winning at all.",
+ "movieLineKo": "무슨 대가를 치르더라도 이기는 건 진짜 이기는 게 아니야.",
+ "storyTitle": "비싼 아이스크림",
+ "story": "햄스터는 아이스크림 하나에 cost(비용)가 얼마인지 물었어요. 생각보다 costly(값비싼) 가격에 깜짝! 그래서 더 cost-efficient(비용 효율이 높은) 방법을 찾았죠. 바로 냉동실에 우유를 넣는 것! constant(끊임없는) 노력 끝에 만들었는데, 너무 꽁꽁 얼어 이빨이 안 들어갔대요."
+}

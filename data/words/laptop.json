@@ -1,0 +1,61 @@
+{
+ "word": "laptop",
+ "pos": "명사",
+ "phonetic": "[ˈlæptɑːp]",
+ "meaning": "노트북 컴퓨터",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "lap",
+   "meaning": "무릎 (앉았을 때 허벅지 위)",
+   "note": "고대 영어 læppa(옷자락)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "top",
+   "meaning": "위 (top)",
+   "note": "고대 영어 top(꼭대기)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>lap</strong> (무릎) + <strong>top</strong> (위) = '무릎 위에 올려놓고 쓰는 컴퓨터'라서 <strong>'노트북'</strong>이에요.",
+ "historyTitle": "책상 위에서 무릎 위로",
+ "historyBody": "laptop은 1980년대에 만들어진 합성어예요. 먼저 책상 위에 놓는 desktop 컴퓨터가 있었고, 무릎 위에 놓고 쓸 만큼 가벼운 컴퓨터가 나오자 laptop이라고 불렀죠. lap은 원래 고대 영어 læppa('옷자락')로, 앉았을 때 옷자락이 덮는 허벅지 윗부분을 뜻하게 되었답니다. '노트북'은 우리식 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "lap",
+   "pos": "명사",
+   "meaning": "무릎 (앉았을 때 허벅지 윗부분)",
+   "en": "The baby fell asleep on her mother's lap.",
+   "ko": "아기는 엄마 무릎 위에서 잠들었어요."
+  },
+  {
+   "word": "desktop",
+   "pos": "명사",
+   "meaning": "데스크톱 컴퓨터, 바탕 화면",
+   "en": "Save the file on your desktop.",
+   "ko": "그 파일을 바탕 화면에 저장하세요."
+  },
+  {
+   "word": "tabletop",
+   "pos": "명사",
+   "meaning": "탁자 윗면",
+   "en": "She placed the flowers on the tabletop.",
+   "ko": "그녀는 탁자 위에 꽃을 올려놓았어요."
+  },
+  {
+   "word": "rooftop",
+   "pos": "명사",
+   "meaning": "옥상",
+   "en": "We watched the fireworks from the rooftop.",
+   "ko": "우리는 옥상에서 불꽃놀이를 봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 카페 소파에 앉아 무릎 위에 노트북을 올려놓고 과제하는 학생",
+ "imageCaption": "무릎(lap) 위(top)에 컴퓨터를 얹고 타자를 치는 모습을 그대로 떠올려 보세요.",
+ "movieLineEn": "Close that laptop and come eat dinner!",
+ "movieLineKo": "그 노트북 덮고 와서 저녁 먹어!",
+ "storyTitle": "고양이 전용 노트북",
+ "story": "민호는 lap(무릎) 위에 laptop(노트북)을 올리고 숙제를 했어요. 그때 고양이가 desktop(바탕 화면) 위 따뜻한 키보드로 뛰어올랐죠. 민호가 노트북을 tabletop(탁자 위)으로 옮기자 고양이도 따라왔어요. 결국 숙제 파일엔 'ㅁㅁㅁㅁㅁㅁ'만 가득! 선생님은 '창의적이구나'라며 A를 주셨답니다."
+}

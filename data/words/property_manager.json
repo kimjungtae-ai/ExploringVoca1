@@ -1,0 +1,68 @@
+{
+ "word": "property manager",
+ "pos": "명사구",
+ "phonetic": "[ˈprɑːpərti ˈmænɪdʒər]",
+ "meaning": "부동산 관리인, 건물 관리자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "property",
+   "meaning": "재산, 부동산 (property)",
+   "note": "라틴어 proprius(자기 자신의)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "manager",
+   "meaning": "관리자 (manager)",
+   "note": "manage(관리하다) + -er(사람)이에요."
+  }
+ ],
+ "summary": "<strong>property</strong> (부동산) + <strong>manager</strong> (관리자) = '건물이나 부동산을 관리하는 사람'에서 <strong>'부동산 관리인'</strong>",
+ "historyTitle": "'자기 것'과 '말을 다루는 손'",
+ "historyBody": "property는 라틴어 proprius(자기 자신의)에서 왔어요. proper(적절한)와 같은 뿌리죠. manage는 이탈리아어 maneggiare(말을 다루다)에서 왔고, 이는 라틴어 manus(손)와 관련이 있어요. 손으로 말을 다루던 일이 '관리하다'가 된 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "manage",
+   "pos": "동사",
+   "meaning": "관리하다, 간신히 해내다",
+   "en": "She managed to finish the race.",
+   "ko": "그녀는 간신히 경주를 마쳤어요."
+  },
+  {
+   "word": "management",
+   "pos": "명사",
+   "meaning": "관리, 경영",
+   "en": "Good time management helps you study well.",
+   "ko": "시간 관리를 잘하면 공부를 잘할 수 있어요."
+  },
+  {
+   "word": "proper",
+   "pos": "형용사",
+   "meaning": "적절한",
+   "en": "Wear proper shoes for hiking.",
+   "ko": "하이킹할 땐 적절한 신발을 신으세요."
+  },
+  {
+   "word": "landlord",
+   "pos": "명사",
+   "meaning": "집주인",
+   "en": "The landlord raised the rent this year.",
+   "ko": "집주인이 올해 집세를 올렸어요."
+  },
+  {
+   "word": "tenant",
+   "pos": "명사",
+   "meaning": "세입자",
+   "en": "The tenants complained about the noise.",
+   "ko": "세입자들이 소음에 대해 불평했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아파트 관리인이 세입자에게 열쇠를 건네는 장면",
+ "imageCaption": "건물 열쇠 꾸러미를 들고 수리와 계약을 챙기는 관리인을 떠올려 보세요.",
+ "movieLineEn": "Talk to the property manager. He has the keys to every room.",
+ "movieLineKo": "부동산 관리인한테 말해. 모든 방 열쇠가 그 사람한테 있어.",
+ "storyTitle": "관리인의 비밀",
+ "story": "새집으로 이사한 날, property manager(건물 관리자) 아저씨가 열쇠를 주셨어요. tenant(세입자)들의 고장 신고를 빠르게 manage(관리하다)하는 분이었죠. 그런데 밤마다 옥상에서 노래 소리가 들렸어요. 알고 보니 관리인 아저씨가 가수 오디션을 준비 중이었어요!"
+}

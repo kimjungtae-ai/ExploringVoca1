@@ -1,0 +1,74 @@
+{
+ "word": "appointment",
+ "pos": "명사",
+ "phonetic": "[əˈpɔɪntmənt]",
+ "meaning": "약속, (병원 등의) 예약, 임명",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "어떤 지점을 향한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "point (punctum)",
+   "meaning": "점, 지점 (point)",
+   "note": "라틴어 punctum(콕 찍은 점)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>point</strong> (점을 찍다) + <strong>-ment</strong> (명사) = '날짜와 사람을 콕 찍어 정함'에서 <strong>'약속, 예약, 임명'</strong>이 되었어요.",
+ "historyTitle": "달력에 콕 찍은 점",
+ "historyBody": "appoint는 고대 프랑스어 'apointer(정리하다, 정하다)'에서 왔고, 그 바탕은 라틴어 'punctum(점)'이에요. 시간과 장소를 '콕 찍어 정하는' 것이 약속이고, 사람을 자리에 '콕 찍어 정하는' 것이 임명이에요. 반대로 기대를 '빗나가게' 하는 것이 disappoint랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "appoint",
+   "pos": "동사",
+   "meaning": "임명하다, (시간·장소를) 정하다",
+   "en": "The principal appointed her as the new class leader.",
+   "ko": "교장 선생님은 그녀를 새 반장으로 임명했어요."
+  },
+  {
+   "word": "disappoint",
+   "pos": "동사",
+   "meaning": "실망시키다",
+   "en": "I don't want to disappoint my coach.",
+   "ko": "나는 코치님을 실망시키고 싶지 않아요."
+  },
+  {
+   "word": "disappointment",
+   "pos": "명사",
+   "meaning": "실망",
+   "en": "He couldn't hide his disappointment after the game.",
+   "ko": "그는 경기 후 실망감을 숨길 수 없었어요."
+  },
+  {
+   "word": "point",
+   "pos": "명사/동사",
+   "meaning": "점, 요점 / 가리키다",
+   "en": "She pointed at the map to show us the way.",
+   "ko": "그녀는 길을 알려 주려고 지도를 가리켰어요."
+  },
+  {
+   "word": "punctual",
+   "pos": "형용사",
+   "meaning": "시간을 엄수하는",
+   "en": "Our English teacher is always punctual.",
+   "ko": "우리 영어 선생님은 언제나 시간을 잘 지키세요."
+  }
+ ],
+ "imageSense": "대표 의미: 달력에 동그라미를 치고 치과 예약 시간을 적는 모습",
+ "imageCaption": "달력의 날짜 하나에 빨간 펜으로 '콕' 점을 찍는 장면을 떠올려 보세요. 시간을 콕 찍어 정해 둔 것이 appointment예요.",
+ "movieLineEn": "Sorry, I have an appointment with destiny tonight.",
+ "movieLineKo": "미안, 오늘 밤 나는 운명과 약속이 있거든.",
+ "storyTitle": "시간을 지키는 남자",
+ "story": "민호는 늘 punctual(시간을 엄수하는)한 사람이에요. 치과 appointment(예약)도 30분 일찍 도착했죠. 의사 선생님을 disappoint(실망시키다)하기 싫어 양치도 백 번 했어요. 그런데 간호사가 달력을 point(가리키다)하며 말했어요. '예약은 다음 주예요.'"
+}

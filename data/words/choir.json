@@ -1,0 +1,55 @@
+{
+ "word": "choir",
+ "pos": "명사",
+ "phonetic": "[ˈkwaɪər]",
+ "meaning": "합창단, 성가대",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "choir (← chorus)",
+   "meaning": "원을 그리며 추는 춤, 합창 (dance, chorus)",
+   "note": "그리스어 khoros(둥글게 추는 춤, 합창단)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>choir</strong> (← 그리스어 khoros, 둥글게 춤추며 노래하는 무리) = <strong>'합창단, 성가대'</strong>가 되었습니다.",
+ "historyTitle": "그리스 연극의 코러스",
+ "historyBody": "그리스어 khoros는 원래 원을 그리며 춤추고 노래하는 무리를 뜻했고, 고대 그리스 연극의 합창단을 가리켰어요. 라틴어 chorus를 거쳐 고대 프랑스어 cuer가 되었고, 영어에서는 17세기에 라틴어를 본떠 choir라는 철자가 자리 잡았어요. 그래서 철자와 발음이 많이 다르답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "chorus",
+   "pos": "명사",
+   "meaning": "합창, 후렴",
+   "en": "Everyone sang the chorus together.",
+   "ko": "모두가 후렴을 함께 불렀어요."
+  },
+  {
+   "word": "choral",
+   "pos": "형용사",
+   "meaning": "합창의",
+   "en": "The school holds a choral concert every December.",
+   "ko": "학교는 매년 12월에 합창 공연을 열어요."
+  },
+  {
+   "word": "choreography",
+   "pos": "명사",
+   "meaning": "안무",
+   "en": "The choreography of the K-pop song was hard to learn.",
+   "ko": "그 K팝 노래의 안무는 배우기 어려웠어."
+  },
+  {
+   "word": "choreographer",
+   "pos": "명사",
+   "meaning": "안무가",
+   "en": "The choreographer showed the dancers each step.",
+   "ko": "안무가가 무용수들에게 동작을 하나하나 보여 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 교회나 강당에서 여러 명이 줄지어 함께 노래하는 장면",
+ "imageCaption": "옛 그리스에서 둥글게 모여 춤추며 노래하던 무리를 떠올려 보세요.",
+ "movieLineEn": "The whole choir held the last note for ten seconds.",
+ "movieLineKo": "합창단 전체가 마지막 음을 10초 동안 끌었어.",
+ "storyTitle": "춤추는 합창단",
+ "story": "우리 학교 choir(합창단)는 노래만 했는데, 새 선생님이 choreographer(안무가) 출신이었어요. chorus(후렴)마다 화려한 choreography(안무)가 추가됐죠. choral(합창의) 대회 날, 모두 너무 열심히 춤추다 숨이 차서 노래를 못 불렀어요. 그래도 댄스상을 받았답니다!"
+}

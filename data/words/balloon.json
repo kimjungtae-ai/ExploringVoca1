@@ -1,0 +1,61 @@
+{
+ "word": "balloon",
+ "pos": "명사 / 동사",
+ "phonetic": "[bəˈluːn]",
+ "meaning": "풍선, 열기구 / 부풀다, 급증하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ball",
+   "meaning": "공, 둥근 것 (ball)",
+   "note": "이탈리아어 balla(공)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-oon",
+   "meaning": "큰 것 (large)",
+   "note": "이탈리아어 -one처럼 '커다란'이라는 뜻을 더하는 확대 접미사예요."
+  }
+ ],
+ "summary": "<strong>ball</strong> (공) + <strong>-oon</strong> (커다란) = '커다란 공'에서 <strong>'풍선, 열기구'</strong>가 되었어요.",
+ "historyTitle": "커다란 공에서 하늘을 나는 열기구로",
+ "historyBody": "balloon은 이탈리아어 ballone(커다란 공)에서 프랑스어 ballon을 거쳐 16세기 말 영어에 들어왔어요. 처음에는 공놀이에 쓰는 큰 공을 뜻했어요. 1783년 프랑스 몽골피에 형제의 열기구 비행 이후 '하늘을 나는 기구'라는 뜻이 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "ball",
+   "pos": "명사",
+   "meaning": "공",
+   "en": "The dog ran after the ball in the park.",
+   "ko": "개가 공원에서 공을 쫓아 달렸어요."
+  },
+  {
+   "word": "ballot",
+   "pos": "명사",
+   "meaning": "투표용지",
+   "en": "Voters wrote their choices on a secret ballot.",
+   "ko": "유권자들은 비밀 투표용지에 선택을 적었어요."
+  },
+  {
+   "word": "balloonist",
+   "pos": "명사",
+   "meaning": "열기구 조종사",
+   "en": "The balloonist flew across the sea in a hot-air balloon.",
+   "ko": "열기구 조종사는 열기구를 타고 바다를 건넜어요."
+  },
+  {
+   "word": "football",
+   "pos": "명사",
+   "meaning": "축구",
+   "en": "Football is popular all over the world.",
+   "ko": "축구는 전 세계에서 인기가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 하늘로 둥실 떠오르는 알록달록한 풍선",
+ "imageCaption": "생일 파티에서 커다란 풍선이 천장까지 둥실 떠오르는 모습을 떠올려 보세요.",
+ "movieLineEn": "Hold onto the balloon, or you'll float away!",
+ "movieLineKo": "풍선 꽉 잡아, 안 그러면 날아가 버릴 거야!",
+ "storyTitle": "풍선 선거",
+ "story": "학교 축제에서 ballot(투표용지) 대신 balloon(풍선)으로 투표를 했어요. 마음에 드는 동아리에 풍선을 묶는 방식이었죠. football(축구) 동아리에 풍선이 너무 많이 묶여서 골대가 둥실 떠올랐어요! 결국 balloonist(열기구 조종사)인 체육 선생님이 골대를 구하러 출동하셨답니다."
+}

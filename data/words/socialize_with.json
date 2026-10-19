@@ -1,0 +1,68 @@
+{
+ "word": "socialize with",
+ "pos": "구동사",
+ "phonetic": "[ˈsoʊʃəlaɪz wɪð]",
+ "meaning": "~와 어울리다, ~와 사귀다, 교제하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "socialize",
+   "meaning": "어울리다, 사교 활동을 하다 (socialize)",
+   "note": "social(사교적인) + -ize(~하게 하다)로 '사람들과 어울리다'예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께 (with)",
+   "note": "누구'와 함께' 어울리는지 상대를 나타내요."
+  }
+ ],
+ "summary": "<strong>social</strong> (사교의) + <strong>-ize</strong> (~하다) + <strong>with</strong> (~와 함께) = '~와 함께 사교 활동을 하다'라서 <strong>'~와 어울리다'</strong>예요.",
+ "historyTitle": "동료와 함께하기",
+ "historyBody": "socialize는 social에 동사를 만드는 -ize가 붙은 말로, 19세기 초부터 쓰였어요. social은 라틴어 'socius(동료, 친구)'에서 왔으니 '동료처럼 지내다'라는 그림이에요. 심리학에서는 '사회화하다(사회 규범을 익히게 하다)'라는 뜻으로도 써서 수능 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hang out with",
+   "pos": "구동사",
+   "meaning": "~와 어울려 놀다",
+   "en": "I like to hang out with my cousins on weekends.",
+   "ko": "나는 주말에 사촌들과 어울려 노는 걸 좋아해요."
+  },
+  {
+   "word": "get along with",
+   "pos": "구동사",
+   "meaning": "~와 잘 지내다",
+   "en": "She gets along with everyone in her class.",
+   "ko": "그녀는 반 친구 모두와 잘 지내요."
+  },
+  {
+   "word": "interact with",
+   "pos": "구동사",
+   "meaning": "~와 상호 작용하다",
+   "en": "Children learn by interacting with others.",
+   "ko": "아이들은 다른 사람들과 상호 작용하며 배워요."
+  },
+  {
+   "word": "sociable",
+   "pos": "형용사",
+   "meaning": "사교적인",
+   "en": "My brother is very sociable and loves parties.",
+   "ko": "우리 형은 아주 사교적이라 파티를 좋아해요."
+  },
+  {
+   "word": "socialization",
+   "pos": "명사",
+   "meaning": "사회화",
+   "en": "Play is important for a child's socialization.",
+   "ko": "놀이는 아이의 사회화에 중요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 파티에서 처음 만난 사람들과 웃으며 이야기 나누는 장면",
+ "imageCaption": "음료를 들고 처음 보는 사람들과 웃으며 이야기 나누는 모습을 떠올려 보세요. 사람들과 '함께' 어울리는 거예요.",
+ "movieLineEn": "You should socialize with people more, not just with your cat.",
+ "movieLineKo": "고양이 말고 사람들이랑 좀 더 어울려 봐.",
+ "storyTitle": "사교왕의 비밀",
+ "story": "전학생 하준이는 첫날부터 모두와 socialize with(어울리다)했어요. 누구와도 get along with(잘 지내다)하는 sociable(사교적인) 성격이었죠. 비결을 물었더니 하준이가 속삭였어요. '사실 너무 떨려서, 이름 외우려고 모두에게 말을 건 거야.' 그렇게 hang out with(어울려 놀다)할 친구가 생겼답니다."
+}

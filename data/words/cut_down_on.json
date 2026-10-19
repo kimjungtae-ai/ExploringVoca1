@@ -1,0 +1,74 @@
+{
+ "word": "cut down on",
+ "pos": "구동사",
+ "phonetic": "[kʌt daʊn ɑːn]",
+ "meaning": "~을 줄이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "cut",
+   "meaning": "자르다 (cut)",
+   "note": "무언가를 잘라 내어 양을 줄이는 동작이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "down",
+   "meaning": "아래로, 줄어 (down)",
+   "note": "양이 '아래로 내려가는' 감소의 이미지예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~에 대해 (on)",
+   "note": "무엇을 줄이는지 그 대상을 가리켜요."
+  }
+ ],
+ "summary": "<strong>cut</strong> (자르다) + <strong>down</strong> (아래로) + <strong>on</strong> (~에 대해) = '~의 양을 잘라 아래로 낮추다'에서 <strong>'~을 줄이다'</strong>",
+ "historyTitle": "나무를 베어 넘기던 cut down",
+ "historyBody": "cut은 중세 영어 cutten에서 왔는데, 정확한 기원은 확실하지 않고 북유럽어에서 왔을 거라고 추정해요. cut down은 원래 '나무를 베어 쓰러뜨리다'라는 뜻이었고, 여기서 '양을 줄이다'라는 뜻으로 넓어졌어요. 수능에서는 'cut down on sugar/spending'처럼 건강, 소비 줄이기 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reduce",
+   "pos": "동사",
+   "meaning": "줄이다",
+   "en": "We should reduce plastic waste.",
+   "ko": "우리는 플라스틱 쓰레기를 줄여야 해요."
+  },
+  {
+   "word": "cut back on",
+   "pos": "구동사",
+   "meaning": "~을 줄이다",
+   "en": "My family is cutting back on eating out.",
+   "ko": "우리 가족은 외식을 줄이고 있어."
+  },
+  {
+   "word": "give up",
+   "pos": "구동사",
+   "meaning": "포기하다, 끊다",
+   "en": "He gave up soda for his health.",
+   "ko": "그는 건강을 위해 탄산음료를 끊었어."
+  },
+  {
+   "word": "cut off",
+   "pos": "구동사",
+   "meaning": "잘라 내다, 끊다",
+   "en": "The storm cut off the electricity.",
+   "ko": "폭풍 때문에 전기가 끊겼어."
+  },
+  {
+   "word": "decrease",
+   "pos": "동사",
+   "meaning": "감소하다",
+   "en": "The number of farmers has decreased.",
+   "ko": "농부의 수가 감소했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 커피잔 개수를 하나씩 줄여 나가는 달력",
+ "imageCaption": "달력에 하루 세 잔이던 커피가 한 잔으로 줄어드는 그림을 떠올려 보세요.",
+ "movieLineEn": "You need to cut down on junk food.",
+ "movieLineKo": "너 정크 푸드를 좀 줄여야 해.",
+ "storyTitle": "설탕 줄이기 대작전",
+ "story": "의사 선생님이 아빠에게 설탕을 cut down on(~을 줄이다)하라고 하셨어요. 아빠는 콜라를 give up(끊다)하고 과자도 cut back on(줄이다)하겠다고 선언했죠. 일주일 만에 아빠 몸무게가 decrease(감소하다)했어요! 그런데 냉장고를 열어 보니 아이스크림 통이 텅 비어 있었어요. 아빠는 '설탕'만 줄였지, '아이스크림'은 안 줄인 거래요."
+}

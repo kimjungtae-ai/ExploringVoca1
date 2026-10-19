@@ -1,0 +1,75 @@
+{
+ "word": "relief",
+ "pos": "명사",
+ "phonetic": "[rɪˈliːf]",
+ "meaning": "안도, 안심, (고통의) 완화, 구호(품)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 위로 올린다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lief (← 라틴어 levare)",
+   "meaning": "들어 올리다, 가볍게 하다 (lift, lighten)",
+   "note": "라틴어 levis(가벼운)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>lief</strong> (들어 올리다, 가볍게 하다) = 무거운 짐을 들어 올려 마음이 가벼워지는 것, 즉 <strong>'안도, 완화, 구호'</strong>예요.",
+ "historyTitle": "어깨의 짐을 '들어 올리는' 순간",
+ "historyBody": "relief와 relieve는 고대 프랑스어 relever(다시 들어 올리다)를 거쳐 왔고, 그 뿌리는 라틴어 relevare예요. re-(다시) + levare(들어 올리다, 가볍게 하다)이고, levare는 levis(가벼운)에서 왔어요. 무거운 짐을 들어 올려 가볍게 해 주니 마음이 '안도'되는 거죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relieve",
+   "pos": "동사",
+   "meaning": "덜어 주다, 완화하다",
+   "en": "This medicine will relieve your headache.",
+   "ko": "이 약이 두통을 덜어 줄 거예요."
+  },
+  {
+   "word": "relieved",
+   "pos": "형용사",
+   "meaning": "안도하는",
+   "en": "I was relieved to hear that you were safe.",
+   "ko": "네가 무사하다는 말을 듣고 안심했어."
+  },
+  {
+   "word": "elevate",
+   "pos": "동사",
+   "meaning": "들어 올리다, 높이다",
+   "en": "Music can elevate your mood.",
+   "ko": "음악은 기분을 좋게 해 줄 수 있어요."
+  },
+  {
+   "word": "elevator",
+   "pos": "명사",
+   "meaning": "엘리베이터",
+   "en": "Let's take the elevator to the tenth floor.",
+   "ko": "10층까지 엘리베이터를 타자."
+  },
+  {
+   "word": "relevant",
+   "pos": "형용사",
+   "meaning": "관련 있는, 적절한",
+   "en": "Please include only relevant information in your report.",
+   "ko": "보고서에는 관련 있는 정보만 넣어 주세요."
+  },
+  {
+   "word": "lever",
+   "pos": "명사",
+   "meaning": "지렛대, 레버",
+   "en": "Pull the lever to open the gate.",
+   "ko": "문을 열려면 레버를 당기세요."
+  }
+ ],
+ "imageSense": "대표 의미: 시험 결과를 확인하고 '휴~' 하고 가슴을 쓸어내리는 학생",
+ "imageCaption": "합격 문자를 받고 어깨 위의 무거운 돌이 쑥 들려 나가는 느낌을 떠올려 보세요. 그 가벼워지는 마음이 relief예요.",
+ "movieLineEn": "What a relief! I thought we'd lost you.",
+ "movieLineKo": "정말 다행이다! 널 잃은 줄 알았어.",
+ "storyTitle": "지갑 실종 사건",
+ "story": "등굣길에 지갑이 사라졌어요! elevator(엘리베이터)부터 교실까지 찾아다녔죠. 친구들이 도와 걱정을 relieve(덜어 주다)해 주었어요. 결국 가방 바닥에서 지갑을 찾았을 때 엄청난 relief(안도)가 밀려왔죠. 나는 relieved(안도하는) 얼굴로 지갑을 열었어요. 안에는 500원과 작년 영수증뿐이었답니다."
+}

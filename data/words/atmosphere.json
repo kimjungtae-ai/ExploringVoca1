@@ -1,0 +1,61 @@
+{
+ "word": "atmosphere",
+ "pos": "명사",
+ "phonetic": "[ˈætməsfɪr]",
+ "meaning": "대기, 공기, 분위기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "atmo (atmos)",
+   "meaning": "증기, 기체 (vapor)",
+   "note": "그리스어 atmos(증기)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sphere (sphaira)",
+   "meaning": "구, 둥근 공 (ball)",
+   "note": "지구를 둘러싼 둥근 층을 떠올려 보세요."
+  }
+ ],
+ "summary": "<strong>atmo</strong> (증기) + <strong>sphere</strong> (둥근 공) = '둥근 지구를 감싼 기체층'에서 <strong>'대기, 분위기'</strong>가 되었어요.",
+ "historyTitle": "과학자들이 만든 새 단어",
+ "historyBody": "atmosphere는 17세기 과학자들이 그리스어 'atmos(증기)'와 'sphaira(구)'를 합쳐 만든 근대 라틴어 'atmosphaera'에서 왔어요. 처음엔 달이나 지구를 둘러싼 '기체층'을 뜻했죠. 18세기 무렵부터 장소를 감싸는 기운, 즉 '분위기'라는 뜻으로도 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "atmospheric",
+   "pos": "형용사",
+   "meaning": "대기의, 분위기 있는",
+   "en": "The cafe had soft, atmospheric music.",
+   "ko": "그 카페에는 부드럽고 분위기 있는 음악이 흘렀어요."
+  },
+  {
+   "word": "sphere",
+   "pos": "명사",
+   "meaning": "구, 영역",
+   "en": "Earth is not a perfect sphere.",
+   "ko": "지구는 완벽한 구가 아니에요."
+  },
+  {
+   "word": "hemisphere",
+   "pos": "명사",
+   "meaning": "(지구·뇌의) 반구",
+   "en": "Korea is in the Northern Hemisphere.",
+   "ko": "한국은 북반구에 있어요."
+  },
+  {
+   "word": "biosphere",
+   "pos": "명사",
+   "meaning": "생물권",
+   "en": "Forests are an important part of the biosphere.",
+   "ko": "숲은 생물권의 중요한 부분이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 우주에서 본 지구를 감싼 얇고 푸른 공기층",
+ "imageCaption": "우주에서 지구를 바라볼 때 가장자리를 감싼 얇은 푸른 빛을 떠올려 보세요. 둥근 지구를 둘러싼 기체가 atmosphere예요.",
+ "movieLineEn": "The atmosphere in this room just got very cold.",
+ "movieLineKo": "이 방의 분위기가 방금 엄청 싸늘해졌어.",
+ "storyTitle": "분위기 메이커 외계인",
+ "story": "외계인 쿠는 지구의 atmosphere(대기)를 연구하러 왔어요. 우주에서 본 지구는 아름다운 파란 sphere(구)였죠. 쿠는 북쪽 hemisphere(반구)의 한 교실에 몰래 내려앉았어요. 그런데 시험 기간이라 교실 atmosphere(분위기)가 너무 무거워서, 쿠는 겁먹고 바로 우주로 도망쳤답니다."
+}

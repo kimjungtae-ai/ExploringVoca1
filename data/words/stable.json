@@ -1,0 +1,68 @@
+{
+ "word": "stable",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈsteɪbl]",
+ "meaning": "안정된, 견고한 / 마구간",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sta",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ble",
+   "meaning": "~할 수 있는 (able)",
+   "note": "라틴어 -bilis에서 온 접미사예요."
+  }
+ ],
+ "summary": "<strong>sta</strong> (서다) + <strong>-ble</strong> (~할 수 있는) = '흔들리지 않고 굳게 서 있을 수 있는'에서 <strong>'안정된'</strong>, 말이 서 있는 곳인 <strong>'마구간'</strong>이 되었습니다.",
+ "historyTitle": "굳게 선다는 라틴어 stabilis",
+ "historyBody": "형용사 stable은 라틴어 stabilis(굳게 서 있는)에서 왔어요. 명사 '마구간' stable은 라틴어 stabulum(서 있는 곳, 우리)에서 왔는데, 둘 다 stare(서다)라는 같은 뿌리에서 나온 말이랍니다. status, station, establish도 같은 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stability",
+   "pos": "명사",
+   "meaning": "안정, 안정성",
+   "en": "Economic stability is important for every country.",
+   "ko": "경제적 안정은 모든 나라에 중요해요."
+  },
+  {
+   "word": "stabilize",
+   "pos": "동사",
+   "meaning": "안정시키다",
+   "en": "The doctors worked hard to stabilize the patient.",
+   "ko": "의사들은 환자를 안정시키려고 애썼어요."
+  },
+  {
+   "word": "unstable",
+   "pos": "형용사",
+   "meaning": "불안정한",
+   "en": "The old ladder looked unstable.",
+   "ko": "그 낡은 사다리는 불안정해 보였어요."
+  },
+  {
+   "word": "establish",
+   "pos": "동사",
+   "meaning": "설립하다, 확립하다",
+   "en": "The school was established in 1950.",
+   "ko": "그 학교는 1950년에 설립되었어요."
+  },
+  {
+   "word": "instability",
+   "pos": "명사",
+   "meaning": "불안정",
+   "en": "Political instability can hurt the economy.",
+   "ko": "정치적 불안정은 경제를 해칠 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 흔들리지 않고 반듯하게 서 있는 튼튼한 탁자",
+ "imageCaption": "거센 바람에도 끄떡없이 서 있는 단단한 집을 떠올려 보세요.",
+ "movieLineEn": "The patient is stable now. You can see her in the morning.",
+ "movieLineKo": "환자는 이제 안정됐어요. 아침에 만나실 수 있어요.",
+ "storyTitle": "흔들리는 젠가 탑",
+ "story": "곰 형제가 젠가를 했어요. 형은 \"내 탑은 stable(안정된) 상태야!\"라고 자랑했죠. 동생이 블록을 빼자 탑이 unstable(불안정한) 상태가 되었어요. 형은 숨을 참고 탑을 stabilize(안정시키다)하려 했어요. 결국 형이 탑의 stability(안정성)를 지켜 냈지만, 너무 긴장해서 터진 재채기에 와르르 무너졌대요!"
+}

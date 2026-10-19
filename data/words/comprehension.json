@@ -1,0 +1,67 @@
+{
+ "word": "comprehension",
+ "pos": "명사",
+ "phonetic": "[ˌkɑːmprɪˈhenʃn]",
+ "meaning": "이해, 이해력, 독해",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히, 함께 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "prehend",
+   "meaning": "붙잡다 (seize, grasp)",
+   "note": "라틴어 prehendere(붙잡다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-sion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>prehend</strong> (붙잡다) + <strong>-sion</strong> (것) = '뜻을 완전히 붙잡음'이라는 데서 <strong>'이해, 독해'</strong>가 되었습니다.",
+ "historyTitle": "뜻을 손으로 꽉 붙잡다",
+ "historyBody": "라틴어 comprehendere는 '꽉 붙잡다'라는 뜻이었는데, 머리로 뜻을 붙잡는다는 의미로 확장되어 '이해하다'가 되었어요. 우리말에서도 '요점을 잡다', 영어에서도 grasp(움켜잡다)가 '이해하다'로 쓰이는 것과 같은 원리예요. 수능의 reading comprehension이 바로 '독해'랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "comprehend",
+   "pos": "동사",
+   "meaning": "이해하다",
+   "en": "It's hard to comprehend how big the universe is.",
+   "ko": "우주가 얼마나 큰지 이해하기 어려워요."
+  },
+  {
+   "word": "comprehensive",
+   "pos": "형용사",
+   "meaning": "포괄적인, 종합적인",
+   "en": "The book gives a comprehensive guide to Korean history.",
+   "ko": "그 책은 한국사에 대한 종합적인 안내서예요."
+  },
+  {
+   "word": "apprehension",
+   "pos": "명사",
+   "meaning": "불안, 우려, 이해",
+   "en": "She felt some apprehension before her first speech.",
+   "ko": "그녀는 첫 연설 전에 약간 불안했어요."
+  },
+  {
+   "word": "prison",
+   "pos": "명사",
+   "meaning": "감옥",
+   "en": "The thief spent three years in prison.",
+   "ko": "그 도둑은 감옥에서 3년을 보냈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지문을 읽다가 '아하!' 하고 뜻을 꽉 붙잡는 학생",
+ "imageCaption": "글 속의 뜻을 손으로 꽉(com-) 움켜쥐는(prehend) 모습을 떠올려 보세요.",
+ "movieLineEn": "This is beyond my comprehension!",
+ "movieLineKo": "이건 내 이해의 범위를 넘어선다고!",
+ "storyTitle": "독해 문제의 탈옥",
+ "story": "수능 comprehension(독해) 문제가 너무 어려워 나는 comprehend(이해하다)할 수 없었어요. 시험장이 prison(감옥) 같았죠. apprehension(불안)에 떨던 그때, 지문 속 고양이가 튀어나와 말했어요. \"정답은 3번이야.\" 잠에서 깨어 보니 시험 전날 밤이었답니다."
+}

@@ -1,0 +1,80 @@
+{
+ "word": "emotional",
+ "pos": "형용사",
+ "phonetic": "[ɪˈmoʊʃənl]",
+ "meaning": "감정의, 정서적인, 감정적인, 감동적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "라틴어 ex(밖으로)가 짧아진 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mot (movere)",
+   "meaning": "움직이다 (move)",
+   "note": "라틴어 movere(움직이다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "행동을 명사로 바꿔 줘요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사형)",
+   "note": "명사를 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>mot</strong> (움직이다) + <strong>-ion</strong> + <strong>-al</strong> (~의) = '마음을 밖으로 움직이게 하는'이라는 뜻에서 <strong>'감정의, 감정적인'</strong>이 되었어요.",
+ "historyTitle": "마음이 흔들리는 것",
+ "historyBody": "emotion은 프랑스어 émotion에서 왔고, 그 뿌리는 émouvoir(흔들다), 라틴어 emovere(밖으로 움직이다)예요. 16세기에는 '사회적 소동, 동요'라는 뜻이었다가, 점차 '마음의 흔들림', 즉 감정을 뜻하게 되었답니다. emotional은 19세기에 생긴 형용사예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "emotion",
+   "pos": "명사",
+   "meaning": "감정",
+   "en": "Music can express emotions that words cannot.",
+   "ko": "음악은 말로 할 수 없는 감정을 표현할 수 있어요."
+  },
+  {
+   "word": "motion",
+   "pos": "명사",
+   "meaning": "움직임, 동작",
+   "en": "The video shows the dancer's motion in slow speed.",
+   "ko": "그 영상은 무용수의 동작을 느린 속도로 보여 줘요."
+  },
+  {
+   "word": "move",
+   "pos": "동사",
+   "meaning": "움직이다, 감동시키다",
+   "en": "Her speech moved everyone in the room.",
+   "ko": "그녀의 연설은 방 안의 모든 사람을 감동시켰어요."
+  },
+  {
+   "word": "motive",
+   "pos": "명사",
+   "meaning": "동기",
+   "en": "What was his motive for helping us?",
+   "ko": "그가 우리를 도운 동기는 무엇이었을까요?"
+  },
+  {
+   "word": "promote",
+   "pos": "동사",
+   "meaning": "촉진하다, 승진시키다 (앞으로 움직이다)",
+   "en": "The campaign promotes healthy eating.",
+   "ko": "그 캠페인은 건강한 식습관을 장려해요."
+  }
+ ],
+ "imageSense": "대표 의미: 졸업식에서 눈물을 흘리며 친구와 포옹하는 장면",
+ "imageCaption": "3년을 함께한 친구와 껴안고 울고 웃는 졸업식 날을 떠올려 보세요. 마음이 크게 흔들리는 순간이에요.",
+ "movieLineEn": "Don't get emotional now. We still have a job to do.",
+ "movieLineKo": "지금 감정적으로 굴지 마. 아직 할 일이 남았어.",
+ "storyTitle": "감성 폭발 아빠",
+ "story": "우리 아빠는 정말 emotional(감정적인) 분이에요. 광고 한 편에도 emotion(감정)이 북받치시죠. 어제는 강아지 사료 광고에 move(감동시키다)되어 우셨어요. 오늘은 냉장고 문이 천천히 닫히는 motion(움직임)을 보고 \"너도 수고했다\" 하며 또 우셨답니다. 엄마는 휴지를 사러 마트에 가셨어요."
+}

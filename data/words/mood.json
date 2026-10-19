@@ -1,0 +1,48 @@
+{
+ "word": "mood",
+ "pos": "명사",
+ "phonetic": "[muːd]",
+ "meaning": "기분, 분위기",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "mood",
+   "meaning": "마음, 감정 (mind, spirit)",
+   "note": "고대 영어 mod(마음, 용기, 기분)에서 온 게르만어 단어라 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>mood</strong>는 고대 영어에서 '마음, 기백'을 뜻했고, 지금은 그때그때의 마음 상태인 <strong>'기분, 분위기'</strong>가 되었어요.",
+ "historyTitle": "용기까지 뜻하던 고대 영어 mod",
+ "historyBody": "고대 영어 mod는 '마음, 정신'뿐 아니라 '용기, 자부심'까지 뜻했어요. 독일어 Mut(용기)도 같은 뿌리랍니다. 시간이 지나며 지금처럼 '일시적인 기분'이라는 뜻으로 좁아졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "moody",
+   "pos": "형용사",
+   "meaning": "기분 변화가 심한, 침울한",
+   "en": "My brother gets moody when he is hungry.",
+   "ko": "우리 형은 배고프면 기분이 오락가락해요."
+  },
+  {
+   "word": "moodiness",
+   "pos": "명사",
+   "meaning": "변덕스러움, 침울함",
+   "en": "Lack of sleep can cause moodiness in teenagers.",
+   "ko": "수면 부족은 십 대들에게 기분 변화를 일으킬 수 있어요."
+  },
+  {
+   "word": "mood swing",
+   "pos": "명사",
+   "meaning": "기분 변화, 감정 기복",
+   "en": "Hormones can cause sudden mood swings.",
+   "ko": "호르몬은 갑작스러운 감정 기복을 일으킬 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 머리 위에 해, 구름, 비가 번갈아 뜨는 기분 날씨",
+ "imageCaption": "사람 머리 위에 작은 날씨 표시가 떠서 기분에 따라 맑음과 흐림이 바뀌는 그림을 떠올려 보세요.",
+ "movieLineEn": "I'm not in the mood for jokes right now.",
+ "movieLineKo": "지금은 농담할 기분 아니야.",
+ "storyTitle": "기분 날씨 예보",
+ "story": "누나의 mood(기분)는 날씨 같아요. 아침엔 맑았다가 점심엔 moody(침울한) 먹구름이 끼죠. 가족들은 누나의 mood swing(기분 변화)을 예측하려고 표까지 만들었어요. 그 결과, 누나의 기분은 날씨가 아니라 간식 양에 따라 바뀐다는 사실이 밝혀졌답니다!"
+}

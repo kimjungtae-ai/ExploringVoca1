@@ -1,0 +1,68 @@
+{
+ "word": "mountain slope",
+ "pos": "명사구",
+ "phonetic": "[ˈmaʊntən sloʊp]",
+ "meaning": "산비탈, 산의 경사면",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "mountain",
+   "meaning": "산 (mountain)",
+   "note": "라틴어 mons(산)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "slope",
+   "meaning": "경사, 비탈 (slope)",
+   "note": "땅이 비스듬하게 기울어진 면이에요."
+  }
+ ],
+ "summary": "<strong>mountain</strong> (산) + <strong>slope</strong> (비탈) = '산의 기울어진 면'에서 <strong>'산비탈'</strong>",
+ "historyTitle": "'비스듬히'에서 줄어든 slope",
+ "historyBody": "slope는 16세기쯤 aslope(비스듬히)라는 부사가 줄어든 말로 보는 것이 일반적이에요. mountain은 라틴어 mons(산)에서 고대 프랑스어 montaigne를 거쳐 들어왔어요. mount(오르다)와 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "slope",
+   "pos": "명사 / 동사",
+   "meaning": "경사 / 비탈지다",
+   "en": "The garden slopes down to the river.",
+   "ko": "정원은 강 쪽으로 비탈져 있어요."
+  },
+  {
+   "word": "mount",
+   "pos": "동사",
+   "meaning": "오르다, 올라타다",
+   "en": "The rider mounted his horse quickly.",
+   "ko": "기수는 재빨리 말에 올라탔어요."
+  },
+  {
+   "word": "mountainous",
+   "pos": "형용사",
+   "meaning": "산이 많은",
+   "en": "Gangwon-do is a mountainous region.",
+   "ko": "강원도는 산이 많은 지역이에요."
+  },
+  {
+   "word": "steep",
+   "pos": "형용사",
+   "meaning": "가파른",
+   "en": "The path to the top is very steep.",
+   "ko": "정상으로 가는 길은 아주 가팔라요."
+  },
+  {
+   "word": "hillside",
+   "pos": "명사",
+   "meaning": "언덕 비탈",
+   "en": "Sheep were eating grass on the hillside.",
+   "ko": "양들이 언덕 비탈에서 풀을 먹고 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 스키 타는 사람들이 산비탈을 미끄러져 내려오는 장면",
+ "imageCaption": "하얀 눈이 덮인 비스듬한 산의 옆면을 떠올려 보세요.",
+ "movieLineEn": "Don't look down. Just keep climbing the mountain slope.",
+ "movieLineKo": "아래 보지 마. 그냥 산비탈을 계속 올라가.",
+ "storyTitle": "썰매 대신 쟁반",
+ "story": "겨울 캠프에서 우리는 mountain slope(산비탈)에서 썰매를 타기로 했어요. 길이 너무 steep(가파른)해서 무서웠죠. 썰매가 없어 식당 쟁반에 올라 mount(올라타다)했는데, 쟁반이 너무 빨라 hillside(언덕 비탈) 끝 식당 앞에 딱 멈췄어요. 점심 줄 1등이었죠!"
+}

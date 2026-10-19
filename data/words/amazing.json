@@ -1,0 +1,67 @@
+{
+ "word": "amazing",
+ "pos": "형용사",
+ "phonetic": "[əˈmeɪzɪŋ]",
+ "meaning": "놀라운, 굉장한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "a-",
+   "meaning": "(강조) 완전히",
+   "note": "고대 영어의 강조 접두사 a-예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "maze",
+   "meaning": "혼란스럽게 하다, 미로 (confuse)",
+   "note": "중세 영어 masen(어리둥절하게 하다)과 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사)",
+   "note": "'놀라게 하는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>a-</strong> (강조) + <strong>maze</strong> (어리둥절하게 하다) + <strong>-ing</strong> = '완전히 어리둥절하게 만드는'에서 <strong>'놀라운'</strong>이 되었어요.",
+ "historyTitle": "정신이 '멍해지던' 옛 영어 amasian",
+ "historyBody": "amaze는 고대 영어 amasian(어리둥절하게 하다, 정신을 잃게 하다)에서 왔어요. 처음엔 '당황스럽게 하다'라는 부정적인 뜻이었는데 점점 '감탄하게 하다'로 바뀌었어요. 다만 maze(미로)와의 관계와 그보다 더 오래된 기원은 확실하지 않아서, 이 분석은 참고로만 보세요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "amaze",
+   "pos": "동사",
+   "meaning": "깜짝 놀라게 하다",
+   "en": "The magician amazed the audience with his tricks.",
+   "ko": "마술사는 묘기로 관객을 깜짝 놀라게 했어요."
+  },
+  {
+   "word": "amazed",
+   "pos": "형용사",
+   "meaning": "놀란",
+   "en": "I was amazed by how fast she learned Korean.",
+   "ko": "나는 그녀가 한국어를 얼마나 빨리 배웠는지에 놀랐어요."
+  },
+  {
+   "word": "amazement",
+   "pos": "명사",
+   "meaning": "놀라움",
+   "en": "He watched the fireworks in amazement.",
+   "ko": "그는 놀라워하며 불꽃놀이를 바라봤어요."
+  },
+  {
+   "word": "maze",
+   "pos": "명사",
+   "meaning": "미로",
+   "en": "The children got lost in the corn maze.",
+   "ko": "아이들은 옥수수밭 미로에서 길을 잃었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 불꽃놀이를 보며 입을 떡 벌리는 사람들",
+ "imageCaption": "너무 놀라서 머릿속이 미로처럼 '멍~' 해지는 순간을 떠올려 보세요.",
+ "movieLineEn": "That was amazing! Do it again!",
+ "movieLineKo": "그거 정말 굉장했어! 한 번 더 해 봐!",
+ "storyTitle": "미로 속 놀라운 발견",
+ "story": "탐험가는 maze(미로)에서 길을 잃었어요. 하루 종일 헤매다 amazing(놀라운) 문을 발견했죠. 문을 열자 사람들이 amazed(놀란) 얼굴로 박수를 쳤어요. 그는 amazement(놀라움)에 빠졌어요. 그곳은 바로 미로 입구, 그리고 그는 '최장 시간 미로 체험' 신기록을 세웠대요!"
+}

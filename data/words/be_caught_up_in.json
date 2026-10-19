@@ -1,0 +1,74 @@
+{
+ "word": "be caught up in",
+ "pos": "숙어",
+ "phonetic": "[bi kɔːt ʌp ɪn]",
+ "meaning": "~에 휘말리다, ~에 몰두하다, ~에 빠져 있다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "caught",
+   "meaning": "잡힌 (caught)",
+   "note": "catch(잡다)의 과거분사예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히 (completely)",
+   "note": "up이 '완전히, 꽉'이라는 느낌을 더해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "무엇 속에 붙잡혔는지 알려 줘요."
+  }
+ ],
+ "summary": "<strong>caught</strong> (잡힌) + <strong>up</strong> (완전히) + <strong>in</strong> (~ 안에) = '~ 안에 완전히 붙잡히다'에서 <strong>'~에 휘말리다, 몰두하다'</strong>예요.",
+ "historyTitle": "그물에 걸린 물고기 같은 표현",
+ "historyBody": "catch는 옛 북부 프랑스어 cachier(사냥하다)에서 왔고, 라틴어 captare(붙잡으려 하다)가 뿌리예요. 'caught up in'은 그물이나 소용돌이에 꽉 잡혀 빠져나오지 못하는 그림이에요. 그래서 사건에 '휘말리다' 또는 무언가에 '푹 빠지다'로 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "catch up with",
+   "pos": "구동사",
+   "meaning": "~을 따라잡다",
+   "en": "Run faster to catch up with the others.",
+   "ko": "다른 사람들을 따라잡으려면 더 빨리 뛰어."
+  },
+  {
+   "word": "be absorbed in",
+   "pos": "숙어",
+   "meaning": "~에 몰두하다",
+   "en": "He was absorbed in his book.",
+   "ko": "그는 책에 몰두해 있었어요."
+  },
+  {
+   "word": "get involved in",
+   "pos": "숙어",
+   "meaning": "~에 연루되다, 참여하다",
+   "en": "I don't want to get involved in their fight.",
+   "ko": "나는 그들의 싸움에 끼고 싶지 않아요."
+  },
+  {
+   "word": "be lost in",
+   "pos": "숙어",
+   "meaning": "~에 빠져 있다",
+   "en": "She was lost in thought.",
+   "ko": "그녀는 생각에 잠겨 있었어요."
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "붙잡다, 포착하다",
+   "en": "The photo captured her happy smile.",
+   "ko": "그 사진은 그녀의 행복한 미소를 포착했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 소용돌이에 휩쓸린 작은 배",
+ "imageCaption": "물살에 '꽉' 잡혀 빠져나올 수 없는 작은 배를 떠올려 보세요.",
+ "movieLineEn": "I got caught up in something bigger than me.",
+ "movieLineKo": "나보다 훨씬 큰 일에 휘말려 버렸어.",
+ "storyTitle": "드라마의 늪",
+ "story": "시험 전날 나는 드라마에 be caught up in(~에 빠져 있다)했어요. 한 편만 보려 했는데 be absorbed in(~에 몰두하다)해서 열 편을 봤죠. 결국 공부를 catch up with(따라잡다)하지 못했어요. 그런데 시험 지문이 그 드라마 줄거리였답니다!"
+}

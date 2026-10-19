@@ -1,0 +1,68 @@
+{
+ "word": "overall",
+ "pos": "형용사 / 부사 / 명사",
+ "phonetic": "[ˌoʊvərˈɔːl]",
+ "meaning": "전반적인, 종합적인 / 전반적으로, 대체로 / 작업복",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "all",
+   "meaning": "모든 (all)",
+   "note": "고대 영어 eall(모든)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>over</strong> (위에서 덮는) + <strong>all</strong> (모든) = '모든 것 위를 덮어 보는'이라는 뜻에서 <strong>'전반적인, 전반적으로'</strong>가 되었어요.",
+ "historyTitle": "전부를 위에서 내려다보기",
+ "historyBody": "overall은 고대 영어 ofer eall(모든 것 위에, 어디에나)에서 나온 표현이에요. 18세기 후반에는 옷 위에 덧입는 '작업복(overalls)'이라는 뜻도 생겼어요. 오늘날 수능 지문에서는 '전반적인, 전반적으로'라는 뜻으로 가장 많이 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "all",
+   "pos": "형용사 / 대명사",
+   "meaning": "모든 / 모두",
+   "en": "All the students passed the final test.",
+   "ko": "모든 학생이 기말시험에 합격했어요."
+  },
+  {
+   "word": "almost",
+   "pos": "부사",
+   "meaning": "거의",
+   "en": "It's almost time for lunch.",
+   "ko": "거의 점심시간이에요."
+  },
+  {
+   "word": "already",
+   "pos": "부사",
+   "meaning": "이미, 벌써",
+   "en": "I've already finished my homework.",
+   "ko": "나는 이미 숙제를 끝냈어요."
+  },
+  {
+   "word": "although",
+   "pos": "접속사",
+   "meaning": "비록 ~이지만",
+   "en": "Although it was cold, we went for a walk.",
+   "ko": "추웠지만 우리는 산책을 나갔어요."
+  },
+  {
+   "word": "always",
+   "pos": "부사",
+   "meaning": "항상",
+   "en": "She always smiles when she sees her dog.",
+   "ko": "그녀는 강아지를 볼 때마다 항상 웃어요."
+  }
+ ],
+ "imageSense": "대표 의미: 드론이 하늘 위에서 마을 전체를 내려다보는 장면",
+ "imageCaption": "하늘 높이서 동네 전체를 한눈에 내려다본다고 상상해 보세요. 세세한 것보다 '전반적인' 모습이 보이죠.",
+ "movieLineEn": "Overall, the mission was a success. Nobody got hurt.",
+ "movieLineKo": "전반적으로 임무는 성공이었어. 아무도 안 다쳤으니까.",
+ "storyTitle": "전반적으로 괜찮은 성적표",
+ "story": "엄마가 성적표를 보며 물었어요. '그래서 overall(전반적으로) 어때?' 나는 almost(거의) 다 잘 봤다고 했죠. although(비록) 수학은 망쳤지만요. 엄마는 already(이미) 다 알고 계셨어요. 담임 선생님이 바로 우리 이모였거든요. always(항상) 이렇다니까요!"
+}

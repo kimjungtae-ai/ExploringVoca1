@@ -1,0 +1,61 @@
+{
+ "word": "celebrate",
+ "pos": "동사",
+ "phonetic": "[ˈselɪbreɪt]",
+ "meaning": "축하하다, 기념하다, 찬양하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "celebr",
+   "meaning": "많은 사람이 모이는, 유명한 (crowded, famous)",
+   "note": "라틴어 celeber(사람들로 붐비는, 유명한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "라틴어 동사에서 온 영어 동사를 만들어요."
+  }
+ ],
+ "summary": "<strong>celebr</strong> (사람들이 많이 모인) + <strong>-ate</strong> (~하다) = '많은 사람이 모여 기리다'에서 <strong>'축하하다, 기념하다'</strong>가 되었어요.",
+ "historyTitle": "사람들로 북적이던 로마의 축제",
+ "historyBody": "라틴어 celeber는 '사람들이 많이 모이는, 붐비는, 유명한'이라는 뜻이었어요. 여기서 celebrare(많이 모여 기리다, 축하하다)가 나왔어요. 사람들이 몰려들어 함께 기념하던 모습이 지금의 celebrate에 그대로 남아 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "celebration",
+   "pos": "명사",
+   "meaning": "축하, 기념 행사",
+   "en": "The whole village joined the harvest celebration.",
+   "ko": "온 마을이 추수 축하 행사에 참여했어요."
+  },
+  {
+   "word": "celebrity",
+   "pos": "명사",
+   "meaning": "유명 인사, 명성",
+   "en": "A famous celebrity visited our school yesterday.",
+   "ko": "어제 유명 연예인이 우리 학교를 방문했어요."
+  },
+  {
+   "word": "celebrated",
+   "pos": "형용사",
+   "meaning": "유명한, 명성 있는",
+   "en": "She is a celebrated writer in Korea.",
+   "ko": "그녀는 한국에서 유명한 작가예요."
+  },
+  {
+   "word": "celebratory",
+   "pos": "형용사",
+   "meaning": "축하하는",
+   "en": "We had a celebratory dinner after the exam.",
+   "ko": "우리는 시험 후에 축하 저녁 식사를 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 폭죽과 케이크로 생일을 축하하는 친구들",
+ "imageCaption": "모두가 모여 박수를 치고 폭죽을 터뜨리는 장면을 떠올려 보세요. 많이 모여야 축하가 되죠!",
+ "movieLineEn": "We won! Let's celebrate tonight!",
+ "movieLineKo": "우리가 이겼어! 오늘 밤 축하하자!",
+ "storyTitle": "수능 끝난 날의 축하 파티",
+ "story": "수능이 끝나자 우리 반은 celebratory(축하하는) 파티를 열었어요. 다 함께 celebrate(축하하다)하며 노래를 불렀죠. 그때 유명한 celebrity(유명 인사)가 깜짝 등장했어요! 알고 보니 우리 담임 선생님의 쌍둥이 동생이었대요. 그날의 celebration(축하 행사)은 전설이 되었답니다."
+}

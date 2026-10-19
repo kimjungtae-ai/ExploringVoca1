@@ -1,0 +1,62 @@
+{
+ "word": "suit",
+ "pos": "동사 / 명사",
+ "phonetic": "[suːt]",
+ "meaning": "어울리다, 맞다, 편리하다 / 정장, 소송",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "suit (← sequi)",
+   "meaning": "따르다 (follow)",
+   "note": "라틴어 sequi(따르다)에서 나온 앵글로프랑스어 siute에서 왔어요."
+  }
+ ],
+ "summary": "<strong>suit</strong>는 라틴어 <strong>sequi</strong> (따르다)에서 와서 '뒤따르는 것, 한 벌로 맞춘 것'이라는 뜻을 거쳐 <strong>'정장, 어울리다'</strong>가 되었어요.",
+ "historyTitle": "'따르는 무리'에서 '정장 한 벌'로",
+ "historyBody": "suit는 라틴어 sequi(따르다)에서 나온 앵글로프랑스어 siute에서 왔어요. 처음엔 영주를 따르는 수행원 무리를 뜻했고, 그들이 맞춰 입던 '한 벌의 옷'으로 의미가 바뀌었죠. 법정에서 권리를 '따라가 요구하는 것'이라는 뜻에서 '소송'이라는 의미도 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "suitable",
+   "pos": "형용사",
+   "meaning": "적합한, 알맞은",
+   "en": "This movie is not suitable for children.",
+   "ko": "이 영화는 아이들에게 적합하지 않아요."
+  },
+  {
+   "word": "pursue",
+   "pos": "동사",
+   "meaning": "추구하다, 뒤쫓다",
+   "en": "She wants to pursue a career in medicine.",
+   "ko": "그녀는 의학 분야의 경력을 추구하고 싶어 해요."
+  },
+  {
+   "word": "sequence",
+   "pos": "명사",
+   "meaning": "순서, 연속",
+   "en": "Put the pictures in the correct sequence.",
+   "ko": "그림들을 올바른 순서로 놓으세요."
+  },
+  {
+   "word": "consequence",
+   "pos": "명사",
+   "meaning": "결과, 영향",
+   "en": "Every choice has its consequences.",
+   "ko": "모든 선택에는 결과가 따라요."
+  },
+  {
+   "word": "subsequent",
+   "pos": "형용사",
+   "meaning": "그 다음의, 이후의",
+   "en": "Subsequent studies supported the first result.",
+   "ko": "이후의 연구들이 첫 번째 결과를 뒷받침했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 몸에 꼭 맞는 정장을 입고 거울 앞에 선 사람",
+ "imageCaption": "새 정장을 입고 거울을 보며 '나한테 딱 어울리네!' 하는 모습을 떠올려 보세요. 정장(suit)이 잘 어울리는(suit) 순간이에요.",
+ "movieLineEn": "Blue really suits you. You should wear it more often.",
+ "movieLineKo": "파란색이 너한테 정말 잘 어울려. 더 자주 입어.",
+ "storyTitle": "정장을 입은 강아지",
+ "story": "졸업식 날, 우리 집 강아지에게 작은 suit(정장)를 입혔어요. 의외로 정말 잘 suit(어울리다)했죠. 하지만 consequence(결과)는 예상 밖이었어요. 강아지가 사진을 찍는 sequence(순서) 내내 꼬리로 넥타이를 pursue(뒤쫓다)하느라 빙글빙글 돌기만 했거든요!"
+}

@@ -1,0 +1,75 @@
+{
+ "word": "eyesight",
+ "pos": "명사",
+ "phonetic": "[ˈaɪsaɪt]",
+ "meaning": "시력",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "eye",
+   "meaning": "눈 (eye)",
+   "note": "고대 영어 ēage(눈)에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sight",
+   "meaning": "보는 것, 시야 (sight)",
+   "note": "고대 영어 gesiht(보는 것)에서 왔고, see(보다)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>eye</strong> (눈) + <strong>sight</strong> (보는 것) = '눈으로 보는 능력'에서 <strong>'시력'</strong>이 되었어요.",
+ "historyTitle": "순수 영어 토박이 단어 두 개의 만남",
+ "historyBody": "eye와 sight는 둘 다 라틴어가 아닌 고대 영어에서 온 토박이 단어예요. sight는 고대 영어 'gesiht'에서 왔고 동사 see와 같은 뿌리예요. 두 단어를 합친 eyesight는 13세기 무렵부터 '시력'이라는 뜻으로 쓰였어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "eye",
+   "pos": "명사",
+   "meaning": "눈",
+   "en": "She closed her eyes and made a wish.",
+   "ko": "그녀는 눈을 감고 소원을 빌었어요."
+  },
+  {
+   "word": "sight",
+   "pos": "명사",
+   "meaning": "시력, 광경, 시야",
+   "en": "The sunset over the sea was a beautiful sight.",
+   "ko": "바다 위 노을은 아름다운 광경이었어요."
+  },
+  {
+   "word": "sightseeing",
+   "pos": "명사",
+   "meaning": "관광",
+   "en": "We went sightseeing in Gyeongju.",
+   "ko": "우리는 경주로 관광을 갔어요."
+  },
+  {
+   "word": "insight",
+   "pos": "명사",
+   "meaning": "통찰력, 이해",
+   "en": "The book gives insight into teenagers' lives.",
+   "ko": "그 책은 십대들의 삶에 대한 통찰을 줘요."
+  },
+  {
+   "word": "oversight",
+   "pos": "명사",
+   "meaning": "실수, 간과, 감독",
+   "en": "The error was caused by a simple oversight.",
+   "ko": "그 오류는 단순한 실수 때문에 생겼어요."
+  },
+  {
+   "word": "eyebrow",
+   "pos": "명사",
+   "meaning": "눈썹",
+   "en": "He raised his eyebrows in surprise.",
+   "ko": "그는 놀라서 눈썹을 치켜올렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 안과에서 시력표의 작은 글자를 읽는 장면",
+ "imageCaption": "한쪽 눈을 가리고 시력표의 글자를 읽는 순간을 떠올려 보세요.",
+ "movieLineEn": "My eyesight isn't what it used to be, but I still see you.",
+ "movieLineKo": "내 시력이 예전 같진 않지만, 그래도 너는 보여.",
+ "storyTitle": "시력 검사의 반전",
+ "story": "할아버지는 eyesight(시력)가 독수리 같다고 자랑하셨어요. 시력표의 가장 작은 글자까지 줄줄 읽으셨죠. 의사는 놀라 eyebrow(눈썹)를 치켜올렸어요. 그런데 sight(시야) 아래로 보니 할아버지는 시력표를 통째로 외우고 계셨어요. 정말 대단한 insight(통찰력)였답니다!"
+}

@@ -1,0 +1,54 @@
+{
+ "word": "complex",
+ "pos": "형용사 / 명사",
+ "phonetic": "[kəmˈpleks] / [ˈkɑːmpleks]",
+ "meaning": "복잡한, 복합의 / 복합 건물, 콤플렉스, 강박 관념",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plex",
+   "meaning": "엮다, 땋다 (weave, plait)",
+   "note": "라틴어 plectere(엮다, 땋다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>plex</strong> (엮다) = '여러 가닥을 함께 엮은'이라는 데서 <strong>'복잡한, 복합의'</strong>가 되었습니다.",
+ "historyTitle": "실을 엮어 만든 단어",
+ "historyBody": "라틴어 complecti는 '감싸 안다, 함께 엮다'라는 뜻이었고, 과거분사 complexus는 '서로 얽힌'을 뜻했어요. 17세기 영어에서 '복잡한'이라는 뜻으로 쓰였고, 20세기 초 심리학에서 '콤플렉스(복합된 감정)'라는 뜻이 생겼어요. 여러 건물을 엮은 '복합 단지'도 같은 그림이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "complexity",
+   "pos": "명사",
+   "meaning": "복잡성",
+   "en": "The complexity of the problem surprised everyone.",
+   "ko": "그 문제의 복잡성에 모두 놀랐어요."
+  },
+  {
+   "word": "perplexed",
+   "pos": "형용사",
+   "meaning": "당혹한, 어리둥절한",
+   "en": "She looked perplexed by the strange question.",
+   "ko": "그녀는 이상한 질문에 당혹스러워 보였어요."
+  },
+  {
+   "word": "complexion",
+   "pos": "명사",
+   "meaning": "안색, 피부색",
+   "en": "Fresh vegetables are good for your complexion.",
+   "ko": "신선한 채소는 피부에 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 가닥의 실이 서로 얽혀 엉킨 실뭉치",
+ "imageCaption": "여러 가닥을 함께(com-) 엮어(plex) 풀기 어려워진 모습을 떠올려 보세요.",
+ "movieLineEn": "It's complex, but trust me, I have a plan.",
+ "movieLineKo": "복잡하긴 하지만 믿어 봐, 나한테 계획이 있어.",
+ "storyTitle": "이어폰 줄의 저주",
+ "story": "주머니 속 이어폰 줄은 매번 complex(복잡한) 매듭이 되었어요. 그 complexity(복잡성)에 나는 perplexed(당혹한) 얼굴로 한 시간을 풀었죠. 친구는 내 complexion(안색)이 창백하다며 걱정했어요. 다 풀고 나니, 블루투스 이어폰이 택배로 도착했답니다!"
+}

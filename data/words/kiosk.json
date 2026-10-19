@@ -1,0 +1,41 @@
+{
+ "word": "kiosk",
+ "pos": "명사",
+ "phonetic": "[ˈkiːɑːsk]",
+ "meaning": "키오스크(무인 주문기), 신문·간식 판매대",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "kiosk",
+   "meaning": "정자, 누각 (pavilion)",
+   "note": "튀르키예어 köşk, 페르시아어 kushk(궁전, 누각)에서 왔어요."
+  }
+ ],
+ "summary": "페르시아어 <strong>kushk</strong> (누각) → 튀르키예어 <strong>köşk</strong> = 정원의 작은 정자에서 <strong>'판매대, 무인 주문기'</strong>가 되었어요.",
+ "historyTitle": "궁전 정원의 정자에서 무인 주문기까지",
+ "historyBody": "kiosk는 페르시아어 kushk('궁전, 누각')가 튀르키예어 köşk('정원의 정자')가 되고, 이탈리아어와 프랑스어를 거쳐 17세기 영어에 들어왔어요. 19세기 유럽에서는 길거리의 작은 신문 판매대를 이렇게 불렀죠. 오늘날에는 식당의 무인 주문기까지 뜻이 넓어졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "information kiosk",
+   "pos": "명사",
+   "meaning": "안내 부스, 안내 단말기",
+   "en": "Ask at the information kiosk for a free map.",
+   "ko": "안내 부스에서 무료 지도를 요청하세요."
+  },
+  {
+   "word": "ticket kiosk",
+   "pos": "명사",
+   "meaning": "무인 발권기, 매표 부스",
+   "en": "We bought our train tickets at a ticket kiosk.",
+   "ko": "우리는 무인 발권기에서 기차표를 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 패스트푸드점 입구의 화면을 터치해 주문하는 장면",
+ "imageCaption": "화면을 톡톡 눌러 메뉴를 고르고 카드를 꽂는 무인 주문기를 떠올려 보세요.",
+ "movieLineEn": "Just order at the kiosk. The line is way shorter.",
+ "movieLineKo": "그냥 키오스크에서 주문해. 줄이 훨씬 짧아.",
+ "storyTitle": "할아버지와 키오스크",
+ "story": "할아버지가 햄버거 가게 kiosk(무인 주문기) 앞에 섰어요. 화면이 너무 복잡해서 information kiosk(안내 부스)에 물어보러 갔죠. 그런데 그것도 kiosk(무인 기계)였어요! 결국 ticket kiosk(무인 발권기)에서 기차표까지 잘못 사셨어요. 할아버지는 웃으며 그 기차를 타고 바다에 가서 회를 드셨답니다."
+}

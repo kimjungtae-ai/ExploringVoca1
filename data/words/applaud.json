@@ -1,0 +1,61 @@
+{
+ "word": "applaud",
+ "pos": "동사",
+ "phonetic": "[əˈplɔːd]",
+ "meaning": "박수를 치다, 칭찬하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에게 (to)",
+   "note": "박수의 방향, 즉 누구에게 치는지를 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plaud (plaudere)",
+   "meaning": "손뼉 치다 (clap)",
+   "note": "손바닥을 '짝' 하고 마주치는 소리에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에게) + <strong>plaud</strong> (손뼉 치다) = '누군가를 향해 손뼉을 치다'에서 <strong>'박수를 치다, 칭찬하다'</strong>가 되었어요.",
+ "historyTitle": "로마 극장의 박수 소리",
+ "historyBody": "라틴어 'applaudere'는 ad-(~에게)와 'plaudere(손뼉 치다)'가 합쳐진 말이에요. 고대 로마 극장에서는 연극이 끝나면 배우가 관객에게 'Plaudite!(박수 쳐 주세요!)'라고 외쳤다고 해요. explode(폭발하다)도 원래 '박수와 야유로 배우를 무대 밖으로 쫓아내다'라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "applause",
+   "pos": "명사",
+   "meaning": "박수갈채",
+   "en": "The singer bowed as the applause filled the hall.",
+   "ko": "박수갈채가 홀을 가득 채우자 가수는 고개 숙여 인사했어요."
+  },
+  {
+   "word": "plausible",
+   "pos": "형용사",
+   "meaning": "그럴듯한, 타당한 것 같은",
+   "en": "Her excuse for being late sounded plausible.",
+   "ko": "지각한 것에 대한 그녀의 변명은 그럴듯하게 들렸어요."
+  },
+  {
+   "word": "explode",
+   "pos": "동사",
+   "meaning": "폭발하다",
+   "en": "The fireworks exploded high above the river.",
+   "ko": "불꽃놀이가 강 위 높은 곳에서 터졌어요."
+  },
+  {
+   "word": "explosion",
+   "pos": "명사",
+   "meaning": "폭발, 폭증",
+   "en": "The explosion of online shopping changed how people buy things.",
+   "ko": "온라인 쇼핑의 폭증은 사람들이 물건을 사는 방식을 바꿨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공연이 끝나고 관객들이 일어나 손뼉을 치는 장면",
+ "imageCaption": "콘서트가 끝난 뒤 관객석에서 '짝짝짝' 박수가 터지는 장면을 떠올려 보세요. 누군가를 향해 손뼉을 치는 것이 applaud예요.",
+ "movieLineEn": "Stand up and applaud the bravest knight in the kingdom!",
+ "movieLineKo": "일어나서 왕국에서 가장 용감한 기사에게 박수를 보내라!",
+ "storyTitle": "박수 소리에 폭발한 풍선",
+ "story": "학예회에서 민수가 풍선 마술을 끝내자 모두 applaud(박수를 치다)했어요. applause(박수갈채)가 너무 커서 풍선이 펑 explode(폭발하다)했죠. 사람들은 그것도 마술인 줄 알았어요. 민수의 plausible(그럴듯한) 표정 덕분에 실수는 최고의 피날레가 되었답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "head to",
+ "pos": "구동사",
+ "phonetic": "[hed tuː]",
+ "meaning": "~로 향하다, ~로 가다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "head",
+   "meaning": "향하다, 머리 (head)",
+   "note": "머리를 어느 쪽으로 돌려 '향한다'는 뜻을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~로 (to)",
+   "note": "가려는 목적지를 가리켜요."
+  }
+ ],
+ "summary": "<strong>head</strong> (머리를 향하다) + <strong>to</strong> (~로) = '~쪽으로 머리를 두고 가다'에서 <strong>'~로 향하다'</strong>",
+ "historyTitle": "머리가 앞장서는 방향",
+ "historyBody": "head는 고대 영어 hēafod(머리)에서 왔어요. 몸에서 머리가 가장 앞장서듯, 19세기 무렵부터 동사 head가 '머리를 ~쪽으로 향하다', 즉 '~로 향해 가다'라는 뜻으로 널리 쓰였어요. 배나 차의 앞머리가 향하는 방향을 떠올리면 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "head over to",
+   "pos": "구동사",
+   "meaning": "~로 건너가다",
+   "en": "After class, we headed over to the gym.",
+   "ko": "수업 후 우리는 체육관으로 갔어."
+  },
+  {
+   "word": "head for",
+   "pos": "구동사",
+   "meaning": "~을 향해 가다",
+   "en": "They headed for home before the rain started.",
+   "ko": "그들은 비가 오기 전에 집으로 향했어."
+  },
+  {
+   "word": "headline",
+   "pos": "명사",
+   "meaning": "(기사) 제목",
+   "en": "The headline caught my eye at once.",
+   "ko": "그 기사 제목이 바로 내 눈길을 끌었어."
+  },
+  {
+   "word": "ahead",
+   "pos": "부사",
+   "meaning": "앞에, 앞으로",
+   "en": "Go straight ahead and turn left.",
+   "ko": "앞으로 쭉 가서 왼쪽으로 도세요."
+  },
+  {
+   "word": "make one's way to",
+   "pos": "숙어",
+   "meaning": "~로 나아가다",
+   "en": "We made our way to the front of the stage.",
+   "ko": "우리는 무대 앞쪽으로 나아갔어."
+  }
+ ],
+ "imageSense": "대표 의미: 배낭을 메고 공항으로 출발하는 장면",
+ "imageCaption": "자동차 앞머리(head)가 목적지 쪽을 향해 달리는 모습을 떠올려 보세요.",
+ "movieLineEn": "Pack up, everyone. We head to the mountains at dawn.",
+ "movieLineKo": "모두 짐 싸. 새벽에 산으로 출발한다.",
+ "storyTitle": "내비게이션의 고집",
+ "story": "아빠는 바다로 head to(~로 향하다) 하자고 했어요. 내비게이션은 \"ahead(앞으로) 직진\"만 외쳤고, 우리는 믿고 head for(~을 향해 가다) 했죠. 세 시간 뒤 도착한 곳은 '바다'라는 이름의 횟집이었어요. 다음 날 신문 headline(제목): '내비가 데려간 가장 짠 바다'!"
+}

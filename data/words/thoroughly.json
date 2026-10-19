@@ -1,0 +1,61 @@
+{
+ "word": "thoroughly",
+ "pos": "부사",
+ "phonetic": "[ˈθɜːroʊli]",
+ "meaning": "철저히, 완전히, 대단히",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "thorough",
+   "meaning": "철저한 (complete)",
+   "note": "고대 영어 þuruh(~을 통과하여)에서 왔어요. through와 같은 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사형)",
+   "note": "형용사를 부사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>thorough</strong> (끝까지 통과하는) + <strong>-ly</strong> (~하게) = '처음부터 끝까지 꿰뚫듯이'에서 <strong>'철저히'</strong>가 되었어요.",
+ "historyTitle": "through와 쌍둥이였던 단어",
+ "historyBody": "thorough는 원래 through(~을 통과하여)와 같은 고대 영어 þuruh의 다른 철자였어요. '처음부터 끝까지 통과하는'이라는 뜻에서 '빠짐없이 철저한'이라는 형용사로 바뀌었죠. 그래서 thoroughly는 '구석구석 빠짐없이'라는 느낌이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "thorough",
+   "pos": "형용사",
+   "meaning": "철저한, 빈틈없는",
+   "en": "The police made a thorough search of the house.",
+   "ko": "경찰은 집을 철저하게 수색했어요."
+  },
+  {
+   "word": "through",
+   "pos": "전치사",
+   "meaning": "~을 통해, ~을 지나",
+   "en": "We walked through the forest.",
+   "ko": "우리는 숲을 지나 걸었어요."
+  },
+  {
+   "word": "throughout",
+   "pos": "전치사",
+   "meaning": "~ 동안 내내, 곳곳에",
+   "en": "It rained throughout the day.",
+   "ko": "하루 종일 비가 내렸어요."
+  },
+  {
+   "word": "thoroughness",
+   "pos": "명사",
+   "meaning": "철저함",
+   "en": "Her thoroughness makes her a great scientist.",
+   "ko": "그녀의 철저함이 그녀를 훌륭한 과학자로 만들어요."
+  }
+ ],
+ "imageSense": "대표 의미: 방 구석구석을 빠짐없이 청소하는 장면",
+ "imageCaption": "침대 밑, 책장 뒤까지 하나도 빠짐없이 닦아 내는 모습을 떠올려 보세요. 처음부터 끝까지 꿰뚫는 청소예요.",
+ "movieLineEn": "Read the contract thoroughly before you sign it.",
+ "movieLineKo": "서명하기 전에 계약서를 꼼꼼히 읽어.",
+ "storyTitle": "철저한 대청소",
+ "story": "엄마가 방을 thoroughly(철저히) 청소하라고 하셨어요. 나는 thorough(철저한) 탐정처럼 방 throughout(곳곳)을 뒤졌죠. 침대 밑을 through(지나)하는 순간 놀라운 걸 발견했어요. 작년에 잃어버린 만 원과 반쪽짜리 과자였어요. 만 원은 챙기고 과자는 버렸어요. 청소는 그걸로 끝이었답니다!"
+}

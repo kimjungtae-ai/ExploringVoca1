@@ -1,0 +1,68 @@
+{
+ "word": "complete",
+ "pos": "형용사 / 동사",
+ "phonetic": "[kəmˈpliːt]",
+ "meaning": "완전한, 완료된 / 완료하다, 완성하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plete",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 plere(채우다)의 과거분사 pletus에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>plete</strong> (채우다) = '가득 채운'이라는 데서 <strong>'완전한, 완성하다'</strong>가 되었습니다.",
+ "historyTitle": "그릇을 가득 채우다",
+ "historyBody": "라틴어 complere는 '가득 채우다'라는 뜻이었고, 그 과거분사 completus가 '채워진, 완성된'이 되었어요. 고대 프랑스어 complet를 거쳐 14세기 영어에 들어왔답니다. 빈 그릇을 끝까지 채우는 그림을 떠올리면 기억하기 쉬워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "completely",
+   "pos": "부사",
+   "meaning": "완전히",
+   "en": "I completely forgot about the meeting.",
+   "ko": "회의를 완전히 잊어버렸어."
+  },
+  {
+   "word": "completion",
+   "pos": "명사",
+   "meaning": "완료, 완성",
+   "en": "The new library is near completion.",
+   "ko": "새 도서관이 거의 완공 단계예요."
+  },
+  {
+   "word": "complement",
+   "pos": "동사/명사",
+   "meaning": "보완하다 / 보완물",
+   "en": "The music complements the movie perfectly.",
+   "ko": "그 음악은 영화를 완벽하게 보완해요."
+  },
+  {
+   "word": "deplete",
+   "pos": "동사",
+   "meaning": "고갈시키다, 대폭 감소시키다",
+   "en": "Overfishing has depleted the ocean's fish.",
+   "ko": "남획이 바다의 물고기를 고갈시켰어요."
+  },
+  {
+   "word": "supplement",
+   "pos": "명사/동사",
+   "meaning": "보충(제) / 보충하다",
+   "en": "She supplements her diet with fresh fruit.",
+   "ko": "그녀는 신선한 과일로 식단을 보충해요."
+  }
+ ],
+ "imageSense": "대표 의미: 마지막 블록을 끼워 넣어 성을 완성하는 장면",
+ "imageCaption": "빈 곳 없이 꽉(com-) 채워진(plete) 모습을 떠올려 보세요.",
+ "movieLineEn": "Mission complete. Let's go home.",
+ "movieLineKo": "임무 완료. 집에 가자.",
+ "storyTitle": "완벽한 숙제",
+ "story": "나는 밤새 숙제를 complete(완성하다)했어요. 하나도 빼놓지 않고 completely(완전히) 끝냈죠. completion(완성)의 기쁨에 잠들었는데, 아침에 보니 내 에너지는 완전히 deplete(고갈되다)되어 있었어요. 그리고 알고 보니 그 숙제는 다음 주 것이었답니다."
+}

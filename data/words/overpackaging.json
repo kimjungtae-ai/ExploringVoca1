@@ -1,0 +1,80 @@
+{
+ "word": "overpackaging",
+ "pos": "명사",
+ "phonetic": "[ˌoʊvərˈpækɪdʒɪŋ]",
+ "meaning": "과대 포장, 과잉 포장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pack",
+   "meaning": "꾸러미, 싸다 (pack)",
+   "note": "중세 네덜란드어나 저지 독일어 pak(꾸러미)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-age",
+   "meaning": "~하는 것, 결과물 (명사)",
+   "note": "동작이나 그 결과물을 나타내는 명사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "행위나 그 재료를 나타내요."
+  }
+ ],
+ "summary": "<strong>over-</strong> (지나치게) + <strong>pack</strong> (싸다) + <strong>-age</strong> + <strong>-ing</strong> (~하는 것) = <strong>'과대 포장'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "환경 문제로 떠오른 새말",
+ "historyBody": "pack은 13세기 무렵 중세 네덜란드어나 저지 독일어 pak(꾸러미)에서 영어로 들어왔는데, 그보다 더 오래된 기원은 확실하지 않아요. packaging(포장)은 20세기 초에 널리 쓰였고, overpackaging은 쓰레기 문제가 커지면서 쓰이게 된 비교적 새로운 말이에요. 환경 관련 수능 지문에서 볼 수 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pack",
+   "pos": "동사 / 명사",
+   "meaning": "싸다, 챙기다 / 꾸러미, 무리",
+   "en": "Did you pack your swimsuit for the trip?",
+   "ko": "여행 갈 때 수영복 챙겼니?"
+  },
+  {
+   "word": "package",
+   "pos": "명사",
+   "meaning": "소포, 포장물, 일괄",
+   "en": "A package arrived for you this morning.",
+   "ko": "오늘 아침에 너한테 소포가 왔어."
+  },
+  {
+   "word": "packet",
+   "pos": "명사",
+   "meaning": "(작은) 봉지, 갑",
+   "en": "He opened a packet of seeds and planted them.",
+   "ko": "그는 씨앗 한 봉지를 뜯어서 심었어요."
+  },
+  {
+   "word": "unpack",
+   "pos": "동사",
+   "meaning": "(짐을) 풀다",
+   "en": "I was too tired to unpack after the trip.",
+   "ko": "여행 후에 너무 피곤해서 짐을 풀 수가 없었어요."
+  },
+  {
+   "word": "backpack",
+   "pos": "명사",
+   "meaning": "배낭",
+   "en": "She carries a heavy backpack to school every day.",
+   "ko": "그녀는 매일 무거운 배낭을 메고 학교에 가요."
+  }
+ ],
+ "imageSense": "대표 의미: 과자 한 봉지를 열었더니 질소와 상자만 가득한 장면",
+ "imageCaption": "커다란 상자 속 작은 과자 하나를 떠올려 보세요. 내용물보다 포장이 훨씬 많은 게 overpackaging이에요.",
+ "movieLineEn": "All this plastic for one tiny cookie? That's overpackaging at its worst!",
+ "movieLineKo": "쿠키 하나에 이 플라스틱이 다 필요해? 최악의 과대 포장이네!",
+ "storyTitle": "질소 과자의 비밀",
+ "story": "형이 택배 package(소포)를 받았어요. unpack(풀다)해 보니 상자 안에 또 상자가 있었죠. 끝없는 overpackaging(과대 포장)에 화가 났지만, 마지막 packet(봉지) 안엔 과자 한 조각뿐이었어요. 그런데 쪽지가 있었어요. '포장재를 모아 오시면 과자 100개 증정!'"
+}

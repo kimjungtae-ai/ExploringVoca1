@@ -1,0 +1,55 @@
+{
+ "word": "leash",
+ "pos": "명사 / 동사",
+ "phonetic": "[liːʃ]",
+ "meaning": "(개 등의) 목줄 / 목줄을 매다, 억제하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "leash",
+   "meaning": "느슨하게 하다, 놓아주다 (loosen)",
+   "note": "고대 프랑스어 laisse(사냥개 줄)에서, 라틴어 laxus(느슨한)에서 왔어요."
+  }
+ ],
+ "summary": "라틴어 <strong>laxus</strong> (느슨한) → 고대 프랑스어 <strong>laisse</strong> (느슨하게 잡은 사냥개 줄) = <strong>'목줄'</strong>이 되었어요.",
+ "historyTitle": "사냥개를 느슨하게 잡던 줄",
+ "historyBody": "leash는 고대 프랑스어 laisse('사냥개 줄')에서 왔어요. 이는 laissier('놓아주다, 풀어 주다')에서 나온 말이고, 그 뿌리는 라틴어 laxare('느슨하게 하다')와 laxus('느슨한')예요. 사냥할 때 개를 느슨하게 붙잡고 있다가 풀어 주던 줄을 떠올리면 돼요. relax와 release가 같은 집안이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "relax",
+   "pos": "동사",
+   "meaning": "휴식을 취하다, 긴장을 풀다",
+   "en": "I listen to music to relax after school.",
+   "ko": "나는 방과 후에 쉬려고 음악을 들어요."
+  },
+  {
+   "word": "release",
+   "pos": "동사 / 명사",
+   "meaning": "풀어 주다, 발표하다 / 석방, 출시",
+   "en": "The band will release a new song next week.",
+   "ko": "그 밴드는 다음 주에 새 노래를 발표할 거예요."
+  },
+  {
+   "word": "relaxation",
+   "pos": "명사",
+   "meaning": "휴식, 완화",
+   "en": "Yoga is a good way of relaxation.",
+   "ko": "요가는 좋은 휴식 방법이에요."
+  },
+  {
+   "word": "lax",
+   "pos": "형용사",
+   "meaning": "느슨한, 해이한",
+   "en": "Security at the gate was too lax.",
+   "ko": "정문의 보안이 너무 허술했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공원에서 강아지 목줄을 잡고 산책하는 장면",
+ "imageCaption": "강아지가 신나서 앞으로 달려가는데, 손에 쥔 줄이 팽팽해지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Keep your dog on a leash, please. My cat is nervous.",
+ "movieLineKo": "개 목줄 좀 잡아 주세요. 우리 고양이가 불안해해요.",
+ "storyTitle": "누가 누구를 산책시키나",
+ "story": "민수는 강아지에게 leash(목줄)를 매고 공원에 갔어요. 그런데 강아지가 너무 세게 달려 민수가 끌려다녔죠. 겨우 벤치에 앉아 relax(긴장을 풀다)하려는 순간, 강아지가 목줄을 release(풀어 주다)하듯 민수 손에서 빼냈어요. 그리고 목줄을 물고 민수 목에 걸어 주었답니다."
+}

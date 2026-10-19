@@ -1,0 +1,67 @@
+{
+ "word": "optical",
+ "pos": "형용사",
+ "phonetic": "[ˈɑːptɪkl]",
+ "meaning": "시각의, 광학의, 눈의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "opt",
+   "meaning": "보다, 눈의 (see)",
+   "note": "그리스어 optos(보이는)에서 온 '보는 것'과 관련된 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ic",
+   "meaning": "~에 관한",
+   "note": "'~에 관한'이라는 형용사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "형용사 뒤에 한 번 더 붙어 뜻을 분명히 해요."
+  }
+ ],
+ "summary": "<strong>opt</strong> (보다) + <strong>-ic</strong> + <strong>-al</strong> (~에 관한) = '보는 것에 관한'이라는 뜻에서 <strong>'시각의, 광학의'</strong>가 되었어요.",
+ "historyTitle": "그리스 철학자들이 궁금해한 '보는 원리'",
+ "historyBody": "그리스어 optikos는 '보는 것에 관한'이라는 뜻이고, optos(보이는)에서 나왔어요. 고대 그리스 학자 유클리드는 빛과 시각을 다룬 책 'Optics'를 남기기도 했어요. 이 말이 라틴어를 거쳐 16세기 무렵 영어에 들어왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "optics",
+   "pos": "명사",
+   "meaning": "광학",
+   "en": "She studied optics to understand how lenses bend light.",
+   "ko": "그녀는 렌즈가 빛을 어떻게 굴절시키는지 알기 위해 광학을 공부했어요."
+  },
+  {
+   "word": "optician",
+   "pos": "명사",
+   "meaning": "안경사",
+   "en": "The optician helped me choose glasses that fit my face.",
+   "ko": "안경사가 내 얼굴에 맞는 안경을 고르도록 도와주었어요."
+  },
+  {
+   "word": "synopsis",
+   "pos": "명사",
+   "meaning": "개요, 줄거리 (한눈에 보기)",
+   "en": "Read the synopsis before you choose a movie to watch.",
+   "ko": "볼 영화를 고르기 전에 줄거리 요약을 읽어 보세요."
+  },
+  {
+   "word": "autopsy",
+   "pos": "명사",
+   "meaning": "부검 (직접 눈으로 보기)",
+   "en": "The doctor performed an autopsy to find the cause of death.",
+   "ko": "의사는 사망 원인을 찾기 위해 부검을 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 안경 렌즈를 통과한 빛이 눈으로 들어오는 장면",
+ "imageCaption": "돋보기 렌즈로 햇빛이 모이는 모습을 떠올려 보세요. '보는 것과 빛'에 관한 것이 optical이에요.",
+ "movieLineEn": "It's just an optical illusion. The wall isn't really moving.",
+ "movieLineKo": "그건 그냥 착시일 뿐이야. 벽은 진짜로 움직이지 않아.",
+ "storyTitle": "안경점의 미스터리",
+ "story": "안경점 optician(안경사) 아저씨는 optics(광학) 박사예요. 어느 날 손님이 '벽이 움직여요!'라며 놀랐어요. 아저씨는 optical(시각의) 착시라고 설명했죠. 사건 synopsis(개요)를 정리해 보니, 범인은 벽에 붙은 커다란 달팽이였어요!"
+}

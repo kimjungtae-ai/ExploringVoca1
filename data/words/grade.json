@@ -1,0 +1,75 @@
+{
+ "word": "grade",
+ "pos": "명사 / 동사",
+ "phonetic": "[ɡreɪd]",
+ "meaning": "성적, 학년, 등급 / 등급을 매기다, 채점하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "grad",
+   "meaning": "걸음, 단계 (step)",
+   "note": "라틴어 gradus(한 걸음, 계단)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-e",
+   "meaning": "(명사형 어미)",
+   "note": "프랑스어 grade를 거치면서 붙은 끝 글자예요."
+  }
+ ],
+ "summary": "<strong>grad</strong> (걸음, 단계) = 한 계단씩 올라가는 단계라는 뜻에서 <strong>'등급, 학년, 성적'</strong>이 되었어요.",
+ "historyTitle": "로마의 계단에서 시작된 성적표",
+ "historyBody": "라틴어 gradus는 '한 걸음, 계단의 한 칸'을 뜻했어요. 이 말이 프랑스어 grade를 거쳐 16세기에 영어로 들어오며 '단계, 등급'이 되었죠. 학교에서 학년(grade)이나 성적을 매기는 뜻은 그 뒤 미국 영어에서 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "gradual",
+   "pos": "형용사",
+   "meaning": "점진적인, 서서히 일어나는",
+   "en": "There has been a gradual increase in the number of visitors.",
+   "ko": "방문객 수가 점진적으로 늘어 왔어."
+  },
+  {
+   "word": "graduate",
+   "pos": "동사 / 명사",
+   "meaning": "졸업하다 / 졸업생",
+   "en": "My brother will graduate from high school next year.",
+   "ko": "우리 형은 내년에 고등학교를 졸업해."
+  },
+  {
+   "word": "upgrade",
+   "pos": "동사 / 명사",
+   "meaning": "향상시키다, 업그레이드하다",
+   "en": "We need to upgrade our computers for the new program.",
+   "ko": "새 프로그램을 쓰려면 컴퓨터를 업그레이드해야 해."
+  },
+  {
+   "word": "degree",
+   "pos": "명사",
+   "meaning": "정도, 학위, (온도) 도",
+   "en": "It was thirty degrees outside yesterday.",
+   "ko": "어제 바깥 기온은 30도였어."
+  },
+  {
+   "word": "progress",
+   "pos": "명사 / 동사",
+   "meaning": "진보, 진행 / 나아가다",
+   "en": "She made great progress in her English this year.",
+   "ko": "그녀는 올해 영어 실력이 크게 늘었어."
+  },
+  {
+   "word": "ingredient",
+   "pos": "명사",
+   "meaning": "재료, 구성 요소",
+   "en": "Fresh vegetables are the main ingredient of this soup.",
+   "ko": "신선한 채소가 이 수프의 주재료야."
+  }
+ ],
+ "imageSense": "대표 의미: 계단을 한 칸씩 올라가며 학년이 올라가는 장면",
+ "imageCaption": "1학년, 2학년, 3학년… 계단 한 칸 한 칸이 곧 grade라고 생각해 보세요.",
+ "movieLineEn": "This isn't about grades. It's about who you really are.",
+ "movieLineKo": "이건 성적 문제가 아니야. 네가 진짜 어떤 사람인지의 문제지.",
+ "storyTitle": "계단 마니아 거북이",
+ "story": "거북이는 grade(성적)를 올리려고 매일 한 계단씩 gradual(점진적인) 공부를 했어요. 덕분에 progress(진보)가 엄청났죠. 마침내 graduate(졸업하다)하는 날, 비결을 묻자 '성실함이 최고의 ingredient(재료)'라고 했어요. 그런데 사실은 학교 엘리베이터가 3년 내내 고장이었대요!"
+}

@@ -1,0 +1,55 @@
+{
+ "word": "match",
+ "pos": "명사 / 동사",
+ "phonetic": "[mætʃ]",
+ "meaning": "경기, 시합, 맞수, 성냥 / 어울리다, 일치하다, 필적하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "match",
+   "meaning": "짝, 동료 (mate) / 심지 (wick)",
+   "note": "철자는 같지만 기원이 다른 두 단어가 합쳐진 모습이에요."
+  }
+ ],
+ "summary": "<strong>match</strong>는 '짝'을 뜻하던 옛 영어에서 <strong>'어울리다, 경기'</strong>가, 촛불 '심지'를 뜻하던 프랑스어에서 <strong>'성냥'</strong>이 왔습니다.",
+ "historyTitle": "짝꿍과 성냥, 두 개의 match",
+ "historyBody": "'경기, 어울리다'의 match는 고대 영어 gemæcca(짝, 동료, 배우자)에서 왔어요. 서로 짝이 맞는 상대라는 데서 '맞수, 시합'이라는 뜻이 생겼죠. 반면 '성냥'의 match는 고대 프랑스어 meiche(초의 심지)에서 온 전혀 다른 단어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "matching",
+   "pos": "형용사",
+   "meaning": "어울리는, 짝이 맞는",
+   "en": "The twins wore matching jackets.",
+   "ko": "쌍둥이는 똑같은 재킷을 입었어요."
+  },
+  {
+   "word": "mismatch",
+   "pos": "명사",
+   "meaning": "불일치, 어울리지 않음",
+   "en": "There was a mismatch between his words and actions.",
+   "ko": "그의 말과 행동 사이에 불일치가 있었어요."
+  },
+  {
+   "word": "matchless",
+   "pos": "형용사",
+   "meaning": "비길 데 없는",
+   "en": "She sang with matchless beauty.",
+   "ko": "그녀는 비할 데 없이 아름답게 노래했어요."
+  },
+  {
+   "word": "matchmaker",
+   "pos": "명사",
+   "meaning": "중매인",
+   "en": "My aunt acted as a matchmaker for my parents.",
+   "ko": "우리 이모가 부모님의 중매를 섰어요."
+  }
+ ],
+ "imageSense": "대표 의미: 축구 경기장에서 맞붙은 두 팀의 선수들",
+ "imageCaption": "실력이 딱 '짝이 맞는' 두 팀이 맞붙는 모습을 떠올려 보세요. 서로 어울리는 짝, 그게 match예요.",
+ "movieLineEn": "Your shoes don't match. Did you get dressed in the dark?",
+ "movieLineKo": "네 신발 짝이 안 맞아. 깜깜한 데서 옷 입었어?",
+ "storyTitle": "짝짝이 양말의 경기",
+ "story": "축구 match(경기) 날, 주장 민규는 matching(짝이 맞는) 양말을 신지 못했어요. 한쪽은 빨강, 한쪽은 초록! 친구들은 완벽한 mismatch(불일치)라고 놀렸죠. 그런데 그날 민규는 matchless(비길 데 없는) 실력으로 세 골을 넣었어요. 그 후 팀 전원이 짝짝이 양말을 신었답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "pottery",
+ "pos": "명사",
+ "phonetic": "[ˈpɑːtəri]",
+ "meaning": "도자기, 도기, 도예",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pot",
+   "meaning": "단지, 그릇 (pot)",
+   "note": "후기 고대 영어 pott에서 왔고, 더 오래된 기원은 확실하지 않아요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ery",
+   "meaning": "~하는 곳, ~류, 기술",
+   "note": "bakery, jewelry처럼 장소·물건 모음·기술을 나타내요."
+  }
+ ],
+ "summary": "<strong>pot</strong> (그릇) + <strong>-ery</strong> (~류, 기술) = 그릇 만드는 기술이나 그 그릇들, 곧 <strong>'도자기, 도예'</strong>예요.",
+ "historyTitle": "도공의 작업장에서 나온 말",
+ "historyBody": "pottery는 1400년대 고대 프랑스어 poterie(도공의 작업장, 도기)에서 왔고, potier(도공)는 pot(단지)에서 나왔어요. 처음에는 '도자기 공방'을 뜻하다가 '도자기 그릇들', '도예 기술'이라는 뜻으로 넓어졌어요. pot 자체의 더 오래된 기원은 분명하지 않답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "pot",
+   "pos": "명사",
+   "meaning": "냄비, 화분, 항아리",
+   "en": "My mom made soup in a big pot.",
+   "ko": "엄마가 큰 냄비에 국을 끓이셨어요."
+  },
+  {
+   "word": "potter",
+   "pos": "명사",
+   "meaning": "도공, 도예가",
+   "en": "The potter shaped the clay with his hands.",
+   "ko": "도예가는 손으로 진흙 모양을 빚었어요."
+  },
+  {
+   "word": "potted",
+   "pos": "형용사",
+   "meaning": "화분에 심은",
+   "en": "She keeps potted herbs on her kitchen window.",
+   "ko": "그녀는 부엌 창가에 화분 허브를 키워요."
+  },
+  {
+   "word": "teapot",
+   "pos": "명사",
+   "meaning": "찻주전자",
+   "en": "Grandma poured tea from an old teapot.",
+   "ko": "할머니는 오래된 찻주전자로 차를 따르셨어요."
+  },
+  {
+   "word": "flowerpot",
+   "pos": "명사",
+   "meaning": "화분",
+   "en": "I broke a flowerpot while playing soccer.",
+   "ko": "축구하다가 화분을 깨뜨렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 물레 위에서 진흙 그릇을 빚는 손",
+ "imageCaption": "빙글빙글 도는 물레 위에서 진흙이 그릇 모양으로 올라오는 장면을 떠올려 보세요.",
+ "movieLineEn": "You broke my grandmother's pottery? Run!",
+ "movieLineKo": "네가 우리 할머니 도자기를 깼다고? 도망쳐!",
+ "storyTitle": "도예 수업의 걸작",
+ "story": "pottery(도예) 수업에서 민지는 멋진 teapot(찻주전자)을 만들려고 했어요. 그런데 물레가 너무 빨라서 납작한 접시가 됐죠. 다시 해 보니 이번엔 구멍 난 pot(항아리)! potter(도예가) 선생님이 웃으며 말했어요. \"훌륭한 flowerpot(화분)이구나.\" 구멍은 물 빠짐용이 됐대요."
+}

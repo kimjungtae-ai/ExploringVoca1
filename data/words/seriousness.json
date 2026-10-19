@@ -1,0 +1,47 @@
+{
+ "word": "seriousness",
+ "pos": "명사",
+ "phonetic": "[ˈsɪriəsnəs]",
+ "meaning": "진지함, 심각성, 중대함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "serious",
+   "meaning": "진지한, 심각한 (serious)",
+   "note": "라틴어 'serius'에서 왔지만 그 이전 기원은 불확실해요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~함, ~한 상태 (명사)",
+   "note": "형용사를 '상태'를 뜻하는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>serious</strong> (심각한) + <strong>-ness</strong> (~함) = <strong>'심각성, 진지함'</strong>이에요.",
+ "historyTitle": "기원이 수수께끼인 '무거운' 말",
+ "historyBody": "라틴어 'serius'는 '무거운, 진지한'을 뜻했고, 후기 라틴어 'seriosus'와 고대 프랑스어를 거쳐 영어로 들어왔어요. 다만 serius 자체가 어디서 왔는지는 학자들 사이에서도 확실하지 않아요. 그래서 이 단어는 뿌리를 더 쪼개기보다 '진지한'이라는 덩어리로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "serious",
+   "pos": "형용사",
+   "meaning": "심각한, 진지한",
+   "en": "He made a serious mistake on the test.",
+   "ko": "그는 시험에서 심각한 실수를 했어요."
+  },
+  {
+   "word": "seriously",
+   "pos": "부사",
+   "meaning": "진지하게, 심각하게",
+   "en": "Many people were seriously injured in the accident.",
+   "ko": "그 사고로 많은 사람들이 심하게 다쳤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뉴스 앵커가 굳은 표정으로 재난 소식을 전하는 장면",
+ "imageCaption": "모두가 숨죽이고 문제의 무게를 느끼는 회의실 분위기를 떠올려 보세요.",
+ "movieLineEn": "You don't understand the seriousness of this situation!",
+ "movieLineKo": "너는 이 상황의 심각성을 모르는구나!",
+ "storyTitle": "할아버지의 심각한 표정",
+ "story": "할아버지가 serious(심각한) 얼굴로 가족을 모으셨어요. 그 seriousness(심각성)에 다들 긴장했죠. 할아버지는 seriously(진지하게) 말씀하셨어요. \"리모컨이 사라졌다.\" 온 가족이 수색한 끝에 찾은 곳은 할아버지 serious(진지한) 주머니 속!"
+}

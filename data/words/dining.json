@@ -1,0 +1,54 @@
+{
+ "word": "dining",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ˈdaɪnɪŋ]",
+ "meaning": "식사, 정찬 / 식사용의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "dine",
+   "meaning": "식사하다 (dine)",
+   "note": "고대 프랑스어 disner(식사하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 / ~용의",
+   "note": "동사를 명사나 형용사처럼 쓰게 해요."
+  }
+ ],
+ "summary": "<strong>dine</strong> (식사하다) + <strong>-ing</strong> = '식사하는 것, 식사용의'에서 <strong>'식사, 정찬'</strong>이 되었어요.",
+ "historyTitle": "'금식을 깨다'에서 온 저녁 식사",
+ "historyBody": "dine은 고대 프랑스어 disner에서 왔는데, 이 말은 '금식을 깨다'라는 뜻의 통속 라틴어 *disjejunare에서 나왔다고 봐요. 그래서 원래는 하루의 첫 식사를 뜻했고, dinner(정찬)도 같은 말에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dine",
+   "pos": "동사",
+   "meaning": "식사하다",
+   "en": "We dined at a small Italian restaurant.",
+   "ko": "우리는 작은 이탈리아 식당에서 식사했어요."
+  },
+  {
+   "word": "dinner",
+   "pos": "명사",
+   "meaning": "저녁 식사, 정찬",
+   "en": "What did you have for dinner?",
+   "ko": "저녁으로 뭐 먹었어?"
+  },
+  {
+   "word": "diner",
+   "pos": "명사",
+   "meaning": "식사하는 사람, 간이식당",
+   "en": "The diner on the corner serves great pancakes.",
+   "ko": "모퉁이에 있는 간이식당은 팬케이크가 맛있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가족이 식탁(dining table)에 둘러앉아 저녁을 먹는 장면",
+ "imageCaption": "따뜻한 조명 아래 식탁에 음식이 차려진 식당(dining room)을 떠올려 보세요.",
+ "movieLineEn": "Welcome to the finest dining experience in town.",
+ "movieLineKo": "이 동네 최고의 식사 경험에 오신 걸 환영합니다.",
+ "storyTitle": "고급 정찬의 진실",
+ "story": "아빠가 고급 dining(정찬) 레스토랑에 예약했다며 dinner(저녁 식사)를 기대하라고 했어요. 우리 가족은 정장까지 입고 dine(식사하다)하러 갔죠. 도착한 곳은 동네 diner(간이식당)! 그런데 그 집 김치볶음밥이 세상에서 제일 맛있었어요."
+}

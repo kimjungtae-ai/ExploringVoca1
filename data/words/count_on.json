@@ -1,0 +1,68 @@
+{
+ "word": "count on",
+ "pos": "구동사",
+ "phonetic": "[kaʊnt ɑːn]",
+ "meaning": "~에 의지하다, ~을 믿다, ~을 기대하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "count",
+   "meaning": "세다, 계산에 넣다 (count)",
+   "note": "무엇을 '계산에 넣는다'는 데서 믿고 기대한다는 느낌이 나와요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~위에, ~에 기대어 (on)",
+   "note": "무언가 위에 몸을 '기대는' 의지의 이미지예요."
+  }
+ ],
+ "summary": "<strong>count</strong> (계산에 넣다) + <strong>on</strong> (~에 기대어) = '~을 믿고 계산에 넣어 기대다'에서 <strong>'~에 의지하다, 믿다'</strong>",
+ "historyTitle": "계산에 넣을 만큼 믿을 수 있는",
+ "historyBody": "count는 라틴어 'computare(계산하다)'에서 왔어요. 어떤 사람을 내 계획에 '계산해 넣는다'는 것은 그 사람이 반드시 해 줄 거라고 믿는다는 뜻이죠. 여기에 기대어 붙는 on이 더해져 '~에 의지하다'라는 뜻이 되었어요. rely on, depend on과 같은 뜻으로 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rely on",
+   "pos": "구동사",
+   "meaning": "~에 의지하다",
+   "en": "Many students rely on their phones for information.",
+   "ko": "많은 학생이 정보를 얻으려고 휴대폰에 의지해요."
+  },
+  {
+   "word": "depend on",
+   "pos": "구동사",
+   "meaning": "~에 의존하다, ~에 달려 있다",
+   "en": "Success depends on your effort.",
+   "ko": "성공은 너의 노력에 달려 있어."
+  },
+  {
+   "word": "lean on",
+   "pos": "구동사",
+   "meaning": "~에 기대다",
+   "en": "You can lean on me when you're sad.",
+   "ko": "슬플 때 나한테 기대도 돼."
+  },
+  {
+   "word": "trust",
+   "pos": "동사",
+   "meaning": "믿다, 신뢰하다",
+   "en": "I trust my best friend completely.",
+   "ko": "나는 내 단짝을 완전히 믿어."
+  },
+  {
+   "word": "reliable",
+   "pos": "형용사",
+   "meaning": "믿을 만한",
+   "en": "He is a reliable teammate.",
+   "ko": "그는 믿을 만한 팀원이야."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어지려는 친구를 옆에서 든든하게 붙잡아 주는 장면",
+ "imageCaption": "힘든 순간 어깨를 내어 주는 친구, 그 친구가 바로 내가 count on 할 수 있는 사람이에요.",
+ "movieLineEn": "Don't worry. You can count on me.",
+ "movieLineKo": "걱정 마. 나만 믿어.",
+ "storyTitle": "믿음직한 친구",
+ "story": "시험 전날, 서준이는 공부를 친구에게 count on(의지하다)했어요. \"너만 rely on(의지하다)할게!\" 친구는 reliable(믿을 만한) 표정으로 노트를 빌려줬죠. 서준이는 친구를 trust(믿다)하며 밤새 노트를 외웠어요. 그런데 다음 날 시험지를 받자 깜짝! 그건 수학 노트였고, 오늘은 영어 시험이었어요."
+}

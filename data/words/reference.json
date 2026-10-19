@@ -1,0 +1,81 @@
+{
+ "word": "reference",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈrefərəns]",
+ "meaning": "언급, 참고, 참조, 추천서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 다시 (back)",
+   "note": "무언가를 다시 가리켜 되돌려 보낸다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 ferre(나르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작이나 상태를 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>fer</strong> (나르다) + <strong>-ence</strong> (명사) = 이야기를 어떤 대상 쪽으로 다시 날라 가는 것, 즉 <strong>'언급, 참고'</strong>예요.",
+ "historyTitle": "생각을 다른 곳으로 '날라' 주는 말",
+ "historyBody": "라틴어 referre는 '다시 나르다, 보고하다, 관련짓다'라는 뜻이었어요. 영어 refer는 '어떤 것을 가리키다, 참고하게 하다'가 되었고, 16세기 말쯤 명사 reference가 생겼어요. ferre 가족에는 offer, transfer, prefer 등이 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "언급하다, 참고하다, 가리키다",
+   "en": "The word 'it' here refers to the old bridge.",
+   "ko": "여기서 'it'은 그 오래된 다리를 가리켜요."
+  },
+  {
+   "word": "prefer",
+   "pos": "동사",
+   "meaning": "더 좋아하다",
+   "en": "I prefer reading books to watching TV.",
+   "ko": "나는 TV 보는 것보다 책 읽는 걸 더 좋아해요."
+  },
+  {
+   "word": "transfer",
+   "pos": "동사 / 명사",
+   "meaning": "옮기다, 환승하다 / 이동",
+   "en": "You need to transfer to another bus at the next stop.",
+   "ko": "다음 정류장에서 다른 버스로 갈아타야 해요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사 / 명사",
+   "meaning": "제공하다 / 제안",
+   "en": "The store offers free delivery on weekends.",
+   "ko": "그 가게는 주말에 무료 배송을 제공해요."
+  },
+  {
+   "word": "differ",
+   "pos": "동사",
+   "meaning": "다르다",
+   "en": "Opinions differ from person to person.",
+   "ko": "의견은 사람마다 달라요."
+  },
+  {
+   "word": "conference",
+   "pos": "명사",
+   "meaning": "회의, 학회",
+   "en": "She gave a speech at an international conference.",
+   "ko": "그녀는 국제 회의에서 연설을 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두꺼운 사전을 펼쳐 놓고 보고서를 쓰는 학생",
+ "imageCaption": "책상 옆에 참고서와 사전을 쌓아 두고 손가락으로 짚어 가며 글을 쓰는 모습을 그려 보세요. 그 참고 자료가 reference예요.",
+ "movieLineEn": "Keep this map for reference. You'll need it.",
+ "movieLineKo": "이 지도는 참고용으로 갖고 있어. 필요할 거야.",
+ "storyTitle": "추천서 소동",
+ "story": "동아리 선배가 reference(추천서)를 써 주겠다고 offer(제안하다)했어요. 나는 화려한 칭찬을 prefer(더 좋아하다)했지만, 선배는 솔직함을 강조했죠. 완성된 추천서는 나를 '간식 반장'이라고 refer(언급하다)하고 있었어요. 그런데 면접관이 웃으며 말했어요. '우리 회사에 딱 필요한 인재군요!'"
+}

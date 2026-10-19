@@ -1,0 +1,48 @@
+{
+ "word": "panic",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈpænɪk]",
+ "meaning": "공황, 극심한 공포, 당황 / 공황 상태에 빠지다, 당황하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "Pan + -ic",
+   "meaning": "목신 판의 (of Pan)",
+   "note": "그리스 신화 속 목동과 숲의 신 판(Pan)의 이름에서 왔어요."
+  }
+ ],
+ "summary": "<strong>Pan</strong> (숲의 신 판) + <strong>-ic</strong> (~의) = '판 신이 일으킨 갑작스러운 공포'라는 뜻에서 <strong>'공황, 극심한 공포'</strong>가 되었어요.",
+ "historyTitle": "숲속에서 들려오는 판 신의 외침",
+ "historyBody": "그리스어 panikos는 '판(Pan) 신의'라는 뜻이에요. 고대 그리스인들은 깊은 숲이나 산에서 이유 없이 갑자기 덮쳐 오는 공포를 판 신의 짓이라고 믿었어요. 이 말이 프랑스어를 거쳐 17세기 영어에 들어왔어요. 참고로 pandemic(전 세계적 유행병)의 pan-은 '모든'이라는 다른 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "panicky",
+   "pos": "형용사",
+   "meaning": "겁에 질린, 당황한",
+   "en": "She felt panicky when she couldn't find her phone.",
+   "ko": "그녀는 휴대폰을 찾지 못하자 겁에 질렸어요."
+  },
+  {
+   "word": "panic-stricken",
+   "pos": "형용사",
+   "meaning": "공포에 질린",
+   "en": "The panic-stricken crowd ran toward the exit.",
+   "ko": "공포에 질린 사람들이 출구 쪽으로 달려갔어요."
+  },
+  {
+   "word": "panicked",
+   "pos": "형용사",
+   "meaning": "당황한, 공황 상태의",
+   "en": "The panicked driver forgot to turn on the lights.",
+   "ko": "당황한 운전자는 전조등 켜는 것을 잊었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숲속에서 갑자기 이상한 소리를 듣고 놀라 달아나는 사람들",
+ "imageCaption": "어두운 숲에서 바스락 소리에 다 같이 '으악!' 하며 뛰는 모습을 떠올려 보세요. 이유 모를 갑작스러운 공포, 그게 panic이에요.",
+ "movieLineEn": "Nobody panic! Stay calm and follow me.",
+ "movieLineKo": "아무도 당황하지 마! 침착하게 날 따라와.",
+ "storyTitle": "시험 전날의 공황",
+ "story": "시험 전날 밤, 나는 panic(공황) 상태에 빠졌어요. 시험 범위를 하나도 안 봤거든요. panicky(겁에 질린) 마음으로 친구에게 전화했더니 친구도 panicked(당황한) 목소리였어요. 그런데 친구가 말했죠. '내일 시험 아니고 다음 주래!' 우린 둘 다 달력 보는 법부터 다시 배워야 했어요."
+}

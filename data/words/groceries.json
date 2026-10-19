@@ -1,0 +1,67 @@
+{
+ "word": "groceries",
+ "pos": "명사 (복수)",
+ "phonetic": "[ˈɡroʊsəriz]",
+ "meaning": "식료품, 장 본 물건",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "groc (← gross)",
+   "meaning": "큰, 대량 (large, wholesale)",
+   "note": "중세 라틴어 grossus(두꺼운, 큰)에서 왔어요. '대량으로' 판다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 사람",
+   "note": "grocer는 원래 '대량으로 파는 상인'이었어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ies (-y의 복수)",
+   "meaning": "~하는 곳·물건들",
+   "note": "grocery는 가게나 그 물건을 뜻하고, 복수형은 '식료품들'이에요."
+  }
+ ],
+ "summary": "<strong>gross</strong> (대량) + <strong>-er</strong> (사람) + <strong>-y</strong> = 대량으로 팔던 상인의 물건에서 <strong>'식료품'</strong>이 되었어요.",
+ "historyTitle": "도매상에서 동네 슈퍼까지",
+ "historyBody": "grocer는 고대 프랑스어 grossier(도매상)에서 왔고, 그 뿌리는 중세 라틴어 grossus(큰, 두꺼운)예요. 처음엔 향신료 같은 물건을 대량(in gross)으로 거래하는 상인을 말했어요. 시간이 지나 식료품 가게 주인이 되었고, 그 가게의 물건이 groceries가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "grocery",
+   "pos": "명사",
+   "meaning": "식료품점, 식료품",
+   "en": "There is a small grocery store near my school.",
+   "ko": "우리 학교 근처에 작은 식료품점이 있어."
+  },
+  {
+   "word": "grocer",
+   "pos": "명사",
+   "meaning": "식료품상",
+   "en": "The grocer gave us some free apples.",
+   "ko": "식료품상 아저씨가 우리에게 사과를 공짜로 주셨어."
+  },
+  {
+   "word": "gross",
+   "pos": "형용사",
+   "meaning": "총~, 역겨운, 큰",
+   "en": "The company's gross income rose last year.",
+   "ko": "그 회사의 총수입은 작년에 늘었어."
+  },
+  {
+   "word": "engross",
+   "pos": "동사",
+   "meaning": "몰두시키다",
+   "en": "He was so engrossed in his book that he missed his stop.",
+   "ko": "그는 책에 너무 몰두해서 내릴 정류장을 놓쳤어."
+  }
+ ],
+ "imageSense": "대표 의미: 장바구니에 우유, 빵, 채소를 가득 담아 들고 오는 장면",
+ "imageCaption": "마트에서 돌아와 식탁 위에 꺼내 놓은 우유, 달걀, 과일 봉투들이 바로 groceries예요.",
+ "movieLineEn": "Can you help me carry the groceries inside?",
+ "movieLineKo": "장 본 거 안으로 옮기는 것 좀 도와줄래?",
+ "storyTitle": "엄마의 심부름",
+ "story": "지우는 grocery(식료품점)에 groceries(식료품)를 사러 갔어요. 게임에 engross(몰두시키다)된 나머지 목록을 잊었죠. 친절한 grocer(식료품상) 아저씨가 '뭘 사러 왔니?' 묻자 '다 주세요!'라고 외쳤어요. 결국 gross(총) 금액이 10만 원! 알고 보니 엄마가 부탁한 건 두부 한 모였대요."
+}

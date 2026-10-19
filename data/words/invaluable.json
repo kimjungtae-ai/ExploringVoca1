@@ -1,0 +1,81 @@
+{
+ "word": "invaluable",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈvæljuəbl]",
+ "meaning": "매우 귀중한, 값을 매길 수 없을 만큼 소중한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "아닌 (not)",
+   "note": "'~할 수 없는'이라는 부정의 뜻을 더해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "value",
+   "meaning": "가치, 값 (worth)",
+   "note": "라틴어 valere(가치가 있다, 힘이 있다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는 (able to be)",
+   "note": "'~할 수 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (아닌) + <strong>value</strong> (값을 매기다) + <strong>-able</strong> (~할 수 있는) = '값을 매길 수 없을 정도로'라는 뜻에서 <strong>'매우 귀중한'</strong>이 되었어요.",
+ "historyTitle": "'가치 없음'이 아니라 '가치를 셀 수 없음'",
+ "historyBody": "invaluable은 16세기 말에 '값을 매길 수 없는'이라는 뜻으로 만들어졌어요. 그래서 '가치 없는'이 아니라 '너무 귀해서 값을 셀 수 없는'이라는 뜻이에요. '가치 없는'은 valueless나 worthless를 쓰니까 수능에서 헷갈리지 않도록 조심하세요!",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "value",
+   "pos": "명사 / 동사",
+   "meaning": "가치 / 소중히 여기다",
+   "en": "My grandmother taught me the value of hard work.",
+   "ko": "할머니는 나에게 노력의 가치를 가르쳐 주셨어요."
+  },
+  {
+   "word": "valuable",
+   "pos": "형용사",
+   "meaning": "귀중한, 값비싼",
+   "en": "Time is more valuable than money.",
+   "ko": "시간은 돈보다 더 귀중해요."
+  },
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "Teachers evaluate students' projects in many ways.",
+   "ko": "선생님들은 학생들의 과제를 여러 방식으로 평가해요."
+  },
+  {
+   "word": "available",
+   "pos": "형용사",
+   "meaning": "이용할 수 있는",
+   "en": "Free Wi-Fi is available in the library.",
+   "ko": "도서관에서는 무료 와이파이를 이용할 수 있어요."
+  },
+  {
+   "word": "valid",
+   "pos": "형용사",
+   "meaning": "유효한, 타당한",
+   "en": "Your ticket is valid for one month.",
+   "ko": "당신의 표는 한 달 동안 유효해요."
+  },
+  {
+   "word": "equivalent",
+   "pos": "형용사 / 명사",
+   "meaning": "동등한 / 같은 것",
+   "en": "One dollar is roughly equivalent to 1,300 won.",
+   "ko": "1달러는 대략 1,300원과 같아요."
+  }
+ ],
+ "imageSense": "대표 의미: 가격표를 붙일 수 없을 만큼 소중한 할머니의 낡은 편지",
+ "imageCaption": "가게 주인이 편지에 가격을 붙이려다 '이건 값을 못 매기겠네요'하고 고개를 젓는 모습을 떠올려 보세요.",
+ "movieLineEn": "Your help has been invaluable. We couldn't have won without you.",
+ "movieLineKo": "네 도움은 정말 귀중했어. 너 없이는 못 이겼을 거야.",
+ "storyTitle": "보물 상자의 정체",
+ "story": "해적이 보물 상자를 열고 value(가치)를 evaluate(평가하다)해 달라고 했어요. 감정사는 '이건 invaluable(매우 귀중한)이에요!'라고 외쳤죠. 해적은 금화가 가득한 줄 알았지만, 안에는 엄마가 써 준 '밥 잘 챙겨 먹어' 편지뿐이었어요. 해적은 울면서 말했어요. '맞아, 이게 제일 valuable(귀중한)이지.'"
+}

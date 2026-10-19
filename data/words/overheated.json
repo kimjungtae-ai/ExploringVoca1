@@ -1,0 +1,67 @@
+{
+ "word": "overheated",
+ "pos": "형용사",
+ "phonetic": "[ˌoʊvərˈhiːtɪd]",
+ "meaning": "과열된, 지나치게 뜨거워진, (감정이) 격앙된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "heat",
+   "meaning": "열, 가열하다 (heat)",
+   "note": "고대 영어 hætu(열)에서 왔고, hot과 형제예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사)",
+   "note": "'~된 상태'를 나타내요."
+  }
+ ],
+ "summary": "<strong>over-</strong> (지나치게) + <strong>heat</strong> (가열하다) + <strong>-ed</strong> (~된) = <strong>'과열된'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "hot과 heat의 오랜 인연",
+ "historyBody": "heat는 고대 영어 hætu에서 왔고, 형용사 hot(고대 영어 hat)과 같은 뿌리를 가진 게르만계 단어예요. 여기에 over-(지나치게)가 붙어 overheat가 되었어요. 기계뿐 아니라 '과열된 경제'나 '격앙된 논쟁'처럼 비유적으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "heat",
+   "pos": "명사 / 동사",
+   "meaning": "열, 더위 / 데우다",
+   "en": "The heat in August was hard to bear.",
+   "ko": "8월의 더위는 견디기 힘들었어요."
+  },
+  {
+   "word": "heater",
+   "pos": "명사",
+   "meaning": "난방기, 히터",
+   "en": "Turn on the heater; it's freezing in here.",
+   "ko": "히터 좀 켜 줘. 여기 너무 추워."
+  },
+  {
+   "word": "hot",
+   "pos": "형용사",
+   "meaning": "뜨거운, 더운",
+   "en": "Be careful, the soup is very hot.",
+   "ko": "조심해, 수프가 아주 뜨거워."
+  },
+  {
+   "word": "preheat",
+   "pos": "동사",
+   "meaning": "예열하다",
+   "en": "Preheat the oven to 180 degrees before baking.",
+   "ko": "굽기 전에 오븐을 180도로 예열하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 노트북에서 김이 모락모락 나고 팬이 윙윙 도는 장면",
+ "imageCaption": "게임을 너무 오래 해서 뜨끈뜨끈해진 노트북을 떠올려 보세요. 열이 지나치게 오른 상태가 overheated예요.",
+ "movieLineEn": "The engine's overheated! We need to stop now!",
+ "movieLineKo": "엔진이 과열됐어! 지금 당장 멈춰야 해!",
+ "storyTitle": "과열된 토론 시간",
+ "story": "토론 시간, '탕수육은 부먹이냐 찍먹이냐' 문제로 교실이 overheated(과열된) 상태가 됐어요. 열기가 heat(열)처럼 올라 hot(뜨거운) 공기가 가득했죠. 선생님이 heater(난방기)를 끄자 조용해졌어요. 사실 난방기가 범인이었거든요!"
+}

@@ -1,0 +1,74 @@
+{
+ "word": "supplement",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈsʌplɪmənt]",
+ "meaning": "보충(제), 부록 / 보충하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sup- (sub-)",
+   "meaning": "아래에서 위로 (under, up)",
+   "note": "sub-가 p 앞에서 sup-으로 바뀌었어요. '아래부터 채워 올린다'는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ple",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 plere(채우다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "결과나 수단을 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>sup-</strong> (아래부터) + <strong>ple</strong> (채우다) + <strong>-ment</strong> (~것) = '모자란 것을 채우는 것'에서 <strong>'보충(제), 보충하다'</strong>가 되었어요.",
+ "historyTitle": "빈 곳을 채우는 것",
+ "historyBody": "라틴어 supplementum은 supplere(채우다, 완성하다)에서 나왔고, 원래 군대의 부족한 병력을 채우는 '보충병'을 가리키기도 했어요. 영어에서는 책의 부록, 영양 보충제처럼 '부족한 걸 채우는 것'을 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "supply",
+   "pos": "동사 / 명사",
+   "meaning": "공급하다 / 공급, 물품",
+   "en": "The farm supplies fresh vegetables to the school.",
+   "ko": "그 농장은 학교에 신선한 채소를 공급해요."
+  },
+  {
+   "word": "complement",
+   "pos": "동사 / 명사",
+   "meaning": "보완하다 / 보완물",
+   "en": "The two singers' voices complement each other.",
+   "ko": "두 가수의 목소리는 서로를 잘 보완해요."
+  },
+  {
+   "word": "complete",
+   "pos": "형용사 / 동사",
+   "meaning": "완전한 / 완성하다",
+   "en": "I finally completed my science project.",
+   "ko": "나는 마침내 과학 프로젝트를 완성했어요."
+  },
+  {
+   "word": "plenty",
+   "pos": "명사",
+   "meaning": "풍부함, 많음",
+   "en": "Don't worry, we have plenty of time.",
+   "ko": "걱정 마, 시간은 충분해."
+  },
+  {
+   "word": "implement",
+   "pos": "동사",
+   "meaning": "시행하다",
+   "en": "The city will implement a new recycling plan.",
+   "ko": "시는 새로운 재활용 계획을 시행할 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 식사 후 비타민 보충제를 먹는 장면",
+ "imageCaption": "아침 식사 옆에 놓인 비타민 알약을 떠올려 보세요. 식사로 부족한 영양을 '채워 주는' 보충제예요.",
+ "movieLineEn": "These vitamins are just a supplement, not a meal!",
+ "movieLineKo": "이 비타민은 보충제일 뿐이지 식사가 아니야!",
+ "storyTitle": "영양제 다이어트",
+ "story": "삼촌은 밥 대신 supplement(보충제)만 먹겠다고 선언했어요. 비타민, 단백질, 철분까지 plenty(풍부함)하게 사서 계획을 implement(시행하다)했죠. 사흘 뒤 삼촌은 영양제로 영양을 complete(완전한)하게 채웠다며 자랑했어요. 그런데 냉장고를 열어 보니 치킨 박스가 세 개나 있었답니다!"
+}

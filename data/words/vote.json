@@ -1,0 +1,55 @@
+{
+ "word": "vote",
+ "pos": "동사 / 명사",
+ "phonetic": "[voʊt]",
+ "meaning": "투표하다 / 투표, 표",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vote (← 라틴어 votum)",
+   "meaning": "맹세, 소망 (vow, wish)",
+   "note": "라틴어 votum(맹세, 소원)에서 왔어요. 영어 안에서는 더 나누기 어려워요."
+  }
+ ],
+ "summary": "라틴어 <strong>votum</strong> (맹세, 소망)에서 '자신의 바람을 밝히다'라는 뜻이 되어 <strong>'투표하다, 투표'</strong>가 되었어요.",
+ "historyTitle": "신에게 바친 맹세에서 투표로",
+ "historyBody": "라틴어 votum은 vovere(맹세하다)에서 나온 말로, 신에게 하는 '맹세, 소원'을 뜻했어요. 여기서 '자신의 바람을 공식적으로 밝히다'라는 뜻이 생겨 15세기 영어에 vote로 들어왔어요. 같은 뿌리인 vow는 지금도 '맹세'라는 뜻으로 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vow",
+   "pos": "명사 / 동사",
+   "meaning": "맹세 / 맹세하다",
+   "en": "He made a vow to study harder this year.",
+   "ko": "그는 올해 더 열심히 공부하겠다고 맹세했어요."
+  },
+  {
+   "word": "devote",
+   "pos": "동사",
+   "meaning": "바치다, 헌신하다",
+   "en": "She devoted her life to helping children.",
+   "ko": "그녀는 아이들을 돕는 데 평생을 바쳤어요."
+  },
+  {
+   "word": "devotion",
+   "pos": "명사",
+   "meaning": "헌신, 전념",
+   "en": "The team's devotion to practice was amazing.",
+   "ko": "그 팀의 연습에 대한 헌신은 놀라웠어요."
+  },
+  {
+   "word": "voter",
+   "pos": "명사",
+   "meaning": "유권자, 투표자",
+   "en": "Young voters care about the environment.",
+   "ko": "젊은 유권자들은 환경에 관심이 많아요."
+  }
+ ],
+ "imageSense": "대표 의미: 투표함에 종이를 넣는 사람들",
+ "imageCaption": "줄을 서서 차례로 투표용지를 투표함에 넣는 모습을 떠올려 보세요. 한 표 한 표가 소망을 담은 목소리예요.",
+ "movieLineEn": "Every vote counts. Don't let anyone tell you otherwise.",
+ "movieLineKo": "모든 표가 중요해. 누가 다르게 말해도 믿지 마.",
+ "storyTitle": "급식 메뉴 선거",
+ "story": "학교에서 급식 메뉴를 vote(투표하다)로 정하기로 했어요. 민호는 voter(유권자)들에게 치킨을 약속하며 vow(맹세)했죠. 그는 선거에 모든 시간을 devote(바치다)했어요. 결과는 압승! 그런데 첫 메뉴로 나온 건 '치킨 맛 브로콜리'였어요. 영양사 선생님의 반전이었죠."
+}

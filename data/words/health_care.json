@@ -1,0 +1,68 @@
+{
+ "word": "health care",
+ "pos": "명사구",
+ "phonetic": "[ˈhelθ ker]",
+ "meaning": "의료 서비스, 건강 관리, 보건",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "health",
+   "meaning": "건강 (health)",
+   "note": "무엇을 돌보는지, 즉 '건강'을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "care",
+   "meaning": "돌봄, 관리 (care)",
+   "note": "'돌보고 관리한다'는 핵심 뜻을 맡아요."
+  }
+ ],
+ "summary": "<strong>health</strong> (건강) + <strong>care</strong> (돌봄) = '건강을 돌보는 일'에서 <strong>'의료 서비스, 보건'</strong>",
+ "historyTitle": "'온전함'에서 온 health",
+ "historyBody": "health는 고대 영어 hǣlþ에서 왔는데, hāl(온전한, 다치지 않은)과 관련 있어요. whole(전체의), heal(치유하다)도 같은 뿌리랍니다. care는 고대 영어 caru(걱정, 근심)에서 와서 '마음 쓰다, 돌보다'가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "healthy",
+   "pos": "형용사",
+   "meaning": "건강한, 건강에 좋은",
+   "en": "Eating vegetables keeps you healthy.",
+   "ko": "채소를 먹으면 건강을 유지할 수 있어."
+  },
+  {
+   "word": "heal",
+   "pos": "동사",
+   "meaning": "치유하다, 낫다",
+   "en": "The wound healed in a week.",
+   "ko": "상처가 일주일 만에 나았어."
+  },
+  {
+   "word": "whole",
+   "pos": "형용사",
+   "meaning": "전체의, 온전한",
+   "en": "I read the whole book in one day.",
+   "ko": "나는 하루 만에 책 한 권을 다 읽었어."
+  },
+  {
+   "word": "take care of",
+   "pos": "숙어",
+   "meaning": "~을 돌보다",
+   "en": "Who will take care of your dog during the trip?",
+   "ko": "여행 동안 누가 네 개를 돌봐 줄 거야?"
+  },
+  {
+   "word": "caregiver",
+   "pos": "명사",
+   "meaning": "돌보는 사람, 간병인",
+   "en": "She works as a caregiver for elderly people.",
+   "ko": "그녀는 노인 간병인으로 일해."
+  }
+ ],
+ "imageSense": "대표 의미: 병원에서 의사와 간호사가 환자를 돌보는 장면",
+ "imageCaption": "건강(health)을 정성껏 돌보는(care) 병원과 보건소의 모습을 떠올려 보세요.",
+ "movieLineEn": "Everyone deserves good health care, no matter how much money they have.",
+ "movieLineKo": "돈이 얼마나 있든 누구나 좋은 의료 서비스를 받을 자격이 있어.",
+ "storyTitle": "할머니의 건강 비결",
+ "story": "health care(의료 서비스) 기자가 100세 할머니께 healthy(건강한) 비결을 물었어요. 할머니는 매일 고양이를 take care of(~을 돌보다) 하는 게 비결이라 하셨죠. 상처도 금방 heal(낫다) 된대요. 그런데 옆에서 고양이가 말했어요. \"사실 돌봄 받는 건 할머니 쪽이에요. 저는 caregiver(간병인)고요.\""
+}

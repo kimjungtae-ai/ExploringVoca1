@@ -1,0 +1,61 @@
+{
+ "word": "debate",
+ "pos": "명사 / 동사",
+ "phonetic": "[dɪˈbeɪt]",
+ "meaning": "토론, 논쟁 / 토론하다, 논쟁하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로, 완전히 (down, completely)",
+   "note": "상대를 완전히 눌러 버린다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "bate",
+   "meaning": "치다, 때리다 (beat)",
+   "note": "라틴어 battuere(치다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (완전히) + <strong>bate</strong> (치다) = '말로 서로 치고받다'에서 <strong>'토론, 논쟁'</strong>이 되었어요.",
+ "historyTitle": "주먹 싸움에서 말싸움으로",
+ "historyBody": "debate는 고대 프랑스어 debatre(싸우다, 다투다)에서 왔고, 그 뿌리는 라틴어 battuere(치다)예요. 원래 몸으로 싸우는 것을 뜻하다가, 점차 말로 치열하게 겨루는 '토론'의 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "battle",
+   "pos": "명사",
+   "meaning": "전투, 싸움",
+   "en": "The soldiers won the battle after three days.",
+   "ko": "군인들은 사흘 만에 그 전투에서 이겼어요."
+  },
+  {
+   "word": "combat",
+   "pos": "명사 / 동사",
+   "meaning": "전투 / 싸우다, 퇴치하다",
+   "en": "We need new ways to combat climate change.",
+   "ko": "우리는 기후 변화와 싸울 새로운 방법이 필요해요."
+  },
+  {
+   "word": "battery",
+   "pos": "명사",
+   "meaning": "배터리, 포대",
+   "en": "My laptop battery lasts about ten hours.",
+   "ko": "내 노트북 배터리는 약 10시간 가요."
+  },
+  {
+   "word": "abate",
+   "pos": "동사",
+   "meaning": "약해지다, 줄어들다",
+   "en": "We waited inside until the storm abated.",
+   "ko": "우리는 폭풍이 잦아들 때까지 안에서 기다렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 팀이 단상에서 마이크를 잡고 의견을 주고받는 장면",
+ "imageCaption": "찬성팀과 반대팀이 말로 '치고받는' 토론 대회를 떠올려 보세요.",
+ "movieLineEn": "This isn't a debate. Just do what I say!",
+ "movieLineKo": "이건 토론할 문제가 아니야. 그냥 내 말대로 해!",
+ "storyTitle": "급식 메뉴 대토론회",
+ "story": "학생회는 '급식에 떡볶이 vs 짜장면'을 두고 debate(토론)를 열었어요. 분위기는 거의 battle(전투) 수준! 열기를 combat(진압하다)하려고 선생님이 등장했지만, 마이크 battery(배터리)가 나가 아무도 못 들었죠. 결국 열기가 abate(잦아들다)한 뒤 결론은… 둘 다 먹기!"
+}

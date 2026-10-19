@@ -1,0 +1,75 @@
+{
+ "word": "convert",
+ "pos": "동사",
+ "phonetic": "[kənˈvɜːrt]",
+ "meaning": "전환하다, 바꾸다, 개조하다, 개종하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vert",
+   "meaning": "돌리다 (turn)",
+   "note": "라틴어 vertere(돌리다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>vert</strong> (돌리다) = '완전히 방향을 돌려 놓다'에서 <strong>'전환하다, 바꾸다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 vertere, '방향을 돌리다'",
+ "historyBody": "convert는 라틴어 convertere(완전히 돌리다)에서 왔어요. 중세에는 주로 '종교를 바꾸다(개종하다)'라는 뜻으로 쓰였고, 이후 '형태나 용도를 바꾸다'로 넓어졌어요. vert(돌리다)는 reverse, version, advertise에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "conversion",
+   "pos": "명사",
+   "meaning": "전환, 변환",
+   "en": "The conversion of the old factory into a museum took two years.",
+   "ko": "오래된 공장을 박물관으로 바꾸는 데 2년이 걸렸어요."
+  },
+  {
+   "word": "reverse",
+   "pos": "동사",
+   "meaning": "뒤집다, 되돌리다",
+   "en": "It is hard to reverse climate change.",
+   "ko": "기후 변화를 되돌리는 것은 어려워요."
+  },
+  {
+   "word": "version",
+   "pos": "명사",
+   "meaning": "판, 버전",
+   "en": "Have you downloaded the new version of the game?",
+   "ko": "그 게임 새 버전 다운받았니?"
+  },
+  {
+   "word": "advertise",
+   "pos": "동사",
+   "meaning": "광고하다",
+   "en": "The company advertises its products on social media.",
+   "ko": "그 회사는 소셜 미디어에 제품을 광고해요."
+  },
+  {
+   "word": "diverse",
+   "pos": "형용사",
+   "meaning": "다양한",
+   "en": "Our class has students from diverse backgrounds.",
+   "ko": "우리 반에는 다양한 배경의 학생들이 있어요."
+  },
+  {
+   "word": "vertical",
+   "pos": "형용사",
+   "meaning": "수직의",
+   "en": "Draw a vertical line in the middle of the page.",
+   "ko": "페이지 가운데에 수직선을 그리세요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇빛을 전기로 바꾸는 태양광 패널",
+ "imageCaption": "지붕 위 태양광 패널이 햇빛을 받아 전기로 바꾸는 모습을 떠올려 보세요. 완전히 다른 것으로 '돌려 놓는' 것이 convert예요.",
+ "movieLineEn": "This old car can convert into a flying machine!",
+ "movieLineKo": "이 낡은 차는 비행 기계로 변신할 수 있어!",
+ "storyTitle": "변신 소파의 비밀",
+ "story": "할아버지는 낡은 소파를 침대로 convert(개조하다)했어요. 그 conversion(전환)은 대성공! 그래서 인터넷에 advertise(광고하다)했더니 다양한 version(버전)을 원하는 주문이 쏟아졌죠. 그런데 할아버지는 방법을 잊어버려서, 결국 모든 침대를 reverse(되돌리다)해서 소파로 팔았대요!"
+}

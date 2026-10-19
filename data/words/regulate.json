@@ -1,0 +1,82 @@
+{
+ "word": "regulate",
+ "pos": "동사",
+ "phonetic": "[ˈreɡjuleɪt]",
+ "meaning": "규제하다, 조절하다, 통제하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "regul",
+   "meaning": "자, 규칙 (rule)",
+   "note": "라틴어 regula(곧은 자, 규칙)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다 (동사)",
+   "note": "명사를 동사로 만들어요."
+  }
+ ],
+ "summary": "<strong>regul</strong> (규칙) + <strong>-ate</strong> (~하게 하다) = 규칙에 맞게 만들다, 즉 <strong>'규제하다, 조절하다'</strong>예요.",
+ "historyTitle": "자로 반듯하게 맞추는 일",
+ "historyBody": "regulate는 후기 라틴어 regulare(규칙으로 다스리다)에서 왔고, 그 뿌리는 regula(자, 규칙)예요. 처음에는 '규칙으로 통제하다'라는 뜻이었고, 나중에는 기계나 몸의 상태를 '알맞게 조절하다'라는 뜻으로도 쓰이게 되었어요. 수능 지문에서는 체온이나 감정을 조절한다는 문장에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regulation",
+   "pos": "명사",
+   "meaning": "규정, 규제, 조절",
+   "en": "Fishing regulations protect young fish.",
+   "ko": "어업 규정은 어린 물고기를 보호해요."
+  },
+  {
+   "word": "regular",
+   "pos": "형용사",
+   "meaning": "규칙적인",
+   "en": "Make it a habit to take regular breaks.",
+   "ko": "규칙적으로 쉬는 것을 습관으로 만드세요."
+  },
+  {
+   "word": "regularly",
+   "pos": "부사",
+   "meaning": "규칙적으로",
+   "en": "Wash your hands regularly to prevent colds.",
+   "ko": "감기를 예방하려면 손을 자주 씻으세요."
+  },
+  {
+   "word": "regulator",
+   "pos": "명사",
+   "meaning": "조절 장치, 규제 기관",
+   "en": "The regulator controls the pressure of the gas.",
+   "ko": "조절 장치가 가스 압력을 제어해요."
+  },
+  {
+   "word": "rule",
+   "pos": "명사 / 동사",
+   "meaning": "규칙 / 다스리다",
+   "en": "Everyone must follow the school rules.",
+   "ko": "모든 사람은 학교 규칙을 따라야 해요."
+  },
+  {
+   "word": "region",
+   "pos": "명사",
+   "meaning": "지역",
+   "en": "This region is famous for its apples.",
+   "ko": "이 지역은 사과로 유명해요."
+  },
+  {
+   "word": "reign",
+   "pos": "명사 / 동사",
+   "meaning": "통치 / 통치하다",
+   "en": "Queen Victoria's reign lasted over sixty years.",
+   "ko": "빅토리아 여왕의 통치는 60년 넘게 이어졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 에어컨 온도 조절기를 돌려 알맞은 온도로 맞추는 손",
+ "imageCaption": "너무 덥지도 춥지도 않게 온도 조절기 다이얼을 딱 맞추는 장면을 떠올려 보세요. 규칙에 맞게 조절하는 것이 regulate예요.",
+ "movieLineEn": "Someone has to regulate this chaos!",
+ "movieLineKo": "누군가는 이 혼돈을 통제해야 해!",
+ "storyTitle": "에어컨 전쟁",
+ "story": "여름마다 우리 반은 에어컨 온도를 두고 싸웠어요. 결국 반장이 regulation(규정)을 만들어 온도를 regulate(조절하다)하기로 했죠. 모두 rule(규칙)에 따라 regularly(규칙적으로) 1도씩 바꿨어요. 평화가 찾아온 순간, 선생님이 들어와 말했어요. '그거 사실 고장 나서 리모컨만 바뀌는 거야.'"
+}

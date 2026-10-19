@@ -1,0 +1,81 @@
+{
+ "word": "achievement",
+ "pos": "명사",
+ "phonetic": "[əˈtʃiːvmənt]",
+ "meaning": "성취, 업적, 달성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "a-",
+   "meaning": "~에 (to)",
+   "note": "고대 프랑스어 a(~에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "chieve",
+   "meaning": "머리, 끝 (head)",
+   "note": "고대 프랑스어 chief(머리, 끝)에서 왔고, 라틴어 caput(머리)이 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>a-</strong> (~에) + <strong>chieve</strong> (머리, 끝) + <strong>-ment</strong> = '끝(머리)까지 가서 해낸 것'에서 <strong>'성취, 업적'</strong>이 되었어요.",
+ "historyTitle": "'끝까지(머리까지)' 가는 프랑스어 표현",
+ "historyBody": "고대 프랑스어 achever는 'a chief (venir)', 즉 '끝에 이르다, 마치다'라는 표현에서 나왔어요. chief는 라틴어 caput(머리)에서 왔는데, 머리가 몸의 맨 끝이라 '끝'이라는 뜻도 가졌어요. 그래서 achieve는 '끝까지 해내다'가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "achieve",
+   "pos": "동사",
+   "meaning": "성취하다, 달성하다",
+   "en": "She achieved her goal of reading 50 books.",
+   "ko": "그녀는 책 50권 읽기라는 목표를 달성했어요."
+  },
+  {
+   "word": "chief",
+   "pos": "명사/형용사",
+   "meaning": "우두머리 / 주요한",
+   "en": "The chief reason for his success was hard work.",
+   "ko": "그의 성공의 주된 이유는 노력이었어요."
+  },
+  {
+   "word": "chef",
+   "pos": "명사",
+   "meaning": "요리사, 주방장",
+   "en": "The chef made a special dish for us.",
+   "ko": "주방장이 우리를 위해 특별한 요리를 만들었어요."
+  },
+  {
+   "word": "capital",
+   "pos": "명사",
+   "meaning": "수도, 자본, 대문자",
+   "en": "Seoul is the capital of Korea.",
+   "ko": "서울은 한국의 수도예요."
+  },
+  {
+   "word": "captain",
+   "pos": "명사",
+   "meaning": "선장, 주장",
+   "en": "The captain of our team scored the first goal.",
+   "ko": "우리 팀 주장이 첫 골을 넣었어요."
+  },
+  {
+   "word": "mischief",
+   "pos": "명사",
+   "meaning": "장난, 해악",
+   "en": "The puppy got into mischief while we were out.",
+   "ko": "우리가 나간 사이 강아지가 말썽을 부렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 시상대 꼭대기에서 금메달을 목에 거는 장면",
+ "imageCaption": "긴 노력의 '끝'에 도착해 머리 위로 트로피를 드는 모습을 떠올려 보세요.",
+ "movieLineEn": "This is the greatest achievement in our kingdom's history!",
+ "movieLineKo": "이건 우리 왕국 역사상 가장 위대한 업적이다!",
+ "storyTitle": "주방장의 위대한 성취",
+ "story": "chef(주방장) 고양이는 세계 최대 피자를 만들어 achieve(성취하다)하고 싶었어요. chief(우두머리) 쥐가 도와주겠다고 했죠. 드디어 achievement(업적) 달성! 그런데 기념사진을 찍는 사이, 쥐들이 피자를 다 먹어 버렸어요. 그게 쥐 captain(대장)의 진짜 mischief(장난)였답니다."
+}

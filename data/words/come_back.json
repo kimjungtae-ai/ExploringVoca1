@@ -1,0 +1,68 @@
+{
+ "word": "come back",
+ "pos": "구동사",
+ "phonetic": "[kʌm bæk]",
+ "meaning": "돌아오다, 다시 기억나다, 다시 유행하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "come",
+   "meaning": "오다 (come)",
+   "note": "말하는 사람 쪽으로 다가오는 움직임이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "back",
+   "meaning": "뒤로, 원래 자리로 (back)",
+   "note": "원래 있던 곳으로 되돌아가는 방향을 나타내요."
+  }
+ ],
+ "summary": "<strong>come</strong> (오다) + <strong>back</strong> (원래 자리로) = '원래 자리로 다시 오다'에서 <strong>'돌아오다, 다시 유행하다'</strong>",
+ "historyTitle": "등(back)에서 온 '뒤로'",
+ "historyBody": "back은 고대 영어 'bæc(등)'에서 왔어요. 몸의 뒤쪽인 등에서 '뒤로, 원래 자리로'라는 방향의 뜻이 생겼죠. come은 고대 영어 cuman(오다)에서 왔어요. 그래서 come back은 '떠났던 곳으로 다시 오다'이고, 명사 comeback은 가수나 선수의 '복귀, 재기'를 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "comeback",
+   "pos": "명사",
+   "meaning": "복귀, 재기",
+   "en": "The singer made a big comeback this year.",
+   "ko": "그 가수는 올해 화려하게 복귀했어."
+  },
+  {
+   "word": "go back",
+   "pos": "구동사",
+   "meaning": "돌아가다",
+   "en": "I want to go back to my hometown.",
+   "ko": "나는 고향으로 돌아가고 싶어."
+  },
+  {
+   "word": "bring back",
+   "pos": "구동사",
+   "meaning": "되돌려 주다, 떠올리게 하다",
+   "en": "This song brings back happy memories.",
+   "ko": "이 노래는 행복한 추억을 떠올리게 해."
+  },
+  {
+   "word": "call back",
+   "pos": "구동사",
+   "meaning": "다시 전화하다",
+   "en": "I'll call you back in ten minutes.",
+   "ko": "10분 후에 다시 전화할게."
+  },
+  {
+   "word": "return",
+   "pos": "동사",
+   "meaning": "돌아오다, 반납하다",
+   "en": "Please return the book by Friday.",
+   "ko": "금요일까지 책을 반납해 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행에서 돌아온 가족을 강아지가 꼬리 치며 반기는 장면",
+ "imageCaption": "현관문이 열리자 강아지가 달려 나와 '드디어 돌아왔구나!' 하고 반기는 모습을 떠올려 보세요.",
+ "movieLineEn": "Promise me you'll come back.",
+ "movieLineKo": "꼭 돌아온다고 약속해.",
+ "storyTitle": "부메랑의 귀환",
+ "story": "삼촌이 호주에서 부메랑을 사 오셨어요. 던지면 꼭 come back(돌아오다)한대요. 나는 힘껏 던지고 return(돌아오다)하기를 기다렸죠. 한참 뒤에 이웃집 아저씨가 부메랑을 bring back(되돌려 주다)해 주셨어요. \"우리 집 창문에서 comeback(복귀)했단다.\" 나는 결국 go back(돌아가다)해서 용돈으로 창문값을 냈어요."
+}

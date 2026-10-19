@@ -1,0 +1,68 @@
+{
+ "word": "war refugee",
+ "pos": "명사구",
+ "phonetic": "[wɔːr ˌrefjuˈdʒiː]",
+ "meaning": "전쟁 난민",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "war",
+   "meaning": "전쟁 (war)",
+   "note": "왜 피난하게 되었는지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "refugee",
+   "meaning": "난민, 피난민 (refugee)",
+   "note": "안전한 곳으로 피신한 사람이에요."
+  }
+ ],
+ "summary": "<strong>war</strong> (전쟁) + <strong>refugee</strong> (피난민) = '전쟁을 피해 떠난 사람'에서 <strong>'전쟁 난민'</strong>",
+ "historyTitle": "위그노에서 시작된 refugee",
+ "historyBody": "refugee는 프랑스어 réfugié(피신한 사람)에서 왔어요. 1685년 프랑스에서 낭트 칙령이 폐지되자 박해를 피해 영국 등으로 건너간 개신교도 위그노들을 부르며 영어에 자리 잡았어요. 뿌리는 라틴어 refugere(re- 뒤로 + fugere 달아나다)예요. war는 프랑크어 계열의 *werra(혼란, 다툼)에서 고대 북부 프랑스어 werre를 거쳐 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refuge",
+   "pos": "명사",
+   "meaning": "피난처",
+   "en": "The church became a refuge for the villagers.",
+   "ko": "교회는 마을 사람들의 피난처가 되었어요."
+  },
+  {
+   "word": "asylum",
+   "pos": "명사",
+   "meaning": "망명, 보호",
+   "en": "He asked for asylum in another country.",
+   "ko": "그는 다른 나라에 망명을 요청했어요."
+  },
+  {
+   "word": "flee",
+   "pos": "동사",
+   "meaning": "달아나다, 피하다",
+   "en": "Thousands of people fled the burning city.",
+   "ko": "수천 명이 불타는 도시에서 달아났어요."
+  },
+  {
+   "word": "displaced",
+   "pos": "형용사",
+   "meaning": "살던 곳에서 쫓겨난",
+   "en": "The flood left many families displaced.",
+   "ko": "홍수로 많은 가족이 살던 곳을 잃었어요."
+  },
+  {
+   "word": "humanitarian",
+   "pos": "형용사",
+   "meaning": "인도주의적인",
+   "en": "They sent humanitarian aid to the region.",
+   "ko": "그들은 그 지역에 인도주의적 지원을 보냈어요."
+  }
+ ],
+ "imageSense": "대표 의미: 전쟁을 피해 짐을 들고 국경을 건너는 가족들 장면",
+ "imageCaption": "작은 가방 하나만 들고 안전한 곳을 찾아 긴 길을 걷는 가족을 떠올려 보세요.",
+ "movieLineEn": "We were war refugees once. Now we can help others.",
+ "movieLineKo": "우리도 한때는 전쟁 난민이었어. 이제는 우리가 남을 도울 수 있어.",
+ "storyTitle": "할아버지의 피난길",
+ "story": "할아버지는 어릴 때 war refugee(전쟁 난민)였어요. 1950년 겨울, 가족과 함께 남쪽으로 flee(피하다)하셨대요. 작은 교회가 refuge(피난처)가 되어 주었고, 낯선 사람들이 humanitarian(인도주의적인) 마음으로 주먹밥을 나눠 줬죠. 그 주먹밥 맛을 찾으려고 할아버지는 지금도 김밥집 30곳을 돌아다니신답니다!"
+}

@@ -1,0 +1,67 @@
+{
+ "word": "comprehensive",
+ "pos": "형용사",
+ "phonetic": "[ˌkɑːmprɪˈhensɪv]",
+ "meaning": "포괄적인, 종합적인, 이해력 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히, 함께 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "prehens",
+   "meaning": "붙잡다 (seize, grasp)",
+   "note": "라틴어 prehendere(붙잡다)의 과거분사 prehensus에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 성질의 (형용사형)",
+   "note": "형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>prehens</strong> (붙잡다) + <strong>-ive</strong> (~한) = '모든 것을 함께 끌어안는'이라는 데서 <strong>'포괄적인, 종합적인'</strong>이 되었습니다.",
+ "historyTitle": "한 번에 다 움켜쥐다",
+ "historyBody": "라틴어 comprehendere는 '꽉 붙잡다, 함께 감싸 안다'라는 뜻이었어요. 여기서 '머리로 붙잡다'는 이해(comprehension)가 나왔고, '모두 감싸 안는다'는 포괄적(comprehensive)이 나왔죠. 같은 뿌리에서 두 갈래로 뜻이 나뉜 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "comprehend",
+   "pos": "동사",
+   "meaning": "이해하다",
+   "en": "The child could not comprehend the joke.",
+   "ko": "그 아이는 농담을 이해하지 못했어요."
+  },
+  {
+   "word": "comprehension",
+   "pos": "명사",
+   "meaning": "이해, 독해",
+   "en": "Reading every day improves your comprehension.",
+   "ko": "매일 읽으면 독해력이 좋아져요."
+  },
+  {
+   "word": "apprehend",
+   "pos": "동사",
+   "meaning": "체포하다, 파악하다",
+   "en": "The police apprehended the thief at the airport.",
+   "ko": "경찰은 공항에서 도둑을 체포했어요."
+  },
+  {
+   "word": "prison",
+   "pos": "명사",
+   "meaning": "감옥",
+   "en": "The castle was used as a prison long ago.",
+   "ko": "그 성은 오래전에 감옥으로 쓰였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 팔로 모든 과목 책을 한꺼번에 끌어안은 학생",
+ "imageCaption": "모든 것을 함께(com-) 꽉 붙잡아(prehens) 빠짐없이 담는 모습을 떠올려 보세요.",
+ "movieLineEn": "I need a comprehensive plan, not just a guess!",
+ "movieLineKo": "짐작 말고 종합적인 계획이 필요하다고!",
+ "storyTitle": "완벽한 여행 계획",
+ "story": "아빠는 가족 여행을 위해 comprehensive(종합적인) 계획서를 만드셨어요. 100쪽짜리였죠. 우리는 그걸 comprehend(이해하다)하느라 하루를 다 썼어요. comprehension(이해) 시험까지 보셨죠. 그런데 출발 날 아빠가 여권을 두고 오셔서 경찰에게 apprehend(붙잡히다)될 뻔했대요!"
+}

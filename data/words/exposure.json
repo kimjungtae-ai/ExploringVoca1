@@ -1,0 +1,81 @@
+{
+ "word": "exposure",
+ "pos": "명사",
+ "phonetic": "[ɪkˈspoʊʒər]",
+ "meaning": "노출, 폭로, 접함",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "숨겨진 것을 밖으로 내놓는다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pos",
+   "meaning": "놓다 (put, place)",
+   "note": "프랑스어 poser(놓다)에서 왔고, 라틴어 ponere/positus(놓다)와 섞여 쓰였어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것, 상태 (명사형)",
+   "note": "행위나 그 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>pos</strong> (놓다) + <strong>-ure</strong> (명사) = '밖에 내놓인 상태'에서 <strong>'노출, 폭로'</strong>가 되었어요.",
+ "historyTitle": "햇빛과 바람 앞에 내놓다",
+ "historyBody": "expose는 고대 프랑스어 'exposer(내놓다, 드러내다)'에서 왔어요. 프랑스어 poser는 원래 후기 라틴어 pausare(쉬다, 멈추다)에서 왔지만, 뜻이 라틴어 ponere(놓다)와 섞여 '놓다'가 되었어요. 17세기에 명사 exposure가 생겼고, 사진 기술이 생긴 뒤에는 '노출'이라는 뜻으로도 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expose",
+   "pos": "동사",
+   "meaning": "노출시키다, 폭로하다",
+   "en": "Don't expose your skin to strong sunlight.",
+   "ko": "강한 햇빛에 피부를 노출시키지 마세요."
+  },
+  {
+   "word": "compose",
+   "pos": "동사",
+   "meaning": "구성하다, 작곡하다",
+   "en": "Water is composed of hydrogen and oxygen.",
+   "ko": "물은 수소와 산소로 구성되어 있어요."
+  },
+  {
+   "word": "propose",
+   "pos": "동사",
+   "meaning": "제안하다, 청혼하다",
+   "en": "I propose that we meet again next week.",
+   "ko": "다음 주에 다시 만나자고 제안해요."
+  },
+  {
+   "word": "oppose",
+   "pos": "동사",
+   "meaning": "반대하다",
+   "en": "Many residents oppose the new airport.",
+   "ko": "많은 주민들이 새 공항에 반대해요."
+  },
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "위치, 자세, 입장",
+   "en": "Please stay in your position until the music stops.",
+   "ko": "음악이 멈출 때까지 제자리에 있어 주세요."
+  },
+  {
+   "word": "deposit",
+   "pos": "명사 / 동사",
+   "meaning": "보증금, 예금 / 맡기다",
+   "en": "You must pay a deposit to rent the bike.",
+   "ko": "자전거를 빌리려면 보증금을 내야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 뜨거운 햇볕 아래 아무 그늘 없이 서 있는 사람",
+ "imageCaption": "가려 주는 것 없이 햇빛과 바람 앞에 그대로 내놓인 모습을 떠올려 보세요.",
+ "movieLineEn": "One more hour of exposure, and he won't survive the cold.",
+ "movieLineKo": "한 시간만 더 노출되면 그는 추위를 견디지 못할 거야.",
+ "storyTitle": "햇빛 노출 대작전",
+ "story": "수민이는 피부를 햇빛에 expose(노출시키다)하면 키가 큰다는 소문을 들었어요. 매일 한 시간씩 exposure(노출)를 실천하자고 친구들에게 propose(제안하다)했죠. 엄마는 강하게 oppose(반대하다)했어요. 한 달 뒤, 키는 그대로였고 얼굴만 까맣게 탔대요."
+}

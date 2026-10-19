@@ -1,0 +1,68 @@
+{
+ "word": "lovely",
+ "pos": "형용사",
+ "phonetic": "[ˈlʌvli]",
+ "meaning": "사랑스러운, 아름다운, 아주 좋은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "love",
+   "meaning": "사랑 (love)",
+   "note": "고대 영어 lufu(사랑)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~다운, ~같은 (형용사)",
+   "note": "명사에 붙어 형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>love</strong> (사랑) + <strong>-ly</strong> (~다운) = '사랑받을 만한'이라는 뜻에서 <strong>'사랑스러운, 아름다운'</strong>이 되었습니다.",
+ "historyTitle": "-ly인데 부사가 아니에요",
+ "historyBody": "lovely는 고대 영어 luflic에서 왔는데, lufu(사랑)에 '~다운'을 뜻하는 -lic이 붙은 말이에요. 처음엔 '다정한, 사랑하는'이라는 뜻이었다가 '사랑스러운, 아름다운'으로 바뀌었답니다. friendly, lively처럼 -ly로 끝나는 형용사라서 수능 어법 문제에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "love",
+   "pos": "명사/동사",
+   "meaning": "사랑 / 사랑하다",
+   "en": "I love the smell of rain in summer.",
+   "ko": "나는 여름 비 냄새를 정말 좋아해요."
+  },
+  {
+   "word": "beloved",
+   "pos": "형용사",
+   "meaning": "사랑하는, 소중한",
+   "en": "He lost his beloved dog last year.",
+   "ko": "그는 작년에 사랑하던 강아지를 잃었어요."
+  },
+  {
+   "word": "loving",
+   "pos": "형용사",
+   "meaning": "다정한, 애정 어린",
+   "en": "She grew up in a loving family.",
+   "ko": "그녀는 다정한 가정에서 자랐어요."
+  },
+  {
+   "word": "lover",
+   "pos": "명사",
+   "meaning": "애호가, 연인",
+   "en": "My uncle is a big lover of jazz.",
+   "ko": "우리 삼촌은 재즈 애호가예요."
+  },
+  {
+   "word": "loveliness",
+   "pos": "명사",
+   "meaning": "사랑스러움, 아름다움",
+   "en": "The loveliness of the garden amazed visitors.",
+   "ko": "정원의 아름다움에 방문객들이 감탄했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃밭에서 꼬리를 흔드는 사랑스러운 강아지",
+ "imageCaption": "보기만 해도 미소가 지어지는 귀여운 장면을 떠올려 보세요. '사랑하고 싶어지는' 느낌이 lovely예요.",
+ "movieLineEn": "What a lovely day for a picnic!",
+ "movieLineKo": "소풍 가기 딱 좋은 멋진 날이야!",
+ "storyTitle": "사랑스러운 고양이의 정체",
+ "story": "고양이 lover(애호가)인 소희는 길에서 lovely(사랑스러운) 고양이를 만났어요. loving(다정한) 눈빛으로 간식을 주었더니 매일 찾아왔죠. 소희의 beloved(소중한) 친구가 된 그 고양이는, 알고 보니 옆집 할머니가 이미 키우는 뚱냥이였어요. 하루에 밥을 두 집에서 먹었던 거죠!"
+}

@@ -1,0 +1,81 @@
+{
+ "word": "application",
+ "pos": "명사",
+ "phonetic": "[ˌæplɪˈkeɪʃn]",
+ "meaning": "지원(서), 신청, 적용, 응용, (휴대폰) 앱, 바르기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "무언가를 어디에 '갖다 붙이는' 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plic (plicare)",
+   "meaning": "접다, 겹치다 (fold)",
+   "note": "종이를 접어 다른 것에 딱 붙이는 느낌이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>plic</strong> (접어 붙이다) + <strong>-ation</strong> (명사) = '무언가에 갖다 붙임'에서 <strong>'적용, 지원(서), 응용'</strong>이 되었어요.",
+ "historyTitle": "접어서 갖다 붙이던 말",
+ "historyBody": "라틴어 'applicare'는 ad-(~에)와 'plicare(접다)'가 합쳐져 '~에 갖다 대다, 붙이다'라는 뜻이었어요. 자신을 어떤 자리에 '갖다 붙이는' 것이 지원이고, 이론을 실제에 갖다 붙이는 것이 응용이에요. 휴대폰의 '앱(app)'도 application을 줄인 말이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apply",
+   "pos": "동사",
+   "meaning": "지원하다, 적용하다, 바르다",
+   "en": "Apply sunscreen before you go to the beach.",
+   "ko": "해변에 가기 전에 자외선 차단제를 바르세요."
+  },
+  {
+   "word": "applicant",
+   "pos": "명사",
+   "meaning": "지원자",
+   "en": "More than a hundred applicants wanted the job.",
+   "ko": "백 명이 넘는 지원자가 그 일자리를 원했어요."
+  },
+  {
+   "word": "reply",
+   "pos": "동사/명사",
+   "meaning": "대답하다 / 대답",
+   "en": "He didn't reply to my text message.",
+   "ko": "그는 내 문자 메시지에 답하지 않았어요."
+  },
+  {
+   "word": "imply",
+   "pos": "동사",
+   "meaning": "암시하다, 넌지시 나타내다",
+   "en": "Her silence implied that she was upset.",
+   "ko": "그녀의 침묵은 그녀가 속상하다는 것을 암시했어요."
+  },
+  {
+   "word": "complicated",
+   "pos": "형용사",
+   "meaning": "복잡한",
+   "en": "The instructions for the game were too complicated.",
+   "ko": "그 게임의 설명서는 너무 복잡했어요."
+  },
+  {
+   "word": "explicit",
+   "pos": "형용사",
+   "meaning": "명백한, 분명한",
+   "en": "The teacher gave explicit rules for the exam.",
+   "ko": "선생님은 시험에 대한 분명한 규칙을 알려 주셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상에 앉아 대학 지원서를 정성껏 작성하는 학생",
+ "imageCaption": "지원서 종이를 접어 봉투에 넣고 원하는 대학에 '딱 갖다 붙이는' 장면을 떠올려 보세요. 나를 어떤 자리에 붙이는 것이 application이에요.",
+ "movieLineEn": "Your application has been accepted. Welcome to the academy!",
+ "movieLineKo": "당신의 지원서가 승인되었습니다. 아카데미에 온 걸 환영해요!",
+ "storyTitle": "복잡한 지원서의 비밀",
+ "story": "지수는 꿈의 대학에 apply(지원하다)했어요. 그런데 application(지원서)이 너무 complicated(복잡한)해서 사흘 밤을 새웠죠. 마침내 메일로 reply(답장)가 왔어요. '축하합니다!' 기뻐하던 지수는 곧 깨달았어요. 그건 대학이 아니라 동네 피자집 아르바이트 합격 메일이었답니다."
+}

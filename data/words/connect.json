@@ -1,0 +1,61 @@
+{
+ "word": "connect",
+ "pos": "동사",
+ "phonetic": "[kəˈnekt]",
+ "meaning": "연결하다, 관련짓다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "둘 이상을 하나로 모은다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nect",
+   "meaning": "묶다 (bind, tie)",
+   "note": "라틴어 nectere(묶다, 엮다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>nect</strong> (묶다) = '함께 묶다'에서 <strong>'연결하다'</strong>가 되었어요.",
+ "historyTitle": "끈으로 함께 묶던 말",
+ "historyBody": "connect는 라틴어 conectere(함께 묶다)에서 왔고, con(함께)과 nectere(묶다, 엮다)가 합쳐진 말이에요. 원래는 물건을 끈으로 묶는다는 뜻이었지만, 지금은 사람, 생각, 인터넷까지 무엇이든 이어 주는 말이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "connection",
+   "pos": "명사",
+   "meaning": "연결, 관련",
+   "en": "There is a strong connection between sleep and health.",
+   "ko": "수면과 건강 사이에는 강한 연관이 있어요."
+  },
+  {
+   "word": "disconnect",
+   "pos": "동사",
+   "meaning": "연결을 끊다",
+   "en": "Please disconnect the charger when the battery is full.",
+   "ko": "배터리가 다 차면 충전기를 분리해 주세요."
+  },
+  {
+   "word": "connectivity",
+   "pos": "명사",
+   "meaning": "연결성, 접속",
+   "en": "The village has poor internet connectivity.",
+   "ko": "그 마을은 인터넷 연결 상태가 좋지 않아요."
+  },
+  {
+   "word": "interconnected",
+   "pos": "형용사",
+   "meaning": "서로 연결된",
+   "en": "All living things in nature are interconnected.",
+   "ko": "자연의 모든 생물은 서로 연결되어 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 개의 퍼즐 조각이 딱 맞물리는 장면",
+ "imageCaption": "끈으로 두 물건을 꽁꽁 묶거나, 이어폰을 휴대폰에 연결하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Somehow, I feel connected to you.",
+ "movieLineKo": "왠지 너와 연결된 느낌이 들어.",
+ "storyTitle": "와이파이 우정",
+ "story": "산속 캠핑장에서 민지는 와이파이에 connect(연결하다)하지 못해 울상이었어요. connectivity(연결성)가 엉망이었거든요. 결국 휴대폰을 disconnect(연결을 끊다)하고 친구들과 별을 봤죠. 그날 밤, 와이파이보다 강한 connection(연결)이 생겼어요. 다음 날 와이파이 비밀번호가 '별보기'였다는 걸 알았답니다."
+}

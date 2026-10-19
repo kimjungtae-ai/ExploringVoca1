@@ -1,0 +1,68 @@
+{
+ "word": "durable",
+ "pos": "형용사",
+ "phonetic": "[ˈdʊrəbl]",
+ "meaning": "내구성이 있는, 튼튼한, 오래가는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dur",
+   "meaning": "오래가다, 단단한 (last, hard)",
+   "note": "라틴어 durare(지속하다)와 durus(단단한)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는 (able)",
+   "note": "'~할 수 있는'이라는 형용사를 만드는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>dur</strong> (오래가다) + <strong>-able</strong> (~할 수 있는) = '오래 견딜 수 있는'이라는 뜻에서 <strong>'내구성 있는'</strong>이 되었어요.",
+ "historyTitle": "단단해서 오래가는 라틴어 durus",
+ "historyBody": "라틴어 durus는 '단단한'이라는 뜻이고, durare는 '단단해지다, 오래 지속되다'라는 뜻이에요. durabilis가 고대 프랑스어를 거쳐 14세기에 영어로 들어왔답니다. 전치사 during(~동안)도 같은 durare에서 왔다는 사실, 놀랍죠?",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "duration",
+   "pos": "명사",
+   "meaning": "지속 기간",
+   "en": "Please stay seated for the duration of the flight.",
+   "ko": "비행하는 동안 자리에 앉아 계세요."
+  },
+  {
+   "word": "during",
+   "pos": "전치사",
+   "meaning": "~동안",
+   "en": "I fell asleep during the movie.",
+   "ko": "나는 영화 보는 동안 잠들었어요."
+  },
+  {
+   "word": "endure",
+   "pos": "동사",
+   "meaning": "견디다, 참다",
+   "en": "She endured the pain without crying.",
+   "ko": "그녀는 울지 않고 고통을 견뎠어요."
+  },
+  {
+   "word": "endurance",
+   "pos": "명사",
+   "meaning": "인내, 지구력",
+   "en": "Marathon runners need great endurance.",
+   "ko": "마라톤 선수들은 엄청난 지구력이 필요해요."
+  },
+  {
+   "word": "durability",
+   "pos": "명사",
+   "meaning": "내구성",
+   "en": "This phone is famous for its durability.",
+   "ko": "이 휴대폰은 내구성으로 유명해요."
+  }
+ ],
+ "imageSense": "대표 의미: 떨어뜨리고 밟아도 멀쩡한 튼튼한 등산화",
+ "imageCaption": "몇 년 동안 산을 오르내려도 끄떡없는 낡은 등산화를 떠올려 보세요.",
+ "movieLineEn": "This armor is durable enough to stop a dragon's fire.",
+ "movieLineKo": "이 갑옷은 드래곤의 불길도 막을 만큼 튼튼해.",
+ "storyTitle": "아빠의 30년 된 가방",
+ "story": "아빠의 가방은 정말 durable(튼튼한)해요. 30년 duration(기간) 동안 한 번도 고장 나지 않았죠. 비바람을 endure(견디다)하고, 이사할 때 트럭에서 떨어져도 멀쩡했어요. 엄마는 그 durability(내구성)에 감탄했어요. 문제는 가방이 아니라 아빠의 패션도 30년째 그대로라는 거예요!"
+}

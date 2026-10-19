@@ -1,0 +1,68 @@
+{
+ "word": "polish",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈpɑːlɪʃ]",
+ "meaning": "닦다, 윤을 내다, 다듬다 / 광택제",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "pol",
+   "meaning": "매끄럽게 하다 (make smooth)",
+   "note": "라틴어 polire(윤을 내다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ish",
+   "meaning": "~하다 (동사)",
+   "note": "프랑스어 동사 형태 -iss-에서 온 꼬리로 finish, punish에도 있어요."
+  }
+ ],
+ "summary": "<strong>pol</strong> (매끄럽게 하다) + <strong>-ish</strong> (동사) = 문질러 반짝이게 하다, 곧 <strong>'닦다, 다듬다'</strong>예요.",
+ "historyTitle": "반짝반짝 닦아 낸 로마의 은그릇",
+ "historyBody": "polish는 1300년 무렵 고대 프랑스어 poliss-(polir의 어간)에서 들어왔고, 뿌리는 라틴어 polire(윤을 내다)예요. 물건을 닦는다는 뜻에서 '글이나 실력을 다듬다'라는 뜻도 생겼어요. 대문자 Polish(폴란드의)는 Poland에서 온 전혀 다른 단어이니 헷갈리지 마세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "polished",
+   "pos": "형용사",
+   "meaning": "윤이 나는, 세련된",
+   "en": "She gave a polished speech at graduation.",
+   "ko": "그녀는 졸업식에서 세련된 연설을 했어요."
+  },
+  {
+   "word": "polite",
+   "pos": "형용사",
+   "meaning": "예의 바른, 공손한",
+   "en": "It is polite to say thank you.",
+   "ko": "고맙다고 말하는 것이 예의 바른 거예요."
+  },
+  {
+   "word": "politely",
+   "pos": "부사",
+   "meaning": "공손하게",
+   "en": "He politely asked the old man for directions.",
+   "ko": "그는 할아버지께 공손하게 길을 여쭤봤어요."
+  },
+  {
+   "word": "impolite",
+   "pos": "형용사",
+   "meaning": "무례한",
+   "en": "It is impolite to talk with food in your mouth.",
+   "ko": "음식을 입에 넣고 말하는 건 무례해요."
+  },
+  {
+   "word": "politeness",
+   "pos": "명사",
+   "meaning": "공손함, 예의",
+   "en": "Her politeness made a good first impression.",
+   "ko": "그녀의 공손함은 좋은 첫인상을 남겼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 천으로 구두를 문질러 반짝이게 닦는 장면",
+ "imageCaption": "헝겊으로 구두를 쓱쓱 문질러 거울처럼 반짝이게 만드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Polish your shoes. We're meeting the queen!",
+ "movieLineKo": "구두 닦아. 우리 여왕님 만나러 간다고!",
+ "storyTitle": "너무 반짝이는 구두",
+ "story": "polite(예의 바른) 집사 로봇이 주인 구두를 polish(닦다)했어요. 너무 열심히 닦아 구두가 거울처럼 polished(반짝이는) 상태가 됐죠. 파티에서 주인이 고개를 숙이자 구두에 비친 자기 얼굴에 깜짝! 로봇은 politely(공손하게) 말했어요. \"주인님, 오늘 얼굴도 닦아 드릴까요?\""
+}

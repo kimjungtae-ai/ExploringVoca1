@@ -1,0 +1,80 @@
+{
+ "word": "additional",
+ "pos": "형용사",
+ "phonetic": "[əˈdɪʃənl]",
+ "meaning": "추가의, 부가적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~에 (to)",
+   "note": "더하는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "d(it)",
+   "meaning": "주다, 놓다 (give, put)",
+   "note": "라틴어 dare(주다)에서 왔어요. addere는 '~에 놓다, 더하다'예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의 (형용사)",
+   "note": "명사를 형용사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~에) + <strong>d(it)</strong> (놓다) + <strong>-ion</strong> + <strong>-al</strong> = '~에 더 놓은 것의'에서 <strong>'추가의'</strong>가 되었어요.",
+ "historyTitle": "'~에 갖다 놓는' 라틴어 addere",
+ "historyBody": "라틴어 addere는 ad(~에)와 dare(주다, 놓다)가 합쳐진 말로 '더하다'라는 뜻이었어요. 그 명사형 additio에서 addition(추가, 덧셈)이 나왔고, -al이 붙어 additional이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "add",
+   "pos": "동사",
+   "meaning": "더하다, 추가하다",
+   "en": "Add some salt to the soup.",
+   "ko": "수프에 소금을 조금 넣으세요."
+  },
+  {
+   "word": "addition",
+   "pos": "명사",
+   "meaning": "추가, 덧셈",
+   "en": "In addition to English, she speaks Chinese.",
+   "ko": "그녀는 영어뿐 아니라 중국어도 해요."
+  },
+  {
+   "word": "edition",
+   "pos": "명사",
+   "meaning": "(출판물의) 판",
+   "en": "I bought the latest edition of the magazine.",
+   "ko": "나는 그 잡지의 최신판을 샀어요."
+  },
+  {
+   "word": "data",
+   "pos": "명사",
+   "meaning": "자료, 데이터",
+   "en": "Scientists collected data from many schools.",
+   "ko": "과학자들은 여러 학교에서 자료를 모았어요."
+  },
+  {
+   "word": "donate",
+   "pos": "동사",
+   "meaning": "기부하다",
+   "en": "We donated old clothes to the shelter.",
+   "ko": "우리는 헌 옷을 보호소에 기부했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이스크림 위에 토핑을 하나 더 올리는 장면",
+ "imageCaption": "이미 있는 것 위에 무언가를 '더 얹는' 모습을 떠올려 보세요.",
+ "movieLineEn": "We need additional help to finish this mission.",
+ "movieLineKo": "이 임무를 끝내려면 추가 지원이 필요해.",
+ "storyTitle": "끝없는 추가 토핑",
+ "story": "피자 가게에서 형은 additional(추가의) 치즈를 주문했어요. 그리고 계속 add(더하다)했죠. 페퍼로니, 파인애플, 젤리까지! 점원은 이 data(자료)를 기록해 '세계에서 가장 높은 피자' 특별 edition(판) 메뉴로 만들었어요. 형의 이름이 메뉴판에 올라갔지만, 형은 배탈이 났대요."
+}

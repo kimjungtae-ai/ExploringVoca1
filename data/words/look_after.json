@@ -1,0 +1,68 @@
+{
+ "word": "look after",
+ "pos": "구동사",
+ "phonetic": "[lʊk ˈæftər]",
+ "meaning": "~을 돌보다, 보살피다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "look",
+   "meaning": "보다 (look)",
+   "note": "대상을 '지켜본다'는 핵심 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "after",
+   "meaning": "~의 뒤를, ~을 따라 (after)",
+   "note": "누군가의 뒤를 따라다니며 '챙겨 준다'는 이미지를 줘요."
+  }
+ ],
+ "summary": "<strong>look</strong> (보다) + <strong>after</strong> (~의 뒤를) = '~의 뒤를 따라가며 지켜보다'에서 <strong>'~을 돌보다'</strong>",
+ "historyTitle": "뒤를 봐주는 사람",
+ "historyBody": "look은 고대 영어 lōcian(보다, 바라보다)에서 온 아주 오래된 영어 단어예요. 혼자서는 '보다'지만 뒤에 붙는 연결어에 따라 after(뒤를 봐주다), up(위로 찾아보다), over(훑어보다), forward(앞을 내다보다)처럼 뜻이 다양하게 바뀌어요. 그래서 수능 구동사의 단골이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "take care of",
+   "pos": "숙어",
+   "meaning": "~을 돌보다",
+   "en": "She takes care of her little brother after school.",
+   "ko": "그녀는 방과 후에 남동생을 돌봐."
+  },
+  {
+   "word": "care for",
+   "pos": "구동사",
+   "meaning": "~을 돌보다, 좋아하다",
+   "en": "Nurses care for sick people.",
+   "ko": "간호사들은 아픈 사람들을 돌봐."
+  },
+  {
+   "word": "look for",
+   "pos": "구동사",
+   "meaning": "~을 찾다",
+   "en": "I'm looking for my keys.",
+   "ko": "나는 열쇠를 찾고 있어."
+  },
+  {
+   "word": "babysit",
+   "pos": "동사",
+   "meaning": "아이를 봐 주다",
+   "en": "I babysat my cousin last weekend.",
+   "ko": "지난 주말에 사촌 동생을 봐 줬어."
+  },
+  {
+   "word": "look into",
+   "pos": "구동사",
+   "meaning": "~을 조사하다",
+   "en": "The police are looking into the case.",
+   "ko": "경찰이 그 사건을 조사하고 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 언니가 어린 동생 손을 잡고 놀이터를 따라다니는 장면",
+ "imageCaption": "아기 오리 뒤를 졸졸 따라다니며 챙기는 엄마 오리를 떠올려 보세요.",
+ "movieLineEn": "Look after your sister while I'm gone. And don't let her near the cake.",
+ "movieLineKo": "나 없는 동안 동생 잘 돌봐. 그리고 케이크 근처엔 못 가게 해.",
+ "storyTitle": "돌봄 역전",
+ "story": "엄마가 나가며 \"동생 look after(돌보다) 해!\"라고 하셨어요. 나는 babysit(아이를 봐 주다) 하며 take care of(~을 돌보다) 하려 했지만 게임에 빠졌죠. 정신 차리고 동생을 look for(~을 찾다) 했더니, 동생이 내 숙제를 다 해 놓고 나에게 이불까지 덮어 주고 있었어요. 누가 누굴 돌본 걸까요?"
+}

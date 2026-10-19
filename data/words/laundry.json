@@ -1,0 +1,61 @@
+{
+ "word": "laundry",
+ "pos": "명사",
+ "phonetic": "[ˈlɔːndri]",
+ "meaning": "세탁물, 빨래, 세탁소",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "laund",
+   "meaning": "씻다 (wash)",
+   "note": "라틴어 lavare(씻다)에서 프랑스어를 거쳐 온 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ry",
+   "meaning": "~하는 곳, ~하는 일 (place, activity)",
+   "note": "장소나 활동을 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>laund</strong> (씻다) + <strong>-ry</strong> (일, 장소) = '씻는 일, 씻는 곳'이라서 <strong>'빨래, 세탁소'</strong>예요.",
+ "historyTitle": "라틴어 '씻다'에서 온 빨래",
+ "historyBody": "laundry는 중세 영어 lavendrie에서 왔는데, 이는 '빨래하는 사람'을 뜻하던 lavender(고대 프랑스어 lavandier)와 관련 있어요. 그 뿌리는 라틴어 lavare('씻다')예요. 그래서 lavatory(화장실, 세면장)와 lotion(로션)도 같은 '씻다' 집안이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "launder",
+   "pos": "동사",
+   "meaning": "세탁하다, (돈을) 세탁하다",
+   "en": "Hotels launder thousands of towels every day.",
+   "ko": "호텔은 매일 수천 장의 수건을 세탁해요."
+  },
+  {
+   "word": "lavatory",
+   "pos": "명사",
+   "meaning": "화장실, 세면장",
+   "en": "The lavatory is at the back of the plane.",
+   "ko": "화장실은 비행기 뒤쪽에 있어요."
+  },
+  {
+   "word": "lotion",
+   "pos": "명사",
+   "meaning": "로션",
+   "en": "Put on some lotion after washing your face.",
+   "ko": "세수한 뒤에 로션을 좀 바르세요."
+  },
+  {
+   "word": "laundromat",
+   "pos": "명사",
+   "meaning": "셀프 빨래방",
+   "en": "I take my clothes to the laundromat on Sundays.",
+   "ko": "나는 일요일마다 빨래방에 옷을 가져가요."
+  }
+ ],
+ "imageSense": "대표 의미: 빨래 바구니에 쌓인 옷들을 세탁기에 넣는 장면",
+ "imageCaption": "거품이 보글보글 이는 세탁기 안에서 옷들이 빙글빙글 도는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'll do the laundry, but you're folding it.",
+ "movieLineKo": "빨래는 내가 할게. 대신 개는 건 네가 해.",
+ "storyTitle": "양말 한 짝의 행방",
+ "story": "민지는 일요일마다 laundromat(빨래방)에서 laundry(빨래)를 해요. 옷을 launder(세탁하다)하면 꼭 양말 한 짝이 사라졌죠. 이상하게 여긴 민지가 세탁기 안을 들여다봤어요. 그 안엔 양말로 둥지를 만든 생쥐가 lotion(로션)까지 바르고 누워 있었답니다!"
+}

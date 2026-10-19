@@ -1,0 +1,41 @@
+{
+ "word": "chic",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ʃiːk]",
+ "meaning": "세련된, 멋진 / 세련미, 멋",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "chic",
+   "meaning": "솜씨, 맵시 (skill, style) — 어원 불확실",
+   "note": "19세기 프랑스어에서 온 말로, 정확한 뿌리는 확실하지 않아요."
+  }
+ ],
+ "summary": "<strong>chic</strong> (프랑스어 '솜씨, 맵시') = 옷차림에 솜씨가 보인다는 데서 <strong>'세련된'</strong>이 되었습니다.",
+ "historyTitle": "파리 패션계에서 건너온 말",
+ "historyBody": "chic는 19세기 프랑스어에서 영어로 들어온 단어예요. 독일어 Schick(솜씨, 맵시)에서 왔다는 설이 유력하지만, 어원은 확실하지 않으니 주의하세요. 그래서 '쉬크'처럼 프랑스식으로 발음한답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "chicly",
+   "pos": "부사",
+   "meaning": "세련되게",
+   "en": "She was chicly dressed in a simple black coat.",
+   "ko": "그녀는 단순한 검은 코트로 세련되게 차려입었어요."
+  },
+  {
+   "word": "chicness",
+   "pos": "명사",
+   "meaning": "세련됨, 멋스러움",
+   "en": "The café is famous for the chicness of its design.",
+   "ko": "그 카페는 세련된 디자인으로 유명해."
+  }
+ ],
+ "imageSense": "대표 의미: 단순한 옷 한 벌로도 멋스러운 패션 모델의 모습",
+ "imageCaption": "화려하지 않아도 어딘가 솜씨가 느껴지는 멋쟁이를 떠올려 보세요.",
+ "movieLineEn": "Wow, that hat looks really chic on you!",
+ "movieLineKo": "와, 그 모자 너한테 정말 세련돼 보인다!",
+ "storyTitle": "할머니의 파리 패션",
+ "story": "할머니가 꽃무늬 몸빼 바지를 입고 나오셨어요. 손녀가 웃었지만 할머니는 chic(세련된)하게 선글라스를 쓰셨죠. 그 모습이 너무 chicly(세련되게) 찍혀 SNS에서 대박! 다들 chicness(세련됨)를 칭찬했어요. 결국 그 바지가 파리에서 trend(유행)가 되었대요!"
+}

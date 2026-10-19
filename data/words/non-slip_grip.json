@@ -1,0 +1,68 @@
+{
+ "word": "non-slip grip",
+ "pos": "명사구",
+ "phonetic": "[ˌnɑːnˈslɪp ɡrɪp]",
+ "meaning": "미끄럼 방지 손잡이, 미끄럼 방지 그립",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "non-slip",
+   "meaning": "미끄러지지 않는 (non-slip)",
+   "note": "non-(~이 아닌) + slip(미끄러지다)으로 '미끄럼 방지'예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "grip",
+   "meaning": "손잡이, 꽉 쥠 (grip)",
+   "note": "고대 영어 gripe(움켜쥠)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>non-</strong> (아닌) + <strong>slip</strong> (미끄러지다) + <strong>grip</strong> (손잡이) = '미끄러지지 않게 꽉 쥐는 부분'에서 <strong>'미끄럼 방지 손잡이'</strong>",
+ "historyTitle": "'움켜쥐다'에서 온 grip",
+ "historyBody": "grip은 고대 영어 gripe(움켜쥠)에서 왔고, grab(움켜잡다), grasp(꽉 쥐다)와 비슷한 느낌의 게르만어 단어예요. non-은 라틴어 non(아니다)에서 온 접두사로, non-stop(직행), nonsense(헛소리)처럼 쓰여요. 상품 광고 문구에 자주 나오는 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "slip",
+   "pos": "동사",
+   "meaning": "미끄러지다",
+   "en": "Be careful not to slip on the wet floor.",
+   "ko": "젖은 바닥에서 미끄러지지 않게 조심하세요."
+  },
+  {
+   "word": "slippery",
+   "pos": "형용사",
+   "meaning": "미끄러운",
+   "en": "The road is slippery after the rain.",
+   "ko": "비가 온 뒤 길이 미끄러워요."
+  },
+  {
+   "word": "grasp",
+   "pos": "동사",
+   "meaning": "꽉 쥐다, 이해하다",
+   "en": "She quickly grasped the main idea of the text.",
+   "ko": "그녀는 글의 요지를 금세 파악했어요."
+  },
+  {
+   "word": "grab",
+   "pos": "동사",
+   "meaning": "움켜잡다",
+   "en": "He grabbed his bag and ran to the bus.",
+   "ko": "그는 가방을 움켜쥐고 버스로 달려갔어요."
+  },
+  {
+   "word": "non-stop",
+   "pos": "형용사 / 부사",
+   "meaning": "직행의 / 쉬지 않고",
+   "en": "We took a non-stop flight to Paris.",
+   "ko": "우리는 파리행 직항편을 탔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고무 돌기가 있는 텀블러 손잡이를 꽉 쥐는 장면",
+ "imageCaption": "물기가 있어도 손에서 쏙 빠지지 않는 오돌토돌한 고무 손잡이를 떠올려 보세요.",
+ "movieLineEn": "Hold on tight! This thing has a non-slip grip.",
+ "movieLineKo": "꽉 잡아! 이건 미끄럼 방지 손잡이야.",
+ "storyTitle": "절대 안 놓치는 컵",
+ "story": "덜렁이 지민이를 위해 엄마가 non-slip grip(미끄럼 방지 손잡이) 컵을 사 주셨어요. 바닥이 slippery(미끄러운)해도 컵을 꽉 grab(움켜잡다)할 수 있었죠. 지민이는 신나서 컵을 들고 뛰다가 결국 자기가 slip(미끄러지다)했어요. 컵은 무사했어요!"
+}

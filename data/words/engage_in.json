@@ -1,0 +1,68 @@
+{
+ "word": "engage in",
+ "pos": "구동사",
+ "phonetic": "[ɪnˈɡeɪdʒ ɪn]",
+ "meaning": "~에 참여하다, ~에 종사하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "engage",
+   "meaning": "관여시키다, 끌어들이다 (engage)",
+   "note": "en-(안에) + gage(서약)로, 약속을 걸고 무언가에 묶인다는 느낌이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "활동 '안으로' 들어가 몸담는 이미지를 더해요."
+  }
+ ],
+ "summary": "<strong>engage</strong> (관여하다) + <strong>in</strong> (~ 안으로) = '어떤 활동 안에 몸을 담그다'라서 <strong>'~에 참여하다, 종사하다'</strong>예요.",
+ "historyTitle": "서약을 걸었던 engage",
+ "historyBody": "engage는 고대 프랑스어 engager(en- '안에' + gage '담보, 서약')에서 왔어요. 원래 '담보를 맡기고 약속하다'라는 뜻이었고, 여기서 '약속으로 묶이다 → 관여하다, 약혼하다'로 의미가 넓어졌어요. 그래서 engaged는 '약혼한'이라는 뜻도 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "participate in",
+   "pos": "구동사",
+   "meaning": "~에 참가하다",
+   "en": "Over 200 students participated in the science fair.",
+   "ko": "200명이 넘는 학생이 과학 박람회에 참가했어요."
+  },
+  {
+   "word": "take part in",
+   "pos": "숙어",
+   "meaning": "~에 참여하다",
+   "en": "Everyone can take part in the school festival.",
+   "ko": "누구나 학교 축제에 참여할 수 있어요."
+  },
+  {
+   "word": "engaged",
+   "pos": "형용사",
+   "meaning": "약혼한; 몰두한",
+   "en": "My sister got engaged last spring.",
+   "ko": "우리 언니는 지난 봄에 약혼했어요."
+  },
+  {
+   "word": "engagement",
+   "pos": "명사",
+   "meaning": "참여; 약혼",
+   "en": "Student engagement in class has increased a lot.",
+   "ko": "수업에 대한 학생 참여가 많이 늘었어요."
+  },
+  {
+   "word": "be involved in",
+   "pos": "숙어",
+   "meaning": "~에 관여하다",
+   "en": "He was involved in a volunteer project.",
+   "ko": "그는 자원봉사 프로젝트에 관여했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 학생들이 토론 활동에 적극적으로 참여하는 장면",
+ "imageCaption": "손을 번쩍 들고 토론 속으로 쏙 들어가 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "I don't engage in silly fights. I just win them.",
+ "movieLineKo": "난 유치한 싸움엔 끼지 않아. 그냥 이길 뿐이지.",
+ "storyTitle": "봉사왕 강아지",
+ "story": "우리 반 강아지 초코는 매일 봉사 활동에 engage in(참여하다)해요. 축제에도 take part in(참여하다)하고, 청소에도 participate in(참가하다)했죠. 선생님은 초코의 engagement(참여)를 칭찬했어요. 그런데 알고 보니 초코가 그렇게 열심이었던 이유는 봉사 후에 나눠 주는 소시지 때문이었답니다!"
+}

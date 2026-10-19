@@ -1,0 +1,74 @@
+{
+ "word": "unsanitary",
+ "pos": "형용사",
+ "phonetic": "[ʌnˈsænɪteri]",
+ "meaning": "비위생적인, 불결한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "un-",
+   "meaning": "~이 아닌 (not)",
+   "note": "뒤에 오는 말의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sanit (← sanus)",
+   "meaning": "건강한 (healthy)",
+   "note": "라틴어 sanus(건강한)와 sanitas(건강)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ary",
+   "meaning": "~에 관한 (형용사형)",
+   "note": "형용사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>un-</strong> (아닌) + <strong>sanit</strong> (건강) + <strong>-ary</strong> (~에 관한) = 건강에 좋지 않은, 즉 <strong>'비위생적인'</strong>이 되었어요.",
+ "historyTitle": "건강을 지키는 위생",
+ "historyBody": "sanitary는 19세기에 프랑스어 'sanitaire'에서 들어온 말로, 라틴어 'sanitas(건강)'와 'sanus(건강한)'에서 나왔어요. 당시 유럽 도시들은 전염병 때문에 하수도와 깨끗한 물 같은 '위생(sanitation)'을 크게 고민했어요. sanus는 '정신이 건강한'이라는 뜻의 sane과도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sanitary",
+   "pos": "형용사",
+   "meaning": "위생의, 위생적인",
+   "en": "The kitchen must be kept clean and sanitary.",
+   "ko": "주방은 깨끗하고 위생적으로 유지되어야 해요."
+  },
+  {
+   "word": "sanitation",
+   "pos": "명사",
+   "meaning": "위생 시설, 위생",
+   "en": "Good sanitation helps prevent many diseases.",
+   "ko": "좋은 위생 시설은 많은 질병을 막는 데 도움이 돼요."
+  },
+  {
+   "word": "sanitizer",
+   "pos": "명사",
+   "meaning": "소독제",
+   "en": "I always carry hand sanitizer in my bag.",
+   "ko": "나는 가방에 항상 손 소독제를 가지고 다녀요."
+  },
+  {
+   "word": "sane",
+   "pos": "형용사",
+   "meaning": "제정신의, 분별 있는",
+   "en": "No sane person would swim in that freezing lake.",
+   "ko": "제정신인 사람이라면 저 얼어붙은 호수에서 수영하지 않을 거예요."
+  },
+  {
+   "word": "insane",
+   "pos": "형용사",
+   "meaning": "미친, 말도 안 되는",
+   "en": "The traffic this morning was insane.",
+   "ko": "오늘 아침 교통 체증은 말도 안 됐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 쓰레기와 벌레가 가득한 더러운 주방",
+ "imageCaption": "설거지가 쌓이고 파리가 날아다니는 지저분한 주방을 떠올려 보세요. 건강에 해로운 곳이 unsanitary한 곳이에요.",
+ "movieLineEn": "You call this a kitchen? It's totally unsanitary!",
+ "movieLineKo": "이걸 주방이라고 부르는 거야? 완전 비위생적이잖아!",
+ "storyTitle": "형의 자취방 점검",
+ "story": "엄마가 형의 자취방을 갑자기 방문했어요. 라면 그릇과 양말이 가득한 unsanitary(비위생적인) 방을 보고 엄마는 sanitizer(소독제)를 꺼내 들었죠. \"sane(제정신의) 사람이 사는 방 맞니?\" 형은 이게 최신 sanitation(위생) 실험이라고 우겼어요. 그날 형은 세 시간 동안 대청소를 했답니다."
+}

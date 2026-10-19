@@ -1,0 +1,74 @@
+{
+ "word": "impression",
+ "pos": "명사",
+ "phonetic": "[ɪmˈpreʃən]",
+ "meaning": "인상, 감명, 느낌, (도장 등의) 자국",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "im-",
+   "meaning": "안에, 위에 (in, on)",
+   "note": "in-이 p 앞에서 발음하기 쉽게 im-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "press",
+   "meaning": "누르다 (press)",
+   "note": "꾹 눌러서 자국을 남긴다는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "동작을 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>im-</strong> (위에) + <strong>press</strong> (누르다) + <strong>-ion</strong> (~것) = '마음 위에 꾹 눌러 남긴 자국'이라는 뜻에서 <strong>'인상, 감명'</strong>이 되었습니다.",
+ "historyTitle": "도장 자국이 마음의 자국으로",
+ "historyBody": "라틴어 'imprimere(눌러 찍다)'에서 온 말로, 원래는 밀랍이나 종이에 눌러 찍은 자국을 뜻했어요. 그러다 '어떤 일이 마음에 눌러 남긴 흔적', 즉 인상이라는 뜻으로 넓어졌답니다. 인쇄하다(print)도 같은 라틴어 동사에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "press",
+   "pos": "동사 / 명사",
+   "meaning": "누르다 / 언론",
+   "en": "Press the button and the door will open.",
+   "ko": "버튼을 누르면 문이 열릴 거예요."
+  },
+  {
+   "word": "pressure",
+   "pos": "명사",
+   "meaning": "압력, 압박",
+   "en": "Many students feel great pressure before exams.",
+   "ko": "많은 학생들이 시험 전에 큰 압박감을 느껴요."
+  },
+  {
+   "word": "express",
+   "pos": "동사",
+   "meaning": "표현하다 (밖으로 밀어내다)",
+   "en": "It is important to express your feelings honestly.",
+   "ko": "자기 감정을 솔직하게 표현하는 것은 중요해요."
+  },
+  {
+   "word": "depress",
+   "pos": "동사",
+   "meaning": "우울하게 하다 (아래로 누르다)",
+   "en": "Rainy days sometimes depress people.",
+   "ko": "비 오는 날은 가끔 사람들을 우울하게 만들어요."
+  },
+  {
+   "word": "compress",
+   "pos": "동사",
+   "meaning": "압축하다 (함께 누르다)",
+   "en": "You can compress the files to save space.",
+   "ko": "공간을 절약하려면 파일을 압축할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 처음 만난 사람이 마음에 도장처럼 쿵 찍히는 장면",
+ "imageCaption": "말랑한 마음에 도장을 꾹 눌러 자국이 남는 모습을 떠올려 보세요. 그 자국이 바로 '첫인상'이에요.",
+ "movieLineEn": "You never get a second chance to make a first impression.",
+ "movieLineKo": "첫인상을 남길 두 번째 기회는 절대 없어.",
+ "storyTitle": "면접장의 강한 첫인상",
+ "story": "민수는 면접에서 좋은 impression(인상)을 주려고 긴장했어요. pressure(압박)에 손이 떨려 실수로 비상벨을 press(누르다)했죠. 모두 놀라 침묵했지만, 민수는 웃으며 '제 순발력을 express(표현하다)한 거예요!'라고 말했어요. 결과는 합격! 면접관은 아직도 그 벨 소리를 잊지 못한대요."
+}

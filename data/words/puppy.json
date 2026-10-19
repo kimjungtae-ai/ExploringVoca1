@@ -1,0 +1,41 @@
+{
+ "word": "puppy",
+ "pos": "명사",
+ "phonetic": "[ˈpʌpi]",
+ "meaning": "강아지",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "puppy (← 중세 프랑스어 poupée)",
+   "meaning": "인형, 장난감 (doll, toy)",
+   "note": "'인형'을 뜻하는 프랑스어에서 왔을 것으로 보는 견해가 일반적이에요."
+  }
+ ],
+ "summary": "<strong>puppy</strong>는 아마도 프랑스어 <strong>poupée</strong> (인형)에서 와서 '인형처럼 작고 귀여운 애완견'이라는 뜻의 <strong>'강아지'</strong>가 되었어요.",
+ "historyTitle": "귀부인의 인형 같은 애완견",
+ "historyBody": "puppy는 15세기 말 처음에는 귀부인들이 안고 다니던 작은 애완견을 뜻했어요. 사전들은 대체로 '인형'을 뜻하는 중세 프랑스어 poupée에서 왔다고 보지만, 확실하지는 않아요. '새끼 개'라는 지금의 뜻은 16세기 후반부터 쓰였어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "puppet",
+   "pos": "명사",
+   "meaning": "꼭두각시, 인형",
+   "en": "The children laughed at the funny puppet show.",
+   "ko": "아이들은 재미있는 인형극을 보고 웃었어요."
+  },
+  {
+   "word": "pupil",
+   "pos": "명사",
+   "meaning": "학생, 눈동자",
+   "en": "The teacher has thirty pupils in her class.",
+   "ko": "그 선생님 반에는 학생이 서른 명 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꼬리를 흔들며 공을 쫓는 작은 강아지",
+ "imageCaption": "인형처럼 작고 동그란 눈을 가진 강아지를 떠올려 보세요.",
+ "movieLineEn": "Look at that puppy! I want to take him home!",
+ "movieLineKo": "저 강아지 좀 봐! 집에 데려가고 싶어!",
+ "storyTitle": "인형극 스타 강아지",
+ "story": "학교 인형극에 진짜 puppy(강아지)가 출연했어요. 원래는 강아지 puppet(인형)을 쓰려 했는데 망가졌거든요. 강아지는 무대에서 꼬리를 흔들며 pupil(학생)들의 박수를 받았어요. 연극은 대성공! 그런데 다음 날 신문 사진의 주인공은 강아지가 아니라 donut(도넛)을 몰래 먹던 교장 선생님이었답니다!"
+}

@@ -1,0 +1,73 @@
+{
+ "word": "compassionate",
+ "pos": "형용사",
+ "phonetic": "[kəmˈpæʃənət]",
+ "meaning": "인정 많은, 동정심 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "'함께'를 뜻해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pass",
+   "meaning": "고통을 겪다 (suffer)",
+   "note": "라틴어 pati(고통을 겪다, 견디다)의 과거분사 passus에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~함 (명사형)",
+   "note": "행동이나 상태를 나타내는 명사를 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사형)",
+   "note": "여기서는 형용사를 만드는 역할을 해요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>pass</strong> (고통을 겪다) + <strong>-ion</strong> + <strong>-ate</strong> = '남의 고통을 함께 느끼는'이라는 데서 <strong>'인정 많은'</strong>이 되었습니다.",
+ "historyTitle": "함께 아파한다는 것",
+ "historyBody": "후기 라틴어 compassio는 '함께 고통을 겪음'이라는 뜻으로, 그리스어 sympatheia(함께 느낌)를 라틴어로 옮긴 말이에요. pati에서 나온 passion도 원래는 '열정'이 아니라 '고통, 수난'을 뜻했어요. compassionate는 16세기 말부터 쓰였답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "compassion",
+   "pos": "명사",
+   "meaning": "연민, 동정심",
+   "en": "She felt deep compassion for the homeless cat.",
+   "ko": "그녀는 집 없는 고양이에게 깊은 연민을 느꼈어요."
+  },
+  {
+   "word": "passion",
+   "pos": "명사",
+   "meaning": "열정, 격정",
+   "en": "He has a real passion for music.",
+   "ko": "그는 음악에 진정한 열정이 있어요."
+  },
+  {
+   "word": "patient",
+   "pos": "형용사/명사",
+   "meaning": "참을성 있는 / 환자",
+   "en": "Be patient. The bus will come soon.",
+   "ko": "참아 봐. 버스가 곧 올 거야."
+  },
+  {
+   "word": "passive",
+   "pos": "형용사",
+   "meaning": "수동적인, 소극적인",
+   "en": "Don't be passive. Share your ideas in class.",
+   "ko": "소극적으로 있지 말고 수업 시간에 생각을 말해 봐."
+  }
+ ],
+ "imageSense": "대표 의미: 넘어진 아이 곁에 쪼그려 앉아 함께 속상해하는 사람",
+ "imageCaption": "남의 아픔(pass)을 함께(com-) 느끼는 따뜻한 눈빛을 떠올려 보세요.",
+ "movieLineEn": "She was the most compassionate doctor I've ever met.",
+ "movieLineKo": "그녀는 내가 만나 본 가장 인정 많은 의사였어.",
+ "storyTitle": "마음 약한 치과 의사",
+ "story": "우리 동네 치과 의사는 너무 compassionate(인정 많은)해요. patient(환자)가 아파하면 compassion(연민)에 눈물을 흘리죠. 그래서 치료가 늘 passive(소극적인)했어요. 결국 그의 passion(열정)은 치료 대신 사탕 안 먹기 캠페인으로 바뀌었답니다!"
+}

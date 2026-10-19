@@ -1,0 +1,74 @@
+{
+ "word": "recording",
+ "pos": "명사",
+ "phonetic": "[rɪˈkɔːrdɪŋ]",
+ "meaning": "녹음, 녹화, 기록",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 되돌려 (again, back)",
+   "note": "마음속에 다시 불러온다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cord",
+   "meaning": "마음, 심장 (heart)",
+   "note": "라틴어 cor, cordis(심장, 마음)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 '~하는 일'이라는 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>cord</strong> (마음) + <strong>-ing</strong> (~하는 것) = 마음에 다시 새겨 두는 것에서 <strong>'기록, 녹음'</strong>이 되었어요.",
+ "historyTitle": "'마음으로 외우는 것'에서 '녹음'으로",
+ "historyBody": "record는 라틴어 recordari(기억하다, 떠올리다)에서 왔는데, re-(다시)와 cor(심장, 마음)가 합쳐진 말이에요. 옛사람들은 기억이 심장에 있다고 생각했거든요. 이 말이 '글로 남기다'라는 뜻이 되었고, 19세기 말 축음기가 나오면서 '소리를 녹음하다'라는 뜻이 더해졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "record",
+   "pos": "동사/명사",
+   "meaning": "기록하다, 녹음하다 / 기록",
+   "en": "She recorded her voice for the school podcast.",
+   "ko": "그녀는 학교 팟캐스트를 위해 목소리를 녹음했어요."
+  },
+  {
+   "word": "recorder",
+   "pos": "명사",
+   "meaning": "녹음기, 리코더",
+   "en": "I found an old tape recorder in the attic.",
+   "ko": "다락방에서 오래된 테이프 녹음기를 찾았어요."
+  },
+  {
+   "word": "accord",
+   "pos": "명사/동사",
+   "meaning": "일치, 합의 / 일치하다",
+   "en": "The two countries reached an accord on trade.",
+   "ko": "두 나라는 무역에 관해 합의에 이르렀어요."
+  },
+  {
+   "word": "courage",
+   "pos": "명사",
+   "meaning": "용기",
+   "en": "It took courage to speak in front of everyone.",
+   "ko": "모두 앞에서 말하는 데는 용기가 필요했어요."
+  },
+  {
+   "word": "discord",
+   "pos": "명사",
+   "meaning": "불화, 불일치",
+   "en": "Money often causes discord in families.",
+   "ko": "돈은 종종 가족 간 불화를 일으켜요."
+  }
+ ],
+ "imageSense": "대표 의미: 스튜디오에서 헤드폰을 끼고 노래를 녹음하는 장면",
+ "imageCaption": "빨간 '녹음 중' 불빛 아래 마이크 앞에서 노래하는 가수를 떠올려 보세요.",
+ "movieLineEn": "This recording proves he was there that night.",
+ "movieLineKo": "이 녹음이 그날 밤 그가 거기 있었다는 걸 증명해.",
+ "storyTitle": "잠꼬대 녹음 사건",
+ "story": "형이 내 잠꼬대를 몰래 record(녹음하다)했어요. 다음 날 가족 앞에서 recording(녹음)을 틀었죠! 나는 courage(용기)를 내서 들어 봤는데, 거기엔 '형 최고, 형 사랑해'라는 말이 담겨 있었어요. 형은 감동해서 울었고, 우리 사이 discord(불화)는 사라졌어요. 사실 그건 내가 먼저 녹음해 둔 거였대요!"
+}

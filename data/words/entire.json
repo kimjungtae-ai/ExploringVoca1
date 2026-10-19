@@ -1,0 +1,75 @@
+{
+ "word": "entire",
+ "pos": "형용사",
+ "phonetic": "[ɪnˈtaɪər]",
+ "meaning": "전체의, 온전한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~ 않은 (not)",
+   "note": "라틴어에서 '아니다'라는 부정의 뜻이에요. 프랑스어를 거치며 en-으로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "teg / tang",
+   "meaning": "만지다 (touch)",
+   "note": "라틴어 tangere(만지다)에서 온 어근이에요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (않은) + <strong>teg</strong> (만지다) = '아무도 손대지 않은'에서 <strong>'온전한, 전체의'</strong>가 되었어요.",
+ "historyTitle": "아무도 손대지 않은 것",
+ "historyBody": "entire는 고대 프랑스어 'entier'를 거쳐 라틴어 'integer(손대지 않은, 온전한)'에서 왔어요. integer는 in-(않은)과 tangere(만지다)의 어근이 합쳐진 말이에요. 수학의 '정수(integer)'도 쪼개지지 않은 온전한 수라는 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "entirely",
+   "pos": "부사",
+   "meaning": "완전히, 전적으로",
+   "en": "I entirely agree with your idea.",
+   "ko": "나는 네 생각에 전적으로 동의해."
+  },
+  {
+   "word": "integrity",
+   "pos": "명사",
+   "meaning": "진실성, 온전함",
+   "en": "A good leader must show honesty and integrity.",
+   "ko": "좋은 지도자는 정직함과 진실성을 보여야 해요."
+  },
+  {
+   "word": "integrate",
+   "pos": "동사",
+   "meaning": "통합하다",
+   "en": "The school tries to integrate new students quickly.",
+   "ko": "그 학교는 새 학생들을 빠르게 어울리게 하려고 노력해요."
+  },
+  {
+   "word": "intact",
+   "pos": "형용사",
+   "meaning": "손상되지 않은, 온전한",
+   "en": "The old vase remained intact after the earthquake.",
+   "ko": "그 오래된 꽃병은 지진 후에도 온전히 남아 있었어요."
+  },
+  {
+   "word": "contact",
+   "pos": "명사 / 동사",
+   "meaning": "접촉, 연락 / 연락하다",
+   "en": "Please contact me if you have any questions.",
+   "ko": "질문이 있으면 저에게 연락해 주세요."
+  },
+  {
+   "word": "tangible",
+   "pos": "형용사",
+   "meaning": "만질 수 있는, 실체가 있는",
+   "en": "We need tangible results, not just promises.",
+   "ko": "우리는 약속만이 아니라 눈에 보이는 결과가 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 한 조각도 먹지 않은 동그란 피자 한 판",
+ "imageCaption": "아직 아무도 손대지 않은 온전한 피자 한 판을 떠올려 보세요. 그게 바로 entire예요.",
+ "movieLineEn": "I've been waiting my entire life for this moment.",
+ "movieLineKo": "나는 평생 이 순간만을 기다려 왔어.",
+ "storyTitle": "온전한 케이크의 운명",
+ "story": "생일 케이크가 entire(전체의) 모양 그대로 냉장고에 있었어요. 동생은 손도 안 댔다며 integrity(진실성)를 강조했죠. 케이크는 정말 intact(온전한)했어요. 하지만 entirely(완전히) 이상했던 건, 뒤집어 보니 아래쪽이 텅 비어 있었다는 거예요!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "boarding",
+ "pos": "명사",
+ "phonetic": "[ˈbɔːrdɪŋ]",
+ "meaning": "탑승, 승선, 기숙, 하숙",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "board",
+   "meaning": "탑승하다, 숙식하다",
+   "note": "고대 영어 bord(나무판, 식탁, 뱃전)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하기, ~하는 일",
+   "note": "동사를 명사로 만들어 주는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>board</strong> (탑승하다, 숙식하다) + <strong>-ing</strong> (~하기) = <strong>'탑승, 기숙'</strong>이라는 뜻이에요.",
+ "historyTitle": "식탁에서 기숙사로, 뱃전에서 탑승구로",
+ "historyBody": "board는 원래 '나무 식탁'이었기 때문에 '식사를 제공받으며 머물다'라는 뜻이 생겼고, 여기서 boarding school(기숙 학교)이 나왔어요. 또 배의 옆면을 뜻하던 board에서 '배에 오르다'가 생겨, 오늘날 비행기의 boarding pass(탑승권)까지 이어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "board",
+   "pos": "동사 / 명사",
+   "meaning": "탑승하다 / 판자, 위원회",
+   "en": "We boarded the train just before it left.",
+   "ko": "우리는 기차가 떠나기 직전에 탔어."
+  },
+  {
+   "word": "aboard",
+   "pos": "부사",
+   "meaning": "탑승하여",
+   "en": "Is everyone aboard? Let's go!",
+   "ko": "모두 탔니? 출발하자!"
+  },
+  {
+   "word": "onboard",
+   "pos": "형용사",
+   "meaning": "(차량·비행기) 내부에 있는, 기내의",
+   "en": "The plane has free onboard Wi-Fi.",
+   "ko": "그 비행기에는 무료 기내 와이파이가 있어."
+  },
+  {
+   "word": "boarder",
+   "pos": "명사",
+   "meaning": "기숙생, 하숙생",
+   "en": "As a boarder, Mina lives at school during the week.",
+   "ko": "기숙생인 미나는 주중에 학교에서 지내요."
+  },
+  {
+   "word": "keyboard",
+   "pos": "명사",
+   "meaning": "키보드",
+   "en": "My new keyboard makes typing much faster.",
+   "ko": "새 키보드 덕분에 타자가 훨씬 빨라졌어."
+  }
+ ],
+ "imageSense": "대표 의미: 공항 탑승구에서 탑승권을 보여 주고 비행기에 오르는 장면",
+ "imageCaption": "탑승권을 손에 쥐고 줄을 서서 비행기 문으로 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Final call for boarding. The gate is closing now!",
+ "movieLineKo": "마지막 탑승 안내입니다. 탑승구가 곧 닫힙니다!",
+ "storyTitle": "탑승권 실종 사건",
+ "story": "수학여행 날, 하준이는 boarding(탑승) 직전에 탑승권이 사라진 걸 알았어요. 기숙사 boarder(기숙생) 친구들이 가방을 다 뒤졌죠. 겨우 찾은 탑승권은 하준이 신발 속에! 모두 aboard(탑승하여) 웃음이 터졌고, onboard(기내의) 방송에서도 '신발 확인하세요'라는 농담이 나왔답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "valued",
+ "pos": "형용사 / 동사",
+ "phonetic": "[ˈvæljuːd]",
+ "meaning": "소중한, 존중받는 / 평가된 (value의 과거·과거분사)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "value",
+   "meaning": "가치, 소중히 여기다 (value)",
+   "note": "라틴어 valere(가치가 있다)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된, ~받는 (과거분사)",
+   "note": "'~된'이라는 뜻을 만들어 형용사처럼 쓰여요."
+  }
+ ],
+ "summary": "<strong>value</strong> (소중히 여기다) + <strong>-ed</strong> (~받는) = <strong>'소중히 여겨지는, 존중받는'</strong>이라는 뜻이 되었어요.",
+ "historyTitle": "가치를 인정받은 사람",
+ "historyBody": "value의 뿌리는 라틴어 valere(힘이 있다, 가치가 있다)예요. 동사 value는 '값을 매기다'에서 '소중히 여기다'로 뜻이 넓어졌고, 과거분사 valued는 'a valued customer(소중한 고객)'처럼 '존중받는'이라는 형용사로 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "value",
+   "pos": "동사 / 명사",
+   "meaning": "소중히 여기다 / 가치",
+   "en": "Many people value honesty more than money.",
+   "ko": "많은 사람들은 돈보다 정직을 더 소중히 여겨요."
+  },
+  {
+   "word": "valuable",
+   "pos": "형용사",
+   "meaning": "귀중한",
+   "en": "He gave me valuable tips for the interview.",
+   "ko": "그는 면접에 관한 귀중한 팁을 알려 줬어요."
+  },
+  {
+   "word": "undervalue",
+   "pos": "동사",
+   "meaning": "과소평가하다",
+   "en": "Don't undervalue the power of a good night's sleep.",
+   "ko": "숙면의 힘을 과소평가하지 마세요."
+  },
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "We need to evaluate the plan before we start.",
+   "ko": "시작하기 전에 그 계획을 평가해야 해요."
+  },
+  {
+   "word": "invaluable",
+   "pos": "형용사",
+   "meaning": "매우 귀중한",
+   "en": "The volunteers provided invaluable help after the flood.",
+   "ko": "자원봉사자들은 홍수 뒤에 매우 귀중한 도움을 주었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 팀원들이 박수를 치며 한 사람을 인정해 주는 장면",
+ "imageCaption": "회의실에서 모두가 \"네 덕분이야!\" 하고 박수 치는 순간, 그 사람은 valued한 팀원이에요.",
+ "movieLineEn": "You are a valued member of this team. Never forget that.",
+ "movieLineKo": "넌 이 팀의 소중한 일원이야. 절대 잊지 마.",
+ "storyTitle": "VIP 고양이",
+ "story": "카페 주인은 매일 오는 고양이를 valued(소중한) 손님이라 불렀어요. 고양이의 value(가치)를 undervalue(과소평가하다)하지 말라며 전용 방석까지 줬죠. 어느 날 손님들이 고양이 덕분에 몰려왔어요. 사장님은 \"역시 valuable(귀중한) 직원이야!\"라며 고양이에게 월급으로 참치를 줬답니다."
+}

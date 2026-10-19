@@ -1,0 +1,68 @@
+{
+ "word": "joke around",
+ "pos": "구동사",
+ "phonetic": "[dʒoʊk əˈraʊnd]",
+ "meaning": "농담하며 장난치다, 까불다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "joke",
+   "meaning": "농담하다 (jest)",
+   "note": "'농담한다'는 핵심 동작을 맡아요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "around",
+   "meaning": "이리저리, 빈둥빈둥 (around)",
+   "note": "목적 없이 '이리저리' 계속한다는 느낌을 더해요."
+  }
+ ],
+ "summary": "<strong>joke</strong> (농담하다) + <strong>around</strong> (이리저리) = '이리저리 농담만 하다'에서 <strong>'장난치다, 까불다'</strong>",
+ "historyTitle": "라틴어 iocus, '놀이'",
+ "historyBody": "joke는 17세기 영어에 들어온 말로 라틴어 iocus(농담, 놀이)에서 왔어요. juggle(저글링하다)도 iocus에서 나온 라틴어 ioculari(농담하다)와 관련 있어요. around는 '목적 없이 이리저리'라는 뜻을 더해 fool around, mess around처럼 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fool around",
+   "pos": "구동사",
+   "meaning": "빈둥거리다, 장난치다",
+   "en": "Stop fooling around and do your homework.",
+   "ko": "장난 그만 치고 숙제해."
+  },
+  {
+   "word": "mess around",
+   "pos": "구동사",
+   "meaning": "빈둥거리다, 장난치다",
+   "en": "The kids were messing around in the yard.",
+   "ko": "아이들이 마당에서 장난치며 놀고 있었어."
+  },
+  {
+   "word": "play a joke on",
+   "pos": "숙어",
+   "meaning": "~에게 장난치다",
+   "en": "My brother played a joke on me.",
+   "ko": "형이 나한테 장난을 쳤어."
+  },
+  {
+   "word": "joking",
+   "pos": "형용사",
+   "meaning": "농담하는",
+   "en": "I'm just joking. Don't be upset.",
+   "ko": "그냥 농담이야. 기분 나빠하지 마."
+  },
+  {
+   "word": "kid",
+   "pos": "동사",
+   "meaning": "농담하다, 놀리다",
+   "en": "Are you kidding me?",
+   "ko": "너 지금 농담하는 거지?"
+  }
+ ],
+ "imageSense": "대표 의미: 쉬는 시간 친구들이 서로 농담하며 깔깔대는 장면",
+ "imageCaption": "교실 뒤에서 친구들이 장난치며 웃음꽃이 피는 모습을 떠올려 보세요.",
+ "movieLineEn": "Quit joking around! This is serious.",
+ "movieLineKo": "장난 그만 쳐! 이건 진지한 일이야.",
+ "storyTitle": "진지한 반장",
+ "story": "쉬는 시간에 다들 joke around(장난치다) 하며 fool around(빈둥거리다) 했어요. 반장은 \"조용히 해!\"라며 엄격했죠. 그러자 친구들이 반장에게 play a joke on(~에게 장난치다) 하기로 했어요. 의자에 방석 방귀를 숨겼는데, 앉은 건 담임 선생님! 선생님은 웃으며 말했어요. \"Are you kidding(농담하다) me?\""
+}

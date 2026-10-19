@@ -1,0 +1,67 @@
+{
+ "word": "arrangement",
+ "pos": "명사",
+ "phonetic": "[əˈreɪndʒmənt]",
+ "meaning": "배열, 정리, 준비, 합의, 편곡",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ar- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "ad-가 r 앞에서 ar-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "range (rang)",
+   "meaning": "줄, 열 (row)",
+   "note": "rank와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>ar-</strong> (~에) + <strong>range</strong> (줄) + <strong>-ment</strong> (명사) = '줄에 맞춰 세워 놓음'에서 <strong>'배열, 준비, 합의'</strong>가 되었어요.",
+ "historyTitle": "줄 세우기에서 약속까지",
+ "historyBody": "arrangement는 18세기 무렵 arrange에 -ment가 붙어 널리 쓰였어요. 물건을 '배열'한 상태뿐 아니라, 일을 미리 '준비'해 두는 것, 두 사람이 조건을 맞춰 '합의'하는 것까지 뜻이 넓어졌죠. 음악에서는 곡을 새롭게 배치하는 '편곡'을 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "arrange",
+   "pos": "동사",
+   "meaning": "정리하다, 준비하다",
+   "en": "She arranged a meeting with her teacher.",
+   "ko": "그녀는 선생님과의 면담 약속을 잡았어요."
+  },
+  {
+   "word": "range",
+   "pos": "명사",
+   "meaning": "범위",
+   "en": "This park has a wide range of trees.",
+   "ko": "이 공원에는 다양한 나무가 있어요."
+  },
+  {
+   "word": "rank",
+   "pos": "명사",
+   "meaning": "계급, 순위",
+   "en": "He rose quickly through the ranks.",
+   "ko": "그는 빠르게 승진했어요."
+  },
+  {
+   "word": "rearrange",
+   "pos": "동사",
+   "meaning": "재배열하다",
+   "en": "Let's rearrange the furniture in the living room.",
+   "ko": "거실 가구를 다시 배치해 보자."
+  }
+ ],
+ "imageSense": "대표 의미: 화병에 여러 꽃을 조화롭게 꽂는 꽃꽂이",
+ "imageCaption": "꽃병에 장미, 안개꽃, 초록 잎을 보기 좋게 자리 잡아 꽂는 모습을 떠올려 보세요. 알맞게 배치해 놓은 결과가 arrangement예요.",
+ "movieLineEn": "We had an arrangement, remember? You cook, I clean.",
+ "movieLineKo": "우리 약속했잖아, 기억나? 넌 요리하고, 난 청소하고.",
+ "storyTitle": "꽃꽂이 대소동",
+ "story": "엄마가 손님맞이 꽃 arrangement(꽃꽂이)를 부탁했어요. 나는 꽃을 높이 rank(순위)대로 arrange(배열하다)했죠. 그런데 강아지가 다 엎어 버렸어요. 급히 rearrange(재배열하다)하려다 보니 꽃 대신 상추와 대파가 꽂혀 있었어요. 손님들은 '아주 건강한 꽃이네요!'라며 웃었답니다."
+}

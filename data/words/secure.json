@@ -1,0 +1,68 @@
+{
+ "word": "secure",
+ "pos": "형용사 / 동사",
+ "phonetic": "[sɪˈkjʊr]",
+ "meaning": "안전한, 안정된, 확실한 / 확보하다, 안전하게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "se-",
+   "meaning": "~없이 (without)",
+   "note": "라틴어에서 '떨어져, ~없이'를 뜻하는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cure",
+   "meaning": "걱정, 돌봄 (care)",
+   "note": "라틴어 'cura(걱정, 돌봄)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>se-</strong> (~없이) + <strong>cure</strong> (걱정) = 걱정이 없는 상태, 즉 <strong>'안전한, 안정된'</strong>이에요.",
+ "historyTitle": "걱정 없는 마음, securus",
+ "historyBody": "라틴어 'securus'는 'se-(~없이)'와 'cura(걱정)'가 합쳐져 '걱정 없는'을 뜻했어요. 처음엔 마음이 편안한 상태를 가리켰지만, 점차 '위험으로부터 안전한'이란 뜻이 되었어요. 참고로 영어 care는 게르만계 단어라 cura와는 다른 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "security",
+   "pos": "명사",
+   "meaning": "안전, 보안",
+   "en": "Airport security checks every bag carefully.",
+   "ko": "공항 보안 요원은 모든 가방을 꼼꼼히 검사해요."
+  },
+  {
+   "word": "insecure",
+   "pos": "형용사",
+   "meaning": "불안정한, 자신감 없는",
+   "en": "He felt insecure about his new job at first.",
+   "ko": "그는 처음에 새 직장에 대해 불안해했어요."
+  },
+  {
+   "word": "cure",
+   "pos": "동사 / 명사",
+   "meaning": "치료하다 / 치료법",
+   "en": "Scientists are looking for a cure for the disease.",
+   "ko": "과학자들은 그 병의 치료법을 찾고 있어요."
+  },
+  {
+   "word": "curious",
+   "pos": "형용사",
+   "meaning": "호기심 많은",
+   "en": "The curious child asked questions all day long.",
+   "ko": "호기심 많은 아이는 하루 종일 질문을 했어요."
+  },
+  {
+   "word": "accurate",
+   "pos": "형용사",
+   "meaning": "정확한",
+   "en": "Please give me accurate information about the schedule.",
+   "ko": "일정에 대한 정확한 정보를 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 튼튼한 자물쇠로 잠긴 금고 앞에서 안심하는 장면",
+ "imageCaption": "단단히 잠긴 문 안에서 걱정 없이 편히 쉬는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry. Your secret is secure with me.",
+ "movieLineKo": "걱정 마. 네 비밀은 나한테 있으면 안전해.",
+ "storyTitle": "금고 지킴이 고양이",
+ "story": "우리 집 고양이는 금고를 secure(안전하게 하다)하는 게 취미예요. security(보안) 카메라보다 정확하고 accurate(정확한) 감시를 하죠. curious(호기심 많은) 도둑이 다가오자 고양이가 냥 펀치를! 그런데 금고 안엔 츄르만 가득했어요."
+}

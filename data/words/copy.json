@@ -1,0 +1,55 @@
+{
+ "word": "copy",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈkɑːpi]",
+ "meaning": "사본, 복사본, (책의) 한 부 / 복사하다, 베끼다, 모방하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "copia (라틴어)",
+   "meaning": "풍부함, 많음 (abundance)",
+   "note": "'많이 만들어 낸다'는 생각이 '여러 부를 베끼다'로 이어졌어요."
+  }
+ ],
+ "summary": "라틴어 <strong>copia</strong> (풍부함)가 '글을 여러 벌 베껴 늘리다'라는 뜻으로 쓰이면서 <strong>'사본, 복사하다'</strong>가 되었어요.",
+ "historyTitle": "'풍부함'이 '복사'가 된 이야기",
+ "historyBody": "copy는 라틴어 copia(풍부함, 많음)에서 왔어요. 중세 라틴어에서 이 말이 '글을 베껴 적은 것'이라는 뜻으로 쓰였는데, 손으로 베껴 글을 여러 벌로 '늘린다'는 생각에서 나온 것이라고 해요. 영어 단어 copy는 그 자체로는 더 쪼개기 어려워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "copier",
+   "pos": "명사",
+   "meaning": "복사기",
+   "en": "The copier in the teachers' room is broken again.",
+   "ko": "교무실 복사기가 또 고장 났어요."
+  },
+  {
+   "word": "photocopy",
+   "pos": "명사/동사",
+   "meaning": "복사(본) / 복사하다",
+   "en": "Please photocopy this page for every student.",
+   "ko": "이 페이지를 학생 수만큼 복사해 주세요."
+  },
+  {
+   "word": "copyright",
+   "pos": "명사",
+   "meaning": "저작권",
+   "en": "You must respect the copyright of other people's music.",
+   "ko": "다른 사람 음악의 저작권을 존중해야 해요."
+  },
+  {
+   "word": "copious",
+   "pos": "형용사",
+   "meaning": "엄청난, 풍부한",
+   "en": "She took copious notes during the lecture.",
+   "ko": "그녀는 강의 중에 필기를 엄청 많이 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 복사기에서 똑같은 종이가 줄줄이 나오는 장면",
+ "imageCaption": "복사기에서 같은 시험지가 수십 장 쏟아져 나오는 모습을 떠올려 보세요. 똑같은 것을 많이 만드는 것이 copy예요.",
+ "movieLineEn": "Stop copying everything I say!",
+ "movieLineKo": "내가 하는 말 다 따라 하지 마!",
+ "storyTitle": "따라쟁이 원숭이",
+ "story": "원숭이 몽이는 사람을 copy(따라 하다)하는 걸 좋아했어요. 사육사의 일기를 copier(복사기)로 photocopy(복사하다)하기까지 했죠. copious(엄청난) 양의 종이가 쌓이자 사육사가 copyright(저작권) 위반이라며 화를 냈어요. 그러자 몽이도 똑같이 화내는 표정을 copy했대요!"
+}

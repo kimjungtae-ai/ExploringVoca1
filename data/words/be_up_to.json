@@ -1,0 +1,74 @@
+{
+ "word": "be up to",
+ "pos": "숙어",
+ "phonetic": "[bi ʌp tuː]",
+ "meaning": "~에게 달려 있다, ~을 꾸미다(하고 있다), ~까지 이르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "be",
+   "meaning": "~이다, 있다 (be)",
+   "note": "상태를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 다다라 (up)",
+   "note": "어떤 수준이나 지점에 '올라와' 있는 그림이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~까지, ~에게 (to)",
+   "note": "어디까지, 누구에게인지 가리켜요."
+  }
+ ],
+ "summary": "<strong>be up</strong> (위로 올라와 있다) + <strong>to</strong> (~까지/~에게) = '~에게까지 올라가 있다'에서 <strong>'~에게 달려 있다, ~을 꾸미고 있다'</strong>예요.",
+ "historyTitle": "결정권이 '올라가' 닿는 곳",
+ "historyBody": "up은 고대 영어 up(위로)에서 왔어요. 'It's up to you'는 결정이 '너에게까지 올라가 있다', 즉 너에게 달려 있다는 뜻이에요. 'What are you up to?'는 '뭐 하고 있어?(무슨 꿍꿍이야?)'라는 일상 표현으로 쓰인답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "up to",
+   "pos": "전치사",
+   "meaning": "최대 ~까지",
+   "en": "The hall holds up to 300 people.",
+   "ko": "그 홀은 최대 300명을 수용해요."
+  },
+  {
+   "word": "depend on",
+   "pos": "구동사",
+   "meaning": "~에 달려 있다",
+   "en": "Our plans depend on the weather.",
+   "ko": "우리 계획은 날씨에 달려 있어요."
+  },
+  {
+   "word": "be down to",
+   "pos": "숙어",
+   "meaning": "~의 책임이다, ~만 남다",
+   "en": "It's down to you to finish the job.",
+   "ko": "그 일을 끝내는 건 네 몫이야."
+  },
+  {
+   "word": "be up to something",
+   "pos": "숙어",
+   "meaning": "무언가를 꾸미다",
+   "en": "The kids are quiet. They must be up to something.",
+   "ko": "애들이 조용해. 뭔가 꾸미고 있는 게 분명해."
+  },
+  {
+   "word": "live up to",
+   "pos": "구동사",
+   "meaning": "~에 부응하다",
+   "en": "The movie didn't live up to my expectations.",
+   "ko": "그 영화는 내 기대에 미치지 못했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구가 메뉴판을 건네며 '네가 골라'라고 하는 장면",
+ "imageCaption": "결정 버튼이 내 손바닥 위에 '올라와' 있는 모습을 떠올리세요.",
+ "movieLineEn": "It's up to you now. The whole city is counting on you.",
+ "movieLineKo": "이제 너에게 달렸어. 온 도시가 너만 믿고 있어.",
+ "storyTitle": "조용한 동생",
+ "story": "엄마가 저녁 메뉴는 be up to(~에게 달려 있다) 나라고 하셨어요. 고르는 사이 동생이 너무 조용했죠. 분명 be up to something(무언가를 꾸미다) 중이었어요. 가 보니 동생은 엄마 화장품으로 강아지에게 up to(최대 ~까지) 열 겹 화장을 해 주고 있었어요!"
+}

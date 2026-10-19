@@ -1,0 +1,61 @@
+{
+ "word": "juggling",
+ "pos": "명사",
+ "phonetic": "[ˈdʒʌɡlɪŋ]",
+ "meaning": "저글링, 곡예, (여러 일을) 동시에 해내기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "juggle",
+   "meaning": "재주를 부리다, 장난치다 (jest)",
+   "note": "고대 프랑스어 jogler, 라틴어 joculari(농담하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (act of)",
+   "note": "동사를 명사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>juggle</strong> (재주 부리다) + <strong>-ing</strong> (~하는 것) = 공을 던지며 재주 부리기라서 <strong>'저글링, 여러 일을 동시에 해내기'</strong>예요.",
+ "historyTitle": "농담에서 시작된 곡예",
+ "historyBody": "juggle은 고대 프랑스어 jogler('광대짓을 하다')에서 왔고, 그 뿌리는 라틴어 joculari('농담하다'), jocus(농담)예요. 중세에는 광대가 노래, 농담, 마술, 곡예를 모두 했기 때문에 그런 재주꾼을 juggler라고 불렀죠. 그래서 joke(농담)와도 먼 친척이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "juggle",
+   "pos": "동사",
+   "meaning": "저글링하다, (여러 일을) 동시에 해내다",
+   "en": "My mom juggles work and housework every day.",
+   "ko": "우리 엄마는 매일 일과 집안일을 동시에 해내세요."
+  },
+  {
+   "word": "juggler",
+   "pos": "명사",
+   "meaning": "저글링하는 사람, 곡예사",
+   "en": "The juggler kept five balls in the air.",
+   "ko": "저글링 곡예사는 공 다섯 개를 공중에 계속 띄웠어요."
+  },
+  {
+   "word": "joke",
+   "pos": "명사 / 동사",
+   "meaning": "농담 / 농담하다",
+   "en": "He told a funny joke and everyone laughed.",
+   "ko": "그가 재미있는 농담을 하자 모두가 웃었어요."
+  },
+  {
+   "word": "jokingly",
+   "pos": "부사",
+   "meaning": "농담으로",
+   "en": "She jokingly called her dog 'the boss.'",
+   "ko": "그녀는 농담으로 자기 개를 '사장님'이라고 불렀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 광대가 공 세 개를 공중에 번갈아 던지는 장면",
+ "imageCaption": "손이 두 개뿐인데 공 여러 개를 떨어뜨리지 않고 돌리는 모습처럼, 바쁜 일을 한꺼번에 해내는 모습을 떠올려 보세요.",
+ "movieLineEn": "Stop juggling everything alone. Let us help you.",
+ "movieLineKo": "혼자 모든 걸 떠안고 버티지 마. 우리가 도와줄게.",
+ "storyTitle": "수험생의 저글링",
+ "story": "고3 민수는 공부, 학원, 숙제를 juggle(동시에 해내다)하느라 바빴어요. 친구는 joke(농담)로 '너 거의 juggler(곡예사)네'라고 했죠. 화가 난 민수는 정말 juggling(저글링)을 배워 축제 무대에 올랐어요. 결과는 대상! 하지만 다음 날 모의고사 성적표를 보고 공을 다 떨어뜨렸답니다."
+}

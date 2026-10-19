@@ -1,0 +1,87 @@
+{
+ "word": "unexpected",
+ "pos": "형용사",
+ "phonetic": "[ˌʌnɪkˈspektɪd]",
+ "meaning": "예상치 못한, 뜻밖의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "un-",
+   "meaning": "~이 아닌 (not)",
+   "note": "뒤에 오는 말의 뜻을 반대로 뒤집어요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "밖을 내다본다는 느낌을 줘요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spect",
+   "meaning": "보다 (look)",
+   "note": "라틴어 spectare(보다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (형용사형)",
+   "note": "어떤 상태가 된 것을 나타내요."
+  }
+ ],
+ "summary": "<strong>un-</strong> (아닌) + <strong>ex-</strong> (밖으로) + <strong>spect</strong> (보다) + <strong>-ed</strong> = 밖을 내다보며 기다리지 않은, 즉 <strong>'예상치 못한'</strong>이 되었어요.",
+ "historyTitle": "목을 빼고 내다보던 사람들",
+ "historyBody": "expect는 라틴어 'exspectare'에서 왔는데, 'ex-(밖으로) + spectare(보다)'로 '밖을 내다보며 기다리다'라는 뜻이었어요. 누군가를 기다릴 때 창밖을 내다보는 모습이 그대로 단어가 된 거죠. 여기에 un-이 붙어 '기다리지도 않았던 = 뜻밖의'라는 뜻이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expect",
+   "pos": "동사",
+   "meaning": "예상하다, 기대하다",
+   "en": "I didn't expect to see you here!",
+   "ko": "여기서 너를 만날 줄은 몰랐어!"
+  },
+  {
+   "word": "expectation",
+   "pos": "명사",
+   "meaning": "기대, 예상",
+   "en": "The concert went beyond my expectations.",
+   "ko": "그 콘서트는 내 기대 이상이었어요."
+  },
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "점검하다, 검사하다",
+   "en": "The officer inspected our bags at the airport.",
+   "ko": "공항에서 직원이 우리 가방을 검사했어요."
+  },
+  {
+   "word": "respect",
+   "pos": "명사 / 동사",
+   "meaning": "존경 / 존중하다",
+   "en": "We should respect other people's opinions.",
+   "ko": "우리는 다른 사람의 의견을 존중해야 해요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중",
+   "en": "Thousands of spectators cheered for the team.",
+   "ko": "수천 명의 관중이 그 팀을 응원했어요."
+  },
+  {
+   "word": "prospect",
+   "pos": "명사",
+   "meaning": "전망, 가능성",
+   "en": "The prospect of a long vacation made us happy.",
+   "ko": "긴 방학을 맞이한다는 생각에 우리는 행복했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 문을 열자 '서프라이즈!'를 외치는 친구들",
+ "imageCaption": "아무 기대 없이 문을 열었는데 친구들이 깜짝 파티를 준비한 장면을 떠올려 보세요. 전혀 내다보지 못한 일이죠.",
+ "movieLineEn": "Well, that was unexpected. The cat can talk!",
+ "movieLineKo": "음, 그건 예상 못 했네. 고양이가 말을 하다니!",
+ "storyTitle": "생일날의 반전",
+ "story": "지민이는 생일에 아무것도 expect(기대하다)하지 않았어요. 그런데 교실 문을 열자 반 친구 모두가 spectator(관중)처럼 박수를 쳤죠. unexpected(예상치 못한) 파티에 감동한 순간, 선생님이 말씀하셨어요. \"자, 이제 깜짝 시험이야!\" 지민이의 expectation(기대)은 3초 만에 와르르 무너졌답니다."
+}

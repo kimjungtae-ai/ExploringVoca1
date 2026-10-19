@@ -1,0 +1,81 @@
+{
+ "word": "cooperate",
+ "pos": "동사",
+ "phonetic": "[koʊˈɑːpəreɪt]",
+ "meaning": "협력하다, 협동하다, 협조하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "co-",
+   "meaning": "함께 (together)",
+   "note": "con-이 모음 앞에서 줄어든 모양이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "oper",
+   "meaning": "일하다 (work)",
+   "note": "라틴어 operari(일하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>co-</strong> (함께) + <strong>oper</strong> (일하다) + <strong>-ate</strong> (~하다) = '함께 일하다'에서 <strong>'협력하다'</strong>가 되었어요.",
+ "historyTitle": "오페라와 같은 뿌리, '일'",
+ "historyBody": "cooperate는 라틴어 cooperari(함께 일하다)에서 왔어요. co-(함께)와 operari(일하다)가 합쳐진 말이고, operari의 뿌리 opus(일, 작품)는 opera(오페라)에도 남아 있어요. 오페라도 원래 '작품'이라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cooperation",
+   "pos": "명사",
+   "meaning": "협력, 협동",
+   "en": "The project succeeded thanks to everyone's cooperation.",
+   "ko": "모두의 협력 덕분에 프로젝트가 성공했어요."
+  },
+  {
+   "word": "cooperative",
+   "pos": "형용사",
+   "meaning": "협력하는, 협조적인",
+   "en": "The students were very cooperative during the drill.",
+   "ko": "학생들은 훈련 동안 아주 협조적이었어요."
+  },
+  {
+   "word": "operate",
+   "pos": "동사",
+   "meaning": "작동하다, 운영하다, 수술하다",
+   "en": "The doctor will operate on his knee tomorrow.",
+   "ko": "의사가 내일 그의 무릎을 수술할 거예요."
+  },
+  {
+   "word": "operation",
+   "pos": "명사",
+   "meaning": "수술, 작동, 작전",
+   "en": "The operation was successful.",
+   "ko": "수술은 성공적이었어요."
+  },
+  {
+   "word": "opera",
+   "pos": "명사",
+   "meaning": "오페라",
+   "en": "We watched a famous opera in Italy.",
+   "ko": "우리는 이탈리아에서 유명한 오페라를 봤어요."
+  },
+  {
+   "word": "operator",
+   "pos": "명사",
+   "meaning": "조작자, 교환원",
+   "en": "The operator answered my call quickly.",
+   "ko": "교환원이 내 전화를 빨리 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구들이 함께 무거운 책상을 옮기는 장면",
+ "imageCaption": "네 명이 책상 모서리를 하나씩 잡고 '하나, 둘, 셋!' 하는 모습을 떠올려 보세요. 함께 일하는 것이 cooperate예요.",
+ "movieLineEn": "If we don't cooperate, none of us will get out of here.",
+ "movieLineKo": "우리가 협력하지 않으면 아무도 여기서 못 나가.",
+ "storyTitle": "개미와 베짱이의 합작",
+ "story": "개미와 베짱이가 드디어 cooperate(협력하다)하기로 했어요. 개미는 창고를 operate(운영하다)하고, 베짱이는 노래로 opera(오페라) 공연을 열었죠. 이 cooperation(협력)은 대성공! 그런데 관객이 너무 많아서, 창고 음식이 하루 만에 다 팔려 버렸대요."
+}

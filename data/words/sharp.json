@@ -1,0 +1,55 @@
+{
+ "word": "sharp",
+ "pos": "형용사 / 부사",
+ "phonetic": "[ʃɑːrp]",
+ "meaning": "날카로운, 급격한, 예리한, 선명한 / 정각에",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sharp",
+   "meaning": "날카로운 (sharp)",
+   "note": "고대 영어 'scearp'에서 온 게르만계 단어라 더 쪼개지 않아요. '자르다'를 뜻하는 아주 오래된 뿌리와 관련 있다고 봐요."
+  }
+ ],
+ "summary": "<strong>sharp</strong> (날카로운) = 칼날처럼 뾰족하고 예리한, 즉 <strong>'날카로운, 급격한'</strong>이에요.",
+ "historyTitle": "칼날에서 시작된 말",
+ "historyBody": "sharp는 고대 영어 'scearp'에서 왔고, 독일어 'scharf'와 같은 게르만 뿌리예요. 처음엔 칼날이 날카로운 것을 뜻했지만, 점차 '머리가 예리한', '변화가 급격한', '시간이 정확한(정각)'으로 뜻이 넓어졌어요. 수능에서는 'a sharp increase(급격한 증가)'처럼 그래프 문제에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sharpen",
+   "pos": "동사",
+   "meaning": "날카롭게 하다, 갈다",
+   "en": "I need to sharpen my pencil before the test.",
+   "ko": "시험 전에 연필을 깎아야 해요."
+  },
+  {
+   "word": "sharply",
+   "pos": "부사",
+   "meaning": "급격히, 날카롭게",
+   "en": "Prices rose sharply last year.",
+   "ko": "작년에 물가가 급격히 올랐어요."
+  },
+  {
+   "word": "sharpness",
+   "pos": "명사",
+   "meaning": "날카로움, 선명함",
+   "en": "The sharpness of the photo was amazing.",
+   "ko": "그 사진의 선명함은 놀라웠어요."
+  },
+  {
+   "word": "sharpener",
+   "pos": "명사",
+   "meaning": "연필깎이, 숫돌",
+   "en": "Can I borrow your pencil sharpener?",
+   "ko": "네 연필깎이 좀 빌려도 될까?"
+  }
+ ],
+ "imageSense": "대표 의미: 반짝이는 칼날과 그래프가 가파르게 치솟는 장면",
+ "imageCaption": "잘 깎은 연필심의 뾰족한 끝과, 위로 쭉 솟구치는 그래프 선을 떠올려 보세요.",
+ "movieLineEn": "Be at the station at seven o'clock sharp. Don't be late!",
+ "movieLineKo": "7시 정각에 역에 와. 늦지 마!",
+ "storyTitle": "날카로운 연필의 복수",
+ "story": "시험 전날 연필을 sharpen(깎다)하다가 sharpener(연필깎이)가 연필을 다 먹어 버렸어요. 남은 건 손톱만 한 sharp(날카로운) 연필심뿐! 다음 날 점수가 sharply(급격히) 올랐어요. 너무 작아서 답을 아주 신중하게 썼거든요."
+}

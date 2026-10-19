@@ -1,0 +1,67 @@
+{
+ "word": "housewarming",
+ "pos": "명사",
+ "phonetic": "[ˈhaʊswɔːrmɪŋ]",
+ "meaning": "집들이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "house",
+   "meaning": "집 (house)",
+   "note": "고대 영어 hūs에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "warm",
+   "meaning": "따뜻한, 데우다 (warm)",
+   "note": "고대 영어 wearm에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하기 (동작·행사)",
+   "note": "동작이나 행사를 나타내는 명사 어미예요."
+  }
+ ],
+ "summary": "<strong>house</strong> (집) + <strong>warm</strong> (데우다) + <strong>-ing</strong> = 새집을 따뜻하게 데우는 행사라는 뜻에서 <strong>'집들이'</strong>가 되었어요.",
+ "historyTitle": "새집에 온기를 불어넣는 날",
+ "historyBody": "housewarming은 16세기부터 쓰인 말로, 새집에 이사한 사람을 친구와 이웃이 찾아가 축하하는 모임을 뜻해요. 난방이 귀하던 옛날, 손님들이 땔감이나 선물을 들고 와 새집을 말 그대로 '따뜻하게' 해 주었다는 설명이 전해져요. 한국의 집들이와 꼭 닮았죠?",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "household",
+   "pos": "명사",
+   "meaning": "가정, 가구",
+   "en": "Every household in the town received a flyer.",
+   "ko": "마을의 모든 가정이 전단지를 받았어."
+  },
+  {
+   "word": "housework",
+   "pos": "명사",
+   "meaning": "집안일",
+   "en": "My brother and I share the housework.",
+   "ko": "형과 나는 집안일을 나눠서 해."
+  },
+  {
+   "word": "housing",
+   "pos": "명사",
+   "meaning": "주택, 주거",
+   "en": "The city needs more affordable housing.",
+   "ko": "그 도시는 더 많은 저렴한 주택이 필요해."
+  },
+  {
+   "word": "warehouse",
+   "pos": "명사",
+   "meaning": "창고",
+   "en": "The boxes are kept in a large warehouse.",
+   "ko": "상자들은 큰 창고에 보관돼."
+  }
+ ],
+ "imageSense": "대표 의미: 새집 거실에서 친구들이 휴지와 세제를 들고 모여 축하하는 장면",
+ "imageCaption": "이사한 친구 집에 휴지 한 묶음 들고 가서 '축하해!' 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "You're all invited to my housewarming party this Saturday!",
+ "movieLineKo": "이번 토요일 내 집들이에 모두 초대할게!",
+ "storyTitle": "휴지의 산",
+ "story": "삼촌이 새집으로 이사해 housewarming(집들이)을 열었어요. 손님들은 모두 household(가정) 필수품인 휴지를 들고 왔죠. housework(집안일)를 도와주겠다던 친구들까지 휴지만 들고 왔어요. 거실은 휴지로 꽉 차서 warehouse(창고)처럼 변했어요. 결국 삼촌은 housing(주택) 대출보다 휴지 보관할 곳이 더 걱정이었대요."
+}

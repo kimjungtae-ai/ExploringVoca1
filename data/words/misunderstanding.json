@@ -1,0 +1,81 @@
+{
+ "word": "misunderstanding",
+ "pos": "명사",
+ "phonetic": "[ˌmɪsʌndərˈstændɪŋ]",
+ "meaning": "오해, 착오",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "mis-",
+   "meaning": "잘못 (wrongly)",
+   "note": "잘못되었다는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "understand",
+   "meaning": "이해하다 (understand)",
+   "note": "고대 영어 understandan(아래에 서다, 이해하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>mis-</strong> (잘못) + <strong>understand</strong> (이해하다) + <strong>-ing</strong> = 잘못 이해한 것이라서 <strong>'오해'</strong>가 되었어요.",
+ "historyTitle": "왜 '아래에' 서면 이해할까?",
+ "historyBody": "understand는 고대 영어 understandan에서 왔는데, 여기서 under는 '아래'보다 '사이에, 가운데'라는 옛 뜻이었다는 설명이 많아요. 즉 일의 한가운데 서서 파악한다는 느낌이죠. 다만 정확한 의미 변화 과정은 학자들 사이에서도 완전히 밝혀지지 않았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "understand",
+   "pos": "동사",
+   "meaning": "이해하다",
+   "en": "I didn't understand the question, so I asked again.",
+   "ko": "질문을 이해하지 못해서 다시 물어봤어요."
+  },
+  {
+   "word": "misunderstand",
+   "pos": "동사",
+   "meaning": "오해하다",
+   "en": "Please don't misunderstand me. I'm not angry.",
+   "ko": "오해하지 마. 나 화난 거 아니야."
+  },
+  {
+   "word": "understanding",
+   "pos": "명사 / 형용사",
+   "meaning": "이해 / 이해심 있는",
+   "en": "She has a deep understanding of history.",
+   "ko": "그녀는 역사에 대한 깊은 이해를 가지고 있어요."
+  },
+  {
+   "word": "stand",
+   "pos": "동사",
+   "meaning": "서다, 참다",
+   "en": "I can't stand waiting in long lines.",
+   "ko": "나는 긴 줄에서 기다리는 걸 못 참아요."
+  },
+  {
+   "word": "outstanding",
+   "pos": "형용사",
+   "meaning": "뛰어난, 두드러진",
+   "en": "He received an award for his outstanding work.",
+   "ko": "그는 뛰어난 업적으로 상을 받았어요."
+  },
+  {
+   "word": "standpoint",
+   "pos": "명사",
+   "meaning": "관점, 입장",
+   "en": "From a student's standpoint, the rule seems unfair.",
+   "ko": "학생의 관점에서 보면 그 규칙은 불공평해 보여요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 사람의 말풍선 속 그림이 서로 완전히 다른 장면",
+ "imageCaption": "한 명은 '사과'를 말하는데 다른 한 명은 '사과(apology)'를 떠올리는 장면을 생각해 보세요.",
+ "movieLineEn": "This is all just a big misunderstanding!",
+ "movieLineKo": "이건 다 커다란 오해일 뿐이야!",
+ "storyTitle": "피자 오해 사건",
+ "story": "엄마가 \"피자 한 판 시켜 놨어\"라고 하셨는데 동생은 misunderstand(오해하다)해서 \"한 판 붙자!\"로 들었어요. 동생은 태권도복을 입고 stand(서다)했죠. 엄마는 이 misunderstanding(오해)을 understand(이해하다)하고 웃으셨어요. 결국 피자는 outstanding(뛰어난) 맛이었답니다."
+}

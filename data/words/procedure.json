@@ -1,0 +1,74 @@
+{
+ "word": "procedure",
+ "pos": "명사",
+ "phonetic": "[prəˈsiːdʒər]",
+ "meaning": "절차, 순서, 수술",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞쪽으로 나아간다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ced",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것 (명사)",
+   "note": "행위나 과정을 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>ced</strong> (가다) + <strong>-ure</strong> (~것) = '앞으로 나아가는 방식'이라는 뜻에서 <strong>'절차'</strong>가 되었어요.",
+ "historyTitle": "법정에서 쓰이던 단어",
+ "historyBody": "라틴어 procedere는 '앞으로 나아가다'라는 뜻이에요. 프랑스어 procédure를 거쳐 17세기 초 영어에 들어왔는데, 처음에는 주로 소송 절차처럼 법률 용어로 쓰였어요. 지금은 의학에서 '수술'이라는 뜻으로도 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "proceed",
+   "pos": "동사",
+   "meaning": "나아가다, 진행하다",
+   "en": "Please proceed to gate 12 for boarding.",
+   "ko": "탑승을 위해 12번 게이트로 가 주세요."
+  },
+  {
+   "word": "process",
+   "pos": "명사 / 동사",
+   "meaning": "과정 / 처리하다",
+   "en": "Learning a language is a slow process.",
+   "ko": "언어를 배우는 것은 느린 과정이에요."
+  },
+  {
+   "word": "precede",
+   "pos": "동사",
+   "meaning": "~에 앞서다",
+   "en": "A short speech preceded the concert.",
+   "ko": "콘서트에 앞서 짧은 연설이 있었어요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "넘다, 초과하다",
+   "en": "Do not exceed the speed limit.",
+   "ko": "제한 속도를 넘지 마세요."
+  },
+  {
+   "word": "access",
+   "pos": "명사",
+   "meaning": "접근, 이용",
+   "en": "All students have access to the library.",
+   "ko": "모든 학생은 도서관을 이용할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 1단계, 2단계, 3단계 화살표를 따라 진행하는 순서도",
+ "imageCaption": "발자국이 순서대로 앞으로 찍혀 가는 모습을 떠올리면 procedure예요.",
+ "movieLineEn": "Follow the procedure exactly, or the whole ship explodes.",
+ "movieLineKo": "절차를 정확히 따라. 안 그러면 배 전체가 폭발한다.",
+ "storyTitle": "라면 끓이기 절차",
+ "story": "형은 라면 procedure(절차)를 열 단계로 적었어요. 1단계는 손 씻기였죠. 물을 끓인 뒤 다음 단계로 proceed(진행하다)했는데, 전체 process(과정)가 너무 길어 제한 시간을 exceed(초과하다)했어요. 결국 면은 퉁퉁 불었지만, 형은 '절차는 완벽했다'며 뿌듯해했답니다!"
+}

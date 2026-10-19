@@ -1,0 +1,68 @@
+{
+ "word": "thank-you note",
+ "pos": "명사구",
+ "phonetic": "[ˈθæŋk juː noʊt]",
+ "meaning": "감사 편지, 감사 쪽지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "thank-you",
+   "meaning": "감사 (thank you)",
+   "note": "어떤 내용의 쪽지인지 꾸며 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "note",
+   "meaning": "쪽지, 짧은 편지 (note)",
+   "note": "짧게 적은 글을 뜻해요."
+  }
+ ],
+ "summary": "<strong>thank-you</strong> (감사) + <strong>note</strong> (쪽지) = '고마움을 적은 짧은 글'에서 <strong>'감사 편지'</strong>",
+ "historyTitle": "생각이 '고마움'이 되기까지",
+ "historyBody": "thank는 고대 영어 þancian에서 왔고, think와 같은 뿌리로 원래 '좋게 생각해 줌'이라는 뜻이 있었어요. note는 라틴어 nota(표시, 기호)에서 왔어요. 영미권에서는 선물이나 도움을 받은 뒤 손으로 쓴 thank-you note를 보내는 문화가 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "thank-you card",
+   "pos": "명사구",
+   "meaning": "감사 카드",
+   "en": "She mailed a thank-you card to her teacher.",
+   "ko": "그녀는 선생님께 감사 카드를 부쳤어요."
+  },
+  {
+   "word": "note",
+   "pos": "명사 / 동사",
+   "meaning": "쪽지, 메모 / 주목하다",
+   "en": "I left a note on the fridge.",
+   "ko": "나는 냉장고에 쪽지를 남겼어요."
+  },
+  {
+   "word": "notebook",
+   "pos": "명사",
+   "meaning": "공책",
+   "en": "Write the new words in your notebook.",
+   "ko": "새 단어를 공책에 적으세요."
+  },
+  {
+   "word": "thankful",
+   "pos": "형용사",
+   "meaning": "고맙게 여기는",
+   "en": "I am thankful for my friends.",
+   "ko": "나는 친구들에게 고마워요."
+  },
+  {
+   "word": "express gratitude",
+   "pos": "숙어",
+   "meaning": "감사를 표하다",
+   "en": "He expressed gratitude to the volunteers.",
+   "ko": "그는 자원봉사자들에게 감사를 표했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선물을 받은 뒤 작은 카드에 정성스럽게 감사 인사를 쓰는 장면",
+ "imageCaption": "작은 카드에 하트를 그리며 '고마워요'라고 꾹꾹 눌러 쓰는 손을 떠올려 보세요.",
+ "movieLineEn": "I wrote her a thank-you note, but I was too shy to give it.",
+ "movieLineKo": "그녀에게 감사 편지를 썼는데, 부끄러워서 못 줬어.",
+ "storyTitle": "감사의 무한 반복",
+ "story": "할머니가 용돈을 주셔서 thank-you note(감사 편지)를 보냈어요. 할머니는 thankful(고맙게 여기는)한 마음에 답장 note(쪽지)와 용돈을 또 보내셨죠. 나는 다시 thank-you card(감사 카드)를 썼고, 할머니는 또 용돈을 보내셨어요. 엄마가 말렸어요. \"이건 감사가 아니라 사업이야!\""
+}

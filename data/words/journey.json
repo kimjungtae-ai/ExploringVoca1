@@ -1,0 +1,61 @@
+{
+ "word": "journey",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈdʒɜːrni]",
+ "meaning": "여행, 여정 / 여행하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "journ",
+   "meaning": "날, 하루 (day)",
+   "note": "프랑스어 jour, 라틴어 diurnum(하루)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ey",
+   "meaning": "~의 양, ~동안의 일 (amount)",
+   "note": "고대 프랑스어 -ée에서 온 꼬리로, '하루 동안 한 만큼'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>journ</strong> (하루) + <strong>-ey</strong> (~동안의 일) = '하루 동안 가는 길'이라는 뜻에서 <strong>'여행, 여정'</strong>이 되었어요.",
+ "historyTitle": "하루 동안 걸은 거리",
+ "historyBody": "journey는 고대 프랑스어 journee('하루, 하루 동안의 일이나 여행')에서 왔어요. 옛날에는 하루 걸을 수 있는 거리가 곧 하나의 여정이었던 거죠. 같은 라틴어 diurnum(하루)에서 '하루하루 적는' journal(일지)과 journalist(기자)도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "journal",
+   "pos": "명사",
+   "meaning": "일지, 학술지, 신문",
+   "en": "I write in my journal every evening.",
+   "ko": "나는 매일 저녁 일기를 써요."
+  },
+  {
+   "word": "journalist",
+   "pos": "명사",
+   "meaning": "기자, 언론인",
+   "en": "The journalist interviewed people at the scene.",
+   "ko": "그 기자는 현장에서 사람들을 인터뷰했어요."
+  },
+  {
+   "word": "journalism",
+   "pos": "명사",
+   "meaning": "언론, 저널리즘",
+   "en": "She wants to study journalism at university.",
+   "ko": "그녀는 대학에서 언론학을 공부하고 싶어 해요."
+  },
+  {
+   "word": "adjourn",
+   "pos": "동사",
+   "meaning": "(회의를) 휴회하다, 연기하다",
+   "en": "The meeting was adjourned until next Monday.",
+   "ko": "회의는 다음 주 월요일까지 연기되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 배낭을 메고 긴 길을 따라 걸어가는 여행자",
+ "imageCaption": "해가 뜰 때 출발해 해가 질 때까지 걷는 하루의 여정을 떠올려 보세요.",
+ "movieLineEn": "Every great journey begins with a single step.",
+ "movieLineKo": "모든 위대한 여정은 한 걸음에서 시작돼.",
+ "storyTitle": "거북이의 세계 여행",
+ "story": "거북이가 세계 일주 journey(여행)를 떠났어요. 매일 journal(일지)에 '오늘은 3미터 감'이라고 적었죠. 이 이야기를 들은 journalist(기자)가 취재를 왔어요. 기자는 기사를 쓰다 회의를 adjourn(연기하다)하고 거북이를 기다렸어요. 10년 뒤, 거북이는 드디어 옆집에 도착했답니다."
+}

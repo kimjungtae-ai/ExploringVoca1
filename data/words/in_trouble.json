@@ -1,0 +1,68 @@
+{
+ "word": "in trouble",
+ "pos": "전치사구",
+ "phonetic": "[ɪn ˈtrʌbl]",
+ "meaning": "곤경에 처한, 혼날 상황인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 상태에 (in)",
+   "note": "'어떤 상태 안에 빠져 있다'는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "trouble",
+   "meaning": "곤란, 문제 (trouble)",
+   "note": "걱정스럽고 '어지러운 상황'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>in</strong> (~ 상태 안에) + <strong>trouble</strong> (곤란) = '곤란한 상황 속에 빠져'에서 <strong>'곤경에 처한'</strong>",
+ "historyTitle": "'흐리게 휘젓다'에서 온 trouble",
+ "historyBody": "trouble은 고대 프랑스어 trubler(어지럽히다)에서 왔고, 라틴어 turbidus(흐린, 어지러운)와 관련 있어요. 맑은 물을 휘저어 '흐리게 만들다'에서 '곤란, 문제'가 되었죠. disturb(방해하다), turbulence(난기류)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "get into trouble",
+   "pos": "숙어",
+   "meaning": "곤란에 빠지다",
+   "en": "He got into trouble for being late.",
+   "ko": "그는 지각해서 곤란해졌어."
+  },
+  {
+   "word": "troublesome",
+   "pos": "형용사",
+   "meaning": "골치 아픈",
+   "en": "This troublesome printer jams every day.",
+   "ko": "이 골치 아픈 프린터는 매일 종이가 걸려."
+  },
+  {
+   "word": "disturb",
+   "pos": "동사",
+   "meaning": "방해하다",
+   "en": "Please don't disturb me while I'm studying.",
+   "ko": "공부하는 동안 방해하지 마."
+  },
+  {
+   "word": "in danger",
+   "pos": "전치사구",
+   "meaning": "위험에 처한",
+   "en": "The rare bird is in danger of extinction.",
+   "ko": "그 희귀한 새는 멸종 위기에 처해 있어."
+  },
+  {
+   "word": "in need",
+   "pos": "전치사구",
+   "meaning": "어려움에 처한",
+   "en": "We should help people in need.",
+   "ko": "우리는 어려운 사람들을 도와야 해."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃병을 깨뜨리고 엄마 발소리를 듣는 장면",
+ "imageCaption": "흙탕물 속에 빠진 것처럼 앞이 흐릿하고 막막한 상황을 떠올려 보세요.",
+ "movieLineEn": "If Mom sees this mess, we're in big trouble.",
+ "movieLineKo": "엄마가 이 난장판을 보면 우리 큰일 나.",
+ "storyTitle": "꽃병 사건",
+ "story": "형제가 공놀이하다 꽃병을 깼어요. 둘 다 in trouble(곤경에 처한) 상황이었죠. 형은 get into trouble(곤란에 빠지다) 하기 싫어 고양이 탓을 하자 했어요. 고양이가 troublesome(골치 아픈) 표정으로 쳐다봤죠. 그때 엄마가 들어와 말했어요. \"그 꽃병, 원래 버리려던 거야. 고마워!\""
+}

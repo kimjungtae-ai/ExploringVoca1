@@ -1,0 +1,61 @@
+{
+ "word": "treadmill",
+ "pos": "명사",
+ "phonetic": "[ˈtredmɪl]",
+ "meaning": "러닝머신, 트레드밀, 단조롭고 지루한 일",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "tread",
+   "meaning": "밟다 (step on)",
+   "note": "고대 영어 tredan(밟다)에서 온 순수 영어 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "mill",
+   "meaning": "방앗간, 맷돌 (mill)",
+   "note": "후기 라틴어 molinum(방앗간)에서 고대 영어로 들어왔어요."
+  }
+ ],
+ "summary": "<strong>tread</strong> (밟다) + <strong>mill</strong> (방앗간) = 밟아서 돌리는 방아, 즉 <strong>'러닝머신'</strong>이 되었어요.",
+ "historyTitle": "감옥의 벌에서 헬스장 기구로",
+ "historyBody": "treadmill은 원래 사람이나 동물이 바퀴를 밟아 돌려 곡식을 빻는 방아를 뜻했어요. 1818년 영국의 기술자 윌리엄 큐빗은 죄수들이 하루 종일 바퀴를 밟게 하는 '형벌용 treadmill'을 만들었죠. 그래서 지금도 treadmill에는 '끝없이 반복되는 지루한 일'이라는 뜻이 남아 있답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "tread",
+   "pos": "동사 / 명사",
+   "meaning": "밟다, 걷다 / 발걸음, 타이어 홈",
+   "en": "Please tread carefully on the icy path.",
+   "ko": "얼음 길에서는 조심해서 걸으세요."
+  },
+  {
+   "word": "mill",
+   "pos": "명사",
+   "meaning": "방앗간, 공장",
+   "en": "The old mill by the river still grinds wheat.",
+   "ko": "강가의 오래된 방앗간은 아직도 밀을 빻아요."
+  },
+  {
+   "word": "windmill",
+   "pos": "명사",
+   "meaning": "풍차",
+   "en": "We took pictures in front of a giant windmill.",
+   "ko": "우리는 거대한 풍차 앞에서 사진을 찍었어요."
+  },
+  {
+   "word": "miller",
+   "pos": "명사",
+   "meaning": "방앗간 주인",
+   "en": "The miller worked from early morning until night.",
+   "ko": "방앗간 주인은 이른 아침부터 밤까지 일했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 헬스장에서 러닝머신 위를 달리는 사람",
+ "imageCaption": "제자리에서 아무리 달려도 앞으로 나아가지 않는 러닝머신을 떠올려 보세요. 원래는 밟아서 돌리던 방아였어요.",
+ "movieLineEn": "I ran ten miles today... on the treadmill, watching cartoons.",
+ "movieLineKo": "나 오늘 10마일 달렸어… 러닝머신 위에서 만화 보면서.",
+ "storyTitle": "햄스터의 헬스장",
+ "story": "햄스터는 자기 바퀴를 treadmill(러닝머신)이라 부르며 매일 달렸어요. 언젠가 windmill(풍차)이 있는 먼 마을에 갈 거라며 열심히 tread(밟다)했죠. 마을 miller(방앗간 주인)가 되고 싶었거든요. 1년 뒤 계산해 보니 지구 반 바퀴를 달렸는데, 위치는 여전히 내 방 책상 위였답니다."
+}

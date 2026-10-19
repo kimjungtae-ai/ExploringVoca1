@@ -1,0 +1,67 @@
+{
+ "word": "illustration",
+ "pos": "명사",
+ "phonetic": "[ˌɪləˈstreɪʃn]",
+ "meaning": "삽화, 실례, 설명",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "il- (in-)",
+   "meaning": "~안에, ~위에 (in, upon)",
+   "note": "in-이 l 앞에서 il-로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "lustr",
+   "meaning": "밝히다, 빛나게 하다 (light up)",
+   "note": "라틴어 lustrare(밝히다)에서 왔어요. lux(빛)와 관련 있어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>il-</strong> (~에) + <strong>lustr</strong> (빛을 비추다) + <strong>-ation</strong> (명사) = '빛을 비춰 환하게 보여 주는 것'에서 <strong>'삽화, 설명, 실례'</strong>가 되었어요.",
+ "historyTitle": "어두운 생각에 빛을 비추다",
+ "historyBody": "라틴어 illustrare는 '빛을 비추다, 밝히다'라는 뜻이었어요. 그래서 illustration은 처음에 '정신적으로 밝혀 줌, 설명'을 뜻했죠. 17세기 이후 책에 그림을 넣어 내용을 '환하게' 보여 주는 '삽화'라는 뜻이 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "illustrate",
+   "pos": "동사",
+   "meaning": "설명하다, 삽화를 넣다",
+   "en": "The teacher used a map to illustrate the trade route.",
+   "ko": "선생님은 무역로를 설명하려고 지도를 사용했어요."
+  },
+  {
+   "word": "illustrator",
+   "pos": "명사",
+   "meaning": "삽화가",
+   "en": "The illustrator drew cute animals for the children's book.",
+   "ko": "삽화가는 그 동화책에 귀여운 동물들을 그렸어요."
+  },
+  {
+   "word": "illustrious",
+   "pos": "형용사",
+   "meaning": "저명한, 빛나는",
+   "en": "The museum honored the illustrious scientist.",
+   "ko": "박물관은 그 저명한 과학자를 기렸어요."
+  },
+  {
+   "word": "luster",
+   "pos": "명사",
+   "meaning": "광택, 윤기",
+   "en": "The old silver cup lost its luster over time.",
+   "ko": "그 오래된 은잔은 세월이 흐르며 광택을 잃었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 동화책 속 알록달록한 그림",
+ "imageCaption": "글만 있으면 어두운데 그림이 '빛을 비춰' 이야기가 환해지는 모습을 떠올리세요.",
+ "movieLineEn": "This illustration in the old book... it's a map to the treasure!",
+ "movieLineKo": "오래된 책 속 이 삽화... 보물로 가는 지도야!",
+ "storyTitle": "삽화가의 실수",
+ "story": "유명한 illustrator(삽화가)가 공룡 책의 illustration(삽화)을 맡았어요. 그는 티라노사우루스를 멋지게 illustrate(그리다)했죠. 그림은 luster(광택)가 흐를 만큼 아름다웠어요. 그는 illustrious(저명한) 상까지 받았죠. 그런데 한 아이가 손을 들었어요. \"아저씨, 티라노 팔이 왜 네 개예요?\""
+}

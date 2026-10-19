@@ -1,0 +1,68 @@
+{
+ "word": "negative",
+ "pos": "형용사 / 명사",
+ "phonetic": "[ˈneɡətɪv]",
+ "meaning": "부정적인, 음성의 / 부정, 거절",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "neg",
+   "meaning": "아니라고 하다 (deny)",
+   "note": "라틴어 negare(부정하다, 아니라고 말하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ative",
+   "meaning": "~하는 성질의 (형용사)",
+   "note": "성질을 나타내는 형용사 접미사예요."
+  }
+ ],
+ "summary": "<strong>neg</strong> (아니라고 하다) + <strong>-ative</strong> (~하는 성질의) = '아니다'라고 하는 성질이라서 <strong>'부정적인'</strong>이 되었어요.",
+ "historyTitle": "'아니오'를 말하던 라틴어",
+ "historyBody": "라틴어 negare는 '아니라고 말하다'라는 뜻으로, 부정을 나타내는 ne-(아니)와 관련이 있어요. negative는 처음엔 '거절하는'이라는 뜻이었고, 나중에 수학의 음수, 사진의 필름, 검사 결과의 '음성'까지 뜻이 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "deny",
+   "pos": "동사",
+   "meaning": "부정하다, 거부하다",
+   "en": "He denied that he had broken the window.",
+   "ko": "그는 창문을 깬 사실을 부인했어요."
+  },
+  {
+   "word": "denial",
+   "pos": "명사",
+   "meaning": "부인, 거부",
+   "en": "Her denial of the rumor came too late.",
+   "ko": "그녀의 소문 부인은 너무 늦게 나왔어요."
+  },
+  {
+   "word": "negate",
+   "pos": "동사",
+   "meaning": "무효로 하다, 부정하다",
+   "en": "One mistake can negate months of hard work.",
+   "ko": "한 번의 실수가 몇 달간의 노력을 무효로 만들 수 있어요."
+  },
+  {
+   "word": "negativity",
+   "pos": "명사",
+   "meaning": "부정적인 태도",
+   "en": "Try to stay away from negativity on social media.",
+   "ko": "소셜 미디어의 부정적인 분위기를 멀리하려고 노력해 봐."
+  },
+  {
+   "word": "negatively",
+   "pos": "부사",
+   "meaning": "부정적으로",
+   "en": "Lack of sleep can negatively affect your grades.",
+   "ko": "수면 부족은 성적에 부정적인 영향을 줄 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 고개를 절레절레 흔들며 '아니요'라고 하는 사람",
+ "imageCaption": "무슨 말을 해도 팔짱을 끼고 고개를 젓는 사람을 떠올려 보세요.",
+ "movieLineEn": "Stop being so negative. We can still win this.",
+ "movieLineKo": "그렇게 부정적으로 굴지 마. 우린 아직 이길 수 있어.",
+ "storyTitle": "부정왕 철수",
+ "story": "철수는 뭐든 negative(부정적인) 말만 해요. 소풍을 가자고 하면 \"비 올 거야\"라며 deny(거부하다)하죠. 친구들은 그의 negativity(부정적인 태도)를 고치려고 몰래 생일 파티를 준비했어요. 철수가 \"파티 같은 건 없어\"라고 denial(부인)하는 순간 폭죽이 터졌답니다!"
+}

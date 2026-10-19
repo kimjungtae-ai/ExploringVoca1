@@ -1,0 +1,68 @@
+{
+ "word": "conflict with",
+ "pos": "구동사",
+ "phonetic": "[kənˈflɪkt wɪð]",
+ "meaning": "~와 충돌하다, ~와 상충하다, ~와 겹치다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "conflict",
+   "meaning": "충돌하다; 갈등 (conflict)",
+   "note": "con-(함께)+flict(치다)로 '서로 맞부딪치다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 (with)",
+   "note": "부딪치는 '상대'를 나타내요."
+  }
+ ],
+ "summary": "<strong>conflict</strong> (서로 맞부딪치다) + <strong>with</strong> (~와) = '~와 서로 부딪치다'에서 <strong>'~와 충돌하다, (일정이) 겹치다'</strong>",
+ "historyTitle": "'서로 치다' confligere",
+ "historyBody": "conflict는 라틴어 'con-(함께, 서로)'와 'fligere(치다, 때리다)'가 합쳐진 confligere에서 왔어요. 원래는 실제로 싸우고 부딪친다는 뜻이었지만, 지금은 의견, 이익, 일정이 '맞부딪치는' 것에도 쓰여요. 동사일 때는 [kənˈflɪkt], 명사일 때는 [ˈkɑːnflɪkt]처럼 강세가 달라요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "conflict",
+   "pos": "명사",
+   "meaning": "갈등, 충돌",
+   "en": "The two countries tried to solve the conflict peacefully.",
+   "ko": "두 나라는 갈등을 평화롭게 해결하려 했어요."
+  },
+  {
+   "word": "clash with",
+   "pos": "구동사",
+   "meaning": "~와 충돌하다",
+   "en": "His opinion often clashes with mine.",
+   "ko": "그의 의견은 종종 내 의견과 충돌해."
+  },
+  {
+   "word": "inflict",
+   "pos": "동사",
+   "meaning": "(고통을) 가하다",
+   "en": "The storm inflicted heavy damage on the town.",
+   "ko": "폭풍은 그 마을에 큰 피해를 입혔어요."
+  },
+  {
+   "word": "disagree with",
+   "pos": "구동사",
+   "meaning": "~와 의견이 다르다",
+   "en": "I disagree with you on this point.",
+   "ko": "이 점에서는 너와 생각이 달라."
+  },
+  {
+   "word": "conflict of interest",
+   "pos": "명사구",
+   "meaning": "이해 충돌",
+   "en": "A judge must avoid any conflict of interest.",
+   "ko": "판사는 어떤 이해 충돌도 피해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 같은 시간에 잡힌 두 약속이 달력 위에서 겹쳐 있는 모습",
+ "imageCaption": "달력의 같은 칸에 '학원'과 '생일 파티'가 겹쳐 적혀 있는 장면을 떠올려 보세요.",
+ "movieLineEn": "I'm sorry, but the meeting conflicts with my exam.",
+ "movieLineKo": "미안하지만 그 회의가 내 시험이랑 겹쳐.",
+ "storyTitle": "겹친 약속",
+ "story": "토요일 3시, 친구 생일 파티가 수학 학원과 conflict with(겹치다)했어요. 엄마와 나의 생각은 늘 clash with(충돌하다)했죠. 엄마와 disagree with(의견이 다르다)하며 conflict(갈등)가 커졌어요. 결국 나는 학원으로 갔는데, 선생님이 케이크를 꺼내셨어요. 알고 보니 친구가 학원에서 깜짝 파티를 준비했던 거예요!"
+}

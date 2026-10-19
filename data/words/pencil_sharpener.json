@@ -1,0 +1,68 @@
+{
+ "word": "pencil sharpener",
+ "pos": "명사구",
+ "phonetic": "[ˈpensəl ˈʃɑːrpənər]",
+ "meaning": "연필깎이",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "pencil",
+   "meaning": "연필 (pencil)",
+   "note": "라틴어 penicillus(작은 꼬리, 가는 붓)에서 왔어요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "sharpener",
+   "meaning": "깎는 도구 (sharpener)",
+   "note": "sharp(날카로운) + -en(~하게 하다) + -er(도구)예요."
+  }
+ ],
+ "summary": "<strong>pencil</strong> (연필) + <strong>sharpen</strong> (뾰족하게 하다) + <strong>-er</strong> (도구) = '연필을 뾰족하게 만드는 도구'에서 <strong>'연필깎이'</strong>",
+ "historyTitle": "연필은 원래 '작은 꼬리' 붓",
+ "historyBody": "pencil은 라틴어 penicillus(작은 꼬리, 화가의 가는 붓)에서 고대 프랑스어를 거쳐 왔어요. 원래는 가는 붓을 뜻하다가 흑연 필기구로 뜻이 바뀌었죠. 재미있게도 곰팡이 penicillium(페니실륨)도 붓 모양이라 같은 뿌리의 이름을 얻었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sharpen",
+   "pos": "동사",
+   "meaning": "날카롭게 하다, 갈다",
+   "en": "Reading helps sharpen your thinking skills.",
+   "ko": "독서는 사고력을 날카롭게 해 줘요."
+  },
+  {
+   "word": "sharp",
+   "pos": "형용사",
+   "meaning": "날카로운, 급격한",
+   "en": "Be careful. That knife is very sharp.",
+   "ko": "조심해. 그 칼 엄청 날카로워."
+  },
+  {
+   "word": "sharply",
+   "pos": "부사",
+   "meaning": "급격히, 날카롭게",
+   "en": "Prices rose sharply last month.",
+   "ko": "지난달 물가가 급격히 올랐어요."
+  },
+  {
+   "word": "pencil case",
+   "pos": "명사구",
+   "meaning": "필통",
+   "en": "I keep three pens in my pencil case.",
+   "ko": "나는 필통에 펜 세 자루를 넣고 다녀요."
+  },
+  {
+   "word": "eraser",
+   "pos": "명사",
+   "meaning": "지우개",
+   "en": "Can I borrow your eraser?",
+   "ko": "네 지우개 좀 빌려도 될까?"
+  }
+ ],
+ "imageSense": "대표 의미: 연필을 넣고 손잡이를 돌려 뾰족하게 깎는 장면",
+ "imageCaption": "드르륵드르륵 손잡이를 돌리면 연필심이 뾰족해지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Hand me the pencil sharpener. I need a weapon.",
+ "movieLineKo": "연필깎이 좀 줘. 무기가 필요해.",
+ "storyTitle": "연필깎이 중독",
+ "story": "시험 전날, 나는 공부 대신 pencil sharpener(연필깎이)로 연필을 sharpen(뾰족하게 하다)했어요. 연필이 아주 sharp(날카로운)해질 때까지 깎았죠. 열 자루를 깎고 나니 pencil case(필통)엔 손가락만 한 연필들만 남았어요. 공부는 하나도 못 했고요!"
+}

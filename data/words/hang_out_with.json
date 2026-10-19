@@ -1,0 +1,74 @@
+{
+ "word": "hang out with",
+ "pos": "구동사",
+ "phonetic": "[hæŋ ˈaʊt wɪð]",
+ "meaning": "~와 어울려 놀다, ~와 시간을 보내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "hang",
+   "meaning": "걸다, 매달리다 (hang)",
+   "note": "한곳에 '걸려 있듯' 머무른다는 이미지를 줘요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "out",
+   "meaning": "밖에 (out)",
+   "note": "집 밖이나 편한 곳에서 느긋하게 있다는 느낌을 더해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와 함께 (with)",
+   "note": "누구와 함께 시간을 보내는지 연결해 줘요."
+  }
+ ],
+ "summary": "<strong>hang</strong> (매달려 있다) + <strong>out</strong> (밖에) + <strong>with</strong> (~와) = '~와 밖에서 어슬렁거리며 머물다'에서 <strong>'~와 어울려 놀다'</strong>",
+ "historyTitle": "어슬렁거리던 곳에서 '놀다'로",
+ "historyBody": "hang out은 19세기에 '어떤 곳에 머물다, 자주 드나들다'라는 뜻의 속어로 쓰였어요. 여기서 hangout(자주 가는 장소)이라는 명사도 생겼죠. 20세기 중반 이후 '친구와 편하게 시간을 보내다'라는 뜻으로 아주 흔해졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hangout",
+   "pos": "명사",
+   "meaning": "자주 가는 곳, 아지트",
+   "en": "This café is our favorite hangout after school.",
+   "ko": "이 카페는 방과 후 우리가 가장 좋아하는 아지트야."
+  },
+  {
+   "word": "hang up",
+   "pos": "구동사",
+   "meaning": "전화를 끊다",
+   "en": "Don't hang up! I have something to tell you.",
+   "ko": "끊지 마! 너한테 할 말이 있어."
+  },
+  {
+   "word": "hang on",
+   "pos": "구동사",
+   "meaning": "잠깐 기다리다, 꽉 붙잡다",
+   "en": "Hang on a second, I'll get my bag.",
+   "ko": "잠깐만 기다려, 가방 가져올게."
+  },
+  {
+   "word": "get along with",
+   "pos": "구동사",
+   "meaning": "~와 잘 지내다",
+   "en": "I get along with my new classmates.",
+   "ko": "나는 새 반 친구들과 잘 지내."
+  },
+  {
+   "word": "spend time with",
+   "pos": "숙어",
+   "meaning": "~와 시간을 보내다",
+   "en": "I want to spend more time with my family.",
+   "ko": "나는 가족과 더 많은 시간을 보내고 싶어."
+  }
+ ],
+ "imageSense": "대표 의미: 친구들과 공원 벤치에 앉아 수다 떠는 장면",
+ "imageCaption": "옷걸이에 걸린 옷처럼 친구들과 한자리에 느긋하게 '걸려' 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Wanna hang out with us this weekend? We're going to the beach.",
+ "movieLineKo": "이번 주말에 우리랑 놀래? 우리 바다 가.",
+ "storyTitle": "아지트의 진짜 주인",
+ "story": "준호는 친구들과 hang out with(~와 어울리다) 하려고 단골 hangout(아지트) 카페에 갔어요. 엄마 전화에 \"hang on(잠깐만)!\" 하고 급히 hang up(전화를 끊다) 했죠. 그런데 카페 문을 열자 엄마가 친구분들과 앉아 계셨어요. 알고 보니 그곳은 엄마의 20년 된 아지트였답니다!"
+}

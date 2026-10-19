@@ -1,0 +1,61 @@
+{
+ "word": "awesome",
+ "pos": "형용사",
+ "phonetic": "[ˈɔːsəm]",
+ "meaning": "굉장한, 멋진, 경외감을 일으키는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "awe",
+   "meaning": "경외감, 두려움 (awe)",
+   "note": "너무 크고 대단해서 압도되는 느낌이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-some",
+   "meaning": "~을 일으키는 (causing)",
+   "note": "handsome, troublesome처럼 '그런 성질을 지닌'이라는 뜻을 더해요."
+  }
+ ],
+ "summary": "<strong>awe</strong> (경외감) + <strong>-some</strong> (일으키는) = '경외감을 불러일으키는'에서 <strong>'굉장한, 멋진'</strong>이 되었어요.",
+ "historyTitle": "바이킹의 '두려움'이 '멋짐'이 되기까지",
+ "historyBody": "awe는 고대 노르드어 agi(두려움, 공포)에서 영어로 들어왔어요. 그래서 awesome도 원래는 '두렵게 하는, 경외심을 일으키는'이라는 무거운 뜻이었어요. 20세기 후반 미국 구어에서 '끝내주는, 멋진'이라는 가벼운 뜻이 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "awe",
+   "pos": "명사",
+   "meaning": "경외감",
+   "en": "The students stood in awe of the huge waterfall.",
+   "ko": "학생들은 거대한 폭포 앞에서 경외감에 휩싸여 서 있었어요."
+  },
+  {
+   "word": "awful",
+   "pos": "형용사",
+   "meaning": "끔찍한, 지독한",
+   "en": "The weather was awful, so we stayed inside all day.",
+   "ko": "날씨가 끔찍해서 우리는 하루 종일 안에 있었어요."
+  },
+  {
+   "word": "awfully",
+   "pos": "부사",
+   "meaning": "몹시, 대단히",
+   "en": "It is awfully cold this morning.",
+   "ko": "오늘 아침은 몹시 추워요."
+  },
+  {
+   "word": "awestruck",
+   "pos": "형용사",
+   "meaning": "경외감에 사로잡힌",
+   "en": "The awestruck children watched the rocket launch.",
+   "ko": "경외감에 사로잡힌 아이들이 로켓 발사를 지켜보았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 밤하늘의 은하수를 올려다보며 감탄하는 사람",
+ "imageCaption": "입이 떡 벌어질 만큼 대단한 장면 앞에서 '와!' 하고 감탄하는 모습을 떠올려 보세요.",
+ "movieLineEn": "That was the most awesome thing I've ever seen!",
+ "movieLineKo": "내가 본 것 중에 제일 끝내주는 거였어!",
+ "storyTitle": "할머니의 놀라운 스케이트보드",
+ "story": "손자는 할머니의 요리가 awful(끔찍한)할까 봐 걱정했어요. 그런데 할머니가 스케이트보드를 타고 피자를 배달하자 온 동네가 awe(경외감)에 빠졌죠. awestruck(경외감에 사로잡힌) 손자가 외쳤어요. '할머니 awesome(굉장한)!' 알고 보니 할머니는 왕년의 스케이트 챔피언이었대요."
+}

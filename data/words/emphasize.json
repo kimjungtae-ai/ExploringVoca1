@@ -1,0 +1,74 @@
+{
+ "word": "emphasize",
+ "pos": "동사",
+ "phonetic": "[ˈemfəsaɪz]",
+ "meaning": "강조하다, 중요시하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "em- (en-)",
+   "meaning": "안에 (in)",
+   "note": "그리스어 en(안에)이 p 앞에서 em-이 된 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pha (phainein)",
+   "meaning": "보여 주다, 드러내다 (show)",
+   "note": "그리스어 phainein(보이게 하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-size (-sis + -ize)",
+   "meaning": "~의 상태 + ~하게 하다",
+   "note": "emphasis의 -sis와 동사를 만드는 -ize가 합쳐진 모양이에요."
+  }
+ ],
+ "summary": "<strong>em-</strong> (안에) + <strong>pha</strong> (보여 주다) + <strong>-ize</strong> (~하게 하다) = '확실히 드러나 보이게 하다'라는 뜻에서 <strong>'강조하다'</strong>가 되었어요.",
+ "historyTitle": "그리스 연설가의 비밀 무기",
+ "historyBody": "그리스어 emphasis는 원래 '드러내 보임, 겉모습'이라는 뜻이었어요. 그리스 수사학에서는 말에 숨은 뜻을 더 강하게 드러내는 표현을 가리켰답니다. 영어에서는 emphasis(강조)가 먼저 쓰였고, 19세기 초에 emphasize가 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "emphasis",
+   "pos": "명사",
+   "meaning": "강조, 중점",
+   "en": "Our school puts emphasis on reading.",
+   "ko": "우리 학교는 독서에 중점을 둬요."
+  },
+  {
+   "word": "emphatic",
+   "pos": "형용사",
+   "meaning": "강조하는, 단호한",
+   "en": "She gave an emphatic 'No!' to the idea.",
+   "ko": "그녀는 그 생각에 단호하게 '안 돼!'라고 말했어요."
+  },
+  {
+   "word": "phenomenon",
+   "pos": "명사",
+   "meaning": "현상 (눈에 보이는 것)",
+   "en": "A rainbow is a natural phenomenon.",
+   "ko": "무지개는 자연 현상이에요."
+  },
+  {
+   "word": "phase",
+   "pos": "명사",
+   "meaning": "단계, 국면 (보이는 모습)",
+   "en": "The project is now in its final phase.",
+   "ko": "그 프로젝트는 지금 마지막 단계에 있어요."
+  },
+  {
+   "word": "fantasy",
+   "pos": "명사",
+   "meaning": "공상, 환상 (마음에 보이는 것)",
+   "en": "He loves reading fantasy novels about dragons.",
+   "ko": "그는 드래곤이 나오는 판타지 소설 읽는 걸 좋아해요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 교과서 문장에 빨간 형광펜을 칠하는 장면",
+ "imageCaption": "'여기 시험에 나온다!'며 형광펜으로 쭉 긋는 순간을 떠올려 보세요. 중요한 걸 눈에 띄게 하는 게 emphasize예요.",
+ "movieLineEn": "Let me emphasize this: nobody leaves this room.",
+ "movieLineKo": "분명히 강조하지. 아무도 이 방을 나갈 수 없어.",
+ "storyTitle": "형광펜 마니아 선생님",
+ "story": "우리 영어 선생님은 중요한 부분을 emphasize(강조하다)할 때마다 형광펜을 칠하세요. emphasis(강조)가 너무 많아서 교과서가 온통 노란색이 되었죠. 친구들은 이 phenomenon(현상)을 '노란 교과서 사건'이라고 불렀어요. 결국 선생님은 emphatic(단호한) 목소리로 말했어요. \"오늘은 칠하지 않은 부분이 시험에 나온다!\""
+}

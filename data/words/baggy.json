@@ -1,0 +1,54 @@
+{
+ "word": "baggy",
+ "pos": "형용사",
+ "phonetic": "[ˈbæɡi]",
+ "meaning": "헐렁한, 불룩한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "bag",
+   "meaning": "가방, 자루 (bag)",
+   "note": "자루처럼 축 처지고 불룩한 모양을 떠올려요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-y",
+   "meaning": "~같은, ~한 (like)",
+   "note": "명사 뒤에 붙어 '그런 성질이 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>bag</strong> (자루) + <strong>-y</strong> (~같은) = '자루처럼 축 늘어진'에서 <strong>'헐렁한'</strong>이 되었어요.",
+ "historyTitle": "자루처럼 늘어진 옷",
+ "historyBody": "bag는 13세기쯤 영어에 나타난 단어로, 고대 노르드어 baggi(꾸러미)에서 왔다는 설이 유력하지만 정확한 기원은 확실하지 않아요. baggy는 19세기에 '자루처럼 불룩하고 늘어진'이라는 뜻으로 쓰이기 시작했어요. 바지나 셔츠가 헐렁할 때 자주 쓰여요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "bag",
+   "pos": "명사",
+   "meaning": "가방, 봉지",
+   "en": "Please put the apples in a paper bag.",
+   "ko": "사과를 종이 봉지에 넣어 주세요."
+  },
+  {
+   "word": "handbag",
+   "pos": "명사",
+   "meaning": "핸드백",
+   "en": "She found her keys at the bottom of her handbag.",
+   "ko": "그녀는 핸드백 바닥에서 열쇠를 찾았어요."
+  },
+  {
+   "word": "schoolbag",
+   "pos": "명사",
+   "meaning": "책가방",
+   "en": "My schoolbag is heavy because of all the textbooks.",
+   "ko": "교과서 때문에 내 책가방이 무거워요."
+  }
+ ],
+ "imageSense": "대표 의미: 아빠의 큰 바지를 입어 헐렁하게 늘어진 모습",
+ "imageCaption": "허리가 남아 손으로 잡고 다녀야 하는 큰 바지를 떠올려 보세요. 자루처럼 펄럭이죠!",
+ "movieLineEn": "Why are you wearing such baggy pants? Are you hiding something?",
+ "movieLineKo": "왜 그렇게 헐렁한 바지를 입었어? 뭐 숨기는 거 있어?",
+ "storyTitle": "헐렁한 바지의 비밀",
+ "story": "준호는 늘 baggy(헐렁한) 바지를 입고 다녔어요. 친구들은 패션이라 생각했죠. 그런데 어느 날 바지에서 bag(봉지) 과자가 줄줄 쏟아졌어요! 사실 바지는 비밀 schoolbag(책가방)이었어요. 엄마의 handbag(핸드백)보다 더 많이 들어간대요."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "compartment",
+ "pos": "명사",
+ "phonetic": "[kəmˈpɑːrtmənt]",
+ "meaning": "칸, 구획, (열차의) 객실",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히, 함께 (강조)",
+   "note": "뜻을 강조해요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "part",
+   "meaning": "나누다, 부분 (part, share)",
+   "note": "라틴어 partiri(나누다), pars(부분)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~한 것 (명사형)",
+   "note": "동사를 결과물이나 상태를 나타내는 명사로 만들어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>part</strong> (나누다) + <strong>-ment</strong> (것) = '나눠 놓은 공간'이라는 데서 <strong>'칸, 구획'</strong>이 되었습니다.",
+ "historyTitle": "건축가들이 쓰던 말",
+ "historyBody": "후기 라틴어 compartiri는 '나누다, 함께 나누어 갖다'라는 뜻이었어요. 이탈리아어 compartimento와 프랑스어 compartiment를 거쳐 16세기 영어에 들어왔고, 처음에는 건축이나 정원의 구획을 뜻했어요. 19세기 철도가 생기자 열차의 객실 칸을 가리키게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "part",
+   "pos": "명사",
+   "meaning": "부분, 역할",
+   "en": "The best part of the movie was the ending.",
+   "ko": "그 영화의 가장 좋은 부분은 결말이었어."
+  },
+  {
+   "word": "partial",
+   "pos": "형용사",
+   "meaning": "부분적인, 편파적인",
+   "en": "The plan was only a partial success.",
+   "ko": "그 계획은 부분적인 성공에 그쳤어요."
+  },
+  {
+   "word": "apartment",
+   "pos": "명사",
+   "meaning": "아파트",
+   "en": "We live in an apartment near the station.",
+   "ko": "우리는 역 근처 아파트에 살아요."
+  },
+  {
+   "word": "department",
+   "pos": "명사",
+   "meaning": "부서, 학과",
+   "en": "She works in the sales department.",
+   "ko": "그녀는 영업부에서 일해요."
+  },
+  {
+   "word": "participate",
+   "pos": "동사",
+   "meaning": "참여하다",
+   "en": "All students must participate in the event.",
+   "ko": "모든 학생은 그 행사에 참여해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 도시락 통의 칸마다 반찬이 가지런히 나뉘어 담긴 모습",
+ "imageCaption": "공간을 깔끔하게 나눈(part) 칸칸을 떠올려 보세요.",
+ "movieLineEn": "Keep your bag in the overhead compartment, please.",
+ "movieLineKo": "가방은 머리 위 짐칸에 넣어 주세요.",
+ "storyTitle": "도시락 칸의 반란",
+ "story": "엄마가 싸 준 도시락은 다섯 개의 compartment(칸)로 나뉘어 있었어요. 한 칸에만 고기가 있어서 반찬들이 partial(편파적인) 대우라며 화가 났죠. 결국 모두 소스 칸에 participate(참여하다)해 섞여 버렸어요. 열어 보니 비빔밥이 되어 있었답니다!"
+}

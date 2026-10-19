@@ -1,0 +1,68 @@
+{
+ "word": "non-stick",
+ "pos": "형용사",
+ "phonetic": "[ˌnɑːnˈstɪk]",
+ "meaning": "(음식이) 들러붙지 않는, 코팅된",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "non-",
+   "meaning": "~이 아닌 (not)",
+   "note": "라틴어 non(아니)에서 온 부정 접두사예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "stick",
+   "meaning": "들러붙다 (stick)",
+   "note": "고대 영어 stician(찌르다, 붙다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>non-</strong> (아닌) + <strong>stick</strong> (들러붙다) = 들러붙지 않는이라서 <strong>'눌어붙지 않는'</strong>이 되었어요.",
+ "historyTitle": "프라이팬 혁명",
+ "historyBody": "non-stick은 20세기 중반, 미끄러운 코팅을 입힌 프라이팬이 나오면서 널리 쓰인 말이에요. stick은 고대 영어에서 '찌르다'와 '붙다'를 모두 뜻했는데, 찔러서 꽂아 두면 붙어 있게 되기 때문이에요. 접두사 non-은 nonstop, nonsense처럼 아주 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "stick",
+   "pos": "동사 / 명사",
+   "meaning": "붙이다, 찌르다 / 막대기",
+   "en": "Stick the note on the fridge so you won't forget.",
+   "ko": "잊지 않도록 쪽지를 냉장고에 붙여 둬."
+  },
+  {
+   "word": "sticky",
+   "pos": "형용사",
+   "meaning": "끈적끈적한",
+   "en": "My hands were sticky after eating cotton candy.",
+   "ko": "솜사탕을 먹고 나니 손이 끈적끈적했어요."
+  },
+  {
+   "word": "sticker",
+   "pos": "명사",
+   "meaning": "스티커",
+   "en": "She decorated her notebook with cute stickers.",
+   "ko": "그녀는 귀여운 스티커로 공책을 꾸몄어요."
+  },
+  {
+   "word": "nonstop",
+   "pos": "형용사 / 부사",
+   "meaning": "직항의 / 쉬지 않고",
+   "en": "We took a nonstop flight to New York.",
+   "ko": "우리는 뉴욕행 직항 비행기를 탔어요."
+  },
+  {
+   "word": "nonsense",
+   "pos": "명사",
+   "meaning": "터무니없는 말",
+   "en": "Don't listen to that nonsense about ghosts.",
+   "ko": "유령에 관한 그런 헛소리는 듣지 마."
+  }
+ ],
+ "imageSense": "대표 의미: 달걀 프라이가 프라이팬 위에서 미끄러지듯 움직이는 모습",
+ "imageCaption": "팬을 살짝 기울이기만 해도 달걀이 스르륵 접시로 미끄러지는 장면을 떠올려 보세요.",
+ "movieLineEn": "Use the non-stick pan, or the pancakes will be ruined!",
+ "movieLineKo": "눌어붙지 않는 팬을 써. 안 그러면 팬케이크 다 망친다고!",
+ "storyTitle": "미끄러운 팬케이크",
+ "story": "아빠가 non-stick(눌어붙지 않는) 프라이팬으로 팬케이크를 구웠어요. 너무 잘 미끄러져서 팬케이크가 nonstop(쉬지 않고)으로 날아다녔죠. 결국 천장에 stick(붙다)한 팬케이크는 sticky(끈적한) 시럽 덕분이었어요. 엄마가 \"이게 무슨 nonsense(터무니없는 일)야!\"라고 외쳤답니다."
+}

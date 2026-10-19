@@ -1,0 +1,68 @@
+{
+ "word": "supply",
+ "pos": "동사 / 명사",
+ "phonetic": "[səˈplaɪ]",
+ "meaning": "공급하다, 제공하다 / 공급, 보급품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sup- (sub-)",
+   "meaning": "아래에서 위로 (under, up)",
+   "note": "sub-가 p 앞에서 sup-으로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ply (← plere)",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 plere(채우다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sup-</strong> (아래부터) + <strong>ply</strong> (채우다) = '부족한 곳을 채워 주다'에서 <strong>'공급하다, 공급'</strong>이 되었어요.",
+ "historyTitle": "모자란 걸 채우는 일",
+ "historyBody": "supply는 라틴어 supplere(채우다, 보충하다)가 고대 프랑스어 soupleer를 거쳐 14세기 영어로 들어온 말이에요. 처음엔 '보충하다'라는 뜻이었고, 나중에 '필요한 물건을 대 주다', 즉 '공급하다'가 중심 뜻이 되었어요. 경제학의 '수요와 공급(demand and supply)'에도 나오죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "supplement",
+   "pos": "명사 / 동사",
+   "meaning": "보충제 / 보충하다",
+   "en": "He takes a vitamin supplement every day.",
+   "ko": "그는 매일 비타민 보충제를 먹어요."
+  },
+  {
+   "word": "supplier",
+   "pos": "명사",
+   "meaning": "공급자, 공급 업체",
+   "en": "The company changed its paper supplier.",
+   "ko": "그 회사는 종이 공급 업체를 바꿨어요."
+  },
+  {
+   "word": "complete",
+   "pos": "동사",
+   "meaning": "완성하다",
+   "en": "It took two years to complete the bridge.",
+   "ko": "그 다리를 완성하는 데 2년이 걸렸어요."
+  },
+  {
+   "word": "plenty",
+   "pos": "명사",
+   "meaning": "풍부함",
+   "en": "There is plenty of food for everyone.",
+   "ko": "모두가 먹을 음식이 충분히 있어요."
+  },
+  {
+   "word": "complement",
+   "pos": "동사",
+   "meaning": "보완하다",
+   "en": "The sauce complements the fish perfectly.",
+   "ko": "그 소스는 생선과 완벽하게 어울려요."
+  }
+ ],
+ "imageSense": "대표 의미: 트럭이 마트에 물건을 실어 와 채우는 장면",
+ "imageCaption": "텅 빈 마트 진열대를 트럭이 가져온 물건으로 다시 채우는 모습을 떠올려 보세요.",
+ "movieLineEn": "We're running out of supplies. We need to find food!",
+ "movieLineKo": "보급품이 다 떨어져 가. 먹을 걸 찾아야 해!",
+ "storyTitle": "무한 공급 간식",
+ "story": "할머니는 내 방에 간식을 끝없이 supply(공급하다)하는 최고의 supplier(공급자)예요. 과자가 plenty(풍부함)하게 쌓여도 영양 supplement(보충)라며 귤까지 주셨죠. 덕분에 방학 동안 숙제는 하나도 complete(완성하다)하지 못했지만, 몸무게 목표는 확실히 달성했답니다!"
+}

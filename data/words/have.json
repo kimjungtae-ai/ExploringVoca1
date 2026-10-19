@@ -1,0 +1,48 @@
+{
+ "word": "have",
+ "pos": "동사",
+ "phonetic": "[hæv]",
+ "meaning": "가지다, 먹다, 겪다, ~하게 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "have (古 habban)",
+   "meaning": "가지다, 쥐다 (hold, possess)",
+   "note": "고대 영어 habban에서 온 게르만계 단어예요. 라틴어 habere와 닮았지만 친척이 아니에요!"
+  }
+ ],
+ "summary": "<strong>have</strong>는 고대 영어 habban(<strong>쥐다, 가지다</strong>)에서 와서 <strong>'가지다, 먹다, 겪다'</strong>처럼 아주 넓게 쓰이게 되었어요.",
+ "historyTitle": "닮았지만 남남인 have와 habere",
+ "historyBody": "have는 고대 영어 habban에서 왔고, '움켜쥐다'라는 인도유럽 조어 *kap-에 뿌리를 둔다고 봐요. 라틴어 habere(가지다)와 뜻도 모양도 비슷하지만, 사전들은 서로 다른 뿌리로 봐요. 그래서 habit, habitat은 have의 친척이 아니랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "behave",
+   "pos": "동사",
+   "meaning": "행동하다, 처신하다",
+   "en": "The children behaved well during the trip.",
+   "ko": "아이들은 여행 내내 얌전하게 행동했어."
+  },
+  {
+   "word": "behavior",
+   "pos": "명사",
+   "meaning": "행동, 태도",
+   "en": "Her kind behavior impressed everyone.",
+   "ko": "그녀의 친절한 행동은 모두를 감동시켰어."
+  },
+  {
+   "word": "misbehave",
+   "pos": "동사",
+   "meaning": "못된 짓을 하다",
+   "en": "The puppy misbehaves when it is bored.",
+   "ko": "강아지는 심심하면 말썽을 부려."
+  }
+ ],
+ "imageSense": "대표 의미: 손에 무언가를 꼭 쥐고 '내 거야!' 하는 장면",
+ "imageCaption": "두 손으로 선물 상자를 꼭 끌어안은 모습을 떠올려 보세요. 가진다는 느낌이 딱 와요.",
+ "movieLineEn": "We have no time. Let's go!",
+ "movieLineKo": "시간이 없어. 가자!",
+ "storyTitle": "착한 아이 작전",
+ "story": "동생은 새 게임기를 have(가지다)하고 싶었어요. 그래서 일주일 동안 behave(행동하다)를 잘하기로 했죠. 설거지, 청소까지 완벽한 behavior(행동)였어요. 엄마는 감동해서 '뭘 have(가지다)하고 싶니?' 물었죠. 그 순간 동생은 기뻐서 소파 위에서 방방 뛰며 misbehave(말썽 부리다)했고, 게임기는 다음 달로 미뤄졌어요."
+}

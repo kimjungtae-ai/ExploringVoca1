@@ -1,0 +1,61 @@
+{
+ "word": "gift",
+ "pos": "명사",
+ "phonetic": "[ɡɪft]",
+ "meaning": "선물, 재능",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "give",
+   "meaning": "주다 (give)",
+   "note": "gift는 give와 같은 게르만어 뿌리에서 나왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-t",
+   "meaning": "~한 것 (명사)",
+   "note": "옛 게르만어 명사 꼬리로, '주어진 것'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>give</strong> (주다) + <strong>-t</strong> (~한 것) = '주어진 것'이라는 뜻에서 <strong>'선물, (하늘이 준) 재능'</strong>이 되었습니다.",
+ "historyTitle": "바이킹이 가져온 '선물'",
+ "historyBody": "gift는 give와 같은 뿌리에서 나온 단어로, 지금의 형태는 고대 노르드어 gipt(선물)의 영향을 받았어요. 고대 영어 gift는 원래 '신부를 맞을 때 치르는 값'을 뜻하기도 했대요. '재능'이라는 뜻은 '하늘이 내려 준 선물'이라는 생각에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "give",
+   "pos": "동사",
+   "meaning": "주다",
+   "en": "My friends gave me a surprise party on my birthday.",
+   "ko": "친구들이 내 생일에 깜짝 파티를 열어 줬어요."
+  },
+  {
+   "word": "gifted",
+   "pos": "형용사",
+   "meaning": "재능 있는",
+   "en": "She is a gifted pianist who started playing at age four.",
+   "ko": "그녀는 네 살에 연주를 시작한 재능 있는 피아니스트예요."
+  },
+  {
+   "word": "forgive",
+   "pos": "동사",
+   "meaning": "용서하다",
+   "en": "Please forgive me for being late.",
+   "ko": "늦어서 미안해요, 용서해 주세요."
+  },
+  {
+   "word": "giver",
+   "pos": "명사",
+   "meaning": "주는 사람, 기부자",
+   "en": "Givers often feel happier than receivers.",
+   "ko": "주는 사람이 받는 사람보다 더 행복함을 느낄 때가 많아요."
+  }
+ ],
+ "imageSense": "대표 의미: 리본을 묶은 선물 상자를 건네는 장면",
+ "imageCaption": "예쁜 리본을 묶은 상자를 두 손으로 건네며 웃는 친구의 모습을 떠올려 보세요.",
+ "movieLineEn": "This isn't just a gift. It's a key to another world.",
+ "movieLineKo": "이건 그냥 선물이 아니야. 다른 세계로 가는 열쇠지.",
+ "storyTitle": "재능 있는 강아지의 선물",
+ "story": "우리 집 강아지는 정말 gifted(재능 있는)해요. 매일 나에게 gift(선물)를 give(주다)하거든요. 오늘의 선물은 아빠의 새 구두 한 짝이었어요. 아빠는 화를 내셨지만, 강아지의 눈빛을 보고 금세 forgive(용서하다)하셨죠. 최고의 giver(주는 사람)는 사실 아빠였네요!"
+}

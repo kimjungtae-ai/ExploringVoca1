@@ -1,0 +1,68 @@
+{
+ "word": "environmentally friendly",
+ "pos": "형용사구",
+ "phonetic": "[ɪnˌvaɪrənˈmentəli ˈfrendli]",
+ "meaning": "환경친화적인, 친환경적인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "environmentally",
+   "meaning": "환경적으로 (environmentally)",
+   "note": "environ(둘러싸다) + -ment(명사) + -al + -ly로 '환경 면에서'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "friendly",
+   "meaning": "친화적인, 우호적인 (friendly)",
+   "note": "'~에 해를 주지 않는, ~에 좋은'이라는 의미로 쓰여요."
+  }
+ ],
+ "summary": "<strong>environmentally</strong> (환경적으로) + <strong>friendly</strong> (우호적인) = '환경에게 친구처럼 대하는'이라서 <strong>'친환경적인'</strong>이에요.",
+ "historyTitle": "우리를 빙 둘러싼 것, environment",
+ "historyBody": "environment는 고대 프랑스어 environer(둘러싸다, en- + viron '둘레')에서 왔어요. 그러니까 환경은 '우리를 빙 둘러싸고 있는 모든 것'이죠. friendly는 고대 영어 freondlic에서 왔고, '-friendly'는 user-friendly처럼 '~에게 좋은'이라는 복합어를 많이 만들어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "eco-friendly",
+   "pos": "형용사",
+   "meaning": "친환경적인",
+   "en": "We use eco-friendly bags instead of plastic ones.",
+   "ko": "우리는 비닐봉지 대신 친환경 가방을 써요."
+  },
+  {
+   "word": "user-friendly",
+   "pos": "형용사",
+   "meaning": "사용하기 쉬운",
+   "en": "This app is simple and user-friendly.",
+   "ko": "이 앱은 간단하고 사용하기 쉬워요."
+  },
+  {
+   "word": "environment",
+   "pos": "명사",
+   "meaning": "환경",
+   "en": "We should protect the environment for future generations.",
+   "ko": "우리는 미래 세대를 위해 환경을 보호해야 해요."
+  },
+  {
+   "word": "environmental",
+   "pos": "형용사",
+   "meaning": "환경의",
+   "en": "Air pollution is a serious environmental problem.",
+   "ko": "대기 오염은 심각한 환경 문제예요."
+  },
+  {
+   "word": "sustainable",
+   "pos": "형용사",
+   "meaning": "지속 가능한",
+   "en": "The city is looking for sustainable energy sources.",
+   "ko": "그 도시는 지속 가능한 에너지원을 찾고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 장바구니와 텀블러를 들고 장을 보는 모습",
+ "imageCaption": "플라스틱 대신 재사용 가방을 쓰는, 지구에게 친구가 되어 주는 장면이에요.",
+ "movieLineEn": "This car runs on sunshine. Totally environmentally friendly!",
+ "movieLineKo": "이 차는 햇빛으로 달려. 완전 친환경이지!",
+ "storyTitle": "친환경 끝판왕",
+ "story": "준호는 environmentally friendly(친환경적인) 삶을 결심했어요. eco-friendly(친환경적인) 칫솔을 쓰고, environment(환경)를 위해 자전거만 탔죠. sustainable(지속 가능한) 생활이라며 머리도 감지 않았어요. 일주일 뒤 친구들이 말했어요. \"준호야, 너 때문에 environmental(환경의) 문제가 생겼어. 냄새 공해야!\""
+}

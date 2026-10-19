@@ -1,0 +1,80 @@
+{
+ "word": "immediately",
+ "pos": "부사",
+ "phonetic": "[ɪˈmiːdiətli]",
+ "meaning": "즉시, 곧바로, 직접적으로",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "im- (in-)",
+   "meaning": "~이 아닌 (not)",
+   "note": "in-이 m 앞에서 im-으로 바뀐 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "medi",
+   "meaning": "중간 (middle)",
+   "note": "라틴어 medius(가운데의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~한 (형용사형)",
+   "note": "라틴어 형용사 꼬리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ly",
+   "meaning": "~하게 (부사형)",
+   "note": "형용사를 부사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>im-</strong> (없음) + <strong>medi</strong> (중간) + <strong>-ate</strong> + <strong>-ly</strong> (~하게) = '중간에 아무것도 끼지 않고'라는 뜻에서 <strong>'즉시, 곧바로'</strong>가 되었어요.",
+ "historyTitle": "사이에 아무것도 없다는 것",
+ "historyBody": "후기 라틴어 immediatus는 in(아님) + mediatus(가운데 끼인)가 합쳐진 말로, '중간에 끼어든 것이 없는'이라는 뜻이었어요. 처음엔 '직접적인'이라는 뜻이었고, 시간 사이에 아무것도 없다는 뜻에서 '즉시'가 되었죠. medium(매체), media(미디어)도 '가운데'라는 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "immediate",
+   "pos": "형용사",
+   "meaning": "즉각적인, 직접적인",
+   "en": "The new law had an immediate effect on prices.",
+   "ko": "새 법은 가격에 즉각적인 영향을 미쳤어요."
+  },
+  {
+   "word": "medium",
+   "pos": "명사 / 형용사",
+   "meaning": "매체 / 중간의",
+   "en": "I'd like a medium size coffee, please.",
+   "ko": "중간 크기 커피 한 잔 주세요."
+  },
+  {
+   "word": "media",
+   "pos": "명사",
+   "meaning": "대중 매체, 미디어",
+   "en": "Social media changed how young people get news.",
+   "ko": "소셜 미디어는 젊은이들이 뉴스를 접하는 방식을 바꿨어요."
+  },
+  {
+   "word": "intermediate",
+   "pos": "형용사",
+   "meaning": "중급의, 중간의",
+   "en": "She moved from the beginner class to the intermediate class.",
+   "ko": "그녀는 초급반에서 중급반으로 올라갔어요."
+  },
+  {
+   "word": "medieval",
+   "pos": "형용사",
+   "meaning": "중세의",
+   "en": "We visited a medieval castle in France.",
+   "ko": "우리는 프랑스에서 중세 성을 방문했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 화재 경보가 울리자마자 소방관이 달려 나가는 장면",
+ "imageCaption": "경보와 출동 '사이에 아무것도 없는' 순간을 떠올리세요. 그게 immediately예요.",
+ "movieLineEn": "Get out of the building immediately! It's going to explode!",
+ "movieLineKo": "당장 건물에서 나가! 곧 폭발할 거야!",
+ "storyTitle": "즉시 답장의 비밀",
+ "story": "엄마가 문자를 보내면 저는 immediately(즉시) 답해야 해요. 엄마는 immediate(즉각적인) 답이 없으면 social media(미디어)에 제 사진을 올리시거든요. 그 사진은 medieval(중세의) 기사 옷을 입은 제 다섯 살 사진이에요. 그래서 저는 intermediate(중급) 수준의 초고속 타자 실력을 갖게 되었답니다."
+}

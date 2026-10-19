@@ -1,0 +1,87 @@
+{
+ "word": "misconception",
+ "pos": "명사",
+ "phonetic": "[ˌmɪskənˈsepʃn]",
+ "meaning": "오해, 잘못된 생각",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "mis-",
+   "meaning": "잘못 (wrongly)",
+   "note": "잘못되었다는 뜻을 더해요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히, 함께 (together)",
+   "note": "강조의 의미를 더하는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cept",
+   "meaning": "잡다, 받아들이다 (take)",
+   "note": "라틴어 capere(잡다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>mis-</strong> (잘못) + <strong>con-</strong> (완전히) + <strong>cept</strong> (잡다) + <strong>-ion</strong> = 생각을 잘못 붙잡은 것이라서 <strong>'오해'</strong>가 되었어요.",
+ "historyTitle": "생각을 '붙잡는' 라틴어",
+ "historyBody": "conception은 라틴어 concipere(마음속에 품다, 받아들이다)에서 왔어요. 생각을 머릿속에 '잡아 넣는' 것이 개념이고, 그걸 잘못 잡으면 misconception이 되는 거예요. capere 가족에는 receive, accept, except처럼 '잡다'와 관련된 단어가 아주 많아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "concept",
+   "pos": "명사",
+   "meaning": "개념",
+   "en": "The concept of gravity is hard for young children.",
+   "ko": "중력의 개념은 어린아이들에게 어려워요."
+  },
+  {
+   "word": "conceive",
+   "pos": "동사",
+   "meaning": "생각해 내다, 상상하다",
+   "en": "It is hard to conceive of life without the internet.",
+   "ko": "인터넷 없는 삶은 상상하기 어려워요."
+  },
+  {
+   "word": "perceive",
+   "pos": "동사",
+   "meaning": "인지하다, 지각하다",
+   "en": "Dogs perceive sounds that humans cannot hear.",
+   "ko": "개는 사람이 들을 수 없는 소리를 인지해요."
+  },
+  {
+   "word": "accept",
+   "pos": "동사",
+   "meaning": "받아들이다",
+   "en": "She accepted the invitation with a big smile.",
+   "ko": "그녀는 활짝 웃으며 초대를 받아들였어요."
+  },
+  {
+   "word": "exception",
+   "pos": "명사",
+   "meaning": "예외",
+   "en": "Everyone must wear a uniform, with no exception.",
+   "ko": "예외 없이 모두가 교복을 입어야 해요."
+  },
+  {
+   "word": "deception",
+   "pos": "명사",
+   "meaning": "속임, 기만",
+   "en": "The magician's trick was a clever deception.",
+   "ko": "마술사의 묘기는 영리한 속임수였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 머릿속에 엉뚱하게 끼워진 퍼즐 조각",
+ "imageCaption": "퍼즐 조각을 틀린 자리에 억지로 끼워 넣고 '완성!'이라고 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "That's a common misconception. Let me explain.",
+ "movieLineKo": "그건 흔한 오해야. 내가 설명해 줄게.",
+ "storyTitle": "금붕어의 오해",
+ "story": "금붕어 기억력이 3초라는 건 misconception(오해)이래요. 과학자들이 이 concept(개념)을 시험했더니 금붕어가 몇 달 전 일도 perceive(인지하다)했죠. 금붕어는 결과를 accept(받아들이다)하며 말했어요. \"그런데… 방금 무슨 얘기 했더라?\""
+}

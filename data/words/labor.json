@@ -1,0 +1,62 @@
+{
+ "word": "labor",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈleɪbər]",
+ "meaning": "노동, 일, 노동자 계층, 분만 / 노동하다, 애쓰다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "labor",
+   "meaning": "노동, 수고 (toil)",
+   "note": "라틴어 labor(수고, 고된 일)가 그대로 들어온 말이에요."
+  }
+ ],
+ "summary": "라틴어 <strong>labor</strong> (수고, 고된 일) = 땀 흘려 애쓰는 일에서 <strong>'노동, 애쓰다'</strong>가 되었어요.",
+ "historyTitle": "고된 일을 뜻한 라틴어",
+ "historyBody": "labor는 라틴어 labor('수고, 고생, 고된 일')에서 고대 프랑스어를 거쳐 14세기 영어로 들어왔어요. 아기를 낳는 일도 큰 수고라서 '분만'이라는 뜻도 생겼죠. 미국은 labor, 영국은 labour라고 써요. 같은 뿌리에서 laboratory(실험실), collaborate(협력하다)가 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "laboratory",
+   "pos": "명사",
+   "meaning": "실험실, 연구소",
+   "en": "The students did an experiment in the laboratory.",
+   "ko": "학생들은 실험실에서 실험을 했어요."
+  },
+  {
+   "word": "laborious",
+   "pos": "형용사",
+   "meaning": "힘든, 공들인",
+   "en": "Copying books by hand was a laborious task.",
+   "ko": "손으로 책을 베끼는 것은 힘든 일이었어요."
+  },
+  {
+   "word": "collaborate",
+   "pos": "동사",
+   "meaning": "협력하다, 공동 작업하다",
+   "en": "Two artists collaborated on the new album.",
+   "ko": "두 예술가가 새 앨범을 함께 작업했어요."
+  },
+  {
+   "word": "elaborate",
+   "pos": "형용사 / 동사",
+   "meaning": "정교한 / 자세히 설명하다",
+   "en": "She made an elaborate cake for the wedding.",
+   "ko": "그녀는 결혼식을 위해 정교한 케이크를 만들었어요."
+  },
+  {
+   "word": "laborer",
+   "pos": "명사",
+   "meaning": "노동자, 일꾼",
+   "en": "The laborers built the bridge in two years.",
+   "ko": "노동자들은 2년 만에 그 다리를 지었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뜨거운 햇볕 아래 땀 흘리며 벽돌을 나르는 노동자",
+ "imageCaption": "이마에 땀방울이 맺힌 채 열심히 일하는 사람의 손을 떠올려 보세요.",
+ "movieLineEn": "Hard labor never scared me. Laziness does.",
+ "movieLineKo": "힘든 노동은 날 겁주지 못해. 겁나는 건 게으름이야.",
+ "storyTitle": "개미들의 협업",
+ "story": "개미 laborer(일꾼)들은 매일 고된 labor(노동)를 했어요. 그러다 머리 좋은 개미가 laboratory(실험실)를 만들어 elaborate(정교한) 운반 기계를 발명했죠. 모두 collaborate(협력하다)해 기계를 완성했어요. 그런데 기계가 너무 커서 개미굴 입구에 안 들어갔답니다. 결국 다시 직접 날랐어요."
+}

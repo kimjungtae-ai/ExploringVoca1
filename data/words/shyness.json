@@ -1,0 +1,47 @@
+{
+ "word": "shyness",
+ "pos": "명사",
+ "phonetic": "[ˈʃaɪnəs]",
+ "meaning": "수줍음, 부끄러움",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shy",
+   "meaning": "수줍은 (shy)",
+   "note": "고대 영어 'scēoh(겁 많은, 놀라기 쉬운)'에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ness",
+   "meaning": "~함, ~한 상태 (명사)",
+   "note": "형용사를 상태를 나타내는 명사로 바꿔요."
+  }
+ ],
+ "summary": "<strong>shy</strong> (수줍은) + <strong>-ness</strong> (~함) = <strong>'수줍음'</strong>이에요.",
+ "historyTitle": "겁 많은 말(馬)에서 온 shy",
+ "historyBody": "고대 영어 'scēoh'는 '겁 많은, 잘 놀라는'이라는 뜻으로, 특히 깜짝 놀라 뒷걸음치는 말(馬)을 묘사할 때 쓰였어요. 이 뜻이 사람에게 쓰이면서 '수줍은'이 되었죠. shyness는 '남 앞에서 움츠러드는 마음'을 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "shy",
+   "pos": "형용사",
+   "meaning": "수줍은",
+   "en": "The shy boy hid behind his mother.",
+   "ko": "수줍은 소년은 엄마 뒤에 숨었어요."
+  },
+  {
+   "word": "shyly",
+   "pos": "부사",
+   "meaning": "수줍게",
+   "en": "She smiled shyly when I said hello.",
+   "ko": "내가 인사하자 그녀는 수줍게 웃었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 발표 시간에 얼굴이 빨개져 종이로 얼굴을 가린 학생",
+ "imageCaption": "친구들 앞에서 말하려니 목소리가 작아지고 볼이 붉어지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't let your shyness stop you. Go talk to her!",
+ "movieLineKo": "수줍음 때문에 멈추지 마. 가서 그녀한테 말 걸어!",
+ "storyTitle": "수줍은 가수 지망생",
+ "story": "shy(수줍은) 지우는 가수가 꿈이지만 shyness(수줍음) 때문에 늘 숨어서 노래했어요. 오디션 날, 지우는 shyly(수줍게) 무대 뒤 커튼 속에서 노래했죠. 심사위원들은 커튼이 노래하는 줄 알고 감동! 결국 '복면 가수 커튼'으로 데뷔했어요."
+}

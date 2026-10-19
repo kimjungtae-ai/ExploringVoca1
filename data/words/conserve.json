@@ -1,0 +1,75 @@
+{
+ "word": "conserve",
+ "pos": "동사",
+ "phonetic": "[kənˈsɜːrv]",
+ "meaning": "보존하다, 보호하다, 아끼다, 절약하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히, 함께 (thoroughly, together)",
+   "note": "뜻을 강하게 만들어 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "serve",
+   "meaning": "지키다, 보존하다 (keep, preserve)",
+   "note": "라틴어 servare에서 왔어요. '섬기다'의 serve(servire)와는 다른 어근이에요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>serve</strong> (지키다) = '끝까지 잘 지켜 두다'라는 뜻에서 <strong>'보존하다, 아끼다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 servare, '지켜 두다'",
+ "historyBody": "conserve는 라틴어 conservare(보존하다)에서 왔어요. servare는 '지키다, 간직하다'라는 뜻으로 preserve, reserve, observe에도 들어 있어요. 영어 serve(섬기다)는 servire에서 온 다른 단어라서 헷갈리지 않게 조심하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "conservation",
+   "pos": "명사",
+   "meaning": "보존, 보호",
+   "en": "The conservation of forests is important for protecting wildlife.",
+   "ko": "숲의 보존은 야생 동물을 보호하는 데 중요해요."
+  },
+  {
+   "word": "conservative",
+   "pos": "형용사",
+   "meaning": "보수적인",
+   "en": "My grandfather has conservative views about fashion.",
+   "ko": "우리 할아버지는 패션에 대해 보수적인 생각을 갖고 계세요."
+  },
+  {
+   "word": "preserve",
+   "pos": "동사",
+   "meaning": "보존하다, 지키다",
+   "en": "People salt fish to preserve it for a long time.",
+   "ko": "사람들은 생선을 오래 보존하려고 소금에 절여요."
+  },
+  {
+   "word": "reserve",
+   "pos": "동사",
+   "meaning": "예약하다, 남겨 두다",
+   "en": "We reserved a table for four at the restaurant.",
+   "ko": "우리는 식당에 네 명 자리를 예약했어요."
+  },
+  {
+   "word": "reservation",
+   "pos": "명사",
+   "meaning": "예약",
+   "en": "I made a reservation for the hotel online.",
+   "ko": "나는 온라인으로 호텔 예약을 했어요."
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "meaning": "관찰하다, (규칙을) 지키다",
+   "en": "Scientists observe how birds build their nests.",
+   "ko": "과학자들은 새들이 둥지를 짓는 방법을 관찰해요."
+  }
+ ],
+ "imageSense": "대표 의미: 전기 스위치를 끄고 물을 아껴 쓰는 장면",
+ "imageCaption": "불 꺼진 빈 방과 꼭 잠긴 수도꼭지를 떠올려 보세요. 소중한 것을 '끝까지 지켜 두는' 모습이 바로 conserve예요.",
+ "movieLineEn": "We have to conserve our water until help arrives.",
+ "movieLineKo": "구조대가 올 때까지 물을 아껴야 해.",
+ "storyTitle": "절약왕 다람쥐의 대반전",
+ "story": "다람쥐는 겨울을 위해 도토리를 conserve(아끼다)하기로 했어요. 숲 conservation(보존) 캠페인에도 참여하고, 도토리를 꿀에 절여 preserve(보존하다)했죠. 친구들이 놀러 오면 자리를 reserve(예약하다)하라고 할 정도였어요. 그런데 봄이 되자 어디에 묻었는지 기억이 안 났대요!"
+}

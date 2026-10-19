@@ -1,0 +1,74 @@
+{
+ "word": "cultivate",
+ "pos": "동사",
+ "phonetic": "[ˈkʌltɪveɪt]",
+ "meaning": "경작하다, 재배하다, (능력·관계를) 기르다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cult",
+   "meaning": "갈다, 돌보다 (till, tend)",
+   "note": "라틴어 colere(땅을 갈다, 돌보다)의 과거분사 cultus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-iv",
+   "meaning": "~하는 (형용사형)",
+   "note": "중세 라틴어 cultivus(경작할 수 있는)의 일부예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>cult</strong> (땅을 갈다) + <strong>-iv</strong> + <strong>-ate</strong> (~하다) = '땅을 갈아 정성껏 돌보다'에서 <strong>'경작하다, 기르다'</strong>가 되었어요.",
+ "historyTitle": "땅을 가는 것과 마음을 가꾸는 것",
+ "historyBody": "cultivate는 중세 라틴어 cultivare에서 왔고, 그 뿌리는 colere(땅을 갈다, 돌보다)예요. 같은 뿌리에서 culture(문화)가 나왔는데, '땅을 가꾸듯 마음과 사회를 가꾼 결과'라는 뜻이에요. agriculture(농업)는 '밭(ager)을 가는 일'이라는 뜻이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cultivation",
+   "pos": "명사",
+   "meaning": "경작, 재배, 함양",
+   "en": "Rice cultivation needs a lot of water.",
+   "ko": "벼 재배에는 물이 많이 필요해요."
+  },
+  {
+   "word": "culture",
+   "pos": "명사",
+   "meaning": "문화, 재배",
+   "en": "Food is an important part of every culture.",
+   "ko": "음식은 모든 문화의 중요한 부분이에요."
+  },
+  {
+   "word": "cultural",
+   "pos": "형용사",
+   "meaning": "문화의, 문화적인",
+   "en": "The city holds many cultural events.",
+   "ko": "그 도시는 많은 문화 행사를 열어요."
+  },
+  {
+   "word": "agriculture",
+   "pos": "명사",
+   "meaning": "농업",
+   "en": "Agriculture is the main industry in this area.",
+   "ko": "이 지역의 주요 산업은 농업이에요."
+  },
+  {
+   "word": "colony",
+   "pos": "명사",
+   "meaning": "식민지, (동식물의) 군집",
+   "en": "Ants live in large colonies.",
+   "ko": "개미는 큰 군집을 이루어 살아요."
+  }
+ ],
+ "imageSense": "대표 의미: 농부가 밭을 갈고 씨앗을 심는 장면",
+ "imageCaption": "괭이로 흙을 고르고 새싹에 물을 주는 농부를 떠올려 보세요. 정성껏 갈고 돌보는 것이 cultivate예요.",
+ "movieLineEn": "You must cultivate patience if you want to become a master.",
+ "movieLineKo": "달인이 되고 싶다면 인내심을 길러야 한다.",
+ "storyTitle": "텃밭 할머니의 비밀",
+ "story": "할머니는 옥상에서 상추를 cultivate(재배하다)하셨어요. 그 cultivation(재배) 솜씨는 동네 culture(문화)가 될 정도였죠. 사람들은 할머니가 agriculture(농업) 박사라고 생각했어요. 비결을 묻자 할머니는 웃으며 말했어요. '매일 상추한테 칭찬해 줬지.' 상추가 춤을 췄대요!"
+}

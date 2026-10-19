@@ -1,0 +1,75 @@
+{
+ "word": "specifics",
+ "pos": "명사 (복수)",
+ "phonetic": "[spəˈsɪfɪks]",
+ "meaning": "세부 사항, 구체적인 내용",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "specific",
+   "meaning": "구체적인 (particular)",
+   "note": "speci(종류) + -fic(만들다)로 된 형용사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "~들 (복수 명사)",
+   "note": "형용사에 -s가 붙어 '구체적인 것들', 즉 세부 사항이 돼요."
+  }
+ ],
+ "summary": "<strong>specific</strong> (구체적인) + <strong>-s</strong> (~들) = <strong>'구체적인 내용들, 세부 사항'</strong>입니다.",
+ "historyTitle": "'구체적인 것들'이 된 형용사",
+ "historyBody": "형용사 specific은 라틴어 species(종류)와 facere(만들다)가 합쳐진 specificus에서 왔어요. 여기에 복수형 -s가 붙어 the specifics처럼 '세부 사항'을 뜻하는 명사로 쓰여요. 회의나 계약 이야기에서 자주 등장해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "specific",
+   "pos": "형용사",
+   "meaning": "구체적인, 특정한",
+   "en": "Can you give me a specific example?",
+   "ko": "구체적인 예를 하나 들어 줄 수 있니?"
+  },
+  {
+   "word": "species",
+   "pos": "명사",
+   "meaning": "(생물의) 종",
+   "en": "Many species of birds live in this forest.",
+   "ko": "이 숲에는 많은 종의 새들이 살아요."
+  },
+  {
+   "word": "specify",
+   "pos": "동사",
+   "meaning": "명시하다, 구체적으로 말하다",
+   "en": "Please specify the date of your arrival.",
+   "ko": "도착 날짜를 구체적으로 적어 주세요."
+  },
+  {
+   "word": "specifically",
+   "pos": "부사",
+   "meaning": "구체적으로, 특별히",
+   "en": "This book is written specifically for teenagers.",
+   "ko": "이 책은 특별히 십대들을 위해 쓰였어요."
+  },
+  {
+   "word": "specimen",
+   "pos": "명사",
+   "meaning": "표본, 견본",
+   "en": "The scientist collected a specimen of the rare plant.",
+   "ko": "과학자는 그 희귀 식물의 표본을 채집했어요."
+  },
+  {
+   "word": "aspect",
+   "pos": "명사",
+   "meaning": "측면, 양상",
+   "en": "Music is an important aspect of our culture.",
+   "ko": "음악은 우리 문화의 중요한 측면이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 계획표에 날짜, 시간, 장소를 꼼꼼히 적어 넣는 장면",
+ "imageCaption": "'여행 가자!'에서 끝나지 않고 몇 시 기차, 어느 숙소까지 정하는 게 specifics예요.",
+ "movieLineEn": "Forget the big picture. I want the specifics.",
+ "movieLineKo": "큰 그림은 됐고, 세부 사항을 원해.",
+ "storyTitle": "탐정의 세부 사항",
+ "story": "명탐정 고양이가 사건을 맡았어요. \"specifics(세부 사항)를 말해 주세요.\" 주인은 specifically(구체적으로) 설명했어요. \"specific(특정한) 시간에 생선이 사라졌어요.\" 탐정은 현장을 inspect(조사하다)하고 범인의 species(종)를 specify(명시하다)했죠. \"범인은 고양이입니다.\" 그리고 탐정은 입가의 생선 가시를 슬쩍 닦았어요."
+}

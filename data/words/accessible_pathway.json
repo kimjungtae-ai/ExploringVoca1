@@ -1,0 +1,68 @@
+{
+ "word": "accessible pathway",
+ "pos": "명사구",
+ "phonetic": "[əkˈsesəbl ˈpæθweɪ]",
+ "meaning": "접근 가능한 통로, 장애인도 이용하기 쉬운 길",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "accessible",
+   "meaning": "접근할 수 있는 (reachable)",
+   "note": "라틴어 accedere(다가가다)에서 온 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pathway",
+   "meaning": "길, 통로 (path + way)",
+   "note": "path(작은 길)와 way(길)가 합쳐진 단어예요."
+  }
+ ],
+ "summary": "<strong>accessible</strong> (접근할 수 있는) + <strong>pathway</strong> (통로) = <strong>'누구나 다가갈 수 있는 길'</strong>이라는 뜻이에요.",
+ "historyTitle": "라틴어 accedere, '다가가다'",
+ "historyBody": "accessible은 라틴어 ad-(~쪽으로)와 cedere(가다)가 합쳐진 accedere에서 왔어요. 오늘날에는 휠체어 사용자나 노인 등 누구나 쉽게 이용할 수 있는 시설을 말할 때 자주 써요. 공원이나 행사 안내문에 자주 나오는 표현이랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "access",
+   "pos": "명사 / 동사",
+   "meaning": "접근 / 접근하다",
+   "en": "Students have free access to the computer lab.",
+   "ko": "학생들은 컴퓨터실을 무료로 이용할 수 있어요."
+  },
+  {
+   "word": "accessibility",
+   "pos": "명사",
+   "meaning": "접근성",
+   "en": "The city improved the accessibility of its parks.",
+   "ko": "시는 공원의 접근성을 개선했어요."
+  },
+  {
+   "word": "path",
+   "pos": "명사",
+   "meaning": "길, 경로",
+   "en": "We walked along a narrow path in the forest.",
+   "ko": "우리는 숲속 좁은 길을 따라 걸었어요."
+  },
+  {
+   "word": "wheelchair accessible",
+   "pos": "형용사구",
+   "meaning": "휠체어로 이용 가능한",
+   "en": "The new library is fully wheelchair accessible.",
+   "ko": "새 도서관은 휠체어로 완전히 이용할 수 있어요."
+  },
+  {
+   "word": "inaccessible",
+   "pos": "형용사",
+   "meaning": "접근하기 어려운",
+   "en": "The village was inaccessible after the heavy snow.",
+   "ko": "폭설 후 그 마을은 접근할 수 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공원에 휠체어와 유모차가 지나갈 수 있는 완만한 길",
+ "imageCaption": "계단 대신 경사로가 있는 넓은 길을 떠올려 보세요. 누구나 '다가갈 수 있는' 길이에요.",
+ "movieLineEn": "There's an accessible pathway on the left. Everyone can get through!",
+ "movieLineKo": "왼쪽에 누구나 다닐 수 있는 통로가 있어. 모두 지나갈 수 있어!",
+ "storyTitle": "공원의 새 길",
+ "story": "공원에 accessible pathway(접근 가능한 통로)가 생겼어요. 덕분에 accessibility(접근성)가 좋아져서 할머니도 wheelchair accessible(휠체어로 이용 가능한) 길로 산책하셨죠. 그런데 가장 신난 건 그 path(길)에서 썰매처럼 미끄럼 타는 우리 강아지였답니다!"
+}

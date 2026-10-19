@@ -1,0 +1,74 @@
+{
+ "word": "outdoors",
+ "pos": "부사 / 명사",
+ "phonetic": "[ˌaʊtˈdɔːrz]",
+ "meaning": "야외에서, 밖에서 / 야외, 자연",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "out",
+   "meaning": "밖에 (outside)",
+   "note": "고대 영어 ut에서 온 말이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "door",
+   "meaning": "문 (door)",
+   "note": "고대 영어 duru, dor에서 온 말이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "부사를 만드는 -s",
+   "note": "always, besides처럼 부사를 만드는 옛 꼬리예요."
+  }
+ ],
+ "summary": "<strong>out</strong> (밖) + <strong>door</strong> (문) + <strong>-s</strong> = '문밖에서'라는 뜻에서 <strong>'야외에서'</strong>가 되었어요.",
+ "historyTitle": "문을 나서면 펼쳐지는 세상",
+ "historyBody": "outdoors는 18세기에 out of doors(문밖에)라는 표현이 줄어서 생긴 말이에요. out과 door 모두 고대 영어부터 쓰인 게르만계 단어예요. 끝의 -s는 nowadays나 besides처럼 부사를 만드는 옛 꼬리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "outdoor",
+   "pos": "형용사",
+   "meaning": "야외의",
+   "en": "We had an outdoor lunch under the trees.",
+   "ko": "우리는 나무 아래에서 야외 점심을 먹었어요."
+  },
+  {
+   "word": "indoors",
+   "pos": "부사",
+   "meaning": "실내에서",
+   "en": "It was raining, so the kids played indoors.",
+   "ko": "비가 와서 아이들은 실내에서 놀았어요."
+  },
+  {
+   "word": "indoor",
+   "pos": "형용사",
+   "meaning": "실내의",
+   "en": "The school built a new indoor swimming pool.",
+   "ko": "학교에 새 실내 수영장이 생겼어요."
+  },
+  {
+   "word": "doorway",
+   "pos": "명사",
+   "meaning": "출입구",
+   "en": "My dog always waits for me in the doorway.",
+   "ko": "우리 개는 항상 현관 출입구에서 나를 기다려요."
+  },
+  {
+   "word": "doorstep",
+   "pos": "명사",
+   "meaning": "문간, 현관 계단",
+   "en": "The package was left on our doorstep.",
+   "ko": "택배가 우리 집 현관 앞에 놓여 있었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이들이 문을 열고 햇살 가득한 공원으로 뛰어나가는 장면",
+ "imageCaption": "현관문을 활짝 열고 초록 잔디밭으로 달려 나가는 모습을 떠올려 보세요. 문밖이 바로 outdoors예요.",
+ "movieLineEn": "Get outdoors and breathe some fresh air, kid!",
+ "movieLineKo": "얘야, 밖에 나가서 신선한 공기 좀 마셔!",
+ "storyTitle": "집순이 고양이의 대모험",
+ "story": "고양이 콩이는 늘 indoors(실내에서)만 지냈어요. 어느 날 doorway(출입구)가 열려 처음으로 outdoors(야외에서) 모험을 떠났죠. 신나는 outdoor(야외의) 하루였어요. 그런데 돌아와 보니 doorstep(현관 앞)까지 겨우 세 걸음 나갔던 거였어요."
+}

@@ -1,0 +1,61 @@
+{
+ "word": "hallway",
+ "pos": "명사",
+ "phonetic": "[ˈhɔːlweɪ]",
+ "meaning": "복도, 현관",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "hall",
+   "meaning": "넓은 방, 회관 (large room)",
+   "note": "고대 영어 heall(지붕 덮인 큰 공간)에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "way",
+   "meaning": "길 (path)",
+   "note": "고대 영어 weg(길)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>hall</strong> (큰 방) + <strong>way</strong> (길) = 방과 방을 잇는 길이라는 뜻에서 <strong>'복도'</strong>가 되었어요.",
+ "historyTitle": "바이킹 시대의 큰 홀",
+ "historyBody": "hall은 고대 영어 heall에서 왔는데, 영주와 부하들이 모여 먹고 자던 지붕 덮인 큰 공간이었어요. way는 고대 영어 weg(길)에서 왔죠. 집 구조가 복잡해지면서 큰 방으로 이어지는 통로를 hallway라고 부르게 되었고, 이 말은 19세기 미국에서 자리 잡았어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "hall",
+   "pos": "명사",
+   "meaning": "홀, 회관, 복도",
+   "en": "The concert will be held in the city hall.",
+   "ko": "콘서트는 시청 홀에서 열릴 거야."
+  },
+  {
+   "word": "doorway",
+   "pos": "명사",
+   "meaning": "출입구",
+   "en": "A cat was sleeping in the doorway.",
+   "ko": "고양이 한 마리가 출입구에서 자고 있었어."
+  },
+  {
+   "word": "highway",
+   "pos": "명사",
+   "meaning": "고속도로",
+   "en": "There was heavy traffic on the highway.",
+   "ko": "고속도로에 차가 많이 막혔어."
+  },
+  {
+   "word": "subway",
+   "pos": "명사",
+   "meaning": "지하철",
+   "en": "I take the subway to school every day.",
+   "ko": "나는 매일 지하철을 타고 학교에 가."
+  }
+ ],
+ "imageSense": "대표 의미: 학교 교실들 사이로 길게 뻗은 복도",
+ "imageCaption": "쉬는 시간, 친구들이 오가는 긴 학교 복도를 떠올려 보세요.",
+ "movieLineEn": "Don't run in the hallway!",
+ "movieLineKo": "복도에서 뛰지 마!",
+ "storyTitle": "복도의 미스터리",
+ "story": "밤마다 학교 hallway(복도)에서 발소리가 들렸어요. 학생들은 귀신이 hall(강당)에서 나와 doorway(출입구)로 사라진다고 수군댔죠. 용감한 수진이가 몰래 지켜보니, 범인은 subway(지하철) 막차를 놓친 교장 선생님! 학교에서 몰래 자고 highway(고속도로)를 피해 새벽에 퇴근하셨대요."
+}

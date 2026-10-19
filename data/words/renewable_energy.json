@@ -1,0 +1,68 @@
+{
+ "word": "renewable energy",
+ "pos": "명사구",
+ "phonetic": "[rɪˈnuːəbəl ˈenərdʒi]",
+ "meaning": "재생 에너지, 재생 가능 에너지",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "renewable",
+   "meaning": "재생 가능한 (renewable)",
+   "note": "re-(다시) + new(새로운) + -able(~할 수 있는)로 '다시 새로워질 수 있는'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "energy",
+   "meaning": "에너지 (energy)",
+   "note": "그리스어 energeia(활동, 작용)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>new</strong> (새로운) + <strong>-able</strong> (할 수 있는) + <strong>energy</strong> (에너지) = '계속 다시 채워지는 에너지'라서 <strong>'재생 에너지'</strong>예요.",
+ "historyTitle": "다시 새로워지는 힘",
+ "historyBody": "energy는 그리스어 'energeia(활동)'에서 왔는데, en-(안에) + ergon(일)으로 '안에서 일하는 힘'이라는 뜻이었어요. renew는 '다시 새롭게 하다'라는 영어 조합이에요. 태양광, 풍력, 수력처럼 써도 자연에서 다시 채워지는 에너지를 renewable energy라고 부르고, 석탄·석유 같은 화석 연료와 대비돼요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renew",
+   "pos": "동사",
+   "meaning": "갱신하다, 새롭게 하다",
+   "en": "I need to renew my library card.",
+   "ko": "나는 도서관 카드를 갱신해야 해요."
+  },
+  {
+   "word": "solar power",
+   "pos": "명사구",
+   "meaning": "태양열 발전, 태양 에너지",
+   "en": "The school uses solar power for its lights.",
+   "ko": "그 학교는 조명에 태양 에너지를 사용해요."
+  },
+  {
+   "word": "fossil fuel",
+   "pos": "명사구",
+   "meaning": "화석 연료",
+   "en": "Burning fossil fuels causes air pollution.",
+   "ko": "화석 연료를 태우면 대기 오염이 생겨요."
+  },
+  {
+   "word": "energy-efficient",
+   "pos": "형용사",
+   "meaning": "에너지 효율이 좋은",
+   "en": "We bought an energy-efficient refrigerator.",
+   "ko": "우리는 에너지 효율이 좋은 냉장고를 샀어요."
+  },
+  {
+   "word": "sustainable",
+   "pos": "형용사",
+   "meaning": "지속 가능한",
+   "en": "We need a more sustainable way of living.",
+   "ko": "우리는 더 지속 가능한 생활 방식이 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 바람에 돌아가는 풍차와 햇빛을 받는 태양광 패널 장면",
+ "imageCaption": "넓은 들판에 하얀 풍력 발전기가 돌고 지붕 위 태양광 패널이 반짝이는 모습을 떠올려 보세요. 써도 써도 다시 채워지는 에너지예요.",
+ "movieLineEn": "The future belongs to renewable energy.",
+ "movieLineKo": "미래는 재생 에너지의 것이야.",
+ "storyTitle": "할머니의 발명",
+ "story": "할머니는 renewable energy(재생 에너지)로 집을 운영하겠다며 지붕에 solar power(태양 에너지) 패널을 설치했어요. fossil fuel(화석 연료)은 이제 안녕! sustainable(지속 가능한) 삶이라며 자랑하셨죠. 그런데 장마가 시작되자 할머니는 자전거 발전기를 돌리며 TV를 보고 계셨어요."
+}

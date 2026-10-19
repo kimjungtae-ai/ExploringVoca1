@@ -1,0 +1,48 @@
+{
+ "word": "stuff",
+ "pos": "명사 / 동사",
+ "phonetic": "[stʌf]",
+ "meaning": "물건, 것, 재료 / 채워 넣다, 쑤셔 넣다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stuff (← estoffe)",
+   "meaning": "재료, 물건 (material)",
+   "note": "고대 프랑스어 estoffe(재료, 천)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>stuff</strong>는 쪼개기 어려운 단어로, 고대 프랑스어 estoffe(재료)에서 와서 <strong>'물건, 채워 넣다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "옷감에서 '물건'으로",
+ "historyBody": "stuff는 14세기 고대 프랑스어 estoffe(재료, 옷감)에서 영어로 들어왔어요. estoffe의 더 이전 기원은 게르만어설과 라틴어 stuppa(삼 부스러기)설이 있지만 확실하지 않아요. '속을 채우는 재료'라는 뜻에서 '채워 넣다'라는 동사도 생겼답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "stuffed",
+   "pos": "형용사",
+   "meaning": "속을 채운, 배부른",
+   "en": "I'm stuffed after eating three slices of pizza.",
+   "ko": "피자 세 조각을 먹었더니 배가 터질 것 같아요."
+  },
+  {
+   "word": "stuffy",
+   "pos": "형용사",
+   "meaning": "답답한, 통풍이 안 되는",
+   "en": "The classroom felt stuffy, so we opened the windows.",
+   "ko": "교실이 답답해서 우리는 창문을 열었어요."
+  },
+  {
+   "word": "stuffing",
+   "pos": "명사",
+   "meaning": "속 재료, 충전재",
+   "en": "The toy bear lost some of its stuffing.",
+   "ko": "곰 인형의 충전재가 조금 빠져나왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가방에 이런저런 물건을 꽉꽉 쑤셔 넣는 장면",
+ "imageCaption": "여행 가방에 옷, 과자, 충전기를 마구 밀어 넣는 모습을 떠올려 보세요. 물건(stuff)을 채워 넣는(stuff) 거예요.",
+ "movieLineEn": "Grab your stuff. We're leaving in five minutes!",
+ "movieLineKo": "네 물건 챙겨. 5분 뒤에 출발이야!",
+ "storyTitle": "곰 인형의 비밀",
+ "story": "동생이 곰 인형 속에 자기 stuff(물건)를 몰래 stuff(쑤셔 넣다)했어요. 인형은 stuffed(속을 꽉 채운) 상태가 되어 뚱뚱해졌죠. 방이 stuffy(답답한) 날, 엄마가 인형을 빨려고 열어 보니 stuffing(충전재) 대신 사라졌던 리모컨 세 개와 과자 봉지가 나왔답니다!"
+}

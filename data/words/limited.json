@@ -1,0 +1,61 @@
+{
+ "word": "limited",
+ "pos": "형용사",
+ "phonetic": "[ˈlɪmɪtɪd]",
+ "meaning": "제한된, 한정된, 부족한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "limit",
+   "meaning": "한계, 제한하다 (limit)",
+   "note": "라틴어 limes(경계)에서 온 영어 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사형 형용사)",
+   "note": "동사에 붙어 '그렇게 된 상태'를 나타내요."
+  }
+ ],
+ "summary": "<strong>limit</strong> (제한하다) + <strong>-ed</strong> (~된) = '선이 그어져 제한된'이라는 뜻에서 <strong>'제한된, 한정된'</strong>이 되었습니다.",
+ "historyTitle": "경계선에서 '한정판'까지",
+ "historyBody": "limit은 라틴어 limes(경계, 국경)에서 왔고, 여기에 과거분사 -ed가 붙어 '제한된'이라는 형용사가 되었어요. 19세기에는 회사 이름 뒤 'Limited(Ltd.)'가 '책임이 한정된 회사(유한회사)'를 뜻하게 되기도 했답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "limit",
+   "pos": "명사/동사",
+   "meaning": "한계 / 제한하다",
+   "en": "Try to limit your screen time before bed.",
+   "ko": "잠자기 전에는 화면 보는 시간을 제한해 보세요."
+  },
+  {
+   "word": "unlimited",
+   "pos": "형용사",
+   "meaning": "무제한의",
+   "en": "The museum offers unlimited entry for members.",
+   "ko": "그 박물관은 회원에게 무제한 입장을 제공해요."
+  },
+  {
+   "word": "limitation",
+   "pos": "명사",
+   "meaning": "제한, 한계",
+   "en": "Knowing your limitations helps you grow.",
+   "ko": "자신의 한계를 아는 것은 성장에 도움이 돼요."
+  },
+  {
+   "word": "limitless",
+   "pos": "형용사",
+   "meaning": "무한한",
+   "en": "The universe seems limitless to us.",
+   "ko": "우주는 우리에게 끝이 없는 것처럼 보여요."
+  }
+ ],
+ "imageSense": "대표 의미: '한정판 100개' 팻말 앞에 길게 줄 선 사람들",
+ "imageCaption": "물건 개수에 선이 딱 그어져 있는 모습을 떠올려 보세요. 그게 limited, 즉 '한정된' 상태예요.",
+ "movieLineEn": "This is a limited offer. You have one hour.",
+ "movieLineKo": "이건 한정된 제안이야. 한 시간 줄게.",
+ "storyTitle": "한정판 운동화 대소동",
+ "story": "준호는 limited(한정된) 수량의 운동화를 사려고 새벽부터 줄을 섰어요. 가게는 1인당 구매를 한 켤레로 limit(제한하다)했죠. 기다림은 limitless(끝없는) 것 같았지만, 준호의 인내심은 unlimited(무제한의)였어요. 드디어 차례가 왔는데, 남은 건 왼쪽 한 짝뿐! 그것이 바로 이 가게의 limitation(한계)이었답니다."
+}

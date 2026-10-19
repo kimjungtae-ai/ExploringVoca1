@@ -1,0 +1,80 @@
+{
+ "word": "cost-efficient",
+ "pos": "형용사",
+ "phonetic": "[ˌkɔːst ɪˈfɪʃənt]",
+ "meaning": "비용 효율이 높은, 가성비가 좋은",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "cost",
+   "meaning": "비용 (cost)",
+   "note": "라틴어 constare(값이 ~이다)에서 온 단어예요."
+  },
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ef- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "ex-가 f 앞에서 ef-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fic",
+   "meaning": "만들다, 하다 (make, do)",
+   "note": "라틴어 facere(만들다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ient",
+   "meaning": "~한 (형용사)",
+   "note": "형용사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>cost</strong> (비용) + <strong>efficient</strong> (ef- 밖으로 + fic 만들다 = 결과를 잘 만들어 내는) = <strong>'적은 비용으로 결과를 잘 내는, 가성비가 좋은'</strong>이라는 뜻이에요.",
+ "historyTitle": "결과를 '만들어 내는' 힘",
+ "historyBody": "efficient는 라틴어 efficere(만들어 내다, 이루어 내다)에서 왔어요. ex-(밖으로)와 facere(만들다)가 합쳐져 '결과를 밖으로 만들어 내는'이라는 뜻이에요. 여기에 cost(비용)가 붙어 경제 지문에 자주 나오는 '비용 효율이 높은'이라는 합성어가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "efficient",
+   "pos": "형용사",
+   "meaning": "효율적인",
+   "en": "This new car is very fuel efficient.",
+   "ko": "이 새 차는 연비가 아주 좋아요."
+  },
+  {
+   "word": "efficiency",
+   "pos": "명사",
+   "meaning": "효율(성)",
+   "en": "Using computers improved the efficiency of the office.",
+   "ko": "컴퓨터를 쓰면서 사무실의 효율이 높아졌어요."
+  },
+  {
+   "word": "effect",
+   "pos": "명사",
+   "meaning": "효과, 영향",
+   "en": "Music has a calming effect on people.",
+   "ko": "음악은 사람들에게 마음을 진정시키는 효과가 있어요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장",
+   "en": "My uncle works at a car factory.",
+   "ko": "우리 삼촌은 자동차 공장에서 일해요."
+  },
+  {
+   "word": "costly",
+   "pos": "형용사",
+   "meaning": "값비싼",
+   "en": "Mistakes can be costly in business.",
+   "ko": "사업에서 실수는 큰 대가를 치를 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 적은 돈으로 많은 물건을 산 알뜰 쇼핑 장면",
+ "imageCaption": "만 원으로 장바구니를 가득 채운 알뜰한 쇼핑을 떠올려 보세요. 적게 쓰고 많이 얻는 것이 cost-efficient예요.",
+ "movieLineEn": "It's not pretty, but it's the most cost-efficient plan we've got.",
+ "movieLineKo": "예쁘진 않지만, 이게 우리가 가진 가장 가성비 좋은 계획이야.",
+ "storyTitle": "가성비 왕 다람쥐",
+ "story": "다람쥐는 가장 cost-efficient(가성비 좋은) 겨울 준비를 연구했어요. 비싼 도토리는 costly(값비싼) 데다 efficiency(효율)도 낮았죠. 그래서 직접 도토리 factory(공장)를 차렸어요! effect(효과)는 대단했지만, 일하느라 바빠서 정작 겨울잠을 못 잤대요."
+}

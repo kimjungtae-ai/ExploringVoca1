@@ -1,0 +1,68 @@
+{
+ "word": "commercial break",
+ "pos": "명사구",
+ "phonetic": "[kəˈmɜːrʃl breɪk]",
+ "meaning": "광고 시간, (방송 중) 광고 휴식",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "commercial",
+   "meaning": "상업의; 광고 방송 (commercial)",
+   "note": "com-(함께)+merc(거래)+-ial로 '거래와 관련된'이란 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "break",
+   "meaning": "휴식, 중단 (break)",
+   "note": "하던 것을 잠깐 끊고 쉬는 시간을 말해요."
+  }
+ ],
+ "summary": "<strong>commercial</strong> (광고의) + <strong>break</strong> (중단, 휴식) = '방송을 끊고 광고를 내보내는 시간'에서 <strong>'광고 시간'</strong>",
+ "historyTitle": "상인의 신 메르쿠리우스와 같은 뿌리",
+ "historyBody": "commercial은 라틴어 'commercium(거래)'에서 왔고, 그 안의 'merx(상품)'는 merchant(상인), market(시장)과 같은 뿌리예요. 상업의 신 메르쿠리우스(Mercury)의 이름도 이 말과 관련 있다고 보는 견해가 많아요. break는 고대 영어 'brecan(깨다)'에서 왔고, 하던 일을 '깨고' 쉬는 시간이 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "commerce",
+   "pos": "명사",
+   "meaning": "상업, 무역",
+   "en": "Online commerce has grown very fast.",
+   "ko": "온라인 상거래는 매우 빠르게 성장했어요."
+  },
+  {
+   "word": "merchant",
+   "pos": "명사",
+   "meaning": "상인",
+   "en": "The merchant sold silk and spices.",
+   "ko": "그 상인은 비단과 향신료를 팔았어."
+  },
+  {
+   "word": "advertisement",
+   "pos": "명사",
+   "meaning": "광고",
+   "en": "I saw an advertisement for a new phone.",
+   "ko": "나는 새 휴대폰 광고를 봤어."
+  },
+  {
+   "word": "lunch break",
+   "pos": "명사구",
+   "meaning": "점심시간",
+   "en": "We play soccer during lunch break.",
+   "ko": "우리는 점심시간에 축구를 해."
+  },
+  {
+   "word": "take a break",
+   "pos": "숙어",
+   "meaning": "잠깐 쉬다",
+   "en": "Let's take a break for ten minutes.",
+   "ko": "10분만 쉬자."
+  }
+ ],
+ "imageSense": "대표 의미: 드라마가 결정적인 순간에 멈추고 광고가 나오는 TV 화면",
+ "imageCaption": "주인공이 고백하려는 순간 '잠시 후 계속됩니다' 자막과 함께 광고가 나오는 장면을 떠올려 보세요.",
+ "movieLineEn": "Grab some snacks during the commercial break!",
+ "movieLineKo": "광고 시간에 간식 좀 챙겨 와!",
+ "storyTitle": "광고 시간의 달리기",
+ "story": "드라마가 commercial break(광고 시간)에 들어가자 아빠는 take a break(잠깐 쉬다)하며 라면을 끓이러 뛰었어요. TV에선 advertisement(광고)가 계속 나왔죠. 라면 merchant(상인) 광고까지! 아빠가 라면을 들고 돌아오자 드라마는 이미 끝나 있었어요. 알고 보니 그날은 광고 시간이 30초뿐이었답니다."
+}

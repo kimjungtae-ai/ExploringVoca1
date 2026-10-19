@@ -1,0 +1,80 @@
+{
+ "word": "enlightenment",
+ "pos": "명사",
+ "phonetic": "[ɪnˈlaɪtnmənt]",
+ "meaning": "깨달음, 계몽, (the E-) 계몽주의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "en-",
+   "meaning": "~하게 만들다 (make)",
+   "note": "뒤에 오는 말을 '그렇게 만든다'는 뜻으로 바꿔 줘요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "light",
+   "meaning": "빛, 밝은 (light)",
+   "note": "어둠을 밝히는 빛을 떠올리면 돼요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~하게 하다 (동사형)",
+   "note": "light를 '밝게 하다(lighten)'라는 동사로 만들어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사형)",
+   "note": "동사를 '그렇게 된 상태'라는 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>en-</strong> (만들다) + <strong>light</strong> (빛) + <strong>-en</strong> (하게 하다) + <strong>-ment</strong> (명사) = '머릿속에 빛을 비춰 밝게 하는 것'에서 <strong>'깨달음, 계몽'</strong>이 되었어요.",
+ "historyTitle": "마음에 빛을 비추다, 계몽주의",
+ "historyBody": "light는 고대 영어 'lēoht(빛)'에서 왔고, enlighten은 14세기에 원래 '빛으로 밝히다'라는 뜻이었다가 '마음을 깨우치다'라는 뜻으로 넓어졌어요. 18세기 유럽에서 이성과 과학으로 무지를 몰아내자는 사상 운동을 영어로 'the Enlightenment(계몽주의)'라고 불러요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "light",
+   "pos": "명사 / 형용사",
+   "meaning": "빛 / 밝은, 가벼운",
+   "en": "Open the curtains and let the morning light in.",
+   "ko": "커튼을 열어서 아침 햇빛이 들어오게 해."
+  },
+  {
+   "word": "lighten",
+   "pos": "동사",
+   "meaning": "밝게 하다, 가볍게 하다",
+   "en": "A bright lamp can lighten a dark room.",
+   "ko": "밝은 전등 하나가 어두운 방을 환하게 할 수 있어요."
+  },
+  {
+   "word": "enlighten",
+   "pos": "동사",
+   "meaning": "깨우치다, 이해시키다",
+   "en": "The documentary enlightened me about climate change.",
+   "ko": "그 다큐멘터리는 나에게 기후 변화에 대해 깨우쳐 주었어요."
+  },
+  {
+   "word": "enlightened",
+   "pos": "형용사",
+   "meaning": "깨우친, 계몽된",
+   "en": "She has an enlightened view on equal rights.",
+   "ko": "그녀는 평등권에 대해 깨어 있는 시각을 가지고 있어요."
+  },
+  {
+   "word": "lightning",
+   "pos": "명사",
+   "meaning": "번개",
+   "en": "The lightning lit up the whole sky for a second.",
+   "ko": "번개가 한순간 하늘 전체를 환하게 밝혔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어두운 머릿속에 전구가 '번쩍' 켜지는 장면",
+ "imageCaption": "머리 위에 전구가 켜지면서 '아하!' 하고 깨닫는 순간을 떠올려 보세요.",
+ "movieLineEn": "After years of searching, he finally found enlightenment.",
+ "movieLineKo": "수년간의 탐색 끝에, 그는 마침내 깨달음을 얻었어.",
+ "storyTitle": "정전 속의 깨달음",
+ "story": "시험 전날 정전이 됐어요. 민수는 촛불 light(빛) 아래서 공부하다 문득 enlightenment(깨달음)를 얻었죠. '공부는 불이 아니라 마음이 enlighten(깨우치다)하는 거야!' 감동한 그때 lightning(번개)이 번쩍! 알고 보니 엄마가 플래시로 숙제 검사 중이었어요."
+}

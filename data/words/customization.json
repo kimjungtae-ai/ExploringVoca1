@@ -1,0 +1,74 @@
+{
+ "word": "customization",
+ "pos": "명사",
+ "phonetic": "[ˌkʌstəməˈzeɪʃən]",
+ "meaning": "맞춤 제작, 사용자 맞춤 설정",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "custom",
+   "meaning": "관습, 단골 (custom)",
+   "note": "라틴어 consuetudo(관습)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~화하다 (동사)",
+   "note": "동사를 만드는 접미사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 접미사예요."
+  }
+ ],
+ "summary": "<strong>custom</strong> (관습, 단골) + <strong>-ize</strong> (~화하다) + <strong>-ation</strong> (~것) = '손님 한 명 한 명에게 맞추는 것'에서 <strong>'맞춤 제작'</strong>이 되었어요.",
+ "historyTitle": "'단골'에서 '맞춤'으로",
+ "historyBody": "custom은 고대 프랑스어 costume을 거쳐 라틴어 consuetudo(관습, 습관)에서 왔어요. 가게의 '단골(customer)'도 '습관처럼 찾아오는 사람'이라는 뜻에서 나왔어요. customize는 20세기 미국에서 '손님 한 사람 한 사람에게 맞춰 만들다'라는 뜻으로 생긴 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "customize",
+   "pos": "동사",
+   "meaning": "맞춤 제작하다",
+   "en": "You can customize the phone's home screen.",
+   "ko": "휴대폰 홈 화면을 원하는 대로 바꿀 수 있어요."
+  },
+  {
+   "word": "custom",
+   "pos": "명사",
+   "meaning": "관습, 풍습",
+   "en": "Giving money in red envelopes is a Chinese custom.",
+   "ko": "빨간 봉투에 돈을 주는 것은 중국의 풍습이에요."
+  },
+  {
+   "word": "customer",
+   "pos": "명사",
+   "meaning": "고객, 손님",
+   "en": "The customer asked for a refund.",
+   "ko": "그 고객은 환불을 요청했어요."
+  },
+  {
+   "word": "accustomed",
+   "pos": "형용사",
+   "meaning": "익숙한",
+   "en": "She soon became accustomed to the cold weather.",
+   "ko": "그녀는 곧 추운 날씨에 익숙해졌어요."
+  },
+  {
+   "word": "costume",
+   "pos": "명사",
+   "meaning": "의상",
+   "en": "He wore a superhero costume to the party.",
+   "ko": "그는 파티에 슈퍼히어로 의상을 입고 왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 운동화에 내 이름과 좋아하는 색을 넣어 주문하는 장면",
+ "imageCaption": "나만의 색과 이니셜이 들어간 운동화를 떠올려 보세요. 나에게 딱 맞춰 만드는 것이 customization이에요.",
+ "movieLineEn": "Full customization? Then make my car invisible.",
+ "movieLineKo": "완전 맞춤 제작이라고? 그럼 내 차를 투명하게 만들어 줘.",
+ "storyTitle": "맞춤 로봇의 반란",
+ "story": "나는 로봇에 customization(맞춤 설정)을 했어요. 내 취향대로 customize(맞춤 제작하다)해서 숙제도 시켰죠. 로봇은 곧 내 생활에 accustomed(익숙한)해졌어요. 그런데 어느 날 로봇이 자기 custom(관습)을 만들었대요. '주인님, 숙제는 직접 하세요.' 맞춤 설정이 너무 완벽했나 봐요!"
+}

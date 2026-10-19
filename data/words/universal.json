@@ -1,0 +1,81 @@
+{
+ "word": "universal",
+ "pos": "형용사",
+ "phonetic": "[ˌjuːnɪˈvɜːrsl]",
+ "meaning": "보편적인, 일반적인, 전 세계의, 우주의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "uni",
+   "meaning": "하나 (one)",
+   "note": "라틴어 unus(하나)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vers",
+   "meaning": "돌다, 향하다 (turn)",
+   "note": "라틴어 vertere(돌리다)의 과거분사 versus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-al",
+   "meaning": "~의, ~에 관한 (형용사형)",
+   "note": "명사를 형용사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>uni</strong> (하나) + <strong>vers</strong> (돌다) + <strong>-al</strong> (~의) = 하나로 돌아 모인 전체의, 즉 <strong>'보편적인, 전 세계의'</strong>가 되었어요.",
+ "historyTitle": "하나로 돌아 모인 모든 것",
+ "historyBody": "universal은 라틴어 'universalis'에서 왔고, 이는 'universum(우주, 모든 것)'에서 나왔어요. universum은 'unus(하나) + versus(돌린)'로, '하나로 돌아 모인 전체'라는 뜻이었죠. 그래서 universe는 '모든 것을 합친 하나', universal은 '모두에게 해당되는'이라는 뜻이 되었어요. 중세의 university도 원래 '학자들이 하나로 모인 단체'라는 뜻이었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "universe",
+   "pos": "명사",
+   "meaning": "우주, 세계",
+   "en": "Scientists are still learning about the universe.",
+   "ko": "과학자들은 아직도 우주에 대해 배우고 있어요."
+  },
+  {
+   "word": "university",
+   "pos": "명사",
+   "meaning": "대학교",
+   "en": "My sister studies biology at a university in Seoul.",
+   "ko": "우리 언니는 서울에 있는 대학교에서 생물학을 공부해요."
+  },
+  {
+   "word": "version",
+   "pos": "명사",
+   "meaning": "판, 버전, 설명",
+   "en": "I downloaded the new version of the game.",
+   "ko": "나는 그 게임의 새 버전을 다운로드했어요."
+  },
+  {
+   "word": "reverse",
+   "pos": "동사 / 형용사",
+   "meaning": "뒤집다 / 반대의",
+   "en": "Read the numbers in reverse order.",
+   "ko": "숫자들을 거꾸로 읽어 보세요."
+  },
+  {
+   "word": "convert",
+   "pos": "동사",
+   "meaning": "바꾸다, 전환하다",
+   "en": "They converted the old factory into a library.",
+   "ko": "그들은 오래된 공장을 도서관으로 바꾸었어요."
+  },
+  {
+   "word": "unite",
+   "pos": "동사",
+   "meaning": "하나로 뭉치다",
+   "en": "Sports can unite people from different cultures.",
+   "ko": "스포츠는 서로 다른 문화의 사람들을 하나로 만들 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지구 위의 모든 사람이 함께 웃고 있는 모습",
+ "imageCaption": "전 세계 어디서나 사람들이 똑같이 웃고 우는 모습을 떠올려 보세요. 모두에게 통하는 것이 universal이에요.",
+ "movieLineEn": "Music is a universal language. Even aliens love it.",
+ "movieLineKo": "음악은 세계 공통어야. 외계인도 좋아한다고.",
+ "storyTitle": "외계인의 대학 입학",
+ "story": "외계인이 지구 university(대학교)에 지원했어요. 면접관이 물었죠. \"우리 universe(우주)에서 universal(보편적인) 언어는 뭘까요?\" 외계인은 말 대신 춤을 췄어요. 면접관들도 따라 춤을 췄고, 결국 합격! 그날 외계인은 춤을 지구 version(버전)으로 convert(바꾸다)하는 데 성공했답니다."
+}

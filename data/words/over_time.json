@@ -1,0 +1,68 @@
+{
+ "word": "over time",
+ "pos": "부사구",
+ "phonetic": "[ˈoʊvər taɪm]",
+ "meaning": "시간이 지나면서, 오랜 시간에 걸쳐",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "연결어 (Particle)",
+   "part": "over",
+   "meaning": "~에 걸쳐 (over)",
+   "note": "어떤 기간 '전체를 덮으며' 이어진다는 이미지예요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "time",
+   "meaning": "시간 (time)",
+   "note": "고대 영어 tima에서 온 기본 단어예요."
+  }
+ ],
+ "summary": "<strong>over</strong> (~에 걸쳐) + <strong>time</strong> (시간) = '긴 시간에 걸쳐'에서 <strong>'시간이 지나면서 (점차)'</strong>",
+ "historyTitle": "띄어 쓰면 '점차', 붙여 쓰면 '초과 근무'",
+ "historyBody": "over는 '위를 덮어서, ~에 걸쳐'라는 그림을 가진 고대 영어 ofer에서 왔어요. 'over time'은 시간 전체에 걸쳐 변화가 일어난다는 뜻이고, 붙여 쓴 'overtime'은 정해진 시간을 넘긴 '초과 근무, 연장전'이라는 전혀 다른 뜻이니 주의하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "overtime",
+   "pos": "명사 / 부사",
+   "meaning": "초과 근무, 연장전",
+   "en": "She worked overtime to finish the project.",
+   "ko": "그녀는 프로젝트를 끝내려고 초과 근무를 했어요."
+  },
+  {
+   "word": "gradually",
+   "pos": "부사",
+   "meaning": "점차",
+   "en": "The weather gradually became warmer.",
+   "ko": "날씨가 점차 따뜻해졌어요."
+  },
+  {
+   "word": "in the long run",
+   "pos": "숙어",
+   "meaning": "결국, 장기적으로",
+   "en": "Exercise will help you in the long run.",
+   "ko": "운동은 장기적으로 도움이 될 거예요."
+  },
+  {
+   "word": "over the years",
+   "pos": "부사구",
+   "meaning": "수년에 걸쳐",
+   "en": "The town has changed a lot over the years.",
+   "ko": "그 마을은 수년에 걸쳐 많이 변했어요."
+  },
+  {
+   "word": "eventually",
+   "pos": "부사",
+   "meaning": "결국, 마침내",
+   "en": "He eventually found his lost dog.",
+   "ko": "그는 마침내 잃어버린 개를 찾았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 묘목이 몇 년에 걸쳐 큰 나무로 자라는 장면",
+ "imageCaption": "빠르게 감기는 영상 속에서 새싹이 조금씩 나무가 되어 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry. Over time, the pain will fade.",
+ "movieLineKo": "걱정 마. 시간이 지나면 아픔은 희미해질 거야.",
+ "storyTitle": "끈기의 결과",
+ "story": "할아버지는 매일 마당에 작은 사과나무를 돌보셨어요. 열매는 gradually(점차) 커졌고, over time(시간이 지나면서) 나무도 무성해졌죠. over the years(수년에 걸쳐) 노력한 끝에 eventually(마침내) 첫 사과가 열렸어요. 그런데 그걸 옆집 다람쥐가 먼저 먹어 버렸답니다!"
+}

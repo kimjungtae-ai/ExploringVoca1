@@ -1,0 +1,74 @@
+{
+ "word": "architecture",
+ "pos": "명사",
+ "phonetic": "[ˈɑːrkɪtektʃər]",
+ "meaning": "건축, 건축학, 건축 양식, (컴퓨터 등의) 구조",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "archi-",
+   "meaning": "우두머리, 으뜸 (chief)",
+   "note": "그리스어 arkhi-(으뜸의)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tect (tekton)",
+   "meaning": "짓는 사람 (builder)",
+   "note": "그리스어 tekton(목수, 건축가)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 일, 결과 (명사형)",
+   "note": "행위나 그 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>archi-</strong> (으뜸) + <strong>tect</strong> (짓는 사람) + <strong>-ure</strong> (명사) = '건축가가 하는 일'에서 <strong>'건축, 건축 양식'</strong>이 되었어요.",
+ "historyTitle": "로마의 건축 교과서",
+ "historyBody": "architecture는 라틴어 'architectura'에서 왔어요. 고대 로마의 비트루비우스는 『건축십서(De architectura)』에서 좋은 건물은 튼튼함, 쓸모, 아름다움을 갖춰야 한다고 했어요. 오늘날엔 컴퓨터 시스템의 '구조'를 말할 때도 이 단어를 쓴답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "architect",
+   "pos": "명사",
+   "meaning": "건축가, 설계자",
+   "en": "The architect designed a library full of sunlight.",
+   "ko": "그 건축가는 햇빛이 가득한 도서관을 설계했어요."
+  },
+  {
+   "word": "architectural",
+   "pos": "형용사",
+   "meaning": "건축의, 건축학적인",
+   "en": "The tower is an architectural wonder.",
+   "ko": "그 탑은 건축학적 경이예요."
+  },
+  {
+   "word": "archbishop",
+   "pos": "명사",
+   "meaning": "대주교",
+   "en": "The archbishop gave a speech at the ceremony.",
+   "ko": "대주교가 기념식에서 연설을 했어요."
+  },
+  {
+   "word": "monarch",
+   "pos": "명사",
+   "meaning": "군주",
+   "en": "The monarch ruled the country for fifty years.",
+   "ko": "그 군주는 50년 동안 나라를 다스렸어요."
+  },
+  {
+   "word": "technology",
+   "pos": "명사",
+   "meaning": "기술",
+   "en": "Technology has changed the way we learn.",
+   "ko": "기술은 우리가 배우는 방식을 바꿔 놓았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 기둥과 둥근 지붕이 어우러진 웅장한 고전 건축물",
+ "imageCaption": "하얀 기둥이 줄지어 선 그리스 신전과 유리로 된 현대 빌딩을 나란히 떠올려 보세요. 건물을 짓는 기술과 그 양식이 architecture예요.",
+ "movieLineEn": "This architecture is older than the kingdom itself.",
+ "movieLineKo": "이 건축물은 왕국 그 자체보다 더 오래됐어.",
+ "storyTitle": "모래성 건축 대회",
+ "story": "해변 모래성 대회에서 수아는 로마식 architecture(건축 양식)를 따라 했어요. 꿈은 유명한 architect(건축가)였거든요. 심사위원들은 그 architectural(건축의) 디테일에 감탄했죠. 그런데 시상식 직전 파도가 와서 성을 꿀꺽! 수아는 '이건 물과 함께하는 최신 technology(기술)예요'라고 우겨 특별상을 받았답니다."
+}

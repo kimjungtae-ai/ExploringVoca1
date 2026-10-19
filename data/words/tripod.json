@@ -1,0 +1,68 @@
+{
+ "word": "tripod",
+ "pos": "명사",
+ "phonetic": "[ˈtraɪpɑːd]",
+ "meaning": "삼각대, 세 발 달린 받침",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "tri-",
+   "meaning": "셋 (three)",
+   "note": "그리스어·라틴어에서 '셋'을 뜻하는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pod",
+   "meaning": "발 (foot)",
+   "note": "그리스어 pous, 소유격 podos(발)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>tri-</strong> (셋) + <strong>pod</strong> (발) = 발이 세 개 달린 것, 즉 <strong>'삼각대'</strong>가 되었어요.",
+ "historyTitle": "델포이 신전의 세 발 솥",
+ "historyBody": "tripod는 그리스어 'tripous(세 발 달린)'에서 라틴어를 거쳐 영어에 들어왔어요. 고대 그리스에서 tripod는 세 발 달린 청동 솥이나 의자로, 델포이 신전의 무녀가 그 위에 앉아 신탁을 전했다고 해요. 발이 세 개면 울퉁불퉁한 땅에서도 흔들리지 않아서 오늘날 카메라 받침의 이름이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "triangle",
+   "pos": "명사",
+   "meaning": "삼각형",
+   "en": "Draw a triangle with three equal sides.",
+   "ko": "세 변의 길이가 같은 삼각형을 그려 보세요."
+  },
+  {
+   "word": "tricycle",
+   "pos": "명사",
+   "meaning": "세발자전거",
+   "en": "My little cousin rides a red tricycle in the park.",
+   "ko": "내 어린 사촌은 공원에서 빨간 세발자전거를 타요."
+  },
+  {
+   "word": "triple",
+   "pos": "형용사 / 동사",
+   "meaning": "세 배의 / 세 배가 되다",
+   "en": "The number of visitors tripled after the event.",
+   "ko": "행사 이후 방문객 수가 세 배로 늘었어요."
+  },
+  {
+   "word": "podium",
+   "pos": "명사",
+   "meaning": "연단, 시상대",
+   "en": "The winner proudly stood on the podium.",
+   "ko": "우승자는 자랑스럽게 시상대에 섰어요."
+  },
+  {
+   "word": "octopus",
+   "pos": "명사",
+   "meaning": "문어 (다리 여덟 개)",
+   "en": "An octopus can change its color to hide.",
+   "ko": "문어는 숨기 위해 몸 색깔을 바꿀 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 세 다리로 카메라를 단단히 받친 삼각대",
+ "imageCaption": "세 다리를 쫙 벌린 삼각대 위에 카메라가 흔들림 없이 서 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Set up the tripod. We're filming the ghost tonight.",
+ "movieLineKo": "삼각대 설치해. 오늘 밤 유령을 찍을 거야.",
+ "storyTitle": "문어의 사진 수업",
+ "story": "사진작가 문어는 tripod(삼각대)가 왜 필요한지 몰랐어요. 발이 여덟 개인 octopus(문어)니까요! 그래도 다리 세 개로 triangle(삼각형)을 만들어 카메라를 받쳤죠. 남은 다리 다섯 개로 셔터를 누르고 포즈를 잡고 조명을 들었어요. 그 사진으로 그는 대회 podium(시상대)에 올랐답니다."
+}

@@ -1,0 +1,41 @@
+{
+ "word": "scar",
+ "pos": "명사 / 동사",
+ "phonetic": "[skɑːr]",
+ "meaning": "흉터, 상처 / 흉터를 남기다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "scar (eschara)",
+   "meaning": "딱지, 화상 자국 (scab)",
+   "note": "그리스어 eskhara(화로, 화상 딱지)가 라틴어·고대 프랑스어를 거쳐 들어왔어요."
+  }
+ ],
+ "summary": "<strong>scar</strong>는 그리스어 eskhara(화로 → 화상 딱지)에서 와서 <strong>'흉터, 상처'</strong>가 되었어요.",
+ "historyTitle": "화로에서 생긴 말",
+ "historyBody": "scar는 그리스어 eskhara(화로, 불에 덴 자국의 딱지)가 후기 라틴어 eschara와 고대 프랑스어 escare를 거쳐 14세기에 영어로 들어왔어요. 원래 '불에 데어 생긴 딱지'를 뜻하다가 모든 '흉터'로 뜻이 넓어졌죠. 마음의 상처를 말할 때도 비유적으로 많이 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "scarred",
+   "pos": "형용사",
+   "meaning": "흉터가 있는, 상처 입은",
+   "en": "His arm was scarred from an old accident.",
+   "ko": "그의 팔에는 옛날 사고로 생긴 흉터가 있었어요."
+  },
+  {
+   "word": "scarring",
+   "pos": "명사",
+   "meaning": "흉터 (생김)",
+   "en": "Keep the wound clean to prevent scarring.",
+   "ko": "흉터가 생기지 않도록 상처를 깨끗이 유지하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 무릎에 남은 어린 시절의 흉터",
+ "imageCaption": "자전거에서 넘어져 생긴 무릎의 하얀 흉터를 바라보는 모습을 떠올려 보세요.",
+ "movieLineEn": "This scar reminds me of the day I saved the king.",
+ "movieLineKo": "이 흉터는 내가 왕을 구했던 날을 떠올리게 하지.",
+ "storyTitle": "용감한 흉터의 진실",
+ "story": "삼촌은 이마의 scar(흉터)를 자랑하며 곰과 fight(싸우다)한 흔적이래요. 나는 그 scarred(흉터가 있는) 이마가 정말 brave(용감한) 증거라고 믿었죠. 그런데 할머니가 웃으며 말씀하셨어요. \"그거 일곱 살 때 냉장고 문에 부딪혀서 생긴 거야. 상대가 곰이 아니라 김치통이었지.\""
+}

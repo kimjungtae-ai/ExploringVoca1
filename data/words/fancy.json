@@ -1,0 +1,48 @@
+{
+ "word": "fancy",
+ "pos": "형용사 / 동사 / 명사",
+ "phonetic": "[ˈfænsi]",
+ "meaning": "화려한, 고급의 / 원하다, 상상하다 / 공상, 좋아함",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fancy (fantasy)",
+   "meaning": "상상, 환상 (fantasy)",
+   "note": "중세 영어 fantasie(환상)가 줄어든 말이라, 더 쪼개기 어려워요."
+  }
+ ],
+ "summary": "<strong>fancy</strong>는 <strong>fantasy</strong>(환상)가 줄어든 말로, '상상 속처럼 멋진'이라는 뜻에서 <strong>'화려한, 고급의'</strong>가 되었어요.",
+ "historyTitle": "fantasy가 짧아져 생긴 말",
+ "historyBody": "fancy는 15세기쯤 fantasy(환상, 상상)가 줄어들어 생긴 말이에요. 그래서 처음엔 '상상, 공상'이라는 뜻이었고, 이후 '마음에 드는 것', '장식적인, 화려한'이라는 뜻으로 넓어졌어요. fantasy의 뿌리는 그리스어 phantasia(나타남, 상상)랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "fantasy",
+   "pos": "명사",
+   "meaning": "환상, 공상",
+   "en": "She loves reading fantasy novels about dragons.",
+   "ko": "그녀는 용이 나오는 판타지 소설 읽기를 좋아해요."
+  },
+  {
+   "word": "fantastic",
+   "pos": "형용사",
+   "meaning": "환상적인, 굉장한",
+   "en": "The view from the mountain top was fantastic.",
+   "ko": "산꼭대기에서 본 경치는 환상적이었어요."
+  },
+  {
+   "word": "phantom",
+   "pos": "명사",
+   "meaning": "유령, 환영",
+   "en": "Some people say a phantom lives in the old house.",
+   "ko": "어떤 사람들은 그 낡은 집에 유령이 산다고 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 반짝이는 샹들리에가 달린 고급 레스토랑",
+ "imageCaption": "상상 속에서나 볼 법한 화려한 식당을 떠올리세요. 환상(fantasy)처럼 멋진 것이 fancy예요.",
+ "movieLineEn": "Wow, look at you in that fancy suit! Going somewhere special?",
+ "movieLineKo": "와, 그 멋진 정장 좀 봐! 특별한 데라도 가?",
+ "storyTitle": "고급 레스토랑의 유령",
+ "story": "아빠가 fancy(고급의) 레스토랑에 데려가 줬어요. 샹들리에는 fantasy(환상) 영화처럼 반짝였고, 음식은 fantastic(환상적인)했죠. 그런데 창가에 하얀 phantom(유령)이 서 있는 거예요! 깜짝 놀라 소리치자 그것이 돌아봤어요. 하얀 냅킨을 머리에 쓰고 졸던 웨이터 아저씨였답니다."
+}

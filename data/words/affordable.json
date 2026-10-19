@@ -1,0 +1,67 @@
+{
+ "word": "affordable",
+ "pos": "형용사",
+ "phonetic": "[əˈfɔːrdəbl]",
+ "meaning": "(가격이) 적당한, 감당할 수 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "af-",
+   "meaning": "(완료·강조) (ge-)",
+   "note": "고대 영어 접두사 ge-가 a-로 바뀌고, 라틴어식으로 af-라고 적힌 거예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ford",
+   "meaning": "앞으로 (forth)",
+   "note": "고대 영어 forth(앞으로)에서 왔어요. '앞으로 나아가게 하다'라는 뜻이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는",
+   "note": "'~할 수 있는'이라는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>af-</strong> (완료) + <strong>ford</strong> (앞으로) + <strong>-able</strong> (~할 수 있는) = '해낼 수 있는, 감당할 수 있는'에서 <strong>'가격이 적당한'</strong>이 되었어요.",
+ "historyTitle": "라틴어처럼 보이지만 사실 순수 영어 출신",
+ "historyBody": "afford는 고대 영어 geforthian(앞으로 나아가게 하다, 해내다)에서 왔어요. ge-가 a-로 바뀌었는데, 나중에 라틴어 단어처럼 보이게 af-로 철자가 바뀌었어요. '해낼 수 있다'에서 '(돈을) 감당할 수 있다'로 뜻이 옮겨 갔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "afford",
+   "pos": "동사",
+   "meaning": "~할 여유가 있다",
+   "en": "We can't afford a new car this year.",
+   "ko": "올해는 새 차를 살 여유가 없어요."
+  },
+  {
+   "word": "forth",
+   "pos": "부사",
+   "meaning": "앞으로, 밖으로",
+   "en": "The students walked back and forth in the hall.",
+   "ko": "학생들이 복도를 왔다 갔다 했어요."
+  },
+  {
+   "word": "forward",
+   "pos": "부사",
+   "meaning": "앞으로",
+   "en": "Please step forward and say your name.",
+   "ko": "앞으로 나와서 이름을 말해 주세요."
+  },
+  {
+   "word": "further",
+   "pos": "부사/형용사",
+   "meaning": "더 나아가, 추가의",
+   "en": "For further information, visit our website.",
+   "ko": "더 많은 정보는 웹사이트를 방문하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 용돈으로도 살 수 있는 착한 가격표가 붙은 운동화",
+ "imageCaption": "가격표를 보고 '이 정도면 살 수 있어!' 하고 안심하는 순간을 떠올려 보세요.",
+ "movieLineEn": "Finally, a spaceship that's actually affordable!",
+ "movieLineKo": "드디어, 진짜로 살 만한 가격의 우주선이야!",
+ "storyTitle": "착한 가격의 비밀",
+ "story": "새로 연 피자 가게는 정말 affordable(가격이 적당한)했어요. 한 판에 천 원! 학생들도 쉽게 afford(여유가 있다)할 수 있었죠. 사람들이 앞다퉈 forward(앞으로) 줄을 섰어요. further(더 나아가) 알아보니, 비밀은 피자 크기였어요. 동전만 했대요."
+}

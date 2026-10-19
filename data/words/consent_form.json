@@ -1,0 +1,68 @@
+{
+ "word": "consent form",
+ "pos": "명사구",
+ "phonetic": "[kənˈsent fɔːrm]",
+ "meaning": "동의서, 참가 동의서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "consent",
+   "meaning": "동의 (consent)",
+   "note": "con-(함께)+sentire(느끼다)로 '같이 느끼다, 뜻을 같이하다'라는 뜻이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "form",
+   "meaning": "양식, 서식 (form)",
+   "note": "빈칸을 채우는 문서를 말해요."
+  }
+ ],
+ "summary": "<strong>consent</strong> (동의) + <strong>form</strong> (서식) = '동의한다고 서명하는 서식'에서 <strong>'동의서'</strong>",
+ "historyTitle": "'같은 것을 느끼다' consentire",
+ "historyBody": "consent는 라틴어 'con-(함께)'와 'sentire(느끼다)'가 합쳐진 consentire에서 왔어요. 상대와 같은 것을 느낀다는 데서 '동의하다'가 되었죠. sense(감각), sentence(문장, 판결)도 sentire 가족이에요. form은 라틴어 'forma(모양, 틀)'에서 와서, 정해진 틀이 있는 '서식'이라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "permission slip",
+   "pos": "명사구",
+   "meaning": "(학교의) 허가서, 동의서",
+   "en": "Bring a permission slip signed by your parents.",
+   "ko": "부모님이 서명한 허가서를 가져오세요."
+  },
+  {
+   "word": "application form",
+   "pos": "명사구",
+   "meaning": "신청서",
+   "en": "Fill out the application form by Monday.",
+   "ko": "월요일까지 신청서를 작성하세요."
+  },
+  {
+   "word": "fill out",
+   "pos": "구동사",
+   "meaning": "(서류를) 작성하다",
+   "en": "Please fill out this form in pen.",
+   "ko": "이 양식을 펜으로 작성해 주세요."
+  },
+  {
+   "word": "sensible",
+   "pos": "형용사",
+   "meaning": "분별 있는, 현명한",
+   "en": "It was a sensible decision to wait.",
+   "ko": "기다린 건 현명한 결정이었어."
+  },
+  {
+   "word": "agreement",
+   "pos": "명사",
+   "meaning": "동의, 합의",
+   "en": "They finally reached an agreement.",
+   "ko": "그들은 마침내 합의에 이르렀어."
+  }
+ ],
+ "imageSense": "대표 의미: 현장 학습 전 부모님이 동의서에 서명하는 장면",
+ "imageCaption": "식탁 위 '현장 학습 참가 동의서'에 엄마가 펜으로 사인하는 모습을 떠올려 보세요.",
+ "movieLineEn": "No one goes on the trip without a signed consent form.",
+ "movieLineKo": "서명된 동의서 없이는 아무도 여행을 갈 수 없어.",
+ "storyTitle": "동의서 대작전",
+ "story": "현장 학습 consent form(동의서)을 내야 했어요. 나는 깜빡하고 엄마에게 fill out(작성하다)을 부탁하지 못했죠. 친구의 permission slip(허가서)을 보니 부럽기만 했어요. 결국 sensible(현명한) 방법으로 엄마에게 전화했죠. 엄마가 말했어요. \"네 가방 앞주머니 봐.\" 엄마는 이미 일주일 전에 서명해 두셨어요!"
+}

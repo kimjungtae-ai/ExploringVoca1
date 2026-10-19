@@ -1,0 +1,54 @@
+{
+ "word": "budget",
+ "pos": "명사 / 동사 / 형용사",
+ "phonetic": "[ˈbʌdʒɪt]",
+ "meaning": "예산, 경비 / 예산을 세우다 / 저렴한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "budg (← bouge)",
+   "meaning": "가죽 주머니 (leather bag)",
+   "note": "고대 프랑스어 bouge(가죽 가방)에서 왔고, 그 뿌리는 라틴어 bulga예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-et",
+   "meaning": "작은 (little)",
+   "note": "'작은 것'을 뜻하는 프랑스어식 꼬리예요."
+  }
+ ],
+ "summary": "<strong>budg</strong> (가죽 주머니) + <strong>-et</strong> (작은) = '작은 돈주머니'에서 나라의 돈 계획, 즉 <strong>'예산'</strong>이 되었어요.",
+ "historyTitle": "영국 재무장관의 가죽 가방",
+ "historyBody": "budget은 고대 프랑스어 bougette(작은 가죽 주머니)에서 왔어요. 18세기 영국에서 재무장관이 의회에 예산안을 발표할 때 서류를 가방에서 꺼내는 것을 'open the budget'이라고 했어요. 그래서 가방 이름이 그 안에 든 '예산 계획'을 뜻하게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "budgetary",
+   "pos": "형용사",
+   "meaning": "예산의",
+   "en": "The school faced budgetary problems this year.",
+   "ko": "학교는 올해 예산 문제에 부딪혔어."
+  },
+  {
+   "word": "budget-friendly",
+   "pos": "형용사",
+   "meaning": "저렴한, 부담 없는 가격의",
+   "en": "This café offers budget-friendly meals for students.",
+   "ko": "이 카페는 학생들에게 부담 없는 가격의 식사를 제공해요."
+  },
+  {
+   "word": "bulge",
+   "pos": "동사 / 명사",
+   "meaning": "불룩하다 / 불룩한 것",
+   "en": "His pockets bulged with candy.",
+   "ko": "그의 주머니가 사탕으로 불룩했어."
+  }
+ ],
+ "imageSense": "대표 의미: 한 달 용돈을 칸칸이 나눠 적은 예산표",
+ "imageCaption": "작은 지갑에서 돈을 꺼내 '간식비, 교통비'로 나눠 적는 모습을 떠올려 보세요. 돈주머니 안의 계획이 budget이에요.",
+ "movieLineEn": "We're on a tight budget, so no more pizza this week!",
+ "movieLineKo": "우리 예산이 빠듯하니까 이번 주엔 피자 그만!",
+ "storyTitle": "용돈 예산 대작전",
+ "story": "지민이는 한 달 용돈 budget(예산)을 꼼꼼히 세웠어요. budget-friendly(저렴한) 분식만 먹기로 했죠. 그런데 지갑이 점점 bulge(불룩하다)해지는 거예요! 알고 보니 할머니가 몰래 용돈을 넣어 두셨던 것. 지민이의 budgetary(예산의) 계획은 즐겁게 무너졌답니다."
+}

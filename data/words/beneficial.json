@@ -1,0 +1,67 @@
+{
+ "word": "beneficial",
+ "pos": "형용사",
+ "phonetic": "[ˌbenɪˈfɪʃl]",
+ "meaning": "유익한, 이로운",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bene",
+   "meaning": "좋게, 잘 (well)",
+   "note": "라틴어로 '잘, 좋게'라는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fic",
+   "meaning": "하다, 만들다 (do, make)",
+   "note": "라틴어 facere에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ial",
+   "meaning": "~의, ~한 (형용사)",
+   "note": "명사를 형용사로 만들어 줘요."
+  }
+ ],
+ "summary": "<strong>bene</strong> (좋게) + <strong>fic</strong> (하다) + <strong>-ial</strong> (~한) = '좋은 일을 하는'에서 <strong>'유익한, 이로운'</strong>이 되었어요.",
+ "historyTitle": "로마인의 '좋은 일 하기'",
+ "historyBody": "beneficial은 라틴어 beneficium(친절한 행위, 은혜)에서 왔어요. 이 말은 bene(잘)와 facere(하다)가 합쳐진 것이에요. 로마 사회에서 beneficium은 남에게 베푸는 호의를 뜻했고, 여기서 benefit(이익)과 beneficial(유익한)이 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "benefit",
+   "pos": "명사 / 동사",
+   "meaning": "이익, 혜택 / 이익을 얻다",
+   "en": "Regular exercise has many health benefits.",
+   "ko": "규칙적인 운동은 건강에 많은 이점이 있어요."
+  },
+  {
+   "word": "beneficiary",
+   "pos": "명사",
+   "meaning": "수혜자",
+   "en": "Local farmers were the main beneficiaries of the new policy.",
+   "ko": "지역 농부들이 새 정책의 주요 수혜자였어요."
+  },
+  {
+   "word": "benefactor",
+   "pos": "명사",
+   "meaning": "후원자, 은인",
+   "en": "A kind benefactor paid for the new library.",
+   "ko": "한 친절한 후원자가 새 도서관 비용을 냈어요."
+  },
+  {
+   "word": "benevolent",
+   "pos": "형용사",
+   "meaning": "자비로운, 인정 많은",
+   "en": "The benevolent king shared food with the poor.",
+   "ko": "그 자비로운 왕은 가난한 사람들과 음식을 나눴어요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇빛과 물을 받아 쑥쑥 자라는 식물",
+ "imageCaption": "식물에게 햇빛과 물이 좋은 일을 해 주는 모습을 떠올려 보세요. 서로에게 이로운 게 beneficial이에요.",
+ "movieLineEn": "This deal will be beneficial for both of us.",
+ "movieLineKo": "이 거래는 우리 둘 다에게 이득이 될 거야.",
+ "storyTitle": "자비로운 후원자의 정체",
+ "story": "우리 학교에 benevolent(자비로운) benefactor(후원자)가 나타나 매점 간식을 공짜로 줬어요. 학생들은 모두 beneficiary(수혜자)가 되었죠. 선생님은 '간식은 공부에 beneficial(유익한)하지 않다'고 걱정했어요. 그런데 성적이 오르자 그 benefit(혜택)을 인정했대요. 후원자는 바로 교장 선생님이었어요!"
+}

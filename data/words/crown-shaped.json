@@ -1,0 +1,54 @@
+{
+ "word": "crown-shaped",
+ "pos": "형용사",
+ "phonetic": "[ˈkraʊn ʃeɪpt]",
+ "meaning": "왕관 모양의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "crown",
+   "meaning": "왕관 (crown)",
+   "note": "라틴어 corona(화관, 왕관)에서 고대 프랑스어를 거쳐 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "shaped",
+   "meaning": "~ 모양의 (shaped)",
+   "note": "고대 영어 scieppan(만들다)에서 온 shape에 -ed가 붙었어요."
+  }
+ ],
+ "summary": "<strong>crown</strong> (왕관) + <strong>shaped</strong> (~ 모양의) = <strong>'왕관 모양의'</strong>라는 뜻이에요.",
+ "historyTitle": "라틴어 corona, '꽃으로 엮은 고리'",
+ "historyBody": "crown은 라틴어 corona(화관, 고리 모양의 관)에서 앵글로·프랑스어 corone를 거쳐 영어에 들어왔어요. 고대에는 승리자에게 꽃이나 잎으로 엮은 관을 씌워 주었어요. 코로나바이러스도 현미경으로 보면 왕관(corona)처럼 생겨서 그런 이름이 붙었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "crown",
+   "pos": "명사",
+   "meaning": "왕관, 왕위",
+   "en": "The queen wore a golden crown.",
+   "ko": "여왕은 황금 왕관을 썼어요."
+  },
+  {
+   "word": "corona",
+   "pos": "명사",
+   "meaning": "(태양의) 코로나, 광환",
+   "en": "During an eclipse, you can see the sun's corona.",
+   "ko": "일식 때는 태양의 코로나를 볼 수 있어요."
+  },
+  {
+   "word": "coronation",
+   "pos": "명사",
+   "meaning": "대관식",
+   "en": "Thousands of people watched the king's coronation.",
+   "ko": "수천 명이 왕의 대관식을 지켜봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뾰족뾰족한 왕관 모양의 케이크",
+ "imageCaption": "꼭대기가 뾰족뾰족 솟은 왕관 모양 생일 케이크를 떠올려 보세요. 그 생김새가 crown-shaped예요.",
+ "movieLineEn": "Look for a crown-shaped rock. The treasure is under it.",
+ "movieLineKo": "왕관 모양의 바위를 찾아. 보물은 그 밑에 있어.",
+ "storyTitle": "왕관 모양 케이크",
+ "story": "공주의 생일에 crown-shaped(왕관 모양의) 케이크가 나왔어요. 진짜 crown(왕관)처럼 반짝였죠. 마치 coronation(대관식) 같은 분위기였어요. 공주가 케이크를 머리에 써 보려고 하자, 크림이 줄줄 흘러 태양의 corona(코로나)처럼 빛났대요. 그날 공주는 '크림 여왕'이 되었답니다!"
+}

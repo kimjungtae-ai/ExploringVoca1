@@ -1,0 +1,54 @@
+{
+ "word": "slicer",
+ "pos": "명사",
+ "phonetic": "[ˈslaɪsər]",
+ "meaning": "써는 기구, 슬라이서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "slice",
+   "meaning": "얇게 썰다, 한 조각 (slice)",
+   "note": "고대 프랑스어 esclice(쪼갠 조각)에서 왔고, 게르만어(프랑크어)가 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 도구/사람",
+   "note": "동사 뒤에 붙어 그 일을 하는 도구나 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>slice</strong> (얇게 썰다) + <strong>-er</strong> (~하는 도구) = <strong>'써는 기구, 슬라이서'</strong>예요.",
+ "historyTitle": "쪼갠 나무 조각에서 빵 한 조각으로",
+ "historyBody": "slice는 고대 프랑스어 esclice(쪼갠 조각, 파편)에서 14세기에 영어로 들어왔어요. 그 뿌리는 '쪼개다'를 뜻하는 게르만어(프랑크어)로, 영어 slit(길게 째다)와 친척이에요. 1928년 미국에서 식빵 써는 기계가 나오면서 'the best thing since sliced bread(최고의 발명품)'라는 표현도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "slice",
+   "pos": "명사 / 동사",
+   "meaning": "한 조각 / 얇게 썰다",
+   "en": "Can I have another slice of pizza?",
+   "ko": "피자 한 조각 더 먹어도 돼요?"
+  },
+  {
+   "word": "sliced",
+   "pos": "형용사",
+   "meaning": "얇게 썬",
+   "en": "Put some sliced cucumber on the salad.",
+   "ko": "샐러드에 얇게 썬 오이를 좀 올려 주세요."
+  },
+  {
+   "word": "slit",
+   "pos": "명사 / 동사",
+   "meaning": "가늘고 긴 틈 / 째다",
+   "en": "Light came through a slit in the curtain.",
+   "ko": "커튼의 가는 틈으로 빛이 들어왔어요."
+  }
+ ],
+ "imageSense": "대표 의미: 기계가 햄을 종잇장처럼 얇게 써는 정육점 풍경",
+ "imageCaption": "둥근 칼날이 빙글 돌며 햄을 얇게 한 장씩 썰어 내는 모습을 떠올려 보세요.",
+ "movieLineEn": "Careful with that slicer. It's sharper than it looks.",
+ "movieLineKo": "그 슬라이서 조심해. 보기보다 날카로워.",
+ "storyTitle": "슬라이서 요리사",
+ "story": "아빠는 새로 산 slicer(슬라이서)로 요리사가 되셨어요. 감자를 sliced(얇게 썬) 칩으로, 사과도 얇은 slice(조각)로 만드셨죠. 신이 난 아빠는 cheese(치즈)와 bread(빵)까지 전부 썰었어요. 그런데 저녁은 피자 배달이었어요. 썰어 둔 재료가 너무 많아서 정리하다 지치셨거든요."
+}

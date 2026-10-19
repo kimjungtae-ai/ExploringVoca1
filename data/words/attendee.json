@@ -1,0 +1,61 @@
+{
+ "word": "attendee",
+ "pos": "명사",
+ "phonetic": "[əˌtenˈdiː]",
+ "meaning": "참석자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "attend",
+   "meaning": "참석하다 (be present)",
+   "note": "라틴어 attendere(마음을 ~쪽으로 뻗다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ee",
+   "meaning": "~하는 사람",
+   "note": "employee(직원)처럼 그 행동과 관련된 사람을 나타내요."
+  }
+ ],
+ "summary": "<strong>attend</strong> (참석하다) + <strong>-ee</strong> (사람) = '그 자리에 참석한 사람'에서 <strong>'참석자'</strong>가 되었어요.",
+ "historyTitle": "20세기에 널리 퍼진 말",
+ "historyBody": "attendee는 attend에 사람을 나타내는 -ee가 붙은 말로, 19세기 무렵 등장해 20세기 회의와 행사 문화와 함께 널리 퍼졌어요. -ee는 원래 프랑스어 과거분사 어미 -é에서 와서 '~을 당하는 사람(employee)'을 뜻했지만, attendee처럼 '~하는 사람'에도 쓰이게 되었어요. 행사 안내문 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "attend",
+   "pos": "동사",
+   "meaning": "참석하다",
+   "en": "More than 200 people attended the concert.",
+   "ko": "200명이 넘는 사람이 그 콘서트에 참석했어요."
+  },
+  {
+   "word": "attention",
+   "pos": "명사",
+   "meaning": "주의, 관심",
+   "en": "Please pay attention to the instructions.",
+   "ko": "설명에 주의를 기울여 주세요."
+  },
+  {
+   "word": "attendance",
+   "pos": "명사",
+   "meaning": "출석, 참석",
+   "en": "Attendance is checked every morning.",
+   "ko": "출석은 매일 아침 확인해요."
+  },
+  {
+   "word": "employee",
+   "pos": "명사",
+   "meaning": "직원, 피고용인",
+   "en": "Every employee has to wear a name tag.",
+   "ko": "모든 직원은 이름표를 달아야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 이름표를 목에 걸고 강연을 듣는 행사 참석자들",
+ "imageCaption": "행사장 입구에서 이름표를 받아 목에 걸고 자리에 앉는 사람들을 떠올려 보세요. 그 자리에 참석한 사람이 attendee예요.",
+ "movieLineEn": "Every attendee must leave their weapons at the door.",
+ "movieLineKo": "모든 참석자는 무기를 문 앞에 두고 들어와야 합니다.",
+ "storyTitle": "참석자 명단의 수수께끼",
+ "story": "과학 축제 attendee(참석자) 명단에 '고양이 나비'라는 이름이 있었어요. employee(직원)들은 attendance(출석)를 확인하며 고개를 갸웃했죠. 강연이 시작되자 모두의 attention(관심)이 한곳에 쏠렸어요. 맨 앞자리에서 진짜 고양이가 강의를 듣고 있었거든요. 이름표까지 차고 말이에요!"
+}

@@ -1,0 +1,88 @@
+{
+ "word": "convenience",
+ "pos": "명사",
+ "phonetic": "[kənˈviːniəns]",
+ "meaning": "편리, 편의, 편의 시설",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "함께 (together)",
+   "note": "여럿이 같이 모인다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ven",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ience",
+   "meaning": "~함 (명사)",
+   "note": "상태를 나타내는 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (함께) + <strong>ven</strong> (오다) + <strong>-ience</strong> (~함) = '필요한 것이 딱 맞게 함께 오는 상태'에서 <strong>'편리, 편의'</strong>가 되었어요.",
+ "historyTitle": "라틴어 convenire, '함께 와서 딱 맞다'",
+ "historyBody": "convenience는 라틴어 convenire(함께 오다, 잘 맞다)에서 왔어요. 여러 것이 한곳에 '딱 맞게 모여 오는' 상태가 '편리함'이 된 것이에요. 같은 어근 ven(오다)이 event, prevent, adventure, avenue에도 들어 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "convenient",
+   "pos": "형용사",
+   "meaning": "편리한",
+   "en": "Online shopping is convenient for busy people.",
+   "ko": "온라인 쇼핑은 바쁜 사람들에게 편리해요."
+  },
+  {
+   "word": "conveniently",
+   "pos": "부사",
+   "meaning": "편리하게",
+   "en": "The hotel is conveniently located near the station.",
+   "ko": "그 호텔은 역 근처에 편리하게 위치해 있어요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회, 협약",
+   "en": "The science convention brought together experts from many countries.",
+   "ko": "그 과학 대회에는 여러 나라 전문가들이 모였어요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Washing your hands can prevent colds.",
+   "ko": "손을 씻으면 감기를 예방할 수 있어요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "행사, 사건",
+   "en": "The school festival is the biggest event of the year.",
+   "ko": "학교 축제는 일 년 중 가장 큰 행사예요."
+  },
+  {
+   "word": "adventure",
+   "pos": "명사",
+   "meaning": "모험",
+   "en": "Reading books is like going on an adventure.",
+   "ko": "책을 읽는 건 모험을 떠나는 것과 같아요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다, 끼어들다",
+   "en": "The teacher intervened to stop the fight.",
+   "ko": "선생님이 싸움을 말리려고 끼어드셨어요."
+  }
+ ],
+ "imageSense": "대표 의미: 24시간 편의점에서 필요한 물건을 바로 사는 장면",
+ "imageCaption": "밤늦게도 불이 켜진 편의점(convenience store)을 떠올려 보세요. 필요한 게 바로 내 앞에 '와 있는' 편리함이에요.",
+ "movieLineEn": "Please call me back at your earliest convenience.",
+ "movieLineKo": "편하실 때 가능한 한 빨리 다시 전화 주세요.",
+ "storyTitle": "편의점 고양이",
+ "story": "편의점 앞 고양이 냥이는 convenience(편리)를 사랑했어요. 늘 convenient(편리한) 자리에 누워 손님을 맞았죠. 사장님은 도둑을 prevent(막다)하라고 경비를 맡겼어요. 오늘 최고의 event(사건)는? 냥이가 도둑을 잡았는데, 알고 보니 츄르를 사러 온 단골이었대요!"
+}

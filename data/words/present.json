@@ -1,0 +1,75 @@
+{
+ "word": "present",
+ "pos": "형용사 / 명사 / 동사",
+ "phonetic": "[ˈpreznt] / [prɪˈzent]",
+ "meaning": "현재의, 참석한 / 현재, 선물 / 주다, 제시하다, 발표하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pre-",
+   "meaning": "앞에 (before)",
+   "note": "라틴어 prae(앞에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sent",
+   "meaning": "있는, 존재하는 (being)",
+   "note": "라틴어 esse(있다)의 현재분사 형태 -sens, -sentis에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pre-</strong> (앞에) + <strong>sent</strong> (있는) = 눈앞에 있는, 곧 <strong>'현재의, 참석한'</strong>이 되고, 앞에 내놓는 것이라 <strong>'선물, 주다'</strong>도 돼요.",
+ "historyTitle": "앞에 있는 것, 앞에 내놓는 것",
+ "historyBody": "present는 라틴어 praesens(앞에 있는, 지금의)에서 왔고, praeesse는 prae(앞에)와 esse(있다)가 합쳐진 말이에요. 동사 present는 라틴어 praesentare(앞에 내놓다)에서 왔고, 그래서 남 앞에 내놓는 '선물'이라는 뜻도 생겼어요. 형용사·명사는 앞을, 동사는 뒤를 강하게 읽는다는 점도 기억하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "presence",
+   "pos": "명사",
+   "meaning": "존재, 참석",
+   "en": "Thank you for your presence at our wedding.",
+   "ko": "저희 결혼식에 와 주셔서 감사합니다."
+  },
+  {
+   "word": "presentation",
+   "pos": "명사",
+   "meaning": "발표, 제시",
+   "en": "I gave a presentation about climate change.",
+   "ko": "나는 기후 변화에 대해 발표했어요."
+  },
+  {
+   "word": "represent",
+   "pos": "동사",
+   "meaning": "대표하다, 나타내다",
+   "en": "She will represent our school at the contest.",
+   "ko": "그녀가 대회에서 우리 학교를 대표할 거예요."
+  },
+  {
+   "word": "absent",
+   "pos": "형용사",
+   "meaning": "결석한, 없는",
+   "en": "He was absent from school because of a cold.",
+   "ko": "그는 감기 때문에 학교에 결석했어요."
+  },
+  {
+   "word": "essence",
+   "pos": "명사",
+   "meaning": "본질, 핵심",
+   "en": "The essence of friendship is trust.",
+   "ko": "우정의 본질은 신뢰예요."
+  },
+  {
+   "word": "presently",
+   "pos": "부사",
+   "meaning": "현재, 곧",
+   "en": "The museum is presently closed for repairs.",
+   "ko": "박물관은 현재 수리 때문에 문을 닫았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 리본으로 묶은 선물 상자를 두 손으로 내미는 모습",
+ "imageCaption": "\"지금, 여기\" 친구 앞에 선물 상자를 내미는 장면을 떠올려 보세요. 현재와 선물이 한 그림에 들어와요.",
+ "movieLineEn": "The past is history. Today is a present.",
+ "movieLineKo": "과거는 역사야. 오늘은 선물이지.",
+ "storyTitle": "생일 선물 발표회",
+ "story": "민지는 생일 파티에서 친구들에게 present(선물)를 받았어요. 그런데 친구들이 선물마다 presentation(발표)을 했죠. 반장은 반을 represent(대표하다)한다며 10분이나 연설했어요. 지루한 민지는 몰래 absent(자리에 없는) 상태가 되었어요. 친구들은 주인공 없이 발표를 끝냈대요!"
+}

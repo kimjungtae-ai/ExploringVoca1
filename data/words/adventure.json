@@ -1,0 +1,81 @@
+{
+ "word": "adventure",
+ "pos": "명사",
+ "phonetic": "[ədˈventʃər]",
+ "meaning": "모험, 모험심, 흥미진진한 경험",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~쪽으로 (to)",
+   "note": "다가오는 방향을 나타내요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vent",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)의 과거분사 ventus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것 (명사)",
+   "note": "라틴어 -ura에서 온 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~쪽으로) + <strong>vent</strong> (오다) + <strong>-ure</strong> = '앞으로 다가올 일'에서 <strong>'모험'</strong>이 되었어요.",
+ "historyTitle": "'무슨 일이 닥칠지 모르는' 라틴어 adventura",
+ "historyBody": "라틴어 advenire는 '다가오다, 도착하다'라는 뜻이었고, adventura는 '닥쳐올 일'이었어요. 무슨 일이 닥칠지 모르는 위험과 운이라는 뜻에서 중세 기사 이야기 속 '모험'이 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "사건, 행사",
+   "en": "The school festival is the biggest event of the year.",
+   "ko": "학교 축제는 1년 중 가장 큰 행사예요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Washing your hands can prevent colds.",
+   "ko": "손을 씻으면 감기를 예방할 수 있어요."
+  },
+  {
+   "word": "invent",
+   "pos": "동사",
+   "meaning": "발명하다",
+   "en": "Who invented the telephone?",
+   "ko": "전화기는 누가 발명했나요?"
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "관습, 대회",
+   "en": "It is a convention to shake hands when you meet.",
+   "ko": "만날 때 악수하는 것은 관습이에요."
+  },
+  {
+   "word": "avenue",
+   "pos": "명사",
+   "meaning": "거리, 대로, 방법",
+   "en": "The shop is on Fifth Avenue.",
+   "ko": "그 가게는 5번가에 있어요."
+  },
+  {
+   "word": "venue",
+   "pos": "명사",
+   "meaning": "장소, 개최지",
+   "en": "The venue for the concert has changed.",
+   "ko": "콘서트 장소가 바뀌었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도를 들고 정글 속으로 들어가는 탐험가",
+ "imageCaption": "앞으로 무슨 일이 '다가올지' 모르는 두근거림을 떠올려 보세요.",
+ "movieLineEn": "Pack your bags. Our greatest adventure begins today!",
+ "movieLineKo": "짐 싸. 우리의 가장 위대한 모험이 오늘 시작된다!",
+ "storyTitle": "동네 마트 대모험",
+ "story": "동생은 마트를 정글이라 생각하고 adventure(모험)를 떠났어요. 미아가 되는 걸 prevent(막다)하려고 실을 묶었죠. 과자 코너에서 시식 event(행사)를 발견! 동생은 새 과자 조합을 invent(발명하다)했어요. 그런데 실이 엉켜 마트 전체가 거미줄처럼 되어 버렸답니다."
+}

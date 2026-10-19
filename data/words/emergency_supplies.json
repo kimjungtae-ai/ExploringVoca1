@@ -1,0 +1,68 @@
+{
+ "word": "emergency supplies",
+ "pos": "명사구",
+ "phonetic": "[ɪˈmɜːrdʒənsi səˈplaɪz]",
+ "meaning": "비상용품, 비상 물자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "emergency",
+   "meaning": "비상, 긴급 상황 (emergency)",
+   "note": "갑자기 '튀어나온(emerge)' 위급한 일을 말해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "supplies",
+   "meaning": "물자, 용품 (supplies)",
+   "note": "복수형 supplies는 필요할 때 꺼내 쓰는 '비축 물품'이라는 뜻이에요."
+  }
+ ],
+ "summary": "<strong>emergency</strong> (비상) + <strong>supplies</strong> (물자) = '위급할 때 쓰려고 모아 둔 물건들'이라서 <strong>'비상용품'</strong>이 돼요.",
+ "historyTitle": "갑자기 솟아오르는 위기, emergency",
+ "historyBody": "emergency는 라틴어 emergere(물 위로 떠오르다: e- 밖으로 + mergere 잠기다)에서 온 말로, 원래 '갑자기 나타난 일'을 뜻했어요. supply는 고대 프랑스어 souploier, 라틴어 supplere(가득 채우다)에서 왔답니다. 그래서 비상용품은 '갑작스러운 일을 대비해 채워 둔 물자'예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "emergency exit",
+   "pos": "명사구",
+   "meaning": "비상구",
+   "en": "Please remember where the emergency exit is on the plane.",
+   "ko": "비행기에서 비상구가 어디 있는지 꼭 기억해 두세요."
+  },
+  {
+   "word": "first aid kit",
+   "pos": "명사구",
+   "meaning": "구급상자",
+   "en": "We always keep a first aid kit in the car.",
+   "ko": "우리는 차에 항상 구급상자를 두고 다녀요."
+  },
+  {
+   "word": "supply",
+   "pos": "동사 / 명사",
+   "meaning": "공급하다 / 공급",
+   "en": "The farm supplies fresh vegetables to local schools.",
+   "ko": "그 농장은 지역 학교에 신선한 채소를 공급해요."
+  },
+  {
+   "word": "emerge",
+   "pos": "동사",
+   "meaning": "나타나다, 떠오르다",
+   "en": "A small boat emerged from the thick fog.",
+   "ko": "작은 배 한 척이 짙은 안개 속에서 나타났어요."
+  },
+  {
+   "word": "school supplies",
+   "pos": "명사구",
+   "meaning": "학용품",
+   "en": "I bought new school supplies before the semester started.",
+   "ko": "나는 학기가 시작되기 전에 새 학용품을 샀어요."
+  }
+ ],
+ "imageSense": "대표 의미: 배낭에 물, 손전등, 통조림, 구급상자를 챙겨 넣는 장면",
+ "imageCaption": "지진이나 정전 같은 위기 상황을 위해 미리 꾸려 둔 생존 가방을 떠올려 보세요.",
+ "movieLineEn": "Grab the emergency supplies and head to the shelter now!",
+ "movieLineKo": "비상용품 챙겨서 당장 대피소로 가!",
+ "storyTitle": "정전 대비 가방의 비밀",
+ "story": "정전이 되자 민수는 emergency supplies(비상용품) 가방을 꺼냈어요. emergency exit(비상구) 앞에서 손전등을 찾으며 first aid kit(구급상자)도 확인했죠. 그런데 가방에서 emerge(나타나다)한 건 과자 열 봉지뿐! 엄마가 말했어요. \"그건 네가 몰래 supply(공급하다)한 간식 창고잖아!\""
+}

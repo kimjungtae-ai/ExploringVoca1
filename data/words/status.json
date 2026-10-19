@@ -1,0 +1,75 @@
+{
+ "word": "status",
+ "pos": "명사",
+ "phonetic": "[ˈsteɪtəs]",
+ "meaning": "지위, 신분, 상태, 상황",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sta",
+   "meaning": "서다 (stand)",
+   "note": "라틴어 stare(서다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tus",
+   "meaning": "~한 상태 (명사)",
+   "note": "라틴어 명사형 어미로 '서 있는 상태'가 돼요."
+  }
+ ],
+ "summary": "<strong>sta</strong> (서다) + <strong>-tus</strong> (상태) = '사회 속에서 서 있는 위치나 상태'에서 <strong>'지위, 상태'</strong>가 되었습니다.",
+ "historyTitle": "라틴어 그대로 들어온 status",
+ "historyBody": "status는 라틴어 status(서 있음, 자세, 처지)가 철자 그대로 영어에 들어온 단어예요. 17세기에 법률 용어로 쓰이다가 '사회적 지위'와 '현재 상태'라는 뜻으로 넓어졌어요. 같은 라틴어에서 state와 estate도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "state",
+   "pos": "명사 / 동사",
+   "meaning": "상태, 국가 / 진술하다",
+   "en": "Please state your name clearly.",
+   "ko": "이름을 분명하게 말해 주세요."
+  },
+  {
+   "word": "statue",
+   "pos": "명사",
+   "meaning": "조각상",
+   "en": "The Statue of Liberty is in New York.",
+   "ko": "자유의 여신상은 뉴욕에 있어요."
+  },
+  {
+   "word": "station",
+   "pos": "명사",
+   "meaning": "역, 정거장",
+   "en": "The bus station was crowded this morning.",
+   "ko": "오늘 아침 버스 정류장은 붐볐어요."
+  },
+  {
+   "word": "stature",
+   "pos": "명사",
+   "meaning": "키, 위상",
+   "en": "He is small in stature but very strong.",
+   "ko": "그는 키는 작지만 아주 힘이 세요."
+  },
+  {
+   "word": "statistics",
+   "pos": "명사",
+   "meaning": "통계, 통계학",
+   "en": "Statistics show that more people are reading e-books.",
+   "ko": "통계에 따르면 더 많은 사람들이 전자책을 읽고 있어요."
+  },
+  {
+   "word": "estate",
+   "pos": "명사",
+   "meaning": "토지, 재산",
+   "en": "The family owns a large estate in the countryside.",
+   "ko": "그 가족은 시골에 넓은 토지를 소유하고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 단상 위에 우뚝 서서 사람들을 내려다보는 높은 지위의 인물",
+ "imageCaption": "사회라는 계단 위 어디쯤 서 있는지, 그 위치가 바로 status예요.",
+ "movieLineEn": "Status report, now! Where is the missing cat?",
+ "movieLineKo": "상황 보고해, 지금 당장! 사라진 고양이는 어딨어?",
+ "storyTitle": "동상의 높은 지위",
+ "story": "공원의 statue(조각상)는 자기 status(지위)가 제일 높다고 믿었어요. 늘 우뚝 서 있는 stature(위상) 덕분이었죠. statistics(통계)를 봐도 사진을 제일 많이 찍히는 건 자기였어요. 그런데 어느 날 공원 관리인이 state(진술하다)했어요. \"사람들이 찍는 건 네 머리 위에 앉은 귀여운 비둘기야.\""
+}

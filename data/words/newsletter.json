@@ -1,0 +1,68 @@
+{
+ "word": "newsletter",
+ "pos": "명사",
+ "phonetic": "[ˈnuːzletər]",
+ "meaning": "소식지, 회보, 뉴스레터",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "news",
+   "meaning": "소식 (news)",
+   "note": "new(새로운)에서 나온 말로 '새로운 것들'이라는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "letter",
+   "meaning": "편지, 글자 (letter)",
+   "note": "라틴어 littera(글자)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>news</strong> (소식) + <strong>letter</strong> (편지) = 소식을 담은 편지라서 <strong>'소식지, 뉴스레터'</strong>가 되었어요.",
+ "historyTitle": "손으로 쓰던 소식 편지",
+ "historyBody": "17세기 영국에서는 부자들이 돈을 내고 손으로 쓴 소식 편지(news-letter)를 받아 봤어요. 인쇄 신문이 흔해지기 전 이야기죠. 지금은 학교, 회사, 이메일 구독 서비스의 정기 소식지를 가리켜요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "news",
+   "pos": "명사",
+   "meaning": "소식, 뉴스",
+   "en": "I heard the good news from my teacher.",
+   "ko": "선생님께 좋은 소식을 들었어요."
+  },
+  {
+   "word": "newspaper",
+   "pos": "명사",
+   "meaning": "신문",
+   "en": "My grandfather reads the newspaper every morning.",
+   "ko": "할아버지는 매일 아침 신문을 읽으세요."
+  },
+  {
+   "word": "renew",
+   "pos": "동사",
+   "meaning": "갱신하다, 새롭게 하다",
+   "en": "I need to renew my library card this week.",
+   "ko": "이번 주에 도서관 카드를 갱신해야 해요."
+  },
+  {
+   "word": "letter",
+   "pos": "명사",
+   "meaning": "편지, 글자",
+   "en": "She wrote a thank-you letter to her teacher.",
+   "ko": "그녀는 선생님께 감사 편지를 썼어요."
+  },
+  {
+   "word": "literacy",
+   "pos": "명사",
+   "meaning": "읽고 쓰는 능력",
+   "en": "Digital literacy is an important skill today.",
+   "ko": "디지털 문해력은 오늘날 중요한 능력이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 매달 우편함이나 메일함에 도착하는 소식지",
+ "imageCaption": "학교에서 보내온 알록달록한 소식지를 펼쳐 보는 부모님을 떠올려 보세요.",
+ "movieLineEn": "Sign up for our newsletter, and you'll never miss a thing.",
+ "movieLineKo": "뉴스레터를 구독하면 아무것도 놓치지 않을 거야.",
+ "storyTitle": "고양이 소식지",
+ "story": "우리 집 고양이는 매주 newsletter(소식지)를 발행해요. 1면 news(소식)는 '간식 시간 변경 요구'죠. newspaper(신문)처럼 사진도 있어요. 구독을 renew(갱신하다)하지 않으면 엄마 슬리퍼에 털 letter(편지)가 배달된답니다. 구독자는 단 한 명, 바로 저예요."
+}

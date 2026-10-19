@@ -1,0 +1,68 @@
+{
+ "word": "payment",
+ "pos": "명사",
+ "phonetic": "[ˈpeɪmənt]",
+ "meaning": "지불, 납부, 지불금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pay",
+   "meaning": "지불하다 (pay)",
+   "note": "라틴어 pacare(달래다, 평화롭게 하다)에서 프랑스어를 거쳐 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것 (명사)",
+   "note": "동사를 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>pay</strong> (지불하다) + <strong>-ment</strong> (~하는 것) = <strong>'지불, 납부'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "돈을 갚아 마음을 달래다",
+ "historyBody": "pay는 라틴어 pacare(달래다, 평화롭게 하다)에서 왔고, 이는 pax(평화)에서 나온 말이에요. 중세 라틴어에서 '빚을 갚아 채권자를 달래다'라는 뜻이 생겨 고대 프랑스어 paier를 거쳐 영어에 들어왔어요. 돈을 갚으면 다툼이 사라지고 평화가 오니, peace와 pay는 사촌인 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pay",
+   "pos": "동사",
+   "meaning": "지불하다, 갚다",
+   "en": "I'll pay for the movie tickets today.",
+   "ko": "오늘 영화표는 내가 낼게."
+  },
+  {
+   "word": "repay",
+   "pos": "동사",
+   "meaning": "갚다, 보답하다",
+   "en": "How can I ever repay your kindness?",
+   "ko": "당신의 친절에 어떻게 보답할 수 있을까요?"
+  },
+  {
+   "word": "peace",
+   "pos": "명사",
+   "meaning": "평화",
+   "en": "The two countries finally signed a peace agreement.",
+   "ko": "두 나라는 마침내 평화 협정에 서명했어요."
+  },
+  {
+   "word": "pacify",
+   "pos": "동사",
+   "meaning": "달래다, 진정시키다",
+   "en": "The mother tried to pacify the crying baby.",
+   "ko": "엄마는 우는 아기를 달래려고 애썼어요."
+  },
+  {
+   "word": "payable",
+   "pos": "형용사",
+   "meaning": "지불해야 할",
+   "en": "The fee is payable at the front desk.",
+   "ko": "요금은 안내 데스크에서 지불하시면 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 계산대에서 카드를 내밀어 값을 치르는 장면",
+ "imageCaption": "점원에게 돈을 건네자 서로 웃으며 '감사합니다' 하는 모습을 떠올려 보세요. 값을 치러 평화가 오는 순간, payment예요.",
+ "movieLineEn": "No payment, no deal. That's how it works here.",
+ "movieLineKo": "돈 안 내면 거래도 없어. 여기선 그렇게 돌아가.",
+ "storyTitle": "평화를 사는 방법",
+ "story": "형과 내가 TV 리모컨으로 싸우고 있었어요. 엄마가 와서 pacify(달래다)하려 했지만 소용없었죠. 결국 내가 형에게 과자로 payment(지불)를 했어요. 그러자 집에 peace(평화)가 찾아왔죠. 형은 나중에 repay(갚다)하겠다고 했어요. 그런데 다음 날 형이 사 온 건 리모컨 하나 더였어요!"
+}

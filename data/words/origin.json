@@ -1,0 +1,68 @@
+{
+ "word": "origin",
+ "pos": "명사",
+ "phonetic": "[ˈɔːrɪdʒɪn]",
+ "meaning": "기원, 근원, 출신",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ori",
+   "meaning": "떠오르다 (rise)",
+   "note": "라틴어 oriri(떠오르다, 생겨나다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-gin (-go)",
+   "meaning": "~하는 것 (명사)",
+   "note": "라틴어 origo, originis의 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ori</strong> (떠오르다) + <strong>-gin</strong> (명사) = '무언가가 처음 떠오르는 곳'이라는 뜻에서 <strong>'기원, 근원'</strong>이 되었어요.",
+ "historyTitle": "떠오르는 해에서 시작된 말",
+ "historyBody": "라틴어 oriri는 '떠오르다, 생겨나다'라는 뜻으로, 해가 떠오르는 것에도 쓰였어요. 여기서 origo(시작, 근원)가 나왔고, 14세기쯤 프랑스어를 거쳐 영어에 들어왔어요. 해가 떠오르는 동쪽을 뜻하는 orient도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "original",
+   "pos": "형용사 / 명사",
+   "meaning": "원래의, 독창적인 / 원본",
+   "en": "The museum keeps the original painting in a safe room.",
+   "ko": "박물관은 원본 그림을 안전한 방에 보관해요."
+  },
+  {
+   "word": "originate",
+   "pos": "동사",
+   "meaning": "비롯되다, 시작되다",
+   "en": "This tradition originated in a small village in Italy.",
+   "ko": "이 전통은 이탈리아의 작은 마을에서 비롯되었어요."
+  },
+  {
+   "word": "originality",
+   "pos": "명사",
+   "meaning": "독창성",
+   "en": "The judges praised the originality of her design.",
+   "ko": "심사위원들은 그녀의 디자인이 독창적이라고 칭찬했어요."
+  },
+  {
+   "word": "orient",
+   "pos": "동사 / 명사",
+   "meaning": "방향을 잡다, 적응시키다 / 동양 (해 뜨는 곳)",
+   "en": "New students attend a program to orient themselves to school life.",
+   "ko": "신입생들은 학교생활에 적응하기 위한 프로그램에 참여해요."
+  },
+  {
+   "word": "aboriginal",
+   "pos": "형용사",
+   "meaning": "원주민의, 토착의",
+   "en": "The museum displays aboriginal art from Australia.",
+   "ko": "그 박물관은 호주 원주민의 미술품을 전시해요."
+  }
+ ],
+ "imageSense": "대표 의미: 강물이 산속 작은 샘에서 처음 솟아나는 장면",
+ "imageCaption": "큰 강을 거슬러 올라가 바위틈에서 퐁퐁 솟는 샘을 찾았다고 상상해 보세요. 그곳이 강의 origin이에요.",
+ "movieLineEn": "Every legend has an origin. Ours began on this very mountain.",
+ "movieLineKo": "모든 전설엔 기원이 있지. 우리의 전설은 바로 이 산에서 시작됐어.",
+ "storyTitle": "라면의 기원을 찾아서",
+ "story": "탐정 민호는 학교 매점 라면의 origin(기원)을 찾기로 했어요. 그 맛이 어디서 originate(비롯되다)했는지 궁금했거든요. 결국 original(원래의) 레시피를 찾아냈는데, 그 originality(독창성)의 정체는 매점 아주머니의 '대충 넣기'였어요!"
+}

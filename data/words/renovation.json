@@ -1,0 +1,74 @@
+{
+ "word": "renovation",
+ "pos": "명사",
+ "phonetic": "[ˌrenəˈveɪʃn]",
+ "meaning": "개조, 보수, 수리, 혁신",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nov",
+   "meaning": "새로운 (new)",
+   "note": "라틴어 novus(새로운)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것 (명사를 만듦)",
+   "note": "동사를 '행위나 결과'를 나타내는 명사로 바꿔 줘요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>nov</strong> (새로운) + <strong>-ation</strong> (~하는 것) = '다시 새롭게 하는 일'에서 <strong>'개조, 보수'</strong>가 되었어요.",
+ "historyTitle": "영혼을 새롭게 하던 말",
+ "historyBody": "renovation은 라틴어 renovatio(새롭게 함)에서 15세기에 영어로 들어왔어요. 처음에는 주로 '정신적·영적인 새로워짐'을 뜻했지만, 점차 건물이나 시설을 고치는 '보수 공사'의 뜻으로 많이 쓰이게 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renovate",
+   "pos": "동사",
+   "meaning": "개조하다, 보수하다",
+   "en": "They plan to renovate the kitchen this summer.",
+   "ko": "그들은 이번 여름에 부엌을 개조할 계획이에요."
+  },
+  {
+   "word": "innovation",
+   "pos": "명사",
+   "meaning": "혁신",
+   "en": "Innovation often begins with a simple question.",
+   "ko": "혁신은 종종 단순한 질문에서 시작돼요."
+  },
+  {
+   "word": "innovative",
+   "pos": "형용사",
+   "meaning": "혁신적인",
+   "en": "The museum uses innovative technology to show history.",
+   "ko": "그 박물관은 역사를 보여 주는 데 혁신적인 기술을 사용해요."
+  },
+  {
+   "word": "novel",
+   "pos": "명사 / 형용사",
+   "meaning": "소설 / 새로운",
+   "en": "I stayed up all night reading a mystery novel.",
+   "ko": "나는 추리 소설을 읽느라 밤을 꼬박 새웠어요."
+  },
+  {
+   "word": "novice",
+   "pos": "명사",
+   "meaning": "초보자",
+   "en": "This ski course is perfect for novices.",
+   "ko": "이 스키 코스는 초보자에게 딱 맞아요."
+  }
+ ],
+ "imageSense": "대표 의미: '공사 중' 표지판이 붙은 건물이 새 단장을 하는 장면",
+ "imageCaption": "노란 '공사 중' 테이프 너머로 낡은 건물이 새 옷을 갈아입는 모습을 떠올려 보세요.",
+ "movieLineEn": "The renovation is finished. Welcome to your brand-new home!",
+ "movieLineKo": "보수 공사가 끝났어요. 완전히 새로워진 집에 오신 걸 환영해요!",
+ "storyTitle": "교실 대변신",
+ "story": "우리 교실이 renovation(개조) 공사에 들어갔어요. 선생님은 innovative(혁신적인) 교실을 약속하셨죠. 공사 동안 나는 novel(소설)을 읽으며 기다렸어요. 드디어 renovate(개조하다)된 교실 문을 열자, 최신 칠판과 의자가… 그리고 예전보다 두 배 늘어난 숙제 게시판이 있었답니다."
+}

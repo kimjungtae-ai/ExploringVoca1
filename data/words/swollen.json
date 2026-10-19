@@ -1,0 +1,54 @@
+{
+ "word": "swollen",
+ "pos": "형용사",
+ "phonetic": "[ˈswoʊlən]",
+ "meaning": "부어오른, 불어난",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "swell",
+   "meaning": "부풀다 (swell)",
+   "note": "고대 영어 swellan(부풀다)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-en",
+   "meaning": "~된 (과거분사)",
+   "note": "옛 과거분사 어미로 '~된 상태'를 나타내요."
+  }
+ ],
+ "summary": "<strong>swell</strong> (부풀다) + <strong>-en</strong> (~된) = '부풀어 오른 상태'에서 <strong>'부어오른'</strong>이 되었어요.",
+ "historyTitle": "옛날식 과거분사",
+ "historyBody": "swollen은 고대 영어 swellan(부풀다)의 옛 과거분사 swollen에서 왔어요. 지금은 swell의 과거분사로 swelled도 쓰지만, '부어오른'이라는 형용사로는 swollen이 훨씬 자주 쓰여요. 모음이 바뀌고 -en이 붙는 건 옛 게르만어 동사 활용의 흔적이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "swell",
+   "pos": "동사",
+   "meaning": "부풀다, 붓다",
+   "en": "My ankle began to swell after I fell.",
+   "ko": "넘어진 뒤 발목이 붓기 시작했어요."
+  },
+  {
+   "word": "swelling",
+   "pos": "명사",
+   "meaning": "부기, 부어오름",
+   "en": "Put ice on it to reduce the swelling.",
+   "ko": "부기를 빼려면 얼음을 대세요."
+  },
+  {
+   "word": "swelled",
+   "pos": "동사(과거)",
+   "meaning": "불어났다",
+   "en": "The crowd swelled to over ten thousand.",
+   "ko": "군중이 만 명 넘게 불어났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 벌에 쏘여 퉁퉁 부은 손",
+ "imageCaption": "벌에 쏘여 풍선처럼 퉁퉁 부어오른 손가락을 떠올려 보세요. 물을 머금고 부푼 상태예요.",
+ "movieLineEn": "My eyes are swollen because I cried all night.",
+ "movieLineKo": "밤새 울어서 눈이 퉁퉁 부었어.",
+ "storyTitle": "라면과 부은 얼굴",
+ "story": "시험 전날 밤 나는 라면을 두 그릇 먹고 잤어요. 아침에 거울을 보니 얼굴이 swollen(부어오른) 상태였죠. swelling(부기)을 빼려고 얼음을 댔지만 계속 swell(붓다)했어요. 친구들은 오히려 빵빵하게 swelled(부푼) 볼이 귀엽다고 했고, 그날 사진이 내 인생 사진이 되었답니다!"
+}

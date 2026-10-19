@@ -1,0 +1,61 @@
+{
+ "word": "storage",
+ "pos": "명사",
+ "phonetic": "[ˈstɔːrɪdʒ]",
+ "meaning": "저장, 보관, 저장 공간",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "store",
+   "meaning": "저장하다, 비축하다 (keep, supply)",
+   "note": "고대 프랑스어 estorer(세우다, 비축하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-age",
+   "meaning": "~하는 것, ~하는 곳 (명사)",
+   "note": "동작이나 장소를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>store</strong> (저장하다) + <strong>-age</strong> (~하는 것/곳) = <strong>'저장, 보관, 저장 공간'</strong>입니다.",
+ "historyTitle": "'다시 세우다'에서 '비축하다'로",
+ "historyBody": "store는 고대 프랑스어 estorer(짓다, 비축하다)에서 왔고, 그 뿌리는 라틴어 instaurare(새로 세우다, 복구하다)예요. 필요한 물건을 미리 갖춰 둔다는 뜻에서 '저장하다'가 되었고, 그런 물건을 파는 곳이 store(가게)가 되었어요. restore(복구하다)도 같은 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "store",
+   "pos": "동사 / 명사",
+   "meaning": "저장하다 / 가게",
+   "en": "Squirrels store nuts for the winter.",
+   "ko": "다람쥐는 겨울을 위해 도토리를 저장해요."
+  },
+  {
+   "word": "restore",
+   "pos": "동사",
+   "meaning": "복구하다, 회복시키다",
+   "en": "Workers are restoring the old palace.",
+   "ko": "인부들이 오래된 궁전을 복원하고 있어요."
+  },
+  {
+   "word": "restoration",
+   "pos": "명사",
+   "meaning": "복원, 회복",
+   "en": "The restoration of the temple took ten years.",
+   "ko": "그 사원의 복원은 10년이 걸렸어요."
+  },
+  {
+   "word": "storehouse",
+   "pos": "명사",
+   "meaning": "창고, 보고",
+   "en": "The library is a storehouse of knowledge.",
+   "ko": "도서관은 지식의 보고예요."
+  }
+ ],
+ "imageSense": "대표 의미: 창고 선반에 상자들이 차곡차곡 쌓여 있는 장면",
+ "imageCaption": "휴대폰 '저장 공간 부족' 알림이 뜨는 순간을 떠올려 보세요.",
+ "movieLineEn": "Your phone storage is full. Delete some selfies!",
+ "movieLineKo": "휴대폰 저장 공간이 꽉 찼어. 셀카 좀 지워!",
+ "storyTitle": "다람쥐의 저장 공간 부족",
+ "story": "다람쥐는 겨울을 위해 도토리를 store(저장하다)했어요. 하지만 나무 구멍 storage(저장 공간)가 꽉 찼죠. 다람쥐는 땅속 storehouse(창고)를 새로 팠어요. 그런데 어디에 묻었는지 기억이 안 나서, 봄이 되자 숲 곳곳에서 참나무가 자라났어요. 숲은 완벽하게 restore(복구하다)되었고, 다람쥐는 숲의 영웅이 되었대요!"
+}

@@ -1,0 +1,75 @@
+{
+ "word": "review",
+ "pos": "명사 / 동사",
+ "phonetic": "[rɪˈvjuː]",
+ "meaning": "검토, 복습, 논평 / 검토하다, 복습하다, 평가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 한다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "view",
+   "meaning": "보다 (see) ← videre",
+   "note": "고대 프랑스어 veue(봄)를 거쳐 라틴어 videre(보다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>view</strong> (보다) = '다시 살펴보다'에서 <strong>'검토하다, 복습하다'</strong>가 되었어요.",
+ "historyTitle": "군대 사열에서 서평까지",
+ "historyBody": "review는 중세 프랑스어 reveue(다시 봄)에서 왔고, 그 뿌리는 라틴어 videre(보다)예요. 처음에는 군대를 정식으로 '사열'하는 일을 뜻하다가, 17세기쯤 책이나 작품을 '평하는 글'이라는 뜻이 생겼어요. 같은 videre에서 video, evident, provide도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "view",
+   "pos": "명사 / 동사",
+   "meaning": "견해, 경치 / 보다",
+   "en": "The view from the mountain was amazing.",
+   "ko": "산에서 본 경치는 놀라웠어요."
+  },
+  {
+   "word": "preview",
+   "pos": "명사 / 동사",
+   "meaning": "미리 보기, 시사회 / 미리 보다",
+   "en": "We watched a preview of the new movie.",
+   "ko": "우리는 새 영화의 예고편을 봤어요."
+  },
+  {
+   "word": "interview",
+   "pos": "명사 / 동사",
+   "meaning": "면접, 인터뷰 / 면접하다",
+   "en": "I have a job interview tomorrow.",
+   "ko": "나는 내일 면접이 있어요."
+  },
+  {
+   "word": "video",
+   "pos": "명사",
+   "meaning": "영상, 비디오",
+   "en": "She made a video about her trip.",
+   "ko": "그녀는 여행에 관한 영상을 만들었어요."
+  },
+  {
+   "word": "evident",
+   "pos": "형용사",
+   "meaning": "분명한, 명백한",
+   "en": "It was evident that he was tired.",
+   "ko": "그가 피곤하다는 건 분명했어요."
+  },
+  {
+   "word": "provide",
+   "pos": "동사",
+   "meaning": "제공하다",
+   "en": "The school provides free lunch.",
+   "ko": "학교는 무료 점심을 제공해요."
+  }
+ ],
+ "imageSense": "대표 의미: 시험 전날 노트를 처음부터 다시 훑어보는 학생",
+ "imageCaption": "형광펜 친 노트를 한 장씩 다시 넘겨 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let's review the plan one more time. No mistakes tonight.",
+ "movieLineKo": "계획을 한 번만 더 검토하자. 오늘 밤엔 실수 없어.",
+ "storyTitle": "별점 다섯 개의 비밀",
+ "story": "민지는 시험 전 노트를 review(복습하다)했어요. 그런데 스마트폰 preview(미리 보기)에 맛집 video(영상)가 떠서 결국 식당에 갔죠. 다음 날 시험은 엉망이었지만, 민지가 쓴 식당 review(논평)는 별점 오천 개를 받았어요. 결국 음식 평론가 interview(면접)에 합격했대요!"
+}

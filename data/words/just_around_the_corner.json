@@ -1,0 +1,74 @@
+{
+ "word": "just around the corner",
+ "pos": "숙어",
+ "phonetic": "[dʒʌst əˈraʊnd ðə ˈkɔːrnər]",
+ "meaning": "바로 코앞에, 곧 다가오는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "just",
+   "meaning": "바로, 딱 (just)",
+   "note": "거리나 시간이 '바로' 가깝다는 걸 강조해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "around",
+   "meaning": "돌아서 (around)",
+   "note": "모퉁이를 '돌아서' 있는 위치를 그려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "the corner",
+   "meaning": "모퉁이 (corner)",
+   "note": "길이 꺾이는 '모퉁이'가 중심 이미지예요."
+  }
+ ],
+ "summary": "<strong>just</strong> (바로) + <strong>around</strong> (돌아서) + <strong>the corner</strong> (모퉁이) = '모퉁이만 돌면 바로'에서 <strong>'아주 가까이, 곧 다가오는'</strong>",
+ "historyTitle": "장소에서 시간으로",
+ "historyBody": "corner는 라틴어 cornu(뿔)에서 온 고대 프랑스어 corniere를 거쳐 들어왔어요. 뿔처럼 튀어나온 '모서리'라는 뜻이죠. '모퉁이만 돌면 있다'는 장소 표현이 '곧 닥쳐올 일'이라는 시간 표현으로도 넓어졌어요. 'Summer is just around the corner.'처럼 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "around the corner",
+   "pos": "숙어",
+   "meaning": "모퉁이를 돌아, 곧",
+   "en": "The bakery is around the corner.",
+   "ko": "빵집은 모퉁이를 돌면 있어."
+  },
+  {
+   "word": "near at hand",
+   "pos": "숙어",
+   "meaning": "가까이에, 머지않아",
+   "en": "The exam is near at hand.",
+   "ko": "시험이 머지않았어."
+  },
+  {
+   "word": "approach",
+   "pos": "동사",
+   "meaning": "다가오다",
+   "en": "Winter is approaching fast.",
+   "ko": "겨울이 빠르게 다가오고 있어."
+  },
+  {
+   "word": "upcoming",
+   "pos": "형용사",
+   "meaning": "다가오는",
+   "en": "Are you ready for the upcoming test?",
+   "ko": "다가오는 시험 준비됐어?"
+  },
+  {
+   "word": "cut corners",
+   "pos": "숙어",
+   "meaning": "(돈·노력을) 아끼다, 대충하다",
+   "en": "Don't cut corners on safety.",
+   "ko": "안전에 대해서는 대충하지 마."
+  }
+ ],
+ "imageSense": "대표 의미: 골목 모퉁이 너머에 크리스마스 트리가 보이는 장면",
+ "imageCaption": "모퉁이 하나만 돌면 바로 보이는 목적지처럼, 곧 다가올 날을 떠올려 보세요.",
+ "movieLineEn": "Don't give up now. Victory is just around the corner!",
+ "movieLineKo": "지금 포기하지 마. 승리가 바로 코앞이야!",
+ "storyTitle": "방학이 코앞",
+ "story": "방학이 just around the corner(바로 코앞에) 다가왔어요. 친구들은 upcoming(다가오는) 여행 계획에 신났죠. 그런데 그 전에 기말고사가 approach(다가오다) 하고 있었어요. 시험은 near at hand(머지않은) 상태! 결국 모두 방학 계획 대신 교과서를 펼쳤답니다. 방학은 시험이라는 모퉁이 뒤에 숨어 있었어요."
+}

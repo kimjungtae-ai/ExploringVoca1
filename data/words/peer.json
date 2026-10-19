@@ -1,0 +1,55 @@
+{
+ "word": "peer",
+ "pos": "명사 / 동사",
+ "phonetic": "[pɪr]",
+ "meaning": "또래, 동료, 동등한 사람 / 자세히 들여다보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "peer (← par)",
+   "meaning": "동등한 (equal)",
+   "note": "라틴어 par(동등한)에서 고대 프랑스어 per를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>peer</strong> (← 라틴어 par, 동등한) = '나와 동등한 사람'이라는 뜻에서 <strong>'또래, 동료'</strong>가 되었어요.",
+ "historyTitle": "왕과 기사의 '동등한 사람'",
+ "historyBody": "명사 peer는 라틴어 par(동등한)에서 고대 프랑스어 per를 거쳐 13세기 영어에 들어왔어요. 원래 '같은 신분의 사람'을 뜻했고, 오늘날엔 peer pressure(또래 압력)처럼 '또래'라는 뜻으로 많이 써요. 한편 '자세히 들여다보다'라는 동사 peer는 모양만 같을 뿐 기원이 다르고, 그 출처도 확실하지 않아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pair",
+   "pos": "명사",
+   "meaning": "한 쌍, 짝",
+   "en": "I bought a new pair of sneakers.",
+   "ko": "나는 새 운동화 한 켤레를 샀어요."
+  },
+  {
+   "word": "par",
+   "pos": "명사",
+   "meaning": "동등, 기준",
+   "en": "His skills are on a par with professional players.",
+   "ko": "그의 실력은 프로 선수들과 맞먹어요."
+  },
+  {
+   "word": "compare",
+   "pos": "동사",
+   "meaning": "비교하다",
+   "en": "Don't compare yourself to others all the time.",
+   "ko": "항상 다른 사람과 자신을 비교하지 마세요."
+  },
+  {
+   "word": "umpire",
+   "pos": "명사",
+   "meaning": "심판",
+   "en": "The umpire called the player out.",
+   "ko": "심판은 그 선수에게 아웃을 선언했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 같은 교복을 입은 친구들이 나란히 어깨동무한 장면",
+ "imageCaption": "나와 비슷한 나이, 비슷한 고민을 가진 친구들을 떠올려 보세요. 나와 '동등한' 그들이 peer예요.",
+ "movieLineEn": "Don't let your peers decide who you are.",
+ "movieLineKo": "네가 어떤 사람인지 또래들이 정하게 두지 마.",
+ "storyTitle": "또래 압력의 반전",
+ "story": "반 친구들이 모두 같은 pair(한 쌍) 운동화를 신었어요. 나도 peer(또래) 압력에 사고 싶었죠. 엄마는 친구랑 compare(비교하다)하지 말라고 하셨어요. 다음 날 체육 시간, umpire(심판)를 맡은 선생님이 말했어요. '오늘은 신발 벗고 피구!' 모두 맨발이 되어 다 같아졌답니다."
+}

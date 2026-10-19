@@ -1,0 +1,68 @@
+{
+ "word": "weight",
+ "pos": "명사",
+ "phonetic": "[weɪt]",
+ "meaning": "무게, 체중, 중요성, 영향력",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "weigh",
+   "meaning": "무게가 나가다, 무게를 달다 (weigh)",
+   "note": "고대 영어 wegan(나르다, 들어 올리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-t",
+   "meaning": "~한 것 (명사)",
+   "note": "동사를 명사로 만드는 옛 접미사예요. (height, flight와 비슷해요)"
+  }
+ ],
+ "summary": "<strong>weigh</strong> (무게를 달다) + <strong>-t</strong> (~한 것) = <strong>'무게, 중요성'</strong>이 되었어요.",
+ "historyTitle": "들어 올려서 재던 무게",
+ "historyBody": "weigh는 고대 영어 wegan에서 왔는데, 원래 '나르다, 들어 올리다'라는 뜻이었어요. 물건을 들어 올려 무게를 가늠했던 거죠. 여기서 명사 weight가 생겼고, '무게가 있다'는 뜻에서 '중요성, 영향력'으로 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "weigh",
+   "pos": "동사",
+   "meaning": "무게가 ~이다, 신중히 따지다",
+   "en": "You should weigh the pros and cons first.",
+   "ko": "먼저 장단점을 신중히 따져 봐야 해요."
+  },
+  {
+   "word": "overweight",
+   "pos": "형용사",
+   "meaning": "과체중의, 중량 초과의",
+   "en": "My suitcase was overweight at the airport.",
+   "ko": "공항에서 내 여행 가방이 중량 초과였어요."
+  },
+  {
+   "word": "weightless",
+   "pos": "형용사",
+   "meaning": "무중력의, 무게가 없는",
+   "en": "Astronauts feel weightless in space.",
+   "ko": "우주 비행사들은 우주에서 무중력을 느껴요."
+  },
+  {
+   "word": "lightweight",
+   "pos": "형용사",
+   "meaning": "가벼운",
+   "en": "This lightweight bag is perfect for travel.",
+   "ko": "이 가벼운 가방은 여행용으로 딱이에요."
+  },
+  {
+   "word": "heavyweight",
+   "pos": "명사",
+   "meaning": "헤비급 선수, 거물",
+   "en": "He is a heavyweight in the music industry.",
+   "ko": "그는 음악 업계의 거물이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 저울 위에 올라가 숫자를 확인하는 장면",
+ "imageCaption": "체중계 위에 올라가 숫자를 조마조마하며 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Your words carry a lot of weight here.",
+ "movieLineKo": "여기서는 네 말이 큰 영향력을 가져.",
+ "storyTitle": "체중계의 배신",
+ "story": "명절 뒤 아빠가 체중계에 올라 weight(체중)를 쟀어요. \"말도 안 돼, overweight(과체중)라니!\" 아빠는 체중계를 의심하며 다시 weigh(무게를 달다)했죠. 숫자는 그대로였어요. 그때 발밑에서 고양이가 슬쩍 빠져나왔어요. 아빠는 weightless(무게가 없는) 기분이 들었답니다."
+}

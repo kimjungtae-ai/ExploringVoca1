@@ -1,0 +1,74 @@
+{
+ "word": "take care of",
+ "pos": "숙어",
+ "phonetic": "[teɪk ker əv]",
+ "meaning": "~을 돌보다, ~을 처리하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "take",
+   "meaning": "잡다, 취하다 (take)",
+   "note": "무언가를 손에 쥐어 내 것으로 가져오는 느낌이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "care",
+   "meaning": "돌봄, 걱정 (care)",
+   "note": "마음을 쓰고 신경 쓴다는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "of",
+   "meaning": "~의, ~에 대한 (of)",
+   "note": "돌보는 대상을 이어 줘요."
+  }
+ ],
+ "summary": "<strong>take</strong> (취하다) + <strong>care</strong> (돌봄) + <strong>of</strong> (~에 대한) = '~에 대한 걱정을 떠맡다'에서 <strong>'~을 돌보다, 처리하다'</strong>",
+ "historyTitle": "'슬픔'에서 '돌봄'으로 바뀐 care",
+ "historyBody": "care는 고대 영어 caru(슬픔, 걱정, 근심)에서 왔어요. 누군가를 걱정하는 마음이 그 사람을 '돌보는' 행동으로 이어지면서 뜻이 넓어졌어요. take care of는 그 걱정과 책임을 내가 떠맡는다는 느낌이라 '돌보다'와 '처리하다' 두 뜻을 다 가져요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "look after",
+   "pos": "구동사",
+   "meaning": "~을 돌보다",
+   "en": "Can you look after my dog this weekend?",
+   "ko": "이번 주말에 우리 개 좀 돌봐 줄 수 있니?"
+  },
+  {
+   "word": "care for",
+   "pos": "구동사",
+   "meaning": "~을 돌보다, 좋아하다",
+   "en": "Nurses care for patients day and night.",
+   "ko": "간호사들은 밤낮으로 환자를 돌봐요."
+  },
+  {
+   "word": "careful",
+   "pos": "형용사",
+   "meaning": "조심스러운",
+   "en": "Be careful when you cross the street.",
+   "ko": "길을 건널 때 조심하세요."
+  },
+  {
+   "word": "deal with",
+   "pos": "구동사",
+   "meaning": "~을 처리하다",
+   "en": "I'll deal with the problem tomorrow.",
+   "ko": "그 문제는 내일 처리할게요."
+  },
+  {
+   "word": "caregiver",
+   "pos": "명사",
+   "meaning": "돌보는 사람, 간병인",
+   "en": "She works as a caregiver for the elderly.",
+   "ko": "그녀는 노인을 돌보는 간병인으로 일해요."
+  }
+ ],
+ "imageSense": "대표 의미: 아픈 강아지에게 담요를 덮어 주며 정성껏 돌보는 장면",
+ "imageCaption": "아픈 동생 이마에 물수건을 올려 주는 따뜻한 손길을 떠올려 보세요.",
+ "movieLineEn": "Don't worry about the kids. I'll take care of them.",
+ "movieLineKo": "애들 걱정은 마. 내가 돌볼게.",
+ "storyTitle": "화분 돌보기 미션",
+ "story": "엄마가 여행 가며 \"화분 좀 take care of(돌보다)해 줘\"라고 했어요. 나는 careful(조심스러운)하게 매일 물을 줬죠. 친구에게 look after(돌보다)하는 법도 배웠어요. 일주일 뒤 엄마가 화분을 보고 웃었어요. \"얘야, 그건 조화란다.\" 나는 caregiver(돌보는 사람)처럼 가짜 꽃에 물을 주며 정성을 다한 것이었어요!"
+}

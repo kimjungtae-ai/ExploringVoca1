@@ -1,0 +1,68 @@
+{
+ "word": "household appliance",
+ "pos": "명사구",
+ "phonetic": "[ˈhaʊshoʊld əˈplaɪəns]",
+ "meaning": "가전제품",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "household",
+   "meaning": "가정의, 가족 (household)",
+   "note": "house(집)+hold(유지하다)로 '집안 살림의'라는 뜻을 더해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "appliance",
+   "meaning": "기기, 장치 (device)",
+   "note": "apply(적용하다)+-ance로 '어떤 일에 쓰는 도구'를 뜻해요."
+  }
+ ],
+ "summary": "<strong>household</strong> (가정의) + <strong>appliance</strong> (쓰는 기기) = '집안일에 쓰는 기기'에서 <strong>'가전제품'</strong>",
+ "historyTitle": "'갖다 붙이다'에서 온 apply",
+ "historyBody": "appliance는 apply에서 왔고, apply는 라틴어 applicare(~에 붙이다)에서 나왔어요. ad-(~에)+plicare(접다, 겹치다)로 '어떤 일에 갖다 대어 쓰다'라는 뜻이었죠. household는 house(집)+hold(유지하다)로 '한 집에 사는 사람들, 살림'을 뜻해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apply",
+   "pos": "동사",
+   "meaning": "적용하다, 지원하다",
+   "en": "You can apply this rule to every problem.",
+   "ko": "이 규칙을 모든 문제에 적용할 수 있어."
+  },
+  {
+   "word": "application",
+   "pos": "명사",
+   "meaning": "지원(서), 적용, 앱",
+   "en": "I filled out an application for the club.",
+   "ko": "나는 동아리 지원서를 작성했어."
+  },
+  {
+   "word": "electronic device",
+   "pos": "명사구",
+   "meaning": "전자 기기",
+   "en": "Please turn off all electronic devices.",
+   "ko": "모든 전자 기기를 꺼 주세요."
+  },
+  {
+   "word": "household chores",
+   "pos": "명사구",
+   "meaning": "집안일",
+   "en": "We share the household chores at home.",
+   "ko": "우리는 집에서 집안일을 나눠서 해."
+  },
+  {
+   "word": "refrigerator",
+   "pos": "명사",
+   "meaning": "냉장고",
+   "en": "Put the milk back in the refrigerator.",
+   "ko": "우유를 냉장고에 다시 넣어."
+  }
+ ],
+ "imageSense": "대표 의미: 세탁기, 냉장고, 전자레인지가 놓인 부엌 장면",
+ "imageCaption": "집안 살림을 도와주는 하얀 기계들이 줄지어 서 있는 가게를 떠올려 보세요.",
+ "movieLineEn": "Every household appliance in this house is talking to me. I'm scared.",
+ "movieLineKo": "이 집 가전제품이 전부 나한테 말을 걸어. 무서워.",
+ "storyTitle": "말하는 가전제품",
+ "story": "엄마가 AI household appliance(가전제품)를 들였어요. refrigerator(냉장고)는 \"간식 그만!\", 세탁기는 \"양말 뒤집어 넣지 마!\" 하고 잔소리했죠. household chores(집안일)는 줄었지만 잔소리는 두 배가 됐어요. 알고 보니 엄마가 앱 application(앱)에 잔소리 모드를 미리 설정해 두셨답니다."
+}

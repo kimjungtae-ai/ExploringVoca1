@@ -1,0 +1,67 @@
+{
+ "word": "agriculture",
+ "pos": "명사",
+ "phonetic": "[ˈæɡrɪkʌltʃər]",
+ "meaning": "농업, 농사",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "agri",
+   "meaning": "밭, 들판 (field)",
+   "note": "라틴어 ager(밭)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cult",
+   "meaning": "갈다, 가꾸다 (till)",
+   "note": "라틴어 colere(경작하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것 (명사)",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>agri</strong> (밭) + <strong>cult</strong> (가꾸다) + <strong>-ure</strong> (~하는 것) = '밭을 가꾸는 일'에서 <strong>'농업'</strong>이 되었어요.",
+ "historyTitle": "밭을 가는 것과 문화를 가꾸는 것",
+ "historyBody": "라틴어 agricultura는 ager(밭)와 cultura(경작, 가꾸기)가 합쳐진 말이에요. cultura는 colere(땅을 갈다, 돌보다)에서 왔는데, 여기서 '마음을 가꾸는 것', 즉 culture(문화)라는 뜻도 생겼어요. 농사와 문화는 같은 뿌리를 가진 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "agricultural",
+   "pos": "형용사",
+   "meaning": "농업의",
+   "en": "Agricultural land is shrinking near big cities.",
+   "ko": "대도시 주변의 농경지가 줄어들고 있어요."
+  },
+  {
+   "word": "culture",
+   "pos": "명사",
+   "meaning": "문화",
+   "en": "Food is an important part of every culture.",
+   "ko": "음식은 모든 문화의 중요한 부분이에요."
+  },
+  {
+   "word": "cultivate",
+   "pos": "동사",
+   "meaning": "경작하다, 기르다",
+   "en": "Reading helps you cultivate your imagination.",
+   "ko": "독서는 상상력을 기르는 데 도움이 돼요."
+  },
+  {
+   "word": "colony",
+   "pos": "명사",
+   "meaning": "식민지, 군집",
+   "en": "The bees built a colony in the old tree.",
+   "ko": "벌들이 오래된 나무에 군집을 만들었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 농부가 계절마다 밭을 갈고 씨를 뿌리는 장면",
+ "imageCaption": "밭(agri)을 정성껏 가꾸는(cult) 사람들을 떠올려 보세요.",
+ "movieLineEn": "Without agriculture, our city would have no food.",
+ "movieLineKo": "농업이 없으면 우리 도시엔 먹을 게 없을 거야.",
+ "storyTitle": "우주 농부의 첫 수확",
+ "story": "화성 기지의 로봇은 agriculture(농업)를 맡았어요. 감자를 cultivate(경작하다)했죠. 지구 culture(문화)를 배우려고 농부 영상을 보며 노래도 불렀어요. 첫 수확 날, 감자가 아니라 개미 colony(군집)가 나왔어요! 알고 보니 지구에서 가져온 흙에 개미가 숨어 있었대요."
+}

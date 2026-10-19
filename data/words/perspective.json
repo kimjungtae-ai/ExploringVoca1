@@ -1,0 +1,74 @@
+{
+ "word": "perspective",
+ "pos": "명사",
+ "phonetic": "[pərˈspektɪv]",
+ "meaning": "관점, 시각, 원근법, 전망",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "per-",
+   "meaning": "꿰뚫어, 통과하여 (through)",
+   "note": "무언가를 관통한다는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spect",
+   "meaning": "보다 (look)",
+   "note": "라틴어 specere(보다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 (것)",
+   "note": "성질을 나타내는 형용사·명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>per-</strong> (꿰뚫어) + <strong>spect</strong> (보다) + <strong>-ive</strong> (~하는 것) = 꿰뚫어 보는 방식이라서 <strong>'관점, 시각'</strong>이 되었어요.",
+ "historyTitle": "르네상스 화가들의 비밀 무기",
+ "historyBody": "라틴어 perspicere(꿰뚫어 보다)에서 중세 라틴어 perspectiva(광학)가 나왔고, 14세기 영어로 들어왔어요. 르네상스 시대 화가들이 평면에 깊이를 그리는 원근법을 발전시키면서 '원근법'이라는 뜻이 생겼고, 17세기에는 '사물을 보는 관점'이라는 뜻으로 넓어졌어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inspect",
+   "pos": "동사",
+   "meaning": "검사하다, 점검하다",
+   "en": "The officer inspected the car carefully.",
+   "ko": "경찰관이 차를 꼼꼼히 검사했어요."
+  },
+  {
+   "word": "respect",
+   "pos": "명사/동사",
+   "meaning": "존경 / 존중하다",
+   "en": "We should respect other people's opinions.",
+   "ko": "우리는 다른 사람의 의견을 존중해야 해요."
+  },
+  {
+   "word": "spectator",
+   "pos": "명사",
+   "meaning": "관중",
+   "en": "Thousands of spectators filled the stadium.",
+   "ko": "수천 명의 관중이 경기장을 가득 채웠어요."
+  },
+  {
+   "word": "prospect",
+   "pos": "명사",
+   "meaning": "전망, 가능성",
+   "en": "The prospect of a holiday made everyone happy.",
+   "ko": "휴가가 있을 거란 전망에 모두가 기뻐했어요."
+  },
+  {
+   "word": "expect",
+   "pos": "동사",
+   "meaning": "기대하다, 예상하다",
+   "en": "I didn't expect him to arrive so early.",
+   "ko": "그가 그렇게 일찍 올 줄 몰랐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 같은 컵을 위에서, 옆에서 다르게 보는 두 사람",
+ "imageCaption": "위에서 보면 동그라미, 옆에서 보면 네모인 컵처럼, 보는 자리에 따라 달라지는 모습을 떠올려 보세요.",
+ "movieLineEn": "Try to see it from my perspective for once.",
+ "movieLineKo": "한 번만이라도 내 입장에서 생각해 봐.",
+ "storyTitle": "개미의 관점",
+ "story": "개미가 운동장을 '거대한 사막'이라고 했어요. 축구하던 학생들은 웃었죠. 그런데 개미의 perspective(관점)로 inspect(살펴보다)해 보니 정말 끝이 안 보였어요! 학생들은 개미를 respect(존중하다)하게 되었고, 그날부터 경기마다 개미 spectator(관중)석을 따로 만들었대요. 개미들은 공 소리에 기절했지만요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "theme",
+ "pos": "명사",
+ "phonetic": "[θiːm]",
+ "meaning": "주제, 테마",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "the (tithenai)",
+   "meaning": "놓다, 두다 (put)",
+   "note": "그리스어 tithenai(놓다)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-me (-ma)",
+   "meaning": "~된 것 (명사형)",
+   "note": "그리스어 -ma는 '행동의 결과물'을 뜻해요."
+  }
+ ],
+ "summary": "<strong>the</strong> (놓다) + <strong>-ma</strong> (~된 것) = '앞에 놓인 것'에서 <strong>'주제, 테마'</strong>가 되었어요.",
+ "historyTitle": "논의할 거리를 '내려놓다'",
+ "historyBody": "그리스어 thema는 '놓인 것, 제안된 것'이라는 뜻으로 tithenai(놓다)에서 나왔어요. 토론이나 글쓰기에서 '먼저 앞에 내려놓은 주제'를 가리키게 된 거죠. thesis(논제)와 hypothesis(가설)도 같은 동사에서 나온 말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "themed",
+   "pos": "형용사",
+   "meaning": "특정 주제로 꾸민",
+   "en": "We went to a space-themed restaurant.",
+   "ko": "우리는 우주를 주제로 꾸민 식당에 갔어요."
+  },
+  {
+   "word": "thematic",
+   "pos": "형용사",
+   "meaning": "주제의, 주제별의",
+   "en": "The museum has a thematic exhibition on water.",
+   "ko": "그 박물관에는 물을 주제로 한 전시가 있어요."
+  },
+  {
+   "word": "thesis",
+   "pos": "명사",
+   "meaning": "논문, 논제",
+   "en": "She wrote her thesis on climate change.",
+   "ko": "그녀는 기후 변화에 관한 논문을 썼어요."
+  },
+  {
+   "word": "hypothesis",
+   "pos": "명사",
+   "meaning": "가설",
+   "en": "Scientists tested their hypothesis with experiments.",
+   "ko": "과학자들은 실험으로 가설을 검증했어요."
+  },
+  {
+   "word": "synthesis",
+   "pos": "명사",
+   "meaning": "종합, 합성",
+   "en": "Photosynthesis is how plants make food.",
+   "ko": "광합성은 식물이 양분을 만드는 방법이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 한 가지 주제로 꾸민 파티장",
+ "imageCaption": "'바다'를 주제로 파란 풍선과 물고기 장식으로 꾸민 파티장을 떠올려 보세요. 앞에 놓인 하나의 주제예요.",
+ "movieLineEn": "The theme of tonight's party is 'superheroes.' Dress up!",
+ "movieLineKo": "오늘 밤 파티의 주제는 '슈퍼히어로'야. 변장하고 와!",
+ "storyTitle": "주제를 잘못 들은 친구",
+ "story": "친구 생일 파티의 theme(주제)은 '정글'이었어요. 모두 동물 옷을 입고 jungle-themed(정글 주제의) 파티장에 모였죠. 그런데 한 친구가 정장을 입고 나타났어요. 내 hypothesis(가설)로는 '정글'을 '정장'으로 잘못 들은 것 같았죠. 친구는 당황하지 않고 \"나는 정글의 왕, 사장님이야!\"라며 thesis(논제)를 당당히 주장했답니다."
+}

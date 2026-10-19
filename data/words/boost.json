@@ -1,0 +1,41 @@
+{
+ "word": "boost",
+ "pos": "동사 / 명사",
+ "phonetic": "[buːst]",
+ "meaning": "높이다, 북돋우다, 증가시키다 / 증가, 격려",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "boost",
+   "meaning": "밀어 올리다 (push up)",
+   "note": "1810년대 미국에서 처음 기록된 말로, 정확한 기원은 알려져 있지 않아요."
+  }
+ ],
+ "summary": "<strong>boost</strong>는 원래 '아래에서 밀어 올리다'라는 미국 구어에서 와서 <strong>'높이다, 북돋우다'</strong>라는 뜻이 되었어요.",
+ "historyTitle": "기원을 모르는 미국 토박이 단어",
+ "historyBody": "boost는 1815년 무렵 미국에서 '누군가를 밑에서 밀어 올려 주다'라는 뜻으로 처음 기록되었어요. 어디서 왔는지는 사전들도 '기원 불명'이라고 해요. 그래서 접두사나 어근으로 나눠 외우기보다 '밀어 올리다'라는 그림으로 기억하는 게 좋아요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "booster",
+   "pos": "명사",
+   "meaning": "촉진제, 추진 로켓, 추가 접종",
+   "en": "This song is a real mood booster for me.",
+   "ko": "이 노래는 나한테 진짜 기분을 끌어올려 주는 노래야."
+  },
+  {
+   "word": "booster shot",
+   "pos": "명사",
+   "meaning": "추가 접종 (백신)",
+   "en": "My grandma got a booster shot last week.",
+   "ko": "우리 할머니는 지난주에 추가 접종을 맞으셨어."
+  }
+ ],
+ "imageSense": "대표 의미: 친구를 밑에서 밀어 올려 담을 넘게 도와주는 장면",
+ "imageCaption": "친구의 발을 손으로 받쳐 위로 '영차!' 밀어 올리는 모습을 떠올려 보세요. 자신감이나 성적을 끌어올리는 것도 boost예요.",
+ "movieLineEn": "A little praise can really boost your confidence.",
+ "movieLineKo": "작은 칭찬 하나가 자신감을 확 끌어올려 줄 수 있어.",
+ "storyTitle": "자신감 부스터",
+ "story": "시험 전날 유나는 자신감을 boost(북돋우다)하려고 거울 앞에서 '할 수 있다!'를 외쳤어요. 엄마는 mood booster(기분을 끌어올리는 것)라며 초콜릿을 주셨죠. 다음 날 점수가 boost(증가)했어요! 비결을 묻자 유나는 말했어요. '사실 초콜릿 booster(촉진제) 덕분에 밤새 공부했거든.'"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "knitting threads",
+ "pos": "명사구",
+ "phonetic": "[ˈnɪtɪŋ θredz]",
+ "meaning": "뜨개실, 뜨개질용 실",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "knitting",
+   "meaning": "뜨개질 (knitting)",
+   "note": "knit(뜨다)+-ing으로 실의 용도가 '뜨개질'임을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "threads",
+   "meaning": "실 (threads)",
+   "note": "가늘고 긴 '실'이라는 중심 뜻이에요."
+  }
+ ],
+ "summary": "<strong>knitting</strong> (뜨개질) + <strong>threads</strong> (실) = '뜨개질에 쓰는 실'에서 <strong>'뜨개실'</strong>",
+ "historyTitle": "'매듭짓다'에서 온 knit",
+ "historyBody": "knit은 고대 영어 cnyttan(매듭으로 묶다)에서 왔고 knot(매듭)과 같은 뿌리예요. 그래서 원래 '묶다, 엮다'라는 뜻이었죠. thread는 고대 영어 þrǣd에서 왔으며 '비틀다, 꼬다'라는 옛 뿌리와 관련이 있다고 해요. 실을 꼬아 만든 것이니 딱 맞죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "knit",
+   "pos": "동사",
+   "meaning": "뜨개질하다, 결합시키다",
+   "en": "My grandmother knitted me a sweater.",
+   "ko": "할머니가 내게 스웨터를 떠 주셨어."
+  },
+  {
+   "word": "knot",
+   "pos": "명사",
+   "meaning": "매듭",
+   "en": "Tie a knot at the end of the rope.",
+   "ko": "밧줄 끝에 매듭을 지어."
+  },
+  {
+   "word": "closely knit",
+   "pos": "형용사구",
+   "meaning": "긴밀하게 맺어진",
+   "en": "We are a closely knit family.",
+   "ko": "우리는 끈끈한 가족이야."
+  },
+  {
+   "word": "yarn",
+   "pos": "명사",
+   "meaning": "(뜨개질용) 털실",
+   "en": "She bought red yarn for a scarf.",
+   "ko": "그녀는 목도리를 뜨려고 빨간 털실을 샀어."
+  },
+  {
+   "word": "sew",
+   "pos": "동사",
+   "meaning": "바느질하다",
+   "en": "Can you sew this button back on?",
+   "ko": "이 단추 다시 달아 줄 수 있어?"
+  }
+ ],
+ "imageSense": "대표 의미: 털실 뭉치와 뜨개바늘로 목도리를 뜨는 장면",
+ "imageCaption": "알록달록 털실 뭉치가 바구니에 담긴 채 고양이가 노리고 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Grandma, are those knitting threads or a cat's toy?",
+ "movieLineKo": "할머니, 그거 뜨개실이에요, 고양이 장난감이에요?",
+ "storyTitle": "고양이의 뜨개질",
+ "story": "할머니는 knitting threads(뜨개실)로 내 목도리를 knit(뜨개질하다) 하셨어요. 그런데 고양이가 yarn(털실) 뭉치를 굴리며 놀다 온 집 안을 knot(매듭)투성이로 만들었죠. 할머니는 화내지 않고 그 엉킨 실로 고양이 옷을 sew(바느질하다) 하셨어요. 고양이는 자기가 디자인한 옷을 입은 셈이에요!"
+}

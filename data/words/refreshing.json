@@ -1,0 +1,74 @@
+{
+ "word": "refreshing",
+ "pos": "형용사",
+ "phonetic": "[rɪˈfreʃɪŋ]",
+ "meaning": "상쾌하게 하는, 신선한, 참신한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "다시 새롭게 한다는 뜻이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "fresh",
+   "meaning": "신선한 (fresh)",
+   "note": "게르만어 계통의 말로, 프랑스어를 거쳐 들어왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ing",
+   "meaning": "~하게 하는 (형용사)",
+   "note": "무언가가 그런 느낌을 '주는' 것을 나타내요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>fresh</strong> (신선한) + <strong>-ing</strong> (~하게 하는) = 다시 신선하게 만들어 주는, 즉 <strong>'상쾌한, 참신한'</strong>이에요.",
+ "historyTitle": "기분을 새롭게 해 주는 것들",
+ "historyBody": "refresh는 고대 프랑스어 refreschier(다시 시원하게 하다)에서 왔어요. refreshing은 '상쾌함을 주는'이라는 뜻이라 음료나 바람에도 쓰고, 새로운 생각이나 태도가 '참신하다'고 할 때도 써요. 'a refreshing change(신선한 변화)' 같은 표현이 지문에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refresh",
+   "pos": "동사",
+   "meaning": "상쾌하게 하다, 새로 고치다",
+   "en": "Open the window to refresh the air in the room.",
+   "ko": "방 안 공기를 상쾌하게 하려면 창문을 열어요."
+  },
+  {
+   "word": "fresh",
+   "pos": "형용사",
+   "meaning": "신선한, 새로운",
+   "en": "We need fresh ideas for the school festival.",
+   "ko": "학교 축제를 위해 새로운 아이디어가 필요해요."
+  },
+  {
+   "word": "refreshment",
+   "pos": "명사",
+   "meaning": "다과, 원기 회복",
+   "en": "Light refreshments are available in the lobby.",
+   "ko": "로비에서 가벼운 다과를 드실 수 있어요."
+  },
+  {
+   "word": "freshman",
+   "pos": "명사",
+   "meaning": "신입생",
+   "en": "Every freshman gets a campus map on the first day.",
+   "ko": "모든 신입생은 첫날 캠퍼스 지도를 받아요."
+  },
+  {
+   "word": "refreshed",
+   "pos": "형용사",
+   "meaning": "상쾌한, 기운을 되찾은",
+   "en": "After a short walk, I felt refreshed.",
+   "ko": "잠깐 산책을 하고 나니 기운이 났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 뜨거운 여름날 얼음 동동 띄운 수박화채 한 그릇",
+ "imageCaption": "땀이 뻘뻘 나는 날, 시원한 화채를 한 숟갈 떠먹는 순간을 떠올려 보세요. 그 시원함을 주는 것이 refreshing이에요.",
+ "movieLineEn": "Your honesty is refreshing, kid.",
+ "movieLineKo": "꼬마야, 너의 솔직함은 참 신선하구나.",
+ "storyTitle": "참신한 발표",
+ "story": "모두가 지루한 발표를 하던 날, freshman(신입생) 하은이는 refreshing(참신한) 방법을 택했어요. 노래로 발표를 한 거죠! 반 친구들은 refreshed(기운을 되찾은) 얼굴로 박수를 쳤고, 선생님은 refreshment(다과)를 쏘겠다고 했어요. 단 하나 문제는, 발표 주제가 '조용한 도서관 예절'이었다는 거예요."
+}

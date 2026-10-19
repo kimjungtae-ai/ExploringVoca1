@@ -1,0 +1,68 @@
+{
+ "word": "swimming tube",
+ "pos": "명사구",
+ "phonetic": "[ˈswɪmɪŋ tuːb]",
+ "meaning": "튜브, 수영용 튜브",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "swimming",
+   "meaning": "수영 (swimming)",
+   "note": "어디에 쓰는 물건인지 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "tube",
+   "meaning": "관, 통 (tube)",
+   "note": "속이 빈 둥근 관 모양을 뜻해요."
+  }
+ ],
+ "summary": "<strong>swimming</strong> (수영) + <strong>tube</strong> (둥근 관) = '수영할 때 쓰는 둥근 공기 관'에서 <strong>'수영 튜브'</strong>",
+ "historyTitle": "라틴어 tubus에서 온 tube",
+ "historyBody": "swim은 고대 영어 swimman에서, tube는 라틴어 tubus(관, 파이프)에서 프랑스어를 거쳐 들어왔어요. 수영 튜브는 원래 자동차 타이어 안의 고무 튜브(inner tube)에 바람을 넣어 물놀이에 쓰던 데서 이름이 굳어졌어요. 영어권에서는 swim ring이나 inner tube라는 말도 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "swim ring",
+   "pos": "명사구",
+   "meaning": "수영 튜브",
+   "en": "The little boy floated happily on his swim ring.",
+   "ko": "꼬마는 수영 튜브를 타고 즐겁게 떠다녔어요."
+  },
+  {
+   "word": "life jacket",
+   "pos": "명사구",
+   "meaning": "구명조끼",
+   "en": "Always wear a life jacket on a boat.",
+   "ko": "배에서는 항상 구명조끼를 입으세요."
+  },
+  {
+   "word": "tube",
+   "pos": "명사",
+   "meaning": "관, 튜브",
+   "en": "She squeezed the last bit of toothpaste from the tube.",
+   "ko": "그녀는 튜브에서 마지막 치약까지 짜냈어요."
+  },
+  {
+   "word": "swimming pool",
+   "pos": "명사구",
+   "meaning": "수영장",
+   "en": "The hotel has an outdoor swimming pool.",
+   "ko": "그 호텔에는 야외 수영장이 있어요."
+  },
+  {
+   "word": "float",
+   "pos": "동사",
+   "meaning": "뜨다",
+   "en": "Wood floats on water.",
+   "ko": "나무는 물에 떠요."
+  }
+ ],
+ "imageSense": "대표 의미: 알록달록한 튜브를 끼고 파도 위에 둥둥 떠 있는 아이 장면",
+ "imageCaption": "도넛 모양 튜브에 쏙 들어가 물 위를 떠다니는 모습을 떠올려 보세요.",
+ "movieLineEn": "Grab your swimming tube. The waves are getting bigger!",
+ "movieLineKo": "수영 튜브 챙겨! 파도가 점점 커지고 있어!",
+ "storyTitle": "오리 튜브의 배신",
+ "story": "아빠는 바다에서 오리 모양 swimming tube(수영 튜브)를 탔어요. 구명용 life jacket(구명조끼)은 답답하다며 거절했죠. 한참 float(뜨다)하던 중 오리 tube(튜브)에서 바람이 슝 빠졌어요. 아빠는 swimming pool(수영장) 얕은 쪽으로 가야 했다며 일어섰는데, 물이 무릎까지였답니다."
+}

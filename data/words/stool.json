@@ -1,0 +1,48 @@
+{
+ "word": "stool",
+ "pos": "명사",
+ "phonetic": "[stuːl]",
+ "meaning": "(등받이 없는) 의자, 걸상, 대변",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stool (stōl)",
+   "meaning": "앉는 자리, 왕좌 (seat)",
+   "note": "고대 영어 stōl은 '의자, 왕좌'라는 뜻의 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>stool</strong> (고대 영어 stōl: 앉는 자리) = 원래 의자 전반을 가리키다가 <strong>'등받이 없는 의자'</strong>가 되었습니다.",
+ "historyTitle": "왕좌였던 작은 의자",
+ "historyBody": "고대 영어 stōl은 원래 왕좌나 주교의 자리처럼 '앉는 자리' 전체를 가리켰어요. 그런데 프랑스어에서 온 chair가 들어오자 stool은 등받이 없는 소박한 의자만 뜻하게 되었어요. 독일어 Stuhl(의자)과 같은 뿌리이고, stand와도 관련 있다고 봐요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "footstool",
+   "pos": "명사",
+   "meaning": "발받침",
+   "en": "Grandpa rested his feet on a footstool.",
+   "ko": "할아버지는 발받침에 발을 올려놓고 쉬셨어요."
+  },
+  {
+   "word": "toadstool",
+   "pos": "명사",
+   "meaning": "독버섯",
+   "en": "Never eat a toadstool you find in the forest.",
+   "ko": "숲에서 찾은 독버섯은 절대 먹지 마세요."
+  },
+  {
+   "word": "barstool",
+   "pos": "명사",
+   "meaning": "(바의) 높은 의자",
+   "en": "He sat on a barstool at the kitchen counter.",
+   "ko": "그는 부엌 조리대 앞 높은 의자에 앉았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 피아노 앞에 놓인 동그랗고 등받이 없는 의자",
+ "imageCaption": "미술실이나 카페 바에 놓인 다리 셋 달린 동그란 의자를 떠올려 보세요.",
+ "movieLineEn": "Grab a stool and sit down. This is going to be a long story.",
+ "movieLineKo": "의자 하나 가져와서 앉아. 이야기가 길어질 거야.",
+ "storyTitle": "개구리 왕의 왕좌",
+ "story": "개구리는 숲의 왕이 되고 싶었어요. 왕좌가 필요해서 stool(의자)을 찾다가 동그란 toadstool(독버섯)에 앉았죠. 다리가 짧아 footstool(발받침)도 놓았어요. 개구리는 barstool(높은 의자)처럼 높은 버섯 위에서 \"나는 왕이다!\"라고 외쳤어요. 그런데 버섯이 쑥쑥 자라 개구리는 사흘째 못 내려오고 있대요."
+}

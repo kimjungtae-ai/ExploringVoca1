@@ -1,0 +1,61 @@
+{
+ "word": "attack",
+ "pos": "동사 / 명사",
+ "phonetic": "[əˈtæk]",
+ "meaning": "공격하다, 비난하다 / 공격, (병의) 발작",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "at- (a-)",
+   "meaning": "~에 (to)",
+   "note": "이탈리아어 a-(~에)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tack (*stak-)",
+   "meaning": "말뚝, 붙이다 (stake, fasten)",
+   "note": "게르만어 계통의 '말뚝'이라는 말에서 온 것으로 보여요."
+  }
+ ],
+ "summary": "<strong>at-</strong> (~에) + <strong>tack</strong> (붙이다) = '적에게 달라붙어 맞붙다'에서 <strong>'공격하다, 공격'</strong>이 되었어요.",
+ "historyTitle": "'붙다'에서 '싸우다'로",
+ "historyBody": "attack은 16세기에 프랑스어 'attaquer'를 거쳐 들어왔고, 그 뿌리는 이탈리아어 'attaccare(붙이다, 전투를 시작하다)'예요. attaccare battaglia는 '전투에 붙다'라는 뜻이었죠. 다만 이탈리아어 이전의 정확한 기원은 확실하지 않아 게르만어 '말뚝'과의 연결은 유력한 설 정도로 기억해 두세요. attach(붙이다)와는 사촌 관계로 여겨져요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "attach",
+   "pos": "동사",
+   "meaning": "붙이다, 첨부하다",
+   "en": "Please attach the photo to your email.",
+   "ko": "이메일에 사진을 첨부해 주세요."
+  },
+  {
+   "word": "detach",
+   "pos": "동사",
+   "meaning": "떼어 내다, 분리하다",
+   "en": "You can detach the hood from this jacket.",
+   "ko": "이 재킷은 모자를 떼어 낼 수 있어요."
+  },
+  {
+   "word": "attacker",
+   "pos": "명사",
+   "meaning": "공격자",
+   "en": "The attacker scored two goals in the match.",
+   "ko": "그 공격수는 경기에서 두 골을 넣었어요."
+  },
+  {
+   "word": "counterattack",
+   "pos": "명사/동사",
+   "meaning": "반격 / 반격하다",
+   "en": "The team made a quick counterattack.",
+   "ko": "그 팀은 빠르게 반격했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 축구 선수들이 상대 골문을 향해 돌진하는 공격 장면",
+ "imageCaption": "공을 몰고 상대 골대로 거침없이 파고드는 공격수를 떠올려 보세요. 상대에게 바짝 달라붙어 덤비는 것이 attack이에요.",
+ "movieLineEn": "They're going to attack at dawn. We have to be ready.",
+ "movieLineKo": "그들은 새벽에 공격할 거야. 우린 준비해야 해.",
+ "storyTitle": "비둘기의 기습 공격",
+ "story": "공원에서 샌드위치를 먹던 나에게 비둘기 떼가 attack(공격하다)해 왔어요. 나는 가방에 attach(붙이다)해 둔 우산을 detach(떼어 내다)해서 휘둘렀죠. 비둘기들은 물러났다가 다시 counterattack(반격)했어요. 결국 샌드위치를 다 뺏겼는데, 알고 보니 그 비둘기들은 내가 매일 빵을 주던 단골손님이었답니다."
+}

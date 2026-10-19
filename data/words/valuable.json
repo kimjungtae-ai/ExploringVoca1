@@ -1,0 +1,68 @@
+{
+ "word": "valuable",
+ "pos": "형용사",
+ "phonetic": "[ˈvæljuəbl]",
+ "meaning": "귀중한, 값비싼, 소중한",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "value",
+   "meaning": "가치 (value)",
+   "note": "라틴어 valere(힘이 있다, 가치가 있다)에서 온 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는, ~할 만한",
+   "note": "'~할 만한'이라는 뜻의 형용사 접미사예요."
+  }
+ ],
+ "summary": "<strong>value</strong> (가치) + <strong>-able</strong> (~할 만한) = '값을 매길 만한'이라는 뜻에서 <strong>'귀중한, 소중한'</strong>이 되었어요.",
+ "historyTitle": "값을 매길 만한 것",
+ "historyBody": "value는 고대 프랑스어 value(가치)에서 왔고, 그 뿌리는 라틴어 valere(힘이 있다)예요. 16세기에 -able이 붙어 '값어치가 있는'이라는 뜻의 valuable이 생겼어요. 참고로 invaluable은 '가치가 없는'이 아니라 '값을 매길 수 없을 만큼 귀중한'이라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "value",
+   "pos": "명사 / 동사",
+   "meaning": "가치 / 소중히 여기다",
+   "en": "We should value the time we spend with family.",
+   "ko": "우리는 가족과 보내는 시간을 소중히 여겨야 해요."
+  },
+  {
+   "word": "invaluable",
+   "pos": "형용사",
+   "meaning": "매우 귀중한",
+   "en": "Her advice was invaluable to me during exams.",
+   "ko": "시험 기간에 그녀의 조언은 나에게 정말 귀중했어요."
+  },
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "The judges will evaluate each team's project.",
+   "ko": "심사위원들이 각 팀의 프로젝트를 평가할 거예요."
+  },
+  {
+   "word": "valid",
+   "pos": "형용사",
+   "meaning": "타당한, 유효한",
+   "en": "Please show a valid ID card at the entrance.",
+   "ko": "입구에서 유효한 신분증을 보여 주세요."
+  },
+  {
+   "word": "available",
+   "pos": "형용사",
+   "meaning": "이용 가능한, 시간이 있는",
+   "en": "Is this seat available, or is someone sitting here?",
+   "ko": "이 자리 비어 있나요, 아니면 누가 앉아 있나요?"
+  }
+ ],
+ "imageSense": "대표 의미: 보석 상자 안에서 반짝이는 귀중품",
+ "imageCaption": "보석함 속 빛나는 반지처럼, 값을 매길 만큼 소중한 물건을 떠올려 보세요.",
+ "movieLineEn": "This map is more valuable than all the gold in the world.",
+ "movieLineKo": "이 지도는 세상의 모든 금보다 더 귀중해.",
+ "storyTitle": "할머니의 보물",
+ "story": "할머니가 가장 valuable(귀중한) 보물을 물려주신대요. 가족들은 그 value(가치)를 evaluate(평가하다)하느라 바빴죠. 상자를 여니 낡은 공책이 나왔어요. 실망도 잠시, 그 안엔 할머니의 김치 비법이! 엄마는 \"이건 invaluable(매우 귀중한)해!\"라며 눈물을 흘렸답니다."
+}

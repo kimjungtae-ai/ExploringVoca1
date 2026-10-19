@@ -1,0 +1,41 @@
+{
+ "word": "dull",
+ "pos": "형용사 / 동사",
+ "phonetic": "[dʌl]",
+ "meaning": "지루한, 따분한, 둔한, (날이) 무딘, (색·빛이) 칙칙한 / 둔하게 하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "dull (dol)",
+   "meaning": "어리석은, 둔한 (foolish)",
+   "note": "고대 영어 dol(어리석은)에서 온 게르만어라 더 쪼갤 수 없어요."
+  }
+ ],
+ "summary": "<strong>dull</strong>은 '어리석은, 둔한'이라는 옛말에서 와서 <strong>'지루한, 무딘, 칙칙한'</strong>까지 뜻이 넓어졌어요.",
+ "historyTitle": "어리석음에서 지루함으로",
+ "historyBody": "dull은 고대 영어 dol(어리석은)과 관련된 게르만어로, 독일어 toll(미친, 엄청난)과 같은 뿌리예요. 처음에는 '머리가 둔한'이라는 뜻이었지만 점차 '날이 무딘', '색이 칙칙한', '재미없는'이라는 뜻으로 넓어졌어요. 수능에서는 주로 '지루한'과 '무딘'으로 나온답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dullness",
+   "pos": "명사",
+   "meaning": "따분함, 둔함",
+   "en": "The dullness of the lecture made me sleepy.",
+   "ko": "강의가 따분해서 졸렸어요."
+  },
+  {
+   "word": "dully",
+   "pos": "부사",
+   "meaning": "둔하게, 멍하게",
+   "en": "He stared dully at the rainy window.",
+   "ko": "그는 비 오는 창문을 멍하니 바라봤어요."
+  }
+ ],
+ "imageSense": "대표 의미: 지루한 수업에서 턱을 괴고 하품하는 학생",
+ "imageCaption": "시계 바늘이 멈춘 것 같은 오후, 칙칙한 회색 교실에서 하품하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Life without a little danger is so dull!",
+ "movieLineKo": "약간의 위험도 없는 인생은 너무 지루해!",
+ "storyTitle": "세상에서 가장 지루한 칼",
+ "story": "요리사의 칼이 너무 dull(무딘)해서 두부도 안 잘렸어요. 손님들은 기다림의 dullness(따분함)에 하품을 했죠. 요리사는 dully(멍하게) 칼을 보다가 아이디어를 냈어요. \"오늘 메뉴는 통째로 dull(지루한) 두부 스테이크입니다!\" 그 요리는 SNS에서 대박이 났답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "kitchen cabinet",
+ "pos": "명사구",
+ "phonetic": "[ˈkɪtʃɪn ˈkæbɪnət]",
+ "meaning": "부엌 찬장, 주방 수납장",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "kitchen",
+   "meaning": "부엌 (kitchen)",
+   "note": "어디에 있는 장인지, 즉 '부엌'을 알려 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "cabinet",
+   "meaning": "장, 수납장; 내각 (cabinet)",
+   "note": "물건을 넣어 두는 '장'이라는 중심 뜻이에요."
+  }
+ ],
+ "summary": "<strong>kitchen</strong> (부엌) + <strong>cabinet</strong> (수납장) = '부엌에 있는 수납장'에서 <strong>'부엌 찬장'</strong>",
+ "historyTitle": "'작은 방'에서 '장'과 '내각'으로",
+ "historyBody": "cabinet은 16세기 프랑스어 cabinet(작은 방)에서 왔고, cabin(오두막)과 관련된 말로 봐요. 귀한 물건을 두는 작은 방에서 '수납장'이, 왕이 측근과 비밀 회의를 하던 작은 방에서 '내각'이라는 뜻이 생겼어요. kitchen은 라틴어 coquina(부엌)에서 왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cabin",
+   "pos": "명사",
+   "meaning": "오두막, 객실",
+   "en": "We stayed in a wooden cabin by the lake.",
+   "ko": "우리는 호숫가 통나무 오두막에 묵었어."
+  },
+  {
+   "word": "cupboard",
+   "pos": "명사",
+   "meaning": "찬장",
+   "en": "Put the cups back in the cupboard.",
+   "ko": "컵들을 찬장에 다시 넣어."
+  },
+  {
+   "word": "drawer",
+   "pos": "명사",
+   "meaning": "서랍",
+   "en": "My socks are in the top drawer.",
+   "ko": "내 양말은 맨 위 서랍에 있어."
+  },
+  {
+   "word": "cook",
+   "pos": "동사",
+   "meaning": "요리하다",
+   "en": "Grandma cooks the best soup.",
+   "ko": "할머니는 최고의 국을 끓이셔."
+  },
+  {
+   "word": "shelf",
+   "pos": "명사",
+   "meaning": "선반",
+   "en": "The books fell off the shelf.",
+   "ko": "책들이 선반에서 떨어졌어."
+  }
+ ],
+ "imageSense": "대표 의미: 싱크대 위 찬장 문을 열고 그릇을 꺼내는 장면",
+ "imageCaption": "부엌 벽에 달린 하얀 수납장 문을 열면 접시가 가득한 모습을 떠올려 보세요.",
+ "movieLineEn": "The cookies are hidden in the top kitchen cabinet. Don't tell Dad.",
+ "movieLineKo": "쿠키는 부엌 맨 위 찬장에 숨겨 놨어. 아빠한테 말하지 마.",
+ "storyTitle": "찬장 속 보물",
+ "story": "엄마는 과자를 kitchen cabinet(부엌 찬장) 맨 위에 숨기셨어요. 나는 의자를 놓고 shelf(선반)까지 올라갔죠. cupboard(찬장) 문을 여니 과자 대신 쪽지가 있었어요. \"아래 drawer(서랍)를 봐.\" 서랍을 여니 또 쪽지. \"숙제 끝내면 줄게.\" 엄마는 이미 다 알고 계셨던 거예요."
+}

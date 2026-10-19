@@ -1,0 +1,68 @@
+{
+ "word": "comfort zone",
+ "pos": "명사구",
+ "phonetic": "[ˈkʌmfərt zoʊn]",
+ "meaning": "안전지대, 편안한 영역, 익숙한 범위",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "comfort",
+   "meaning": "편안함, 위로 (comfort)",
+   "note": "마음이 놓이고 편한 상태를 뜻해요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "zone",
+   "meaning": "구역, 지대 (zone)",
+   "note": "경계로 나뉜 공간을 말해요."
+  }
+ ],
+ "summary": "<strong>comfort</strong> (편안함) + <strong>zone</strong> (구역) = '편안하게 느끼는 구역'에서 <strong>'안전지대, 익숙한 범위'</strong>",
+ "historyTitle": "'힘을 함께 주다'에서 온 comfort",
+ "historyBody": "comfort는 라틴어 'com-(완전히)'와 'fortis(강한)'가 합쳐진 comfortare(강하게 하다)에서 왔어요. 원래는 '힘을 북돋다'라는 뜻이었다가 '위로, 편안함'이 되었죠. zone은 그리스어 'zōnē(허리띠)'에서 왔고, 지구를 띠처럼 나눈 구역에서 '지대'라는 뜻이 생겼어요. 'step out of your comfort zone'은 도전을 말할 때 자주 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "step out of one's comfort zone",
+   "pos": "숙어",
+   "meaning": "익숙한 범위를 벗어나 도전하다",
+   "en": "Try to step out of your comfort zone this year.",
+   "ko": "올해는 익숙함에서 벗어나 도전해 봐."
+  },
+  {
+   "word": "comfortable",
+   "pos": "형용사",
+   "meaning": "편안한",
+   "en": "This sofa is very comfortable.",
+   "ko": "이 소파는 정말 편해."
+  },
+  {
+   "word": "discomfort",
+   "pos": "명사",
+   "meaning": "불편함",
+   "en": "He felt some discomfort in his back.",
+   "ko": "그는 허리에 약간 불편함을 느꼈어."
+  },
+  {
+   "word": "fortify",
+   "pos": "동사",
+   "meaning": "강화하다",
+   "en": "They fortified the castle walls.",
+   "ko": "그들은 성벽을 강화했어."
+  },
+  {
+   "word": "time zone",
+   "pos": "명사구",
+   "meaning": "시간대",
+   "en": "London is in a different time zone.",
+   "ko": "런던은 다른 시간대에 있어."
+  }
+ ],
+ "imageSense": "대표 의미: 담요를 두른 채 소파에만 머무는 사람과 열린 문 밖의 넓은 세상",
+ "imageCaption": "포근한 이불 속에서 나오기 싫은 마음, 그 이불 속이 바로 comfort zone이에요.",
+ "movieLineEn": "Real growth begins outside your comfort zone.",
+ "movieLineKo": "진짜 성장은 안전지대 밖에서 시작돼.",
+ "storyTitle": "이불 밖은 위험해",
+ "story": "수빈이의 comfort zone(안전지대)은 이불 속이었어요. comfortable(편안한) 이불을 떠나면 discomfort(불편함)가 느껴졌죠. 선생님이 \"step out of one's comfort zone(익숙함에서 벗어나 도전하다)해 봐!\"라고 하셔서 수빈이는 용기를 내 밖으로 나갔어요. 그리고 일주일 만에 감기에 걸렸답니다. 그래도 수빈이는 다시 도전할 거래요!"
+}

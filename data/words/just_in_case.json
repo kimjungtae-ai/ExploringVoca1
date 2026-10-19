@@ -1,0 +1,74 @@
+{
+ "word": "just in case",
+ "pos": "숙어",
+ "phonetic": "[dʒʌst ɪn keɪs]",
+ "meaning": "혹시 모르니까, 만일을 위해",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "just",
+   "meaning": "단지, 그냥 (just)",
+   "note": "'그냥 혹시나'라는 가벼운 느낌을 더해요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "in",
+   "meaning": "~ 안에 (in)",
+   "note": "'어떤 상황 속에서'라는 틀을 만들어 줘요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "case",
+   "meaning": "경우 (case)",
+   "note": "일어날 수 있는 '경우'를 뜻해요."
+  }
+ ],
+ "summary": "<strong>just</strong> (그냥) + <strong>in case</strong> (~할 경우를 대비해) = '그냥 혹시 그런 경우가 생길까 봐'에서 <strong>'혹시 모르니까'</strong>",
+ "historyTitle": "'떨어진 일'에서 온 case",
+ "historyBody": "case는 라틴어 casus(떨어짐, 일어난 일)에서 왔어요. cadere(떨어지다)의 과거분사로, '우연히 일어난 일'이 '경우'가 되었죠. just in case는 문장 끝에 붙어 '혹시 모르니까'라는 뜻으로 쓰이고, 뒤에 절을 이어 'just in case it rains'처럼도 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "in case",
+   "pos": "접속사구",
+   "meaning": "~할 경우에 대비해",
+   "en": "Take a map in case you get lost.",
+   "ko": "길을 잃을 경우를 대비해 지도를 가져가."
+  },
+  {
+   "word": "in case of",
+   "pos": "전치사구",
+   "meaning": "~의 경우에",
+   "en": "In case of emergency, call 119.",
+   "ko": "비상시에는 119에 전화하세요."
+  },
+  {
+   "word": "to be on the safe side",
+   "pos": "숙어",
+   "meaning": "만일을 위해",
+   "en": "Let's leave early to be on the safe side.",
+   "ko": "만일을 위해 일찍 출발하자."
+  },
+  {
+   "word": "precaution",
+   "pos": "명사",
+   "meaning": "예방 조치",
+   "en": "Wearing a helmet is a wise precaution.",
+   "ko": "헬멧을 쓰는 것은 현명한 예방 조치야."
+  },
+  {
+   "word": "occasion",
+   "pos": "명사",
+   "meaning": "경우, 행사",
+   "en": "Save this dress for a special occasion.",
+   "ko": "이 드레스는 특별한 날을 위해 아껴 둬."
+  }
+ ],
+ "imageSense": "대표 의미: 맑은 날 가방에 우산을 슬쩍 넣는 장면",
+ "imageCaption": "'혹시 모르니까' 하며 여분의 충전기를 챙기는 모습을 떠올려 보세요.",
+ "movieLineEn": "I brought a spare key, just in case.",
+ "movieLineKo": "혹시 몰라서 여분 열쇠를 가져왔어.",
+ "storyTitle": "만일의 소풍 가방",
+ "story": "엄마는 just in case(혹시 모르니까) 우산, 비상약, 간식을 챙기셨어요. in case of(~의 경우에) 추위에 대비해 담요도, to be on the safe side(만일을 위해) 손전등도 넣으셨죠. 가방이 너무 무거워 아빠가 허리를 삐끗했어요. 다행히 precaution(예방 조치)으로 챙긴 파스가 바로 쓰였답니다!"
+}

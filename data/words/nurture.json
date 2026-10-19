@@ -1,0 +1,68 @@
+{
+ "word": "nurture",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈnɜːrtʃər]",
+ "meaning": "양육하다, 기르다, 육성하다 / 양육, 양성",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "nurt",
+   "meaning": "먹이다, 기르다 (nourish)",
+   "note": "라틴어 nutrire(젖을 먹이다, 기르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 것 (명사)",
+   "note": "라틴어 -ura에서 온 명사 접미사예요."
+  }
+ ],
+ "summary": "<strong>nurt</strong> (먹여 기르다) + <strong>-ure</strong> (~하는 것) = 먹이고 돌보는 일이라서 <strong>'양육하다, 육성하다'</strong>가 되었어요.",
+ "historyTitle": "본성 대 양육 논쟁",
+ "historyBody": "nurture는 라틴어 nutritura(먹이기, 기르기)가 고대 프랑스어 norriture를 거쳐 들어온 말이에요. 'nature vs. nurture(본성 대 양육)'라는 표현은 19세기 영국 과학자 프랜시스 골턴이 널리 퍼뜨렸어요. 수능 지문에도 자주 나오는 주제랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "nourish",
+   "pos": "동사",
+   "meaning": "영양분을 주다, 키우다",
+   "en": "Good food nourishes both body and mind.",
+   "ko": "좋은 음식은 몸과 마음 모두에 영양을 줘요."
+  },
+  {
+   "word": "nutrition",
+   "pos": "명사",
+   "meaning": "영양, 영양 섭취",
+   "en": "Proper nutrition is important for growing teenagers.",
+   "ko": "성장기 십 대에게는 올바른 영양 섭취가 중요해요."
+  },
+  {
+   "word": "nutrient",
+   "pos": "명사",
+   "meaning": "영양소",
+   "en": "Vegetables contain many important nutrients.",
+   "ko": "채소에는 중요한 영양소가 많이 들어 있어요."
+  },
+  {
+   "word": "nurse",
+   "pos": "명사 / 동사",
+   "meaning": "간호사 / 간호하다",
+   "en": "The nurse took my temperature.",
+   "ko": "간호사가 내 체온을 쟀어요."
+  },
+  {
+   "word": "nutritious",
+   "pos": "형용사",
+   "meaning": "영양가 높은",
+   "en": "Eggs are cheap and nutritious.",
+   "ko": "달걀은 싸고 영양가가 높아요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 새싹에 물을 주며 정성껏 키우는 손",
+ "imageCaption": "작은 화분 속 새싹에 매일 물을 주고 햇볕을 쬐어 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "Talent is a gift, but you must nurture it.",
+ "movieLineKo": "재능은 선물이지만, 넌 그것을 잘 키워야 해.",
+ "storyTitle": "선인장 키우기",
+ "story": "민지는 선인장을 nurture(정성껏 기르다)하기로 했어요. 매일 nutritious(영양가 높은) 비료를 주고 nutrient(영양소)를 듬뿍 챙겼죠. 물도 하루 세 번씩 줬어요. 그런데 선인장이 점점 시들자 nurse(간호사)인 엄마가 진단했어요. \"얘는 사랑을 너무 많이 받아서 아픈 거야.\""
+}

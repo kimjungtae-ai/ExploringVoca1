@@ -1,0 +1,68 @@
+{
+ "word": "rely on",
+ "pos": "구동사",
+ "phonetic": "[rɪˈlaɪ ɑːn]",
+ "meaning": "~에 의지하다, ~을 믿다, 신뢰하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "rely",
+   "meaning": "의지하다 (depend)",
+   "note": "라틴어 religare(다시 묶다)에서 온 말이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "on",
+   "meaning": "~위에 (on)",
+   "note": "무엇 '위에' 기대어 무게를 싣는 이미지예요."
+  }
+ ],
+ "summary": "<strong>rely</strong> (의지하다) + <strong>on</strong> (~위에) = '~위에 몸을 기대다'에서 <strong>'~에 의지하다, 믿다'</strong>가 되었어요.",
+ "historyTitle": "단단히 묶여 있다는 믿음",
+ "historyBody": "rely는 고대 프랑스어 'relier(묶다, 결합하다)'를 거쳐 라틴어 'religare(단단히 묶다)'에서 왔어요. 처음에는 '모으다, 결합하다'라는 뜻이었다가, 16세기 무렵 '~에 의지하다'라는 뜻이 생겼어요. 서로 단단히 묶여 있어야 믿고 기댈 수 있다는 그림이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "depend on",
+   "pos": "구동사",
+   "meaning": "~에 의존하다, ~에 달려 있다",
+   "en": "Our plans depend on the weather.",
+   "ko": "우리 계획은 날씨에 달려 있어요."
+  },
+  {
+   "word": "count on",
+   "pos": "구동사",
+   "meaning": "~을 믿다, 기대하다",
+   "en": "You can always count on me.",
+   "ko": "너는 언제나 나를 믿어도 돼."
+  },
+  {
+   "word": "reliable",
+   "pos": "형용사",
+   "meaning": "믿을 수 있는",
+   "en": "She is a reliable friend who keeps promises.",
+   "ko": "그녀는 약속을 지키는 믿을 만한 친구예요."
+  },
+  {
+   "word": "reliance",
+   "pos": "명사",
+   "meaning": "의존, 의지",
+   "en": "Our reliance on smartphones keeps growing.",
+   "ko": "스마트폰에 대한 우리의 의존은 계속 커지고 있어요."
+  },
+  {
+   "word": "lean on",
+   "pos": "구동사",
+   "meaning": "~에 기대다, 의지하다",
+   "en": "You can lean on your family in hard times.",
+   "ko": "힘들 때는 가족에게 기대도 돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 친구 어깨에 기대어 힘든 길을 걷는 장면",
+ "imageCaption": "다리를 다친 친구가 다른 친구 어깨에 몸을 기대 걷는 모습을 떠올려 보세요. 무게를 실어 믿고 기대는 것이 rely on이에요.",
+ "movieLineEn": "I can't do this alone. I need someone to rely on.",
+ "movieLineKo": "혼자서는 못 해. 의지할 누군가가 필요해.",
+ "storyTitle": "믿을 건 너뿐",
+ "story": "시험 기간, 지민이는 짝꿍 노트에 rely on(의지하다)했어요. 짝꿍은 reliable(믿을 수 있는) 친구라 늘 필기가 완벽했거든요. 지민이는 '너만 count on(믿다)할게!'라며 노트를 빌렸죠. 그런데 펼쳐 보니 짝꿍도 지민이 노트에 depend on(의존하다)하려고 텅 비워 뒀지 뭐예요!"
+}

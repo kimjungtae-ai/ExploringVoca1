@@ -1,0 +1,68 @@
+{
+ "word": "due to",
+ "pos": "전치사구",
+ "phonetic": "[duː tuː]",
+ "meaning": "~ 때문에, ~으로 인해; (be due to) ~할 예정이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "due",
+   "meaning": "~ 때문인, 마땅히 치러야 할, 예정된 (due)",
+   "note": "라틴어 debere(빚지다)에서 온 말로 '~ 덕분인, ~에 원인이 있는'이란 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "to",
+   "meaning": "~에게, ~에 (to)",
+   "note": "원인을 '어디로' 돌리는지 가리켜요."
+  }
+ ],
+ "summary": "<strong>due</strong> (원인이 있는, 빚진) + <strong>to</strong> (~에) = '~에 원인을 빚지고 있는'에서 <strong>'~ 때문에'</strong>",
+ "historyTitle": "'빚지다' debere에서 온 due",
+ "historyBody": "due는 라틴어 'debere(빚지다)'에서 고대 프랑스어 deu를 거쳐 왔어요. debt(빚)와 같은 뿌리죠. 결과가 어떤 원인에게 '빚지고 있다'는 데서 'due to(~ 때문에)'가 생겼어요. 또 'The report is due Friday.(과제 마감은 금요일이야)'처럼 '기한이 된, 예정된'이라는 뜻도 수능에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "because of",
+   "pos": "전치사구",
+   "meaning": "~ 때문에",
+   "en": "We stayed home because of the storm.",
+   "ko": "우리는 폭풍 때문에 집에 있었어."
+  },
+  {
+   "word": "owing to",
+   "pos": "전치사구",
+   "meaning": "~ 때문에",
+   "en": "Owing to heavy snow, school was closed.",
+   "ko": "폭설 때문에 학교가 휴교했어요."
+  },
+  {
+   "word": "thanks to",
+   "pos": "전치사구",
+   "meaning": "~ 덕분에",
+   "en": "Thanks to you, I passed the exam.",
+   "ko": "네 덕분에 시험에 붙었어."
+  },
+  {
+   "word": "due date",
+   "pos": "명사구",
+   "meaning": "마감일, 출산 예정일",
+   "en": "The due date for the essay is Monday.",
+   "ko": "에세이 마감일은 월요일이야."
+  },
+  {
+   "word": "be due to",
+   "pos": "숙어",
+   "meaning": "~할 예정이다",
+   "en": "The train is due to arrive at noon.",
+   "ko": "기차는 정오에 도착할 예정이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 폭우로 '경기 취소' 안내판이 걸린 운동장",
+ "imageCaption": "비가 쏟아지는 운동장 앞에 '우천으로 인해 취소'라는 팻말이 서 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "The flight was delayed due to the storm.",
+ "movieLineKo": "비행기가 폭풍 때문에 지연됐어.",
+ "storyTitle": "지각의 이유",
+ "story": "민우가 지각하자 선생님이 이유를 물으셨어요. 민우는 \"due to(~ 때문에) 비가 와서요\"라고 했죠. 선생님이 \"오늘 맑았는데?\" 하자 민우는 \"owing to(~ 때문에) 늦잠 때문이에요\"라고 정정했어요. 게다가 오늘이 숙제 due date(마감일)라는 사실까지! 민우는 \"thanks to(~ 덕분에) 정직함으로 봐주세요\"라며 웃었답니다."
+}

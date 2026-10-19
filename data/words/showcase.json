@@ -1,0 +1,68 @@
+{
+ "word": "showcase",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈʃoʊkeɪs]",
+ "meaning": "진열장, (재능 등을 보여 주는) 공개 행사 / 선보이다, 소개하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "show",
+   "meaning": "보여 주다 (show)",
+   "note": "고대 영어 'scēawian'에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "case",
+   "meaning": "상자 (box)",
+   "note": "고대 프랑스어를 거쳐 라틴어 'capsa(상자)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>show</strong> (보여 주다) + <strong>case</strong> (상자) = 물건을 보여 주는 유리 상자, 즉 <strong>'진열장, 선보이다'</strong>예요.",
+ "historyTitle": "박물관 유리 상자에서 무대로",
+ "historyBody": "showcase는 19세기 중반 박물관이나 가게에서 물건을 보여 주던 유리 진열장을 가리켰어요. 여기서 '재능이나 제품을 돋보이게 보여 주는 자리'라는 뜻이 생겼죠. 요즘은 가수의 신곡 발표회도 쇼케이스라고 해요. 상자를 뜻하는 case는 '갖고 있다'를 뜻하는 라틴어 'capere'와 관련 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "show",
+   "pos": "동사",
+   "meaning": "보여 주다",
+   "en": "Can you show me the way to the station?",
+   "ko": "역으로 가는 길을 알려 주시겠어요?"
+  },
+  {
+   "word": "showroom",
+   "pos": "명사",
+   "meaning": "전시실",
+   "en": "The furniture showroom was full of comfortable sofas.",
+   "ko": "가구 전시실은 편안한 소파로 가득했어요."
+  },
+  {
+   "word": "suitcase",
+   "pos": "명사",
+   "meaning": "여행 가방",
+   "en": "I packed my suitcase the night before the trip.",
+   "ko": "나는 여행 전날 밤 여행 가방을 쌌어요."
+  },
+  {
+   "word": "briefcase",
+   "pos": "명사",
+   "meaning": "서류 가방",
+   "en": "My father carries his laptop in a briefcase.",
+   "ko": "아빠는 노트북을 서류 가방에 넣고 다니세요."
+  },
+  {
+   "word": "capsule",
+   "pos": "명사",
+   "meaning": "캡슐, 작은 용기",
+   "en": "The students buried a time capsule at school.",
+   "ko": "학생들은 학교에 타임캡슐을 묻었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 유리 진열장 안에 반짝이는 보석이 전시된 장면",
+ "imageCaption": "무대 조명 아래 신인 가수가 처음으로 노래를 선보이는 모습을 떠올려 보세요.",
+ "movieLineEn": "Tonight, we showcase the greatest invention of the century!",
+ "movieLineKo": "오늘 밤, 우리는 세기의 가장 위대한 발명품을 선보입니다!",
+ "storyTitle": "발명 대회의 쇼케이스",
+ "story": "과학 발명 showcase(공개 행사)에서 나는 자동 suitcase(여행 가방)를 show(보여 주다)했어요. 가방이 혼자 주인을 따라오는 발명품이죠! 그런데 심사위원 briefcase(서류 가방)를 주인으로 착각하고 따라가 버렸어요. 결국 그 심사위원이 1등상을 받았어요."
+}

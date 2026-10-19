@@ -1,0 +1,68 @@
+{
+ "word": "be into",
+ "pos": "숙어",
+ "phonetic": "[bi ˈɪntuː]",
+ "meaning": "~에 빠져 있다, ~을 아주 좋아하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "be",
+   "meaning": "~이다, 있다 (be)",
+   "note": "상태를 나타내요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "into",
+   "meaning": "~ 안으로 (into)",
+   "note": "무언가 '속으로 쏙' 들어가 있는 그림이에요."
+  }
+ ],
+ "summary": "<strong>be</strong> (있다) + <strong>into</strong> (~ 안으로 들어간) = '~ 속에 푹 들어가 있다'에서 <strong>'~에 빠져 있다, ~을 좋아하다'</strong>예요.",
+ "historyTitle": "1960년대 미국 구어",
+ "historyBody": "into는 고대 영어에서 in과 to가 합쳐진 말이에요. '~에 관심이 푹 빠져 있다'는 뜻의 'be into'는 20세기 중반, 특히 1960년대 무렵 미국 구어에서 널리 퍼졌다고 알려져 있어요. 회화체 지문에서 'I'm really into K-pop'처럼 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "get into",
+   "pos": "구동사",
+   "meaning": "~에 빠지다, 들어가다",
+   "en": "He got into jazz in high school.",
+   "ko": "그는 고등학교 때 재즈에 빠졌어요."
+  },
+  {
+   "word": "be interested in",
+   "pos": "숙어",
+   "meaning": "~에 관심이 있다",
+   "en": "She is interested in space science.",
+   "ko": "그녀는 우주 과학에 관심이 있어요."
+  },
+  {
+   "word": "be crazy about",
+   "pos": "숙어",
+   "meaning": "~에 열광하다",
+   "en": "My dad is crazy about fishing.",
+   "ko": "우리 아빠는 낚시에 열광하세요."
+  },
+  {
+   "word": "be absorbed in",
+   "pos": "숙어",
+   "meaning": "~에 몰두하다",
+   "en": "The boy was absorbed in his puzzle.",
+   "ko": "소년은 퍼즐에 몰두해 있었어요."
+  },
+  {
+   "word": "be keen on",
+   "pos": "숙어",
+   "meaning": "~을 좋아하다",
+   "en": "I'm not keen on horror movies.",
+   "ko": "나는 공포 영화를 별로 안 좋아해요."
+  }
+ ],
+ "imageSense": "대표 의미: 헤드폰을 끼고 음악에 푹 빠져 고개를 흔드는 학생",
+ "imageCaption": "좋아하는 것 '속으로' 쏙 들어가 버린 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm not really into parties. But for you, I'll make an exception.",
+ "movieLineKo": "난 파티를 별로 안 좋아해. 하지만 너를 위해선 예외로 할게.",
+ "storyTitle": "취미 부자 삼촌",
+ "story": "삼촌은 요즘 요리에 be into(~에 빠져 있다)하세요. 지난달엔 등산에 get into(~에 빠지다)하셨고, 그 전엔 낚시에 be crazy about(~에 열광하다)하셨죠. 그래서 삼촌 방엔 도구가 가득해요. 그런데 이번 주부턴 '정리 정돈'에 빠지셨대요!"
+}

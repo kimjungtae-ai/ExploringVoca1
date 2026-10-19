@@ -1,0 +1,81 @@
+{
+ "word": "expression",
+ "pos": "명사",
+ "phonetic": "[ɪkˈspreʃn]",
+ "meaning": "표현, 표정, 말씨",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "안에 있는 것을 밖으로 내보낸다는 뜻이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "press",
+   "meaning": "누르다 (press)",
+   "note": "라틴어 premere(누르다)의 과거분사 pressus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ion",
+   "meaning": "~하는 것 (명사형)",
+   "note": "행위나 결과를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>press</strong> (누르다) + <strong>-ion</strong> (명사) = '눌러서 밖으로 짜낸 것'에서 <strong>'표현, 표정'</strong>이 되었어요.",
+ "historyTitle": "마음을 꾹 눌러 짜내다",
+ "historyBody": "express는 라틴어 'exprimere(눌러 짜내다)'의 과거분사 expressus에서 왔어요. 과일즙을 짜내듯 마음속 생각과 감정을 말이나 얼굴로 '짜내는' 것이 표현이에요. 커피 에스프레소(espresso)도 같은 뿌리의 이탈리아어랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "express",
+   "pos": "동사 / 형용사",
+   "meaning": "표현하다 / 급행의",
+   "en": "It is hard to express my feelings in English.",
+   "ko": "영어로 내 감정을 표현하기는 어려워요."
+  },
+  {
+   "word": "press",
+   "pos": "동사 / 명사",
+   "meaning": "누르다 / 언론",
+   "en": "Press the button to start the machine.",
+   "ko": "기계를 작동하려면 버튼을 누르세요."
+  },
+  {
+   "word": "pressure",
+   "pos": "명사",
+   "meaning": "압력, 압박",
+   "en": "Students feel a lot of pressure before exams.",
+   "ko": "학생들은 시험 전에 큰 압박감을 느껴요."
+  },
+  {
+   "word": "impress",
+   "pos": "동사",
+   "meaning": "깊은 인상을 주다",
+   "en": "His speech impressed the audience.",
+   "ko": "그의 연설은 청중에게 깊은 인상을 주었어요."
+  },
+  {
+   "word": "depress",
+   "pos": "동사",
+   "meaning": "우울하게 하다, 누르다",
+   "en": "Rainy days sometimes depress me.",
+   "ko": "비 오는 날은 가끔 나를 우울하게 해요."
+  },
+  {
+   "word": "compress",
+   "pos": "동사",
+   "meaning": "압축하다",
+   "en": "You can compress these files to save space.",
+   "ko": "공간을 아끼려면 이 파일들을 압축할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 아이의 얼굴에 기쁨이 활짝 드러나는 장면",
+ "imageCaption": "마음속 감정이 얼굴 밖으로 '꾹' 짜여 나오는 표정을 떠올려 보세요.",
+ "movieLineEn": "I'll never forget the expression on your face that day.",
+ "movieLineKo": "그날 네 얼굴 표정은 절대 잊지 못할 거야.",
+ "storyTitle": "표정 관리 실패",
+ "story": "민지는 할머니의 선물에 기쁜 expression(표정)을 지어야 했어요. 감정을 express(표현하다)하는 게 큰 pressure(압박)였죠. 상자 속은 손뜨개 털 양말이었어요. 민지는 할머니를 impress(감동시키다)하려고 한여름에 양말을 신고 춤까지 췄대요."
+}

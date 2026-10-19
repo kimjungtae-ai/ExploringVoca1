@@ -1,0 +1,81 @@
+{
+ "word": "available",
+ "pos": "형용사",
+ "phonetic": "[əˈveɪləbl]",
+ "meaning": "이용할 수 있는, 구할 수 있는, (사람이) 시간이 있는",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "a-",
+   "meaning": "~에 (to)",
+   "note": "고대 프랑스어 a-(라틴어 ad-)에서 온 것으로 보여요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vail (valere)",
+   "meaning": "가치가 있다, 힘이 있다 (be worth, be strong)",
+   "note": "value(가치)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-able",
+   "meaning": "~할 수 있는",
+   "note": "가능을 나타내는 형용사를 만들어요."
+  }
+ ],
+ "summary": "<strong>a-</strong> (~에) + <strong>vail</strong> (쓸모가 있다) + <strong>-able</strong> (~할 수 있는) = '쓸모 있게 쓸 수 있는'에서 <strong>'이용할 수 있는'</strong>이 되었어요.",
+ "historyTitle": "'쓸모 있다'에서 '이용 가능한'으로",
+ "historyBody": "available은 동사 avail(쓸모가 있다)에 -able이 붙은 말이에요. avail의 뿌리는 라틴어 'valere(가치가 있다, 힘이 있다)'가 고대 프랑스어 'valoir'로 바뀐 것인데, 앞의 a-가 어떻게 붙었는지는 사전마다 설명이 조금 달라 확실하지 않아요. 15세기에는 '효과가 있는'이었다가 19세기 무렵 '이용할 수 있는'이라는 뜻이 널리 퍼졌답니다.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "availability",
+   "pos": "명사",
+   "meaning": "이용 가능성, 유효성",
+   "en": "Please check the availability of rooms before you book.",
+   "ko": "예약하기 전에 객실이 있는지 확인해 주세요."
+  },
+  {
+   "word": "value",
+   "pos": "명사/동사",
+   "meaning": "가치 / 소중히 여기다",
+   "en": "I value my friends more than money.",
+   "ko": "나는 돈보다 친구를 더 소중히 여겨요."
+  },
+  {
+   "word": "valuable",
+   "pos": "형용사",
+   "meaning": "귀중한, 값비싼",
+   "en": "This old map is very valuable.",
+   "ko": "이 오래된 지도는 매우 귀중해요."
+  },
+  {
+   "word": "valid",
+   "pos": "형용사",
+   "meaning": "유효한, 타당한",
+   "en": "Your ticket is valid for one week.",
+   "ko": "당신의 표는 일주일 동안 유효해요."
+  },
+  {
+   "word": "evaluate",
+   "pos": "동사",
+   "meaning": "평가하다",
+   "en": "Teachers evaluate students in many ways.",
+   "ko": "선생님들은 여러 방식으로 학생을 평가해요."
+  },
+  {
+   "word": "prevail",
+   "pos": "동사",
+   "meaning": "널리 퍼지다, 이기다",
+   "en": "In the end, justice prevailed.",
+   "ko": "결국 정의가 승리했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매장 선반에 '재고 있음' 표시가 붙은 신상품",
+ "imageCaption": "쇼핑몰 앱에서 원하던 운동화에 '구매 가능' 버튼이 초록색으로 켜진 순간을 떠올려 보세요. 바로 쓸 수 있는 상태가 available이에요.",
+ "movieLineEn": "I'm available tonight, if you need a hero.",
+ "movieLineKo": "영웅이 필요하다면, 난 오늘 밤 시간 있어.",
+ "storyTitle": "마지막 한 켤레",
+ "story": "한정판 운동화가 available(구매 가능한)이라는 알림이 떴어요! 나는 수업 중에 몰래 버튼을 눌렀죠. 이 운동화의 value(가치)는 엄청나니까요. 결제가 valid(유효한)하다는 메시지까지 받고 기뻐했는데, 선생님이 다가와 말씀하셨어요. '그 신발, 나도 샀단다. 쉬는 시간에 valuable(귀중한) 정보 고마워.'"
+}

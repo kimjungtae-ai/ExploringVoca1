@@ -1,0 +1,55 @@
+{
+ "word": "stair",
+ "pos": "명사",
+ "phonetic": "[ster]",
+ "meaning": "계단, (계단의) 한 단",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "stair (stæger)",
+   "meaning": "오르는 것 (step, climb)",
+   "note": "고대 영어 stæger는 stīgan(오르다)과 관련된 게르만계 단어예요."
+  }
+ ],
+ "summary": "<strong>stair</strong> (고대 영어 stæger: 오르는 것) = 한 단씩 밟고 올라가는 것에서 <strong>'계단'</strong>이 되었습니다.",
+ "historyTitle": "오르기 위해 만든 고대 영어 stæger",
+ "historyBody": "stair는 고대 영어 stæger(계단, 층계)에서 왔고, stīgan(오르다, 올라가다)과 같은 게르만 뿌리를 가지고 있어요. 원래는 계단의 한 단을 가리켰고, 지금은 보통 stairs처럼 복수로 써서 '계단 전체'를 나타내요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "staircase",
+   "pos": "명사",
+   "meaning": "(난간 포함) 계단",
+   "en": "A long staircase leads to the top of the tower.",
+   "ko": "긴 계단이 탑 꼭대기까지 이어져요."
+  },
+  {
+   "word": "upstairs",
+   "pos": "부사",
+   "meaning": "위층으로, 위층에",
+   "en": "My room is upstairs, next to the bathroom.",
+   "ko": "내 방은 위층 화장실 옆에 있어요."
+  },
+  {
+   "word": "downstairs",
+   "pos": "부사",
+   "meaning": "아래층으로, 아래층에",
+   "en": "Dinner is ready, so please come downstairs.",
+   "ko": "저녁 준비됐으니 아래층으로 내려와."
+  },
+  {
+   "word": "stairway",
+   "pos": "명사",
+   "meaning": "계단, 층계",
+   "en": "The stairway was dark and narrow.",
+   "ko": "그 계단은 어둡고 좁았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 한 칸씩 위로 이어지는 나무 계단",
+ "imageCaption": "한 발 한 발 밟고 위층으로 올라가는 계단을 떠올려 보세요.",
+ "movieLineEn": "Don't run on the stairs! That's how heroes get hurt.",
+ "movieLineKo": "계단에서 뛰지 마! 영웅들은 그러다 다친다고.",
+ "storyTitle": "엘리베이터가 고장 난 날",
+ "story": "30층에 사는 고양이는 엘리베이터가 고장 나서 stair(계단)를 올라가야 했어요. 끝없는 staircase(계단)를 오르며 땀을 뻘뻘 흘렸죠. 마침내 upstairs(위층에) 도착한 고양이는 깨달았어요. 생선을 downstairs(아래층에) 두고 왔다는 걸요. 다시 stairway(계단)를 내려가던 고양이는 다짐했어요. \"이사 갈 거야. 1층으로!\""
+}

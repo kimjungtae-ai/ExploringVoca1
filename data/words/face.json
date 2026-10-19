@@ -1,0 +1,62 @@
+{
+ "word": "face",
+ "pos": "명사 / 동사",
+ "phonetic": "[feɪs]",
+ "meaning": "얼굴, 표면 / 직면하다, 마주하다, 향하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "face (facies)",
+   "meaning": "모습, 겉모양 (form, appearance)",
+   "note": "라틴어 facies(모습, 얼굴)에서 고대 프랑스어 face를 거쳐 들어왔어요. 더 쪼갤 수 있는 접두사·접미사는 없어요."
+  }
+ ],
+ "summary": "<strong>face</strong>는 라틴어 <strong>facies</strong>(모습, 겉모양)에서 온 한 덩어리 단어로, '얼굴'에서 '얼굴을 마주하다'로 넓어져 <strong>'직면하다'</strong>가 되었어요.",
+ "historyTitle": "라틴어 facies, 사람의 '겉모습'",
+ "historyBody": "face는 라틴어 facies(모습, 외관)가 고대 프랑스어를 거쳐 13세기쯤 영어에 들어온 말이에요. 원래 앵글로색슨인들은 '얼굴'을 nebb나 andwlita 같은 말로 불렀는데, face가 이를 밀어냈어요. '얼굴을 돌려 마주하다'라는 뜻에서 '문제에 직면하다'라는 동사 뜻도 생겼답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "facial",
+   "pos": "형용사",
+   "meaning": "얼굴의",
+   "en": "Her facial expression showed that she was surprised.",
+   "ko": "그녀의 얼굴 표정을 보니 놀란 게 분명했어요."
+  },
+  {
+   "word": "surface",
+   "pos": "명사",
+   "meaning": "표면, 겉",
+   "en": "The surface of the lake was as smooth as glass.",
+   "ko": "호수의 표면은 유리처럼 매끄러웠어요."
+  },
+  {
+   "word": "interface",
+   "pos": "명사",
+   "meaning": "접점, 인터페이스",
+   "en": "This app has a simple interface that anyone can use.",
+   "ko": "이 앱은 누구나 쓸 수 있는 간단한 화면 구성을 갖췄어요."
+  },
+  {
+   "word": "facet",
+   "pos": "명사",
+   "meaning": "측면, (보석의) 면",
+   "en": "Music is an important facet of Korean culture.",
+   "ko": "음악은 한국 문화의 중요한 한 측면이에요."
+  },
+  {
+   "word": "facade",
+   "pos": "명사",
+   "meaning": "(건물의) 정면, 겉치레",
+   "en": "The old hotel has a beautiful stone facade.",
+   "ko": "그 오래된 호텔은 아름다운 돌로 된 정면을 가지고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울 속 내 얼굴, 그리고 큰 파도를 정면으로 마주한 서퍼",
+ "imageCaption": "얼굴을 들고 무언가를 똑바로 '마주 보는' 모습을 떠올리세요. 얼굴(face)이 곧 직면(face)이에요.",
+ "movieLineEn": "You can't run forever. Sooner or later, you have to face the truth.",
+ "movieLineKo": "영원히 도망칠 순 없어. 언젠가는 진실을 마주해야 해.",
+ "storyTitle": "거울 속의 진실",
+ "story": "지민이는 시험 성적이라는 현실을 face(직면하다)하기 싫었어요. 그래서 거울 앞에서 facial(얼굴의) 팩을 하며 딴생각을 했죠. 팩의 surface(표면)가 굳자 얼굴은 하얀 facade(겉모습)처럼 변했어요. 그때 엄마가 성적표를 들고 들어왔어요. 엄마는 비명을 질렀어요. \"귀신이다!\" 덕분에 성적 얘기는 내일로 미뤄졌답니다."
+}

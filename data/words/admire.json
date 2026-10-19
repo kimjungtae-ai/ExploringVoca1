@@ -1,0 +1,68 @@
+{
+ "word": "admire",
+ "pos": "동사",
+ "phonetic": "[ədˈmaɪər]",
+ "meaning": "존경하다, 감탄하다, 칭찬하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~에, ~을 향해 (at)",
+   "note": "감탄하는 대상을 향한 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mire",
+   "meaning": "놀라다, 경탄하다 (wonder)",
+   "note": "라틴어 mirari(놀라다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~을 향해) + <strong>mire</strong> (놀라다) = '~을 보고 경탄하다'에서 <strong>'감탄하다, 존경하다'</strong>가 되었어요.",
+ "historyTitle": "눈이 휘둥그레지는 라틴어 mirari",
+ "historyBody": "라틴어 admirari는 '~을 보고 놀라다, 경탄하다'라는 뜻이었어요. mirari(놀라다)는 miracle(기적), mirror(거울)와 같은 뿌리예요. 거울은 원래 '놀라며 들여다보는 것'이었던 셈이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "admiration",
+   "pos": "명사",
+   "meaning": "감탄, 존경",
+   "en": "She looked at the painting with admiration.",
+   "ko": "그녀는 감탄하며 그 그림을 바라봤어요."
+  },
+  {
+   "word": "admirable",
+   "pos": "형용사",
+   "meaning": "훌륭한, 감탄할 만한",
+   "en": "His honesty is admirable.",
+   "ko": "그의 정직함은 존경할 만해요."
+  },
+  {
+   "word": "miracle",
+   "pos": "명사",
+   "meaning": "기적",
+   "en": "It was a miracle that nobody was hurt.",
+   "ko": "아무도 다치지 않은 건 기적이었어요."
+  },
+  {
+   "word": "mirror",
+   "pos": "명사",
+   "meaning": "거울",
+   "en": "She checked her hair in the mirror.",
+   "ko": "그녀는 거울로 머리를 확인했어요."
+  },
+  {
+   "word": "marvel",
+   "pos": "동사/명사",
+   "meaning": "경탄하다 / 놀라운 것",
+   "en": "We marveled at the beautiful night sky.",
+   "ko": "우리는 아름다운 밤하늘에 감탄했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 밤하늘의 별을 올려다보며 입을 벌리고 감탄하는 장면",
+ "imageCaption": "놀라움과 존경이 섞인 눈빛으로 무언가를 바라보는 모습을 떠올려 보세요.",
+ "movieLineEn": "I truly admire your courage, young knight.",
+ "movieLineKo": "젊은 기사여, 그대의 용기를 진심으로 존경하네.",
+ "storyTitle": "거울 속 팬클럽",
+ "story": "공주는 매일 mirror(거울)를 보며 자신을 admire(감탄하다)했어요. 거울도 공주에게 admiration(감탄)을 보냈죠. 어느 날 거울이 말했어요. '오늘은 정말 miracle(기적)이에요!' 공주가 기뻐하자 거울이 덧붙였어요. '드디어 이에 낀 김을 빼셨네요.'"
+}

@@ -1,0 +1,67 @@
+{
+ "word": "surgery",
+ "pos": "명사",
+ "phonetic": "[ˈsɜːrdʒəri]",
+ "meaning": "수술, 외과",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "chir- (kheir)",
+   "meaning": "손 (hand)",
+   "note": "그리스어 kheir(손)에서 왔어요. 영어에서는 sur-로 모습이 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "urg (ergon)",
+   "meaning": "일 (work)",
+   "note": "그리스어 ergon(일)에서 온 어근이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ery",
+   "meaning": "~하는 일, 기술",
+   "note": "활동이나 분야를 나타내는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>kheir</strong> (손) + <strong>ergon</strong> (일) + <strong>-ery</strong> = '손으로 하는 일'에서 <strong>'수술, 외과'</strong>가 되었어요.",
+ "historyTitle": "손으로 하는 치료",
+ "historyBody": "surgery는 그리스어 kheirourgia(손으로 하는 일)가 라틴어 chirurgia, 고대 프랑스어 surgerie를 거쳐 영어로 들어온 말이에요. 약으로 고치는 내과와 달리 '손'으로 직접 고치는 치료라는 뜻이죠. 철자가 여러 번 바뀌어서 지금 모양만 봐서는 쪼개기 어려워요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "surgeon",
+   "pos": "명사",
+   "meaning": "외과 의사",
+   "en": "The surgeon performed the operation for five hours.",
+   "ko": "외과 의사는 다섯 시간 동안 수술을 했어요."
+  },
+  {
+   "word": "surgical",
+   "pos": "형용사",
+   "meaning": "외과의, 수술의",
+   "en": "The nurse wore a surgical mask.",
+   "ko": "간호사는 수술용 마스크를 썼어요."
+  },
+  {
+   "word": "energy",
+   "pos": "명사",
+   "meaning": "에너지, 힘",
+   "en": "Solar energy is clean and renewable.",
+   "ko": "태양 에너지는 깨끗하고 재생 가능해요."
+  },
+  {
+   "word": "allergy",
+   "pos": "명사",
+   "meaning": "알레르기",
+   "en": "I have an allergy to peanuts.",
+   "ko": "나는 땅콩 알레르기가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 수술실에서 의사들이 수술하는 장면",
+ "imageCaption": "밝은 조명 아래 마스크를 쓴 외과 의사가 정교한 손놀림으로 수술하는 모습을 떠올려 보세요. '손으로 하는 일'이에요.",
+ "movieLineEn": "The surgery went well. He's going to be fine.",
+ "movieLineKo": "수술은 잘 됐어요. 그는 괜찮아질 거예요.",
+ "storyTitle": "곰 인형 수술",
+ "story": "동생이 찢어진 곰 인형을 들고 와 surgery(수술)가 필요하다고 울었어요. 나는 surgeon(외과 의사)이 되어 surgical(수술용) 마스크까지 쓰고 바늘을 들었죠. 온 energy(에너지)를 쏟아 꿰맸는데, 동생 얼굴이 이상했어요. 알고 보니 곰 인형의 팔과 다리를 바꿔 달아 버렸던 거예요!"
+}

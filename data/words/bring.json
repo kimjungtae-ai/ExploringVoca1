@@ -1,0 +1,48 @@
+{
+ "word": "bring",
+ "pos": "동사",
+ "phonetic": "[brɪŋ]",
+ "meaning": "가져오다, 데려오다, 초래하다",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "bring (← bringan)",
+   "meaning": "가져오다 (carry, bring)",
+   "note": "고대 영어 bringan에서 온 게르만어로, 다른 인도유럽어에서는 확실한 친척을 찾기 어려워요."
+  }
+ ],
+ "summary": "<strong>bring</strong>은 고대 영어 <strong>bringan</strong>(가져오다)에서 와서 지금도 <strong>'가져오다, 데려오다, 초래하다'</strong>를 뜻해요.",
+ "historyTitle": "천 년 넘게 거의 그대로인 단어",
+ "historyBody": "bring은 고대 영어 bringan에서 왔고, 독일어 bringen과 친척이에요. 게르만어 바깥에서는 확실한 친척 단어가 없어서 쪼개기 어려운 단어예요. 과거형 brought도 고대 영어 brōhte에서 이어진 아주 오래된 형태랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "upbringing",
+   "pos": "명사",
+   "meaning": "양육, 가정 교육",
+   "en": "Her strict upbringing made her very responsible.",
+   "ko": "엄격한 가정 교육 덕분에 그녀는 아주 책임감이 강해졌어."
+  },
+  {
+   "word": "bring about",
+   "pos": "동사",
+   "meaning": "일으키다, 초래하다",
+   "en": "Technology can bring about big changes in education.",
+   "ko": "기술은 교육에 큰 변화를 가져올 수 있어요."
+  },
+  {
+   "word": "bring up",
+   "pos": "동사",
+   "meaning": "(아이를) 기르다, (화제를) 꺼내다",
+   "en": "My grandparents brought me up in the countryside.",
+   "ko": "조부모님이 나를 시골에서 키워 주셨어."
+  }
+ ],
+ "imageSense": "대표 의미: 친구가 생일 파티에 커다란 케이크를 들고 오는 장면",
+ "imageCaption": "문을 열고 '짜잔!' 하며 무언가를 들고 들어오는 친구를 떠올려 보세요. 내 쪽으로 가져오는 게 bring이에요.",
+ "movieLineEn": "Bring me the map, and I'll bring you home.",
+ "movieLineKo": "지도를 가져와, 그러면 내가 널 집에 데려다줄게.",
+ "storyTitle": "준비물의 비극",
+ "story": "선생님이 '내일 풍선을 bring(가져오다)하세요'라고 하셨어요. 그런데 준우는 '풍선 대신 강아지를 bring up(기르다)해 보세요'로 잘못 들었죠. 다음 날 강아지를 데려오자 교실은 난리가 났어요. 하지만 그 일이 큰 웃음을 bring about(초래하다)했고, 얌전한 강아지는 훌륭한 upbringing(가정 교육)을 받았다는 칭찬까지 들었답니다."
+}

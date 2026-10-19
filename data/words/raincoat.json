@@ -1,0 +1,61 @@
+{
+ "word": "raincoat",
+ "pos": "명사",
+ "phonetic": "[ˈreɪnkoʊt]",
+ "meaning": "비옷, 우비",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "rain",
+   "meaning": "비 (rain)",
+   "note": "고대 영어 regn에서 온 아주 오래된 영어 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "coat",
+   "meaning": "외투 (coat)",
+   "note": "고대 프랑스어 cote(겉옷)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>rain</strong> (비) + <strong>coat</strong> (외투) = '비를 막는 외투'라는 뜻에서 <strong>'비옷'</strong>이 되었어요.",
+ "historyTitle": "고무를 입힌 외투의 등장",
+ "historyBody": "rain은 고대 영어 regn에서 온 게르만 계열 단어이고, coat는 고대 프랑스어 cote(겉옷)에서 왔어요. raincoat라는 합성어는 19세기 초에 쓰이기 시작했어요. 1820년대 스코틀랜드의 매킨토시가 고무를 입힌 방수 천을 만들면서 비옷이 널리 퍼졌답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "rainfall",
+   "pos": "명사",
+   "meaning": "강우량",
+   "en": "The region has very little rainfall in summer.",
+   "ko": "그 지역은 여름에 비가 아주 적게 와요."
+  },
+  {
+   "word": "rainbow",
+   "pos": "명사",
+   "meaning": "무지개",
+   "en": "A beautiful rainbow appeared after the storm.",
+   "ko": "폭풍이 지나간 뒤 아름다운 무지개가 떴어요."
+  },
+  {
+   "word": "rainy",
+   "pos": "형용사",
+   "meaning": "비가 오는",
+   "en": "I like reading books on rainy days.",
+   "ko": "나는 비 오는 날 책 읽는 걸 좋아해요."
+  },
+  {
+   "word": "overcoat",
+   "pos": "명사",
+   "meaning": "외투, 오버코트",
+   "en": "He wore a heavy overcoat in the snow.",
+   "ko": "그는 눈 속에서 두꺼운 외투를 입었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 노란 비옷을 입고 물웅덩이에서 첨벙거리는 아이",
+ "imageCaption": "빗방울이 또르르 미끄러지는 반짝이는 비옷을 떠올려 보세요.",
+ "movieLineEn": "Put on your raincoat. A storm is coming.",
+ "movieLineKo": "비옷 입어. 폭풍이 오고 있어.",
+ "storyTitle": "비옷 패션쇼",
+ "story": "하은이는 rainy(비가 오는) 날만 기다렸어요. 무지개색 raincoat(비옷)를 새로 샀거든요. 일기예보는 오늘 rainfall(강우량)이 많을 거라고 했죠. 신나서 나갔더니 하늘에 rainbow(무지개)만 뜨고 비는 한 방울도 안 왔어요. 그래도 하은이는 하루 종일 비옷을 입고 다녔답니다!"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "recommendation letter",
+ "pos": "명사구",
+ "phonetic": "[ˌrekəmenˈdeɪʃən ˈletər]",
+ "meaning": "추천서",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "recommendation",
+   "meaning": "추천 (recommendation)",
+   "note": "re-(강조) + commend(맡기다, 칭찬하다) + -ation(명사)로 '적극 칭찬해 맡김'이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "letter",
+   "meaning": "편지, 글자 (letter)",
+   "note": "라틴어 littera(글자)에서 온 말로, 여기서는 '서신'이에요."
+  }
+ ],
+ "summary": "<strong>recommendation</strong> (추천) + <strong>letter</strong> (편지) = '누군가를 추천하는 편지'라서 <strong>'추천서'</strong>예요.",
+ "historyTitle": "맡기며 칭찬하는 편지",
+ "historyBody": "recommend는 중세 라틴어 'recommendare'에서 왔고, 그 안의 'commendare'는 '맡기다, 칭찬하다'라는 뜻이에요. 즉 누군가를 남에게 '믿고 맡길 만하다'고 칭찬하는 것이 추천이에요. letter는 라틴어 'littera(글자)'에서 고대 프랑스어를 거쳐 들어왔어요. 'letter of recommendation'이라고도 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "recommend",
+   "pos": "동사",
+   "meaning": "추천하다",
+   "en": "Can you recommend a good book for beginners?",
+   "ko": "초보자를 위한 좋은 책을 추천해 줄 수 있나요?"
+  },
+  {
+   "word": "commend",
+   "pos": "동사",
+   "meaning": "칭찬하다",
+   "en": "The teacher commended him for his honesty.",
+   "ko": "선생님은 그의 정직함을 칭찬하셨어요."
+  },
+  {
+   "word": "reference",
+   "pos": "명사",
+   "meaning": "추천인, 참고",
+   "en": "She listed her former boss as a reference.",
+   "ko": "그녀는 전 상사를 추천인으로 적었어요."
+  },
+  {
+   "word": "application form",
+   "pos": "명사구",
+   "meaning": "지원서",
+   "en": "Fill out the application form by Friday.",
+   "ko": "금요일까지 지원서를 작성하세요."
+  },
+  {
+   "word": "cover letter",
+   "pos": "명사구",
+   "meaning": "자기소개서",
+   "en": "He wrote a short cover letter for the job.",
+   "ko": "그는 그 일자리에 지원하려고 짧은 자기소개서를 썼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 선생님이 학생을 위해 정성껏 추천서를 쓰는 장면",
+ "imageCaption": "선생님이 책상에 앉아 '이 학생은 정말 성실합니다'라고 한 줄 한 줄 써 내려가는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'll write you a recommendation letter. You've earned it.",
+ "movieLineKo": "추천서 써 줄게. 넌 그럴 자격이 있어.",
+ "storyTitle": "추천서의 함정",
+ "story": "하늘이는 담임쌤께 recommendation letter(추천서)를 부탁했어요. 쌤은 그녀의 성실함을 commend(칭찬하다)하며 열심히 써 주셨죠. 하늘이는 application form(지원서)과 cover letter(자기소개서)도 완벽히 준비했어요. 그런데 쌤이 recommend(추천하다)한 학과가 하늘이가 지원한 과와 달랐어요!"
+}

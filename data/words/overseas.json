@@ -1,0 +1,67 @@
+{
+ "word": "overseas",
+ "pos": "부사 / 형용사",
+ "phonetic": "[ˌoʊvərˈsiːz]",
+ "meaning": "해외로, 해외에서 / 해외의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "over-",
+   "meaning": "넘어서, 지나치게 (over, too much)",
+   "note": "'위에, 넘어서' 또는 '너무 많이'라는 뜻을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "sea",
+   "meaning": "바다 (sea)",
+   "note": "고대 영어 sæ(바다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-s",
+   "meaning": "부사를 만드는 -s",
+   "note": "besides처럼 부사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>over</strong> (건너서) + <strong>sea</strong> (바다) + <strong>-s</strong> = '바다 건너'라는 뜻에서 <strong>'해외로, 해외의'</strong>가 되었어요.",
+ "historyTitle": "바다를 건너야 닿는 곳",
+ "historyBody": "overseas는 16세기 무렵 '바다 건너'라는 뜻으로 쓰이기 시작했어요. 섬나라인 영국 사람들에게 외국은 대부분 바다를 건너야 갈 수 있는 곳이었거든요. sea는 고대 영어 sæ에서 온 게르만계 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "sea",
+   "pos": "명사",
+   "meaning": "바다",
+   "en": "We swam in the sea all afternoon.",
+   "ko": "우리는 오후 내내 바다에서 수영했어요."
+  },
+  {
+   "word": "seafood",
+   "pos": "명사",
+   "meaning": "해산물",
+   "en": "This town is famous for fresh seafood.",
+   "ko": "이 마을은 신선한 해산물로 유명해요."
+  },
+  {
+   "word": "seaside",
+   "pos": "명사 / 형용사",
+   "meaning": "해변 / 해변의",
+   "en": "We stayed at a small seaside hotel.",
+   "ko": "우리는 작은 해변 호텔에 묵었어요."
+  },
+  {
+   "word": "seashore",
+   "pos": "명사",
+   "meaning": "해안, 바닷가",
+   "en": "The children collected shells on the seashore.",
+   "ko": "아이들은 바닷가에서 조개껍데기를 주웠어요."
+  }
+ ],
+ "imageSense": "대표 의미: 비행기가 넓은 바다를 건너 다른 나라로 날아가는 장면",
+ "imageCaption": "지도 위로 바다를 가로질러 날아가는 비행기를 떠올려 보세요. 바다 건너편, 그게 overseas예요.",
+ "movieLineEn": "I'm being sent overseas tomorrow. I don't know when I'll be back.",
+ "movieLineKo": "나 내일 해외로 파견 가. 언제 돌아올지 모르겠어.",
+ "storyTitle": "해외여행 대작전",
+ "story": "아빠가 드디어 overseas(해외로) 여행을 가자고 하셨어요. 우리는 seafood(해산물)를 먹고 seaside(해변) 호텔에 묵을 꿈에 부풀었죠. 비행기 대신 배를 탔고, sea(바다)를 건넜어요. 도착한 곳은 바로 제주도! 아빠 말로는 바다만 건너면 해외래요."
+}

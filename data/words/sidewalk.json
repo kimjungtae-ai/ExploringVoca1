@@ -1,0 +1,68 @@
+{
+ "word": "sidewalk",
+ "pos": "명사",
+ "phonetic": "[ˈsaɪdwɔːk]",
+ "meaning": "보도, 인도",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "side",
+   "meaning": "옆, 가장자리 (side)",
+   "note": "고대 영어 'sīde(옆구리, 옆)'에서 왔어요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "walk",
+   "meaning": "걷다, 길 (walk)",
+   "note": "고대 영어 'wealcan(구르다, 돌아다니다)'에서 왔어요."
+  }
+ ],
+ "summary": "<strong>side</strong> (옆) + <strong>walk</strong> (걷는 길) = 찻길 옆에 있는 걷는 길, 즉 <strong>'보도, 인도'</strong>예요.",
+ "historyTitle": "구르던 말이 걷는 말로",
+ "historyBody": "walk는 고대 영어 'wealcan'에서 왔는데, 원래 '구르다, 이리저리 움직이다'라는 뜻이었어요. 중세 영어에 와서야 '걷다'라는 뜻이 되었죠. sidewalk는 1700년대에 생긴 말로, 지금은 주로 미국 영어에서 쓰고 영국에서는 pavement라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "side",
+   "pos": "명사",
+   "meaning": "옆, 쪽, 측면",
+   "en": "There is a small park on the other side of the street.",
+   "ko": "길 건너편에 작은 공원이 있어요."
+  },
+  {
+   "word": "beside",
+   "pos": "전치사",
+   "meaning": "~의 옆에",
+   "en": "She sat beside me on the bus.",
+   "ko": "그녀는 버스에서 내 옆에 앉았어요."
+  },
+  {
+   "word": "sideways",
+   "pos": "부사",
+   "meaning": "옆으로",
+   "en": "The crab walked sideways across the sand.",
+   "ko": "게가 모래 위를 옆으로 걸어갔어요."
+  },
+  {
+   "word": "walk",
+   "pos": "동사 / 명사",
+   "meaning": "걷다 / 산책",
+   "en": "I walk my dog every evening.",
+   "ko": "나는 매일 저녁 개를 산책시켜요."
+  },
+  {
+   "word": "walker",
+   "pos": "명사",
+   "meaning": "보행자, 걷는 사람",
+   "en": "The park is popular with walkers and cyclists.",
+   "ko": "그 공원은 걷는 사람들과 자전거 타는 사람들에게 인기가 많아요."
+  }
+ ],
+ "imageSense": "대표 의미: 차도 옆 인도를 따라 사람들이 걸어가는 장면",
+ "imageCaption": "자동차가 달리는 도로 옆, 한 칸 높은 길 위를 걸어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Stay on the sidewalk! Cars are coming!",
+ "movieLineKo": "인도로 다녀! 차가 오고 있어!",
+ "storyTitle": "인도 위의 거북이",
+ "story": "등굣길 sidewalk(인도)에 거북이 한 마리가 걷고 있었어요. 나는 walk(걷다)하며 거북이 beside(옆에) 따라갔죠. 거북이가 sideways(옆으로) 방향을 틀자 나도 따라 틀었어요. 정신 차려 보니 거북이 집인 연못 앞! 그날 나는 지각했어요."
+}

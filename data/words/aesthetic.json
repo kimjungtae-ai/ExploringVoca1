@@ -1,0 +1,54 @@
+{
+ "word": "aesthetic",
+ "pos": "형용사 / 명사",
+ "phonetic": "[esˈθetɪk]",
+ "meaning": "미적인, 심미적인 / 미학, 미적 감각",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "aesthe",
+   "meaning": "느끼다, 지각하다 (perceive)",
+   "note": "그리스어 aisthanesthai(감각으로 느끼다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-tic",
+   "meaning": "~의, ~에 관한 (형용사)",
+   "note": "그리스어 -tikos에서 온 형용사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>aesthe</strong> (감각으로 느끼다) + <strong>-tic</strong> (~의) = '감각으로 느끼는 것에 관한'에서 <strong>'미적인, 심미적인'</strong>이 되었어요.",
+ "historyTitle": "'감각'에서 '아름다움'으로",
+ "historyBody": "그리스어 aisthētikos는 '감각으로 지각하는'이라는 뜻이었어요. 18세기 독일 철학자 바움가르텐이 '아름다움을 느끼는 감각'에 관한 학문을 aesthetica라고 부르면서 '미학, 미적인'이라는 뜻이 생겼어요. 마취(anesthesia)는 '감각이 없음'이라는 뜻의 친척 단어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "aesthetics",
+   "pos": "명사",
+   "meaning": "미학, 미적 특질",
+   "en": "She studies the aesthetics of Korean traditional houses.",
+   "ko": "그녀는 한국 전통 가옥의 미학을 연구해요."
+  },
+  {
+   "word": "anesthesia",
+   "pos": "명사",
+   "meaning": "마취",
+   "en": "The doctor gave him anesthesia before the surgery.",
+   "ko": "의사는 수술 전에 그에게 마취를 했어요."
+  },
+  {
+   "word": "aesthetically",
+   "pos": "부사",
+   "meaning": "미적으로",
+   "en": "The café is aesthetically pleasing.",
+   "ko": "그 카페는 미적으로 보기 좋아요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇살이 비치는 감성 카페의 예쁜 인테리어",
+ "imageCaption": "눈으로 보자마자 '와, 예쁘다!'라고 느끼게 되는 공간을 떠올려 보세요.",
+ "movieLineEn": "I chose this room for its aesthetic, not its price.",
+ "movieLineKo": "난 이 방을 가격이 아니라 분위기 때문에 골랐어.",
+ "storyTitle": "감성 사진의 대가",
+ "story": "지민이는 aesthetic(미적인) 사진에 진심이었어요. 밥 먹기 전에 30분씩 aesthetics(미학)를 연구했죠. 음식이 다 식어도 aesthetically(미적으로) 완벽해야 했어요. 어느 날, 친구들이 너무 배고파서 anesthesia(마취)라도 한 듯 쓰러졌어요. 그 장면이 최고의 사진이 되었대요."
+}

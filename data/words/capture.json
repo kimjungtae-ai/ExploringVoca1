@@ -1,0 +1,68 @@
+{
+ "word": "capture",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈkæptʃər]",
+ "meaning": "붙잡다, 포획하다, (마음·장면을) 사로잡다, 포착하다 / 포획",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "capt (← capere)",
+   "meaning": "잡다 (take, seize)",
+   "note": "라틴어 capere(잡다)의 과거분사 captus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 행위, 결과",
+   "note": "행동이나 그 결과를 뜻하는 명사를 만들어요."
+  }
+ ],
+ "summary": "<strong>capt</strong> (잡다) + <strong>-ure</strong> (행위) = '잡는 것'에서 <strong>'붙잡다, 포착하다, 사로잡다'</strong>가 되었어요.",
+ "historyTitle": "잡는 것이 곧 capture",
+ "historyBody": "capture는 라틴어 captura(잡는 일, 사냥)에서 프랑스어를 거쳐 16세기에 영어로 들어왔어요. 뿌리 capere(잡다)는 영어에 정말 많은 단어를 남겼어요. 오늘날에는 사람이나 동물을 잡는 것뿐 아니라 사진으로 장면을 담거나 마음을 사로잡는 것도 capture라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "captive",
+   "pos": "형용사 / 명사",
+   "meaning": "사로잡힌 / 포로",
+   "en": "The movie kept the audience captive for two hours.",
+   "ko": "그 영화는 두 시간 동안 관객을 사로잡았어."
+  },
+  {
+   "word": "captivate",
+   "pos": "동사",
+   "meaning": "매혹하다, 사로잡다",
+   "en": "Her voice captivated everyone in the hall.",
+   "ko": "그녀의 목소리는 강당의 모든 사람을 사로잡았어."
+  },
+  {
+   "word": "capacity",
+   "pos": "명사",
+   "meaning": "용량, 능력",
+   "en": "This bottle has a capacity of one liter.",
+   "ko": "이 병의 용량은 1리터야."
+  },
+  {
+   "word": "caption",
+   "pos": "명사",
+   "meaning": "(사진·영상의) 설명 문구, 자막",
+   "en": "Write a funny caption for this photo.",
+   "ko": "이 사진에 재밌는 설명 문구를 달아 봐."
+  },
+  {
+   "word": "accept",
+   "pos": "동사",
+   "meaning": "받아들이다",
+   "en": "She accepted the invitation to the party.",
+   "ko": "그녀는 파티 초대를 받아들였어."
+  }
+ ],
+ "imageSense": "대표 의미: 카메라로 날아가는 새의 순간을 찰칵 포착하는 장면",
+ "imageCaption": "날아오르는 새를 향해 셔터를 누르는 순간을 떠올려 보세요. 순간을 '잡는' 게 capture예요.",
+ "movieLineEn": "Smile! I'm going to capture this moment forever.",
+ "movieLineKo": "웃어! 이 순간을 영원히 담아 둘 거야.",
+ "storyTitle": "나비 사냥꾼",
+ "story": "사진 동아리 하윤이는 희귀한 나비를 capture(포착하다)하려고 숲에 숨었어요. 나비의 날갯짓이 하윤이를 captivate(매혹하다)했죠. 셔터를 누르는 순간 나비가 렌즈에 앉았어요! 사진엔 나비 다리만 찍혔지만, 'ZOOM 100%'라는 caption(설명 문구)을 달자 그 사진이 대회 1등을 했답니다."
+}

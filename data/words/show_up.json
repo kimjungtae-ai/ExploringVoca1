@@ -1,0 +1,68 @@
+{
+ "word": "show up",
+ "pos": "구동사",
+ "phonetic": "[ʃoʊ ʌp]",
+ "meaning": "나타나다, (모임에) 오다, 드러나다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "show",
+   "meaning": "보이다 (show)",
+   "note": "눈에 '보이게 하다, 보이다'라는 뜻이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "위로, 드러나게 (up)",
+   "note": "수면 위로 '떠오르듯' 눈앞에 나타나는 이미지예요."
+  }
+ ],
+ "summary": "<strong>show</strong> (보이다) + <strong>up</strong> (위로 드러나게) = '눈앞에 떠올라 보이다'에서 <strong>'나타나다, 오다'</strong>가 되었어요.",
+ "historyTitle": "떠올라 보이는 그림",
+ "historyBody": "show는 고대 영어 'scēawian(보다, 살피다)'에서 왔는데, 처음엔 '보다'였다가 나중에 '보여 주다'라는 뜻이 되었어요. 여기에 '드러나게'라는 up이 붙어 '모습을 드러내다', 즉 '나타나다'가 되었어요. 약속 장소에 '오다'라는 뜻으로 일상에서 정말 자주 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "turn up",
+   "pos": "구동사",
+   "meaning": "나타나다, 소리를 높이다",
+   "en": "Only ten people turned up for the meeting.",
+   "ko": "회의에 열 명만 나타났어요."
+  },
+  {
+   "word": "appear",
+   "pos": "동사",
+   "meaning": "나타나다",
+   "en": "A rainbow appeared after the rain.",
+   "ko": "비가 온 뒤 무지개가 나타났어요."
+  },
+  {
+   "word": "show off",
+   "pos": "구동사",
+   "meaning": "자랑하다, 뽐내다",
+   "en": "He likes to show off his new phone.",
+   "ko": "그는 새 휴대폰을 자랑하는 걸 좋아해요."
+  },
+  {
+   "word": "no-show",
+   "pos": "명사",
+   "meaning": "노쇼, 나타나지 않는 사람",
+   "en": "Restaurants lose money because of no-shows.",
+   "ko": "식당들은 노쇼 때문에 손해를 봐요."
+  },
+  {
+   "word": "come up",
+   "pos": "구동사",
+   "meaning": "생기다, 다가오다",
+   "en": "A problem came up at the last minute.",
+   "ko": "마지막 순간에 문제가 생겼어요."
+  }
+ ],
+ "imageSense": "대표 의미: 약속 시간에 친구가 문을 열고 '짠' 하고 나타나는 장면",
+ "imageCaption": "카페에서 기다리는데 문이 열리고 친구가 손을 흔들며 들어오는 순간을 떠올려 보세요. 드디어 '나타난' 거예요.",
+ "movieLineEn": "You actually showed up. I didn't think you would.",
+ "movieLineKo": "너 진짜 왔구나. 안 올 줄 알았어.",
+ "storyTitle": "약속의 달인",
+ "story": "민지는 늘 약속 시간에 30분씩 늦게 show up(나타나다)했어요. 친구들은 '이번에도 no-show(노쇼)야?'라며 투덜댔죠. 그래서 이번엔 1시간 일찍 turn up(나타나다)해서 show off(자랑하다)하려 했어요. 그런데 아무도 안 왔어요. 약속은 어제였거든요!"
+}

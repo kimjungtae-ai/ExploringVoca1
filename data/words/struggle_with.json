@@ -1,0 +1,68 @@
+{
+ "word": "struggle with",
+ "pos": "구동사",
+ "phonetic": "[ˈstrʌɡl wɪð]",
+ "meaning": "~으로 고생하다, ~와 씨름하다, ~에 어려움을 겪다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "struggle",
+   "meaning": "몸부림치다, 애쓰다 (struggle)",
+   "note": "벗어나려고 힘껏 버둥거리는 모습이에요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "with",
+   "meaning": "~와, ~을 가지고 (with)",
+   "note": "씨름하는 상대나 문제를 이어 줘요."
+  }
+ ],
+ "summary": "<strong>struggle</strong> (몸부림치다) + <strong>with</strong> (~와) = '~와 맞붙어 버둥거리다'에서 <strong>'~으로 고생하다, ~와 씨름하다'</strong>",
+ "historyTitle": "어원이 확실하지 않은 struggle",
+ "historyBody": "struggle은 14세기 후반 중세 영어 strogelen에서 처음 보이는데, 정확한 기원은 알려져 있지 않아요. 스칸디나비아어에서 왔을 가능성이 제기되지만 확실하지 않으니 '몸부림'이라는 이미지로만 기억해 두세요. with와 함께 쓰여 어떤 문제와 맞붙어 힘들게 애쓴다는 뜻을 나타내요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "struggle",
+   "pos": "명사 / 동사",
+   "meaning": "투쟁, 분투 / 애쓰다",
+   "en": "Learning a new language can be a real struggle.",
+   "ko": "새로운 언어를 배우는 것은 정말 힘든 일일 수 있어요."
+  },
+  {
+   "word": "deal with",
+   "pos": "구동사",
+   "meaning": "~을 다루다, 처리하다",
+   "en": "She knows how to deal with stress.",
+   "ko": "그녀는 스트레스를 다루는 법을 알아요."
+  },
+  {
+   "word": "cope with",
+   "pos": "구동사",
+   "meaning": "~에 대처하다",
+   "en": "Many families cope with rising prices.",
+   "ko": "많은 가정이 오르는 물가에 대처하고 있어요."
+  },
+  {
+   "word": "suffer from",
+   "pos": "구동사",
+   "meaning": "~으로 고통받다",
+   "en": "He suffers from a bad cold.",
+   "ko": "그는 심한 감기로 고생하고 있어요."
+  },
+  {
+   "word": "wrestle with",
+   "pos": "구동사",
+   "meaning": "~와 씨름하다",
+   "en": "I wrestled with the math problem for an hour.",
+   "ko": "나는 그 수학 문제와 한 시간 동안 씨름했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 어려운 수학 문제 앞에서 머리를 감싸 쥐고 씨름하는 장면",
+ "imageCaption": "문제집과 레슬링하듯 엎치락뒤치락 맞붙는 학생을 떠올려 보세요.",
+ "movieLineEn": "Everyone struggles with something. You're not alone.",
+ "movieLineKo": "누구나 뭔가로 힘들어해. 너만 그런 게 아니야.",
+ "storyTitle": "병뚜껑과의 전쟁",
+ "story": "태호는 아침부터 잼 병뚜껑과 struggle with(~와 씨름하다)했어요. 손목으로 wrestle with(~와 씨름하다)하고 고무장갑으로 cope with(~에 대처하다)해 봐도 꿈쩍 안 했죠. 결국 팔 근육통에 suffer from(~으로 고통받다)하게 됐어요. 그때 동생이 와서 뚜껑을 반대로 돌리자 쏙 열렸답니다!"
+}

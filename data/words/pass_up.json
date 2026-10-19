@@ -1,0 +1,68 @@
+{
+ "word": "pass up",
+ "pos": "구동사",
+ "phonetic": "[pæs ʌp]",
+ "meaning": "(기회 등을) 놓치다, 거절하다, 포기하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "pass",
+   "meaning": "지나가다, 넘기다 (pass)",
+   "note": "라틴어 passus(걸음)에서 온 말로 '지나쳐 가다'예요."
+  },
+  {
+   "type": "연결어 (Particle)",
+   "part": "up",
+   "meaning": "완전히 (up)",
+   "note": "여기서 up은 '완전히, 끝까지'라는 강조의 느낌이에요."
+  }
+ ],
+ "summary": "<strong>pass</strong> (지나쳐 가다) + <strong>up</strong> (완전히) = '기회를 잡지 않고 완전히 지나쳐 보내다'에서 <strong>'(기회를) 놓치다, 거절하다'</strong>",
+ "historyTitle": "'걸음'에서 온 pass",
+ "historyBody": "pass는 라틴어 passus(걸음)에서 고대 프랑스어 passer(지나가다)를 거쳐 왔어요. 'pass up'은 다가온 기회를 붙잡지 않고 그냥 지나가게 둔다는 뜻으로, 주로 'pass up a chance(기회를 놓치다)'처럼 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "pass by",
+   "pos": "구동사",
+   "meaning": "지나가다",
+   "en": "Time passes by so quickly.",
+   "ko": "시간이 정말 빨리 지나가요."
+  },
+  {
+   "word": "pass away",
+   "pos": "구동사",
+   "meaning": "돌아가시다",
+   "en": "Her grandfather passed away last spring.",
+   "ko": "그녀의 할아버지는 지난봄에 돌아가셨어요."
+  },
+  {
+   "word": "pass on",
+   "pos": "구동사",
+   "meaning": "전달하다, 물려주다",
+   "en": "Please pass on this message to your parents.",
+   "ko": "이 메시지를 부모님께 전해 주세요."
+  },
+  {
+   "word": "miss out on",
+   "pos": "구동사",
+   "meaning": "~을 놓치다",
+   "en": "Don't miss out on the free concert.",
+   "ko": "무료 콘서트를 놓치지 마세요."
+  },
+  {
+   "word": "turn down",
+   "pos": "구동사",
+   "meaning": "거절하다",
+   "en": "He turned down the job offer.",
+   "ko": "그는 일자리 제안을 거절했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 눈앞에 온 기회를 손 흔들며 그냥 보내는 장면",
+ "imageCaption": "내 앞에 멈춘 버스를 타지 않고 손을 흔들며 보내는 모습을 떠올려 보세요.",
+ "movieLineEn": "A deal like this? I'd never pass it up.",
+ "movieLineKo": "이런 거래를? 난 절대 안 놓쳐.",
+ "storyTitle": "놓친 기회, 잡은 기회",
+ "story": "아이돌 기획사 오디션 제안을 받은 지수는 수능 때문에 pass up(거절하다)했어요. 친구들은 아쉬워했죠. 지수는 \"기회를 turn down(거절하다)한 게 아니라 미룬 거야\"라고 말했어요. 수능 후, 그 기획사 사장님이 직접 찾아왔어요. 이번엔 miss out on(놓치다)하지 않았죠!"
+}

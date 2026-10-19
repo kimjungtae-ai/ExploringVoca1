@@ -1,0 +1,67 @@
+{
+ "word": "uprooted",
+ "pos": "형용사 / 동사",
+ "phonetic": "[ʌpˈruːtɪd]",
+ "meaning": "뿌리째 뽑힌, 삶의 터전을 잃은 / 뿌리째 뽑았다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "up-",
+   "meaning": "위로, 완전히 (up)",
+   "note": "위쪽 방향이나 '끝까지, 완전히'라는 느낌을 더해요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "root",
+   "meaning": "뿌리 (root)",
+   "note": "고대 노르드어 rót(뿌리)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ed",
+   "meaning": "~된 (과거분사·형용사형)",
+   "note": "어떤 일을 당한 상태를 나타내요."
+  }
+ ],
+ "summary": "<strong>up</strong> (위로) + <strong>root</strong> (뿌리) + <strong>-ed</strong> (~된) = 뿌리가 위로 뽑힌, 즉 <strong>'뿌리째 뽑힌, 터전을 잃은'</strong>이 되었어요.",
+ "historyTitle": "바이킹이 남긴 뿌리",
+ "historyBody": "root는 바이킹의 고대 노르드어 'rót(뿌리)'가 영어로 들어온 말이에요. 아주 먼 옛날 같은 인도유럽어 뿌리에서 라틴어 radix(뿌리)도 나왔다고 해요. uproot는 원래 나무를 뿌리째 뽑는다는 뜻인데, 사람에게 쓰면 '살던 곳을 떠나 삶의 터전을 잃다'라는 뜻이 된답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "root",
+   "pos": "명사 / 동사",
+   "meaning": "뿌리, 근원 / 뿌리를 내리다",
+   "en": "The root of the problem is a lack of sleep.",
+   "ko": "그 문제의 근원은 수면 부족이에요."
+  },
+  {
+   "word": "rooted",
+   "pos": "형용사",
+   "meaning": "뿌리박힌, 깊이 자리 잡은",
+   "en": "This custom is deeply rooted in Korean culture.",
+   "ko": "이 풍습은 한국 문화에 깊이 뿌리박혀 있어요."
+  },
+  {
+   "word": "uproot",
+   "pos": "동사",
+   "meaning": "뿌리째 뽑다, 터전을 떠나게 하다",
+   "en": "The storm uprooted several old trees.",
+   "ko": "폭풍이 오래된 나무 몇 그루를 뿌리째 뽑았어요."
+  },
+  {
+   "word": "grassroots",
+   "pos": "형용사 / 명사",
+   "meaning": "풀뿌리의, 민중의 / 일반 대중",
+   "en": "A grassroots campaign helped clean up the river.",
+   "ko": "시민들의 풀뿌리 운동이 강을 깨끗하게 하는 데 도움이 되었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 태풍에 뿌리째 뽑혀 쓰러진 큰 나무",
+ "imageCaption": "태풍이 지나간 뒤 뿌리까지 드러낸 채 쓰러진 큰 나무를 떠올려 보세요. 사람에게 쓰면 고향을 떠난 마음이에요.",
+ "movieLineEn": "War uprooted us, but it can't destroy our hope.",
+ "movieLineKo": "전쟁이 우리를 고향에서 몰아냈지만, 우리의 희망은 무너뜨릴 수 없어.",
+ "storyTitle": "당근 뽑기 대회",
+ "story": "농장 당근 뽑기 대회가 열렸어요. 할머니는 깊이 rooted(뿌리박힌) 당근을 한 번에 uproot(뿌리째 뽑다)하셨죠. 그런데 uprooted(뿌리째 뽑힌) 당근 끝에 다른 당근이, 또 그 끝에 당근이! 결국 당근 백 개가 줄줄이 딸려 나왔어요. 알고 보니 모두 한 root(뿌리)로 연결된 당근 가족이었답니다."
+}

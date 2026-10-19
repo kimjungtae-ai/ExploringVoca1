@@ -1,0 +1,55 @@
+{
+ "word": "blade",
+ "pos": "명사",
+ "phonetic": "[bleɪd]",
+ "meaning": "(칼 등의) 날, 잎, (풀의) 잎사귀",
+ "isDifficultToSplit": true,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "blade (← blæd)",
+   "meaning": "잎 (leaf)",
+   "note": "고대 영어 blæd는 '잎, 노의 넓적한 부분'을 뜻했어요."
+  }
+ ],
+ "summary": "<strong>blade</strong>는 고대 영어 <strong>blæd</strong>(잎)에서 와서, 잎처럼 얇고 납작한 모양 때문에 <strong>'칼날'</strong>까지 뜻하게 되었어요.",
+ "historyTitle": "풀잎에서 칼날로",
+ "historyBody": "고대 영어 blæd는 원래 '잎'이나 '노의 넓적한 부분'을 뜻했어요. 얇고 납작한 잎 모양이 닮았다는 이유로 14세기쯤부터 칼이나 도구의 '날'을 가리키게 되었어요. 어원 사전에 따르면 '꽃피다, 무성하다'라는 인도유럽어 뿌리와 연결되며, bloom(꽃피다)과 먼 친척이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "bloom",
+   "pos": "동사 / 명사",
+   "meaning": "꽃이 피다 / 꽃",
+   "en": "Cherry blossoms bloom in early April in Seoul.",
+   "ko": "서울에서는 4월 초에 벚꽃이 피어요."
+  },
+  {
+   "word": "blossom",
+   "pos": "명사 / 동사",
+   "meaning": "(나무의) 꽃 / 꽃피다",
+   "en": "The apple tree was covered in white blossoms.",
+   "ko": "사과나무가 하얀 꽃으로 뒤덮여 있었어."
+  },
+  {
+   "word": "flower",
+   "pos": "명사",
+   "meaning": "꽃",
+   "en": "She gave her mom a bunch of flowers.",
+   "ko": "그녀는 엄마에게 꽃 한 다발을 드렸어."
+  },
+  {
+   "word": "flourish",
+   "pos": "동사",
+   "meaning": "번성하다, 잘 자라다",
+   "en": "Small businesses flourish when people shop locally.",
+   "ko": "사람들이 동네에서 장을 보면 작은 가게들이 번창해요."
+  }
+ ],
+ "imageSense": "대표 의미: 햇빛에 반짝이는 날카로운 칼날과 가느다란 풀잎",
+ "imageCaption": "얇고 납작한 풀잎과 반짝이는 칼날을 나란히 떠올려 보세요. 모양이 닮아서 같은 단어가 되었어요.",
+ "movieLineEn": "Careful! That blade is sharper than it looks.",
+ "movieLineKo": "조심해! 그 칼날은 보기보다 훨씬 날카로워.",
+ "storyTitle": "풀잎 검객",
+ "story": "꼬마 기사 준이는 진짜 칼 대신 blade(풀잎)를 칼처럼 휘둘렀어요. 봄이 와 꽃이 bloom(피다)하고 blossom(꽃)이 흩날리자 기사 흉내가 더 신났죠. '이 flower(꽃)를 지키겠다!' 외쳤는데, 꽃을 지키던 벌이 먼저 준이를 쫓아냈답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "fire alarm",
+ "pos": "명사구",
+ "phonetic": "[ˈfaɪər əlɑːrm]",
+ "meaning": "화재 경보(기)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "fire",
+   "meaning": "불, 화재 (fire)",
+   "note": "어떤 위험인지 알려 주는 말이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "alarm",
+   "meaning": "경보 (alarm)",
+   "note": "이탈리아어 all'arme(무기를 들어라!)에서 온 말이에요."
+  }
+ ],
+ "summary": "<strong>fire</strong> (화재) + <strong>alarm</strong> (경보) = '불이 났음을 알리는 경보'라서 <strong>'화재 경보기'</strong>예요.",
+ "historyTitle": "\"무기를 들어라!\"에서 온 alarm",
+ "historyBody": "fire는 고대 영어 fyr에서 온 아주 오래된 게르만어로, 그리스어 pyr(불)와도 먼 친척이에요. alarm은 이탈리아어 all'arme(무기를 들라!)라는 외침이 프랑스어를 거쳐 들어온 말이에요. 적이 쳐들어올 때 외치던 소리가 '경보'라는 뜻이 된 거예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "alarm clock",
+   "pos": "명사구",
+   "meaning": "자명종, 알람 시계",
+   "en": "My alarm clock didn't ring this morning.",
+   "ko": "오늘 아침 내 알람 시계가 울리지 않았어요."
+  },
+  {
+   "word": "fire drill",
+   "pos": "명사구",
+   "meaning": "소방 훈련",
+   "en": "We had a fire drill at school today.",
+   "ko": "오늘 학교에서 소방 훈련을 했어요."
+  },
+  {
+   "word": "smoke detector",
+   "pos": "명사구",
+   "meaning": "연기 감지기",
+   "en": "Check the battery in your smoke detector.",
+   "ko": "연기 감지기 배터리를 확인하세요."
+  },
+  {
+   "word": "go off",
+   "pos": "구동사",
+   "meaning": "(경보가) 울리다",
+   "en": "The fire alarm went off during lunch.",
+   "ko": "점심시간에 화재 경보가 울렸어요."
+  },
+  {
+   "word": "alarming",
+   "pos": "형용사",
+   "meaning": "걱정스러운, 놀라운",
+   "en": "The number of wild animals is falling at an alarming rate.",
+   "ko": "야생 동물의 수가 걱정스러운 속도로 줄고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 천장의 빨간 경보기가 요란하게 울리는 장면",
+ "imageCaption": "'따르르릉!' 소리에 모두 계단으로 대피하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Someone pulled the fire alarm! Everybody out!",
+ "movieLineKo": "누가 화재 경보기를 눌렀어! 다들 나가!",
+ "storyTitle": "생선구이 대소동",
+ "story": "아빠가 생선을 굽자 연기가 가득 찼어요. 곧 smoke detector(연기 감지기)가 반응하고 fire alarm(화재 경보)이 go off(울리다)했죠! 온 아파트 사람들이 fire drill(소방 훈련)처럼 밖으로 나왔어요. 정말 alarming(놀라운) 상황이었죠. 그런데 소방관 아저씨가 생선 냄새를 맡더니 말했어요. \"저도 한 조각만 주세요.\""
+}

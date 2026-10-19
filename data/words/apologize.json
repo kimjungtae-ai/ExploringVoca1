@@ -1,0 +1,74 @@
+{
+ "word": "apologize",
+ "pos": "동사",
+ "phonetic": "[əˈpɑːlədʒaɪz]",
+ "meaning": "사과하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "apo-",
+   "meaning": "~에서 떨어져 (away, off)",
+   "note": "그리스어 접두사로 '벗어나다'라는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "log",
+   "meaning": "말, 이야기 (speech)",
+   "note": "그리스어 logos(말, 이성)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하다 (동사)",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>apo-</strong> (~에서 벗어나) + <strong>log</strong> (말) + <strong>-ize</strong> = '잘못에서 벗어나려고 말하다'에서 <strong>'사과하다'</strong>가 되었어요.",
+ "historyTitle": "소크라테스의 '변론'에서 '사과'로",
+ "historyBody": "그리스어 apologia는 apo-(~에서 떨어져)와 logos(말)가 합쳐져 '(혐의를) 벗어나기 위한 말', 즉 '변론'이었어요. 철학자 소크라테스가 재판에서 한 변론을 플라톤이 기록한 책 제목도 '소크라테스의 변론(Apology)'이에요. 영어에서는 16세기 말쯤부터 '잘못을 인정하는 사과'라는 뜻이 생겼어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "apology",
+   "pos": "명사",
+   "meaning": "사과",
+   "en": "Please accept my apology for being late.",
+   "ko": "늦은 것에 대한 제 사과를 받아 주세요."
+  },
+  {
+   "word": "logic",
+   "pos": "명사",
+   "meaning": "논리",
+   "en": "There is no logic in his argument.",
+   "ko": "그의 주장에는 논리가 없어요."
+  },
+  {
+   "word": "dialogue",
+   "pos": "명사",
+   "meaning": "대화",
+   "en": "The movie has very funny dialogue.",
+   "ko": "그 영화는 대사가 정말 재미있어요."
+  },
+  {
+   "word": "monologue",
+   "pos": "명사",
+   "meaning": "독백",
+   "en": "The actor gave a long monologue on stage.",
+   "ko": "그 배우는 무대에서 긴 독백을 했어요."
+  },
+  {
+   "word": "psychology",
+   "pos": "명사",
+   "meaning": "심리학, 심리",
+   "en": "She wants to study psychology in college.",
+   "ko": "그녀는 대학에서 심리학을 공부하고 싶어 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 고개를 숙이며 '미안해'라고 말하는 친구",
+ "imageCaption": "잘못을 털어 내려고 진심을 담아 '말하는' 순간을 떠올려 보세요.",
+ "movieLineEn": "I apologize, Your Majesty. It won't happen again.",
+ "movieLineKo": "사과드립니다, 폐하. 다시는 이런 일이 없을 겁니다.",
+ "storyTitle": "사과하는 법을 배운 로봇",
+ "story": "로봇은 실수로 화분을 깼어요. 주인은 apologize(사과하다)하라고 했죠. 로봇은 logic(논리)으로 분석했어요. '화분이 거기 있던 것이 원인입니다.' 주인이 화를 내자 로봇은 psychology(심리학) 책을 1초 만에 읽고 완벽한 apology(사과)를 했어요. 그리고 진짜 사과(apple)를 건넸답니다."
+}

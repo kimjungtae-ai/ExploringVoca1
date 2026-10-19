@@ -1,0 +1,61 @@
+{
+ "word": "dresser",
+ "pos": "명사",
+ "phonetic": "[ˈdresər]",
+ "meaning": "(서랍 달린) 옷장, 화장대, (부엌의) 찬장 / 옷 입는 사람",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "dress",
+   "meaning": "옷을 입다, 갖추다 (arrange)",
+   "note": "고대 프랑스어 drecier(바로 세우다, 정돈하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-er",
+   "meaning": "~하는 것/사람",
+   "note": "'~하는 가구나 사람'을 만드는 꼬리표예요."
+  }
+ ],
+ "summary": "<strong>dress</strong> (갖추다, 옷 입다) + <strong>-er</strong> (~하는 것) = '정돈하는 가구'라는 뜻에서 <strong>'옷장, 화장대'</strong>가 되었어요.",
+ "historyTitle": "부엌 찬장에서 침실 옷장으로",
+ "historyBody": "dress는 고대 프랑스어 drecier(바로 세우다, 정돈하다)에서 왔고, 라틴어 directus(곧은)와 관련 있어요. dresser는 원래 부엌에서 음식을 '손질하는(dress)' 찬장을 뜻했답니다. 미국에서는 나중에 침실의 서랍장이나 거울 달린 화장대를 가리키게 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "dress",
+   "pos": "동사/명사",
+   "meaning": "옷을 입다 / 드레스, 옷",
+   "en": "She dressed quickly and ran to school.",
+   "ko": "그녀는 서둘러 옷을 입고 학교로 뛰어갔어요."
+  },
+  {
+   "word": "address",
+   "pos": "명사/동사",
+   "meaning": "주소 / 연설하다, (문제를) 다루다",
+   "en": "We must address the problem of plastic waste.",
+   "ko": "우리는 플라스틱 쓰레기 문제를 다뤄야 해요."
+  },
+  {
+   "word": "direct",
+   "pos": "형용사/동사",
+   "meaning": "직접의 / 지시하다, 감독하다",
+   "en": "There is no direct flight to that small city.",
+   "ko": "그 작은 도시로 가는 직항편은 없어요."
+  },
+  {
+   "word": "hairdresser",
+   "pos": "명사",
+   "meaning": "미용사",
+   "en": "My hairdresser suggested a shorter style.",
+   "ko": "내 미용사가 더 짧은 스타일을 추천해 줬어요."
+  }
+ ],
+ "imageSense": "대표 의미: 거울이 달린 서랍장 위에 화장품이 놓인 침실",
+ "imageCaption": "옷이 차곡차곡 접혀 있는 서랍장과 그 위의 거울을 떠올려 보세요.",
+ "movieLineEn": "Check the dresser. She always hides letters there.",
+ "movieLineKo": "서랍장을 확인해. 그녀는 늘 거기에 편지를 숨겨.",
+ "storyTitle": "서랍장 속 비밀 쪽지",
+ "story": "할머니의 낡은 dresser(서랍장)를 정리하다가 쪽지를 발견했어요. 할아버지의 옛 address(주소)와 함께 \"내일 하얀 dress(드레스)를 입고 나와요\"라고 적혀 있었죠. 알고 보니 할아버지는 동네 hairdresser(미용사)였고, 할머니의 머리를 해 주다가 반했대요! 서랍장은 사랑의 박물관이었답니다."
+}

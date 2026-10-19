@@ -1,0 +1,75 @@
+{
+ "word": "involve",
+ "pos": "동사",
+ "phonetic": "[ɪnˈvɑːlv]",
+ "meaning": "포함하다, 수반하다, 관련시키다, 참여시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안으로 (into)",
+   "note": "무엇인가를 안쪽으로 감싸 넣는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "volve",
+   "meaning": "굴리다, 말다 (roll)",
+   "note": "라틴어 volvere(굴리다, 감다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안으로) + <strong>volve</strong> (말다, 굴리다) = '안으로 말아 넣다'에서 <strong>'포함하다, 관련시키다'</strong>가 되었어요.",
+ "historyTitle": "두루마리처럼 말아 넣던 라틴어",
+ "historyBody": "involve는 라틴어 involvere('안으로 말다, 감싸다')에서 왔어요. 처음에는 무엇인가를 감싸거나 휘감는다는 뜻이었는데, 사람이나 일을 어떤 상황 안으로 '말아 넣는다'는 뜻으로 넓어져 '관련시키다, 포함하다'가 되었답니다. 같은 volvere에서 revolve, evolve가 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "involvement",
+   "pos": "명사",
+   "meaning": "관여, 참여",
+   "en": "Parents' involvement in school events helps children.",
+   "ko": "학교 행사에 부모가 참여하는 것은 아이들에게 도움이 돼요."
+  },
+  {
+   "word": "evolve",
+   "pos": "동사",
+   "meaning": "진화하다, 발전하다",
+   "en": "Birds are believed to have evolved from dinosaurs.",
+   "ko": "새들은 공룡에서 진화했다고 여겨져요."
+  },
+  {
+   "word": "evolution",
+   "pos": "명사",
+   "meaning": "진화, 발전",
+   "en": "Darwin wrote about the evolution of living things.",
+   "ko": "다윈은 생물의 진화에 대해 썼어요."
+  },
+  {
+   "word": "revolve",
+   "pos": "동사",
+   "meaning": "회전하다, 돌다",
+   "en": "The Earth revolves around the Sun once a year.",
+   "ko": "지구는 1년에 한 번 태양 주위를 돌아요."
+  },
+  {
+   "word": "revolution",
+   "pos": "명사",
+   "meaning": "혁명, 회전",
+   "en": "The Industrial Revolution changed how people worked.",
+   "ko": "산업 혁명은 사람들이 일하는 방식을 바꾸었어요."
+  },
+  {
+   "word": "volume",
+   "pos": "명사",
+   "meaning": "책(권), 부피, 음량",
+   "en": "Please turn down the volume of the TV.",
+   "ko": "텔레비전 음량을 좀 줄여 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 혼자 구경하던 친구를 손잡아 놀이 안으로 끌어들이는 장면",
+ "imageCaption": "돌돌 말린 김밥 속으로 재료가 쏙쏙 들어가듯, 사람이나 일이 어떤 일 안으로 말려 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "I don't want to get involved in your crazy plan.",
+ "movieLineKo": "난 네 엉뚱한 계획에 휘말리고 싶지 않아.",
+ "storyTitle": "김밥 동아리의 비밀",
+ "story": "김밥 동아리는 모든 학생을 involve(참여시키다)하고 싶었어요. 학생들의 involvement(참여)가 늘자 동아리는 쑥쑥 evolve(발전하다)했죠. 김밥 말기 기술은 거의 revolution(혁명)이었어요. 그런데 축제 날, 너무 커진 김밥이 운동장을 revolve(돌다)하며 굴러가 버렸답니다!"
+}

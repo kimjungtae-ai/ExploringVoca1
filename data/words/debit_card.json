@@ -1,0 +1,68 @@
+{
+ "word": "debit card",
+ "pos": "명사구",
+ "phonetic": "[ˈdebɪt kɑːrd]",
+ "meaning": "직불 카드, 체크 카드",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "수식어 (Modifier)",
+   "part": "debit",
+   "meaning": "인출, 차변 (debit)",
+   "note": "라틴어 debitum(빚, 갚아야 할 것)에서 온 말로, 계좌에서 빠져나가는 돈이에요."
+  },
+  {
+   "type": "핵심 단어 (Key word)",
+   "part": "card",
+   "meaning": "카드 (card)",
+   "note": "얇고 납작한 플라스틱이나 종이 조각이에요."
+  }
+ ],
+ "summary": "<strong>debit</strong> (계좌에서 빠져나감) + <strong>card</strong> (카드) = '쓰는 즉시 내 계좌에서 돈이 빠져나가는 카드'에서 <strong>'직불 카드(체크 카드)'</strong>",
+ "historyTitle": "'빚'에서 온 debit",
+ "historyBody": "debit은 라틴어 'debitum(빚, 갚아야 할 것)'에서 왔고, debt(빚)와 같은 뿌리예요. 회계 장부에서 나가는 돈을 적는 칸을 debit이라 부르게 됐죠. card는 그리스어 'chartēs(파피루스 종이)'에서 라틴어 charta를 거쳐 왔고, chart(도표)도 같은 가족이에요. 우리말 '체크 카드'는 영어로 debit card라고 해야 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "credit card",
+   "pos": "명사구",
+   "meaning": "신용 카드",
+   "en": "He paid for the dinner with a credit card.",
+   "ko": "그는 신용 카드로 저녁값을 냈어."
+  },
+  {
+   "word": "debt",
+   "pos": "명사",
+   "meaning": "빚, 부채",
+   "en": "She finally paid off all her debts.",
+   "ko": "그녀는 마침내 빚을 다 갚았어."
+  },
+  {
+   "word": "bank account",
+   "pos": "명사구",
+   "meaning": "은행 계좌",
+   "en": "I opened my first bank account at 16.",
+   "ko": "나는 16살에 첫 은행 계좌를 만들었어."
+  },
+  {
+   "word": "cash",
+   "pos": "명사",
+   "meaning": "현금",
+   "en": "Do you pay by card or in cash?",
+   "ko": "카드로 계산하세요, 현금으로 하세요?"
+  },
+  {
+   "word": "withdraw",
+   "pos": "동사",
+   "meaning": "(돈을) 인출하다",
+   "en": "I withdrew some money from the ATM.",
+   "ko": "나는 현금 인출기에서 돈을 좀 뽑았어."
+  }
+ ],
+ "imageSense": "대표 의미: 계산대에서 카드를 단말기에 대자 휴대폰에 잔액 알림이 뜨는 장면",
+ "imageCaption": "카드를 찍자마자 '잔액 3,000원' 문자가 오는 순간을 떠올려 보세요.",
+ "movieLineEn": "Sorry, my debit card was declined. I'm broke.",
+ "movieLineKo": "미안, 체크 카드 결제가 거절됐어. 나 빈털터리야.",
+ "storyTitle": "체크 카드의 진실",
+ "story": "용돈을 받은 하은이는 처음으로 debit card(체크 카드)를 만들었어요. bank account(은행 계좌)에 돈이 있으니 credit card(신용 카드)처럼 debt(빚)는 생기지 않죠. 하은이는 신나서 떡볶이를 샀어요. 그런데 결제가 안 됐어요! 알고 보니 용돈은 아직 엄마 지갑 속 cash(현금)로 들어 있었답니다."
+}
