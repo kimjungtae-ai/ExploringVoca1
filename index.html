@@ -606,22 +606,25 @@
       try { if (window.lucide) window.lucide.createIcons(); } catch (e) { console.warn("icons", e); }
     }
 
-    function renderSvgPlaceholder(word) {
+    function renderSvgPlaceholder(word, sense) {
       const spinner = document.getElementById("imageLoadingSpinner");
       const imgTag = document.getElementById("wordMainImage");
       const svgBox = document.getElementById("wordSvgPlaceholder");
+      const scene = String(sense || (currentWordData && currentWordData.imageSense) || "")
+        .replace(/^\s*대표 의미\s*:\s*/, "").replace(/[<>&]/g, "");
 
       if (spinner) spinner.classList.add("hidden");
       if (imgTag) imgTag.classList.add("hidden");
       if (svgBox) {
         svgBox.classList.remove("hidden");
         svgBox.innerHTML = `
-          <div class="flex flex-col items-center justify-center space-y-2">
+          <div class="flex flex-col items-center justify-center space-y-3">
             <div class="w-16 h-16 rounded-2xl bg-gradient-to-tr from-sky-300 to-mint-300 flex items-center justify-center text-white text-2xl shadow-sm">
-              🖼️
+              🎬
             </div>
-            <span class="text-sm font-bold font-en text-slate-800">${word || '단어 이미지'}</span>
-            <p class="text-xs text-slate-500">아래 버튼으로 Google 이미지 결과를 확인해 보세요!</p>
+            <span class="text-lg font-bold font-en text-slate-800">${(word || "").replace(/[<>&]/g, "")}</span>
+            ${scene ? `<p class="text-sm text-slate-700 leading-relaxed">${scene}</p>` : ""}
+            <p class="text-[11px] text-slate-400">이 장면을 머릿속에 그려 보세요. 사진은 아래 버튼으로 볼 수 있어요.</p>
           </div>
         `;
       }
@@ -954,45 +957,76 @@
 
       const cleanWord = (word || "").trim().toLowerCase();
 
-      // Bind safe event handlers directly to the image object
-      imgTag.onload = () => {
-        if (spinner) spinner.classList.add("hidden");
-        if (imgTag) imgTag.classList.remove("hidden");
-      };
-      imgTag.onerror = () => {
-        handleImageLoadError();
-      };
+      // 이전 그림의 처리기를 떼고 주소를 비움. 같은 주소를 다시 넣으면 onload가 안 불려 계속 돌기 때문.
+      imgTag.onload = imgTag.onerror = null;
+      imgTag.removeAttribute("src");
 
-      // Check if we have a curated high-res photo for the word
-      if (CURATED_IMAGE_RESOURCES[cleanWord]) {
-        imageRequestToken++;
-        imgTag.src = CURATED_IMAGE_RESOURCES[cleanWord];
-        return;
-      }
-
-      // 단어마다 Wikimedia Commons(자유 이용 사진)에서 찾아 보여 줌. 못 찾으면 글자 그림으로.
+      // 단어마다 Wikipedia 대표 사진 → Wikimedia Commons 검색 순으로 찾아 보여 줌.
+      // 못 찾거나 느리거나 사진이 깨지면 장면 설명 카드로 바꿔서, 상자가 비거나 계속 돌지 않게 함.
       const token = ++imageRequestToken;
-      findCommonsImage(cleanWord).then(url => {
+      const fallback = () => { if (token === imageRequestToken) renderSvgPlaceholder(cleanWord, senseDescription); };
+      imgTag.onerror = fallback;
+      const guard = setTimeout(fallback, 12000);
+      imgTag.onload = () => {
+        clearTimeout(guard);
+        if (token !== imageRequestToken) return;
+        if (spinner) spinner.classList.add("hidden");
+        imgTag.classList.remove("hidden");
+      };
+      findWordImage(cleanWord).then(url => {
         if (token !== imageRequestToken) return;  // 그사이 다른 단어를 찾았으면 무시
         if (url) imgTag.src = url;
-        else renderSvgPlaceholder(cleanWord);
-      });
+        else { clearTimeout(guard); fallback(); }
+      }).catch(() => { clearTimeout(guard); fallback(); });
     }
 
     let imageRequestToken = 0;
-    async function findCommonsImage(query) {
-      const api = "https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*"
-        + "&generator=search&gsrnamespace=6&gsrlimit=10&gsrsearch=" + encodeURIComponent(query + " filetype:bitmap")
-        + "&prop=imageinfo&iiprop=url|mime&iiurlwidth=600";
+    const imageCache = {};
+
+    async function fetchJson(url, ms) {
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), ms);
       try {
-        const res = await fetch(api);
-        if (!res.ok) return null;
-        const pages = Object.values(((await res.json()).query || {}).pages || {}).sort((a, b) => a.index - b.index);
-        for (const p of pages) {
-          const info = p.imageinfo && p.imageinfo[0];
-          if (info && /image\/(jpeg|png)/.test(info.mime) && info.thumburl) return info.thumburl;
-        }
-      } catch (e) {}
+        const res = await fetch(url, { signal: ctrl.signal });
+        return res.ok ? await res.json() : null;
+      } catch (e) {
+        return null;
+      } finally {
+        clearTimeout(timer);
+      }
+    }
+
+    async function findWordImage(word) {
+      if (CURATED_IMAGE_RESOURCES[word]) return CURATED_IMAGE_RESOURCES[word];
+      if (word in imageCache) return imageCache[word];
+      const url = (await findWikipediaImage(word)) || (await findCommonsImage(word));
+      imageCache[word] = url;
+      return url;
+    }
+
+    // 영어 위키백과 문서의 대표 사진 (명사는 대체로 잘 맞음)
+    async function findWikipediaImage(word) {
+      const data = await fetchJson("https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1"
+        + "&prop=pageimages|pageprops&piprop=thumbnail&pithumbsize=600&titles=" + encodeURIComponent(word), 6000);
+      const pages = Object.values(((data || {}).query || {}).pages || {});
+      for (const p of pages) {
+        if (p.pageprops && "disambiguation" in p.pageprops) continue;
+        const src = p.thumbnail && p.thumbnail.source;
+        if (src && /\.(jpe?g|png)$/i.test(src.split("?")[0])) return src;
+      }
+      return null;
+    }
+
+    // Wikimedia Commons(자유 이용 사진) 검색
+    async function findCommonsImage(query) {
+      const data = await fetchJson("https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*"
+        + "&generator=search&gsrnamespace=6&gsrlimit=10&gsrsearch=" + encodeURIComponent(query + " filetype:bitmap")
+        + "&prop=imageinfo&iiprop=url|mime&iiurlwidth=600", 6000);
+      const pages = Object.values(((data || {}).query || {}).pages || {}).sort((a, b) => a.index - b.index);
+      for (const p of pages) {
+        const info = p.imageinfo && p.imageinfo[0];
+        if (info && /image\/(jpeg|png)/.test(info.mime) && info.thumburl) return info.thumburl;
+      }
       return null;
     }
   </script>
