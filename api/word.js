@@ -102,6 +102,8 @@ async function callGemini(key, word, thinking) {
 }
 
 module.exports = async (req, res) => {
+  // GitHub Pages·미리보기에서도 부를 수 있게. 단어 하나만 받고 IP당 횟수를 제한하므로 열어 둬도 됨.
+  res.setHeader("Access-Control-Allow-Origin", "*");
   if (req.method !== "GET") return send(res, 405, { code: "bad_method" });
   const w = String((req.query && req.query.w) || "").trim().toLowerCase();
   if (!WORD.test(w)) return send(res, 400, { code: "bad_word" });
