@@ -1,0 +1,68 @@
+{
+ "word": "apply",
+ "pos": "동사",
+ "phonetic": "[əˈplaɪ]",
+ "meaning": "지원하다, 신청하다; 적용하다, (바르다)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "ad-가 p 앞에서 ap-으로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ply (plic)",
+   "meaning": "접다, 붙이다 (fold)",
+   "note": "라틴어 applicare(~에 갖다 붙이다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>ply</strong> (접어 붙이다) = '무언가에 딱 갖다 붙이다'에서 <strong>'지원하다, 적용하다'</strong>가 되었어요.",
+ "historyTitle": "몸을 일자리에 갖다 붙이기",
+ "historyBody": "라틴어 applicare는 '~에 갖다 대다, 붙이다'였어요. 연고를 피부에 붙이면 '바르다', 규칙을 상황에 붙이면 '적용하다', 나를 일자리에 붙이면 '지원하다'가 되죠. apply for(~에 지원하다)와 apply to(~에 적용되다)의 차이는 토익 Part 5 단골이에요. 스마트폰 app도 application(응용 프로그램)의 줄임말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "applicant",
+   "pos": "명사",
+   "meaning": "지원자",
+   "en": "All applicants must submit a résumé.",
+   "ko": "모든 지원자는 이력서를 내야 해요."
+  },
+  {
+   "word": "application",
+   "pos": "명사",
+   "meaning": "지원(서); 적용; 앱",
+   "en": "The application deadline is June 30.",
+   "ko": "지원 마감은 6월 30일이에요."
+  },
+  {
+   "word": "appliance",
+   "pos": "명사",
+   "meaning": "가전제품",
+   "en": "The store sells kitchen appliances.",
+   "ko": "그 가게는 주방 가전을 팔아요."
+  },
+  {
+   "word": "applicable",
+   "pos": "형용사",
+   "meaning": "해당되는, 적용 가능한",
+   "en": "Fill in all applicable sections of the form.",
+   "ko": "양식의 해당 칸을 모두 채우세요."
+  },
+  {
+   "word": "complicated",
+   "pos": "형용사",
+   "meaning": "복잡한",
+   "en": "The new system is too complicated for users.",
+   "ko": "새 시스템은 사용자에게 너무 복잡해요."
+  }
+ ],
+ "imageSense": "대표 의미: 구인 광고를 보며 노트북으로 지원서를 쓰는 사람",
+ "imageCaption": "나를 원하는 자리에 스티커처럼 딱 붙이는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm going to apply for that job.",
+ "movieLineKo": "나 그 일자리에 지원할 거야.",
+ "storyTitle": "지원서 백 장",
+ "story": "졸업생 은비는 하루에 열 곳씩 apply(지원하다)했어요. 한 달 만에 application(지원서)이 백 장! 그런데 면접 연락이 온 곳은 단 한 곳, 가전 appliance(가전제품) 회사였어요. 면접관이 물었죠. '왜 우리 회사죠?' '사실 지원서가 너무 많아 complicated(복잡한) 상태라 기억이 안 나요.' 솔직한 applicant(지원자)는 그 자리에서 합격했답니다. 정직함이 applicable(해당되는) 자격이었대요."
+}

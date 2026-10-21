@@ -1,0 +1,68 @@
+{
+ "word": "postpone",
+ "pos": "동사",
+ "phonetic": "[poʊstˈpoʊn]",
+ "meaning": "연기하다, 미루다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "post-",
+   "meaning": "뒤에, 나중에 (after)",
+   "note": "시간상 '나중'을 뜻해요. p.m.(post meridiem, 정오 뒤)의 post예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pone",
+   "meaning": "놓다, 두다 (put)",
+   "note": "라틴어 ponere(놓다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>post-</strong> (나중에) + <strong>pone</strong> (놓다) = '일정을 나중 자리에 놓다'에서 <strong>'연기하다'</strong>가 되었어요.",
+ "historyTitle": "'놓다'에서 태어난 비즈니스 단어들",
+ "historyBody": "ponere(놓다)에서 position(놓인 자리, 직책), deposit(내려놓다, 예금), component(함께 놓인 부품) 같은 비즈니스 단어가 줄줄이 나왔어요. 토익에서는 postpone을 delay, put off와 바꿔 쓰는 문제가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "직책, 위치",
+   "en": "We are hiring for the position of sales manager.",
+   "ko": "영업 관리자 자리를 채용하고 있어요."
+  },
+  {
+   "word": "deposit",
+   "pos": "명사 / 동사",
+   "meaning": "보증금, 예금(하다)",
+   "en": "A deposit of $100 is required to reserve the hall.",
+   "ko": "홀을 예약하려면 보증금 100달러가 필요해요."
+  },
+  {
+   "word": "component",
+   "pos": "명사",
+   "meaning": "부품, 구성 요소",
+   "en": "The factory produces components for electric cars.",
+   "ko": "그 공장은 전기차 부품을 만들어요."
+  },
+  {
+   "word": "propose",
+   "pos": "동사",
+   "meaning": "제안하다 (앞에 놓다)",
+   "en": "She proposed a new schedule for the project.",
+   "ko": "그녀가 프로젝트 새 일정을 제안했어요."
+  },
+  {
+   "word": "opponent",
+   "pos": "명사",
+   "meaning": "상대, 경쟁자",
+   "en": "Our main opponent lowered its prices last month.",
+   "ko": "주요 경쟁사가 지난달 가격을 내렸어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의 날짜가 적힌 카드를 달력 뒤쪽으로 옮기는 손",
+ "imageCaption": "오늘 칸에 있던 회의를 다음 주 칸으로 옮겨 놓는 모습을 떠올려 보세요.",
+ "movieLineEn": "We have to postpone the trip until next month.",
+ "movieLineKo": "여행을 다음 달로 미뤄야 해.",
+ "storyTitle": "영원히 미뤄진 회의",
+ "story": "'회의 줄이는 법' 회의가 또 postpone(연기하다)되었어요. 벌써 일곱 번째였죠. 팀장님이 새 일정을 propose(제안하다)하자 모두 외쳤어요. '그것도 미뤄요!' 결국 회의실 deposit(보증금)만 날렸어요. 하지만 각자 position(자리)에서 일만 했더니 실적이 경쟁 opponent(상대)를 앞질렀답니다. 회의라는 component(구성 요소)가 빠지니 회사가 더 잘 굴러간 거예요."
+}

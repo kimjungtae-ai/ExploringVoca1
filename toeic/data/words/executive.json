@@ -1,0 +1,74 @@
+{
+ "word": "executive",
+ "pos": "명사 / 형용사",
+ "phonetic": "[ɪɡˈzekjətɪv]",
+ "meaning": "임원, 경영진 / 경영의, 집행의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "끝까지, 밖으로 (out, thoroughly)",
+   "note": "끝까지 해내는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ecut (sequ)",
+   "meaning": "따르다 (follow)",
+   "note": "라틴어 sequi(따르다)에서 온 exsequi(끝까지 따라가 해내다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ive",
+   "meaning": "~하는 (성질의)",
+   "note": "형용사·명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (끝까지) + <strong>ecut</strong> (따르다) + <strong>-ive</strong> = '결정을 끝까지 따라가 실행하는 사람'에서 <strong>'임원, 경영진'</strong>이 되었어요.",
+ "historyTitle": "실행하는 사람, 임원",
+ "historyBody": "라틴어 exsequi는 '끝까지 따라가다, 해내다'였어요. 그래서 execute는 '실행하다'가 되었죠. 회사에서 결정을 실제로 실행하는 책임자가 executive(임원)이고, CEO는 Chief Executive Officer(최고 경영자)의 줄임말이에요. sequi 가족으로 sequence(순서), consequence(결과)가 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "execute",
+   "pos": "동사",
+   "meaning": "실행하다",
+   "en": "The team executed the plan perfectly.",
+   "ko": "팀은 계획을 완벽하게 실행했어요."
+  },
+  {
+   "word": "execution",
+   "pos": "명사",
+   "meaning": "실행",
+   "en": "Good ideas need careful execution.",
+   "ko": "좋은 아이디어는 꼼꼼한 실행이 필요해요."
+  },
+  {
+   "word": "sequence",
+   "pos": "명사",
+   "meaning": "순서",
+   "en": "Please follow the steps in sequence.",
+   "ko": "단계를 순서대로 따라 주세요."
+  },
+  {
+   "word": "consequence",
+   "pos": "명사",
+   "meaning": "결과",
+   "en": "Delays may have serious consequences for sales.",
+   "ko": "지연은 매출에 심각한 결과를 낳을 수 있어요."
+  },
+  {
+   "word": "subsequent",
+   "pos": "형용사",
+   "meaning": "그 다음의",
+   "en": "Subsequent meetings will be held online.",
+   "ko": "이후 회의는 온라인으로 열려요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의실 상석에 앉아 결정을 내리는 정장 차림의 임원",
+ "imageCaption": "결정한 일을 끝까지 따라가 완성하는 사람을 떠올려 보세요.",
+ "movieLineEn": "She's a senior executive at a tech company.",
+ "movieLineKo": "그녀는 IT 회사 고위 임원이야.",
+ "storyTitle": "실행력 최고의 임원",
+ "story": "새로 온 executive(임원)는 '말보다 실행!'을 외쳤어요. 회의에서 '사무실을 밝게 하자'는 의견이 나오자 바로 execute(실행하다)했죠. 다음 날 아침, 벽은 전부 형광 분홍색이 되어 있었어요. 직원들은 그 빠른 execution(실행)에 할 말을 잃었어요. 그 consequence(결과)로 subsequent(그 다음의) 회의 규칙이 생겼답니다. '실행 전, 색깔은 꼭 물어볼 것.'"
+}

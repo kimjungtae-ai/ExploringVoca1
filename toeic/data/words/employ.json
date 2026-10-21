@@ -1,0 +1,68 @@
+{
+ "word": "employ",
+ "pos": "동사",
+ "phonetic": "[ɪmˈplɔɪ]",
+ "meaning": "고용하다; (방법을) 쓰다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "em- (in-)",
+   "meaning": "안으로 (in)",
+   "note": "in-이 p 앞에서 em-으로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ploy (plic)",
+   "meaning": "접다, 감싸다 (fold)",
+   "note": "라틴어 implicare(안으로 접어 넣다, 끌어들이다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>em-</strong> (안으로) + <strong>ploy</strong> (접다) = '일 안으로 접어 넣어 끌어들이다'에서 <strong>'고용하다, 쓰다'</strong>가 되었어요.",
+ "historyTitle": "사람을 일에 '접어 넣다'",
+ "historyBody": "라틴어 implicare는 '안으로 감싸 넣다, 관련시키다'였어요. 고대 프랑스어 emploier를 거쳐 '어떤 일에 사람을 끌어들이다'가 되었죠. 같은 plic 가족으로 apply(갖다 붙이다), imply(속에 담다, 암시하다), complicated(함께 접혀 복잡한)가 있어요. employer(고용주)와 employee(직원)를 구별하는 문제가 Part 5 단골이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "employee",
+   "pos": "명사",
+   "meaning": "직원",
+   "en": "All employees must wear ID badges.",
+   "ko": "모든 직원은 사원증을 착용해야 해요."
+  },
+  {
+   "word": "employer",
+   "pos": "명사",
+   "meaning": "고용주",
+   "en": "Our employer offers flexible hours.",
+   "ko": "우리 회사는 유연 근무를 제공해요."
+  },
+  {
+   "word": "employment",
+   "pos": "명사",
+   "meaning": "고용, 취업",
+   "en": "The factory will create new employment opportunities.",
+   "ko": "그 공장은 새 일자리를 만들어요."
+  },
+  {
+   "word": "unemployment",
+   "pos": "명사",
+   "meaning": "실업",
+   "en": "Unemployment fell to 3 percent this year.",
+   "ko": "올해 실업률이 3퍼센트로 떨어졌어요."
+  },
+  {
+   "word": "imply",
+   "pos": "동사",
+   "meaning": "암시하다",
+   "en": "The report implies that costs will rise.",
+   "ko": "보고서는 비용이 오를 것을 암시해요."
+  }
+ ],
+ "imageSense": "대표 의미: 새 직원에게 사원증을 걸어 주는 인사 담당자",
+ "imageCaption": "새 사람이 팀 안으로 쏙 접혀 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "The company employs over 500 people.",
+ "movieLineKo": "그 회사는 직원이 500명이 넘어.",
+ "storyTitle": "고용주와 직원 사이",
+ "story": "작은 빵집 사장님이 첫 직원을 employ(고용하다)했어요. 가게 역사상 첫 employment(고용)였죠. 그런데 그 employee(직원)가 빵을 너무 잘 구워서 손님이 두 배가 되었죠. 결국 사장님은 직원에게 가게를 맡기고 자신은 배달을 했어요. 동네 사람들이 물었어요. '누가 employer(고용주)예요?' 둘은 동시에 서로를 가리켰어요. 그 대답이 imply(암시하다)하는 건 하나였죠. 이 빵집에선 맛있는 빵이 진짜 사장님이라는 것!"
+}

@@ -1,0 +1,61 @@
+{
+ "word": "purchase",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈpɜːrtʃəs]",
+ "meaning": "구입하다 / 구입(품)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pur- (pro-)",
+   "meaning": "앞으로, 열심히 (forward)",
+   "note": "고대 프랑스어 pur-는 라틴어 pro-에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "chase",
+   "meaning": "쫓다 (chase)",
+   "note": "고대 프랑스어 chacier(쫓다, 사냥하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pur-</strong> (열심히) + <strong>chase</strong> (쫓다) = '원하는 것을 쫓아가 얻다'에서 <strong>'구입하다'</strong>가 되었어요.",
+ "historyTitle": "사냥처럼 쫓아가서 얻는 것",
+ "historyBody": "앵글로프랑스어 purchacier는 '쫓아다니다, 노력해서 얻다'라는 뜻이었어요. 사냥감을 쫓듯 원하는 물건을 얻으려 애쓰는 모습이 '돈 주고 사다'로 바뀌었죠. chase(쫓다)와 같은 뿌리예요. 토익에서는 buy보다 격식 있는 말로, 'proof of purchase(구매 증빙)'가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "purchaser",
+   "pos": "명사",
+   "meaning": "구매자",
+   "en": "The purchaser must sign the delivery form.",
+   "ko": "구매자가 배송 서류에 서명해야 해요."
+  },
+  {
+   "word": "chase",
+   "pos": "동사",
+   "meaning": "쫓다",
+   "en": "The reporter chased the story for weeks.",
+   "ko": "기자는 몇 주 동안 그 기사를 쫓았어요."
+  },
+  {
+   "word": "purchasing",
+   "pos": "명사",
+   "meaning": "구매 (업무)",
+   "en": "Contact the purchasing department for office supplies.",
+   "ko": "사무용품은 구매부에 문의하세요."
+  },
+  {
+   "word": "proof of purchase",
+   "pos": "명사구",
+   "meaning": "구매 증빙",
+   "en": "Please bring proof of purchase for a refund.",
+   "ko": "환불하려면 구매 증빙을 가져오세요."
+  }
+ ],
+ "imageSense": "대표 의미: 쇼핑백을 들고 계산대에서 카드로 결제하는 손님",
+ "imageCaption": "원하는 물건을 향해 힘껏 쫓아가 잡는 모습을 떠올려 보세요.",
+ "movieLineEn": "Thank you for your purchase.",
+ "movieLineKo": "구매해 주셔서 감사합니다.",
+ "storyTitle": "쫓아가서 산 노트북",
+ "story": "윤 대리는 세일 중인 노트북을 purchase(구입하다)하려고 매장 문이 열리자마자 달렸어요. 마치 사냥감을 chase(쫓다)하는 사냥꾼 같았죠. 하지만 마지막 한 대를 다른 purchaser(구매자)와 동시에 잡았어요! 둘이 실랑이하다 보니 그 사람은 회사 purchasing(구매) 담당이었고, 이미 윤 대리에게 줄 노트북을 사러 온 거였답니다. proof of purchase(구매 증빙)는 회사 이름으로 끊었대요."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "orientation",
+ "pos": "명사",
+ "phonetic": "[ˌɔːriənˈteɪʃn]",
+ "meaning": "(신입) 오리엔테이션, 예비 교육; 방향, 성향",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "orient",
+   "meaning": "해 뜨는 곳, 동쪽 (rising, east)",
+   "note": "라틴어 oriens(떠오르는), oriri(떠오르다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 일",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>orient</strong> (해 뜨는 동쪽) + <strong>-ation</strong> = '동쪽을 기준으로 방향을 잡는 일'에서 <strong>'방향 잡기, 오리엔테이션'</strong>이 되었어요.",
+ "historyTitle": "해 뜨는 쪽으로 방향 잡기",
+ "historyBody": "라틴어 oriens는 '해가 떠오르는 곳', 곧 동쪽이었어요. 중세 유럽에서는 교회를 지을 때 제단이 동쪽을 향하게 '방향을 잡았는데', 이것을 orient라고 했죠. 여기서 '새로운 곳에서 방향을 잡게 도와주는 일', 즉 신입 교육 orientation이 나왔어요. origin(기원, 떠오른 곳)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "orient",
+   "pos": "동사",
+   "meaning": "방향을 잡다, 적응시키다",
+   "en": "The tour helps new staff orient themselves.",
+   "ko": "둘러보기는 신입이 회사에 적응하도록 도와줘요."
+  },
+  {
+   "word": "oriented",
+   "pos": "형용사",
+   "meaning": "~지향의",
+   "en": "We are a customer-oriented company.",
+   "ko": "우리는 고객 중심 회사예요."
+  },
+  {
+   "word": "origin",
+   "pos": "명사",
+   "meaning": "기원, 원산지",
+   "en": "Please check the country of origin on the label.",
+   "ko": "라벨에서 원산지를 확인하세요."
+  },
+  {
+   "word": "original",
+   "pos": "형용사",
+   "meaning": "원래의, 독창적인",
+   "en": "Keep the original receipt for returns.",
+   "ko": "반품하려면 원본 영수증을 보관하세요."
+  },
+  {
+   "word": "disoriented",
+   "pos": "형용사",
+   "meaning": "방향을 잃은, 혼란스러운",
+   "en": "I felt disoriented on my first day.",
+   "ko": "첫날엔 정신이 없었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 강당에서 신입 사원들이 회사 안내를 듣는 장면",
+ "imageCaption": "해 뜨는 쪽을 가리키며 길을 알려 주는 안내자를 떠올려 보세요.",
+ "movieLineEn": "New employees must attend the orientation on Monday.",
+ "movieLineKo": "신입 직원은 월요일 오리엔테이션에 꼭 와야 해.",
+ "storyTitle": "방향치 신입",
+ "story": "신입 민수는 orientation(오리엔테이션) 첫날 회의실을 못 찾아 건물을 세 바퀴 돌았어요. 완전히 disoriented(방향을 잃은) 상태였죠. 늦게 들어가자 강사가 말했어요. '오늘 주제가 바로 회사에서 orient(방향을 잡다)하는 법이에요!' 모두 웃었고, 민수는 그날의 가장 original(독창적인) 예시가 되었어요. 그 뒤 회사는 고객 oriented(지향의) 대신 '신입 지향' 안내 지도를 만들었답니다."
+}

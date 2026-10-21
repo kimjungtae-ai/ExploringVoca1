@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>영어 어원 탐험하기 토익판 - 비즈니스 단어 뿌리 여행</title>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts: Gowun Dodum & Gaegu for warm, friendly educational feel -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Gowun+Dodum&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@0.460.0"></script>
+
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            cream: {
+              50: '#FDFCF7',
+              100: '#FBF8EE',
+              200: '#F5EEDC',
+              300: '#ECE1C5'
+            },
+            mint: {
+              100: '#E6FAF3',
+              200: '#C0F3E0',
+              400: '#4ED3A3',
+              500: '#2EC28B',
+              600: '#1C9F6E'
+            },
+            sky: {
+              100: '#E8F5FF',
+              200: '#CBE7FF',
+              400: '#64B5F6',
+              500: '#389DF2',
+              600: '#1E7ECE'
+            },
+            sunny: {
+              100: '#FFF9DB',
+              200: '#FFF1A8',
+              400: '#FFD43B',
+              500: '#F59F00'
+            }
+          },
+          fontFamily: {
+            sans: ['"Gowun Dodum"', 'sans-serif'],
+            hand: ['"Gaegu"', 'cursive'],
+            en: ['"Nunito"', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body {
+      background-color: #FBF8EE;
+      font-family: 'Gowun Dodum', sans-serif;
+      color: #334155;
+    }
+    .font-en {
+      font-family: 'Nunito', sans-serif;
+    }
+    .font-hand {
+      font-family: 'Gaegu', cursive;
+    }
+    .card-shadow {
+      box-shadow: 0 10px 25px -5px rgba(220, 205, 170, 0.4), 0 8px 10px -6px rgba(220, 205, 170, 0.3);
+    }
+    .fun-bubble {
+      position: relative;
+    }
+    .fun-bubble::after {
+      content: '';
+      position: absolute;
+      bottom: -10px;
+      left: 24px;
+      border-width: 10px 10px 0;
+      border-style: solid;
+      border-color: #FFFFFF transparent;
+      display: block;
+      width: 0;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0px) rotate(0deg); }
+      50% { transform: translateY(-6px) rotate(2deg); }
+    }
+    .animate-float {
+      animation: float 4s ease-in-out infinite;
+    }
+    /* Custom scrollbar for friendly look */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #F5EEDC;
+      border-radius: 9999px;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #4ED3A3;
+      border-radius: 9999px;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col justify-between selection:bg-sunny-200">
+
+  <!-- Top Navigation Header -->
+  <header class="bg-white/90 backdrop-blur sticky top-0 z-40 border-b-2 border-cream-200">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 h-18 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3 cursor-pointer" onclick="resetToHome()">
+        <div class="w-11 h-11 rounded-2xl bg-gradient-to-tr from-mint-400 to-sky-400 flex items-center justify-center text-white shadow-md transform hover:rotate-6 transition-transform">
+          <i data-lucide="compass" class="w-6 h-6"></i>
+        </div>
+        <div>
+          <h1 class="text-xl sm:text-2xl font-bold text-slate-800 tracking-tight flex items-center gap-2">
+            영어 어원 탐험하기
+            <span class="text-xs bg-sunny-200 text-amber-800 font-semibold px-2 py-0.5 rounded-full font-hand text-sm">토익 대비</span>
+          </h1>
+          <p class="text-xs text-slate-500 hidden sm:block">단어의 뿌리를 찾아 떠나는 신나는 어휘 여행 🧭</p>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <button onclick="toggleTeacherTip()" class="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-cream-100 hover:bg-cream-200 border border-cream-300 text-xs text-slate-700 transition">
+          <i data-lucide="sparkles" class="w-4 h-4 text-sunny-500"></i>
+          <span>탐험 가이드</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Modal / Floating Teacher Tip -->
+  <div id="teacherTipModal" class="hidden fixed inset-0 z-50 bg-black/40 flex items-center justify-center p-4">
+    <div class="bg-white rounded-3xl p-6 max-w-md w-full border-4 border-mint-200 shadow-2xl relative">
+      <button onclick="toggleTeacherTip()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600">
+        <i data-lucide="x" class="w-6 h-6"></i>
+      </button>
+      <div class="flex items-center gap-3 mb-4">
+        <div class="w-12 h-12 bg-mint-100 rounded-2xl flex items-center justify-center text-mint-600 text-2xl">
+          🧑‍🏫
+        </div>
+        <div>
+          <h3 class="font-bold text-lg text-slate-800">탐험가 선생님의 꿀팁!</h3>
+          <p class="text-xs text-slate-500">어원(Etymology)이 왜 재미있을까요?</p>
+        </div>
+      </div>
+      <p class="text-sm text-slate-600 leading-relaxed mb-4">
+        영어 단어는 레고 블록과 같아요! <br>
+        <strong>접두사(앞머리)</strong> + <strong>어근(뿌리 뜻)</strong> + <strong>접미사(꼬리 품사)</strong>를 알면 단어 하나로 10개 이상의 새로운 단어를 한눈에 알아볼 수 있답니다. 천천히 뿌리를 캐내어 보세요!
+      </p>
+      <div class="bg-cream-100 p-3 rounded-2xl text-xs text-slate-600 space-y-1 mb-4">
+        <div>🌱 <strong>어근(Root)</strong>: 단어의 중심 알맹이 (예: <em>port</em> = 나르다)</div>
+        <div>🚀 <strong>접두사(Prefix)</strong>: 앞머리에서 방향/성격을 바꿈 (예: <em>trans-</em> = 가로질러)</div>
+        <div>🎀 <strong>접미사(Suffix)</strong>: 꼬리에서 품사를 바꿈 (예: <em>-able</em> = ~할 수 있는)</div>
+      </div>
+      <button onclick="toggleTeacherTip()" class="w-full py-2.5 bg-mint-500 hover:bg-mint-600 text-white font-bold rounded-xl transition text-sm">
+        이해했어요, 출발할래요! 🎒
+      </button>
+    </div>
+  </div>
+
+  <main class="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-8 w-full flex-grow">
+
+    <!-- Search / Hero Section -->
+    <section class="text-center mb-8">
+      <!-- Mascot & Greeting Bubble -->
+      <div class="inline-flex items-center gap-3 mb-4 animate-float">
+        <div class="w-14 h-14 bg-sunny-100 border-2 border-sunny-400 rounded-2xl flex items-center justify-center text-3xl shadow-sm">
+          🦊
+        </div>
+        <div class="fun-bubble bg-white px-4 py-2 rounded-2xl border-2 border-cream-300 text-left shadow-sm">
+          <p class="text-xs text-mint-600 font-bold">어원 탐험 가이드 '루루'</p>
+          <p class="text-sm font-hand text-slate-700 text-base">“영어 단어의 뿌리를 찾아 새로운 단어를 만나 보세요!”</p>
+        </div>
+      </div>
+
+      <!-- Search Input Container -->
+      <div class="max-w-2xl mx-auto bg-white p-3 sm:p-4 rounded-3xl border-2 border-cream-300 card-shadow transition-all focus-within:border-sky-400 focus-within:ring-4 focus-within:ring-sky-100">
+        <form id="searchForm" onsubmit="handleSearch(event)" class="flex flex-col sm:flex-row gap-2.5">
+          <div class="relative flex-grow flex items-center">
+            <i data-lucide="search" class="w-5 h-5 text-slate-400 absolute left-4"></i>
+            <input 
+              type="text" 
+              id="wordInput"
+              placeholder="탐험하고 싶은 영어 단어를 입력하세요 (예: reserve)"
+              autocomplete="off"
+              class="w-full pl-12 pr-4 py-3.5 bg-cream-50/80 rounded-2xl text-base sm:text-lg font-en font-bold text-slate-800 placeholder:text-slate-400 placeholder:font-sans focus:outline-none focus:bg-white transition"
+            >
+          </div>
+          <button 
+            type="submit" 
+            id="searchBtn"
+            class="px-6 py-3.5 bg-gradient-to-r from-mint-500 to-sky-500 hover:from-mint-600 hover:to-sky-600 text-white font-bold rounded-2xl text-base shadow-md hover:shadow-lg transition-all active:scale-95 flex items-center justify-center gap-2"
+          >
+            <i data-lucide="compass" class="w-5 h-5"></i>
+            <span>어원 탐험 시작!</span>
+          </button>
+        </form>
+
+        <!-- Quick Examples -->
+        <div class="mt-3 flex flex-wrap items-center justify-center gap-2 text-xs text-slate-500">
+          <span class="font-bold text-slate-400">추천 탐험 단어:</span>
+          <button type="button" onclick="quickSearch('reserve')" class="px-2.5 py-1 rounded-full bg-cream-100 hover:bg-sky-100 text-sky-700 border border-cream-300 font-en font-semibold transition">reserve</button>
+          <button type="button" onclick="quickSearch('revenue')" class="px-2.5 py-1 rounded-full bg-cream-100 hover:bg-mint-100 text-mint-700 border border-cream-300 font-en font-semibold transition">revenue</button>
+          <button type="button" onclick="quickSearch('accommodate')" class="px-2.5 py-1 rounded-full bg-cream-100 hover:bg-sunny-100 text-amber-700 border border-cream-300 font-en font-semibold transition">accommodate</button>
+          <button type="button" onclick="quickSearch('negotiate')" class="px-2.5 py-1 rounded-full bg-cream-100 hover:bg-purple-100 text-purple-700 border border-cream-300 font-en font-semibold transition">negotiate</button>
+          <button type="button" onclick="quickSearch('candidate')" class="px-2.5 py-1 rounded-full bg-cream-100 hover:bg-rose-100 text-rose-700 border border-cream-300 font-en font-semibold transition">candidate</button>
+        </div>
+      </div>
+
+      <!-- Warning/Validation message -->
+      <div id="searchAlert" class="hidden mt-3 max-w-md mx-auto p-3 bg-rose-50 border border-rose-200 rounded-2xl text-rose-600 text-sm flex items-center justify-center gap-2 animate-bounce">
+        <i data-lucide="alert-circle" class="w-4 h-4"></i>
+        <span id="searchAlertText">단어를 입력해 주세요! 함께 떠나볼까요?</span>
+      </div>
+    </section>
+
+    <!-- Loading Animation Skeleton -->
+    <div id="loadingState" class="hidden py-16 text-center">
+      <div class="inline-flex p-6 rounded-3xl bg-white border-2 border-cream-300 shadow-xl flex-col items-center gap-4 max-w-sm w-full mx-auto">
+        <div class="w-16 h-16 rounded-full bg-sky-100 border-4 border-sky-300 border-t-mint-500 animate-spin flex items-center justify-center">
+          <i data-lucide="map-pin" class="w-6 h-6 text-mint-600"></i>
+        </div>
+        <div>
+          <h4 class="font-bold text-slate-800 text-lg" id="loadingTitle">단어의 비밀 뿌리를 파헤치는 중...</h4>
+          <p class="text-xs text-slate-500 mt-1" id="loadingSub">선생님이 재미있는 어원 지도와 이야기를 정리하고 있어요!</p>
+        </div>
+        <div class="w-full bg-cream-100 h-2 rounded-full overflow-hidden">
+          <div class="bg-gradient-to-r from-mint-400 via-sky-400 to-sunny-400 h-full w-2/3 animate-pulse"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results Container -->
+    <div id="resultsContainer" class="hidden space-y-8 transition-opacity duration-300">
+
+      <!-- Section A: 오늘의 단어 & 발음 -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow relative overflow-hidden">
+        <div class="absolute -right-8 -bottom-8 w-36 h-36 bg-sky-100 rounded-full opacity-50 pointer-events-none"></div>
+        <div class="flex items-center gap-2 text-sky-600 font-bold text-sm mb-3">
+          <span class="p-1.5 bg-sky-100 rounded-xl"><i data-lucide="sparkle" class="w-4 h-4"></i></span>
+          <span>A. 오늘의 탐험 단어</span>
+        </div>
+
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div>
+            <div class="flex flex-wrap items-baseline gap-3">
+              <h2 id="wordHead" class="text-4xl sm:text-5xl font-black font-en text-slate-900 tracking-tight">transport</h2>
+              <span id="wordPos" class="px-3 py-1 bg-sky-100 text-sky-700 rounded-full text-xs font-bold">동사 / 명사</span>
+              <span id="wordPhonetic" class="text-slate-500 font-en text-sm">[trænˈspɔːrt]</span>
+            </div>
+            <p id="wordMeaning" class="text-xl sm:text-2xl font-bold text-slate-800 mt-2">수송하다, 나르다 / 수송, 이동 수단</p>
+          </div>
+
+          <!-- Pronunciation Listen Button -->
+          <div class="flex items-center gap-3">
+            <button 
+              id="ttsBtn" 
+              onclick="speakCurrentWord()" 
+              class="px-4 py-2.5 bg-cream-100 hover:bg-cream-200 text-slate-700 border border-cream-300 rounded-2xl flex items-center gap-2 font-bold text-sm shadow-sm transition hover:scale-105 active:scale-95"
+              title="발음 듣기"
+            >
+              <i data-lucide="volume-2" class="w-5 h-5 text-sky-500"></i>
+              <span>원어민 발음 듣기</span>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section B: 단어의 구조 찾기 (레고 분해 카드) -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow">
+        <div class="flex items-center justify-between mb-4">
+          <div class="flex items-center gap-2 text-mint-600 font-bold text-sm">
+            <span class="p-1.5 bg-mint-100 rounded-xl"><i data-lucide="blocks" class="w-4 h-4"></i></span>
+            <span>B. 단어의 구조 찾기 (단어 블록 분해)</span>
+          </div>
+          <span class="text-xs text-slate-400 bg-cream-100 px-3 py-1 rounded-full">레고 블록처럼 맞춰보기</span>
+        </div>
+
+        <p class="text-sm text-slate-600 mb-6">
+          선생님과 함께 단어를 부품별로 쪼개어 볼까요? 어떻게 이런 뜻이 되었는지 비밀이 풀립니다!
+        </p>
+
+        <!-- Dynamic Morpheme Block Container -->
+        <div id="morphemeContainer" class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+          <!-- Injected via JavaScript -->
+        </div>
+
+        <!-- Connection Summary Callout -->
+        <div class="p-4 rounded-2xl bg-gradient-to-r from-mint-50 via-sky-50 to-cream-50 border-2 border-mint-200 flex items-start gap-3">
+          <div class="text-2xl mt-0.5">💡</div>
+          <div>
+            <h4 class="font-bold text-slate-800 text-sm mb-1">한눈에 쏙 들어오는 의미 연결:</h4>
+            <p id="morphemeSummary" class="text-sm text-slate-700 leading-relaxed">
+              <strong>trans-</strong> (저쪽으로 가로질러) + <strong>port</strong> (물건을 나르다) = 저 멀리 강이나 바다를 건너 물건을 옮기다 → <strong>“수송하다, 운송하다”</strong>가 되었어요!
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section C: 역사와 문화 이야기 -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow">
+        <div class="flex items-center gap-2 text-amber-700 font-bold text-sm mb-4">
+          <span class="p-1.5 bg-sunny-100 rounded-xl"><i data-lucide="book-open" class="w-4 h-4 text-sunny-500"></i></span>
+          <span>C. 역사와 문화 이야기 (단어의 고향)</span>
+        </div>
+
+        <div class="flex flex-col md:flex-row gap-5 items-start">
+          <div class="w-12 h-12 rounded-2xl bg-sunny-100 flex-shrink-0 flex items-center justify-center text-2xl shadow-inner">
+            🏛️
+          </div>
+          <div class="space-y-2 flex-grow">
+            <h4 id="historyTitle" class="font-bold text-slate-800 text-base">고대 로마의 항구에서 시작된 이야기</h4>
+            <p id="historyBody" class="text-sm text-slate-600 leading-relaxed">
+              라틴어 <em>portare</em>(나르다)는 배가 짐을 싣고 내리는 항구(Port)와 아주 밀접해요. 옛날 사람들은 물건을 나르는 가장 빠른 방법이 배를 타는 것이었기 때문에, 물건을 나르는 행위 자체에 항구와 나르기를 뜻하는 말을 붙여 사용했답니다!
+            </p>
+            <div id="historyCaution" class="hidden text-xs text-slate-400 bg-cream-50 p-2.5 rounded-xl border border-cream-200">
+              ℹ️ 오래된 단어 역사는 문헌 기록에 따라 전해진 내용을 바탕으로 하며, 단정하기 어려운 부분은 가장 널리 통용되는 설을 따릅니다.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section D: 가족 단어 만나기 (파생어 카드 10개) -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-4">
+          <div class="flex items-center gap-2 text-mint-700 font-bold text-sm">
+            <span class="p-1.5 bg-mint-100 rounded-xl"><i data-lucide="users" class="w-4 h-4 text-mint-500"></i></span>
+            <span>D. 같은 뿌리를 둔 가족 단어 만나기</span>
+          </div>
+          <span id="familyCountBadge" class="text-xs bg-mint-100 text-mint-800 font-semibold px-3 py-1 rounded-full w-fit">
+            관련 단어 6개 발견!
+          </span>
+        </div>
+
+        <p class="text-sm text-slate-600 mb-6">
+          같은 어근 알맹이를 공유하는 단어 가족들이에요. 한 번에 외우면 머릿속에 쏙쏙 박힌답니다! (토익 비즈니스 상황 B1~B2 예문)
+        </p>
+
+        <!-- Family Words Cards Grid -->
+        <div id="familyWordsGrid" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <!-- Injected via JavaScript -->
+        </div>
+      </section>
+
+      <!-- Section E: 단어를 나타내는 이미지 (웹 이미지 검색 표시) -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow">
+        <div class="flex items-center justify-between mb-4">
+          <div class="flex items-center gap-2 text-sky-600 font-bold text-sm">
+            <span class="p-1.5 bg-sky-100 rounded-xl"><i data-lucide="image" class="w-4 h-4"></i></span>
+            <span>E. 단어 그림 기억상자</span>
+          </div>
+          <span class="text-xs text-sky-700 bg-sky-50 border border-sky-200 px-3 py-1 rounded-full font-bold">대표 이미지 검색</span>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+          <div class="md:col-span-5 flex flex-col items-center">
+            <!-- Dynamic Image Container -->
+            <div id="imageDisplayWrapper" class="relative w-full aspect-square max-w-[280px] rounded-3xl overflow-hidden bg-cream-100 border-2 border-cream-300 shadow-md flex items-center justify-center">
+              <div id="imageLoadingSpinner" class="text-center p-4">
+                <i data-lucide="loader-2" class="w-8 h-8 text-sky-400 animate-spin mx-auto mb-2"></i>
+                <p class="text-xs text-slate-500">단어 대표 이미지를 찾는 중...</p>
+              </div>
+              <img id="wordMainImage" src="" alt="단어 대표 이미지" class="hidden w-full h-full object-cover transition-opacity duration-300">
+              <!-- Fallback SVG Canvas -->
+              <div id="wordSvgPlaceholder" class="hidden w-full h-full flex items-center justify-center p-6 text-center"></div>
+            </div>
+            <a id="googleImageDirectBtn" href="#" target="_blank" rel="noopener noreferrer" class="mt-3 text-xs bg-sky-50 hover:bg-sky-100 text-sky-700 border border-sky-200 px-3 py-1.5 rounded-xl flex items-center gap-1.5 font-bold transition">
+              <i data-lucide="external-link" class="w-3.5 h-3.5 text-sky-500"></i> Google 이미지에서 더 찾아보기
+            </a>
+          </div>
+
+          <div class="md:col-span-7 space-y-3">
+            <div class="inline-block px-3 py-1 bg-sunny-100 text-amber-800 rounded-full text-xs font-bold" id="imageSenseTag">
+              대표 의미: 탈것과 물건 나르기
+            </div>
+            <h4 class="text-base font-bold text-slate-800" id="imageCaptionTitle">그림으로 한 번에 이해해요</h4>
+            <p id="imageCaptionDescription" class="text-sm text-slate-600 leading-relaxed">
+              이 그림은 단어의 가장 대표적인 상황을 보여줍니다. 단어가 여러 뜻을 가질 수 있지만, 대표 뜻을 머릿속에 시각적으로 저장해 두면 훨씬 오래 기억된답니다!
+            </p>
+            <div class="pt-2 flex flex-wrap gap-2 text-xs">
+              <a id="externalImgSearchLink" href="#" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 px-3 py-2 bg-cream-100 hover:bg-cream-200 border border-cream-300 rounded-xl text-slate-700 transition">
+                <i data-lucide="search" class="w-3.5 h-3.5 text-sky-500"></i>
+                <span id="externalImgSearchLabel">Google 이미지 검색 바로가기</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section F: 영화·영상 속 표현 (PlayPhrase.me 안내) -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow">
+        <div class="flex items-center justify-between mb-4">
+          <div class="flex items-center gap-2 text-purple-600 font-bold text-sm">
+            <span class="p-1.5 bg-purple-100 rounded-xl"><i data-lucide="clapperboard" class="w-4 h-4 text-purple-500"></i></span>
+            <span>F. 영화·영상 속 생생한 표현</span>
+          </div>
+          <span class="text-xs text-slate-400 bg-cream-100 px-3 py-1 rounded-full">playphrase.me 연동</span>
+        </div>
+
+        <div class="bg-gradient-to-r from-purple-50 to-sky-50 rounded-2xl p-5 border border-purple-100 space-y-4">
+          <div class="flex items-start gap-3">
+            <div class="w-10 h-10 rounded-xl bg-purple-200 flex-shrink-0 flex items-center justify-center text-purple-700 font-bold">
+              🎬
+            </div>
+            <div>
+              <h4 class="font-bold text-slate-800 text-sm">영화 대사 속에서 단어가 어떻게 소리 나는지 들어보세요!</h4>
+              <p class="text-xs text-slate-600 mt-0.5">
+                수천 편의 영화와 드라마에서 실제 주인공들이 말하는 장면을 확인해 볼 수 있어요.
+              </p>
+            </div>
+          </div>
+
+          <!-- Representative Movie Line Card -->
+          <div class="bg-white p-4 rounded-xl border border-cream-300 space-y-2">
+            <div class="flex items-center justify-between text-xs">
+              <span class="font-bold text-purple-700 flex items-center gap-1">
+                <i data-lucide="message-square-quote" class="w-3.5 h-3.5"></i> 추천 영상 대사
+              </span>
+              <span id="movieLevelNote" class="text-amber-700 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
+                ⚠️ 수준이 확인된 영상은 아닙니다
+              </span>
+            </div>
+            <p id="movieLineEn" class="text-base sm:text-lg font-en font-bold text-slate-900 italic">
+              "We need to transport the equipment before sunrise."
+            </p>
+            <p id="movieLineKo" class="text-xs sm:text-sm text-slate-600">
+              "우리는 해가 뜨기 전에 장비들을 수송해야 해."
+            </p>
+          </div>
+
+          <div class="flex flex-col sm:flex-row items-center justify-between gap-3 pt-2">
+            <p class="text-xs text-slate-500">
+              * 웹 브라우저 보안 규정상 웹페이지 내 직접 영상 재생 대신 안전한 공식 검색으로 연결됩니다.
+            </p>
+            <a 
+              id="playphraseLink" 
+              href="https://www.playphrase.me" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              class="w-full sm:w-auto px-5 py-2.5 bg-purple-600 hover:bg-purple-700 text-white font-bold rounded-xl text-xs flex items-center justify-center gap-2 shadow-sm transition active:scale-95"
+            >
+              <span>playphrase.me에서 영상 장면 직접 보기</span>
+              <i data-lucide="arrow-up-right" class="w-4 h-4"></i>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section G: 어원 단어를 활용한 짧은 이야기 -->
+      <section class="bg-white rounded-3xl p-6 sm:p-8 border-2 border-cream-200 card-shadow relative">
+        <div class="flex items-center justify-between mb-4">
+          <div class="flex items-center gap-2 text-rose-600 font-bold text-sm">
+            <span class="p-1.5 bg-rose-100 rounded-xl"><i data-lucide="book-heart" class="w-4 h-4 text-rose-500"></i></span>
+            <span>G. 어원 단어로 만든 300자 엉뚱발랄 이야기</span>
+          </div>
+          <span class="text-xs bg-rose-50 text-rose-700 border border-rose-200 px-3 py-1 rounded-full font-bold">
+            배운 단어 5개 이상 쏙쏙! 반전 스토리
+          </span>
+        </div>
+
+        <div class="bg-cream-100/70 p-5 sm:p-6 rounded-2xl border-2 border-cream-200">
+          <div class="flex items-center gap-2 mb-3">
+            <span class="text-xl">📖</span>
+            <h4 id="storyTitle" class="font-bold text-slate-800 text-base">비밀 요원 토끼의 초대형 실수</h4>
+          </div>
+          <p id="storyContent" class="text-sm sm:text-base text-slate-800 leading-relaxed font-hand tracking-wide">
+            <!-- Story injected here -->
+          </p>
+
+          <!-- Used words tag container -->
+          <div class="mt-4 pt-3 border-t border-cream-200">
+            <div class="flex items-center gap-1.5 text-xs text-rose-700 font-bold mb-2">
+              <i data-lucide="check-check" class="w-4 h-4"></i>
+              <span>이야기 속 배운 단어 목록 (최소 5단어 포함):</span>
+            </div>
+            <div id="storyWordsTags" class="flex flex-wrap gap-1.5 text-xs">
+              <!-- Injected dynamically -->
+            </div>
+          </div>
+
+          <div class="mt-3 pt-2 border-t border-cream-200 flex items-center justify-between text-xs text-slate-500">
+            <span>💡 본문 속 배운 단어는 <code>단어(뜻)</code>으로 하이라이트되어 있어요!</span>
+            <span id="storyCharCount" class="font-bold text-mint-700">276자 / 최대 300자</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Bottom Re-search Bar -->
+      <div class="pt-6 border-t border-cream-300 text-center">
+        <p class="text-sm text-slate-600 mb-3">다른 신기한 단어의 뿌리도 캐러 가볼까요? ⛏️</p>
+        <button onclick="scrollToTopAndFocus()" class="px-6 py-3 bg-mint-500 hover:bg-mint-600 text-white font-bold rounded-2xl text-sm shadow-md transition inline-flex items-center gap-2">
+          <i data-lucide="arrow-up" class="w-4 h-4"></i>
+          <span>새 단어 탐험하러 맨 위로 가기</span>
+        </button>
+      </div>
+
+    </div>
+  </main>
+
+  <footer class="bg-cream-200/60 border-t border-cream-300 py-6 px-4 text-center mt-12">
+    <div class="max-w-4xl mx-auto space-y-2 text-xs text-slate-500">
+      <p class="font-bold text-slate-700">「영어 어원 탐험하기 토익판」 - 토익 영어 어원 나침반</p>
+      <p>단어의 뿌리를 알면 낯선 단어도 친구처럼 반가워집니다. 무리한 억지 분해 없이 정확하고 쉬운 어원 지식만을 담았습니다.</p>
+      <p class="text-[11px] text-slate-400">Powered by Gemini AI Interactive Explorer • Educational Design for TOEIC Learners (College &amp; Adult)</p>
+    </div>
+  </footer>
+
+  <script>
+    // 토익판은 미리 만든 사전(data/words)을 쓰므로 화면 안에 넣어 둔 예시 단어는 없음
+    const CURATED_WORDS = {};
+
+    let currentSearchedWord = "reserve";
+    let currentWordData = null;
+
+    // 아이콘 스크립트를 못 불러와도 단어 카드는 그대로 보이게
+    function refreshIcons() {
+      try { if (window.lucide) window.lucide.createIcons(); } catch (e) { console.warn("icons", e); }
+    }
+
+    function renderSvgPlaceholder(word, sense) {
+      const spinner = document.getElementById("imageLoadingSpinner");
+      const imgTag = document.getElementById("wordMainImage");
+      const svgBox = document.getElementById("wordSvgPlaceholder");
+      const scene = String(sense || (currentWordData && currentWordData.imageSense) || "")
+        .replace(/^\s*대표 의미\s*:\s*/, "").replace(/[<>&]/g, "");
+
+      if (spinner) spinner.classList.add("hidden");
+      if (imgTag) imgTag.classList.add("hidden");
+      if (svgBox) {
+        svgBox.classList.remove("hidden");
+        svgBox.innerHTML = `
+          <div class="flex flex-col items-center justify-center space-y-3">
+            <div class="w-16 h-16 rounded-2xl bg-gradient-to-tr from-sky-300 to-mint-300 flex items-center justify-center text-white text-2xl shadow-sm">
+              🎬
+            </div>
+            <span class="text-lg font-bold font-en text-slate-800">${(word || "").replace(/[<>&]/g, "")}</span>
+            ${scene ? `<p class="text-sm text-slate-700 leading-relaxed">${scene}</p>` : ""}
+            <p class="text-[11px] text-slate-400">이 장면을 머릿속에 그려 보세요. 사진은 아래 버튼으로 볼 수 있어요.</p>
+          </div>
+        `;
+      }
+    }
+
+    function handleImageLoadError() {
+      renderSvgPlaceholder(currentSearchedWord);
+    }
+    window.handleImageLoadError = handleImageLoadError;
+    window.renderSvgPlaceholder = renderSvgPlaceholder;
+
+    // Web Speech API for slow and clear pronunciation
+    function speakCurrentWord() {
+      if (!('speechSynthesis' in window)) {
+        return;
+      }
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(currentSearchedWord);
+      utterance.lang = 'en-US';
+      utterance.rate = 0.85; // slightly slower for middle school learners
+      window.speechSynthesis.speak(utterance);
+    }
+    window.speakCurrentWord = speakCurrentWord;
+
+    // Initialize Lucide icons on load
+    window.onload = function() {
+      refreshIcons();
+      // 처음 열면 토익 예시 단어 reserve를 보여 줌
+      executeEtymologySearch("reserve");
+    };
+
+    function toggleTeacherTip() {
+      const modal = document.getElementById("teacherTipModal");
+      modal.classList.toggle("hidden");
+    }
+
+    function scrollToTopAndFocus() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      setTimeout(() => {
+        const input = document.getElementById("wordInput");
+        input.focus();
+        input.select();
+      }, 400);
+    }
+
+    function resetToHome() {
+      document.getElementById("wordInput").value = "";
+      hideAlert();
+      executeEtymologySearch("reserve");
+    }
+
+    function quickSearch(word) {
+      document.getElementById("wordInput").value = word;
+      hideAlert();
+      executeEtymologySearch(word);
+    }
+
+    function showAlert(msg) {
+      const alertBox = document.getElementById("searchAlert");
+      const alertText = document.getElementById("searchAlertText");
+      alertText.textContent = msg;
+      alertBox.classList.remove("hidden");
+    }
+
+    function hideAlert() {
+      document.getElementById("searchAlert").classList.add("hidden");
+    }
+
+    function handleSearch(e) {
+      e.preventDefault();
+      const input = document.getElementById("wordInput");
+      const query = input.value.trim().toLowerCase().replace(/\s+/g, " ");
+
+      if (!query) {
+        showAlert("탐험할 단어를 입력해 주세요! (예: reserve, revenue)");
+        input.focus();
+        return;
+      }
+
+      // Check if it's english alphabet
+      if (!/^[a-zA-Z\s\-]+$/.test(query)) {
+        showAlert("영어 알파벳으로 된 단어를 입력해 주세요!");
+        input.focus();
+        return;
+      }
+
+      hideAlert();
+      executeEtymologySearch(query);
+    }
+
+    async function executeEtymologySearch(word) {
+      currentSearchedWord = word;
+      const loading = document.getElementById("loadingState");
+      const results = document.getElementById("resultsContainer");
+
+      loading.classList.remove("hidden");
+      results.classList.add("hidden");
+
+      // Check if word exists in our curated cache
+      if (CURATED_WORDS[word]) {
+        currentWordData = CURATED_WORDS[word];
+        setTimeout(() => {
+          renderResults(currentWordData);
+          loading.classList.add("hidden");
+          results.classList.remove("hidden");
+          refreshIcons();
+          generateWordIllustration(word, currentWordData.imageSense);
+        }, 500);
+      } else {
+        // 사전에 없는 단어는 서버(api/toeic.js)가 Gemini로 토익용 어원 데이터를 만듦
+        try {
+          currentWordData = (await fetchFromDictionary(word)) || (await fetchEtymologyFromGemini(word));
+          renderResults(currentWordData);
+          loading.classList.add("hidden");
+          results.classList.remove("hidden");
+          refreshIcons();
+          generateWordIllustration(word, currentWordData.imageSense);
+        } catch (err) {
+          // 연결 오류를 "나누기 어려운 단어"처럼 보이게 하지 않고, 사실대로 알려 줌
+          console.error("etymology fetch error:", err);
+          loading.classList.add("hidden");
+          const code = err && err.message;
+          showAlert(code === "rate_limited" ? "지금 찾는 사람이 많아요. 1분 뒤에 다시 눌러 주세요."
+            : code === "server_not_ready" ? "단어를 만드는 서버가 아직 준비되지 않았어요."
+            : "단어 정보를 가져오지 못했어요. 잠시 뒤에 다시 눌러 주세요.");
+        }
+      }
+    }
+
+    // GitHub Pages·미리보기처럼 Vercel 밖에서 열면 서버 함수(/api)가 없으므로 Vercel 주소로 보냄.
+    // Vercel 프로젝트 주소가 다르면 이 값만 바꾸면 됨.
+    const VERCEL_URL = "https://exploringvoca1.vercel.app";
+    const ON_VERCEL = /\.vercel\.app$/.test(location.hostname);
+    const API_BASE = ON_VERCEL ? "" : VERCEL_URL;
+
+    // 미리 만든 토익 단어 사전(data/words/<단어>.json). 있으면 AI를 부르지 않고 바로 보여 줌.
+    async function fetchFromDictionary(word) {
+      const file = encodeURIComponent(word.replace(/ /g, "_")) + ".json";  // 숙어는 빈칸을 _로 (sign up for → sign_up_for.json)
+      // 같은 곳의 사전을 먼저 보고, 미리보기처럼 사전 파일이 옆에 없으면 Vercel에 있는 사전을 봄
+      for (const base of ON_VERCEL ? ["/toeic/data/words/"] : ["data/words/", VERCEL_URL + "/toeic/data/words/"]) {
+        try {
+          const res = await fetch(base + file);
+          if (!res.ok) continue;
+          const data = await res.json();
+          if (data && data.word && Array.isArray(data.morphemes)) return data;
+        } catch (e) { /* 다음 곳에서 찾기 */ }
+      }
+      return null;
+    }
+
+    // Gemini는 서버(api/toeic.js)에서만 부름. API 키는 Vercel 환경 변수에만 있고 이 파일에는 절대 넣지 않음.
+    async function fetchEtymologyFromGemini(word) {
+      const res = await fetch(API_BASE + "/api/toeic?w=" + encodeURIComponent(word));
+      let data = null;
+      try { data = await res.json(); } catch (e) {}
+      if (!res.ok) throw new Error((data && data.code) || ("api_" + res.status));
+      return data;
+    }
+
+    function createSafeFallbackEtymology(word) {
+      return {
+        word: word,
+        pos: "영어 단어",
+        phonetic: `[${word}]`,
+        meaning: "어원 탐험 준비 중인 단어",
+        isDifficultToSplit: true,
+        morphemes: [
+          {
+            type: "단어 안내",
+            part: word,
+            meaning: "원형 단어",
+            note: "이 단어는 오늘날의 영어에서 접두사나 접미사로 딱딱 나누어 설명하기 어렵거나 고유한 역사를 지닌 단어입니다."
+          }
+        ],
+        summary: `단어 <strong>${word}</strong>는 억지로 쪼개기보다 단어 그 자체의 맥락과 쓰임을 자연스럽게 기억하는 것이 훨씬 좋습니다.`,
+        historyTitle: `${word} 단어의 흥미로운 발자취`,
+        historyBody: `이 단어는 일상 대화와 책에서 자주 쓰이며 오랜 세월 사람들의 입에서 입으로 전해지며 지금의 모양을 갖추었습니다.`,
+        caution: true,
+        familyWords: [
+          { word: word, pos: "단어", meaning: "기본 어휘", en: `Let's use the word "${word}" in our daily speech.`, ko: `우리 일상 대화에서 이 단어를 사용해 봐요.` }
+        ],
+        imageSense: `${word}의 자연스러운 상황 이미지`,
+        imageCaption: `단어의 쓰임을 직관적으로 연상해 보세요.`,
+        movieLineEn: `Have you ever heard the word "${word}" before?`,
+        movieLineKo: `이 단어를 예전에 들어본 적이 있나요?`,
+        storyTitle: `어느 날 우연히 마주친 ${word}`,
+        story: `어느 날 숲속 도서관에서 다람쥐가 오래된 사전을 펼쳤어요. 신비로운 ${word}(단어)가 반짝이며 나타났죠. 다람쥐는 친구들에게 신나서 이 단어를 알려주며 함께 웃음꽃을 피웠답니다.`
+      };
+    }
+
+    // 이야기 속 english(뜻). 숙어처럼 띄어 쓴 표현(run out of(다 떨어지다))도 한 덩어리로 잡음
+    const STORY_TERM = /([a-zA-Z][a-zA-Z\-']*(?: [a-zA-Z][a-zA-Z\-']*)*)\(([^)]+)\)/g;
+
+    function renderResults(data) {
+      // Section A: Word Head
+      document.getElementById("wordHead").textContent = data.word;
+      document.getElementById("wordPos").textContent = data.pos || "단어";
+      document.getElementById("wordPhonetic").textContent = data.phonetic || `[${data.word}]`;
+      document.getElementById("wordMeaning").textContent = data.meaning;
+
+      // Section B: Morpheme Blocks
+      const morphemeContainer = document.getElementById("morphemeContainer");
+      morphemeContainer.innerHTML = "";
+
+      if (data.morphemes && data.morphemes.length > 0) {
+        data.morphemes.forEach((m, idx) => {
+          const colors = [
+            { bg: "bg-sky-50", border: "border-sky-200", badge: "bg-sky-100 text-sky-700", icon: "🚀" },
+            { bg: "bg-mint-50", border: "border-mint-200", badge: "bg-mint-100 text-mint-700", icon: "🌱" },
+            { bg: "bg-amber-50", border: "border-amber-200", badge: "bg-amber-100 text-amber-800", icon: "🎀" }
+          ];
+          const c = colors[idx % colors.length];
+
+          const block = document.createElement("div");
+          block.className = `p-4 rounded-2xl ${c.bg} border-2 ${c.border} flex flex-col justify-between`;
+          block.innerHTML = `
+            <div>
+              <div class="flex items-center justify-between mb-2">
+                <span class="text-xs font-bold px-2.5 py-0.5 rounded-full ${c.badge}">${m.type}</span>
+                <span class="text-lg">${c.icon}</span>
+              </div>
+              <div class="text-2xl font-black font-en text-slate-800 tracking-wide">${m.part}</div>
+              <div class="text-sm font-bold text-slate-700 mt-1">${m.meaning}</div>
+            </div>
+            <p class="text-xs text-slate-500 mt-3 pt-2 border-t border-slate-200/50 leading-relaxed">${m.note}</p>
+          `;
+          morphemeContainer.appendChild(block);
+        });
+      } else {
+        morphemeContainer.innerHTML = `
+          <div class="col-span-3 p-4 bg-cream-100 rounded-2xl text-sm text-slate-600">
+            이 단어는 오늘날의 영어에서 이렇게 나누어 설명하기 어렵습니다. 억지로 분석하기보다 전체 단어의 느낌을 익혀보세요!
+          </div>
+        `;
+      }
+
+      document.getElementById("morphemeSummary").innerHTML = data.summary;
+
+      // Section C: History
+      document.getElementById("historyTitle").textContent = data.historyTitle || "단어의 기원 이야기";
+      document.getElementById("historyBody").textContent = data.historyBody || "단어가 전해져 내려온 배경을 탐색했습니다.";
+      const cautionEl = document.getElementById("historyCaution");
+      if (data.caution) {
+        cautionEl.classList.remove("hidden");
+      } else {
+        cautionEl.classList.add("hidden");
+      }
+
+      // Section D: Family Words Grid
+      const familyGrid = document.getElementById("familyWordsGrid");
+      familyGrid.innerHTML = "";
+      const familyList = data.familyWords || [];
+      document.getElementById("familyCountBadge").textContent = `관련 가족 단어 ${familyList.length}개 발견!`;
+
+      familyList.forEach((item) => {
+        const card = document.createElement("div");
+        card.className = "p-4 rounded-2xl bg-cream-50/80 hover:bg-white border-2 border-cream-200 hover:border-mint-300 transition-all card-shadow";
+        card.innerHTML = `
+          <div class="flex items-baseline justify-between mb-1.5">
+            <span class="text-lg font-bold font-en text-slate-900">${item.word}</span>
+            <span class="text-[11px] font-bold px-2 py-0.5 bg-mint-100 text-mint-800 rounded-full">${item.pos || '단어'}</span>
+          </div>
+          <p class="text-sm font-bold text-mint-700 mb-2">${item.meaning}</p>
+          <div class="bg-white/80 p-2.5 rounded-xl border border-cream-200 text-xs space-y-1">
+            <p class="font-en font-semibold text-slate-800">“${item.en}”</p>
+            <p class="text-slate-500">→ ${item.ko}</p>
+          </div>
+        `;
+        familyGrid.appendChild(card);
+      });
+
+      // Section E: Image metadata
+      document.getElementById("imageSenseTag").textContent = `대표 의미: ${data.imageSense || data.meaning}`;
+      document.getElementById("imageCaptionDescription").textContent = data.imageCaption || "단어의 대표 장면을 머릿속에 담아 보세요.";
+      const googleImgUrl = `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(data.word + " educational illustration cartoon")}`;
+      document.getElementById("externalImgSearchLink").href = googleImgUrl;
+      document.getElementById("googleImageDirectBtn").href = googleImgUrl;
+      document.getElementById("externalImgSearchLabel").textContent = `Google 이미지에서 '${data.word}' 사진 더 보기`;
+
+      // Section F: Movie expression & playphrase link
+      document.getElementById("movieLineEn").textContent = `"${data.movieLineEn || 'Discover new words in motion pictures.'}"`;
+      document.getElementById("movieLineKo").textContent = `"${data.movieLineKo || '영화 속 생생한 대사로 귀를 열어보세요.'}"`;
+      document.getElementById("playphraseLink").href = `https://www.playphrase.me/#/search?q=${encodeURIComponent(data.word)}`;
+
+      // Section G: Story & Word tags (Highlights minimum 5 words)
+      document.getElementById("storyTitle").textContent = data.storyTitle || "엉뚱한 단어 탐험 이야기";
+      
+      const rawStory = data.story || "";
+      // Format words matching "word(meaning)" to be styled badges
+      const formattedStory = rawStory.replace(STORY_TERM, (match, eng, kor) => {
+        return `<span class="inline-flex items-center px-1.5 py-0.5 mx-0.5 rounded-lg bg-rose-100 text-rose-800 font-bold border border-rose-200 text-xs sm:text-sm font-en">${eng}<span class="text-rose-600 font-sans font-normal ml-0.5 text-[11px]">(${kor})</span></span>`;
+      });
+      document.getElementById("storyContent").innerHTML = formattedStory;
+      document.getElementById("storyCharCount").textContent = `${rawStory.length}자 / 최대 300자`;
+
+      // Extract and display used words tag pills
+      const wordTagsContainer = document.getElementById("storyWordsTags");
+      wordTagsContainer.innerHTML = "";
+      const matches = [...rawStory.matchAll(STORY_TERM)];
+
+      if (matches.length > 0) {
+        matches.forEach((m, i) => {
+          const pill = document.createElement("span");
+          pill.className = "inline-flex items-center gap-1 px-2.5 py-1 bg-white border border-rose-200 rounded-full text-slate-700 shadow-sm";
+          pill.innerHTML = `<span class="w-4 h-4 rounded-full bg-rose-500 text-white flex items-center justify-center text-[10px] font-bold">${i+1}</span> <strong class="font-en text-rose-700">${m[1]}</strong>: <span>${m[2]}</span>`;
+          wordTagsContainer.appendChild(pill);
+        });
+      } else {
+        wordTagsContainer.innerHTML = `<span class="text-xs text-slate-400">이야기 속 단어 추출 완료</span>`;
+      }
+    }
+
+    // High quality curated stock web images for common etymology words
+    const CURATED_IMAGE_RESOURCES = {};
+
+    function generateWordIllustration(word, senseDescription) {
+      const spinner = document.getElementById("imageLoadingSpinner");
+      const imgTag = document.getElementById("wordMainImage");
+      const svgBox = document.getElementById("wordSvgPlaceholder");
+
+      if (spinner) spinner.classList.remove("hidden");
+      if (imgTag) imgTag.classList.add("hidden");
+      if (svgBox) svgBox.classList.add("hidden");
+
+      const cleanWord = (word || "").trim().toLowerCase();
+
+      // 이전 그림의 처리기를 떼고 주소를 비움. 같은 주소를 다시 넣으면 onload가 안 불려 계속 돌기 때문.
+      imgTag.onload = imgTag.onerror = null;
+      imgTag.removeAttribute("src");
+
+      // 단어마다 Wikipedia 대표 사진 → Wikimedia Commons 검색 순으로 찾아 보여 줌.
+      // 못 찾거나 느리거나 사진이 깨지면 장면 설명 카드로 바꿔서, 상자가 비거나 계속 돌지 않게 함.
+      const token = ++imageRequestToken;
+      const fallback = () => { if (token === imageRequestToken) renderSvgPlaceholder(cleanWord, senseDescription); };
+      imgTag.onerror = fallback;
+      const guard = setTimeout(fallback, 12000);
+      imgTag.onload = () => {
+        clearTimeout(guard);
+        if (token !== imageRequestToken) return;
+        if (spinner) spinner.classList.add("hidden");
+        imgTag.classList.remove("hidden");
+      };
+      findWordImage(cleanWord).then(url => {
+        if (token !== imageRequestToken) return;  // 그사이 다른 단어를 찾았으면 무시
+        if (url) imgTag.src = url;
+        else { clearTimeout(guard); fallback(); }
+      }).catch(() => { clearTimeout(guard); fallback(); });
+    }
+
+    let imageRequestToken = 0;
+    const imageCache = {};
+
+    async function fetchJson(url, ms) {
+      const ctrl = new AbortController();
+      const timer = setTimeout(() => ctrl.abort(), ms);
+      try {
+        const res = await fetch(url, { signal: ctrl.signal });
+        return res.ok ? await res.json() : null;
+      } catch (e) {
+        return null;
+      } finally {
+        clearTimeout(timer);
+      }
+    }
+
+    async function findWordImage(word) {
+      if (CURATED_IMAGE_RESOURCES[word]) return CURATED_IMAGE_RESOURCES[word];
+      if (word in imageCache) return imageCache[word];
+      const url = (await findWikipediaImage(word)) || (await findCommonsImage(word));
+      imageCache[word] = url;
+      return url;
+    }
+
+    // 영어 위키백과 문서의 대표 사진 (명사는 대체로 잘 맞음)
+    async function findWikipediaImage(word) {
+      const data = await fetchJson("https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1"
+        + "&prop=pageimages|pageprops&piprop=thumbnail&pithumbsize=600&titles=" + encodeURIComponent(word), 6000);
+      const pages = Object.values(((data || {}).query || {}).pages || {});
+      for (const p of pages) {
+        if (p.pageprops && "disambiguation" in p.pageprops) continue;
+        const src = p.thumbnail && p.thumbnail.source;
+        if (src && /\.(jpe?g|png)$/i.test(src.split("?")[0])) return src;
+      }
+      return null;
+    }
+
+    // Wikimedia Commons(자유 이용 사진) 검색
+    async function findCommonsImage(query) {
+      const data = await fetchJson("https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*"
+        + "&generator=search&gsrnamespace=6&gsrlimit=10&gsrsearch=" + encodeURIComponent(query + " filetype:bitmap")
+        + "&prop=imageinfo&iiprop=url|mime&iiurlwidth=600", 6000);
+      const pages = Object.values(((data || {}).query || {}).pages || {}).sort((a, b) => a.index - b.index);
+      for (const p of pages) {
+        const info = p.imageinfo && p.imageinfo[0];
+        if (info && /image\/(jpeg|png)/.test(info.mime) && info.thumburl) return info.thumburl;
+      }
+      return null;
+    }
+  </script>
+</body>
+</html>

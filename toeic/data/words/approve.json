@@ -1,0 +1,68 @@
+{
+ "word": "approve",
+ "pos": "동사",
+ "phonetic": "[əˈpruːv]",
+ "meaning": "승인하다, 찬성하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ap- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "ad-가 p 앞에서 ap-으로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "prove",
+   "meaning": "시험하다, 좋다고 보다 (test, prove)",
+   "note": "라틴어 probare(시험하다, 좋다고 인정하다), probus(좋은)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ap-</strong> (~에) + <strong>prove</strong> (시험해 좋다고 보다) = '시험해 보고 좋다고 인정하다'에서 <strong>'승인하다'</strong>가 되었어요.",
+ "historyTitle": "시험을 통과해야 승인",
+ "historyBody": "라틴어 approbare는 '시험해 보고 좋다고 인정하다'였어요. probare에서 prove(증명하다), probe(조사하다), probation(수습 기간, 시험해 보는 기간)이 나왔죠. 회사에서 신입이 거치는 probation period(수습 기간)도 결국 '시험해 보고 승인하는' 기간이에요. 'approve of(~을 찬성하다)'도 함께 알아 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "approval",
+   "pos": "명사",
+   "meaning": "승인",
+   "en": "The plan needs the director's approval.",
+   "ko": "그 계획은 이사의 승인이 필요해요."
+  },
+  {
+   "word": "disapprove",
+   "pos": "동사",
+   "meaning": "반대하다",
+   "en": "The board disapproved of the merger.",
+   "ko": "이사회가 합병에 반대했어요."
+  },
+  {
+   "word": "prove",
+   "pos": "동사",
+   "meaning": "증명하다, ~임이 드러나다",
+   "en": "The new design proved very popular.",
+   "ko": "새 디자인은 큰 인기를 끌었어요."
+  },
+  {
+   "word": "probation",
+   "pos": "명사",
+   "meaning": "수습 기간",
+   "en": "New hires have a three-month probation period.",
+   "ko": "신입은 3개월 수습 기간이 있어요."
+  },
+  {
+   "word": "proof",
+   "pos": "명사",
+   "meaning": "증거, 증명",
+   "en": "Please keep proof of payment.",
+   "ko": "결제 증빙을 보관하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 서류에 '승인' 도장이 쾅 찍히는 장면",
+ "imageCaption": "꼼꼼히 시험해 본 뒤 고개를 끄덕이는 상사를 떠올려 보세요.",
+ "movieLineEn": "My boss finally approved my vacation.",
+ "movieLineKo": "상사가 드디어 휴가를 승인해 줬어.",
+ "storyTitle": "도장 찍기 대회",
+ "story": "결재가 느리기로 유명한 부장님이 있었어요. 서류 하나를 approve(승인하다)하는 데 일주일! 직원들은 approval(승인) 기다리다 지쳐 버렸죠. 그러다 신입이 '도장 빨리 찍기 대회'를 제안했어요. 부장님은 승부욕에 불타 하루에 서류 백 장을 처리했어요. 결국 신입은 probation(수습 기간)을 1등으로 통과했어요. 그 아이디어가 효과 있다는 걸 prove(증명하다)한 덕분이었죠. 그 사진이 가장 확실한 proof(증거)로 사보에 실렸답니다."
+}

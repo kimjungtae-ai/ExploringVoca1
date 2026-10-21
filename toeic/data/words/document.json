@@ -1,0 +1,68 @@
+{
+ "word": "document",
+ "pos": "명사 / 동사",
+ "phonetic": "명사 [ˈdɑːkjumənt] / 동사 [ˈdɑːkjument]",
+ "meaning": "문서, 서류 / 기록하다, 문서로 입증하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "docu",
+   "meaning": "가르치다 (teach)",
+   "note": "라틴어 docere(가르치다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 것",
+   "note": "라틴어 documentum(가르침, 증거)의 꼬리예요."
+  }
+ ],
+ "summary": "<strong>docu</strong> (가르치다) + <strong>-ment</strong> (것) = '가르쳐 주는 것, 증거'에서 <strong>'문서, 서류'</strong>가 되었어요.",
+ "historyTitle": "가르쳐 주는 종이",
+ "historyBody": "라틴어 documentum은 '가르침, 본보기, 증거'였어요. 무언가를 '알려 주는' 것이라 증거가 되는 글, 곧 문서를 뜻하게 되었죠. 같은 docere에서 doctor(원래 '가르치는 사람', 박사), doctrine(교리, 가르침)이 나왔어요. 다큐멘터리(documentary)도 '사실을 기록해 알려 주는' 영상이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "documentation",
+   "pos": "명사",
+   "meaning": "증빙 서류, 문서화",
+   "en": "Please bring documentation of your expenses.",
+   "ko": "경비 증빙 서류를 가져오세요."
+  },
+  {
+   "word": "documentary",
+   "pos": "명사",
+   "meaning": "다큐멘터리",
+   "en": "The documentary is about green energy.",
+   "ko": "그 다큐멘터리는 친환경 에너지에 관한 거예요."
+  },
+  {
+   "word": "doctor",
+   "pos": "명사",
+   "meaning": "의사, 박사",
+   "en": "Dr. Lee will give the opening speech.",
+   "ko": "이 박사님이 개회사를 하실 거예요."
+  },
+  {
+   "word": "doctrine",
+   "pos": "명사",
+   "meaning": "원칙, 교리",
+   "en": "The company follows a customer-first doctrine.",
+   "ko": "회사는 고객 우선 원칙을 따라요."
+  },
+  {
+   "word": "docile",
+   "pos": "형용사",
+   "meaning": "온순한 (잘 배우는)",
+   "en": "The trainer said the dog was very docile.",
+   "ko": "조련사는 그 개가 아주 온순하다고 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 쌓인 서류철과 도장",
+ "imageCaption": "무언가를 알려 주고 증명해 주는 종이 한 장을 떠올려 보세요.",
+ "movieLineEn": "Please sign this document.",
+ "movieLineKo": "이 서류에 서명해 주세요.",
+ "storyTitle": "사라진 서류",
+ "story": "법무팀 은 대리가 중요한 document(문서)를 잃어버렸어요. 사무실을 다 뒤졌지만 없었죠. 그때 동료가 말했어요. '그 documentation(증빙 서류), 네 커피잔 받침으로 쓰고 있잖아!' 서류엔 동그란 커피 자국이 선명했어요. 다행히 고객은 그 자국을 보고 웃으며 '정말 열심히 일하셨네요'라고 했어요. 그 뒤 doctor(박사) 출신 팀장님이 새 doctrine(원칙)을 만들었어요. '서류는 컵 받침이 아니다.' 이 사건은 사내 documentary(다큐멘터리)로도 만들어졌답니다."
+}

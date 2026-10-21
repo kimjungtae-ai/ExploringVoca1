@@ -1,0 +1,68 @@
+{
+ "word": "transfer",
+ "pos": "동사 / 명사",
+ "phonetic": "[trænsˈfɜːr]",
+ "meaning": "옮기다, 전근하다, 송금하다 / 이동, 환승, 송금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "trans-",
+   "meaning": "건너서, 저쪽으로 (across)",
+   "note": "이쪽에서 저쪽으로 건너가는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fer",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 ferre(나르다, 가져가다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>trans-</strong> (건너편으로) + <strong>fer</strong> (나르다) = '저쪽으로 옮겨 나르다'에서 <strong>'옮기다, 전근하다, 송금하다'</strong>가 되었어요.",
+ "historyTitle": "사람도, 돈도, 선수도 옮기는 단어",
+ "historyBody": "라틴어 transferre는 '건너편으로 나르다'였어요. 사람을 다른 지점으로 옮기면 전근, 돈을 다른 계좌로 옮기면 송금, 다른 비행기로 옮겨 타면 환승이에요. 지금은 축구 선수의 이적도 transfer라고 부르죠.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "conference",
+   "pos": "명사",
+   "meaning": "회의, 학회 (함께 가져옴)",
+   "en": "The annual conference will take place in Singapore.",
+   "ko": "연례 회의는 싱가포르에서 열려요."
+  },
+  {
+   "word": "refer",
+   "pos": "동사",
+   "meaning": "참고하다, 언급하다",
+   "en": "Please refer to the attached document for details.",
+   "ko": "자세한 내용은 첨부 문서를 참고해 주세요."
+  },
+  {
+   "word": "offer",
+   "pos": "동사 / 명사",
+   "meaning": "제안(하다), 제공(하다)",
+   "en": "We offer free shipping on orders over $50.",
+   "ko": "50달러 이상 주문은 무료 배송해 드려요."
+  },
+  {
+   "word": "preference",
+   "pos": "명사",
+   "meaning": "선호",
+   "en": "Please indicate your seating preference.",
+   "ko": "선호하는 좌석을 표시해 주세요."
+  },
+  {
+   "word": "differ",
+   "pos": "동사",
+   "meaning": "다르다 (따로 나르다)",
+   "en": "Prices differ from store to store.",
+   "ko": "가격은 매장마다 달라요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항 전광판 앞에서 환승 게이트를 찾는 여행객",
+ "imageCaption": "비행기를 갈아타려고 다른 게이트로 이동하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm going to transfer the money to your account.",
+ "movieLineKo": "네 계좌로 돈을 보낼게.",
+ "storyTitle": "잘못 간 전근 발령",
+ "story": "박 과장은 부산 지점으로 transfer(전근하다)하라는 메일을 받았어요. 짐을 싸서 기차에 탔는데 인사팀 전화가 왔죠. '죄송해요, 다른 박 과장님이었어요.' 사과의 뜻으로 회사는 휴가를 offer(제안하다)했어요. 박 과장은 conference(회의) 자료를 refer(참고하다)하는 대신, 자신의 preference(선호)대로 바다를 보러 갔답니다."
+}

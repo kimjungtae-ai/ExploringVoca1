@@ -1,0 +1,68 @@
+{
+ "word": "interview",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɪntərvjuː]",
+ "meaning": "면접, 인터뷰 / 면접을 보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "inter-",
+   "meaning": "사이에, 서로 (between)",
+   "note": "두 사람 사이를 가리켜요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "view",
+   "meaning": "보다 (see)",
+   "note": "고대 프랑스어 veoir, 라틴어 videre(보다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>inter-</strong> (서로) + <strong>view</strong> (보다) = '서로 마주 보다'에서 <strong>'면접, 인터뷰'</strong>가 되었어요.",
+ "historyTitle": "서로 얼굴을 보는 만남",
+ "historyBody": "프랑스어 entrevue는 '서로 보기', 곧 얼굴을 맞대는 만남이었어요. 영어로 들어와 interview가 되었고, 19세기 신문 기자들이 유명인과 마주 앉아 묻고 답하는 일을 interview라 부르면서 '인터뷰'라는 뜻이 퍼졌어요. 지금은 취업 면접에 가장 많이 쓰여요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "interviewer",
+   "pos": "명사",
+   "meaning": "면접관",
+   "en": "The interviewer asked about my experience.",
+   "ko": "면접관이 내 경력에 대해 물었어요."
+  },
+  {
+   "word": "interviewee",
+   "pos": "명사",
+   "meaning": "면접 대상자",
+   "en": "Each interviewee will have 20 minutes.",
+   "ko": "면접자마다 20분씩 주어져요."
+  },
+  {
+   "word": "review",
+   "pos": "명사 / 동사",
+   "meaning": "검토(하다), 후기",
+   "en": "Please review the contract before signing.",
+   "ko": "서명하기 전에 계약서를 검토해 주세요."
+  },
+  {
+   "word": "preview",
+   "pos": "명사",
+   "meaning": "미리 보기, 시사회",
+   "en": "Members can attend a preview of the new collection.",
+   "ko": "회원은 신상품 미리 보기 행사에 올 수 있어요."
+  },
+  {
+   "word": "viewpoint",
+   "pos": "명사",
+   "meaning": "관점",
+   "en": "Let's look at this from the customer's viewpoint.",
+   "ko": "고객의 관점에서 봐 봅시다."
+  }
+ ],
+ "imageSense": "대표 의미: 테이블을 사이에 두고 마주 앉은 면접관과 지원자",
+ "imageCaption": "두 사람이 서로의 눈을 바라보며 대화하는 장면을 떠올려 보세요.",
+ "movieLineEn": "I have a job interview tomorrow.",
+ "movieLineKo": "나 내일 면접 있어.",
+ "storyTitle": "거꾸로 된 면접",
+ "story": "지원자 지호는 interview(면접) 장소에 일찍 도착해 빈 의자에 앉았어요. 잠시 뒤 들어온 사람이 긴장한 얼굴로 인사했죠. 지호는 그가 interviewee(면접 대상자)인 줄 알고 질문을 시작했어요! 10분 뒤 그 사람이 말했어요. '저… 제가 interviewer(면접관)인데요.' 둘은 크게 웃었고, 면접관은 지호의 자신감을 높이 review(평가하다)했어요. 다른 viewpoint(관점)에서 본 면접은 대성공이었답니다."
+}

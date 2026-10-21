@@ -1,0 +1,74 @@
+{
+ "word": "evaluate",
+ "pos": "동사",
+ "phonetic": "[ɪˈvæljueɪt]",
+ "meaning": "평가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "e- (ex-)",
+   "meaning": "밖으로 (out)",
+   "note": "ex-가 e-로 줄어든 형태예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "valu",
+   "meaning": "가치 (value, worth)",
+   "note": "라틴어 valere(힘이 있다, 가치가 있다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>e-</strong> (밖으로) + <strong>valu</strong> (가치) + <strong>-ate</strong> = '숨은 가치를 밖으로 끌어내 따져 보다'에서 <strong>'평가하다'</strong>가 되었어요.",
+ "historyTitle": "'건강하세요!'라는 로마 인사",
+ "historyBody": "valere는 '힘이 세다, 건강하다'라는 뜻이었어요. 로마 사람들은 편지 끝에 'Vale!(건강하세요!)'라고 썼죠. 힘이 있는 것이 곧 '가치 있는 것'이 되어 value가 되었어요. evaluate는 명사 evaluation에서 거꾸로 만들어진 동사예요. 토익에서는 performance evaluation(업무 평가)으로 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "evaluation",
+   "pos": "명사",
+   "meaning": "평가",
+   "en": "Employees receive a performance evaluation every year.",
+   "ko": "직원들은 매년 업무 평가를 받아요."
+  },
+  {
+   "word": "valuable",
+   "pos": "형용사",
+   "meaning": "귀중한",
+   "en": "Thank you for your valuable feedback.",
+   "ko": "소중한 의견 감사합니다."
+  },
+  {
+   "word": "valid",
+   "pos": "형용사",
+   "meaning": "유효한",
+   "en": "This coupon is valid until December 31.",
+   "ko": "이 쿠폰은 12월 31일까지 유효해요."
+  },
+  {
+   "word": "available",
+   "pos": "형용사",
+   "meaning": "이용 가능한, 시간이 되는",
+   "en": "Is the conference room available tomorrow?",
+   "ko": "내일 회의실 쓸 수 있나요?"
+  },
+  {
+   "word": "prevalent",
+   "pos": "형용사",
+   "meaning": "널리 퍼진",
+   "en": "Remote work is now prevalent in the IT industry.",
+   "ko": "원격 근무는 이제 IT 업계에 널리 퍼졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 심사위원들이 점수판을 들고 발표를 평가하는 장면",
+ "imageCaption": "숨어 있던 가치를 돋보기로 꺼내 저울에 올리는 모습을 떠올려 보세요.",
+ "movieLineEn": "We'll evaluate the results next week.",
+ "movieLineKo": "결과는 다음 주에 평가할 거야.",
+ "storyTitle": "자기 평가서",
+ "story": "연말 evaluation(평가) 시즌, 도윤 씨는 자기 평가서 모든 칸에 '최고'라고 적었어요. 팀장님이 물었죠. '근거가 valid(유효한)한가요?' '제가 저를 evaluate(평가하다)해 보니 정말 valuable(귀중한) 사람이더라고요.' 팀장님은 웃음을 참으며 말했어요. '다음 면담은 언제 available(시간이 되는)해요?' 결국 그 자신감에만 별 다섯 개가 붙었답니다."
+}

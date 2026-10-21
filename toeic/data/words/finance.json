@@ -1,0 +1,68 @@
+{
+ "word": "finance",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈfaɪnæns]",
+ "meaning": "재정, 금융, 재무 / 자금을 대다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "fin",
+   "meaning": "끝, 끝내다 (end)",
+   "note": "라틴어 finis(끝), 고대 프랑스어 finer(끝내다, 빚을 갚다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>fin</strong> (끝내다) + <strong>-ance</strong> = '빚을 다 갚아 끝내는 일'에서 <strong>'재정, 금융'</strong>이 되었어요.",
+ "historyTitle": "빚을 '끝내는' 일",
+ "historyBody": "고대 프랑스어 finance는 '빚을 다 갚아 끝내기, 결제'였어요. 돈 문제를 마무리 짓는 일이 점점 돈을 관리하는 일 전체를 뜻하게 되었죠. finis(끝) 가족으로 final(마지막의), finish(끝내다), fine(벌금, 일을 끝내려고 내는 돈)이 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "financial",
+   "pos": "형용사",
+   "meaning": "재정의, 금융의",
+   "en": "The financial report will be released on Friday.",
+   "ko": "재무 보고서는 금요일에 나와요."
+  },
+  {
+   "word": "financing",
+   "pos": "명사",
+   "meaning": "자금 조달",
+   "en": "The company is seeking financing for expansion.",
+   "ko": "회사는 확장 자금을 구하고 있어요."
+  },
+  {
+   "word": "final",
+   "pos": "형용사",
+   "meaning": "마지막의, 최종의",
+   "en": "The final decision will be made next week.",
+   "ko": "최종 결정은 다음 주에 나요."
+  },
+  {
+   "word": "finalize",
+   "pos": "동사",
+   "meaning": "마무리하다, 확정하다",
+   "en": "We need to finalize the budget by Monday.",
+   "ko": "월요일까지 예산을 확정해야 해요."
+  },
+  {
+   "word": "fine",
+   "pos": "명사",
+   "meaning": "벌금",
+   "en": "There is a fine for late payment.",
+   "ko": "연체하면 벌금이 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 계산기와 장부를 펼쳐 놓고 숫자를 맞추는 재무 담당자",
+ "imageCaption": "장부 마지막 줄에 '끝'을 쓰며 빚을 다 갚는 모습을 떠올려 보세요.",
+ "movieLineEn": "She works in finance at a big bank.",
+ "movieLineKo": "그녀는 큰 은행 재무 부서에서 일해.",
+ "storyTitle": "벌금 없는 재무팀",
+ "story": "재무팀 finance(재무) 담당 오 팀장은 숫자를 끝까지 맞춰야 퇴근했어요. 어느 날 장부가 딱 100원 안 맞았죠. 밤 11시까지 financial(재정의) 보고서를 다시 보던 그는 결국 원인을 찾았어요. 자판기에 넣은 동전 100원! 그는 장부를 finalize(확정하다)하고 웃으며 외쳤어요. '드디어 final(마지막의) 숫자 완성!' 대신 늦은 퇴근 탓에 주차장 fine(벌금)을 냈답니다."
+}

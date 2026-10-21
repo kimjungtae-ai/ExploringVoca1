@@ -1,0 +1,68 @@
+{
+ "word": "repair",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈper]",
+ "meaning": "수리하다 / 수리",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "원래 상태로 되돌리는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pair",
+   "meaning": "준비하다, 갖추다 (prepare)",
+   "note": "라틴어 parare(준비하다)에서 왔어요. '한 쌍'의 pair와는 다른 말이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>pair</strong> (갖추다) = '다시 제대로 갖추다'에서 <strong>'수리하다'</strong>가 되었어요.",
+ "historyTitle": "'짝'이 아니라 '준비'",
+ "historyBody": "repair의 pair는 신발 한 켤레(pair)와 철자만 같아요. 실제 뿌리는 라틴어 reparare(다시 준비하다)예요. parare에서 prepare(미리 준비하다), separate(따로 떼어 놓다), apparatus(장치)가 나왔어요. 토익에서는 'under repair(수리 중)', 'repair shop(수리점)'이 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prepare",
+   "pos": "동사",
+   "meaning": "준비하다",
+   "en": "Please prepare the slides before the meeting.",
+   "ko": "회의 전에 슬라이드를 준비해 주세요."
+  },
+  {
+   "word": "preparation",
+   "pos": "명사",
+   "meaning": "준비",
+   "en": "Preparation for the trade show begins in May.",
+   "ko": "박람회 준비는 5월에 시작돼요."
+  },
+  {
+   "word": "separate",
+   "pos": "동사 / 형용사",
+   "meaning": "분리하다 / 별개의",
+   "en": "Please keep receipts in a separate folder.",
+   "ko": "영수증은 별도 폴더에 보관하세요."
+  },
+  {
+   "word": "repairman",
+   "pos": "명사",
+   "meaning": "수리공",
+   "en": "The repairman fixed the copier in an hour.",
+   "ko": "수리공이 한 시간 만에 복사기를 고쳤어요."
+  },
+  {
+   "word": "irreparable",
+   "pos": "형용사",
+   "meaning": "돌이킬 수 없는",
+   "en": "The flood caused irreparable damage to the files.",
+   "ko": "홍수로 서류가 회복 불가능하게 손상됐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공구 상자를 열고 고장 난 복사기를 고치는 수리공",
+ "imageCaption": "망가진 부품을 하나씩 다시 갖춰 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "How much will it cost to repair it?",
+ "movieLineKo": "그거 고치는 데 얼마 들어요?",
+ "storyTitle": "복사기의 마음",
+ "story": "사무실 복사기가 또 고장 났어요. repairman(수리공)이 와서 꼼꼼히 repair(수리하다)했지만 30분 뒤 또 멈췄죠. 그가 깊은 preparation(준비) 끝에 내린 결론은 이랬어요. '이 복사기는 월요일만 되면 멈춥니다.' 직원들은 월요일 서류를 금요일에 prepare(준비하다)하기 시작했어요. 복사기와 월요일을 separate(분리하다)하자 고장이 사라졌답니다. 복사기도 월요병이 있었나 봐요."
+}

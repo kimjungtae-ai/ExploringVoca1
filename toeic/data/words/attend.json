@@ -1,0 +1,68 @@
+{
+ "word": "attend",
+ "pos": "동사",
+ "phonetic": "[əˈtend]",
+ "meaning": "참석하다, 다니다; (to) 처리하다, 돌보다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "at- (ad-)",
+   "meaning": "~쪽으로 (to)",
+   "note": "ad-가 t 앞에서 at-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tend",
+   "meaning": "뻗다 (stretch)",
+   "note": "라틴어 tendere(뻗다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>at-</strong> (~쪽으로) + <strong>tend</strong> (뻗다) = '몸과 마음을 그쪽으로 뻗다'에서 <strong>'참석하다, 주의를 기울이다'</strong>가 되었어요.",
+ "historyTitle": "마음을 뻗는 것이 곧 참석",
+ "historyBody": "attend는 원래 '~에 주의를 기울이다'였어요. 그래서 attention(주의)과 같은 집안이죠. 손님에게 마음을 쏟는 사람이 attendant(안내원, 승무원)가 되었어요. attend는 타동사라서 'attend the meeting'처럼 전치사 없이 쓰는 것이 Part 5 단골 함정이에요. attend to는 '처리하다'예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "attendance",
+   "pos": "명사",
+   "meaning": "참석, 출석(률)",
+   "en": "Attendance at the workshop is mandatory.",
+   "ko": "워크숍 참석은 필수예요."
+  },
+  {
+   "word": "attendee",
+   "pos": "명사",
+   "meaning": "참석자",
+   "en": "Each attendee will receive a name tag.",
+   "ko": "참석자마다 이름표를 받아요."
+  },
+  {
+   "word": "attention",
+   "pos": "명사",
+   "meaning": "주의, 관심",
+   "en": "May I have your attention, please?",
+   "ko": "잠시 주목해 주시겠어요?"
+  },
+  {
+   "word": "attendant",
+   "pos": "명사",
+   "meaning": "안내원, 승무원",
+   "en": "Ask a flight attendant if you need a blanket.",
+   "ko": "담요가 필요하면 승무원에게 말하세요."
+  },
+  {
+   "word": "attentive",
+   "pos": "형용사",
+   "meaning": "세심한, 주의 깊은",
+   "en": "The hotel staff were friendly and attentive.",
+   "ko": "호텔 직원들은 친절하고 세심했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 세미나실 의자에 앉아 발표를 듣는 참석자들",
+ "imageCaption": "몸과 시선이 모두 발표자 쪽으로 쭉 뻗어 있는 모습을 떠올려 보세요.",
+ "movieLineEn": "Are you going to attend the meeting tomorrow?",
+ "movieLineKo": "내일 회의 참석할 거야?",
+ "storyTitle": "모든 회의 참석왕",
+ "story": "나 대리는 회사의 모든 회의에 attend(참석하다)했어요. attendance(출석률) 100%로 상까지 받았죠. 시상식에서 사장님이 물었어요. '그런데 본인 업무는 언제 해요?' 나 대리는 잠시 생각하다 말했어요. '그걸 논의하는 회의도 잡아 주세요.' 모든 attendee(참석자)의 attention(주목)이 쏟아졌고, 늘 attentive(세심한) 비서는 조용히 회의실을 하나 더 예약했답니다."
+}

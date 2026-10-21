@@ -1,0 +1,68 @@
+{
+ "word": "deliver",
+ "pos": "동사",
+ "phonetic": "[dɪˈlɪvər]",
+ "meaning": "배달하다, 전달하다, (연설을) 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "~에서 떨어져 (away, from)",
+   "note": "무언가에서 벗어나는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "liver",
+   "meaning": "자유롭게 하다 (free)",
+   "note": "라틴어 liberare(풀어 주다), liber(자유로운)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (~에서) + <strong>liver</strong> (풀어 주다) = '손에서 풀어 넘겨주다'에서 <strong>'배달하다, 전달하다'</strong>가 되었어요.",
+ "historyTitle": "풀어 주다에서 넘겨주다로",
+ "historyBody": "라틴어 deliberare(완전히 풀어 주다)가 고대 프랑스어 delivrer를 거쳐 왔어요. 처음엔 '구해 내다, 해방하다'였는데, 내 손에서 물건을 풀어 남에게 넘기는 '배달'로 뜻이 넓어졌죠. liberty(자유), liberal(자유로운)이 같은 뿌리예요. deliver a speech(연설하다)도 토익에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "delivery",
+   "pos": "명사",
+   "meaning": "배달, 배송",
+   "en": "Free delivery is available for orders over $30.",
+   "ko": "30달러 이상 주문은 무료 배송돼요."
+  },
+  {
+   "word": "liberty",
+   "pos": "명사",
+   "meaning": "자유",
+   "en": "Employees have the liberty to choose their hours.",
+   "ko": "직원들은 근무 시간을 자유롭게 정할 수 있어요."
+  },
+  {
+   "word": "liberal",
+   "pos": "형용사",
+   "meaning": "관대한, 자유로운",
+   "en": "The company has a liberal vacation policy.",
+   "ko": "그 회사는 휴가 정책이 너그러워요."
+  },
+  {
+   "word": "deliverable",
+   "pos": "명사",
+   "meaning": "결과물, 산출물",
+   "en": "The main deliverable is a final report.",
+   "ko": "주요 결과물은 최종 보고서예요."
+  },
+  {
+   "word": "liberate",
+   "pos": "동사",
+   "meaning": "해방시키다",
+   "en": "The new software liberates staff from paperwork.",
+   "ko": "새 프로그램이 직원을 서류 작업에서 해방시켜요."
+  }
+ ],
+ "imageSense": "대표 의미: 택배 기사가 문 앞에 상자를 건네는 장면",
+ "imageCaption": "손에 꼭 쥐고 있던 상자를 풀어 남에게 넘겨주는 순간을 떠올려 보세요.",
+ "movieLineEn": "Can you deliver it by Friday?",
+ "movieLineKo": "금요일까지 배달해 줄 수 있어요?",
+ "storyTitle": "자유를 배달합니다",
+ "story": "택배 회사 신입 하준은 상자를 deliver(배달하다)하다 엘리베이터에 갇혔어요. 30분 뒤 구조되자 그는 외쳤어요. '드디어 liberty(자유)다!' 고객은 늦은 delivery(배송)에 화를 내려다, 상자 속 물건을 보고 웃었어요. 탈출 게임 세트였거든요. 회사는 liberal(너그러운) 보상으로 상품권을 줬고, 하준의 첫 deliverable(결과물)은 '엘리베이터 점검 보고서'가 되었답니다."
+}

@@ -1,0 +1,61 @@
+{
+ "word": "budget",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈbʌdʒɪt]",
+ "meaning": "예산(안) / 예산을 세우다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "budg",
+   "meaning": "가죽 주머니 (leather bag)",
+   "note": "고대 프랑스어 bouge(가죽 가방)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-et",
+   "meaning": "작은 것",
+   "note": "프랑스어 지소사 -ette에서 왔어요."
+  }
+ ],
+ "summary": "<strong>budg</strong> (가죽 주머니) + <strong>-et</strong> (작은) = '작은 돈주머니'에서 <strong>'예산'</strong>이 되었어요.",
+ "historyTitle": "재무장관의 가죽 가방",
+ "historyBody": "budget은 고대 프랑스어 bougette(작은 가죽 주머니)에서 왔어요. 18세기 영국에서는 재무장관이 의회에서 나라 살림 계획을 발표하는 일을 '주머니를 연다(open the budget)'라고 했죠. 그때부터 주머니 속 계획, 곧 '예산'이라는 뜻이 되었어요. 지금도 영국 재무장관은 빨간 가방을 들고 예산 발표를 하러 가요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "budgetary",
+   "pos": "형용사",
+   "meaning": "예산의",
+   "en": "The project was canceled due to budgetary limits.",
+   "ko": "예산 한도 때문에 프로젝트가 취소됐어요."
+  },
+  {
+   "word": "budget-friendly",
+   "pos": "형용사",
+   "meaning": "저렴한, 예산에 맞는",
+   "en": "The hotel offers budget-friendly rooms for students.",
+   "ko": "그 호텔은 학생용 저렴한 객실이 있어요."
+  },
+  {
+   "word": "over budget",
+   "pos": "형용사구",
+   "meaning": "예산 초과의",
+   "en": "The construction work is already over budget.",
+   "ko": "공사가 벌써 예산을 넘었어요."
+  },
+  {
+   "word": "budget cut",
+   "pos": "명사구",
+   "meaning": "예산 삭감",
+   "en": "The department faces a budget cut next year.",
+   "ko": "그 부서는 내년에 예산이 깎여요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 가죽 지갑을 열어 동전을 세는 회계 담당자",
+ "imageCaption": "돈주머니 안을 들여다보며 쓸 곳을 정하는 모습을 떠올려 보세요.",
+ "movieLineEn": "We're running out of budget.",
+ "movieLineKo": "예산이 바닥나고 있어.",
+ "storyTitle": "가죽 주머니의 반란",
+ "story": "재무팀 신입 지우는 회사 budget(예산)을 정리하다 깜짝 놀랐어요. 프로젝트가 벌써 over budget(예산 초과의) 상태였거든요. 원인을 찾아보니 '사무실 화분 물 주기 로봇' 구입비였죠. 팀장님은 다음 해 budget cut(예산 삭감)을 막으려고 더 budget-friendly(저렴한) 방법을 냈어요. '물은 인턴이 줍니다.' budgetary(예산의) 문제가 이렇게 쉽게 풀릴 줄 누가 알았을까요?"
+}

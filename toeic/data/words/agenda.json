@@ -1,0 +1,68 @@
+{
+ "word": "agenda",
+ "pos": "명사",
+ "phonetic": "[əˈdʒendə]",
+ "meaning": "(회의) 안건, 의제, 해야 할 일 목록",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "ag",
+   "meaning": "하다, 움직이다 (do, drive)",
+   "note": "라틴어 agere(하다, 몰다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-enda",
+   "meaning": "~해야 할 것들",
+   "note": "라틴어 동형용사 복수 어미예요. agenda = '해야 할 일들'."
+  }
+ ],
+ "summary": "<strong>ag</strong> (하다) + <strong>-enda</strong> (해야 할 것들) = '해야 할 일들'에서 <strong>'안건, 의제'</strong>가 되었어요.",
+ "historyTitle": "라틴어 복수형이 그대로 남은 단어",
+ "historyBody": "agenda는 라틴어로 '행해져야 할 것들'이라는 복수형이에요. 17세기에는 교회에서 '해야 할 의식 목록'을 뜻했고, 지금은 회의 안건이 되었어요. agere에서 agent(행동하는 사람, 대리인), agency(대리점), act(행동)가 나왔어요. 'the first item on the agenda(첫 번째 안건)'는 토익 회의 장면의 단골이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "agent",
+   "pos": "명사",
+   "meaning": "대리인, 직원",
+   "en": "A travel agent booked our flights.",
+   "ko": "여행사 직원이 항공편을 예약해 줬어요."
+  },
+  {
+   "word": "agency",
+   "pos": "명사",
+   "meaning": "대행사, 기관",
+   "en": "We hired an advertising agency for the launch.",
+   "ko": "출시를 위해 광고 대행사를 고용했어요."
+  },
+  {
+   "word": "act",
+   "pos": "동사 / 명사",
+   "meaning": "행동(하다)",
+   "en": "We must act quickly to keep the client.",
+   "ko": "고객을 지키려면 빨리 움직여야 해요."
+  },
+  {
+   "word": "active",
+   "pos": "형용사",
+   "meaning": "적극적인, 활동 중인",
+   "en": "She is active in several industry groups.",
+   "ko": "그녀는 여러 업계 모임에서 활발히 활동해요."
+  },
+  {
+   "word": "transaction",
+   "pos": "명사",
+   "meaning": "거래",
+   "en": "All transactions are recorded in the system.",
+   "ko": "모든 거래가 시스템에 기록돼요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의 테이블 위에 놓인 안건 목록과 펜",
+ "imageCaption": "'해야 할 일' 칸에 하나씩 체크 표시를 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "What's on the agenda for today?",
+ "movieLineKo": "오늘 안건이 뭐야?",
+ "storyTitle": "안건이 없는 회의",
+ "story": "월요일 회의에 모두가 모였는데 agenda(안건)가 비어 있었어요. 팀장님이 말했어요. '오늘 안건은… 안건을 정하는 겁니다.' 직원들은 active(적극적인) 토론 끝에 열두 개의 안건을 만들었어요. 그중 첫째는 '회의를 줄이자'였죠. 결국 외부 agency(대행사)에 회의 진행을 맡겼는데, 그 agent(직원)가 들어오자마자 말했어요. '회의 끝! 바로 act(행동하다)하세요.'"
+}

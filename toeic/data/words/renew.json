@@ -1,0 +1,68 @@
+{
+ "word": "renew",
+ "pos": "동사",
+ "phonetic": "[rɪˈnuː]",
+ "meaning": "갱신하다, 재개하다, 새롭게 하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 하는 동작이에요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "new",
+   "meaning": "새로운",
+   "note": "영어 바탕 단어예요. 라틴어 novus와 먼 친척이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>new</strong> (새로운) = '다시 새롭게 하다'에서 <strong>'갱신하다'</strong>가 되었어요.",
+ "historyTitle": "만료와 갱신은 짝꿍",
+ "historyBody": "renew는 14세기부터 쓰인 말로, 라틴어 접두사 re-에 영어 new를 붙여 만들었어요. 만료(expire)된 계약이나 회원권을 '다시 새것으로' 하는 것이 갱신이에요. 라틴어 novus(새로운)와는 먼 친척이라 renovate(개조하다), innovation(혁신)과 뜻이 통해요. 'renew a contract(계약을 갱신하다)', 'renewable energy(재생 에너지)'가 토익 단골이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renewal",
+   "pos": "명사",
+   "meaning": "갱신",
+   "en": "Your membership renewal is due in June.",
+   "ko": "회원권 갱신일은 6월이에요."
+  },
+  {
+   "word": "renewable",
+   "pos": "형용사",
+   "meaning": "재생 가능한, 갱신 가능한",
+   "en": "The factory runs on renewable energy.",
+   "ko": "그 공장은 재생 에너지로 돌아가요."
+  },
+  {
+   "word": "renovate",
+   "pos": "동사",
+   "meaning": "개조하다",
+   "en": "The hotel was renovated last year.",
+   "ko": "그 호텔은 작년에 개조됐어요."
+  },
+  {
+   "word": "innovation",
+   "pos": "명사",
+   "meaning": "혁신",
+   "en": "Innovation is the key to our growth.",
+   "ko": "혁신이 우리 성장의 열쇠예요."
+  },
+  {
+   "word": "newly",
+   "pos": "부사",
+   "meaning": "새로, 최근에",
+   "en": "Meet our newly hired staff.",
+   "ko": "새로 뽑은 직원들을 소개해요."
+  }
+ ],
+ "imageSense": "대표 의미: 회원 카드에 새 날짜 스티커를 붙이는 장면",
+ "imageCaption": "낡은 카드가 반짝이는 새 카드로 바뀌는 모습을 떠올려 보세요.",
+ "movieLineEn": "I need to renew my driver's license.",
+ "movieLineKo": "운전면허 갱신해야 해.",
+ "storyTitle": "갱신을 잊은 헬스장 회원",
+ "story": "헬스장 회원권을 renew(갱신하다)하는 걸 깜빡한 정 대리가 입구에서 멈춰 섰어요. 카드를 대자 '만료!' 소리가 크게 울렸죠. 당황한 그는 그 자리에서 renewal(갱신)을 신청했어요. 그런데 직원이 말했어요. '오늘 갱신하시면 1년 무료예요. 새 innovation(혁신) 이벤트거든요!' 새로 renovate(개조하다)된 헬스장의 첫 newly(새로) 등록 회원이 된 정 대리는, 그날 renewable(재생 가능한) 에너지처럼 지치지 않고 운동했답니다."
+}

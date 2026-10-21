@@ -1,0 +1,61 @@
+{
+ "word": "luggage",
+ "pos": "명사",
+ "phonetic": "[ˈlʌɡɪdʒ]",
+ "meaning": "(여행용) 짐, 수하물",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "lug",
+   "meaning": "힘들게 끌다 (drag)",
+   "note": "노르드어 계열로 추정되는 영어 동사예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-age",
+   "meaning": "~한 것들, 모음",
+   "note": "baggage처럼 모음을 뜻하는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>lug</strong> (힘들게 끌다) + <strong>-age</strong> (것들) = '힘들게 끌고 다녀야 하는 것들'에서 <strong>'짐, 수하물'</strong>이 되었어요.",
+ "historyTitle": "끌고 다니는 고생 덩어리",
+ "historyBody": "luggage는 1590년대 영어에서 처음 보여요. 동사 lug(무거운 것을 끌다)에 baggage(짐)를 흉내 낸 꼬리 -age를 붙여 '끌고 다녀야 하는 것들'이라는 재미있는 말이 되었죠. 셀 수 없는 명사라서 'a luggage'가 아니라 'a piece of luggage'로 써야 해요. 토익 Part 5 단골 함정이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "baggage",
+   "pos": "명사",
+   "meaning": "수하물, 짐",
+   "en": "Please collect your baggage at Carousel 4.",
+   "ko": "4번 수하물 벨트에서 짐을 찾으세요."
+  },
+  {
+   "word": "carry-on",
+   "pos": "명사 / 형용사",
+   "meaning": "기내 휴대(용 가방)",
+   "en": "Each passenger may bring one carry-on bag.",
+   "ko": "승객마다 기내용 가방 하나를 가져갈 수 있어요."
+  },
+  {
+   "word": "luggage tag",
+   "pos": "명사구",
+   "meaning": "짐표",
+   "en": "Write your name on the luggage tag.",
+   "ko": "짐표에 이름을 쓰세요."
+  },
+  {
+   "word": "lug",
+   "pos": "동사",
+   "meaning": "(무거운 것을) 끌고 가다",
+   "en": "I had to lug my suitcase up the stairs.",
+   "ko": "여행 가방을 계단 위로 끌고 올라가야 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항에서 커다란 여행 가방 세 개를 끌고 가는 여행객",
+ "imageCaption": "무거운 가방을 끙끙대며 질질 끄는 모습을 떠올려 보세요.",
+ "movieLineEn": "How many pieces of luggage do you have?",
+ "movieLineKo": "짐이 몇 개예요?",
+ "storyTitle": "가장 무거운 짐",
+ "story": "출장 가는 함 과장은 luggage(짐)가 무려 다섯 개였어요. 공항 직원이 놀라 물었죠. '이사 가세요?' 함 과장은 땀을 흘리며 짐을 lug(끌고 가다)했어요. 그런데 도착해서 baggage(수하물) 벨트를 보니 가방이 하나뿐! 나머지 넷은 luggage tag(짐표)를 잘못 붙여 다른 나라로 갔대요. 함 과장은 carry-on(기내 휴대) 가방 하나로 일주일을 버텼고, 그 출장이 인생에서 가장 가벼웠다고 말했답니다."
+}

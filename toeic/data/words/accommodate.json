@@ -1,0 +1,74 @@
+{
+ "word": "accommodate",
+ "pos": "동사",
+ "phonetic": "[əˈkɑːmədeɪt]",
+ "meaning": "수용하다, 숙박시키다, (요구를) 들어주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "commod",
+   "meaning": "알맞은 (fit)",
+   "note": "com-(함께) + modus(알맞은 크기, 방식)가 합쳐진 commodus(알맞은)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~에) + <strong>commod</strong> (알맞은) + <strong>-ate</strong> = '~에 알맞게 맞춰 주다'에서 <strong>'수용하다, 들어주다'</strong>가 되었어요.",
+ "historyTitle": "알맞은 크기, modus",
+ "historyBody": "modus는 '알맞은 크기, 방식'이었어요. 그래서 model(본보기), modern(지금 방식의), modify(방식을 바꾸다)가 같은 집안이에요. 호텔 안내문의 'The hall can accommodate up to 300 guests'는 토익 단골 문장이에요. c와 m이 두 개씩인 철자도 꼭 기억하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accommodation",
+   "pos": "명사",
+   "meaning": "숙박 시설, 숙소",
+   "en": "The price includes airfare and accommodation.",
+   "ko": "가격에 항공료와 숙박이 포함돼요."
+  },
+  {
+   "word": "modify",
+   "pos": "동사",
+   "meaning": "수정하다",
+   "en": "We modified the design based on customer feedback.",
+   "ko": "고객 의견을 반영해 디자인을 바꿨어요."
+  },
+  {
+   "word": "model",
+   "pos": "명사",
+   "meaning": "모델, 기종",
+   "en": "The new model will be released in spring.",
+   "ko": "신모델은 봄에 나와요."
+  },
+  {
+   "word": "moderate",
+   "pos": "형용사",
+   "meaning": "적당한",
+   "en": "The hotel offers rooms at moderate prices.",
+   "ko": "그 호텔은 적당한 가격에 객실을 내놓아요."
+  },
+  {
+   "word": "commodity",
+   "pos": "명사",
+   "meaning": "상품, 원자재",
+   "en": "Oil is one of the most traded commodities.",
+   "ko": "석유는 가장 많이 거래되는 원자재 중 하나예요."
+  }
+ ],
+ "imageSense": "대표 의미: 넓은 연회장에 손님들이 딱 맞게 앉아 있는 모습",
+ "imageCaption": "공간이 사람 수에 '알맞게' 맞춰지는 장면을 떠올려 보세요.",
+ "movieLineEn": "The room can accommodate up to fifty people.",
+ "movieLineKo": "그 방은 50명까지 들어갈 수 있어.",
+ "storyTitle": "300명 들어가는 회의실",
+ "story": "호텔 매니저가 자신 있게 말했어요. '이 홀은 300명을 accommodate(수용하다)할 수 있습니다!' 행사 날 정말 300명이 다 들어갔어요. 문제는 의자가 30개뿐이었죠. 매니저는 재빨리 일정을 modify(수정하다)했어요. '오늘은 스탠딩 파티입니다!' moderate(적당한) 가격의 accommodation(숙박 시설) 패키지에 춤추는 model(본보기) 행사가 탄생한 순간이었답니다."
+}

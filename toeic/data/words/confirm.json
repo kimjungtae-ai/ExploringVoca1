@@ -1,0 +1,68 @@
+{
+ "word": "confirm",
+ "pos": "동사",
+ "phonetic": "[kənˈfɜːrm]",
+ "meaning": "확인하다, 확정하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "con-",
+   "meaning": "완전히, 함께 (thoroughly)",
+   "note": "com-이 f 앞에서 con-이 되었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "firm",
+   "meaning": "단단하게 하다 (strengthen)",
+   "note": "라틴어 firmare(단단하게 하다), firmus(단단한)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>con-</strong> (완전히) + <strong>firm</strong> (단단하게) = '약속을 완전히 단단하게 굳히다'에서 <strong>'확인하다, 확정하다'</strong>가 되었어요.",
+ "historyTitle": "서명이 회사 이름이 되기까지",
+ "historyBody": "명사 firm(회사)은 이탈리아어 firma(서명)에서 왔어요. 서류에 서명해서 계약을 '단단하게' 만들던 상인의 이름이 곧 회사 이름이 된 거예요. 그래서 law firm(법률 회사)처럼 써요. 모두 '단단한'이라는 firmus에서 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "confirmation",
+   "pos": "명사",
+   "meaning": "확인, 확정",
+   "en": "You will receive a confirmation e-mail within an hour.",
+   "ko": "한 시간 안에 확인 이메일을 받으실 거예요."
+  },
+  {
+   "word": "firm",
+   "pos": "명사 / 형용사",
+   "meaning": "회사 / 확고한",
+   "en": "She works for an accounting firm in Chicago.",
+   "ko": "그녀는 시카고의 회계 법인에서 일해요."
+  },
+  {
+   "word": "affirm",
+   "pos": "동사",
+   "meaning": "단언하다",
+   "en": "The CEO affirmed the company's commitment to quality.",
+   "ko": "CEO는 품질에 대한 회사의 의지를 분명히 밝혔어요."
+  },
+  {
+   "word": "infirmary",
+   "pos": "명사",
+   "meaning": "의무실",
+   "en": "The factory has a small infirmary for workers.",
+   "ko": "그 공장에는 직원용 작은 의무실이 있어요."
+  },
+  {
+   "word": "firmly",
+   "pos": "부사",
+   "meaning": "확고하게",
+   "en": "The manager firmly believes in teamwork.",
+   "ko": "관리자는 팀워크를 굳게 믿어요."
+  }
+ ],
+ "imageSense": "대표 의미: 휴대폰에 '예약이 확정되었습니다' 메시지가 뜬 장면",
+ "imageCaption": "흔들리던 일정이 쾅 하고 도장처럼 굳어지는 순간을 떠올려 보세요.",
+ "movieLineEn": "Can you confirm the time of the meeting?",
+ "movieLineKo": "회의 시간 확인해 줄 수 있어?",
+ "storyTitle": "확인의 확인의 확인",
+ "story": "신입 민지는 회의 일정을 confirm(확인하다)하려고 메일을 보냈어요. 답장이 오자 그걸 확인하는 메일을 또 보냈죠. 세 번째 confirmation(확인) 메일이 갈 때쯤 부장님이 전화했어요. '민지 씨, 회의 이미 시작했어요.' 민지는 firmly(확고하게) 대답했어요. '네, 확인했습니다!' 다음 날 firm(회사) 게시판엔 '확인은 한 번만' 공지가 붙었고, infirmary(의무실)엔 웃다 지친 부장님이 누워 있었답니다."
+}

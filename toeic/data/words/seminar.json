@@ -1,0 +1,61 @@
+{
+ "word": "seminar",
+ "pos": "명사",
+ "phonetic": "[ˈsemɪnɑːr]",
+ "meaning": "세미나, 연수회, 토론 수업",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "semin",
+   "meaning": "씨앗 (seed)",
+   "note": "라틴어 semen(씨앗)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ar",
+   "meaning": "~하는 곳",
+   "note": "라틴어 seminarium(씨앗 밭, 묘판)의 꼬리가 줄어든 형태예요."
+  }
+ ],
+ "summary": "<strong>semin</strong> (씨앗) + <strong>-ar</strong> (곳) = '씨앗을 키우는 밭'에서, 생각의 씨앗을 키우는 <strong>'세미나'</strong>가 되었어요.",
+ "historyTitle": "생각의 씨앗을 키우는 밭",
+ "historyBody": "라틴어 seminarium은 어린 싹을 키우는 '묘판, 씨앗 밭'이었어요. 사람을 길러 내는 곳이라는 뜻으로 신학교(seminary)를 부르게 되었고, 19세기 독일 대학에서 소수가 모여 토론하며 생각을 키우는 수업을 Seminar라고 불렀죠. 그것이 영어로 들어와 오늘날 업무 연수회가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "seminary",
+   "pos": "명사",
+   "meaning": "신학교",
+   "en": "He studied at a seminary before joining the firm.",
+   "ko": "그는 회사에 오기 전 신학교에서 공부했어요."
+  },
+  {
+   "word": "disseminate",
+   "pos": "동사",
+   "meaning": "퍼뜨리다, 보급하다 (씨를 뿌리다)",
+   "en": "The report was disseminated to all branches.",
+   "ko": "보고서가 모든 지점에 배포됐어요."
+  },
+  {
+   "word": "webinar",
+   "pos": "명사",
+   "meaning": "온라인 세미나",
+   "en": "Register now for our free webinar.",
+   "ko": "무료 온라인 세미나에 지금 등록하세요."
+  },
+  {
+   "word": "workshop",
+   "pos": "명사",
+   "meaning": "워크숍",
+   "en": "The workshop focuses on time management.",
+   "ko": "워크숍은 시간 관리에 초점을 맞춰요."
+  }
+ ],
+ "imageSense": "대표 의미: 작은 회의실에서 화이트보드 앞에 둘러앉아 토론하는 사람들",
+ "imageCaption": "작은 화분에 생각의 씨앗이 싹트는 모습을 떠올려 보세요.",
+ "movieLineEn": "Are you going to the marketing seminar?",
+ "movieLineKo": "마케팅 세미나 갈 거야?",
+ "storyTitle": "씨앗을 받은 세미나",
+ "story": "회사가 '창의력 seminar(세미나)'를 열었어요. 강사가 들어오더니 참석자마다 진짜 씨앗을 한 봉지씩 나눠 줬죠. '세미나는 원래 씨앗 밭이에요!' 다들 웃었지만 씨앗을 책상에 심었어요. 한 달 뒤 사무실은 진짜 seminary(묘판)처럼 작은 정원이 되었고, 아이디어가 쏟아졌어요. 그 소식은 다른 지점에 disseminate(퍼뜨리다)되었고, 다음 webinar(온라인 세미나)에선 화분 자랑이 이어졌어요. 그 workshop(워크숍) 이후 이 회사는 '정원 회사'로 불린답니다."
+}

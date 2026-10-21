@@ -1,0 +1,61 @@
+{
+ "word": "invest",
+ "pos": "동사",
+ "phonetic": "[ɪnˈvest]",
+ "meaning": "투자하다, (시간·노력을) 쏟다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에 (in)",
+   "note": "안으로 감싸는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vest",
+   "meaning": "옷을 입히다 (clothe)",
+   "note": "라틴어 vestire(옷을 입히다), vestis(옷)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>vest</strong> (옷을 입히다) = '옷을 입히다'에서, 돈에 새 모양의 옷을 입혀 다른 곳에 넣는다는 뜻의 <strong>'투자하다'</strong>가 되었어요.",
+ "historyTitle": "돈에 새 옷을 입히다",
+ "historyBody": "라틴어 investire는 '옷을 입히다'였어요. 중세에는 새 관리에게 관복을 입혀 권한을 주는 일을 뜻했죠. 17세기 무렵 이탈리아어 investire가 '돈을 다른 형태(땅, 상품, 주식)로 바꿔 넣다'라는 뜻으로 쓰이면서 '투자'가 되었다고 설명돼요. vest(조끼), vestment(예복)가 같은 옷 가족이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "investment",
+   "pos": "명사",
+   "meaning": "투자(금)",
+   "en": "The new factory is a $5 million investment.",
+   "ko": "새 공장은 500만 달러짜리 투자예요."
+  },
+  {
+   "word": "investor",
+   "pos": "명사",
+   "meaning": "투자자",
+   "en": "Investors were pleased with the results.",
+   "ko": "투자자들은 결과에 만족했어요."
+  },
+  {
+   "word": "vest",
+   "pos": "명사",
+   "meaning": "조끼",
+   "en": "Workers must wear a safety vest on site.",
+   "ko": "작업자는 현장에서 안전 조끼를 입어야 해요."
+  },
+  {
+   "word": "reinvest",
+   "pos": "동사",
+   "meaning": "재투자하다",
+   "en": "We reinvest our profits in research.",
+   "ko": "이익을 연구에 다시 투자해요."
+  }
+ ],
+ "imageSense": "대표 의미: 동전에 작은 양복을 입혀 주식 차트 위에 올려놓은 그림",
+ "imageCaption": "돈이 새 옷을 갈아입고 다른 곳으로 들어가는 모습을 떠올려 보세요.",
+ "movieLineEn": "You should invest in yourself first.",
+ "movieLineKo": "먼저 너 자신에게 투자해야 해.",
+ "storyTitle": "조끼에 투자한 사장님",
+ "story": "의류 회사 사장님은 남는 돈을 어디에 invest(투자하다)할지 고민했어요. 직원들이 주식, 땅, 금을 추천했지만 사장님은 엉뚱하게 '조끼'를 골랐어요. 'invest는 원래 옷을 입힌다는 뜻이잖아!' 모두 말렸지만 그해 겨울 형광 안전 vest(조끼)가 대유행했어요. investment(투자금)는 열 배가 되었고 investor(투자자)들이 몰려왔죠. 사장님은 이익을 모두 reinvest(재투자하다)해 '양말' 사업을 시작했답니다."
+}

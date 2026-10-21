@@ -1,0 +1,74 @@
+{
+ "word": "competitor",
+ "pos": "명사",
+ "phonetic": "[kəmˈpetɪtər]",
+ "meaning": "경쟁자, 경쟁 업체",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "함께 (together)",
+   "note": "여럿이 같은 것을 향하는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pet",
+   "meaning": "추구하다, 향해 가다 (seek)",
+   "note": "라틴어 petere(향해 가다, 구하다)에서 온 competere(함께 구하다)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-itor",
+   "meaning": "~하는 사람",
+   "note": "사람을 나타내는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (함께) + <strong>pet</strong> (구하다) + <strong>-itor</strong> (사람) = '같은 것을 함께 구하는 사람'에서 <strong>'경쟁자'</strong>가 되었어요.",
+ "historyTitle": "같은 목표를 향해 함께 달리는 사람",
+ "historyBody": "라틴어 competere는 원래 '함께 향하다, 함께 맞아떨어지다'였어요. 같은 목표를 여럿이 함께 구하다 보니 '경쟁하다'라는 뜻이 생겼죠. 그래서 competent(유능한, 기준에 맞아떨어지는)도 같은 뿌리예요. petere에서 petition(청원), appetite(식욕, 음식을 향함)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "compete",
+   "pos": "동사",
+   "meaning": "경쟁하다",
+   "en": "Small shops cannot compete on price.",
+   "ko": "작은 가게는 가격으로 경쟁할 수 없어요."
+  },
+  {
+   "word": "competition",
+   "pos": "명사",
+   "meaning": "경쟁, 대회",
+   "en": "Competition in the market is very strong.",
+   "ko": "시장 경쟁이 아주 치열해요."
+  },
+  {
+   "word": "competitive",
+   "pos": "형용사",
+   "meaning": "경쟁력 있는, 경쟁적인",
+   "en": "We offer competitive salaries.",
+   "ko": "경쟁력 있는 급여를 드려요."
+  },
+  {
+   "word": "competent",
+   "pos": "형용사",
+   "meaning": "유능한",
+   "en": "She is a competent and reliable manager.",
+   "ko": "그녀는 유능하고 믿음직한 관리자예요."
+  },
+  {
+   "word": "petition",
+   "pos": "명사",
+   "meaning": "청원(서)",
+   "en": "Residents signed a petition against the plan.",
+   "ko": "주민들이 계획 반대 청원에 서명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 가게 주인이 길 건너편에서 서로를 바라보며 가격표를 바꾸는 장면",
+ "imageCaption": "같은 결승선을 향해 나란히 달리는 두 사람을 떠올려 보세요.",
+ "movieLineEn": "Our biggest competitor just lowered its prices.",
+ "movieLineKo": "우리 최대 경쟁사가 방금 가격을 내렸어.",
+ "storyTitle": "길 건너 경쟁자",
+ "story": "길 하나를 사이에 둔 두 빵집이 치열하게 compete(경쟁하다)했어요. 한쪽이 1,000원 할인하면 다른 쪽은 1,500원! competition(경쟁)이 너무 심해 빵값이 100원이 되었죠. 결국 두 사장님이 만나 말했어요. '우리 둘 다 망하겠어요.' 그날 이후 둘은 competitor(경쟁자)가 아니라 동업자가 되었어요. 한 곳은 빵, 한 곳은 커피! 두 competent(유능한) 사장님 덕분에 거리는 동네 최고의 competitive(경쟁력 있는) 빵 거리가 되었답니다."
+}

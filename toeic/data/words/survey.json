@@ -1,0 +1,68 @@
+{
+ "word": "survey",
+ "pos": "명사 / 동사",
+ "phonetic": "명사 [ˈsɜːrveɪ] / 동사 [sərˈveɪ]",
+ "meaning": "(설문) 조사, 측량 / 조사하다, 살피다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sur- (super-)",
+   "meaning": "위에서 (over)",
+   "note": "라틴어 super-가 프랑스어 sur-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vey",
+   "meaning": "보다 (see)",
+   "note": "고대 프랑스어 veoir, 라틴어 videre(보다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sur-</strong> (위에서) + <strong>vey</strong> (보다) = '위에서 두루 내려다보다'에서 <strong>'조사(하다)'</strong>가 되었어요.",
+ "historyTitle": "높은 곳에서 땅을 내려다보던 측량",
+ "historyBody": "앵글로프랑스어 surveier는 '위에서 내려다보다, 감독하다'였어요. 처음에는 높은 곳에서 땅을 살피며 재는 '측량'에 많이 썼죠. 그러다 사람들의 생각을 두루 살피는 '설문 조사'로 뜻이 넓어졌어요. supervise와 같은 구조(위에서+보다)라는 점이 재미있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "surveyor",
+   "pos": "명사",
+   "meaning": "측량사, 조사관",
+   "en": "A surveyor measured the land for the new office.",
+   "ko": "측량사가 새 사무실 부지를 측정했어요."
+  },
+  {
+   "word": "customer survey",
+   "pos": "명사구",
+   "meaning": "고객 설문 조사",
+   "en": "Please take a few minutes to complete our customer survey.",
+   "ko": "잠시 시간 내어 고객 설문에 답해 주세요."
+  },
+  {
+   "word": "respondent",
+   "pos": "명사",
+   "meaning": "응답자",
+   "en": "Most respondents were satisfied with the service.",
+   "ko": "응답자 대부분이 서비스에 만족했어요."
+  },
+  {
+   "word": "supervise",
+   "pos": "동사",
+   "meaning": "감독하다",
+   "en": "She supervises a team of ten.",
+   "ko": "그녀는 10명으로 된 팀을 감독해요."
+  },
+  {
+   "word": "view",
+   "pos": "명사 / 동사",
+   "meaning": "견해, 전망 / 보다",
+   "en": "The office has a great view of the river.",
+   "ko": "그 사무실은 강 전망이 멋져요."
+  }
+ ],
+ "imageSense": "대표 의미: 태블릿을 들고 길에서 설문을 받는 조사원",
+ "imageCaption": "높은 언덕에서 마을 전체를 두루 내려다보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Could you fill out this short survey?",
+ "movieLineKo": "이 짧은 설문 좀 작성해 줄래?",
+ "storyTitle": "설문 조사의 설문 조사",
+ "story": "마케팅 팀이 고객 만족도 survey(설문 조사)를 했어요. 그런데 결과가 이상했어요. 가장 많은 의견이 '설문이 너무 길어요'였거든요! 그래서 팀은 '설문 길이에 대한 customer survey(고객 설문 조사)'를 다시 했어요. 이번엔 respondent(응답자)들이 이렇게 답했어요. '이 설문도 길어요.' 팀장님이 결과를 supervise(감독하다)하며 말했죠. '다음엔 질문 하나만 하자.' 마지막 설문은 단 한 줄이었답니다. '좋아요?' 모두의 view(견해)는 '네!'였어요."
+}

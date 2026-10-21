@@ -1,0 +1,61 @@
+{
+ "word": "brochure",
+ "pos": "명사",
+ "phonetic": "[broʊˈʃʊr]",
+ "meaning": "(안내·광고용) 소책자, 브로슈어",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "broch",
+   "meaning": "바느질하다, 꿰매다 (stitch)",
+   "note": "프랑스어 brocher(꿰매다)에서 왔어요. 원래 '뾰족한 바늘'이라는 broche에서 나왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~한 것",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>broch</strong> (꿰매다) + <strong>-ure</strong> (것) = '몇 장을 실로 꿰매 묶은 것'에서 <strong>'소책자'</strong>가 되었어요.",
+ "historyTitle": "실로 꿰맨 얇은 책",
+ "historyBody": "18세기 프랑스어 brochure는 몇 장의 종이를 실로 '꿰매' 묶은 얇은 책자였어요. 두꺼운 가죽 표지를 씌운 책과 달리 간단히 꿰매 만든 거죠. broche는 뾰족한 바늘이나 꼬챙이라서, 옷에 꽂는 장신구 brooch(브로치)도 같은 뿌리예요. 토익에서는 travel brochure(여행 안내 책자), product brochure(제품 안내서)가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "brooch",
+   "pos": "명사",
+   "meaning": "브로치",
+   "en": "She wore a silver brooch to the ceremony.",
+   "ko": "그녀는 기념식에 은 브로치를 달고 왔어요."
+  },
+  {
+   "word": "pamphlet",
+   "pos": "명사",
+   "meaning": "팸플릿",
+   "en": "Pamphlets are available at the entrance.",
+   "ko": "입구에 팸플릿이 있어요."
+  },
+  {
+   "word": "leaflet",
+   "pos": "명사",
+   "meaning": "전단",
+   "en": "We handed out leaflets at the station.",
+   "ko": "역에서 전단을 나눠 줬어요."
+  },
+  {
+   "word": "catalog",
+   "pos": "명사",
+   "meaning": "카탈로그, 상품 목록",
+   "en": "Please see our new spring catalog.",
+   "ko": "새 봄 카탈로그를 봐 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 여행사 진열대에 꽂힌 알록달록한 안내 책자들",
+ "imageCaption": "종이 몇 장을 바늘과 실로 꿰매 묶는 모습을 떠올려 보세요.",
+ "movieLineEn": "Could I have a brochure about the tour?",
+ "movieLineKo": "투어 안내 책자 하나 받을 수 있을까요?",
+ "storyTitle": "손으로 꿰맨 브로슈어",
+ "story": "작은 호텔 사장님이 새 brochure(소책자)를 만들기로 했어요. 인쇄비가 비싸서 직접 종이를 실로 꿰맸죠. 정성껏 만든 책자 표지엔 brooch(브로치) 장식까지 달았어요! 손님들은 그 brochure를 기념품처럼 가져갔어요. 소문이 나자 대형 호텔들이 비싼 catalog(카탈로그) 대신 손바느질 pamphlet(팸플릿)을 따라 만들었대요. 사장님은 이제 바느질 강좌까지 열었고, 강좌 leaflet(전단)도 물론 손으로 꿰맸답니다."
+}

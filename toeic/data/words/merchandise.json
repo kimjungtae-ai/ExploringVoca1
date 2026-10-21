@@ -1,0 +1,68 @@
+{
+ "word": "merchandise",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈmɜːrtʃəndaɪz]",
+ "meaning": "상품, 물품 / (상품을) 판매·홍보하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "merch",
+   "meaning": "사고팔다, 상품 (trade, goods)",
+   "note": "라틴어 merx(상품), mercari(거래하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-andise",
+   "meaning": "~하는 것들",
+   "note": "고대 프랑스어 marchandise(상인이 다루는 물건)의 꼬리예요."
+  }
+ ],
+ "summary": "<strong>merch</strong> (거래하다) + <strong>-andise</strong> = '상인이 사고파는 물건'에서 <strong>'상품'</strong>이 되었어요.",
+ "historyTitle": "장사의 신 메르쿠리우스",
+ "historyBody": "라틴어 merx는 '상품'이었어요. 로마 사람들은 상업과 여행의 신을 Mercurius(메르쿠리우스)라고 불렀는데, 이 이름도 merx와 관련 있다고 알려져 있어요. 영어 Mercury(수성)가 바로 그 신이에요. 상인 merchant, 시장 market(mercatus)도 같은 집안이에요. 토익에서는 셀 수 없는 명사라서 'a merchandise'로 쓰지 않는다는 점이 함정이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "merchant",
+   "pos": "명사",
+   "meaning": "상인",
+   "en": "Local merchants joined the summer festival.",
+   "ko": "지역 상인들이 여름 축제에 참여했어요."
+  },
+  {
+   "word": "market",
+   "pos": "명사 / 동사",
+   "meaning": "시장 / 판매하다",
+   "en": "The company plans to market the product overseas.",
+   "ko": "회사는 그 제품을 해외에 판매할 계획이에요."
+  },
+  {
+   "word": "commerce",
+   "pos": "명사",
+   "meaning": "상업, 무역",
+   "en": "The city is a center of commerce and trade.",
+   "ko": "그 도시는 상업과 무역의 중심지예요."
+  },
+  {
+   "word": "commercial",
+   "pos": "형용사 / 명사",
+   "meaning": "상업의 / 광고 방송",
+   "en": "The building is used for commercial purposes.",
+   "ko": "그 건물은 상업용으로 쓰여요."
+  },
+  {
+   "word": "merchandising",
+   "pos": "명사",
+   "meaning": "상품 기획, 판촉",
+   "en": "She is in charge of merchandising for the store.",
+   "ko": "그녀가 매장 상품 기획을 맡고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 매장 진열대에 가지런히 놓인 상품들",
+ "imageCaption": "상인이 수레 가득 물건을 싣고 시장으로 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "All merchandise is 30 percent off today.",
+ "movieLineKo": "오늘 모든 상품이 30퍼센트 할인이야.",
+ "storyTitle": "팔리지 않는 굿즈",
+ "story": "아이돌 기획사가 새 merchandise(상품)를 만들었어요. 가수 얼굴이 그려진 양말이었죠. 그런데 하나도 팔리지 않았어요! merchandising(상품 기획) 팀이 고민 끝에 문구를 바꿨어요. '신으면 춤이 늘어요.' 그러자 market(시장)에서 순식간에 매진! 근처 merchant(상인)들까지 따라 팔면서 그 거리는 양말 commerce(상업)의 중심지가 되었답니다. 진짜 춤이 늘었는지는 아무도 모른대요."
+}

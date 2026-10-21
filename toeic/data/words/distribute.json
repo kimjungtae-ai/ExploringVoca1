@@ -1,0 +1,68 @@
+{
+ "word": "distribute",
+ "pos": "동사",
+ "phonetic": "[dɪˈstrɪbjuːt]",
+ "meaning": "나누어 주다, 배포하다, 유통하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "따로따로, 여기저기 (apart)",
+   "note": "여러 방향으로 흩어지는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tribute",
+   "meaning": "나누어 주다, 할당하다 (assign)",
+   "note": "라틴어 tribuere(나누어 주다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (여기저기) + <strong>tribute</strong> (나누어 주다) = '여기저기 나눠 주다'에서 <strong>'배포하다, 유통하다'</strong>가 되었어요.",
+ "historyTitle": "몫을 나누어 주던 말",
+ "historyBody": "tribuere는 로마의 부족(tribus)마다 몫을 나누어 주던 일과 관련 있는 말로 알려져 있어요. 그래서 contribute(함께 몫을 내다, 기여하다), attribute(~의 몫으로 돌리다)가 같은 가족이에요. 회의 전에 자료를 distribute하는 장면, 물건을 매장에 공급하는 distributor(유통업체)가 토익에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "distribution",
+   "pos": "명사",
+   "meaning": "배포, 유통",
+   "en": "The company handles distribution across Asia.",
+   "ko": "그 회사가 아시아 전역 유통을 맡아요."
+  },
+  {
+   "word": "distributor",
+   "pos": "명사",
+   "meaning": "유통업체, 배급사",
+   "en": "We are looking for a distributor in Europe.",
+   "ko": "유럽 유통업체를 찾고 있어요."
+  },
+  {
+   "word": "contribute",
+   "pos": "동사",
+   "meaning": "기여하다, 기부하다",
+   "en": "Everyone contributed ideas to the plan.",
+   "ko": "모두가 계획에 아이디어를 보탰어요."
+  },
+  {
+   "word": "contribution",
+   "pos": "명사",
+   "meaning": "기여, 기부금",
+   "en": "Thank you for your generous contribution.",
+   "ko": "너그러운 기부에 감사드려요."
+  },
+  {
+   "word": "attribute",
+   "pos": "동사",
+   "meaning": "~의 덕분으로 돌리다",
+   "en": "She attributes her success to hard work.",
+   "ko": "그녀는 성공을 노력 덕분으로 돌려요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의실에서 참석자들에게 유인물을 나눠 주는 직원",
+ "imageCaption": "한 뭉치의 종이가 여러 사람 손으로 흩어져 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Could you distribute these handouts to everyone?",
+ "movieLineKo": "이 유인물 모두에게 좀 나눠 줄래?",
+ "storyTitle": "전단지 대작전",
+ "story": "인턴 태오는 전단지 천 장을 distribute(나눠 주다)하라는 지시를 받았어요. 30분 만에 돌아오자 모두 놀랐죠. '벌써 다 했어?' '네! 바람이 contribute(기여하다)해 줬어요. 옥상에서 한 번에 날렸거든요.' 팀장님은 그 빠른 distribution(배포)을 태오의 재능에 attribute(덕분으로 돌리다)했어요. 다음 날 건물 관리인이 찾아와 청소비 contribution(기부금)을 요청했답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "promote",
+ "pos": "동사",
+ "phonetic": "[prəˈmoʊt]",
+ "meaning": "승진시키다, 홍보하다, 촉진하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞쪽으로 나아가는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mote",
+   "meaning": "움직이다 (move)",
+   "note": "라틴어 movere(움직이다), 과거분사 motus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>mote</strong> (움직이다) = '앞으로 움직여 내보내다'에서 <strong>'승진시키다, 홍보하다'</strong>가 되었어요.",
+ "historyTitle": "사람도 상품도 앞으로",
+ "historyBody": "사람을 앞자리로 움직이면 승진, 상품을 사람들 앞으로 내밀면 홍보예요. movere에서 move(움직이다), motor(움직이게 하는 것), emotion(마음을 밖으로 움직이는 것)이 나왔어요. 토익에서는 두 뜻이 모두 나오니 문맥으로 구별하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "promotion",
+   "pos": "명사",
+   "meaning": "승진; 판촉 행사",
+   "en": "Congratulations on your promotion to director!",
+   "ko": "이사 승진을 축하드려요!"
+  },
+  {
+   "word": "promotional",
+   "pos": "형용사",
+   "meaning": "홍보의, 판촉의",
+   "en": "We will send promotional materials to all stores.",
+   "ko": "모든 매장에 홍보물을 보낼 거예요."
+  },
+  {
+   "word": "remote",
+   "pos": "형용사",
+   "meaning": "원격의, 외딴",
+   "en": "Many employees now work remotely.",
+   "ko": "이제 많은 직원이 원격으로 일해요."
+  },
+  {
+   "word": "motivate",
+   "pos": "동사",
+   "meaning": "동기를 부여하다",
+   "en": "Bonuses motivate staff to work harder.",
+   "ko": "보너스는 직원들이 더 열심히 일하게 해요."
+  },
+  {
+   "word": "remove",
+   "pos": "동사",
+   "meaning": "제거하다, 치우다",
+   "en": "Please remove your belongings from the desk.",
+   "ko": "책상 위 개인 물건을 치워 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 계단 한 칸 위로 올라서며 새 명패를 받는 직원",
+ "imageCaption": "사람이 한 걸음 앞으로, 위로 움직이는 순간을 떠올려 보세요.",
+ "movieLineEn": "She was promoted to manager last month.",
+ "movieLineKo": "그녀는 지난달 매니저로 승진했어.",
+ "storyTitle": "승진과 홍보 사이",
+ "story": "홍보팀 윤 대리는 신제품을 promote(홍보하다)하려고 인형 탈을 쓰고 거리에서 춤췄어요. 그 영상이 대박 나서 promotional(홍보의) 영상 조회수 1위! 다음 날 사장님이 말했어요. '윤 대리, promotion(승진) 축하해요. 단, 탈은 계속 쓰세요.' 그 말이 오히려 그를 motivate(동기를 부여하다)했어요. 지금은 remote(원격의) 회의에도 탈을 쓰고 나온답니다."
+}

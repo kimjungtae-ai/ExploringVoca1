@@ -1,0 +1,61 @@
+{
+ "word": "itinerary",
+ "pos": "명사",
+ "phonetic": "[aɪˈtɪnəreri]",
+ "meaning": "여행 일정(표), 여정",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "itiner",
+   "meaning": "길, 여행 (journey)",
+   "note": "라틴어 iter(길, 여행), itineris(여행의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ary",
+   "meaning": "~에 관한 것",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>itiner</strong> (여행) + <strong>-ary</strong> (~에 관한 것) = '여행길에 관한 기록'에서 <strong>'여행 일정표'</strong>가 되었어요.",
+ "historyTitle": "로마 여행자의 길 안내서",
+ "historyBody": "로마 시대 여행자들은 itinerarium이라는 길 안내서를 들고 다녔어요. 어느 도시까지 몇 마일인지, 어디서 쉴 수 있는지 적혀 있었죠. 이 말이 지금의 '여행 일정표'가 되었어요. 출장 이메일에서 'I've attached your itinerary(일정표를 첨부했습니다)'는 토익 단골 문장이에요. 철자가 길어서 Part 5 어휘 문제로도 잘 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "travel itinerary",
+   "pos": "명사구",
+   "meaning": "여행 일정표",
+   "en": "Your travel itinerary is attached to this e-mail.",
+   "ko": "여행 일정표를 이메일에 첨부했어요."
+  },
+  {
+   "word": "itinerant",
+   "pos": "형용사",
+   "meaning": "떠돌아다니는, 순회하는",
+   "en": "The company hired itinerant sales staff.",
+   "ko": "회사가 순회 영업 사원을 채용했어요."
+  },
+  {
+   "word": "initial",
+   "pos": "형용사",
+   "meaning": "처음의 (길에 들어서는)",
+   "en": "The initial results look promising.",
+   "ko": "초기 결과가 희망적이에요."
+  },
+  {
+   "word": "exit",
+   "pos": "명사 / 동사",
+   "meaning": "출구 / 나가다 (밖으로 가다)",
+   "en": "Please use the nearest exit.",
+   "ko": "가장 가까운 출구를 이용하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 지도 위에 도시마다 핀이 꽂히고 날짜가 적힌 출장 일정표",
+ "imageCaption": "길 위에 도장을 하나씩 찍으며 따라가는 여행 지도를 떠올려 보세요.",
+ "movieLineEn": "Can you send me the itinerary for the trip?",
+ "movieLineKo": "출장 일정표 좀 보내 줄래?",
+ "storyTitle": "너무 꼼꼼한 일정표",
+ "story": "비서 수정 씨는 사장님 출장 itinerary(여행 일정표)를 분 단위로 짰어요. '10시 3분 공항 도착, 10시 7분 커피.' 사장님은 그 travel itinerary(여행 일정표)를 보고 감탄했죠. 그런데 공항에서 비행기가 지연되자 모든 일정이 무너졌어요! initial(처음의) 계획은 사라졌지만, 사장님은 공항을 itinerant(떠돌아다니는) 여행자처럼 구경하며 즐거워했어요. 마지막 exit(출구)를 나서며 사장님이 말했대요. '다음엔 일정표에 쉬는 시간도 넣어 줘요.'"
+}

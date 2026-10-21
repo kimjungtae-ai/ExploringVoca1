@@ -1,0 +1,61 @@
+{
+ "word": "candidate",
+ "pos": "명사",
+ "phonetic": "[ˈkændɪdət]",
+ "meaning": "후보자, 지원자",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cand",
+   "meaning": "하얗게 빛나다 (shine white)",
+   "note": "라틴어 candere(하얗게 빛나다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-idate",
+   "meaning": "~한 상태의 사람",
+   "note": "라틴어 candidatus(하얀 옷을 입은)에서 온 꼬리예요."
+  }
+ ],
+ "summary": "<strong>cand</strong> (하얗게 빛나다) + <strong>-idate</strong> = '하얀 옷을 입은 사람'에서 <strong>'후보자, 지원자'</strong>가 되었어요.",
+ "historyTitle": "하얀 토가를 입은 로마 후보",
+ "historyBody": "고대 로마에서 관직에 나서는 사람은 분필로 하얗게 빛나게 만든 토가(toga candida)를 입고 광장을 돌아다녔어요. 깨끗하고 정직해 보이려는 뜻이었죠. 그래서 candidatus(하얀 옷을 입은 사람)가 '후보자'가 되었어요. candle(양초, 빛나는 것)도 같은 뿌리예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "candidacy",
+   "pos": "명사",
+   "meaning": "입후보, 출마",
+   "en": "She announced her candidacy for the board.",
+   "ko": "그녀는 이사회 출마를 발표했어요."
+  },
+  {
+   "word": "candid",
+   "pos": "형용사",
+   "meaning": "솔직한 (하얗고 깨끗한)",
+   "en": "Thank you for your candid feedback.",
+   "ko": "솔직한 의견 감사해요."
+  },
+  {
+   "word": "candle",
+   "pos": "명사",
+   "meaning": "양초",
+   "en": "The restaurant puts a candle on every table.",
+   "ko": "그 식당은 테이블마다 양초를 놓아요."
+  },
+  {
+   "word": "shortlisted candidate",
+   "pos": "명사구",
+   "meaning": "최종 후보자",
+   "en": "Three shortlisted candidates will be interviewed.",
+   "ko": "최종 후보 세 명이 면접을 봐요."
+  }
+ ],
+ "imageSense": "대표 의미: 흰 셔츠를 입고 면접장 의자에 앉아 있는 지원자들",
+ "imageCaption": "하얗게 빛나는 옷을 입고 광장에 선 로마 후보를 떠올려 보세요.",
+ "movieLineEn": "She's the best candidate for the job.",
+ "movieLineKo": "그녀가 그 자리에 가장 적합한 후보야.",
+ "storyTitle": "너무 하얀 지원자",
+ "story": "면접 날, 한 candidate(지원자)가 머리부터 발끝까지 하얀 옷을 입고 나타났어요. 면접관이 물었죠. '왜 다 하얀색이죠?' '로마에서는 후보가 하얀 옷을 입었대요!' 그 candid(솔직한) 대답에 모두 웃었어요. 그는 바로 shortlisted candidate(최종 후보자)가 되었죠. 그런데 점심에 짜장면을 먹다가 옷이 까매졌고, 그의 candidacy(입후보)는 '검은 정장 부문'으로 옮겨졌답니다. 축하 candle(양초)도 켜졌대요."
+}

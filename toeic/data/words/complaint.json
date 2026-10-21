@@ -1,0 +1,67 @@
+{
+ "word": "complaint",
+ "pos": "명사",
+ "phonetic": "[kəmˈpleɪnt]",
+ "meaning": "불만, 불평, 항의",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "강하게, 완전히 (intensive)",
+   "note": "뜻을 강하게 만드는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "plain",
+   "meaning": "가슴을 치며 슬퍼하다 (lament)",
+   "note": "라틴어 plangere(가슴을 치다, 애통해하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-t",
+   "meaning": "명사 꼬리",
+   "note": "고대 프랑스어 complainte의 꼬리예요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (강하게) + <strong>plain</strong> (가슴을 치며 슬퍼하다) = '가슴을 치며 하소연하다'에서 <strong>'불만, 항의'</strong>가 되었어요.",
+ "historyTitle": "가슴을 치며 우는 소리",
+ "historyBody": "라틴어 plangere는 슬픔에 '가슴을 치다'라는 뜻이었어요. 고대 프랑스어 complaindre를 거쳐 '하소연하다, 불평하다'가 되었죠. 명사 complaint는 토익 Part 3·7에서 고객 불만 처리 장면으로 자주 나와요. 'file a complaint(항의를 제기하다)', 'handle complaints(불만을 처리하다)'를 함께 외워 두세요. 형용사 plain(평평한, 분명한)과는 뿌리가 달라요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "complain",
+   "pos": "동사",
+   "meaning": "불평하다, 항의하다",
+   "en": "Several guests complained about the noise.",
+   "ko": "몇몇 손님이 소음에 대해 항의했어요."
+  },
+  {
+   "word": "file a complaint",
+   "pos": "동사구",
+   "meaning": "정식으로 항의하다",
+   "en": "You can file a complaint online.",
+   "ko": "온라인으로 항의를 접수할 수 있어요."
+  },
+  {
+   "word": "plaintiff",
+   "pos": "명사",
+   "meaning": "(소송의) 원고",
+   "en": "The plaintiff asked for compensation.",
+   "ko": "원고가 보상을 요구했어요."
+  },
+  {
+   "word": "customer service",
+   "pos": "명사구",
+   "meaning": "고객 서비스",
+   "en": "Please contact customer service for help.",
+   "ko": "도움이 필요하면 고객 서비스에 연락하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 고객센터 직원이 헤드셋을 쓰고 화난 손님의 전화를 받는 장면",
+ "imageCaption": "손님이 가슴을 치며 억울함을 하소연하는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'd like to make a complaint.",
+ "movieLineKo": "항의를 좀 하고 싶은데요.",
+ "storyTitle": "칭찬하러 온 손님",
+ "story": "고객센터 신입 나래는 첫 전화를 받자마자 긴장했어요. 손님이 'complaint(불만)가 있어요!'라고 했거든요. 나래는 매뉴얼대로 사과부터 했죠. 그런데 손님이 말했어요. '배송이 너무 빨라서 마음의 준비를 못 했어요!' 사실은 칭찬이었던 거예요. 나래가 file a complaint(항의를 제기하다)할지 묻자 손님은 plaintiff(원고)처럼 외쳤어요. '칭찬 접수요!' 그리고 customer service(고객 서비스) 팀에 꽃을 보냈답니다. 그 뒤로 아무도 complain(불평하다)하지 않았대요."
+}

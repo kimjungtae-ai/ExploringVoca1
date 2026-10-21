@@ -1,0 +1,61 @@
+{
+ "word": "retire",
+ "pos": "동사",
+ "phonetic": "[rɪˈtaɪər]",
+ "meaning": "은퇴하다, 퇴직하다; 물러나다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로 (back)",
+   "note": "뒤쪽으로 물러나는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tire",
+   "meaning": "끌다 (draw)",
+   "note": "프랑스어 tirer(끌다, 당기다)에서 왔어요. '피곤하다'의 tire와는 다른 말이에요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (뒤로) + <strong>tire</strong> (끌다) = '몸을 뒤로 끌어 물러나다'에서 <strong>'은퇴하다'</strong>가 되었어요.",
+ "historyTitle": "전쟁터에서 물러나던 군대",
+ "historyBody": "16세기 프랑스어 retirer는 '뒤로 끌어당기다, 물러나다'였어요. 처음엔 군대가 전선에서 물러나는 것, 사람이 조용한 곳으로 물러나는 것을 뜻했죠. 그러다 일에서 물러나는 '은퇴'가 되었어요. 피곤하다는 tire와 철자는 같지만 뿌리가 다르니 주의하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "retirement",
+   "pos": "명사",
+   "meaning": "은퇴, 퇴직",
+   "en": "We held a party for her retirement.",
+   "ko": "그녀의 퇴직 기념 파티를 열었어요."
+  },
+  {
+   "word": "retiree",
+   "pos": "명사",
+   "meaning": "은퇴자",
+   "en": "The program is popular among retirees.",
+   "ko": "그 프로그램은 은퇴자들에게 인기예요."
+  },
+  {
+   "word": "retired",
+   "pos": "형용사",
+   "meaning": "은퇴한",
+   "en": "A retired engineer gave a talk to the staff.",
+   "ko": "은퇴한 기술자가 직원들에게 강연했어요."
+  },
+  {
+   "word": "retreat",
+   "pos": "명사",
+   "meaning": "(조용한) 연수, 휴양",
+   "en": "The team went on a two-day retreat.",
+   "ko": "팀이 이틀간 워크숍을 떠났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 꽃다발을 받으며 웃는 은퇴하는 직원과 박수 치는 동료들",
+ "imageCaption": "무대 앞에서 한 걸음씩 뒤로 물러나 쉬러 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "My father retired last year.",
+ "movieLineKo": "아빠는 작년에 은퇴하셨어.",
+ "storyTitle": "은퇴하지 못하는 부장님",
+ "story": "40년 일한 정 부장님이 드디어 retire(은퇴하다)했어요. 성대한 retirement(은퇴) 파티까지 열었죠. 그런데 다음 날 아침, 부장님이 또 출근했어요! '습관이 무서워서 그만…' 직원들은 웃으며 '고문' 자리를 만들어 드렸어요. 이제 부장님은 retired(은퇴한) 신분으로 매주 retreat(연수)에 와서 커피만 마시고 가요. 회사에서 가장 행복한 retiree(은퇴자)랍니다."
+}

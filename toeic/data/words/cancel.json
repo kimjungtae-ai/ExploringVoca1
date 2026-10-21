@@ -1,0 +1,55 @@
+{
+ "word": "cancel",
+ "pos": "동사",
+ "phonetic": "[ˈkænsl]",
+ "meaning": "취소하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "cancel",
+   "meaning": "격자, 창살 (lattice)",
+   "note": "라틴어 cancelli(격자, 창살)에서 온 cancellare(격자 모양으로 줄을 그어 지우다)예요."
+  }
+ ],
+ "summary": "<strong>cancel</strong>은 라틴어 <strong>cancellare</strong>(격자처럼 X자 줄을 그어 지우다)에서 와서 <strong>'취소하다'</strong>가 되었어요.",
+ "historyTitle": "격자무늬로 줄을 그어 지우기",
+ "historyBody": "옛날 서기들은 잘못 쓴 글이나 무효가 된 문서에 격자(cancelli) 모양으로 X자 줄을 죽죽 그어 지웠어요. 이 동작이 cancellare였고, 지금의 cancel(취소하다)이 되었죠. 법정의 격자 칸막이 뒤에 앉던 관리에서 chancellor(총장, 재무장관)라는 말도 나왔답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "cancellation",
+   "pos": "명사",
+   "meaning": "취소",
+   "en": "There is a fee for late cancellation.",
+   "ko": "늦게 취소하면 수수료가 있어요."
+  },
+  {
+   "word": "canceled",
+   "pos": "형용사",
+   "meaning": "취소된",
+   "en": "The canceled flight was rescheduled for tomorrow.",
+   "ko": "취소된 항공편이 내일로 다시 잡혔어요."
+  },
+  {
+   "word": "chancellor",
+   "pos": "명사",
+   "meaning": "총장, (독일 등의) 총리",
+   "en": "The chancellor will open the conference.",
+   "ko": "총장이 회의 개회를 선언할 거예요."
+  },
+  {
+   "word": "cancellation policy",
+   "pos": "명사구",
+   "meaning": "취소 규정",
+   "en": "Please read our cancellation policy before booking.",
+   "ko": "예약 전에 취소 규정을 읽어 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 일정표의 회의 칸에 빨간 X자 줄이 그어진 장면",
+ "imageCaption": "문서 위에 격자무늬로 줄을 죽죽 그어 지우는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'm sorry, but I have to cancel our meeting.",
+ "movieLineKo": "미안하지만 우리 회의 취소해야겠어.",
+ "storyTitle": "취소의 취소",
+ "story": "윤 과장은 비가 온다는 소식에 야유회를 cancel(취소하다)했어요. 그런데 10분 뒤 날씨가 맑아졌죠! 다시 cancellation(취소)을 취소하는 공지를 보냈어요. 그러자 또 비가 오기 시작했어요. 직원들은 공지 알림이 울릴 때마다 우산을 폈다 접었다 했죠. 결국 회사 cancellation policy(취소 규정)에 새 조항이 생겼어요. '하루에 두 번 이상 취소 금지.' 그날 canceled(취소된) 야유회는 사무실 안 피자 파티로 바뀌었고, 사장님은 '실내 야유회 chancellor(총장)'라는 별명을 얻었답니다."
+}

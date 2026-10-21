@@ -1,0 +1,68 @@
+{
+ "word": "prohibit",
+ "pos": "동사",
+ "phonetic": "[proʊˈhɪbɪt]",
+ "meaning": "금지하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞에 (before)",
+   "note": "앞을 가로막는 위치예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "hibit",
+   "meaning": "잡다, 가지다 (hold)",
+   "note": "라틴어 habere(가지다, 잡다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞에서) + <strong>hibit</strong> (잡다) = '앞에서 붙잡아 막다'에서 <strong>'금지하다'</strong>가 되었어요.",
+ "historyTitle": "앞을 가로막고 붙잡는 손",
+ "historyBody": "라틴어 prohibere는 '앞에서 붙잡다, 막다'였어요. habere(가지다, 잡다)는 아주 많은 단어를 낳았어요. exhibit(밖으로 내놓아 보이다, 전시하다), inhibit(안에 붙잡아 두다, 억제하다), habit(몸에 지니게 된 것, 습관)이 모두 같은 가족이에요. 'be prohibited from -ing(~하는 것이 금지되다)'는 토익 공지문의 단골 구조예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "prohibition",
+   "pos": "명사",
+   "meaning": "금지",
+   "en": "There is a prohibition on smoking in the building.",
+   "ko": "건물 안 흡연은 금지예요."
+  },
+  {
+   "word": "prohibited",
+   "pos": "형용사",
+   "meaning": "금지된",
+   "en": "Photography is prohibited in the museum.",
+   "ko": "박물관 안 촬영은 금지돼요."
+  },
+  {
+   "word": "exhibit",
+   "pos": "동사 / 명사",
+   "meaning": "전시하다 / 전시품",
+   "en": "The gallery will exhibit local artists' work.",
+   "ko": "갤러리가 지역 작가 작품을 전시해요."
+  },
+  {
+   "word": "exhibition",
+   "pos": "명사",
+   "meaning": "전시회",
+   "en": "The trade exhibition opens on Monday.",
+   "ko": "무역 전시회가 월요일에 열려요."
+  },
+  {
+   "word": "habit",
+   "pos": "명사",
+   "meaning": "습관",
+   "en": "Saving energy should become a habit.",
+   "ko": "에너지 절약이 습관이 되어야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 빨간 원에 사선이 그어진 '금지' 표지판",
+ "imageCaption": "앞을 손바닥으로 탁 막아서는 경비원을 떠올려 보세요.",
+ "movieLineEn": "Parking is prohibited in front of the gate.",
+ "movieLineKo": "정문 앞은 주차 금지야.",
+ "storyTitle": "금지가 금지된 날",
+ "story": "건물 관리인은 금지 표지판을 너무 좋아했어요. '뛰기 prohibited(금지된)', '큰 소리 금지', '한숨 금지'까지! 직원들은 그의 prohibition(금지) 목록에 지쳐 버렸어요. 그래서 하루를 '금지 없는 날'로 정하고 표지판을 모아 exhibition(전시회)을 열었죠. 관리인은 자기 표지판이 exhibit(전시하다)되는 걸 보고 감동했어요. 그날 그는 새 표지판 하나만 붙였어요. '금지 표지판을 prohibit(금지하다)함.' 오래된 habit(습관)을 고친 날이었답니다."
+}

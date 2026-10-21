@@ -1,0 +1,68 @@
+{
+ "word": "vacancy",
+ "pos": "명사",
+ "phonetic": "[ˈveɪkənsi]",
+ "meaning": "빈자리, 결원, (호텔의) 빈방",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "vac",
+   "meaning": "비어 있다 (empty)",
+   "note": "라틴어 vacare(비어 있다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ancy",
+   "meaning": "~한 상태",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>vac</strong> (비어 있다) + <strong>-ancy</strong> (상태) = '비어 있는 상태'에서 <strong>'빈자리, 결원, 빈방'</strong>이 되었어요.",
+ "historyTitle": "비어 있음에서 휴가까지",
+ "historyBody": "라틴어 vacare는 '비어 있다, 한가하다'였어요. 일정이 비어 있는 날이 vacation(휴가), 공기가 빈 공간이 vacuum(진공)이에요. 회사에 사람이 비어 있는 자리가 vacancy(결원)이고, 미국 모텔 간판의 'No Vacancy'는 '빈방 없음'이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "vacant",
+   "pos": "형용사",
+   "meaning": "비어 있는",
+   "en": "The office on the third floor is vacant.",
+   "ko": "3층 사무실이 비어 있어요."
+  },
+  {
+   "word": "vacation",
+   "pos": "명사",
+   "meaning": "휴가",
+   "en": "She is on vacation until Friday.",
+   "ko": "그녀는 금요일까지 휴가예요."
+  },
+  {
+   "word": "vacuum",
+   "pos": "명사 / 동사",
+   "meaning": "진공(청소하다)",
+   "en": "The cleaners vacuum the carpet every night.",
+   "ko": "청소 직원이 매일 밤 카펫을 청소기로 밀어요."
+  },
+  {
+   "word": "evacuate",
+   "pos": "동사",
+   "meaning": "대피시키다 (밖으로 비우다)",
+   "en": "All staff must evacuate during the fire drill.",
+   "ko": "소방 훈련 때 전 직원이 대피해야 해요."
+  },
+  {
+   "word": "vacate",
+   "pos": "동사",
+   "meaning": "비우다",
+   "en": "Guests must vacate their rooms by noon.",
+   "ko": "투숙객은 정오까지 방을 비워야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: '빈방 있음' 네온사인이 켜진 모텔 간판",
+ "imageCaption": "책상 위에 아무도 없는 빈 의자 하나를 떠올려 보세요.",
+ "movieLineEn": "Are there any vacancies for tonight?",
+ "movieLineKo": "오늘 밤 빈방 있어요?",
+ "storyTitle": "빈자리의 주인",
+ "story": "회사에 vacancy(결원)가 생겨 채용 공고를 냈어요. 그런데 한 달이 지나도 그 vacant(비어 있는) 책상에 누군가 계속 앉아 있었죠. 바로 사무실 고양이였어요! 고양이는 매일 출근해 키보드를 밟고 낮잠을 잤어요. 결국 회사는 고양이를 '수면 담당 직원'으로 등록했어요. 이제 고양이도 vacation(휴가)이 있고, 소방 훈련 때는 가장 먼저 evacuate(대피하다)한답니다. 책상을 vacate(비우다)할 생각은 없대요."
+}

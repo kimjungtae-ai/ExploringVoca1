@@ -1,0 +1,61 @@
+{
+ "word": "schedule",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈskedʒuːl]",
+ "meaning": "일정(표), 시간표 / 일정을 잡다, 예정하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sched",
+   "meaning": "종이 한 장 (sheet)",
+   "note": "그리스어 skhidē(쪼갠 조각)에서 온 라틴어 scheda(파피루스 한 장)예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ule",
+   "meaning": "작은 것",
+   "note": "라틴어 지소사 -ula에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sched</strong> (종이 한 장) + <strong>-ule</strong> (작은) = '작은 종이쪽지'에 할 일을 적던 데서 <strong>'일정표, 일정을 잡다'</strong>가 되었어요.",
+ "historyTitle": "파피루스 쪽지 한 장",
+ "historyBody": "후기 라틴어 schedula는 '작은 종이쪽지'였어요. 중세에는 법률 문서에 덧붙이는 쪽지를 뜻했고, 19세기 철도 시대에 열차 '시간표'라는 뜻이 퍼졌어요. 'ahead of schedule(예정보다 일찍)', 'be scheduled to do(~할 예정이다)'는 토익 필수 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "scheduled",
+   "pos": "형용사",
+   "meaning": "예정된",
+   "en": "The meeting is scheduled for 3 p.m.",
+   "ko": "회의는 오후 3시로 잡혀 있어요."
+  },
+  {
+   "word": "reschedule",
+   "pos": "동사",
+   "meaning": "일정을 다시 잡다",
+   "en": "Can we reschedule the interview for Monday?",
+   "ko": "면접을 월요일로 다시 잡을 수 있을까요?"
+  },
+  {
+   "word": "scheduling",
+   "pos": "명사",
+   "meaning": "일정 관리",
+   "en": "Our new app makes scheduling much easier.",
+   "ko": "새 앱으로 일정 관리가 훨씬 쉬워졌어요."
+  },
+  {
+   "word": "schedule conflict",
+   "pos": "명사구",
+   "meaning": "일정 충돌",
+   "en": "I have a schedule conflict on Thursday.",
+   "ko": "목요일에 일정이 겹쳐요."
+  }
+ ],
+ "imageSense": "대표 의미: 빼곡히 적힌 주간 일정표와 형광펜",
+ "imageCaption": "작은 쪽지 위에 시간과 할 일이 줄지어 적힌 모습을 떠올려 보세요.",
+ "movieLineEn": "Let me check my schedule first.",
+ "movieLineKo": "내 일정 먼저 확인해 볼게.",
+ "storyTitle": "완벽한 일정표",
+ "story": "꼼꼼한 한 과장은 1분 단위로 schedule(일정표)을 짰어요. '9시 1분 커피, 9시 2분 메일 확인.' 그런데 9시 3분에 사장님이 갑자기 회의를 scheduled(예정된) 일정에 끼워 넣었죠. 한 과장은 남은 일정을 전부 reschedule(다시 잡다)해야 했어요. 결국 scheduling(일정 관리)만 하다 하루가 끝났고, 일기장엔 이렇게 적혔답니다. '오늘의 schedule conflict(일정 충돌): 나 vs 일정표.'"
+}

@@ -1,0 +1,68 @@
+{
+ "word": "assign",
+ "pos": "동사",
+ "phonetic": "[əˈsaɪn]",
+ "meaning": "배정하다, 할당하다, 임명하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "as- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "ad-가 s 앞에서 as-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sign",
+   "meaning": "표시하다 (mark)",
+   "note": "라틴어 signare(표시하다), signum(표시)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>as-</strong> (~에) + <strong>sign</strong> (표시하다) = '누구 몫인지 표시해 정하다'에서 <strong>'배정하다, 할당하다'</strong>가 되었어요.",
+ "historyTitle": "표시를 붙여 나누어 주기",
+ "historyBody": "라틴어 assignare는 '표시를 붙여 정해 주다'였어요. 물건이나 일에 이름표를 붙여 누구 몫인지 정하는 모습이죠. signum(표시)에서 sign(표지판, 서명), signal(신호), signature(서명), design(설계)이 나왔어요. 토익에서는 'be assigned to(~에 배정되다)'가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "assignment",
+   "pos": "명사",
+   "meaning": "과제, 업무, 배정",
+   "en": "Her first assignment was to train new staff.",
+   "ko": "그녀의 첫 업무는 신입 교육이었어요."
+  },
+  {
+   "word": "signature",
+   "pos": "명사",
+   "meaning": "서명",
+   "en": "We need your signature on this form.",
+   "ko": "이 양식에 서명이 필요해요."
+  },
+  {
+   "word": "signal",
+   "pos": "명사 / 동사",
+   "meaning": "신호(를 보내다)",
+   "en": "The new policy signals a change in strategy.",
+   "ko": "새 정책은 전략 변화를 보여 줘요."
+  },
+  {
+   "word": "designate",
+   "pos": "동사",
+   "meaning": "지정하다",
+   "en": "Smoking is allowed only in designated areas.",
+   "ko": "흡연은 지정 구역에서만 가능해요."
+  },
+  {
+   "word": "significant",
+   "pos": "형용사",
+   "meaning": "상당한, 중요한",
+   "en": "There was a significant increase in sales.",
+   "ko": "매출이 크게 늘었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 업무 보드에 이름표를 붙여 일을 나누는 팀장",
+ "imageCaption": "일마다 사람 이름표를 딱 붙이는 모습을 떠올려 보세요.",
+ "movieLineEn": "I was assigned to the Tokyo office.",
+ "movieLineKo": "나 도쿄 지사로 배정됐어.",
+ "storyTitle": "이름표의 반란",
+ "story": "팀장님이 보드에 이름표를 붙여 일을 assign(배정하다)했어요. 그런데 다음 날 보니 모든 assignment(업무) 칸에 팀장님 이름이 붙어 있었죠! 범인은 장난꾸러기 막내였어요. 팀장님은 화를 내는 대신 웃으며 모든 서류에 signature(서명)를 했어요. 그리고 막내를 '팀 분위기 담당'으로 designate(지정하다)했죠. 그 뒤 팀 웃음이 significant(상당한) 수준으로 늘었답니다."
+}

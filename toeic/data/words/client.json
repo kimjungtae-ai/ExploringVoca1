@@ -1,0 +1,55 @@
+{
+ "word": "client",
+ "pos": "명사",
+ "phonetic": "[ˈklaɪənt]",
+ "meaning": "고객, 의뢰인",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "client",
+   "meaning": "기대는 사람 (one who leans)",
+   "note": "라틴어 cliens(보호받는 사람)에서 왔어요. '기대다'라는 뜻의 cliner와 관련 있다고 설명돼요."
+  }
+ ],
+ "summary": "<strong>client</strong>는 라틴어 <strong>cliens</strong>(힘 있는 사람에게 기대어 보호받는 사람)에서 와서 <strong>'고객, 의뢰인'</strong>이 되었어요.",
+ "historyTitle": "로마 귀족에게 기대던 사람들",
+ "historyBody": "로마에서 cliens는 힘 있는 귀족(patronus)의 보호를 받는 평민이었어요. 매일 아침 귀족 집에 인사를 가고, 대신 법률 도움이나 음식을 받았죠. 이 관계가 오늘날 변호사·회사와 '의뢰인, 고객'의 관계로 이어졌어요. patron(후원자, 단골손님)도 이 짝꿍 단어에서 왔답니다. customer는 가게 손님, client는 전문 서비스 고객이라는 느낌 차이가 있어요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "clientele",
+   "pos": "명사",
+   "meaning": "(전체) 고객층",
+   "en": "The shop has a loyal clientele.",
+   "ko": "그 가게는 단골 고객층이 탄탄해요."
+  },
+  {
+   "word": "patron",
+   "pos": "명사",
+   "meaning": "후원자, 단골손님",
+   "en": "Patrons can park free for two hours.",
+   "ko": "손님은 두 시간 무료 주차할 수 있어요."
+  },
+  {
+   "word": "client base",
+   "pos": "명사구",
+   "meaning": "고객 기반",
+   "en": "We plan to expand our client base in Asia.",
+   "ko": "아시아 고객 기반을 넓힐 계획이에요."
+  },
+  {
+   "word": "incline",
+   "pos": "동사 / 명사",
+   "meaning": "기울다, 경향 / 경사",
+   "en": "Many shoppers are inclined to buy online.",
+   "ko": "많은 소비자가 온라인 구매 쪽으로 기울어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회의실에서 고객과 악수하며 계약서를 건네는 직원",
+ "imageCaption": "든든한 회사에 기대어 도움을 받는 고객을 떠올려 보세요.",
+ "movieLineEn": "I have a meeting with a client at two.",
+ "movieLineKo": "2시에 고객이랑 미팅 있어.",
+ "storyTitle": "까다로운 고객",
+ "story": "광고 회사에 아주 까다로운 client(고객)가 찾아왔어요. 시안을 열 번이나 퇴짜 놓았죠. 마지막엔 첫 번째 시안을 다시 보여 주자 '바로 이거예요!'라고 외쳤어요. 그 뒤로 그는 회사의 가장 충성스러운 patron(단골손님)이 되었고, 그의 소개로 client base(고객 기반)가 두 배가 되었어요. 직원들은 '첫 시안은 열 번째에 보여 준다'는 비법을 회사 clientele(고객층) 관리 수첩에 적어 두었답니다. 사장님도 그 방식에 incline(기울다)했대요."
+}

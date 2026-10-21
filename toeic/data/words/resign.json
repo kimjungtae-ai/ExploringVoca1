@@ -1,0 +1,61 @@
+{
+ "word": "resign",
+ "pos": "동사",
+ "phonetic": "[rɪˈzaɪn]",
+ "meaning": "사임하다, 사직하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "거꾸로, 되돌려 (back)",
+   "note": "했던 것을 되돌리는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sign",
+   "meaning": "표시하다, 봉인하다 (mark, seal)",
+   "note": "라틴어 signare(표시하다, 도장을 찍다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌려) + <strong>sign</strong> (도장 찍다) = '찍었던 도장을 풀어 되돌리다'에서 <strong>'사임하다'</strong>가 되었어요.",
+ "historyTitle": "도장을 떼어 내는 일",
+ "historyBody": "라틴어 resignare는 '봉인을 뜯다, 취소하다, 되돌려주다'였어요. 맡았던 자리를 도장 찍어 받았다면, 그걸 풀어 다시 돌려주는 것이 사임이죠. 명사 resignation에는 '사직서'라는 뜻도 있어요. 'resign from(~에서 사임하다)', 'resign oneself to(~을 체념하고 받아들이다)'를 함께 알아 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "resignation",
+   "pos": "명사",
+   "meaning": "사임, 사직서",
+   "en": "He handed in his resignation on Monday.",
+   "ko": "그는 월요일에 사직서를 냈어요."
+  },
+  {
+   "word": "sign",
+   "pos": "동사",
+   "meaning": "서명하다",
+   "en": "Please sign the contract at the bottom.",
+   "ko": "계약서 맨 아래에 서명해 주세요."
+  },
+  {
+   "word": "signatory",
+   "pos": "명사",
+   "meaning": "서명인",
+   "en": "Both signatories must be present.",
+   "ko": "양쪽 서명인이 모두 참석해야 해요."
+  },
+  {
+   "word": "resigned",
+   "pos": "형용사",
+   "meaning": "체념한",
+   "en": "She seemed resigned to working late.",
+   "ko": "그녀는 야근을 체념한 듯 보였어요."
+  }
+ ],
+ "imageSense": "대표 의미: 책상 위에 사직서 봉투를 올려놓는 손",
+ "imageCaption": "받았던 도장을 조심스럽게 떼어 돌려주는 모습을 떠올려 보세요.",
+ "movieLineEn": "He decided to resign from the company.",
+ "movieLineKo": "그는 회사를 그만두기로 했어.",
+ "storyTitle": "사직서의 반전",
+ "story": "영업팀 허 대리는 resignation(사직서)을 들고 부장실에 들어갔어요. '부장님, 저 resign(사임하다)하겠습니다!' 부장님은 서류를 읽더니 웃었어요. '이건 휴가 신청서인데?' 너무 떨려서 서류를 잘못 가져온 거였죠. 부장님은 유일한 signatory(서명인)로서 휴가 신청서에 sign(서명하다)해 주며 말했어요. '쉬고 와서 다시 생각해.' 일주일 뒤 허 대리는 resigned(체념한) 얼굴 대신 활짝 웃는 얼굴로 돌아왔답니다."
+}

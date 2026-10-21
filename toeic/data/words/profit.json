@@ -1,0 +1,68 @@
+{
+ "word": "profit",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈprɑːfɪt]",
+ "meaning": "이익, 수익 / 이익을 얻다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞으로 나아가는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fit (fic)",
+   "meaning": "하다, 만들다 (make, do)",
+   "note": "라틴어 proficere(앞으로 나아가다, 도움이 되다)의 facere(하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>fit</strong> (하다) = '앞으로 나아가게 하는 것, 도움이 되는 것'에서 <strong>'이익'</strong>이 되었어요.",
+ "historyTitle": "앞으로 나아가는 것이 이익",
+ "historyBody": "라틴어 proficere는 '앞으로 나아가다, 진전하다, 도움이 되다'였어요. 과거분사 profectus가 고대 프랑스어 profit(진전, 이익)이 되었죠. 일이 앞으로 나아가면 이익이 생긴다는 생각이에요. proficient(능숙한, 많이 나아간)도 같은 뿌리예요. revenue(매출)에서 비용을 뺀 것이 profit이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "profitable",
+   "pos": "형용사",
+   "meaning": "수익성 있는",
+   "en": "The new branch became profitable in its first year.",
+   "ko": "새 지점은 첫해에 흑자를 냈어요."
+  },
+  {
+   "word": "profitability",
+   "pos": "명사",
+   "meaning": "수익성",
+   "en": "We need to improve our profitability.",
+   "ko": "수익성을 높여야 해요."
+  },
+  {
+   "word": "nonprofit",
+   "pos": "형용사 / 명사",
+   "meaning": "비영리(단체)",
+   "en": "She volunteers at a nonprofit organization.",
+   "ko": "그녀는 비영리 단체에서 봉사해요."
+  },
+  {
+   "word": "proficient",
+   "pos": "형용사",
+   "meaning": "능숙한",
+   "en": "Applicants must be proficient in English.",
+   "ko": "지원자는 영어에 능숙해야 해요."
+  },
+  {
+   "word": "proficiency",
+   "pos": "명사",
+   "meaning": "능숙도",
+   "en": "A TOEIC score shows your English proficiency.",
+   "ko": "토익 점수는 영어 능숙도를 보여 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 동전이 쌓이며 위로 올라가는 그래프",
+ "imageCaption": "회사가 한 걸음 앞으로 나아갈 때마다 동전이 쌓이는 모습을 떠올려 보세요.",
+ "movieLineEn": "We made a small profit this month.",
+ "movieLineKo": "이번 달에 이익이 조금 났어.",
+ "storyTitle": "토익 점수로 흑자 전환",
+ "story": "적자에 시달리던 여행사가 직원들 영어 proficiency(능숙도)를 높이기로 했어요. 모두 토익 공부를 시작했죠. 6개월 뒤 해외 고객 상담이 늘면서 회사는 처음으로 profit(이익)을 냈어요! 사장님이 감동해 외쳤어요. '영어가 profitable(수익성 있는) 투자였어!' 이제 proficient(능숙한) 직원들은 점심시간에도 영어로만 대화해요. 단, 메뉴 고르는 데 profitability(수익성)보다 시간이 두 배 걸린대요."
+}

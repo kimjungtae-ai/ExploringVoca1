@@ -1,0 +1,68 @@
+{
+ "word": "discount",
+ "pos": "명사 / 동사",
+ "phonetic": "명사 [ˈdɪskaʊnt] / 동사 [dɪsˈkaʊnt]",
+ "meaning": "할인 / 할인하다; (중요하지 않다고) 무시하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "dis-",
+   "meaning": "떨어져, 빼서 (away)",
+   "note": "무언가를 빼내는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "count",
+   "meaning": "세다, 계산하다 (count)",
+   "note": "고대 프랑스어 conter, 라틴어 computare(함께 셈하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>dis-</strong> (빼서) + <strong>count</strong> (세다) = '셈에서 일부를 빼다'에서 <strong>'할인(하다)'</strong>가 되었어요.",
+ "historyTitle": "셈에서 빼 주는 돈",
+ "historyBody": "중세 라틴어 discomputare는 '셈에서 빼다'였어요. 고대 프랑스어 desconter를 거쳐 영어로 들어왔죠. 값에서 일부를 빼 주는 것이 할인이에요. count는 라틴어 computare(com-함께 + putare-헤아리다)에서 왔는데, computer(계산하는 기계)도 같은 뿌리랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "count",
+   "pos": "동사",
+   "meaning": "세다, 중요하다",
+   "en": "Every customer comment counts.",
+   "ko": "고객 의견 하나하나가 중요해요."
+  },
+  {
+   "word": "account",
+   "pos": "명사",
+   "meaning": "계좌, 계정, 거래처",
+   "en": "Please enter your account number.",
+   "ko": "계좌 번호를 입력해 주세요."
+  },
+  {
+   "word": "accountant",
+   "pos": "명사",
+   "meaning": "회계사",
+   "en": "The accountant reviewed our tax forms.",
+   "ko": "회계사가 세금 서류를 검토했어요."
+  },
+  {
+   "word": "computer",
+   "pos": "명사",
+   "meaning": "컴퓨터",
+   "en": "All computers will be updated tonight.",
+   "ko": "오늘 밤 모든 컴퓨터가 업데이트돼요."
+  },
+  {
+   "word": "discounted",
+   "pos": "형용사",
+   "meaning": "할인된",
+   "en": "Members can buy discounted tickets.",
+   "ko": "회원은 할인된 표를 살 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 가격표에 빨간 줄이 그어지고 '30% OFF'가 붙은 장면",
+ "imageCaption": "원래 값에서 일부를 쓱 빼 주는 계산기를 떠올려 보세요.",
+ "movieLineEn": "Can I get a discount if I pay in cash?",
+ "movieLineKo": "현금으로 내면 할인돼요?",
+ "storyTitle": "할인의 할인의 할인",
+ "story": "옷 가게에 '오늘 discount(할인) 50%!' 간판이 붙었어요. 손님이 물었죠. '회원 할인도 돼요?' '네, 10% 더요.' '생일 쿠폰은요?' 점원이 계산기를 두드리며 하나하나 count(세다)하더니 말했어요. '손님, 이제 저희가 돈을 드려야 해요.' 놀란 accountant(회계사)가 달려왔어요. 결국 손님은 discounted(할인된) 가격에 옷을 샀고, 가게는 그날 computer(컴퓨터) 시스템을 고쳤답니다."
+}

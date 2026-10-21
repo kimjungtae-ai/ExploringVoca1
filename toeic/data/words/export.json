@@ -1,0 +1,68 @@
+{
+ "word": "export",
+ "pos": "동사 / 명사",
+ "phonetic": "동사 [ɪkˈspɔːrt] / 명사 [ˈekspɔːrt]",
+ "meaning": "수출하다, (파일을) 내보내다 / 수출(품)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "나라 밖으로 나가는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "port",
+   "meaning": "나르다 (carry)",
+   "note": "라틴어 portare(나르다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>port</strong> (나르다) = '나라 밖으로 실어 나르다'에서 <strong>'수출하다'</strong>가 되었어요.",
+ "historyTitle": "지중해를 건너던 올리브기름",
+ "historyBody": "로마 시대에도 사람들은 올리브기름과 포도주를 항아리에 담아 배로 지중해 곳곳에 실어 날랐어요. 오늘날 한국은 반도체, 자동차, 화장품을 세계로 export하죠. im-(안으로)을 붙이면 import(수입하다), trans-(건너서)를 붙이면 transport(운송하다)예요. 컴퓨터에서 파일 '내보내기'도 export예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "import",
+   "pos": "동사 / 명사",
+   "meaning": "수입(하다)",
+   "en": "We import coffee beans from Brazil.",
+   "ko": "커피 원두를 브라질에서 수입해요."
+  },
+  {
+   "word": "exporter",
+   "pos": "명사",
+   "meaning": "수출국, 수출업체",
+   "en": "Korea is a major exporter of ships.",
+   "ko": "한국은 주요 선박 수출국이에요."
+  },
+  {
+   "word": "transport",
+   "pos": "동사 / 명사",
+   "meaning": "운송(하다)",
+   "en": "The goods are transported by train.",
+   "ko": "상품은 기차로 운송돼요."
+  },
+  {
+   "word": "portable",
+   "pos": "형용사",
+   "meaning": "휴대용의",
+   "en": "The portable speaker is our best seller.",
+   "ko": "휴대용 스피커가 가장 잘 팔려요."
+  },
+  {
+   "word": "support",
+   "pos": "동사 / 명사",
+   "meaning": "지원(하다)",
+   "en": "Our team will support you after the sale.",
+   "ko": "판매 후에도 저희 팀이 도와드려요."
+  }
+ ],
+ "imageSense": "대표 의미: 컨테이너를 가득 실은 화물선이 항구를 떠나는 장면",
+ "imageCaption": "물건을 나라 밖으로 실어 나르는 큰 배를 떠올려 보세요.",
+ "movieLineEn": "Most of our products are exported to Europe.",
+ "movieLineKo": "우리 제품 대부분은 유럽으로 수출돼.",
+ "storyTitle": "울면서 먹는 라면",
+ "story": "라면 회사가 아주 매운 라면을 미국에 export(수출하다)했어요. 배가 라면을 transport(운송하다)하는 동안 사장님은 들떠 있었죠. 그런데 미국 바이어의 보고는 이랬어요. '너무 매워서 다들 울어요!' 사장님이 망했다며 머리를 감싸는 순간 다음 줄이 보였어요. '그래서 열 배 더 보내 주세요.' 현지 팬들의 support(지원) 덕분에 회사는 최대 exporter(수출업체)가 되었고, 이제 매운 라면 재료를 import(수입하다)할 정도래요."
+}

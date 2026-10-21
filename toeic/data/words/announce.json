@@ -1,0 +1,68 @@
+{
+ "word": "announce",
+ "pos": "동사",
+ "phonetic": "[əˈnaʊns]",
+ "meaning": "발표하다, 알리다, (방송으로) 안내하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "an- (ad-)",
+   "meaning": "~에게 (to)",
+   "note": "ad-가 n 앞에서 an-으로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nounce",
+   "meaning": "알리다 (report)",
+   "note": "라틴어 nuntiare(알리다), nuntius(전령)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>an-</strong> (~에게) + <strong>nounce</strong> (알리다) = '사람들에게 소식을 전하다'에서 <strong>'발표하다'</strong>가 되었어요.",
+ "historyTitle": "소식을 전하는 전령",
+ "historyBody": "라틴어 nuntius는 소식을 전하는 '전령'이었어요. 여기서 nuntiare(알리다)가 나왔고, announce(발표하다), pronounce(앞에서 말하다, 발음하다), denounce(비난하다)가 생겼죠. 토익 Part 4 공지 방송은 대부분 'I'd like to announce…'처럼 시작해요. pronounce의 명사는 pronunciation이라 철자가 바뀌니 주의하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "announcement",
+   "pos": "명사",
+   "meaning": "발표, 공지",
+   "en": "Please listen carefully to the following announcement.",
+   "ko": "다음 안내 방송을 잘 들어 주세요."
+  },
+  {
+   "word": "pronounce",
+   "pos": "동사",
+   "meaning": "발음하다",
+   "en": "How do you pronounce this name?",
+   "ko": "이 이름은 어떻게 발음해요?"
+  },
+  {
+   "word": "pronunciation",
+   "pos": "명사",
+   "meaning": "발음",
+   "en": "Her pronunciation is very clear.",
+   "ko": "그녀의 발음은 아주 또렷해요."
+  },
+  {
+   "word": "announcer",
+   "pos": "명사",
+   "meaning": "아나운서, 안내 방송하는 사람",
+   "en": "The announcer called the next flight.",
+   "ko": "안내 방송이 다음 항공편을 알렸어요."
+  },
+  {
+   "word": "denounce",
+   "pos": "동사",
+   "meaning": "비난하다",
+   "en": "Critics denounced the new tax.",
+   "ko": "비평가들이 새 세금을 비판했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마이크 앞에서 회사 소식을 발표하는 대표",
+ "imageCaption": "전령이 광장에 서서 큰 소리로 소식을 외치는 모습을 떠올려 보세요.",
+ "movieLineEn": "They'll announce the winner tonight.",
+ "movieLineKo": "오늘 밤 우승자를 발표할 거래.",
+ "storyTitle": "발표 없는 발표",
+ "story": "사장님이 '중요한 소식'을 announce(발표하다)하겠다며 전 직원을 모았어요. 모두 숨을 죽였죠. 보너스? 이전? 사장님이 마이크를 잡더니 말했어요. '오늘… 회사 고양이 이름을 정했습니다!' announcement(발표)가 끝나자 웃음이 터졌어요. 그런데 고양이 이름이 너무 어려워 아무도 pronounce(발음하다)하지 못했어요. 사장님의 pronunciation(발음)을 녹음해 매일 아침 announcer(안내 방송) 목소리로 틀었답니다."
+}

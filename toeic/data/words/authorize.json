@@ -1,0 +1,68 @@
+{
+ "word": "authorize",
+ "pos": "동사",
+ "phonetic": "[ˈɔːθəraɪz]",
+ "meaning": "권한을 주다, 허가하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "author",
+   "meaning": "만든 사람, 근원 (originator)",
+   "note": "라틴어 auctor(만든 사람, 키워 낸 사람), augere(늘리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ize",
+   "meaning": "~하게 하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>author</strong> (근원, 결정권자) + <strong>-ize</strong> = '결정할 힘을 주다'에서 <strong>'권한을 주다, 허가하다'</strong>가 되었어요.",
+ "historyTitle": "작가와 권한은 같은 뿌리",
+ "historyBody": "라틴어 auctor는 무언가를 처음 '만들고 키워 낸 사람'이었어요. 그래서 책을 쓴 author(작가), 결정할 힘을 가진 authority(권한, 당국)가 같은 가족이에요. 무언가를 만든 사람이 그것에 대해 결정권을 가진다는 생각이죠. 토익에서는 'authorized dealer(공식 판매점)', 'unauthorized access(무단 접근)'가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "authorization",
+   "pos": "명사",
+   "meaning": "허가, 승인",
+   "en": "You need written authorization to enter the lab.",
+   "ko": "실험실에 들어가려면 서면 허가가 필요해요."
+  },
+  {
+   "word": "authorized",
+   "pos": "형용사",
+   "meaning": "공인된, 허가받은",
+   "en": "Repairs must be done by an authorized dealer.",
+   "ko": "수리는 공식 대리점에서 받아야 해요."
+  },
+  {
+   "word": "unauthorized",
+   "pos": "형용사",
+   "meaning": "무단의, 허가받지 않은",
+   "en": "Unauthorized use of the logo is prohibited.",
+   "ko": "로고 무단 사용은 금지돼요."
+  },
+  {
+   "word": "authority",
+   "pos": "명사",
+   "meaning": "권한; 당국",
+   "en": "Only managers have the authority to approve refunds.",
+   "ko": "관리자만 환불 승인 권한이 있어요."
+  },
+  {
+   "word": "author",
+   "pos": "명사",
+   "meaning": "저자, 작가",
+   "en": "The author will sign books at the store.",
+   "ko": "저자가 서점에서 사인회를 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 출입 카드를 대자 초록 불이 켜지는 보안 문",
+ "imageCaption": "결정권자가 열쇠를 건네며 '이제 당신이 해도 돼요'라고 하는 모습을 떠올려 보세요.",
+ "movieLineEn": "Only authorized staff can enter this room.",
+ "movieLineKo": "허가받은 직원만 이 방에 들어갈 수 있어.",
+ "storyTitle": "권한이 너무 많은 인턴",
+ "story": "IT팀이 실수로 인턴 지수의 출입 카드를 '모든 곳 authorized(허가받은)'로 설정했어요. 지수는 사장실, 금고, 옥상 정원까지 열 수 있었죠! 하지만 그녀가 그 authority(권한)로 한 일은 하나뿐이었어요. 모든 회의실 화분에 물 주기. 사장님은 그 사실을 알고 감동해서 공식적으로 authorize(권한을 주다)했어요. '정원 관리 authorization(허가) 1호!' 대신 금고 출입은 unauthorized(무단의)로 바뀌었답니다."
+}

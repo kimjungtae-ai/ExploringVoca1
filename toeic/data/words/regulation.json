@@ -1,0 +1,68 @@
+{
+ "word": "regulation",
+ "pos": "명사",
+ "phonetic": "[ˌreɡjuˈleɪʃn]",
+ "meaning": "규정, 규제, 조절",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "regul",
+   "meaning": "규칙, 자 (rule)",
+   "note": "라틴어 regula(곧은 자, 규칙), regere(바르게 이끌다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ation",
+   "meaning": "~하는 것",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>regul</strong> (곧은 자, 규칙) + <strong>-ation</strong> = '자로 잰 듯 바르게 정한 것'에서 <strong>'규정, 규제'</strong>가 되었어요.",
+ "historyTitle": "곧은 자에서 나온 규칙",
+ "historyBody": "라틴어 regula는 선을 곧게 긋는 '자'였어요. 곧게 그은 선처럼 행동을 바르게 정해 주는 것이 규칙이 되었죠. regere(바르게 이끌다)에서 rex(왕), region(다스리는 지역)도 나왔어요. regular(규칙적인, 정기적인)도 같은 뿌리라서 'regular customer(단골손님)'는 '자로 잰 듯 꼬박꼬박 오는 손님'이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "regulate",
+   "pos": "동사",
+   "meaning": "규제하다, 조절하다",
+   "en": "The government regulates food safety.",
+   "ko": "정부가 식품 안전을 규제해요."
+  },
+  {
+   "word": "regular",
+   "pos": "형용사",
+   "meaning": "정기적인, 단골의",
+   "en": "We offer discounts to regular customers.",
+   "ko": "단골손님께 할인해 드려요."
+  },
+  {
+   "word": "regularly",
+   "pos": "부사",
+   "meaning": "정기적으로",
+   "en": "The machines are inspected regularly.",
+   "ko": "기계는 정기적으로 점검돼요."
+  },
+  {
+   "word": "region",
+   "pos": "명사",
+   "meaning": "지역",
+   "en": "Sales grew in every region.",
+   "ko": "모든 지역에서 매출이 늘었어요."
+  },
+  {
+   "word": "regulatory",
+   "pos": "형용사",
+   "meaning": "규제의",
+   "en": "The product passed all regulatory checks.",
+   "ko": "제품이 모든 규제 검사를 통과했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 두꺼운 규정집과 반듯한 자가 놓인 책상",
+ "imageCaption": "곧은 자로 선을 반듯하게 긋는 모습을 떠올려 보세요.",
+ "movieLineEn": "Safety regulations are very strict here.",
+ "movieLineKo": "여기는 안전 규정이 아주 엄격해.",
+ "storyTitle": "자를 든 규정 담당자",
+ "story": "새로 온 regulation(규정) 담당 소 과장은 진짜 자를 들고 다녔어요. 책상 간격도, 화분 높이도 자로 쟀죠. 직원들은 그가 모든 걸 regulate(규제하다)할까 봐 걱정했어요. 그런데 그가 처음 만든 규정은 이랬어요. '오후 3시 regular(정기적인) 간식 시간에는 15센티미터 이상의 케이크를 제공할 것.' 이 regulatory(규제의) 결정 이후 사무실 행복 지수가 전 region(지역) 1등이 되었답니다."
+}

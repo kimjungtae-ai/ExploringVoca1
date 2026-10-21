@@ -1,0 +1,61 @@
+{
+ "word": "facility",
+ "pos": "명사",
+ "phonetic": "[fəˈsɪləti]",
+ "meaning": "시설, 설비; 재능, 쉬움",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "facil",
+   "meaning": "쉬운 (easy)",
+   "note": "라틴어 facilis(하기 쉬운)에서 왔어요. facere(만들다, 하다)와 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ity",
+   "meaning": "~한 성질, 상태",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>facil</strong> (쉬운) + <strong>-ity</strong> (것) = '일을 쉽게 해 주는 것'에서 <strong>'시설, 설비'</strong>가 되었어요.",
+ "historyTitle": "일을 쉽게 만들어 주는 곳",
+ "historyBody": "facility는 원래 '쉬움, 손쉬움'이라는 뜻이었어요. 그러다 '일을 쉽게 해 주는 장소나 설비'라는 뜻이 생겼죠. 그래서 sports facility(체육 시설), storage facility(보관 시설)처럼 써요. 회의를 매끄럽게 '쉽게' 이끄는 사람은 facilitator(진행자)라고 해요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "facilitate",
+   "pos": "동사",
+   "meaning": "용이하게 하다, 촉진하다",
+   "en": "The new software will facilitate communication.",
+   "ko": "새 프로그램이 소통을 쉽게 해 줄 거예요."
+  },
+  {
+   "word": "facilitator",
+   "pos": "명사",
+   "meaning": "(회의·워크숍) 진행자",
+   "en": "A facilitator will lead the group discussion.",
+   "ko": "진행자가 그룹 토론을 이끌어요."
+  },
+  {
+   "word": "faculty",
+   "pos": "명사",
+   "meaning": "교수진; 능력",
+   "en": "The university hired new faculty members.",
+   "ko": "대학이 새 교수진을 채용했어요."
+  },
+  {
+   "word": "facile",
+   "pos": "형용사",
+   "meaning": "손쉬운, 안이한",
+   "en": "There is no facile solution to the problem.",
+   "ko": "그 문제에 손쉬운 해결책은 없어요."
+  }
+ ],
+ "imageSense": "대표 의미: 최신 운동 기구가 갖춰진 회사 피트니스 센터",
+ "imageCaption": "일을 쉽게 만들어 주는 기계와 공간이 모인 건물을 떠올려 보세요.",
+ "movieLineEn": "The hotel has great facilities, like a pool and a gym.",
+ "movieLineKo": "그 호텔은 수영장, 헬스장 같은 시설이 좋아.",
+ "storyTitle": "너무 좋은 시설",
+ "story": "회사가 새 facility(시설)를 열었어요. 수면실, 안마 의자, 게임방까지! 시설이 소통을 facilitate(촉진하다)할 거라던 사장님의 말과 달리, 직원들은 안마 의자에서 나오지 않았어요. 결국 워크숍 facilitator(진행자)가 회의를 안마 의자 위에서 열었죠. 그날 회의는 역대 가장 짧았어요. 다들 faculty(능력)를 잃고 졸았거든요. '편한 일에 facile(손쉬운) 해결은 없다'는 교훈만 남았답니다."
+}

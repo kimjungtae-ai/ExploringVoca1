@@ -1,0 +1,75 @@
+{
+ "word": "submit",
+ "pos": "동사",
+ "phonetic": "[səbˈmɪt]",
+ "meaning": "제출하다, (의견을) 내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sub-",
+   "meaning": "아래로 (under)",
+   "note": "윗사람 아래로 몸을 낮추는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mit",
+   "meaning": "보내다 (send)",
+   "note": "라틴어 mittere(보내다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sub-</strong> (아래로) + <strong>mit</strong> (보내다) = '윗사람 손 아래로 보내 드리다'에서 <strong>'제출하다'</strong>가 되었어요.",
+ "historyTitle": "복종에서 제출로",
+ "historyBody": "라틴어 submittere는 원래 '아래로 내려놓다, 굴복하다'였어요. 그래서 submit에는 지금도 '복종하다'라는 뜻이 남아 있어요. 그러다 서류를 윗사람에게 '보내 드리는' 일, 곧 제출로 의미가 넓어졌죠. mission(보낸 임무), message(보내는 말)도 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "submission",
+   "pos": "명사",
+   "meaning": "제출(물)",
+   "en": "The deadline for submission is October 31.",
+   "ko": "제출 마감일은 10월 31일이에요."
+  },
+  {
+   "word": "permit",
+   "pos": "동사 / 명사",
+   "meaning": "허가하다 / 허가증",
+   "en": "You need a permit to park in this area.",
+   "ko": "이 구역에 주차하려면 허가증이 필요해요."
+  },
+  {
+   "word": "commitment",
+   "pos": "명사",
+   "meaning": "약속, 헌신",
+   "en": "Thank you for your commitment to customer service.",
+   "ko": "고객 서비스에 헌신해 주셔서 감사해요."
+  },
+  {
+   "word": "transmit",
+   "pos": "동사",
+   "meaning": "전송하다",
+   "en": "The data is transmitted to our main office every night.",
+   "ko": "데이터는 매일 밤 본사로 전송돼요."
+  },
+  {
+   "word": "admission",
+   "pos": "명사",
+   "meaning": "입장(료), 입학",
+   "en": "Admission to the museum is free on Mondays.",
+   "ko": "월요일엔 박물관 입장이 무료예요."
+  },
+  {
+   "word": "dismiss",
+   "pos": "동사",
+   "meaning": "해산시키다, 해고하다",
+   "en": "The meeting was dismissed early.",
+   "ko": "회의가 일찍 끝났어요."
+  }
+ ],
+ "imageSense": "대표 의미: 마감 직전 '제출' 버튼을 누르는 손가락",
+ "imageCaption": "노트북 화면의 큰 제출 버튼을 떨리는 손으로 누르는 장면을 떠올려 보세요.",
+ "movieLineEn": "You have to submit your report by Friday.",
+ "movieLineKo": "금요일까지 보고서 내야 해.",
+ "storyTitle": "제출 버튼의 저주",
+ "story": "수아는 밤새 쓴 지원서를 submit(제출하다)하려 버튼을 눌렀어요. 화면엔 '세션 만료'. 다시 썼어요. 또 만료! 세 번째 submission(제출)이 성공하자 메일이 왔어요. '같은 지원서가 세 개 접수됐네요. 그 commitment(헌신)에 감동했습니다!' 회사는 면접장 admission(입장)을 permit(허가하다)해 주었답니다."
+}

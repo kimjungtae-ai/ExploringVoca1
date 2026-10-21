@@ -1,0 +1,68 @@
+{
+ "word": "proceed",
+ "pos": "동사",
+ "phonetic": "[proʊˈsiːd]",
+ "meaning": "진행하다, 계속하다, (~로) 가다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "pro-",
+   "meaning": "앞으로 (forward)",
+   "note": "앞쪽으로 나아가는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ceed",
+   "meaning": "가다 (go)",
+   "note": "라틴어 cedere(가다, 물러나다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>pro-</strong> (앞으로) + <strong>ceed</strong> (가다) = '앞으로 나아가다'에서 <strong>'진행하다, 이동하다'</strong>가 되었어요.",
+ "historyTitle": "공항 방송의 단골 동사",
+ "historyBody": "cedere에서 exceed(밖으로 넘어가다, 초과하다), succeed(뒤따라가다, 성공하다), process(앞으로 가는 과정)가 나왔어요. 공항 안내 방송의 'Please proceed to Gate 12'는 토익 Part 4에서 정말 자주 들려요. 'proceed with+명사' 구조도 함께 외워 두세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "procedure",
+   "pos": "명사",
+   "meaning": "절차",
+   "en": "Please follow the safety procedures at all times.",
+   "ko": "항상 안전 절차를 따라 주세요."
+  },
+  {
+   "word": "process",
+   "pos": "명사 / 동사",
+   "meaning": "과정 / 처리하다",
+   "en": "Your order is being processed.",
+   "ko": "주문을 처리하고 있어요."
+  },
+  {
+   "word": "exceed",
+   "pos": "동사",
+   "meaning": "초과하다",
+   "en": "Sales exceeded our expectations this year.",
+   "ko": "올해 매출이 예상을 넘었어요."
+  },
+  {
+   "word": "proceeds",
+   "pos": "명사",
+   "meaning": "수익금",
+   "en": "All proceeds will go to the local hospital.",
+   "ko": "수익금 전액은 지역 병원에 기부돼요."
+  },
+  {
+   "word": "access",
+   "pos": "명사 / 동사",
+   "meaning": "접근(하다), 이용(하다)",
+   "en": "Employees can access the files from home.",
+   "ko": "직원들은 집에서도 파일에 접근할 수 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 공항 안내판의 화살표를 따라 게이트로 걸어가는 승객",
+ "imageCaption": "화살표 방향으로 한 걸음씩 앞으로 나아가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Please proceed to the next room.",
+ "movieLineKo": "다음 방으로 이동해 주세요.",
+ "storyTitle": "12번 게이트는 어디에",
+ "story": "공항 방송이 나왔어요. '12번 게이트로 proceed(이동하다)해 주십시오.' 준기는 열심히 달렸어요. 11번, 13번, 14번… 12번이 없었죠! 공사 procedure(절차) 때문에 번호가 바뀐 거였어요. 탑승 process(과정)가 걱정된 준기는 직원에게 access(접근)했고, 12번은 화장실 옆 작은 문이라는 걸 알았어요. 걸음 수가 하루 목표를 exceed(초과하다)한 날이었답니다."
+}

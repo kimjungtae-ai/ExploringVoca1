@@ -1,0 +1,68 @@
+{
+ "word": "maintain",
+ "pos": "동사",
+ "phonetic": "[meɪnˈteɪn]",
+ "meaning": "유지하다, 정비하다, 주장하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "main (manu)",
+   "meaning": "손 (hand)",
+   "note": "라틴어 manus(손)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tain",
+   "meaning": "잡다, 쥐다 (hold)",
+   "note": "라틴어 tenere(잡다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>main</strong> (손) + <strong>tain</strong> (잡다) = '손에 꽉 쥐고 지키다'에서 <strong>'유지하다, 정비하다'</strong>가 되었어요.",
+ "historyTitle": "손에 쥐고 놓지 않는 것",
+ "historyBody": "라틴어 manu tenere는 '손에 쥐고 있다'라는 말이었어요. 고대 프랑스어 maintenir를 거쳐 영어로 들어왔죠. 손에서 놓지 않으니 상태를 '유지하다', 기계를 손보며 지키니 '정비하다'가 되었어요. tenere 가족으로 contain(담다), obtain(얻다), retain(보유하다)이 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "maintenance",
+   "pos": "명사",
+   "meaning": "유지 보수, 정비",
+   "en": "The elevator will be closed for maintenance.",
+   "ko": "엘리베이터가 정비로 운행을 멈춰요."
+  },
+  {
+   "word": "contain",
+   "pos": "동사",
+   "meaning": "포함하다, 담다",
+   "en": "This box contains fragile items.",
+   "ko": "이 상자에는 깨지기 쉬운 물건이 들어 있어요."
+  },
+  {
+   "word": "obtain",
+   "pos": "동사",
+   "meaning": "얻다, 획득하다",
+   "en": "You must obtain approval before ordering.",
+   "ko": "주문 전에 승인을 받아야 해요."
+  },
+  {
+   "word": "retain",
+   "pos": "동사",
+   "meaning": "보유하다, 유지하다",
+   "en": "We want to retain our best employees.",
+   "ko": "최고의 직원들을 계속 붙잡고 싶어요."
+  },
+  {
+   "word": "tenant",
+   "pos": "명사",
+   "meaning": "세입자 (잡고 사는 사람)",
+   "en": "All tenants must register their cars.",
+   "ko": "모든 세입자는 차량을 등록해야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 정비공이 공구를 들고 기계를 손보는 장면",
+ "imageCaption": "손으로 무언가를 꼭 붙잡아 무너지지 않게 지키는 모습을 떠올려 보세요.",
+ "movieLineEn": "It's hard to maintain this old car.",
+ "movieLineKo": "이 오래된 차는 유지하기 힘들어.",
+ "storyTitle": "정비실의 철학자",
+ "story": "건물 maintenance(정비) 담당 노 씨는 늘 말했어요. '기계는 사람처럼 손으로 maintain(유지하다)해야 해.' 그는 엘리베이터에게 인사하고 보일러를 쓰다듬었죠. 어느 날 tenant(세입자)들이 물었어요. '정말 효과가 있어요?' 노 씨가 웃었어요. '이 건물 기계들은 30년째 고장이 없어요.' 사실 비결은 매주 부품을 obtain(얻다)해 갈아 끼운 거였지만, 그는 그 비밀을 retain(보유하다)했답니다."
+}

@@ -1,0 +1,68 @@
+{
+ "word": "reserve",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈzɜːrv]",
+ "meaning": "예약하다, 따로 남겨 두다 / 비축(물), 예비",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "뒤로, 따로 (back)",
+   "note": "뒤쪽으로 빼 두는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "serve",
+   "meaning": "지키다, 보관하다 (keep)",
+   "note": "라틴어 servare(지키다)에서 왔어요. '봉사하다'의 serve(servire)와는 뿌리가 달라요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (따로) + <strong>serve</strong> (지키다) = '남이 못 쓰게 따로 지켜 두다'에서 <strong>'예약하다'</strong>가 되었어요.",
+ "historyTitle": "전쟁터에서 뒤로 빼 둔 병사들",
+ "historyBody": "라틴어 reservare는 '뒤에 남겨 두다'라는 뜻이었어요. 군대에서 바로 싸우지 않고 뒤에 남겨 둔 병력을 reserve(예비군)라고 불렀죠. 호텔 예약도 방 하나를 손님 몫으로 '따로 지켜 두는' 일이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "reservation",
+   "pos": "명사",
+   "meaning": "예약",
+   "en": "I'd like to confirm my reservation for Friday night.",
+   "ko": "금요일 밤 예약을 확인하고 싶어요."
+  },
+  {
+   "word": "reserved",
+   "pos": "형용사",
+   "meaning": "예약된, 지정된",
+   "en": "These seats are reserved for conference speakers.",
+   "ko": "이 좌석은 회의 발표자 전용이에요."
+  },
+  {
+   "word": "preserve",
+   "pos": "동사",
+   "meaning": "보존하다 (미리 지키다)",
+   "en": "The city plans to preserve the old factory building.",
+   "ko": "시는 오래된 공장 건물을 보존할 계획이에요."
+  },
+  {
+   "word": "conserve",
+   "pos": "동사",
+   "meaning": "아끼다, 보존하다",
+   "en": "Please turn off the lights to conserve energy.",
+   "ko": "에너지를 아끼기 위해 전등을 꺼 주세요."
+  },
+  {
+   "word": "observe",
+   "pos": "동사",
+   "meaning": "준수하다, 관찰하다",
+   "en": "All visitors must observe the safety rules.",
+   "ko": "모든 방문객은 안전 규칙을 지켜야 해요."
+  }
+ ],
+ "imageSense": "대표 의미: 호텔 프런트에서 예약 확인증을 건네는 장면",
+ "imageCaption": "직원이 '예약하신 방은 따로 지켜 두었습니다'라며 열쇠를 건네는 모습을 떠올려 보세요.",
+ "movieLineEn": "I reserved a table for two at eight.",
+ "movieLineKo": "8시에 2인용 테이블을 예약해 뒀어.",
+ "storyTitle": "예약의 달인 김 대리",
+ "story": "김 대리는 출장 호텔을 reserve(예약하다)하고 reservation(예약) 번호까지 외웠어요. 그런데 도착하니 방이 없대요! 알고 보니 내년 날짜로 예약한 거였죠. 매니저는 웃으며 '내년 방은 꼭 preserve(보존하다)해 두겠습니다'라고 했어요. 김 대리는 로비 소파를 reserved(예약된) 자리처럼 지키며 에너지를 conserve(아끼다)했답니다."
+}

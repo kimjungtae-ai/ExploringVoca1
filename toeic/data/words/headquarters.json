@@ -1,0 +1,61 @@
+{
+ "word": "headquarters",
+ "pos": "명사",
+ "phonetic": "[ˈhedkwɔːrtərz]",
+ "meaning": "본사, 본부",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "head",
+   "meaning": "머리, 우두머리",
+   "note": "영어 바탕 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "quarters",
+   "meaning": "숙소, 거처",
+   "note": "라틴어 quartarius(4분의 1)에서 온 quarter의 복수형이에요. 군대에서 '구역, 숙소'를 뜻했어요."
+  }
+ ],
+ "summary": "<strong>head</strong> (우두머리) + <strong>quarters</strong> (숙소, 구역) = '지휘관이 머무는 곳'에서 <strong>'본사, 본부'</strong>가 되었어요.",
+ "historyTitle": "장군의 숙소가 본사로",
+ "historyBody": "quarter는 '4분의 1'이에요. 도시를 넷으로 나눈 '구역'이라는 뜻이 생겼고, 군대에서는 병사들이 머무는 '숙소'를 quarters라고 했어요. 17세기 군대에서 지휘관(head)이 머무는 곳이 headquarters였고, 그것이 회사의 본사가 되었죠. 늘 s가 붙은 형태로 쓰여요. 분기를 뜻하는 quarter(1년의 4분의 1)도 토익 실적 보고에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "quarter",
+   "pos": "명사",
+   "meaning": "분기; 4분의 1",
+   "en": "Sales rose in the second quarter.",
+   "ko": "2분기에 매출이 올랐어요."
+  },
+  {
+   "word": "quarterly",
+   "pos": "형용사 / 부사",
+   "meaning": "분기별의 / 분기마다",
+   "en": "The quarterly report is due next week.",
+   "ko": "분기 보고서가 다음 주까지예요."
+  },
+  {
+   "word": "head office",
+   "pos": "명사구",
+   "meaning": "본사",
+   "en": "Please send the forms to the head office.",
+   "ko": "서류를 본사로 보내 주세요."
+  },
+  {
+   "word": "headquartered",
+   "pos": "형용사",
+   "meaning": "본사를 둔",
+   "en": "The company is headquartered in Seoul.",
+   "ko": "그 회사는 서울에 본사가 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 도심 고층 빌딩 꼭대기에 회사 로고가 걸린 본사 건물",
+ "imageCaption": "지휘관이 지도를 펼쳐 놓고 작전을 짜는 막사를 떠올려 보세요.",
+ "movieLineEn": "Our headquarters is in New York.",
+ "movieLineKo": "우리 본사는 뉴욕에 있어.",
+ "storyTitle": "본사로 가는 길",
+ "story": "지방 지점의 막내 하율은 처음으로 headquarters(본사)에 서류를 전달하러 갔어요. 서울 한복판 50층 건물 앞에서 입이 떡 벌어졌죠. 엘리베이터를 타고 꼭대기에 도착하니 사장님이 직접 문을 열었어요. '아, quarterly(분기별의) 보고서 들고 온 직원이군요!' 사장님은 하율에게 head office(본사) 투어까지 시켜 줬어요. 알고 보니 그날은 '막내의 날'이었대요. 다음 quarter(분기)부터 하율은 본사로 출근하게 되었고, headquartered(본사를 둔) 회사 소개 영상의 주인공이 되었답니다."
+}

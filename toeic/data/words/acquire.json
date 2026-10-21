@@ -1,0 +1,68 @@
+{
+ "word": "acquire",
+ "pos": "동사",
+ "phonetic": "[əˈkwaɪər]",
+ "meaning": "인수하다, 획득하다, (지식을) 습득하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac- (ad-)",
+   "meaning": "~에, 더하여 (to)",
+   "note": "ad-가 q 앞에서 ac-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "quire",
+   "meaning": "찾다, 구하다 (seek)",
+   "note": "라틴어 quaerere(찾다, 구하다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (더하여) + <strong>quire</strong> (구하다) = '찾아 구해서 내 것으로 더하다'에서 <strong>'인수하다, 획득하다'</strong>가 되었어요.",
+ "historyTitle": "찾아다녀서 얻는 것",
+ "historyBody": "라틴어 acquirere는 '더 구하다, 얻다'였어요. quaerere(찾다, 묻다)에서 question(질문), inquire(묻다), request(요청하다), require(요구하다)가 나왔죠. 회사를 찾아 사들이는 것이 acquisition(인수)이고, M&A는 merger and acquisition(합병과 인수)의 줄임말이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "acquisition",
+   "pos": "명사",
+   "meaning": "인수, 습득",
+   "en": "The acquisition of the startup was announced today.",
+   "ko": "오늘 스타트업 인수가 발표됐어요."
+  },
+  {
+   "word": "inquire",
+   "pos": "동사",
+   "meaning": "문의하다",
+   "en": "Please inquire at the front desk.",
+   "ko": "프런트에 문의해 주세요."
+  },
+  {
+   "word": "inquiry",
+   "pos": "명사",
+   "meaning": "문의",
+   "en": "We received many inquiries about the new product.",
+   "ko": "신제품 문의가 많이 들어왔어요."
+  },
+  {
+   "word": "require",
+   "pos": "동사",
+   "meaning": "요구하다, 필요로 하다",
+   "en": "This position requires three years of experience.",
+   "ko": "이 자리는 경력 3년이 필요해요."
+  },
+  {
+   "word": "request",
+   "pos": "명사 / 동사",
+   "meaning": "요청(하다)",
+   "en": "Brochures are available upon request.",
+   "ko": "요청하시면 안내 책자를 드려요."
+  }
+ ],
+ "imageSense": "대표 의미: 큰 회사가 작은 회사 건물에 새 간판을 거는 장면",
+ "imageCaption": "원하는 것을 찾아다니다 손에 쥐는 모습을 떠올려 보세요.",
+ "movieLineEn": "The company plans to acquire two smaller firms.",
+ "movieLineKo": "그 회사는 작은 회사 두 곳을 인수할 계획이야.",
+ "storyTitle": "인수된 떡볶이 가게",
+ "story": "대기업이 동네 떡볶이 가게를 acquire(인수하다)하겠다고 찾아왔어요. 사장님 할머니는 조건을 하나 request(요청하다)했죠. '매일 3시에 내가 직접 간을 볼 것.' 대기업은 그 조건을 받아들이고 acquisition(인수)을 마쳤어요. 그런데 전국 지점에서 inquiry(문의)가 쏟아졌어요. '3시에 할머니는 몇 군데를 도시나요?' 결국 회사는 할머니 맛을 배우는 교육을 require(요구하다)했고, 직원 천 명이 할머니 제자가 되었답니다."
+}

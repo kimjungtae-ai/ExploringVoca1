@@ -1,0 +1,74 @@
+{
+ "word": "experience",
+ "pos": "명사 / 동사",
+ "phonetic": "[ɪkˈspɪriəns]",
+ "meaning": "경험, 경력 / 경험하다, 겪다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로, 완전히 (out)",
+   "note": "끝까지 해 보는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "peri",
+   "meaning": "시도하다 (try)",
+   "note": "라틴어 experiri(시도해 보다)에서 왔어요. periculum(위험)과 같은 뿌리예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ence",
+   "meaning": "~하는 것",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (끝까지) + <strong>peri</strong> (시도하다) + <strong>-ence</strong> = '끝까지 직접 해 본 것'에서 <strong>'경험, 경력'</strong>이 되었어요.",
+ "historyTitle": "직접 해 보며 위험을 지나온 사람",
+ "historyBody": "라틴어 experiri는 '직접 시도해 보다'였어요. 같은 뿌리의 periculum은 '시험, 위험'이라서 peril(위험)이 나왔죠. 위험을 무릅쓰고 직접 해 본 사람이 expert(전문가)예요. 그래서 경험, 실험(experiment), 전문가(expert)가 모두 한 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "experienced",
+   "pos": "형용사",
+   "meaning": "경험이 풍부한",
+   "en": "We need an experienced sales manager.",
+   "ko": "경험 많은 영업 관리자가 필요해요."
+  },
+  {
+   "word": "experiment",
+   "pos": "명사 / 동사",
+   "meaning": "실험(하다)",
+   "en": "The lab will experiment with new materials.",
+   "ko": "연구소에서 새 소재를 실험할 거예요."
+  },
+  {
+   "word": "expert",
+   "pos": "명사",
+   "meaning": "전문가",
+   "en": "An expert will review the safety report.",
+   "ko": "전문가가 안전 보고서를 검토해요."
+  },
+  {
+   "word": "expertise",
+   "pos": "명사",
+   "meaning": "전문 지식",
+   "en": "Her expertise in finance helped the company.",
+   "ko": "그녀의 재무 전문 지식이 회사에 도움이 됐어요."
+  },
+  {
+   "word": "inexperienced",
+   "pos": "형용사",
+   "meaning": "경험이 부족한",
+   "en": "Inexperienced staff will receive extra training.",
+   "ko": "경험이 적은 직원은 추가 교육을 받아요."
+  }
+ ],
+ "imageSense": "대표 의미: 선배가 신입에게 기계 다루는 법을 직접 보여 주는 장면",
+ "imageCaption": "직접 부딪쳐 보며 하나씩 배워 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Do you have any experience in sales?",
+ "movieLineKo": "영업 경력 있어요?",
+ "storyTitle": "경력이 필요한 신입",
+ "story": "신입 채용 공고에 '경력 3년 이상'이라고 적혀 있었어요. 지원자 하늘이 물었죠. '신입인데 어떻게 experience(경력)를 쌓아요?' 면접관이 웃었어요. '좋은 질문이에요. 그 질문이 첫 경험이에요!' 하늘은 inexperienced(경험이 부족한) 신입이었지만 서비스 experiment(실험)에 참여할 기회를 얻었어요. 1년 뒤 그녀는 그 분야 expert(전문가)가 되었고, 공고에서 '경력' 조건을 지우자고 제안했답니다. 그 expertise(전문 지식) 덕분이었죠."
+}

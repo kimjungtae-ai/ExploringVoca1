@@ -1,0 +1,68 @@
+{
+ "word": "qualify",
+ "pos": "동사",
+ "phonetic": "[ˈkwɑːlɪfaɪ]",
+ "meaning": "자격을 얻다, 자격을 주다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "quali",
+   "meaning": "어떤 종류의 (of what kind)",
+   "note": "라틴어 qualis(어떤 종류의)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-fy",
+   "meaning": "~하게 만들다",
+   "note": "라틴어 facere(만들다)에서 온 동사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>quali</strong> (어떤 종류의) + <strong>-fy</strong> (만들다) = '어떤 종류·수준인지 정해 주다'에서 <strong>'자격을 얻다, 자격을 주다'</strong>가 되었어요.",
+ "historyTitle": "'어떤 종류냐'를 묻는 말",
+ "historyBody": "라틴어 qualis는 '어떤 종류의?'라는 질문 말이었어요. 여기서 quality(품질, 어떤 종류인지)가 나왔고, 중세 라틴어 qualificare는 '어떤 종류인지 정하다'가 되었죠. 사람이 일에 맞는 '종류'로 정해지는 것이 바로 자격이에요. 'be qualified for(~에 자격이 있다)'는 구인 광고 필수 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "qualified",
+   "pos": "형용사",
+   "meaning": "자격을 갖춘",
+   "en": "We are looking for qualified engineers.",
+   "ko": "자격을 갖춘 엔지니어를 찾고 있어요."
+  },
+  {
+   "word": "qualification",
+   "pos": "명사",
+   "meaning": "자격(요건)",
+   "en": "Please list your qualifications in the form.",
+   "ko": "양식에 자격 사항을 적어 주세요."
+  },
+  {
+   "word": "quality",
+   "pos": "명사",
+   "meaning": "품질",
+   "en": "We never compromise on quality.",
+   "ko": "우리는 품질만큼은 절대 양보하지 않아요."
+  },
+  {
+   "word": "disqualify",
+   "pos": "동사",
+   "meaning": "자격을 박탈하다",
+   "en": "Late applications will be disqualified.",
+   "ko": "늦은 지원서는 심사에서 제외돼요."
+  },
+  {
+   "word": "quality control",
+   "pos": "명사구",
+   "meaning": "품질 관리",
+   "en": "She works in quality control at the plant.",
+   "ko": "그녀는 공장 품질 관리 부서에서 일해요."
+  }
+ ],
+ "imageSense": "대표 의미: 자격증과 수료증이 벽에 걸린 사무실",
+ "imageCaption": "'이 사람은 이런 종류!'라고 도장 찍어 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "You don't qualify for the discount.",
+ "movieLineKo": "할인 대상이 아니에요.",
+ "storyTitle": "자격증 수집가",
+ "story": "취업 준비생 동하는 자격증을 30개나 땄어요. 커피, 꽃꽂이, 드론, 심지어 '라면 끓이기 2급'까지! 면접관이 물었죠. '이 많은 qualification(자격) 중 이 일과 관련된 건?' 동하가 당당히 말했어요. '야근할 때 라면 quality(품질)를 책임질 수 있습니다!' 면접관들은 웃다가 그를 qualified(자격을 갖춘) 인재로 뽑았어요. 라면 하나로 qualify(자격을 얻다)한 그는 탕비실 quality control(품질 관리)까지 맡았답니다."
+}

@@ -1,0 +1,81 @@
+{
+ "word": "expense",
+ "pos": "명사",
+ "phonetic": "[ɪkˈspens]",
+ "meaning": "비용, 경비, 지출",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "돈이 밖으로 나가는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pens",
+   "meaning": "무게를 달다, 지불하다 (weigh, pay)",
+   "note": "라틴어 pendere(달다), 과거분사 pensus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-e",
+   "meaning": "명사 꼬리",
+   "note": "철자를 마무리하는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>pens</strong> (달아서 치르다) = '저울에 달아 내보낸 돈'에서 <strong>'비용, 경비'</strong>가 되었어요.",
+ "historyTitle": "저울로 값을 치르던 시절",
+ "historyBody": "동전이 흔하지 않던 옛날 로마에서는 구리나 은의 무게를 저울에 달아 값을 치렀어요. 그래서 '무게를 달다'와 '돈을 내다'가 같은 말이었죠. expensive(비싼), spend(쓰다), compensate(보상하다)가 모두 이 저울에서 나온 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expensive",
+   "pos": "형용사",
+   "meaning": "비싼",
+   "en": "Shipping by air is more expensive than by sea.",
+   "ko": "항공 배송은 해상보다 비싸요."
+  },
+  {
+   "word": "compensate",
+   "pos": "동사",
+   "meaning": "보상하다 (함께 무게를 맞추다)",
+   "en": "The airline will compensate passengers for the delay.",
+   "ko": "항공사가 지연에 대해 승객에게 보상할 거예요."
+  },
+  {
+   "word": "spend",
+   "pos": "동사",
+   "meaning": "(돈·시간을) 쓰다",
+   "en": "We spent too much on advertising last year.",
+   "ko": "작년에 광고비를 너무 많이 썼어요."
+  },
+  {
+   "word": "pension",
+   "pos": "명사",
+   "meaning": "연금",
+   "en": "Full-time employees receive a company pension.",
+   "ko": "정규직은 회사 연금을 받아요."
+  },
+  {
+   "word": "dispense",
+   "pos": "동사",
+   "meaning": "나누어 주다",
+   "en": "This machine dispenses tickets and receipts.",
+   "ko": "이 기계에서 표와 영수증이 나와요."
+  },
+  {
+   "word": "expenditure",
+   "pos": "명사",
+   "meaning": "지출, 경비",
+   "en": "The report shows a rise in total expenditure.",
+   "ko": "보고서를 보면 총지출이 늘었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 출장 영수증을 저울 위에 올려 무게를 다는 장면",
+ "imageCaption": "돈이 저울을 거쳐 밖으로 빠져나가는 모습을 떠올려 보세요.",
+ "movieLineEn": "Don't worry about the cost. It's on the company's expense.",
+ "movieLineKo": "비용은 걱정 마. 회사 경비야.",
+ "storyTitle": "출장비 영수증의 비밀",
+ "story": "정 대리가 낸 expense(경비) 보고서 맨 아래엔 '고양이 간식 3만 원'이 있었어요. 재무팀이 물었죠. '이게 왜 경비죠?' '출장 간 사이 고양이가 노트북을 부쉈거든요. compensate(보상하다)용이에요.' 재무팀은 그렇게 expensive(비싼) 간식은 처음 본다며, 회사 돈을 spend(쓰다)하는 규칙을 다시 썼어요. 결국 정 대리의 expenditure(지출) 중 반만 승인됐답니다."
+}

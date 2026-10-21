@@ -1,0 +1,62 @@
+{
+ "word": "launch",
+ "pos": "동사 / 명사",
+ "phonetic": "[lɔːntʃ]",
+ "meaning": "출시하다, 시작하다, 발사하다 / 출시, 개시",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "launch",
+   "meaning": "창을 던지다 (hurl a lance)",
+   "note": "앵글로프랑스어 launcher, 고대 프랑스어 lancier(창을 던지다)에서 왔어요. lance(창)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>launch</strong>는 고대 프랑스어 <strong>lancier</strong>(창을 힘껏 던지다)에서 와서, 세상에 힘차게 내던지는 <strong>'출시하다, 시작하다'</strong>가 되었어요.",
+ "historyTitle": "창을 던지듯 세상에 내보내기",
+ "historyBody": "launch는 '창(lance)을 던지다'에서 왔어요. 창을 앞으로 힘껏 던지듯 배를 물에 띄우는 것, 로켓을 쏘아 올리는 것도 launch라고 부르게 되었죠. 지금은 신제품을 시장에 힘차게 내놓는 '출시'에 가장 많이 써요. 'product launch(제품 출시)', 'launch party(출시 기념행사)'가 토익 단골이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "launch date",
+   "pos": "명사구",
+   "meaning": "출시일",
+   "en": "The launch date has been moved to April.",
+   "ko": "출시일이 4월로 옮겨졌어요."
+  },
+  {
+   "word": "relaunch",
+   "pos": "동사 / 명사",
+   "meaning": "재출시(하다)",
+   "en": "The brand will relaunch with a new logo.",
+   "ko": "그 브랜드는 새 로고로 다시 출시해요."
+  },
+  {
+   "word": "lance",
+   "pos": "명사",
+   "meaning": "창",
+   "en": "Knights carried a long lance into battle.",
+   "ko": "기사들은 긴 창을 들고 싸움에 나갔어요."
+  },
+  {
+   "word": "freelance",
+   "pos": "형용사 / 명사",
+   "meaning": "프리랜서(의) (자유로운 창)",
+   "en": "She works as a freelance designer.",
+   "ko": "그녀는 프리랜서 디자이너로 일해요."
+  },
+  {
+   "word": "launch event",
+   "pos": "명사구",
+   "meaning": "출시 행사",
+   "en": "Reporters were invited to the launch event.",
+   "ko": "기자들이 출시 행사에 초대됐어요."
+  }
+ ],
+ "imageSense": "대표 의미: 무대 위 커튼이 열리며 새 스마트폰이 공개되는 장면",
+ "imageCaption": "창을 힘껏 던지듯 새 제품을 세상으로 쏘아 보내는 모습을 떠올려 보세요.",
+ "movieLineEn": "We're going to launch the new app next week.",
+ "movieLineKo": "다음 주에 새 앱을 출시할 거야.",
+ "storyTitle": "던져진 신제품",
+ "story": "스타트업이 새 스마트 텀블러를 launch(출시하다)했어요. launch event(출시 행사)에서 대표는 '창을 던지듯 힘차게!'라며 텀블러를 관객석으로 던졌죠. 그런데 텀블러가 천장 조명에 걸렸어요! 사람들이 웃으며 사진을 찍었고, 그 사진이 화제가 되었어요. 원래 launch date(출시일)보다 판매가 열 배 늘었죠. 그 장면을 찍은 사람은 freelance(프리랜서) 기자였고, 회사는 텀블러를 relaunch(재출시하다)하며 '천장 에디션'이라 이름 붙였답니다."
+}

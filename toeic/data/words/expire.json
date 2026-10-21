@@ -1,0 +1,68 @@
+{
+ "word": "expire",
+ "pos": "동사",
+ "phonetic": "[ɪkˈspaɪər]",
+ "meaning": "(기한이) 만료되다, 끝나다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ex-",
+   "meaning": "밖으로 (out)",
+   "note": "ex-에서 s가 겹치지 않게 빠진 형태예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "pire (spir)",
+   "meaning": "숨 쉬다 (breathe)",
+   "note": "라틴어 spirare(숨 쉬다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ex-</strong> (밖으로) + <strong>pire</strong> (숨 쉬다) = '마지막 숨을 내쉬다'에서 <strong>'만료되다, 끝나다'</strong>가 되었어요.",
+ "historyTitle": "마지막 숨을 내쉬는 계약서",
+ "historyBody": "라틴어 exspirare는 '숨을 내쉬다', 특히 '마지막 숨을 내쉬다'였어요. 그래서 expire는 원래 '죽다'라는 뜻이었죠. 지금은 계약, 여권, 쿠폰이 '숨을 다하는' 만료로 쓰여요. spirare 가족으로 inspire(숨을 불어넣다, 영감을 주다), respiration(호흡), spirit(정신, 숨결)이 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "expiration",
+   "pos": "명사",
+   "meaning": "만료",
+   "en": "Check the expiration date on the card.",
+   "ko": "카드 만료일을 확인하세요."
+  },
+  {
+   "word": "expiry",
+   "pos": "명사",
+   "meaning": "(영국) 만료",
+   "en": "The passport's expiry date is next May.",
+   "ko": "여권 만료일은 내년 5월이에요."
+  },
+  {
+   "word": "inspire",
+   "pos": "동사",
+   "meaning": "영감을 주다",
+   "en": "Her speech inspired the whole team.",
+   "ko": "그녀의 연설이 팀 전체에 영감을 줬어요."
+  },
+  {
+   "word": "inspiration",
+   "pos": "명사",
+   "meaning": "영감",
+   "en": "The designer found inspiration in nature.",
+   "ko": "디자이너는 자연에서 영감을 얻었어요."
+  },
+  {
+   "word": "spirit",
+   "pos": "명사",
+   "meaning": "정신, 분위기",
+   "en": "The event built a strong team spirit.",
+   "ko": "그 행사로 팀 정신이 단단해졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 만료일이 지나 '사용 불가' 도장이 찍힌 쿠폰",
+ "imageCaption": "계약서가 '후~' 하고 마지막 숨을 내쉬는 모습을 상상해 보세요.",
+ "movieLineEn": "My passport expires next month.",
+ "movieLineKo": "내 여권 다음 달에 만료돼.",
+ "storyTitle": "만료 직전의 쿠폰",
+ "story": "지원 씨는 지갑에서 오늘 expire(만료되다)하는 커피 쿠폰 열 장을 발견했어요! expiration(만료) 시간까지 단 세 시간. 혼자 열 잔은 무리라 팀원들에게 나눠 줬죠. 커피를 마신 팀은 갑자기 아이디어가 샘솟았어요. 회의는 inspiration(영감)으로 가득했고, 3개월 막혔던 문제가 풀렸어요. 팀장님이 감동해 외쳤어요. '이게 바로 팀 spirit(정신)이야!' 그날 이후 그 팀은 쿠폰 expiry(만료) 날마다 회의를 연답니다. 커피가 팀을 inspire(영감을 주다)한 셈이죠."
+}

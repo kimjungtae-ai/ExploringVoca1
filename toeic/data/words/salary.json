@@ -1,0 +1,61 @@
+{
+ "word": "salary",
+ "pos": "명사",
+ "phonetic": "[ˈsæləri]",
+ "meaning": "급여, 월급, 연봉",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "sal",
+   "meaning": "소금 (salt)",
+   "note": "라틴어 sal(소금)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ary",
+   "meaning": "~에 관한 것",
+   "note": "라틴어 -arium에서 온 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>sal</strong> (소금) + <strong>-ary</strong> (~에 관한 것) = 라틴어 salarium(소금 수당)에서 <strong>'급여'</strong>가 되었어요.",
+ "historyTitle": "로마 병사의 소금 값?",
+ "historyBody": "라틴어 salarium은 '소금과 관련된 돈'이라는 뜻이에요. 로마 병사들이 소금을 사라고 받던 수당이었다는 이야기가 널리 퍼져 있지만, 정확히 어떤 돈이었는지는 학자들 사이에서도 의견이 갈려요. 확실한 건 sal(소금)에서 왔다는 점이에요. 'salary increase(급여 인상)'는 토익 인사 지문의 단골이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "salaried",
+   "pos": "형용사",
+   "meaning": "월급을 받는",
+   "en": "Salaried employees receive paid holidays.",
+   "ko": "월급제 직원은 유급 휴가를 받아요."
+  },
+  {
+   "word": "salad",
+   "pos": "명사",
+   "meaning": "샐러드 (소금 친 채소)",
+   "en": "The lunch menu includes a fresh salad.",
+   "ko": "점심 메뉴에 신선한 샐러드가 있어요."
+  },
+  {
+   "word": "sauce",
+   "pos": "명사",
+   "meaning": "소스 (소금 간을 한 것)",
+   "en": "This sauce goes well with grilled fish.",
+   "ko": "이 소스는 구운 생선과 잘 어울려요."
+  },
+  {
+   "word": "salary increase",
+   "pos": "명사구",
+   "meaning": "급여 인상",
+   "en": "All staff will get a salary increase in July.",
+   "ko": "전 직원이 7월에 급여가 올라요."
+  }
+ ],
+ "imageSense": "대표 의미: 월급 봉투 옆에 놓인 소금 단지",
+ "imageCaption": "로마 병사가 소금 자루를 받는 장면을 상상해 보세요.",
+ "movieLineEn": "The salary is good, but the hours are long.",
+ "movieLineKo": "월급은 좋은데 근무 시간이 길어.",
+ "storyTitle": "소금으로 받는 월급",
+ "story": "김 사원은 첫 salary(월급)를 받고 신이 났어요. 그런데 봉투를 열자 소금 한 봉지가 들어 있었죠! 알고 보니 사장님의 만우절 장난이었어요. '로마에선 이게 월급이었어!' 사장님은 진짜 salary increase(급여 인상) 소식과 함께 salad(샐러드) 도시락을 돌렸어요. salaried(월급을 받는) 직원들은 소금을 sauce(소스)에 넣어 맛있게 먹었답니다."
+}
