@@ -1,0 +1,74 @@
+{
+ "word": "department",
+ "pos": "명사",
+ "phonetic": "[dɪˈpɑːrtmənt]",
+ "meaning": "부서, (백화점의) 매장, (정부의) 부처",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져 (away)",
+   "note": "나누어 떼어 내는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "part",
+   "meaning": "부분, 나누다 (part, divide)",
+   "note": "라틴어 pars(부분), partire(나누다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~한 결과물",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (떨어져) + <strong>part</strong> (나누다) + <strong>-ment</strong> = '전체를 나누어 떼어 낸 부분'에서 <strong>'부서, 매장'</strong>이 되었어요.",
+ "historyTitle": "회사를 나눈 조각들",
+ "historyBody": "고대 프랑스어 departir는 '나누다, 분배하다'였어요. 큰 조직을 일에 따라 '나눈 부분'이 department예요. 같은 뿌리의 depart는 '갈라져 떠나다'라서 departure(출발)가 되었어요. 백화점 department store는 '여러 매장으로 나뉜 가게'랍니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "departure",
+   "pos": "명사",
+   "meaning": "출발",
+   "en": "Departure time is 7:30 a.m.",
+   "ko": "출발 시간은 오전 7시 30분이에요."
+  },
+  {
+   "word": "depart",
+   "pos": "동사",
+   "meaning": "출발하다",
+   "en": "The bus departs from Gate 3.",
+   "ko": "버스는 3번 게이트에서 출발해요."
+  },
+  {
+   "word": "partial",
+   "pos": "형용사",
+   "meaning": "부분적인",
+   "en": "We offer a partial refund for late deliveries.",
+   "ko": "배송이 늦으면 일부를 환불해 드려요."
+  },
+  {
+   "word": "participant",
+   "pos": "명사",
+   "meaning": "참가자",
+   "en": "Each participant will receive a certificate.",
+   "ko": "참가자마다 수료증을 받아요."
+  },
+  {
+   "word": "partner",
+   "pos": "명사",
+   "meaning": "동업자, 협력사",
+   "en": "We are looking for a business partner in Vietnam.",
+   "ko": "베트남에서 사업 파트너를 찾고 있어요."
+  }
+ ],
+ "imageSense": "대표 의미: 층마다 부서 이름이 붙은 회사 안내판",
+ "imageCaption": "큰 피자 한 판이 여러 조각으로 나뉜 모습을 떠올려 보세요.",
+ "movieLineEn": "Which department do you work in?",
+ "movieLineKo": "어느 부서에서 일해요?",
+ "storyTitle": "부서를 찾아서",
+ "story": "신입 태민은 첫날 인사부 department(부서)를 찾아 헤맸어요. 3층엔 회계, 5층엔 영업, 7층엔 또 다른 partner(협력사)가 있었죠. 점심때가 되어서야 겨우 도착하자 부장님이 말했어요. '방금 depart(출발하다)한 팀이 바로 인사부야. 워크숍 갔어.' 태민의 첫 출근은 partial(부분적인) 성공이었어요. 대신 회사 지도를 완벽히 외워 다음 날 모든 participant(참가자)의 길잡이가 되었답니다."
+}

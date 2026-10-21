@@ -1,0 +1,74 @@
+{
+ "word": "advertise",
+ "pos": "동사",
+ "phonetic": "[ˈædvərtaɪz]",
+ "meaning": "광고하다, 알리다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ad-",
+   "meaning": "~쪽으로 (to)",
+   "note": "주의를 어떤 쪽으로 향하게 하는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vert",
+   "meaning": "돌리다 (turn)",
+   "note": "라틴어 vertere(돌리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ise",
+   "meaning": "~하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ad-</strong> (~쪽으로) + <strong>vert</strong> (돌리다) + <strong>-ise</strong> = '사람들의 고개를 그쪽으로 돌리게 하다'에서 <strong>'광고하다'</strong>가 되었어요.",
+ "historyTitle": "고개를 돌리게 하는 기술",
+ "historyBody": "고대 프랑스어 advertir는 '주의를 돌리게 하다, 알리다'였어요. 원래는 '조심하라고 알려 주다'에 가까웠는데, 상품 쪽으로 사람들의 주의를 '돌리게' 하는 것이 광고가 되었죠. vertere에서 convert(바꾸다), reverse(거꾸로 돌리다), version(버전, 돌려 바꾼 것)이 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "advertisement",
+   "pos": "명사",
+   "meaning": "광고 (ad)",
+   "en": "I saw your advertisement in the newspaper.",
+   "ko": "신문에서 귀사 광고를 봤어요."
+  },
+  {
+   "word": "advertising",
+   "pos": "명사",
+   "meaning": "광고(업)",
+   "en": "We spend a lot on online advertising.",
+   "ko": "온라인 광고에 돈을 많이 써요."
+  },
+  {
+   "word": "advertiser",
+   "pos": "명사",
+   "meaning": "광고주",
+   "en": "Advertisers want to reach young people.",
+   "ko": "광고주들은 젊은 층에 닿고 싶어 해요."
+  },
+  {
+   "word": "convert",
+   "pos": "동사",
+   "meaning": "전환하다, 바꾸다",
+   "en": "The old warehouse was converted into offices.",
+   "ko": "낡은 창고가 사무실로 바뀌었어요."
+  },
+  {
+   "word": "version",
+   "pos": "명사",
+   "meaning": "버전, 판",
+   "en": "Please download the latest version of the app.",
+   "ko": "앱 최신 버전을 내려받아 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 길 가던 사람들이 모두 고개를 돌려 대형 광고판을 보는 장면",
+ "imageCaption": "광고판 하나에 지나가던 사람들 고개가 휙 돌아가는 모습을 떠올려 보세요.",
+ "movieLineEn": "We need to advertise the event online.",
+ "movieLineKo": "행사를 온라인으로 홍보해야 해.",
+ "storyTitle": "고개가 돌아가는 광고",
+ "story": "작은 우산 가게가 처음으로 advertise(광고하다)하기로 했어요. advertising(광고) 예산이 없던 사장님은 가게 앞에 거꾸로 선 우산을 놓았죠. 지나가던 사람들이 고개를 돌려 쳐다봤어요. '저게 뭐야?' 그 장면이 SNS에 퍼지며 공짜 advertisement(광고)가 되었어요. 대기업 advertiser(광고주)들이 비결을 묻자 사장님이 웃었어요. '광고는 고개를 돌리게 하는 거래요. 우산을 거꾸로 convert(바꾸다)한 게 전부예요.'"
+}

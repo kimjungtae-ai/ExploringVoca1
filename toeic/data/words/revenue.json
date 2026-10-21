@@ -1,0 +1,74 @@
+{
+ "word": "revenue",
+ "pos": "명사",
+ "phonetic": "[ˈrevənuː]",
+ "meaning": "수익, 매출, (국가의) 세입",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "되돌아 (back)",
+   "note": "원래 자리로 돌아오는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ven",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ue",
+   "meaning": "~한 것",
+   "note": "고대 프랑스어 과거분사형 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌아) + <strong>ven</strong> (오다) = '일한 결과로 되돌아오는 것'에서 <strong>'수익, 매출'</strong>이 되었어요.",
+ "historyTitle": "영주에게 해마다 돌아오던 돈",
+ "historyBody": "고대 프랑스어 revenue는 '돌아온 것', 특히 땅에서 해마다 들어오는 수입이었어요. 지금은 기업 실적 기사에서 'revenue rose by 12%'처럼 가장 자주 보는 단어예요. profit(이익)은 비용을 뺀 뒤 남는 돈이고, revenue는 들어온 돈 전체라는 점을 구별하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "venue",
+   "pos": "명사",
+   "meaning": "장소 (오는 곳)",
+   "en": "The hotel is a popular venue for weddings.",
+   "ko": "그 호텔은 결혼식 장소로 인기예요."
+  },
+  {
+   "word": "prevent",
+   "pos": "동사",
+   "meaning": "막다, 예방하다",
+   "en": "Regular maintenance prevents costly repairs.",
+   "ko": "정기 점검은 큰 수리비를 막아 줘요."
+  },
+  {
+   "word": "convenient",
+   "pos": "형용사",
+   "meaning": "편리한",
+   "en": "Is Thursday afternoon convenient for you?",
+   "ko": "목요일 오후 괜찮으세요?"
+  },
+  {
+   "word": "advent",
+   "pos": "명사",
+   "meaning": "출현, 도래",
+   "en": "The advent of online shopping changed retail.",
+   "ko": "온라인 쇼핑의 등장이 소매업을 바꿨어요."
+  },
+  {
+   "word": "intervene",
+   "pos": "동사",
+   "meaning": "개입하다 (사이에 오다)",
+   "en": "The manager intervened to settle the dispute.",
+   "ko": "관리자가 분쟁 해결을 위해 개입했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 위로 솟는 매출 그래프 앞에서 박수 치는 직원들",
+ "imageCaption": "돈이 동전처럼 다시 회사 금고로 '되돌아오는' 모습을 떠올려 보세요.",
+ "movieLineEn": "Our revenue doubled this year.",
+ "movieLineKo": "올해 우리 매출이 두 배가 됐어.",
+ "storyTitle": "떡볶이 회사의 실적 발표",
+ "story": "떡볶이 회사 사장님이 외쳤어요. '올해 revenue(매출)가 두 배입니다!' 박수가 쏟아졌죠. 그때 회계 담당이 끼어들어 intervene(개입하다)했어요. '사장님이 드신 떡볶이도 매출로 넣으셨어요.' 사장님은 같은 일을 prevent(막다)하려고 사장실 떡볶이 금지령을 내렸어요. 대신 직원 식당이라는 convenient(편리한) venue(장소)로 출근 도장을 찍었답니다."
+}

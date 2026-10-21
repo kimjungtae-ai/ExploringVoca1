@@ -1,0 +1,68 @@
+{
+ "word": "estimate",
+ "pos": "명사 / 동사",
+ "phonetic": "명사 [ˈestɪmət] / 동사 [ˈestɪmeɪt]",
+ "meaning": "견적(서), 추정치 / 추정하다, 견적을 내다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "estim",
+   "meaning": "값을 매기다 (value)",
+   "note": "라틴어 aestimare(값을 정하다, 평가하다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 / ~한 것",
+   "note": "동사·명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>estim</strong> (값을 매기다) + <strong>-ate</strong> = '대략 값을 매겨 보다'에서 <strong>'추정하다, 견적'</strong>이 되었어요.",
+ "historyTitle": "존경과 견적은 형제",
+ "historyBody": "라틴어 aestimare는 '값을 정하다, 평가하다'였어요. 사람의 값을 높게 매기면 esteem(존경)이 되고, 물건값을 대략 매기면 estimate(견적)가 되었죠. aim(겨냥하다)도 고대 프랑스어를 거쳐 이 말에서 줄어든 형제예요. 토익에서는 'get an estimate(견적을 받다)', 'rough estimate(대략적인 추정)'이 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "estimated",
+   "pos": "형용사",
+   "meaning": "추정된, 예상되는",
+   "en": "The estimated delivery date is May 5.",
+   "ko": "예상 배송일은 5월 5일이에요."
+  },
+  {
+   "word": "estimation",
+   "pos": "명사",
+   "meaning": "판단, 평가",
+   "en": "In my estimation, the project will take a year.",
+   "ko": "제 판단으로는 프로젝트가 1년 걸려요."
+  },
+  {
+   "word": "esteem",
+   "pos": "명사",
+   "meaning": "존경",
+   "en": "She is held in high esteem by her colleagues.",
+   "ko": "그녀는 동료들에게 높이 존경받아요."
+  },
+  {
+   "word": "underestimate",
+   "pos": "동사",
+   "meaning": "과소평가하다",
+   "en": "Never underestimate the cost of shipping.",
+   "ko": "배송비를 절대 얕보지 마세요."
+  },
+  {
+   "word": "overestimate",
+   "pos": "동사",
+   "meaning": "과대평가하다",
+   "en": "We overestimated the demand for the product.",
+   "ko": "제품 수요를 너무 높게 잡았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 인테리어 업자가 줄자로 벽을 재며 견적서를 쓰는 장면",
+ "imageCaption": "대략적인 값을 계산기로 톡톡 두드려 보는 모습을 떠올려 보세요.",
+ "movieLineEn": "Can you give me an estimate for the repair?",
+ "movieLineKo": "수리 견적 좀 내 줄 수 있어요?",
+ "storyTitle": "너무 정확한 견적",
+ "story": "인테리어 업체 대표는 estimate(견적)를 너무 정확하게 내기로 유명했어요. '페인트 3.27통, 못 142개, 커피 8잔.' 고객들은 그를 높은 esteem(존경)으로 대했죠. 그런데 이번 공사는 estimated(추정된) 기간보다 하루 빨리 끝났어요. 대표가 괴로워하며 말했어요. '제가 우리 팀을 underestimate(과소평가하다)했군요!' 남은 커피 한 잔은 고객이 마셨답니다. 대표는 다음부터 커피 수를 overestimate(과대평가하다)하기로 했대요."
+}

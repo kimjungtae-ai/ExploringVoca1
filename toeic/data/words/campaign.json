@@ -1,0 +1,68 @@
+{
+ "word": "campaign",
+ "pos": "명사 / 동사",
+ "phonetic": "[kæmˈpeɪn]",
+ "meaning": "(광고·선거) 캠페인, 운동 / 캠페인을 벌이다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "camp",
+   "meaning": "들판 (field)",
+   "note": "라틴어 campus(들판), 이탈리아어 campagna(시골, 들판)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-aign",
+   "meaning": "~한 곳, 일",
+   "note": "프랑스어 campagne의 꼬리예요."
+  }
+ ],
+ "summary": "<strong>camp</strong> (들판) + <strong>-aign</strong> = 군대가 '들판에 나가 싸우던 기간'에서 <strong>'캠페인, 운동'</strong>이 되었어요.",
+ "historyTitle": "여름 들판으로 나가던 군대",
+ "historyBody": "17세기 유럽 군대는 겨울엔 성 안에 머물다가 날이 풀리면 '들판(campagne)'으로 나가 작전을 펼쳤어요. 그 작전 기간을 campaign이라 불렀죠. 정해진 기간 동안 목표를 위해 계획적으로 움직이는 모습이 오늘날 광고·선거 캠페인이 되었어요. campus(대학 캠퍼스), camp(야영지)도 같은 '들판' 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "advertising campaign",
+   "pos": "명사구",
+   "meaning": "광고 캠페인",
+   "en": "The new advertising campaign starts in June.",
+   "ko": "새 광고 캠페인은 6월에 시작해요."
+  },
+  {
+   "word": "campus",
+   "pos": "명사",
+   "meaning": "캠퍼스, 구내",
+   "en": "The company has a large campus in California.",
+   "ko": "그 회사는 캘리포니아에 큰 사옥 단지가 있어요."
+  },
+  {
+   "word": "camp",
+   "pos": "명사",
+   "meaning": "캠프, 야영지",
+   "en": "Employees joined a weekend leadership camp.",
+   "ko": "직원들이 주말 리더십 캠프에 참가했어요."
+  },
+  {
+   "word": "champion",
+   "pos": "명사 / 동사",
+   "meaning": "챔피언 / 옹호하다 (들판의 전사)",
+   "en": "She has championed recycling at work.",
+   "ko": "그녀는 회사에서 재활용을 앞장서 옹호해 왔어요."
+  },
+  {
+   "word": "campaigner",
+   "pos": "명사",
+   "meaning": "운동가",
+   "en": "Campaigners called for cleaner air.",
+   "ko": "운동가들이 더 깨끗한 공기를 요구했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 들판에 깃발을 꽂고 계획을 세우는 마케팅 팀",
+ "imageCaption": "정해진 기간 동안 들판으로 나가 작전을 펼치는 모습을 떠올려 보세요.",
+ "movieLineEn": "Our new campaign is a huge success!",
+ "movieLineKo": "우리 새 캠페인 대성공이야!",
+ "storyTitle": "들판으로 나간 마케팅 팀",
+ "story": "마케팅 팀이 새 campaign(캠페인)을 준비하다 아이디어가 막혔어요. 팀장님이 말했어요. '캠페인은 원래 들판 작전이래. 밖으로 나가자!' 팀은 회사 campus(구내) 잔디밭에 텐트를 치고 camp(캠프)를 열었죠. 바람을 맞으며 회의하자 아이디어가 쏟아졌어요. 결국 '야외 회의'라는 advertising campaign(광고 캠페인)이 탄생했고, 팀장님은 '잔디밭 회의'의 champion(옹호자)이 되었답니다."
+}

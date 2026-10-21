@@ -1,0 +1,75 @@
+{
+ "word": "supervise",
+ "pos": "동사",
+ "phonetic": "[ˈsuːpərvaɪz]",
+ "meaning": "감독하다, 관리하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "super-",
+   "meaning": "위에서 (over, above)",
+   "note": "위쪽에서 내려다보는 위치예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vise",
+   "meaning": "보다 (see)",
+   "note": "라틴어 videre(보다), 과거분사 visus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>super-</strong> (위에서) + <strong>vise</strong> (보다) = '위에서 내려다보며 살피다'에서 <strong>'감독하다'</strong>가 되었어요.",
+ "historyTitle": "'나는 본다'라는 라틴어",
+ "historyBody": "video는 라틴어로 '나는 본다'라는 뜻 그대로예요. 회사에서 위에서 '보는' 사람 supervisor, 앞을 미리 '보는' 계획 vision, 다시 '보는' 일 revise처럼 직장 단어 곳곳에 videre가 숨어 있어요. supervisor(관리자, 상사)는 구인 광고와 사내 이메일의 단골 직함이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "supervisor",
+   "pos": "명사",
+   "meaning": "관리자, 감독관",
+   "en": "Report any problems to your supervisor.",
+   "ko": "문제가 있으면 관리자에게 보고하세요."
+  },
+  {
+   "word": "supervision",
+   "pos": "명사",
+   "meaning": "감독, 관리",
+   "en": "New employees work under close supervision.",
+   "ko": "신입 직원은 가까운 감독 아래 일해요."
+  },
+  {
+   "word": "revise",
+   "pos": "동사",
+   "meaning": "수정하다 (다시 보다)",
+   "en": "Please revise the budget and send it back.",
+   "ko": "예산안을 고쳐서 다시 보내 주세요."
+  },
+  {
+   "word": "advise",
+   "pos": "동사",
+   "meaning": "조언하다, 알리다",
+   "en": "Passengers are advised to arrive two hours early.",
+   "ko": "승객은 두 시간 일찍 오시기 바랍니다."
+  },
+  {
+   "word": "provision",
+   "pos": "명사",
+   "meaning": "공급; (계약) 조항",
+   "en": "The contract includes a provision for late delivery.",
+   "ko": "계약서에 배송 지연 조항이 있어요."
+  },
+  {
+   "word": "evident",
+   "pos": "형용사",
+   "meaning": "분명한 (밖으로 보이는)",
+   "en": "It was evident that the project needed more staff.",
+   "ko": "그 프로젝트에 인력이 더 필요한 게 분명했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 곳에서 작업장을 내려다보는 현장 반장",
+ "imageCaption": "2층 난간에서 아래 직원들을 살펴보는 관리자를 떠올려 보세요.",
+ "movieLineEn": "Who's going to supervise the new interns?",
+ "movieLineKo": "새 인턴들은 누가 맡아서 관리해?",
+ "storyTitle": "감독관을 감독하는 고양이",
+ "story": "공장 supervisor(관리자) 오 반장님은 매일 직원들을 supervise(감독하다)했어요. 그런데 CCTV에 낮잠 자는 반장님이 찍혔어요! 증거가 너무 evident(분명한) 상황이었죠. 직원들은 회의 끝에 규칙을 revise(수정하다)했어요. '반장님에게도 supervision(감독)이 필요하다!' 그 자리는 공장 고양이에게 돌아갔고, 고양이는 반장님 옆에서 같이 잤답니다."
+}

@@ -1,0 +1,74 @@
+{
+ "word": "renovate",
+ "pos": "동사",
+ "phonetic": "[ˈrenəveɪt]",
+ "meaning": "개조하다, 보수하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 하는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "nov",
+   "meaning": "새로운 (new)",
+   "note": "라틴어 novus(새로운)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하게 하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>nov</strong> (새로운) + <strong>-ate</strong> = '다시 새롭게 만들다'에서 <strong>'개조하다, 보수하다'</strong>가 되었어요.",
+ "historyTitle": "새것을 뜻하는 novus",
+ "historyBody": "novus에서 novel(소설, 원래 '새로운 이야기'), innovation(혁신), novice(초보자, 새로 온 사람)가 나왔어요. 11월 November는 novem(아홉)에서 와서 다른 뿌리이니 헷갈리지 마세요. 토익에서는 'The lobby is closed for renovation' 같은 공사 공지가 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "renovation",
+   "pos": "명사",
+   "meaning": "개조, 보수 공사",
+   "en": "The gym will be closed during the renovation.",
+   "ko": "공사 기간에는 체육관이 닫아요."
+  },
+  {
+   "word": "innovation",
+   "pos": "명사",
+   "meaning": "혁신",
+   "en": "The company is known for its innovation in design.",
+   "ko": "그 회사는 디자인 혁신으로 유명해요."
+  },
+  {
+   "word": "innovative",
+   "pos": "형용사",
+   "meaning": "혁신적인",
+   "en": "We need innovative ideas to attract young customers.",
+   "ko": "젊은 고객을 끌 혁신적인 아이디어가 필요해요."
+  },
+  {
+   "word": "novice",
+   "pos": "명사",
+   "meaning": "초보자",
+   "en": "This software is easy even for novices.",
+   "ko": "이 프로그램은 초보자도 쓰기 쉬워요."
+  },
+  {
+   "word": "novel",
+   "pos": "형용사 / 명사",
+   "meaning": "새로운 / 소설",
+   "en": "The team came up with a novel solution.",
+   "ko": "팀이 새로운 해결책을 내놓았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 페인트 롤러와 사다리로 사무실을 새로 꾸미는 장면",
+ "imageCaption": "낡은 벽이 반짝이는 새 벽으로 바뀌는 순간을 떠올려 보세요.",
+ "movieLineEn": "We're going to renovate the kitchen this summer.",
+ "movieLineKo": "이번 여름에 주방을 고칠 거야.",
+ "storyTitle": "새것보다 새것",
+ "story": "카페 사장님이 가게를 renovate(개조하다)했어요. 벽을 허물고 조명도 의자도 다 바꿨죠. 단골손님이 들어와 한참 둘러보더니 물었어요. '원래 카페는 어디로 이사 갔어요?' renovation(개조 공사)이 너무 innovative(혁신적인) 탓에 아무도 못 알아본 거예요. 인테리어 novice(초보자)였던 사장님은 그 novel(새로운) 반응에 오히려 뿌듯해했답니다."
+}

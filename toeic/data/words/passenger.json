@@ -1,0 +1,68 @@
+{
+ "word": "passenger",
+ "pos": "명사",
+ "phonetic": "[ˈpæsɪndʒər]",
+ "meaning": "승객",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "pass",
+   "meaning": "지나가다 (pass)",
+   "note": "라틴어 passus(걸음)에서 온 영어 바탕 단어예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-enger (-er)",
+   "meaning": "~하는 사람",
+   "note": "고대 프랑스어 passager(지나가는 사람)에 n이 끼어든 형태예요."
+  }
+ ],
+ "summary": "<strong>passage</strong> (통과, 지나감) + <strong>-er</strong> (사람) = '어딘가를 지나가는 사람'에서 <strong>'승객'</strong>이 되었어요.",
+ "historyTitle": "끼어든 n의 비밀",
+ "historyBody": "고대 프랑스어 passager는 '지나가는 사람, 여행자'였어요. 중세 영어에서 발음하기 편하도록 n이 끼어들어 passenger가 되었죠. messenger(전달자)도 message+er에 같은 n이 들어간 단어예요. passus(걸음)에서 pass(지나가다), passport(항구를 지나가는 허가증)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "passage",
+   "pos": "명사",
+   "meaning": "통로, (글의) 한 구절",
+   "en": "Read the passage and answer the questions.",
+   "ko": "지문을 읽고 질문에 답하세요."
+  },
+  {
+   "word": "passport",
+   "pos": "명사",
+   "meaning": "여권",
+   "en": "Please have your passport ready.",
+   "ko": "여권을 준비해 주세요."
+  },
+  {
+   "word": "messenger",
+   "pos": "명사",
+   "meaning": "전달자",
+   "en": "A messenger delivered the documents.",
+   "ko": "배달원이 서류를 전달했어요."
+  },
+  {
+   "word": "pass",
+   "pos": "명사 / 동사",
+   "meaning": "출입증 / 지나가다",
+   "en": "Visitors must wear a pass at all times.",
+   "ko": "방문객은 항상 출입증을 착용해야 해요."
+  },
+  {
+   "word": "passerby",
+   "pos": "명사",
+   "meaning": "행인",
+   "en": "A passerby called the police.",
+   "ko": "지나가던 사람이 경찰에 신고했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 버스 정류장에서 줄을 서서 차에 오르는 승객들",
+ "imageCaption": "배나 버스를 타고 어딘가를 '지나가는' 사람들을 떠올려 보세요.",
+ "movieLineEn": "All passengers must fasten their seat belts.",
+ "movieLineKo": "모든 승객은 안전벨트를 매야 해.",
+ "storyTitle": "기장보다 바쁜 승객",
+ "story": "비행기에 탄 passenger(승객) 한 분이 이륙 전부터 바빴어요. passport(여권)를 꺼내고, 기내 잡지 passage(구절)를 읽고, 옆 사람에게 여행 팁까지 알려 줬죠. 승무원이 웃으며 물었어요. '혹시 여행 가이드세요?' '아뇨, 비행기가 처음이라 신나서요!' 그 말을 들은 기장은 방송으로 특별 환영 인사를 했어요. 그날 그는 기내의 행복 messenger(전달자)였고, 내릴 땐 모든 승객이 박수를 쳐 주며 pass(지나가다)하게 해 주었답니다."
+}

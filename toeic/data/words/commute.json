@@ -1,0 +1,61 @@
+{
+ "word": "commute",
+ "pos": "동사 / 명사",
+ "phonetic": "[kəˈmjuːt]",
+ "meaning": "통근하다 / 통근(길)",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 해 주는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "mute",
+   "meaning": "바꾸다 (change)",
+   "note": "라틴어 mutare(바꾸다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>mute</strong> (바꾸다) = 원래 '바꾸다, 교환하다'였는데, 요금을 정기권으로 '바꿔' 주던 데서 <strong>'통근하다'</strong>가 되었어요.",
+ "historyTitle": "정기권에서 태어난 '통근'",
+ "historyBody": "1840년대 미국 뉴욕 근교 철도 회사들은 매일 오가는 승객에게 요금을 할인된 정기권으로 '바꿔' 주었어요. 그 표를 commutation ticket이라 불렀고, 표를 산 사람이 commuter가 되었죠. 그래서 '바꾸다'라는 단어가 '출퇴근하다'가 되었어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "commuter",
+   "pos": "명사",
+   "meaning": "통근자",
+   "en": "The new train line will help thousands of commuters.",
+   "ko": "새 노선은 수천 명의 통근자에게 도움이 될 거예요."
+  },
+  {
+   "word": "mutual",
+   "pos": "형용사",
+   "meaning": "서로의, 상호의",
+   "en": "The agreement is for our mutual benefit.",
+   "ko": "이 합의는 서로에게 이익이에요."
+  },
+  {
+   "word": "mutate",
+   "pos": "동사",
+   "meaning": "변하다, 변이하다",
+   "en": "The virus can mutate quickly.",
+   "ko": "그 바이러스는 빨리 변이할 수 있어요."
+  },
+  {
+   "word": "commuting",
+   "pos": "명사",
+   "meaning": "통근",
+   "en": "Commuting takes up two hours of my day.",
+   "ko": "통근에 하루 두 시간이 걸려요."
+  }
+ ],
+ "imageSense": "대표 의미: 아침 출근길 지하철에 가득 탄 직장인들",
+ "imageCaption": "매일 같은 표로 집과 회사를 오가는 모습을 떠올려 보세요.",
+ "movieLineEn": "How long is your commute?",
+ "movieLineKo": "출퇴근 시간이 얼마나 걸려?",
+ "storyTitle": "세 시간 통근의 비밀",
+ "story": "서 대리는 매일 세 시간씩 commute(통근하다)했어요. 기차에서 영어를 공부했더니 토익 900점! 회사가 근처 숙소를 마련해 주자 서 대리가 거절했어요. '저는 commuter(통근자)일 때 가장 똑똑해요.' commuting(통근) 시간이 공부 시간이었던 거죠. 팀장님은 mutual(서로의) 이익을 위해 '기차 독서 수당'을 만들었고, 회사 문화가 mutate(변하다)하기 시작했답니다."
+}

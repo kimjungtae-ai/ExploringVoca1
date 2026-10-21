@@ -1,0 +1,62 @@
+{
+ "word": "merge",
+ "pos": "동사",
+ "phonetic": "[mɜːrdʒ]",
+ "meaning": "합병하다, 합치다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "merge",
+   "meaning": "담그다, 잠기다 (dip, plunge)",
+   "note": "라틴어 mergere(물에 담그다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>merge</strong>는 라틴어 <strong>mergere</strong>(물에 담그다)에서 와서, 하나가 다른 것 속에 잠겨 섞이는 <strong>'합병하다, 합치다'</strong>가 되었어요.",
+ "historyTitle": "물속에 잠겨 하나가 되다",
+ "historyBody": "라틴어 mergere는 '물에 담그다, 가라앉히다'였어요. 두 물줄기가 만나 하나로 섞이듯, 한 회사가 다른 회사 속으로 '잠겨' 하나가 되는 것이 합병이에요. 물 밖으로 솟아오르면 emerge(나타나다), 물 아래로 잠기면 submerge(잠기다)죠. emergency(비상사태)도 '갑자기 솟아오른 일'이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "merger",
+   "pos": "명사",
+   "meaning": "(기업) 합병",
+   "en": "The merger will create the largest bank in the region.",
+   "ko": "합병으로 지역 최대 은행이 탄생해요."
+  },
+  {
+   "word": "emerge",
+   "pos": "동사",
+   "meaning": "나타나다, 부상하다",
+   "en": "New markets are emerging in Southeast Asia.",
+   "ko": "동남아시아에 새 시장이 떠오르고 있어요."
+  },
+  {
+   "word": "emergency",
+   "pos": "명사",
+   "meaning": "비상(사태)",
+   "en": "In an emergency, use the stairs.",
+   "ko": "비상시에는 계단을 이용하세요."
+  },
+  {
+   "word": "submerge",
+   "pos": "동사",
+   "meaning": "물속에 잠기다",
+   "en": "The road was submerged after the heavy rain.",
+   "ko": "폭우 뒤 도로가 물에 잠겼어요."
+  },
+  {
+   "word": "emerging",
+   "pos": "형용사",
+   "meaning": "신흥의",
+   "en": "The firm invests in emerging technologies.",
+   "ko": "그 회사는 신흥 기술에 투자해요."
+  }
+ ],
+ "imageSense": "대표 의미: 두 강물이 만나 하나의 큰 강이 되는 장면",
+ "imageCaption": "두 회사 로고가 물감처럼 섞여 하나가 되는 모습을 떠올려 보세요.",
+ "movieLineEn": "The two companies decided to merge.",
+ "movieLineKo": "두 회사가 합병하기로 했어.",
+ "storyTitle": "합병 후 첫 회식",
+ "story": "라이벌이던 두 커피 회사가 merge(합병하다)했어요. merger(합병) 후 첫 회식에서 직원들은 어색하게 마주 앉았죠. 그때 emergency(비상사태)가 벌어졌어요. 정전이었어요! 어둠 속에서 누군가 노래를 시작했고, 모두 따라 불렀어요. 불이 다시 켜지자 두 회사 직원들이 어깨동무를 하고 있었어요. 그날 새로운 팀워크가 emerge(나타나다)했고, 어색함은 노래 속에 submerge(잠기다)되었답니다."
+}

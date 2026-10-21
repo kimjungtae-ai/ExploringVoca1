@@ -1,0 +1,68 @@
+{
+ "word": "warehouse",
+ "pos": "명사",
+ "phonetic": "[ˈwerhaʊs]",
+ "meaning": "창고, 물류 센터",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ware",
+   "meaning": "물건, 상품 (goods)",
+   "note": "고대 영어 waru(상품, 지켜야 할 것)에서 온 바탕 단어예요."
+  },
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "house",
+   "meaning": "집, 건물",
+   "note": "영어 바탕 단어예요."
+  }
+ ],
+ "summary": "<strong>ware</strong> (상품) + <strong>house</strong> (집) = '상품을 두는 집'에서 <strong>'창고'</strong>가 되었어요.",
+ "historyTitle": "상품이 사는 집",
+ "historyBody": "ware는 고대 영어 waru(상품)에서 왔어요. 지금은 혼자 잘 쓰지 않지만, 다른 단어와 붙어서 많이 쓰여요. software(소프트웨어, 부드러운 상품), hardware(철물, 단단한 상품), kitchenware(주방용품)가 모두 '상품' ware예요. warehouse는 14세기부터 쓰인 오래된 합성어예요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "software",
+   "pos": "명사",
+   "meaning": "소프트웨어",
+   "en": "The software will be updated tonight.",
+   "ko": "오늘 밤 소프트웨어가 업데이트돼요."
+  },
+  {
+   "word": "hardware",
+   "pos": "명사",
+   "meaning": "하드웨어; 철물",
+   "en": "The hardware store sells tools and paint.",
+   "ko": "철물점에서 공구와 페인트를 팔아요."
+  },
+  {
+   "word": "kitchenware",
+   "pos": "명사",
+   "meaning": "주방용품",
+   "en": "The shop specializes in kitchenware.",
+   "ko": "그 가게는 주방용품 전문이에요."
+  },
+  {
+   "word": "storage",
+   "pos": "명사",
+   "meaning": "보관, 저장",
+   "en": "The warehouse has plenty of storage space.",
+   "ko": "창고에 보관 공간이 넉넉해요."
+  },
+  {
+   "word": "stock",
+   "pos": "명사 / 동사",
+   "meaning": "재고 / 갖추다",
+   "en": "The item is out of stock.",
+   "ko": "그 상품은 품절이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 높은 선반에 상자가 빽빽하게 쌓인 물류 창고와 지게차",
+ "imageCaption": "상품들이 집처럼 모여 사는 큰 건물을 떠올려 보세요.",
+ "movieLineEn": "The boxes are stored in the warehouse.",
+ "movieLineKo": "상자들은 창고에 보관돼 있어.",
+ "storyTitle": "창고 속 미아",
+ "story": "신입 직원 동주는 거대한 warehouse(창고)에서 재고를 세다 길을 잃었어요. 선반 사이를 한 시간째 헤맸죠. 휴대폰 software(소프트웨어) 지도도 소용없었어요! 결국 그는 kitchenware(주방용품) 상자로 '구조 요청' 글자를 만들었어요. CCTV로 그걸 본 팀장님이 달려왔죠. '동주 씨, 거기 storage(보관) 구역 C-17이야!' 그 뒤 창고엔 동주 이름을 딴 표지판이 생겼고, 그 구역 stock(재고)은 늘 정확하답니다."
+}

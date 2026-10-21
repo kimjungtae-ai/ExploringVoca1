@@ -1,0 +1,68 @@
+{
+ "word": "recruit",
+ "pos": "동사 / 명사",
+ "phonetic": "[rɪˈkruːt]",
+ "meaning": "모집하다, 채용하다 / 신입 사원, 신병",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "줄어든 것을 다시 채우는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cruit",
+   "meaning": "자라다 (grow)",
+   "note": "라틴어 crescere(자라다)가 프랑스어 recroître(다시 자라다)를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>cruit</strong> (자라다) = '조직을 다시 자라게 하는 새 사람'에서 <strong>'모집하다, 채용하다'</strong>가 되었어요.",
+ "historyTitle": "프랑스 군대의 '다시 자라난 병사'",
+ "historyBody": "17세기 프랑스 군대는 전쟁으로 줄어든 병력을 새 병사로 '다시 자라게' 했고, 그 신병을 recrue라고 불렀어요. 이 군대 말이 오늘날 기업의 채용(recruitment)이 되었어요. 초승달 crescent, 증가 increase도 같은 '자라다' 집안이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "recruitment",
+   "pos": "명사",
+   "meaning": "채용, 모집",
+   "en": "The recruitment process takes about six weeks.",
+   "ko": "채용 절차는 6주쯤 걸려요."
+  },
+  {
+   "word": "recruiter",
+   "pos": "명사",
+   "meaning": "채용 담당자",
+   "en": "A recruiter called me about a marketing job.",
+   "ko": "채용 담당자가 마케팅 일자리로 연락했어요."
+  },
+  {
+   "word": "increase",
+   "pos": "동사 / 명사",
+   "meaning": "증가(하다)",
+   "en": "Profits increased by 8 percent last quarter.",
+   "ko": "지난 분기 이익이 8퍼센트 늘었어요."
+  },
+  {
+   "word": "decrease",
+   "pos": "동사 / 명사",
+   "meaning": "감소(하다)",
+   "en": "Costs decreased after we changed suppliers.",
+   "ko": "공급업체를 바꾼 뒤 비용이 줄었어요."
+  },
+  {
+   "word": "crew",
+   "pos": "명사",
+   "meaning": "승무원, 작업반",
+   "en": "The flight crew will assist you during boarding.",
+   "ko": "승무원이 탑승을 도와드릴 거예요."
+  }
+ ],
+ "imageSense": "대표 의미: 채용 박람회 부스에서 지원자와 악수하는 담당자",
+ "imageCaption": "작은 새싹 팀에 새 잎이 돋아나는 모습을 떠올려 보세요.",
+ "movieLineEn": "We're trying to recruit more engineers.",
+ "movieLineKo": "엔지니어를 더 뽑으려고 하고 있어.",
+ "storyTitle": "함께 자랄 사람",
+ "story": "스타트업 대표가 직원을 recruit(채용하다)하려고 공고를 냈어요. '우리와 함께 자랄 사람!' 첫 지원자는 키 2미터 농구 선수였죠. '자라는 건 자신 있습니다.' recruiter(채용 담당자)는 웃다가 합격시켰어요. 그 뒤 회사 매출이 increase(증가하다)했어요. 높은 선반 정리가 빨라져 야근이 decrease(감소하다)했거든요. 그는 곧 물류 crew(작업반)의 반장이 되었답니다."
+}

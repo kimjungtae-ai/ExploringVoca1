@@ -1,0 +1,75 @@
+{
+ "word": "inspect",
+ "pos": "동사",
+ "phonetic": "[ɪnˈspekt]",
+ "meaning": "점검하다, 검사하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안을 (into)",
+   "note": "안쪽으로 들어가는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "spect",
+   "meaning": "보다 (look)",
+   "note": "라틴어 specere(보다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안을) + <strong>spect</strong> (보다) = '안쪽까지 들여다보다'에서 <strong>'점검하다, 검사하다'</strong>가 되었어요.",
+ "historyTitle": "새를 '보고' 점치던 로마 사람들",
+ "historyBody": "고대 로마에는 새가 나는 모습을 보고 앞일을 점치는 사람이 있을 만큼 '보다'가 중요한 말이었어요. 지금도 위생·건축 점검을 하는 사람을 inspector라고 부르고, 회사 공지에는 'The building will be inspected on Monday' 같은 문장이 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "inspection",
+   "pos": "명사",
+   "meaning": "점검, 검사",
+   "en": "The annual safety inspection is scheduled for May 3.",
+   "ko": "연례 안전 점검은 5월 3일로 잡혀 있어요."
+  },
+  {
+   "word": "inspector",
+   "pos": "명사",
+   "meaning": "검사관",
+   "en": "A health inspector visited the restaurant this morning.",
+   "ko": "오늘 아침 위생 검사관이 식당에 왔어요."
+  },
+  {
+   "word": "expect",
+   "pos": "동사",
+   "meaning": "예상하다 (밖을 내다보다)",
+   "en": "We expect sales to rise in the third quarter.",
+   "ko": "3분기에 매출이 오를 것으로 예상해요."
+  },
+  {
+   "word": "prospective",
+   "pos": "형용사",
+   "meaning": "장래의, 잠재적인",
+   "en": "We will meet prospective clients next week.",
+   "ko": "다음 주에 잠재 고객들을 만나요."
+  },
+  {
+   "word": "perspective",
+   "pos": "명사",
+   "meaning": "관점",
+   "en": "The consultant offered a fresh perspective on the project.",
+   "ko": "컨설턴트가 프로젝트에 새로운 관점을 제시했어요."
+  },
+  {
+   "word": "respect",
+   "pos": "명사 / 동사",
+   "meaning": "존중(하다) (다시 돌아보다)",
+   "en": "Employees respect the manager's fair decisions.",
+   "ko": "직원들은 관리자의 공정한 결정을 존중해요."
+  }
+ ],
+ "imageSense": "대표 의미: 안전모를 쓴 검사관이 손전등으로 기계 속을 비춰 보는 장면",
+ "imageCaption": "공장 기계 안쪽까지 꼼꼼히 들여다보는 검사관을 떠올려 보세요.",
+ "movieLineEn": "We need to inspect every room before the guests arrive.",
+ "movieLineKo": "손님이 오기 전에 방을 전부 점검해야 해.",
+ "storyTitle": "너무 꼼꼼한 검사관",
+ "story": "새로 온 inspector(검사관)가 공장을 inspect(점검하다)하며 나사마다 돋보기를 댔어요. 모두 긴장한 채 결과를 expect(예상하다)했죠. 세 시간 뒤 그가 외쳤어요. '중대한 문제 발견!' 직원들은 respect(존중)를 담아 숨을 죽였어요. '제 안경이 사라졌어요.' 다른 perspective(관점)에서 보니 안경은 그의 머리 위에 있었답니다."
+}

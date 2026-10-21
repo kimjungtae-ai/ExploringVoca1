@@ -1,0 +1,68 @@
+{
+ "word": "receipt",
+ "pos": "명사",
+ "phonetic": "[rɪˈsiːt]",
+ "meaning": "영수증, 수령",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시, 되돌려 (back)",
+   "note": "받아서 내 쪽으로 가져오는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ceipt",
+   "meaning": "잡다, 받다 (take)",
+   "note": "라틴어 capere(잡다)에서 온 recipere(받다), 과거분사 receptus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌려) + <strong>ceipt</strong> (받다) = '돈이나 물건을 받았다는 증거'에서 <strong>'영수증, 수령'</strong>이 되었어요.",
+ "historyTitle": "소리 나지 않는 p의 비밀",
+ "historyBody": "중세 영어에서는 receite라고 썼어요. 그런데 학자들이 '라틴어 receptus에서 왔다'는 걸 보여 주려고 일부러 p를 다시 넣었죠. 그래서 소리는 안 나는데 철자에만 p가 남았어요. 발음은 [리씨트]예요. 'upon receipt of(~을 받는 즉시)'는 토익 이메일 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "receive",
+   "pos": "동사",
+   "meaning": "받다",
+   "en": "Did you receive my e-mail this morning?",
+   "ko": "오늘 아침 제 이메일 받으셨어요?"
+  },
+  {
+   "word": "reception",
+   "pos": "명사",
+   "meaning": "접수처; 환영회",
+   "en": "Please check in at the reception desk.",
+   "ko": "접수처에서 체크인해 주세요."
+  },
+  {
+   "word": "receptionist",
+   "pos": "명사",
+   "meaning": "접수 담당자",
+   "en": "The receptionist will give you a visitor badge.",
+   "ko": "접수 담당자가 방문증을 드릴 거예요."
+  },
+  {
+   "word": "recipient",
+   "pos": "명사",
+   "meaning": "수령인",
+   "en": "Write the recipient's name on the envelope.",
+   "ko": "봉투에 받는 사람 이름을 쓰세요."
+  },
+  {
+   "word": "capacity",
+   "pos": "명사",
+   "meaning": "수용 인원, 능력",
+   "en": "The theater has a capacity of 500 people.",
+   "ko": "그 극장은 500명이 들어가요."
+  }
+ ],
+ "imageSense": "대표 의미: 계산대에서 길게 출력되는 영수증",
+ "imageCaption": "손바닥 위에 '받았음'을 증명하는 종이 한 장이 놓인 모습을 떠올려 보세요.",
+ "movieLineEn": "Do you still have the receipt?",
+ "movieLineKo": "영수증 아직 갖고 있어?",
+ "storyTitle": "영수증 지갑",
+ "story": "꼼꼼한 성민 씨는 모든 receipt(영수증)를 지갑에 모았어요. 1년이 지나자 지갑이 벽돌처럼 두꺼워졌죠. 지갑의 capacity(수용 능력)가 한계였던 거예요. 어느 날 회사 reception(접수처)에서 지갑을 떨어뜨리자 영수증이 눈처럼 쏟아졌어요. receptionist(접수 담당자)가 웃으며 말했어요. '이렇게 많이 receive(받다)하신 분은 처음 봐요!'"
+}

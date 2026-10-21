@@ -1,0 +1,68 @@
+{
+ "word": "refund",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈriːfʌnd]",
+ "meaning": "환불(금) / 환불하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "되돌려 (back)",
+   "note": "받은 것을 돌려주는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fund",
+   "meaning": "붓다, 쏟다 (pour)",
+   "note": "라틴어 fundere(붓다)에서 왔어요. 명사 fund(기금)는 fundus(바닥)에서 와서 뿌리가 달라요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되돌려) + <strong>fund</strong> (붓다) = '낸 돈을 다시 부어 돌려주다'에서 <strong>'환불'</strong>이 되었어요.",
+ "historyTitle": "쇳물을 붓던 말",
+ "historyBody": "fundere는 금속을 녹여 틀에 '붓는' 일에 쓰였어요. 그래서 주물 공장을 foundry라고 하죠. 상점의 refund policy(환불 정책)는 토익 Part 7에 정말 자주 나와요. 'full refund(전액 환불)', 'non-refundable(환불 불가)'도 함께 기억하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "refundable",
+   "pos": "형용사",
+   "meaning": "환불 가능한",
+   "en": "This ticket is not refundable.",
+   "ko": "이 표는 환불이 안 돼요."
+  },
+  {
+   "word": "confuse",
+   "pos": "동사",
+   "meaning": "혼란스럽게 하다 (함께 쏟아 섞다)",
+   "en": "The new parking signs confused many drivers.",
+   "ko": "새 주차 표지판이 많은 운전자를 헷갈리게 했어요."
+  },
+  {
+   "word": "confusion",
+   "pos": "명사",
+   "meaning": "혼란",
+   "en": "There was some confusion about the meeting time.",
+   "ko": "회의 시간을 두고 혼선이 있었어요."
+  },
+  {
+   "word": "infuse",
+   "pos": "동사",
+   "meaning": "불어넣다, 주입하다",
+   "en": "The new manager infused the team with energy.",
+   "ko": "새 관리자가 팀에 활력을 불어넣었어요."
+  },
+  {
+   "word": "transfusion",
+   "pos": "명사",
+   "meaning": "수혈 (건너 붓기)",
+   "en": "The hospital needs donors for blood transfusions.",
+   "ko": "병원은 수혈용 헌혈자가 필요해요."
+  }
+ ],
+ "imageSense": "대표 의미: 계산대에서 지폐를 손님 손에 다시 부어 주는 장면",
+ "imageCaption": "돈이 왔던 길로 도로 쏟아져 돌아가는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'd like a refund, please.",
+ "movieLineKo": "환불해 주세요.",
+ "storyTitle": "환불을 요구한 우산",
+ "story": "손님이 우산을 들고 와 refund(환불)를 요구했어요. '이 우산, 비 올 때만 쓸모 있던데요!' 직원은 confuse(혼란스럽게 하다)된 표정이었죠. '그게 정상인데요?' '맑은 날 그늘로 쓰고 싶었어요.' 잠깐의 confusion(혼란) 끝에 직원은 양산 코너를 안내했어요. 우산은 refundable(환불 가능한) 상품이었지만, 손님은 웃으며 양산까지 샀답니다. 가게에 활기가 infuse(불어넣다)된 하루였어요."
+}

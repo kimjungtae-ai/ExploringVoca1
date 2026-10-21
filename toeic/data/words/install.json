@@ -1,0 +1,61 @@
+{
+ "word": "install",
+ "pos": "동사",
+ "phonetic": "[ɪnˈstɔːl]",
+ "meaning": "설치하다, 취임시키다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "안에 (in)",
+   "note": "안쪽 자리로 들이는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "stall",
+   "meaning": "자리, 좌석 (place, seat)",
+   "note": "중세 라틴어 stallum(자리)에서 왔어요. 시장의 노점 stall과 같은 말이에요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (안에) + <strong>stall</strong> (자리) = '정해진 자리에 앉히다'에서 <strong>'설치하다'</strong>가 되었어요.",
+ "historyTitle": "성직자를 자리에 앉히던 의식",
+ "historyBody": "중세 라틴어 installare는 새 성직자를 교회의 지정석(stall)에 '앉혀' 취임시키는 의식이었어요. 사람을 자리에 앉히던 말이 기계와 프로그램을 제자리에 '설치하다'로 넓어졌죠. 할부(installment)도 같은 말에서 나왔는데, 돈을 여러 '자리'에 나누어 놓는다는 느낌이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "installation",
+   "pos": "명사",
+   "meaning": "설치",
+   "en": "Installation of the new printers takes one day.",
+   "ko": "새 프린터 설치는 하루 걸려요."
+  },
+  {
+   "word": "installment",
+   "pos": "명사",
+   "meaning": "할부금; (연재물의) 1회분",
+   "en": "You can pay in six monthly installments.",
+   "ko": "6개월 할부로 내실 수 있어요."
+  },
+  {
+   "word": "stall",
+   "pos": "명사",
+   "meaning": "노점, 가판대",
+   "en": "She runs a coffee stall at the station.",
+   "ko": "그녀는 역에서 커피 가판대를 해요."
+  },
+  {
+   "word": "reinstall",
+   "pos": "동사",
+   "meaning": "재설치하다",
+   "en": "Please reinstall the software and try again.",
+   "ko": "프로그램을 다시 설치하고 해 보세요."
+  }
+ ],
+ "imageSense": "대표 의미: 기술자가 천장에 에어컨을 다는 장면",
+ "imageCaption": "새 기계를 정해진 자리에 쏙 끼워 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "They're coming to install the internet tomorrow.",
+ "movieLineKo": "내일 인터넷 설치하러 온대.",
+ "storyTitle": "설치 기사의 하루",
+ "story": "설치 기사 강 씨는 사무실에 새 프린터를 install(설치하다)했어요. 그런데 아무것도 출력되지 않았죠. 프로그램을 reinstall(재설치하다)해도 그대로였어요. 세 시간의 installation(설치) 끝에 알아낸 원인은 플러그가 빠져 있던 것! 직원들은 박수를 쳤고, 강 씨는 퇴근길 역 앞 stall(가판대)에서 커피를 샀어요. 6개월 installment(할부)로 산 새 차가 그날따라 더 반짝였답니다."
+}

@@ -1,0 +1,67 @@
+{
+ "word": "negotiate",
+ "pos": "동사",
+ "phonetic": "[nɪˈɡoʊʃieɪt]",
+ "meaning": "협상하다, 교섭하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "neg-",
+   "meaning": "~이 아닌 (not)",
+   "note": "부정의 뜻을 붙여요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "oti",
+   "meaning": "여가, 쉼 (leisure)",
+   "note": "라틴어 otium(여가)에서 왔어요. negotium은 '쉬지 않는 것', 곧 '일, 사업'이에요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>neg-</strong> (아닌) + <strong>oti</strong> (여가) + <strong>-ate</strong> = '쉬지 않고 일하다, 사업하다'에서 <strong>'협상하다'</strong>가 되었어요.",
+ "historyTitle": "여가의 반대말이 '일'이었던 로마",
+ "historyBody": "로마 귀족들은 otium(여가)을 공부와 사색의 소중한 시간으로 여겼어요. 그 반대인 negotium은 '쉬지 못하는 상태', 곧 장사와 일이었죠. business가 'busy+ness'인 것과 꼭 닮았어요. 사업을 하며 조건을 주고받다 보니 negotiate가 '협상하다'가 되었답니다.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "negotiation",
+   "pos": "명사",
+   "meaning": "협상",
+   "en": "Negotiations with the supplier are still going on.",
+   "ko": "공급업체와의 협상이 아직 진행 중이에요."
+  },
+  {
+   "word": "negotiable",
+   "pos": "형용사",
+   "meaning": "협상 가능한",
+   "en": "The salary for this position is negotiable.",
+   "ko": "이 자리의 급여는 협상 가능해요."
+  },
+  {
+   "word": "negotiator",
+   "pos": "명사",
+   "meaning": "협상가",
+   "en": "She is our most experienced negotiator.",
+   "ko": "그녀는 우리 회사 최고의 협상가예요."
+  },
+  {
+   "word": "renegotiate",
+   "pos": "동사",
+   "meaning": "재협상하다",
+   "en": "Both sides agreed to renegotiate the terms.",
+   "ko": "양측은 조건을 재협상하기로 했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 긴 테이블 양쪽에서 서류를 사이에 두고 마주 앉은 사람들",
+ "imageCaption": "쉬지 못하고 계속 조건을 주고받는 협상 테이블을 떠올려 보세요.",
+ "movieLineEn": "We need to negotiate a better price.",
+ "movieLineKo": "더 좋은 가격으로 협상해야 해.",
+ "storyTitle": "쉬고 싶은 협상가",
+ "story": "협상가 하 부장님은 열 시간째 가격을 negotiate(협상하다)하고 있었어요. 상대 negotiator(협상가)가 마지막 제안을 했죠. '가격은 그대로, 대신 지금 퇴근합시다.' 하 부장님이 바로 악수했어요. 사실 '퇴근 시간은 negotiable(협상 가능한)'이라는 말을 들으려고 버틴 거였거든요. 어원대로 쉬지 못하던 negotiation(협상)이 끝났고, 다음 날 둘은 renegotiate(재협상하다) 대신 함께 낚시를 갔답니다."
+}

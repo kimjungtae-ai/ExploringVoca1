@@ -1,0 +1,55 @@
+{
+ "word": "quote",
+ "pos": "동사 / 명사",
+ "phonetic": "[kwoʊt]",
+ "meaning": "견적을 내다, 인용하다 / 견적(가), 인용문",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "quot",
+   "meaning": "몇 개, 얼마나 (how many)",
+   "note": "라틴어 quot(얼마나 많은)에서 온 중세 라틴어 quotare(번호를 매기다)예요."
+  }
+ ],
+ "summary": "<strong>quot</strong> (얼마나 많은) = 책 장에 '번호를 매기다'에서 '인용하다', 그리고 값을 숫자로 말해 주는 <strong>'견적을 내다'</strong>가 되었어요.",
+ "historyTitle": "책에 번호를 매기던 말",
+ "historyBody": "중세 라틴어 quotare는 책의 장과 절에 번호를 매기는 일이었어요. 번호로 위치를 짚어 남의 글을 가져오니 '인용하다'가 되었고, 값을 숫자로 짚어 말해 주니 '견적을 내다'가 되었죠. quota(할당량, 몇 개씩), quantity(양)도 같은 '얼마나' 가족이에요. 토익에서는 'price quote(가격 견적)'가 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "quotation",
+   "pos": "명사",
+   "meaning": "견적(서); 인용",
+   "en": "Please send us a quotation for 500 units.",
+   "ko": "500개에 대한 견적서를 보내 주세요."
+  },
+  {
+   "word": "quota",
+   "pos": "명사",
+   "meaning": "할당량",
+   "en": "Each salesperson has a monthly sales quota.",
+   "ko": "영업 사원마다 월 판매 할당량이 있어요."
+  },
+  {
+   "word": "quantity",
+   "pos": "명사",
+   "meaning": "양, 수량",
+   "en": "We offer discounts for large quantities.",
+   "ko": "대량 구매 시 할인해 드려요."
+  },
+  {
+   "word": "price quote",
+   "pos": "명사구",
+   "meaning": "가격 견적",
+   "en": "We received three price quotes from suppliers.",
+   "ko": "공급업체 세 곳에서 견적을 받았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 숫자가 적힌 견적서와 인용 부호가 그려진 메모",
+ "imageCaption": "책 귀퉁이에 번호를 매겨 가며 값을 짚어 주는 모습을 떠올려 보세요.",
+ "movieLineEn": "They quoted me 200 dollars for the job.",
+ "movieLineKo": "그 일에 200달러 견적을 줬어.",
+ "storyTitle": "명언 견적서",
+ "story": "문구 회사 영업 사원 다인은 quote(견적을 내다)할 때마다 맨 끝에 명언을 하나씩 넣었어요. '시간은 금이다. 그래서 배송비는 무료!' 고객들은 다음 quotation(견적서)의 명언을 기다리게 되었죠. 덕분에 다인은 이번 달 quota(할당량)를 두 배로 채웠어요. 주문 quantity(수량)가 폭발했거든요. 회사는 그녀의 price quote(가격 견적)를 '이달의 문학 작품'으로 뽑았답니다."
+}

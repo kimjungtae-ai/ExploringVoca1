@@ -1,0 +1,54 @@
+{
+ "word": "shipment",
+ "pos": "명사",
+ "phonetic": "[ˈʃɪpmənt]",
+ "meaning": "배송(품), 선적, 발송",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "바탕 단어 (Base)",
+   "part": "ship",
+   "meaning": "배; 보내다 (send)",
+   "note": "영어 바탕 단어예요. 동사로는 배든 트럭이든 '보내다'예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ment",
+   "meaning": "~하는 일, 결과물",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>ship</strong> (보내다) + <strong>-ment</strong> (것) = '보내는 일, 보낸 물건'에서 <strong>'배송(품), 선적'</strong>이 되었어요.",
+ "historyTitle": "배가 아니어도 ship",
+ "historyBody": "ship은 원래 '배'였어요. 배로 물건을 보내는 일이 많다 보니 동사 ship이 '보내다, 발송하다'가 되었죠. 지금은 트럭이나 비행기로 보내도 ship이라고 해요. 토익에서는 shipping fee(배송비), ship out(발송하다), shipment delay(배송 지연)가 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "shipping",
+   "pos": "명사",
+   "meaning": "배송, 해운",
+   "en": "Shipping is free for members.",
+   "ko": "회원은 배송비가 무료예요."
+  },
+  {
+   "word": "ship",
+   "pos": "동사",
+   "meaning": "발송하다",
+   "en": "We will ship your order within 24 hours.",
+   "ko": "24시간 안에 주문품을 보내 드려요."
+  },
+  {
+   "word": "shipping fee",
+   "pos": "명사구",
+   "meaning": "배송비",
+   "en": "The shipping fee depends on the weight.",
+   "ko": "배송비는 무게에 따라 달라요."
+  }
+ ],
+ "imageSense": "대표 의미: 트럭에 상자를 싣고 배송 라벨을 붙이는 직원",
+ "imageCaption": "배든 트럭이든 물건을 실어 보내는 모습을 떠올려 보세요.",
+ "movieLineEn": "When will the shipment arrive?",
+ "movieLineKo": "배송품은 언제 도착해?",
+ "storyTitle": "가장 빠른 배송",
+ "story": "온라인 쇼핑몰이 '번개 shipment(배송)'를 광고했어요. 주문하면 1시간 안에 ship(발송하다)한다는 거였죠! 첫 고객이 주문하자 배송 기사 다섯 명이 동시에 출발했어요. 그런데 주소가 바로 옆 건물이었어요. 기사들은 3분 만에 도착했고, 고객은 너무 빨라 놀랐대요. 그날 shipping fee(배송비)보다 기사들 커피값이 더 들었어요. 그래도 고객과의 relationship(관계)은 최고가 되었고, 쇼핑몰 shipping(배송) 후기는 별 다섯 개로 가득했답니다."
+}

@@ -1,0 +1,67 @@
+{
+ "word": "delegate",
+ "pos": "명사 / 동사",
+ "phonetic": "명사 [ˈdeləɡət] / 동사 [ˈdeləɡeɪt]",
+ "meaning": "대표, 파견단 / (권한·업무를) 위임하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "떨어져, 멀리 (away)",
+   "note": "멀리 보내는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "leg",
+   "meaning": "보내다, 맡기다 (send, depute)",
+   "note": "라틴어 legare(사절로 보내다, 맡기다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다 / ~한 사람",
+   "note": "동사·명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (멀리) + <strong>leg</strong> (보내다, 맡기다) + <strong>-ate</strong> = '맡겨서 보내다'에서 <strong>'대표, 위임하다'</strong>가 되었어요.",
+ "historyTitle": "맡겨서 보낸 사람",
+ "historyBody": "라틴어 delegare는 '맡겨서 보내다, 위임하다'였어요. 회의에 맡겨 보낸 사람이 delegate(대표)이고, 그 무리가 delegation(대표단)이에요. legare 가족으로 colleague(함께 맡겨진 사람, 동료), legacy(물려 맡긴 것, 유산)가 있어요. 토익에서는 회의 참가자를 delegate라고 부르는 경우가 많아요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "delegation",
+   "pos": "명사",
+   "meaning": "대표단; 위임",
+   "en": "A trade delegation from Canada arrived today.",
+   "ko": "캐나다 무역 대표단이 오늘 도착했어요."
+  },
+  {
+   "word": "colleague",
+   "pos": "명사",
+   "meaning": "동료",
+   "en": "I'd like you to meet my colleague.",
+   "ko": "제 동료를 소개할게요."
+  },
+  {
+   "word": "legacy",
+   "pos": "명사",
+   "meaning": "유산",
+   "en": "The building is part of the city's legacy.",
+   "ko": "그 건물은 도시 유산의 일부예요."
+  },
+  {
+   "word": "legate",
+   "pos": "명사",
+   "meaning": "(교황의) 특사",
+   "en": "The legate carried a message to the king.",
+   "ko": "특사가 왕에게 메시지를 전했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 국제회의장에서 나라 이름표 뒤에 앉은 대표들",
+ "imageCaption": "상사가 서류 뭉치를 믿고 맡기며 건네는 모습을 떠올려 보세요.",
+ "movieLineEn": "A good manager knows how to delegate.",
+ "movieLineKo": "좋은 관리자는 일을 맡길 줄 알아.",
+ "storyTitle": "일을 맡기지 못하는 팀장",
+ "story": "강 팀장님은 모든 일을 혼자 했어요. 메일, 보고서, 심지어 복사까지! colleague(동료)들이 걱정했어요. '팀장님, 일을 delegate(위임하다)하세요!' 결국 쓰러질 듯 지친 팀장님은 국제회의 delegate(대표) 자리를 막내에게 맡겼어요. 막내는 delegation(대표단)을 이끌고 멋지게 발표했죠. 회의가 끝나자 해외 파트너들이 말했어요. '최고의 팀이네요!' 그날 팀장님은 '믿고 맡기는 법'이라는 legacy(유산)를 얻었답니다."
+}

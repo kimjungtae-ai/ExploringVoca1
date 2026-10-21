@@ -1,0 +1,74 @@
+{
+ "word": "participate",
+ "pos": "동사",
+ "phonetic": "[pɑːrˈtɪsɪpeɪt]",
+ "meaning": "참가하다, 참여하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "parti",
+   "meaning": "부분 (part)",
+   "note": "라틴어 pars(부분)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "cip",
+   "meaning": "잡다, 가지다 (take)",
+   "note": "라틴어 capere(잡다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ate",
+   "meaning": "~하다",
+   "note": "동사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>parti</strong> (부분) + <strong>cip</strong> (잡다) + <strong>-ate</strong> = '한 부분을 맡아 잡다'에서 <strong>'참가하다'</strong>가 되었어요.",
+ "historyTitle": "내 몫을 하나 잡는 일",
+ "historyBody": "라틴어 participare는 '한 몫을 나누어 가지다'였어요. 큰 일의 한 부분(pars)을 손에 잡으면(capere) 그 일에 참여하는 거죠. 'participate in(~에 참가하다)'처럼 in과 함께 쓰는 것이 토익 Part 5 포인트예요. take part in과 같은 뜻이라는 점도 어원과 딱 맞아떨어져요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "participant",
+   "pos": "명사",
+   "meaning": "참가자",
+   "en": "All participants will receive a certificate.",
+   "ko": "모든 참가자가 수료증을 받아요."
+  },
+  {
+   "word": "participation",
+   "pos": "명사",
+   "meaning": "참여",
+   "en": "Thank you for your participation in the survey.",
+   "ko": "설문에 참여해 주셔서 감사해요."
+  },
+  {
+   "word": "take part in",
+   "pos": "동사구",
+   "meaning": "~에 참가하다",
+   "en": "Over 200 companies took part in the fair.",
+   "ko": "200개 넘는 회사가 박람회에 참가했어요."
+  },
+  {
+   "word": "particular",
+   "pos": "형용사",
+   "meaning": "특정한",
+   "en": "Is there a particular date you prefer?",
+   "ko": "특별히 원하는 날짜가 있나요?"
+  },
+  {
+   "word": "capture",
+   "pos": "동사",
+   "meaning": "포착하다, 사로잡다",
+   "en": "The ad captured customers' attention.",
+   "ko": "그 광고는 고객의 관심을 사로잡았어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회사 운동회에서 팀별로 줄다리기에 참여하는 직원들",
+ "imageCaption": "큰 케이크에서 내 조각 하나를 집어 드는 모습을 떠올려 보세요.",
+ "movieLineEn": "Everyone is welcome to participate.",
+ "movieLineKo": "누구나 참여할 수 있어.",
+ "storyTitle": "모두가 참가한 운동회",
+ "story": "회사 운동회에 아무도 participate(참가하다)하지 않겠다고 했어요. 그러자 인사팀이 한 가지를 발표했죠. '1등 팀은 금요일 오후 휴무!' 다음 날 participant(참가자)가 300명이 되었어요. 사장님까지 take part in(참가하다)했죠. particular(특정한) 경기는 줄다리기였는데, 사장님 팀이 이겨 버렸어요! 결국 휴무는 사장님 팀만 받았지만, 모두의 participation(참여) 덕분에 그 사진은 사보 표지를 capture(차지하다)했답니다."
+}

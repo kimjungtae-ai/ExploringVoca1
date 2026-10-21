@@ -1,0 +1,81 @@
+{
+ "word": "manufacture",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˌmænjuˈfæktʃər]",
+ "meaning": "제조하다 / 제조, 생산",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "manu",
+   "meaning": "손 (hand)",
+   "note": "라틴어 manus(손)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fact",
+   "meaning": "만들다 (make)",
+   "note": "라틴어 facere(만들다), 과거분사 factus에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ure",
+   "meaning": "~하는 일",
+   "note": "행위나 결과를 나타내는 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>manu</strong> (손) + <strong>fact</strong> (만들다) + <strong>-ure</strong> (일) = '손으로 만드는 일'에서 <strong>'제조하다'</strong>가 되었어요.",
+ "historyTitle": "기계가 만들어도 이름은 '손으로'",
+ "historyBody": "산업혁명 전에는 정말 장인이 손으로 물건을 만들었어요. 공장이 생겨 기계가 일을 대신했지만 '손으로 만들다'라는 이름은 그대로 남았죠. factory(공장)도 '만드는 곳'이라는 facere 가족이고, manual(설명서, 손으로 하는)은 manus 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "manufacturer",
+   "pos": "명사",
+   "meaning": "제조업체",
+   "en": "The manufacturer offers a two-year warranty.",
+   "ko": "제조사가 2년 보증을 제공해요."
+  },
+  {
+   "word": "manual",
+   "pos": "명사 / 형용사",
+   "meaning": "설명서 / 수동의",
+   "en": "See the user manual for setup instructions.",
+   "ko": "설치 방법은 사용 설명서를 보세요."
+  },
+  {
+   "word": "factory",
+   "pos": "명사",
+   "meaning": "공장",
+   "en": "The factory will hire 200 new workers.",
+   "ko": "그 공장은 200명을 새로 뽑아요."
+  },
+  {
+   "word": "facility",
+   "pos": "명사",
+   "meaning": "시설",
+   "en": "The new facility will open in March.",
+   "ko": "새 시설은 3월에 문을 열어요."
+  },
+  {
+   "word": "satisfactory",
+   "pos": "형용사",
+   "meaning": "만족스러운",
+   "en": "The test results were satisfactory.",
+   "ko": "시험 결과는 만족스러웠어요."
+  },
+  {
+   "word": "manuscript",
+   "pos": "명사",
+   "meaning": "원고 (손으로 쓴 것)",
+   "en": "The editor reviewed the manuscript carefully.",
+   "ko": "편집자가 원고를 꼼꼼히 검토했어요."
+  }
+ ],
+ "imageSense": "대표 의미: 컨베이어 벨트 위로 제품이 줄지어 나오는 공장",
+ "imageCaption": "장갑 낀 손과 로봇 팔이 함께 물건을 만드는 장면을 떠올려 보세요.",
+ "movieLineEn": "They manufacture car parts in this factory.",
+ "movieLineKo": "이 공장에서 자동차 부품을 만들어.",
+ "storyTitle": "100% 수작업 로봇",
+ "story": "로봇 회사가 광고했어요. '저희 로봇은 100% 수작업 manufacture(제조)!' 그런데 factory(공장) 견학 날, 로봇을 만드는 건 또 다른 로봇이었어요. manufacturer(제조업체) 사장님이 해명했죠. '로봇의 손으로 만들었다는 뜻입니다.' 사용 manual(설명서) 첫 장에도 그렇게 적혀 있었대요. 견학단은 그 설명이 꽤 satisfactory(만족스러운) 반전이라며 박수를 쳤답니다."
+}

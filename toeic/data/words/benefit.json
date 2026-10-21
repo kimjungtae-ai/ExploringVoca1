@@ -1,0 +1,68 @@
+{
+ "word": "benefit",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈbenɪfɪt]",
+ "meaning": "혜택, 이익, (회사의) 복리 후생 / 이익을 얻다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "bene-",
+   "meaning": "좋게, 잘 (well)",
+   "note": "라틴어 bene(잘)에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "fit (fac)",
+   "meaning": "하다, 만들다 (do, make)",
+   "note": "라틴어 facere(하다)에서 온 benefactum(좋은 일)이에요."
+  }
+ ],
+ "summary": "<strong>bene-</strong> (좋게) + <strong>fit</strong> (하다) = '좋은 일을 해 주다'에서 <strong>'혜택, 이익'</strong>이 되었어요.",
+ "historyTitle": "좋은 일을 해 준 것",
+ "historyBody": "라틴어 benefactum은 '잘한 일, 친절'이었어요. 앵글로프랑스어 benfet를 거쳐 영어로 들어와 '이익, 혜택'이 되었죠. 회사가 직원에게 '좋게 해 주는' 건강 보험, 휴가 등이 benefits(복리 후생)예요. bene 가족으로 beneficial(유익한), benefactor(후원자)가 있어요. 반대말 접두사 mal-(나쁘게)도 함께 기억하세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "beneficial",
+   "pos": "형용사",
+   "meaning": "유익한",
+   "en": "Regular breaks are beneficial to productivity.",
+   "ko": "규칙적인 휴식은 생산성에 도움이 돼요."
+  },
+  {
+   "word": "beneficiary",
+   "pos": "명사",
+   "meaning": "수혜자, 수령인",
+   "en": "Name a beneficiary for your insurance policy.",
+   "ko": "보험 수령인을 지정해 주세요."
+  },
+  {
+   "word": "benefactor",
+   "pos": "명사",
+   "meaning": "후원자",
+   "en": "A local benefactor donated the new library.",
+   "ko": "지역 후원자가 새 도서관을 기증했어요."
+  },
+  {
+   "word": "benefit package",
+   "pos": "명사구",
+   "meaning": "복리 후생 제도",
+   "en": "The company offers a generous benefit package.",
+   "ko": "그 회사는 복리 후생이 넉넉해요."
+  },
+  {
+   "word": "benevolent",
+   "pos": "형용사",
+   "meaning": "자비로운",
+   "en": "The founder was known as a benevolent leader.",
+   "ko": "창업자는 너그러운 리더로 알려졌어요."
+  }
+ ],
+ "imageSense": "대표 의미: 회사 복지 안내서에 그려진 건강 검진, 휴가, 간식 아이콘",
+ "imageCaption": "누군가 '좋은 일'을 선물 상자처럼 건네는 모습을 떠올려 보세요.",
+ "movieLineEn": "One of the benefits of this job is free lunch.",
+ "movieLineKo": "이 일의 장점 중 하나는 점심이 공짜라는 거야.",
+ "storyTitle": "최고의 복지",
+ "story": "스타트업이 직원을 모으려고 특별한 benefit package(복리 후생 제도)를 발표했어요. '매일 낮잠 30분 보장!' 지원자가 몰려들었죠. 처음엔 다들 걱정했지만 낮잠은 정말 beneficial(유익한) 효과가 있었어요. 실수가 줄고 아이디어가 늘었거든요. 회사가 가장 큰 benefit(이익)을 얻은 셈이었어요. 사장님은 benevolent(자비로운) 리더로 불렸고, 가장 큰 beneficiary(수혜자)는 매일 1시간씩 자는 사장님 본인이었답니다."
+}

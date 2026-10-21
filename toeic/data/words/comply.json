@@ -1,0 +1,68 @@
+{
+ "word": "comply",
+ "pos": "동사",
+ "phonetic": "[kəmˈplaɪ]",
+ "meaning": "(규칙·요청을) 따르다, 준수하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "com-",
+   "meaning": "완전히 (thoroughly)",
+   "note": "뜻을 강하게 만드는 접두사예요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "ply (plere)",
+   "meaning": "채우다 (fill)",
+   "note": "라틴어 complere(가득 채우다, 다 이행하다)가 이탈리아어 complire(예의를 다하다)를 거쳐 왔어요."
+  }
+ ],
+ "summary": "<strong>com-</strong> (완전히) + <strong>ply</strong> (채우다) = '요구를 완전히 채워 이행하다'에서 <strong>'따르다, 준수하다'</strong>가 되었어요.",
+ "historyTitle": "요구를 꽉 채워 드리는 예의",
+ "historyBody": "라틴어 complere는 '가득 채우다, 다 해내다'였어요. 이탈리아어 complire는 '예의를 다해 상대의 바람을 채워 주다'가 되었고, 영어 comply는 '요청이나 규칙에 따르다'가 되었죠. complete(완성하다), compliment(칭찬, 예의를 채워 주는 말), complement(보완하는 것)가 같은 집안이에요. 'comply with(~을 준수하다)'로 with와 함께 써요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "compliance",
+   "pos": "명사",
+   "meaning": "준수",
+   "en": "All factories must be in compliance with safety rules.",
+   "ko": "모든 공장은 안전 규정을 지켜야 해요."
+  },
+  {
+   "word": "complete",
+   "pos": "동사 / 형용사",
+   "meaning": "완성하다 / 완전한",
+   "en": "Please complete the form and return it.",
+   "ko": "양식을 다 채워서 돌려주세요."
+  },
+  {
+   "word": "compliment",
+   "pos": "명사 / 동사",
+   "meaning": "칭찬(하다)",
+   "en": "The chef received many compliments.",
+   "ko": "셰프가 칭찬을 많이 받았어요."
+  },
+  {
+   "word": "complimentary",
+   "pos": "형용사",
+   "meaning": "무료의; 칭찬하는",
+   "en": "Guests enjoy a complimentary breakfast.",
+   "ko": "투숙객은 무료 조식을 즐겨요."
+  },
+  {
+   "word": "supply",
+   "pos": "명사 / 동사",
+   "meaning": "공급(하다)",
+   "en": "We supply parts to car makers.",
+   "ko": "우리는 자동차 회사에 부품을 공급해요."
+  }
+ ],
+ "imageSense": "대표 의미: 안전모를 쓰고 안전 수칙 표지판 앞에 줄 선 작업자들",
+ "imageCaption": "요구 사항 칸을 하나도 빠짐없이 꽉 채우는 체크리스트를 떠올려 보세요.",
+ "movieLineEn": "All employees must comply with the new rules.",
+ "movieLineKo": "모든 직원은 새 규칙을 따라야 해.",
+ "storyTitle": "규칙을 너무 잘 지키는 로봇",
+ "story": "공장에 새 로봇이 들어왔어요. 로봇은 모든 규칙에 comply(따르다)했죠. '안전모 착용!' 로봇은 머리가 없는데도 안전모를 썼어요. 직원들이 그 완벽한 compliance(준수)에 compliment(칭찬)를 보냈어요. 그런데 '점심시간엔 쉬세요'라는 규칙까지 지키느라 로봇이 12시만 되면 멈췄죠. 결국 공장장이 규칙집을 complete(완성하다)하면서 한 줄을 추가했어요. '로봇은 점심 대신 complimentary(무료의) 충전을 받는다.'"
+}

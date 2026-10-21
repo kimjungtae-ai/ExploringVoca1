@@ -1,0 +1,68 @@
+{
+ "word": "currency",
+ "pos": "명사",
+ "phonetic": "[ˈkɜːrənsi]",
+ "meaning": "통화, 화폐; 통용",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "curr",
+   "meaning": "달리다, 흐르다 (run)",
+   "note": "라틴어 currere(달리다)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ency",
+   "meaning": "~한 상태",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>curr</strong> (흐르다) + <strong>-ency</strong> (상태) = '사람들 사이를 흘러 다니는 것'에서 <strong>'통화, 화폐'</strong>가 되었어요.",
+ "historyTitle": "손에서 손으로 흐르는 돈",
+ "historyBody": "라틴어 currere는 '달리다, 흐르다'였어요. 돈은 사람들 손에서 손으로 '흘러 다니죠'. 그래서 사회에 흘러 다니는 돈이 currency가 되었어요. 물의 흐름인 current(해류, 현재의), 달리는 길인 course(과정), 메시지를 나르는 courier(택배원)가 모두 같은 가족이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "current",
+   "pos": "형용사 / 명사",
+   "meaning": "현재의 / 흐름",
+   "en": "Please update your current address.",
+   "ko": "현재 주소를 업데이트해 주세요."
+  },
+  {
+   "word": "currently",
+   "pos": "부사",
+   "meaning": "현재",
+   "en": "The position is currently open.",
+   "ko": "그 자리는 현재 공석이에요."
+  },
+  {
+   "word": "courier",
+   "pos": "명사",
+   "meaning": "택배(원), 배달 업체",
+   "en": "The documents were sent by courier.",
+   "ko": "서류는 택배로 보냈어요."
+  },
+  {
+   "word": "course",
+   "pos": "명사",
+   "meaning": "강좌, 과정",
+   "en": "She took a course in project management.",
+   "ko": "그녀는 프로젝트 관리 강좌를 들었어요."
+  },
+  {
+   "word": "concurrent",
+   "pos": "형용사",
+   "meaning": "동시에 일어나는",
+   "en": "The two events will be concurrent.",
+   "ko": "두 행사는 동시에 열려요."
+  }
+ ],
+ "imageSense": "대표 의미: 여러 나라의 지폐와 동전이 강물처럼 흘러가는 그림",
+ "imageCaption": "돈이 사람들 손 사이를 물처럼 흘러 다니는 모습을 떠올려 보세요.",
+ "movieLineEn": "What currency do they use in Vietnam?",
+ "movieLineKo": "베트남에서는 어떤 화폐를 써?",
+ "storyTitle": "환전의 달인",
+ "story": "해외 출장을 자주 가는 류 대리는 currency(통화)를 모으는 게 취미였어요. 지갑엔 12개 나라 돈이 있었죠. 그런데 공항에서 커피를 사려니 current(현재의) 나라 돈만 없었어요! 결국 courier(택배원)처럼 환전소를 뛰어다녔지만, 비행기는 이미 떠난 뒤였어요. 류 대리는 currently(현재) 공항 카페에서 일본 엔화로 커피를 사는 course(과정)를 연구 중이랍니다."
+}

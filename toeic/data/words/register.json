@@ -1,0 +1,68 @@
+{
+ "word": "register",
+ "pos": "동사 / 명사",
+ "phonetic": "[ˈredʒɪstər]",
+ "meaning": "등록하다, 신청하다 / 명부, 금전 등록기",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "되돌려, 다시 (back)",
+   "note": "되가져와 기록해 두는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "gister (gest)",
+   "meaning": "나르다, 가져가다 (carry)",
+   "note": "라틴어 gerere(나르다, 하다)의 과거분사 gestus에서 온 regesta(기록된 것들)예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (되가져와) + <strong>gister</strong> (나르다) = '가져와 기록해 둔 것들'에서 <strong>'명부, 등록하다'</strong>가 되었어요.",
+ "historyTitle": "기록으로 가져다 놓은 것",
+ "historyBody": "후기 라틴어 regesta는 '기록으로 옮겨 놓은 것들', 곧 기록부였어요. 중세 라틴어 registrum을 거쳐 영어 register가 되었죠. 이름을 명부에 적으면 '등록하다', 판매를 기록하는 기계는 cash register(금전 등록기)예요. gerere 가족으로 suggest(아래로 가져다 놓다, 제안하다), digest(소화하다)가 있어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "registration",
+   "pos": "명사",
+   "meaning": "등록",
+   "en": "Registration closes on March 15.",
+   "ko": "등록은 3월 15일에 마감돼요."
+  },
+  {
+   "word": "registered",
+   "pos": "형용사",
+   "meaning": "등록된, 등기의",
+   "en": "Send the contract by registered mail.",
+   "ko": "계약서를 등기 우편으로 보내세요."
+  },
+  {
+   "word": "cash register",
+   "pos": "명사구",
+   "meaning": "금전 등록기, 계산대",
+   "en": "Please pay at the cash register.",
+   "ko": "계산대에서 결제해 주세요."
+  },
+  {
+   "word": "suggest",
+   "pos": "동사",
+   "meaning": "제안하다",
+   "en": "I suggest we start the meeting early.",
+   "ko": "회의를 일찍 시작하자고 제안해요."
+  },
+  {
+   "word": "registrar",
+   "pos": "명사",
+   "meaning": "등록 담당자",
+   "en": "Contact the registrar for course changes.",
+   "ko": "수강 변경은 등록 담당자에게 문의하세요."
+  }
+ ],
+ "imageSense": "대표 의미: 행사장 입구 접수대에서 이름표를 받는 참가자들",
+ "imageCaption": "가져온 이름을 커다란 명부에 하나씩 적어 넣는 모습을 떠올려 보세요.",
+ "movieLineEn": "Did you register for the conference?",
+ "movieLineKo": "회의 등록했어?",
+ "storyTitle": "등록만 열 번",
+ "story": "박람회 담당자 연우는 참가자를 register(등록하다)하다 이상한 점을 발견했어요. 같은 사람이 열 번이나 registered(등록된) 상태였어요! 전화를 걸자 그가 말했어요. '확인 메일이 안 와서요.' 알고 보니 메일이 전부 스팸함에 있었어요. 연우는 웃으며 registration(등록)을 하나만 남겼죠. 박람회 날 그는 열 장의 이름표 대신 하나만 받았어요. 연우가 suggest(제안하다)한 대로 그는 앞으로 스팸함부터 보기로 했고, 연우는 '등록 지킴이 registrar(등록 담당자)'라는 별명을 얻었답니다."
+}

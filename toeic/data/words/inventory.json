@@ -1,0 +1,74 @@
+{
+ "word": "inventory",
+ "pos": "명사",
+ "phonetic": "[ˈɪnvəntɔːri]",
+ "meaning": "재고(품), 재고 조사, 물품 목록",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in-",
+   "meaning": "~에, 안으로 (in, upon)",
+   "note": "무언가에 다가가는 느낌이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "vent",
+   "meaning": "오다 (come)",
+   "note": "라틴어 venire(오다)에서 왔어요. invenire는 '와서 마주치다, 찾아내다'예요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ory",
+   "meaning": "~한 것의 목록·장소",
+   "note": "라틴어 -orium에서 온 명사 꼬리예요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~에) + <strong>vent</strong> (오다) + <strong>-ory</strong> (것) = '찾아낸 물건들의 목록'에서 <strong>'재고, 재고 조사'</strong>가 되었어요.",
+ "historyTitle": "세상을 떠난 사람의 재산 목록",
+ "historyBody": "중세 라틴어 inventarium은 집 안에서 '찾아낸' 재산을 하나하나 적은 목록이었어요. 이 말이 오늘날 가게와 창고의 재고 목록이 되었죠. invent(발명하다, 원래 '찾아내다')와 같은 뿌리예요. 토익의 'closed for inventory'는 '재고 조사로 휴점'이라는 뜻이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "invent",
+   "pos": "동사",
+   "meaning": "발명하다 (찾아내다)",
+   "en": "The engineer invented a cheaper way to package goods.",
+   "ko": "그 기술자는 상품을 더 싸게 포장하는 방법을 고안했어요."
+  },
+  {
+   "word": "event",
+   "pos": "명사",
+   "meaning": "행사 (밖으로 나온 일)",
+   "en": "The company event will be held in the main hall.",
+   "ko": "회사 행사는 본관 홀에서 열려요."
+  },
+  {
+   "word": "convention",
+   "pos": "명사",
+   "meaning": "대회, 총회 (함께 모임)",
+   "en": "Over 3,000 people attended the trade convention.",
+   "ko": "3천 명 넘게 무역 박람회에 참석했어요."
+  },
+  {
+   "word": "venue",
+   "pos": "명사",
+   "meaning": "(행사) 장소",
+   "en": "The venue for the awards dinner has changed.",
+   "ko": "시상식 만찬 장소가 바뀌었어요."
+  },
+  {
+   "word": "revenue",
+   "pos": "명사",
+   "meaning": "수익, 매출 (되돌아오는 돈)",
+   "en": "Online sales now account for half of our revenue.",
+   "ko": "이제 온라인 판매가 매출의 절반이에요."
+  }
+ ],
+ "imageSense": "대표 의미: 창고에서 클립보드를 들고 상자 수를 세는 직원",
+ "imageCaption": "선반 사이를 오가며 상자를 하나씩 세어 목록에 적는 모습을 떠올려 보세요.",
+ "movieLineEn": "Let's check the inventory before we order more.",
+ "movieLineKo": "더 주문하기 전에 재고부터 확인하자.",
+ "storyTitle": "사라진 우산 100개",
+ "story": "편의점 점장님이 inventory(재고 조사)를 하다가 우산 100개가 사라진 걸 알았어요. 범인을 찾으려 CCTV를 돌리던 중 알바생이 손을 들었죠. '어제 비 와서 다 팔았는데요?' 그날 revenue(매출)는 사상 최고! 점장님은 우산을 invent(발명하다)한 사람에게 감사하며 다음 event(행사) 장소, 즉 venue(장소)를 우산 가게로 정했답니다."
+}

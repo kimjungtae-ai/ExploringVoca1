@@ -1,0 +1,68 @@
+{
+ "word": "retail",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈriːteɪl]",
+ "meaning": "소매(업) / 소매로 팔다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "re-",
+   "meaning": "다시 (again)",
+   "note": "한 번 더 하는 동작이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "tail",
+   "meaning": "자르다 (cut)",
+   "note": "고대 프랑스어 tailler(자르다)에서 왔어요. tailor(재단사)와 같은 뿌리예요."
+  }
+ ],
+ "summary": "<strong>re-</strong> (다시) + <strong>tail</strong> (자르다) = '큰 덩어리를 다시 잘게 잘라 팔다'에서 <strong>'소매'</strong>가 되었어요.",
+ "historyTitle": "잘라 파는 가게, 재단사와 형제",
+ "historyBody": "고대 프랑스어 retaillier는 '다시 잘라 내다'였어요. 도매상에게 큰 덩어리로 사 온 옷감이나 치즈를 손님에게 '잘게 잘라' 파는 것이 소매였죠. 옷감을 자르는 tailor(재단사), 자세히 잘라 보는 detail(세부)이 같은 가족이에요. wholesale(도매)과 짝으로 외우세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "retailer",
+   "pos": "명사",
+   "meaning": "소매업체",
+   "en": "The retailer has 50 stores nationwide.",
+   "ko": "그 소매업체는 전국에 매장이 50개예요."
+  },
+  {
+   "word": "detail",
+   "pos": "명사",
+   "meaning": "세부 사항",
+   "en": "Please check the details of the contract.",
+   "ko": "계약 세부 사항을 확인해 주세요."
+  },
+  {
+   "word": "tailor",
+   "pos": "명사 / 동사",
+   "meaning": "재단사 / 맞추다",
+   "en": "We can tailor the program to your needs.",
+   "ko": "프로그램을 필요에 맞게 조정해 드릴 수 있어요."
+  },
+  {
+   "word": "wholesale",
+   "pos": "명사 / 형용사",
+   "meaning": "도매(의)",
+   "en": "We buy coffee beans at wholesale prices.",
+   "ko": "커피 원두를 도매가로 사요."
+  },
+  {
+   "word": "retail price",
+   "pos": "명사구",
+   "meaning": "소매 가격",
+   "en": "The retail price is $29.99.",
+   "ko": "소매가는 29.99달러예요."
+  }
+ ],
+ "imageSense": "대표 의미: 큰 치즈 덩어리를 잘라 손님에게 파는 가게 주인",
+ "imageCaption": "커다란 덩어리가 작은 조각으로 잘려 손님 손에 가는 모습을 떠올려 보세요.",
+ "movieLineEn": "She works in retail at a big shopping mall.",
+ "movieLineKo": "그녀는 큰 쇼핑몰에서 판매 일을 해.",
+ "storyTitle": "치즈 가게의 대반전",
+ "story": "작은 retailer(소매업체) 사장님은 커다란 치즈를 wholesale(도매) 가격에 사 와서 잘라 팔았어요. 손님마다 원하는 크기로 tailor(맞추다)해 주는 게 자랑이었죠. 어느 날 손님이 '아주 얇게!'라고 하자 사장님은 detail(세부)에 집착하며 종이처럼 잘랐어요. 너무 얇아서 retail price(소매 가격)가 10원! 그 '투명 치즈'는 SNS에서 유명해져 가게 앞에 줄이 섰답니다."
+}

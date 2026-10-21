@@ -1,0 +1,68 @@
+{
+ "word": "deposit",
+ "pos": "명사 / 동사",
+ "phonetic": "[dɪˈpɑːzɪt]",
+ "meaning": "보증금, 예금, 계약금 / 맡기다, 예금하다, 내려놓다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "de-",
+   "meaning": "아래로 (down)",
+   "note": "아래쪽으로 내려놓는 방향이에요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "posit",
+   "meaning": "놓다 (put)",
+   "note": "라틴어 ponere(놓다), 과거분사 positus에서 왔어요."
+  }
+ ],
+ "summary": "<strong>de-</strong> (아래로) + <strong>posit</strong> (놓다) = '아래에 내려놓아 맡기다'에서 <strong>'예금, 보증금'</strong>이 되었어요.",
+ "historyTitle": "믿고 내려놓아 두는 돈",
+ "historyBody": "라틴어 depositum은 '맡겨 둔 것'이었어요. 누군가에게 소중한 것을 내려놓아 맡기는 것이죠. 은행에 돈을 내려놓으면 예금, 집이나 홀을 빌릴 때 맡기는 돈은 보증금이에요. ponere(놓다)에서 position(위치), postpone(뒤로 놓다), compose(함께 놓다)도 나왔어요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "security deposit",
+   "pos": "명사구",
+   "meaning": "보증금",
+   "en": "A security deposit of one month's rent is required.",
+   "ko": "한 달 치 월세를 보증금으로 내야 해요."
+  },
+  {
+   "word": "deposit slip",
+   "pos": "명사구",
+   "meaning": "입금표",
+   "en": "Fill out a deposit slip at the counter.",
+   "ko": "창구에서 입금표를 작성하세요."
+  },
+  {
+   "word": "position",
+   "pos": "명사",
+   "meaning": "직책, 위치",
+   "en": "She applied for the position of editor.",
+   "ko": "그녀는 편집자 자리에 지원했어요."
+  },
+  {
+   "word": "compose",
+   "pos": "동사",
+   "meaning": "구성하다, 작곡하다",
+   "en": "The team is composed of five engineers.",
+   "ko": "팀은 엔지니어 다섯 명으로 구성돼요."
+  },
+  {
+   "word": "expose",
+   "pos": "동사",
+   "meaning": "노출시키다",
+   "en": "Do not expose the product to direct sunlight.",
+   "ko": "제품을 직사광선에 두지 마세요."
+  }
+ ],
+ "imageSense": "대표 의미: 은행 창구에 돈과 입금표를 내려놓는 손",
+ "imageCaption": "소중한 것을 믿을 만한 곳에 살며시 내려놓는 모습을 떠올려 보세요.",
+ "movieLineEn": "You need to pay a deposit to book the room.",
+ "movieLineKo": "방을 예약하려면 계약금을 내야 해.",
+ "storyTitle": "돌려받은 보증금",
+ "story": "이사를 나가던 석진 씨는 security deposit(보증금)을 돌려받을 수 있을까 걱정했어요. 벽에 낙서가 가득했거든요! 집주인이 와서 벽을 한참 보더니 말했어요. '이거 그림이에요? 정말 멋지네요!' 사실 석진 씨는 화가였고, 낙서는 습작이었죠. 집주인은 deposit(보증금)을 전부 돌려주고 벽을 그대로 두기로 했어요. 그 집은 이제 '그림 있는 집'으로 compose(구성하다)된 인기 매물이에요. 석진 씨의 그림은 동네 갤러리에 expose(노출하다)되어 첫 전시회 position(자리)도 얻었답니다."
+}

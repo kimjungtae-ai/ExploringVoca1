@@ -1,0 +1,68 @@
+{
+ "word": "subscribe",
+ "pos": "동사",
+ "phonetic": "[səbˈskraɪb]",
+ "meaning": "구독하다, 가입하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "sub-",
+   "meaning": "아래에 (under)",
+   "note": "서류 맨 아래 자리를 가리켜요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "scribe",
+   "meaning": "쓰다 (write)",
+   "note": "라틴어 scribere(쓰다)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>sub-</strong> (아래에) + <strong>scribe</strong> (쓰다) = '서류 아래에 이름을 써서 약속하다'에서 <strong>'구독하다, 가입하다'</strong>가 되었어요.",
+ "historyTitle": "명단 아래에 이름을 쓰던 구독",
+ "historyBody": "옛날에는 책을 내기 전에 사람들에게 미리 돈을 받고 명단 아래에 이름을 쓰게 했어요. 그것이 subscription(구독)의 시작이에요. 지금은 잡지, 소프트웨어, 뉴스레터 구독도 같은 말로 불러요. scrib/script가 보이면 '쓰다'를 떠올리세요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "subscription",
+   "pos": "명사",
+   "meaning": "구독(료), 가입",
+   "en": "Your subscription will be renewed automatically.",
+   "ko": "구독은 자동으로 갱신돼요."
+  },
+  {
+   "word": "subscriber",
+   "pos": "명사",
+   "meaning": "구독자, 가입자",
+   "en": "The magazine has over 50,000 subscribers.",
+   "ko": "그 잡지는 구독자가 5만 명이 넘어요."
+  },
+  {
+   "word": "describe",
+   "pos": "동사",
+   "meaning": "설명하다, 묘사하다",
+   "en": "Please describe the problem in detail.",
+   "ko": "문제를 자세히 설명해 주세요."
+  },
+  {
+   "word": "prescription",
+   "pos": "명사",
+   "meaning": "처방(전)",
+   "en": "You need a prescription for this medicine.",
+   "ko": "이 약은 처방전이 필요해요."
+  },
+  {
+   "word": "script",
+   "pos": "명사",
+   "meaning": "대본, 원고",
+   "en": "The speaker read from a prepared script.",
+   "ko": "연사는 준비한 원고를 읽었어요."
+  }
+ ],
+ "imageSense": "대표 의미: 노트북 화면의 '구독하기' 버튼과 쌓이는 뉴스레터",
+ "imageCaption": "신청서 맨 아래 칸에 사인하는 손을 떠올려 보세요.",
+ "movieLineEn": "Don't forget to subscribe to our channel.",
+ "movieLineKo": "우리 채널 구독하는 거 잊지 마.",
+ "storyTitle": "구독 해지 대모험",
+ "story": "현수는 무료 체험이라는 말에 운동 앱을 subscribe(구독하다)했어요. 한 달 뒤 subscription(구독)을 끊으려는데 버튼이 안 보였죠. 메뉴를 열고 또 열고, 30분 동안 화면을 오르내리며 땀을 흘렸어요. 마침내 찾은 버튼 아래 script(문구)는 이랬어요. '축하합니다, 오늘 운동량 달성!' 앱이 describe(설명하다)한 대로, 그건 진짜 운동 prescription(처방)이었답니다."
+}

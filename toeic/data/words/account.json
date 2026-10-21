@@ -1,0 +1,68 @@
+{
+ "word": "account",
+ "pos": "명사 / 동사",
+ "phonetic": "[əˈkaʊnt]",
+ "meaning": "계좌, 계정, 거래처, 설명 / (for) 설명하다, 차지하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "ac- (ad-)",
+   "meaning": "~에 (to)",
+   "note": "ad-가 c 앞에서 ac-로 바뀌었어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "count",
+   "meaning": "세다, 계산하다 (count)",
+   "note": "고대 프랑스어 conter, 라틴어 computare에서 왔어요."
+  }
+ ],
+ "summary": "<strong>ac-</strong> (~에) + <strong>count</strong> (세다) = '셈을 해서 기록하다'에서 <strong>'계좌, 계정, 설명'</strong>이 되었어요.",
+ "historyTitle": "셈을 적어 두는 장부",
+ "historyBody": "고대 프랑스어 aconter는 '셈하다, 장부에 적다'였어요. 은행에서 돈을 세어 적어 두는 곳이 계좌, 웹사이트에서 나를 기록해 두는 곳이 계정이에요. 셈을 따지듯 이유를 하나하나 밝히면 '설명하다(account for)'가 되죠. 'account for 30% of sales(매출의 30%를 차지하다)'는 토익 Part 7 필수 표현이에요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "accountant",
+   "pos": "명사",
+   "meaning": "회계사",
+   "en": "Our accountant prepares the tax returns.",
+   "ko": "우리 회계사가 세금 신고서를 준비해요."
+  },
+  {
+   "word": "accounting",
+   "pos": "명사",
+   "meaning": "회계",
+   "en": "She majored in accounting in college.",
+   "ko": "그녀는 대학에서 회계를 전공했어요."
+  },
+  {
+   "word": "accountable",
+   "pos": "형용사",
+   "meaning": "책임이 있는",
+   "en": "Managers are accountable for their team's results.",
+   "ko": "관리자는 팀 성과에 책임이 있어요."
+  },
+  {
+   "word": "account for",
+   "pos": "동사구",
+   "meaning": "설명하다; 차지하다",
+   "en": "Online orders account for 40 percent of sales.",
+   "ko": "온라인 주문이 매출의 40퍼센트를 차지해요."
+  },
+  {
+   "word": "accountability",
+   "pos": "명사",
+   "meaning": "책임(성)",
+   "en": "The new policy increases accountability.",
+   "ko": "새 정책은 책임성을 높여 줘요."
+  }
+ ],
+ "imageSense": "대표 의미: 은행 앱 화면에 표시된 계좌 잔액",
+ "imageCaption": "장부에 숫자를 하나씩 세어 적는 모습을 떠올려 보세요.",
+ "movieLineEn": "I'd like to open a bank account.",
+ "movieLineKo": "은행 계좌를 하나 만들고 싶어요.",
+ "storyTitle": "잊어버린 비밀번호",
+ "story": "준서는 새 쇼핑몰 account(계정)를 만들었는데 비밀번호를 잊어버렸어요. 다시 만들고, 또 잊고… 결국 계정이 열두 개! 회사 accountant(회계사)인 누나가 말했어요. '네 기억력을 account for(설명하다)할 방법이 없네.' 준서는 비밀번호를 accounting(회계) 장부처럼 정리했어요. 그 뒤로 그는 집안 비밀번호 관리에 accountable(책임이 있는) 사람이 되었답니다."
+}

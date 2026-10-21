@@ -1,0 +1,62 @@
+{
+ "word": "memo",
+ "pos": "명사",
+ "phonetic": "[ˈmemoʊ]",
+ "meaning": "(사내) 메모, 회람, 업무 연락",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "memo",
+   "meaning": "기억하다 (remember)",
+   "note": "라틴어 memorare(기억하게 하다), memor(기억하는)에서 왔어요. memorandum의 줄임말이에요."
+  }
+ ],
+ "summary": "<strong>memo</strong>는 라틴어 <strong>memorandum</strong>(기억되어야 할 것)의 줄임말로 <strong>'메모, 회람'</strong>이 되었어요.",
+ "historyTitle": "기억되어야 할 것",
+ "historyBody": "memorandum은 라틴어로 '기억되어야 할 것'이라는 뜻이에요. 15세기 영국에서는 기록 맨 앞에 'memorandum'이라고 써서 '이것을 기억할 것'을 표시했어요. 20세기에 짧게 줄여 memo가 되었고, 지금은 사내 공지 문서를 가리켜요. 토익 Part 7에는 memo 지문이 정말 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "memorandum",
+   "pos": "명사",
+   "meaning": "회람, 각서",
+   "en": "A memorandum was sent to all staff.",
+   "ko": "모든 직원에게 회람이 전달됐어요."
+  },
+  {
+   "word": "memory",
+   "pos": "명사",
+   "meaning": "기억(력), 메모리",
+   "en": "The new laptops have more memory.",
+   "ko": "새 노트북은 메모리가 더 커요."
+  },
+  {
+   "word": "memorable",
+   "pos": "형용사",
+   "meaning": "기억에 남는",
+   "en": "Thank you for a memorable evening.",
+   "ko": "잊지 못할 저녁 감사해요."
+  },
+  {
+   "word": "commemorate",
+   "pos": "동사",
+   "meaning": "기념하다",
+   "en": "The event commemorates our 50th anniversary.",
+   "ko": "그 행사는 창립 50주년을 기념해요."
+  },
+  {
+   "word": "memorize",
+   "pos": "동사",
+   "meaning": "외우다",
+   "en": "Please memorize your employee number.",
+   "ko": "사번을 외워 두세요."
+  }
+ ],
+ "imageSense": "대표 의미: 게시판에 붙은 '전 직원 필독' 회람 문서",
+ "imageCaption": "'이것을 꼭 기억할 것!'이라고 적힌 종이를 떠올려 보세요.",
+ "movieLineEn": "Did you read the memo about the new policy?",
+ "movieLineKo": "새 정책 관련 회람 읽었어?",
+ "storyTitle": "기억에 남는 회람",
+ "story": "총무팀이 'memo(회람)를 꼭 읽으세요'라는 memo(회람)를 보냈어요. 아무도 읽지 않자 다음 날엔 '회람 읽으라는 회람을 읽으세요'가 왔죠. 직원들은 웃음이 터졌고, 그 회람은 사내에서 가장 memorable(기억에 남는) 문서가 되었어요. 연말엔 그 회람을 commemorate(기념하다)하는 상까지 생겼답니다. 모두 내용을 memorize(외우다)했지만, 처음 회람에 뭐가 적혀 있었는지는 아무의 memory(기억)에도 없대요."
+}

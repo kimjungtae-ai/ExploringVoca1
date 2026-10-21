@@ -1,0 +1,74 @@
+{
+ "word": "insurance",
+ "pos": "명사",
+ "phonetic": "[ɪnˈʃʊrəns]",
+ "meaning": "보험, 보험금",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "접두사 (Prefix)",
+   "part": "in- (en-)",
+   "meaning": "~하게 만들다 (make)",
+   "note": "고대 프랑스어 en-에서 왔어요."
+  },
+  {
+   "type": "어근 (Root)",
+   "part": "sur",
+   "meaning": "확실한, 안전한 (sure)",
+   "note": "고대 프랑스어 seur, 라틴어 securus(걱정 없는)에서 왔어요."
+  },
+  {
+   "type": "접미사 (Suffix)",
+   "part": "-ance",
+   "meaning": "~하는 것",
+   "note": "명사를 만드는 꼬리예요."
+  }
+ ],
+ "summary": "<strong>in-</strong> (~하게 만들다) + <strong>sur</strong> (확실한) + <strong>-ance</strong> = '확실하게, 안전하게 만들어 두는 것'에서 <strong>'보험'</strong>이 되었어요.",
+ "historyTitle": "걱정 없게 만드는 약속",
+ "historyBody": "라틴어 securus는 se-(없이) + cura(걱정), 곧 '걱정 없는'이었어요. 여기서 secure(안전한), sure(확실한)가 나왔죠. 바다 무역이 발달한 중세 유럽에서는 배가 침몰할 때를 대비해 미리 돈을 모아 두었는데, 이것이 근대 보험의 출발점 중 하나예요. insure(보험에 들다)와 ensure(보장하다)를 구별하는 문제가 토익에 자주 나와요.",
+ "caution": false,
+ "familyWords": [
+  {
+   "word": "insure",
+   "pos": "동사",
+   "meaning": "보험에 들다",
+   "en": "We insure all packages against damage.",
+   "ko": "모든 소포에 파손 보험을 들어요."
+  },
+  {
+   "word": "ensure",
+   "pos": "동사",
+   "meaning": "보장하다, 확실히 하다",
+   "en": "Please ensure that all doors are locked.",
+   "ko": "모든 문이 잠겼는지 꼭 확인하세요."
+  },
+  {
+   "word": "assure",
+   "pos": "동사",
+   "meaning": "장담하다, 안심시키다",
+   "en": "I assure you the order will arrive on time.",
+   "ko": "주문이 제때 도착할 거라고 장담드려요."
+  },
+  {
+   "word": "secure",
+   "pos": "형용사 / 동사",
+   "meaning": "안전한 / 확보하다",
+   "en": "The company secured a large government contract.",
+   "ko": "회사가 큰 정부 계약을 따냈어요."
+  },
+  {
+   "word": "security",
+   "pos": "명사",
+   "meaning": "보안, 경비",
+   "en": "Please show your ID to security.",
+   "ko": "경비실에 신분증을 보여 주세요."
+  }
+ ],
+ "imageSense": "대표 의미: 우산 아래 집과 자동차가 비를 피하는 그림",
+ "imageCaption": "갑작스러운 비에도 우산 아래에서 걱정 없는 모습을 떠올려 보세요.",
+ "movieLineEn": "Does your insurance cover this?",
+ "movieLineKo": "이거 네 보험으로 처리돼?",
+ "storyTitle": "모든 것에 보험을",
+ "story": "걱정 많은 고 과장은 모든 것에 insurance(보험)를 들었어요. 휴대폰, 자전거, 화분, 심지어 점심 도시락까지 insure(보험에 들다)했죠. 직원들이 놀리자 그는 말했어요. '이래야 마음이 secure(안전한)해져요.' 그런데 어느 날 도시락이 정말 사라졌어요! 보험사 직원이 assure(장담하다)한 대로 보상금이 나왔고, 그 돈으로 고 과장은 팀 전체에 피자를 샀어요. 행복을 ensure(보장하다)하는 보험이었답니다."
+}

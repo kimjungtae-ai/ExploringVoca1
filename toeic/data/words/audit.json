@@ -1,0 +1,62 @@
+{
+ "word": "audit",
+ "pos": "명사 / 동사",
+ "phonetic": "[ˈɔːdɪt]",
+ "meaning": "회계 감사 / 감사하다, (수업을) 청강하다",
+ "isDifficultToSplit": false,
+ "morphemes": [
+  {
+   "type": "어근 (Root)",
+   "part": "aud",
+   "meaning": "듣다 (hear)",
+   "note": "라틴어 audire(듣다), auditus(들음)에서 왔어요."
+  }
+ ],
+ "summary": "<strong>aud</strong> (듣다) = 장부를 큰 소리로 읽고 '들으며' 확인하던 데서 <strong>'회계 감사'</strong>가 되었어요.",
+ "historyTitle": "장부를 귀로 검사하던 시절",
+ "historyBody": "중세에는 글을 읽을 줄 아는 사람이 많지 않아서 회계 장부를 큰 소리로 읽고, 감독관이 그것을 '들으며' 확인했다고 전해져요. 그래서 '들음'을 뜻하는 auditus가 회계 감사가 되었죠. audience(청중), audio(소리), auditorium(강당)이 같은 '듣다' 가족이에요.",
+ "caution": true,
+ "familyWords": [
+  {
+   "word": "auditor",
+   "pos": "명사",
+   "meaning": "감사관, 회계 감사인",
+   "en": "An outside auditor will check our records.",
+   "ko": "외부 감사인이 기록을 점검할 거예요."
+  },
+  {
+   "word": "audience",
+   "pos": "명사",
+   "meaning": "청중, 관객",
+   "en": "The speaker thanked the audience.",
+   "ko": "연사가 청중에게 감사를 전했어요."
+  },
+  {
+   "word": "auditorium",
+   "pos": "명사",
+   "meaning": "강당",
+   "en": "The ceremony will be held in the auditorium.",
+   "ko": "기념식은 강당에서 열려요."
+  },
+  {
+   "word": "audio",
+   "pos": "명사 / 형용사",
+   "meaning": "음향(의)",
+   "en": "Please test the audio system before the event.",
+   "ko": "행사 전에 음향 장비를 점검해 주세요."
+  },
+  {
+   "word": "audition",
+   "pos": "명사",
+   "meaning": "오디션",
+   "en": "The theater is holding auditions next week.",
+   "ko": "극단이 다음 주에 오디션을 열어요."
+  }
+ ],
+ "imageSense": "대표 의미: 감사관이 서류 더미를 넘기며 귀를 기울이는 장면",
+ "imageCaption": "누군가 장부를 큰 소리로 읽고 다른 사람이 귀 기울여 듣는 모습을 떠올려 보세요.",
+ "movieLineEn": "We have an audit next month.",
+ "movieLineKo": "다음 달에 회계 감사가 있어.",
+ "storyTitle": "노래하는 회계 감사",
+ "story": "회사에 audit(회계 감사)이 다가오자 재무팀은 긴장했어요. 그런데 새로 온 auditor(감사인)가 독특했죠. '장부를 노래로 읽어 주세요. 옛날엔 귀로 감사했거든요.' 결국 재무팀은 auditorium(강당)에서 숫자를 노래로 불렀어요. 직원들이 audience(관객)가 되어 박수를 쳤죠. 감사는 무사히 끝났고, 팀장님은 그날 이후 뮤지컬 audition(오디션)에 지원했답니다."
+}
